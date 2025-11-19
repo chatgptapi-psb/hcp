@@ -1,0 +1,94 @@
+What’s the Difference Between Gross Profit and Revenue Commissions?
+Source: https://help.housecallpro.com/en/articles/12657750-what-s-the-difference-between-gross-profit-and-revenue-commissions
+Author: Angela G
+Last updated: Updated over 2 weeks ago
+
+You can choose how your commissions are calculated under Settings → Commissions.
+
+Housecall Pro supports two calculation types: Revenue-based and Gross Profit-based. Understanding the difference helps you choose the method that best fits your business.
+
+---
+
+⚙️ How to Select Your Commission Type
+
+- Go to Settings → Commissions
+
+- Under Calculation Type, choose either: - Revenue-based
+- Gross Profit-based
+
+- Click Save
+
+---
+
+💰 Revenue-Based Commissions
+
+Definition: Revenue-based commissions are calculated on the total job revenue — the amount billed to your customer before any costs are subtracted.
+
+Example:
+
+- Job revenue: $2,000
+- Technician’s commission rate: 10%
+- Commission earned: $200
+
+When to use it:
+
+- You want a simple commission structure.
+- You pay based on sales volume or total job value.
+
+How it works in Housecall Pro:
+
+- Commissions can be calculated by line item (specific services or products) or by manual split.
+- You can also split total job revenue between multiple team members using manual split commissions (for example, 50/50 or 70/30 splits).
+- This is best for businesses that don’t need to factor in material or labor costs.
+
+---
+
+🧮 Gross Profit-Based Commissions
+
+Definition: Gross profit commissions are calculated after deducting your job’s unit and labor costs. The commission is based on the profit remaining after those expenses.
+
+Formula: Gross Profit = Revenue – (Material Costs + Labor Costs)
+
+Example:
+
+- Job revenue: $2,000
+- Material cost: $500
+- Labor cost: $300
+- Gross profit: $1,200
+- Technician’s commission rate: 10%
+- Commission earned: $120
+
+When to use it:
+
+- You want to reward profitability instead of total sales.
+- You have jobs with different cost margins.
+
+How it works in Housecall Pro:
+
+- When you select Gross Profit, the system automatically factors in your recorded material and labor costs.
+- You can split the gross profit between multiple team members using manual split commissions (e.g., 50/50, 70/30, or custom splits).
+- This ensures commissions align with actual profit earned on the job.
+
+---
+
+🔢 Choosing the Right Option
+
+Table:
+Row 1: Use Case | Recommended Method
+Row 2: Paying on total job value | Revenue-based
+Row 3: Rewarding profit efficiency | Gross profit-based
+Row 4: Paying on specific services or materials | Revenue-based (line item)
+Row 5: Splitting commissions across team members | Both methods support manual split
+Row 6: Balancing between selling and performing techs | Gross profit with manual split
+
+---
+
+✅ Key Takeaways
+
+- Choose your calculation type under Settings → Commissions.
+- Revenue-based = commissions on total job revenue.
+- Gross profit-based = commissions on profit after costs.
+- Gross profit includes both unit/material costs and labor costs.
+- Both methods support manual splits for sharing commissions between team members.
+
+---

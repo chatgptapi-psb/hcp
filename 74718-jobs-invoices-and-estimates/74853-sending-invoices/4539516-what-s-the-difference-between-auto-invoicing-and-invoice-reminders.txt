@@ -1,0 +1,40 @@
+What's the difference between Auto Invoicing and Invoice Reminders?
+Source: https://help.housecallpro.com/en/articles/4539516-what-s-the-difference-between-auto-invoicing-and-invoice-reminders
+Author: Francisco C
+Last updated: Updated over 3 months ago
+
+Summary: Learn key differences of these two features to determine which will best serve your business needs.
+
+What is Auto Invoicing?
+
+- Auto Invoicing generates a batch invoice email that includes individual invoices for all jobs marked as finished but not fully paid since the last invoice was sent. Each invoice is attached separately within a single email. This feature is configured per customer in their Customer Profile, near the bottom of the left-hand menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1217358419/816792c701df24d235a23f32ef1a/Screenshot+2024-10-15+at+4_14_23%E2%80%AFPM.png?expires=1763568000&signature=c061b1a6d9036da8f9a602a0419db81049391410d54844a3b539135063482278&req=dSImEcp7lYVeUPMW1HO4zVYur8g%2BbYmP%2FJXjZiRanvqwWy4L6HvGqfJhdR6s%0A6XgFbSSQbU0LXXnaEok%3D%0A
+
+- When you set up auto invoicing, we will not send your customer an email with all outstanding invoices. Going forward, any jobs that are marked as finished but not fully paid will be included in the auto-invoice at the cadence that you set up.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1217373030/3f61ec0d14589e115ba2f7cd8149/Screenshot+2024-10-15+at+4_43_40%E2%80%AFPM.png?expires=1763568000&signature=5837ba3770debe2460cf86f73306390380fcfb1ae99f545b7bb65ba62d7854a0&req=dSImEcp5noFcWfMW1HO4zY6IKP9FsSHMcgPDiWeJ19FAgPr53Xb0dAAtKuri%0AYBdoHuVbs9XvD3OwQTw%3D%0A
+
+---
+
+Invoice Reminders
+
+- Invoice reminders are set up to automatically remind customers of past due invoices that they have already received and that they still need to pay.
+
+- The settings for this page can be found in the Account Settings Page> Invoices> Automations.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1633239894/d8e4629f5be8cb21c0e3c85d6df6/image.png?expires=1763568000&signature=24fce5d758575b7217f45793bd6e67cd3d737692200a934f926003ddda02a677&req=dSYkFct9lIlWXfMW1HO4zW2dCqimeAs9rzWQJfdAQKeeUCb86fo8mE0229H9%0ABREgn%2B1yWG7kxDeAl8I%3D%0A
+
+- When you establish your auto invoicing cadence, Housecall Pro will automatically send a reminder email to your customer for those invoices that have been marked as finished, have an invoice due date, a balance greater than $0, and where the invoice has already been sent to the customer. Invoice reminders will start going out after the invoice due date has passed and the invoice is still unpaid. ​
+
+---
+
+Key Difference
+
+The key difference between Auto Invoicing and Invoice Reminders is:
+
+- Invoice reminders will only be sent to customers for invoices they have already received. Remember, it's a reminder.
+
+- Auto invoicing sends invoices to customers for new jobs that have been marked as finished, but the customer has yet to receive the invoice.
+
+---

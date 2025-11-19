@@ -1,0 +1,32 @@
+What are my options for communicating with my customers from the mobile app?
+Source: https://help.housecallpro.com/en/articles/4793277-what-are-my-options-for-communicating-with-my-customers-from-the-mobile-app
+Author: Taylor M
+Last updated: Updated over 3 weeks ago
+
+Summary: Learn what the different messaging icons do from the customer profile on the mobile app
+
+How can I contact my customer using the app?
+
+- From the mobile app, clicking on the customer's profile will give you a few options for communicating with that customer. Let's break down what each of these options means:
+
+[Image] https://downloads.intercomcdn.com/i/o/287295760/723fb6a172cd2d1087eb3b2c/image.png?expires=1763568000&signature=0dcb0a9ac2d77fa2e5b5ef6c6c76073a42484debfcd95b9a3f14b9c1c6901741&req=diggFMB7modfFb4f3HP0gEwiuyF74nDw08cOCjC3Y%2FYbcF1wXQPWUw%2Bh1O3y%0A1Ib57QOiCtJMM0297A%3D%3D%0A
+
+Send an SMS message via Housecall Pro
+
+- Clicking on this icon will allow you to message your customer without leaving the Housecall Pro app. This feature will be available to you so long as you have registered and selected your Custom Texting Number.
+
+For a walkthrough of the registration process, you can go here.
+
+Send an email
+
+- Clicking on this icon will open your default email app on your mobile device, where you can then type out and send an email to your customer. This message will come from your email address and is not sent through Housecall Pro.
+
+Call or text using your cell network
+
+- Clicking either of these icons will allow you to call or text your customer directly from your mobile device. This is the same as calling or texting a family member or friend since they will see your mobile device's phone number.
+
+---
+
+Having trouble finding what you need?
+
+Use the blue bubble to reach out to our chat team for live customer support. If you’d prefer to talk it out over the phone, call our support number at 858-842-5746.

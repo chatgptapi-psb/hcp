@@ -1,0 +1,146 @@
+How to Create a Job
+Source: https://help.housecallpro.com/en/articles/3181752-how-to-create-a-job
+Author: Shontiquia K
+Last updated: Updated over a week ago
+
+Summary: Step-by-step instructions showing how to create, dispatch, & schedule a job.
+
+Jobs Overview
+
+Creating a job in Housecall Pro allows you to schedule work, manage customer details, and track job progress all in one place. From the New Job page, you can enter customer information, add service line items, assign team members, attach notes or files, and schedule the job.
+
+This article walks you through how to create a job from the HCP Web Portal, as well as from the Mobile App (both iOS and Android). You’ll also learn how to use Pro Mode for more flexibility when entering job details.
+
+---
+
+Create a Job (HCP Web Portal)
+
+- Click the 'New' button in the top navigation bar and select 'Job' from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/858453676/c25173227e8bacbecc719893/image.png?expires=1763568000&signature=8d463d5cff51a778663f42f84eba8cd6c9547b1a2fe6174b83c330cb0454fe7f&req=fCUvEsx9m4ZZFb4f3HP0gEWHtMLhi3q%2FmEyOJLGMqTVblzzl8W4ik6q%2F%2BKvz%0AMh0VsooWPKBBG7k5UA%3D%3D%0A
+
+- You can make the additional selections below from the New Job page or from the Job details page (accessible after saving the job): - Schedule the job
+- Dispatch an employee
+- Choose a Job Template
+- Line Items
+- Notes
+- Checklists
+- Job Fields
+- Tags
+- Lead Sources
+- Attachments
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1543610902/4b6a28ff4dbec8290064d0d7e0fb/image.png?expires=1763568000&signature=f321f5785f8ae8f931b46566e8c17b21d1bee4590a2af78e0d9d91a729bfa6a0&req=dSUjFc9%2FnYhfW%2FMW1HO4zWdNj%2F034GDcD1qcf3W4YWMc15bi%2BY6Xj04BkfZA%0AdZx%2BwEMMJmVR0MWEyFo%3D%0A
+
+- After saving the job, you will have the options to: - Add Segments
+- Select and edit the options provided above
+- Add a Deposit
+- Make any necessary edits to the customer, job, invoice, dispatch, payments, and schedule.
+
+---
+
+Customer Details on Jobs
+
+When you add a customer to a job, you’ll instantly see key details from their profile, such as their name, service address, phone number, email, and notification preferences, right on the job page. From the Customer section, you can quickly view their details or open their full profile for more information.
+
+To edit or add a Customer profile when creating a new job:
+
+- Click the search bar in the section labeled 'Customer'
+
+- For existing customers: Type the customer name, email, phone number, or address in the search bar and select the correct profile and address from the drop-down menu
+
+- For new customers: Click the blue '+New Customer'
+
+- Click 'Save' once you've selected the customer
+
+- To change the customer: You can quickly copy over the job information by selecting the wrench/gear icon in the upper-right corner to create a new job where you can select the appropriate customer.
+
+[Image] https://downloads.intercomcdn.com/i/o/1200723368/9753c4f1e69defb87db0e299/Screenshot+2024-10-01+at+7_50_45%E2%80%AFPM.png?expires=1763568000&signature=03c0591743a5773ecb1541ed54990b1408507bb2044f93479daffa827de98b8d&req=dSInFs58noJZUfMW1HO4zQbohH0zIc38CrGV4Pg6q17aJsYUh1vwAQkKB6O1%0AOLLLBfvo6o20lbw%2FvC8%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/1200723478/471fa8e8b523f48b039bb59e/Screenshot+2024-10-01+at+7_51_11%E2%80%AFPM.png?expires=1763568000&signature=1a0e9e3f1b0b2d44a752fb7800b7bb9936c365b1aeedf6cc3638deafa7722d6a&req=dSInFs58noVYUfMW1HO4zQ3p3dM%2F4jxQQVSxrMMSqI35GyEBmoVp7jp1UO1%2F%0AhDI3d9UtMgIKudcjbBI%3D%0A
+
+- To change the service address of the job: Click the 'Edit' pencil icon next to the service address.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1805171199/e8a3ff5f5f38396035e1de201712/image.png?expires=1763568000&signature=58079caeadc2e63b9bc6d99096c463de4da1f7103d00fc108b5639a7b3182f04&req=dSgnE8h5nIBWUPMW1HO4zd2JLuPYgYoaGkTG9KPmvHCZE%2BtuumIH8Odl%2Bh%2Bm%0Aqm3YtWov8qWpjPIscko%3D%0A
+
+---
+
+Add Service Line Items
+
+Type the service line item directly into the space provided to search your set Pricebook and select from the drop-down
+
+- You can continue typing to create a custom line item for a specific invoice
+
+- Click to edit the service line item, description, or price within the invoice (this will not change the item in your main price list)
+
+- Click the blue 'Save Job' button in the upper-right corner after inputting all info.
+
+[Image] https://downloads.intercomcdn.com/i/o/863988295/5725fc7c0a376a3a65eb3895/image.png?expires=1763568000&signature=21f45ba4f80f7b6c76c6c7ab221eac7fff6d7e5670b8e8bbaedb974f28f89627&req=fCYkH8F2n4haFb4f3HP0gAu3%2FN7yKfWrBMXK77VqATqTl9a9CCR6qMfeNPvW%0AZzOQ97xqk8leXDK65w%3D%3D%0A
+
+---
+
+What is Pro Mode?
+
+Pro Mode gives you more flexibility when creating new Jobs. You have the option to enable or disable Pro Mode by using the toggle at the top of the job creation page.
+
+- When Pro Mode is toggled off, you’ll see a step-by-step guide and a scheduling box that helps you create a job in order and ensures nothing is missed. When you click the scheduling box, it opens the calendar view so you can quickly schedule the job.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1802826114/c7d8b572345b4694606e51aabcb4/image.png?expires=1763568000&signature=eb2e6d4a5939631ec3f337dacdd8648784c0efb4c195f110083bc1eae2f06535&req=dSgnFMF8m4BeXfMW1HO4zTwU%2FKUkULtqGqT%2F1iPXll1NgO%2B2o548Dkpf%2B0jP%0A3N9hcqbC8fBa5zoNxwc%3D%0A
+
+- When Pro Mode is toggled on, that guided setup is removed, letting you enter all job details in any order that fits your workflow.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1802837375/3092bbda2f849e3084c7831fc880/image.png?expires=1763568000&signature=2840d46291f3b739c203b821900447fb324474ff5dca0f6c61bc5f07478c5bf6&req=dSgnFMF9moJYXPMW1HO4zWCYXaZUXDljswzzxEa6JGyc3s%2BAURkBQKuL7UZR%0AmKmt%2FJfB265LasL4L10%3D%0A
+
+---
+
+Create a Job (HCP Mobile App- iOS)
+
+To create a job from the HCP Mobile App on iPhone (iOS):
+
+- Tap the blue '+' icon located near the top right-hand corner of the screen.
+
+- Select 'Job' from the options provided in the pop-up window.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/1201791542/7be8d6a74a6c662cc37d38c0/IMG_3258.png?expires=1763568000&signature=3ac4c82814c7016801cdfdcc4d2462e9850afb3d5babfca8fc19ef918e5fd87f&req=dSInF853nIRbW%2FMW1HO4zV6fNXOgNHy2T37s%2B9QQHComm4d%2BHhBBbWE53jqi%0ANPe5%0A | [Image] https://downloads.intercomcdn.com/i/o/1201794140/9a2927b973d17b262005c947/IMG_3259.png?expires=1763568000&signature=795cf16a5adde37c45edd74be220d7fd7db2b771bf8e17b75f7b781ae00bcfa4&req=dSInF853mYBbWfMW1HO4zfBUDESDyVw4tlK9o4izTb79Z3bQQz4X6TBTJq5%2B%0AB9DV%0A
+
+- Enter the applicable information for the job and click 'Save' located in the upper right-hand corner.
+
+- The next screen will take you to the job details page. From there you will be able to see all details previously entered by scrolling down.
+
+- You can also view the invoice associated with that particular job by clicking Invoice.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/1201796454/75c62656ff91826e30371e97/IMG_3260.png?expires=1763568000&signature=b9fd5d8c12292ba98be95c453b72ece2c41ff0529adc885a76b46efed3850b8d&req=dSInF853m4VaXfMW1HO4zawOEXfUyM3USg4niKry17ENfL5vMVAh%2FTfIrg4t%0AxpXI%0A | [Image] https://downloads.intercomcdn.com/i/o/1201799001/0e2bcacc2c8940065acd43b8/IMG_3261.png?expires=1763568000&signature=96c8c0204be910de687836eecb18ee6d2004b4c9d9856540875110d4185ed2b4&req=dSInF853lIFfWPMW1HO4zbt2%2BDXM9SDaqjq8WZPI%2BFJ070LsxLo6ii3%2F%2FSO9%0Aa%2FFE%0A
+
+---
+
+Create a Job (HCP Mobile App- Android)
+
+To create a job from the HCP Mobile App on Android:
+
+- Tap the green '+' icon located near the bottom right-hand corner of the screen.
+
+- Select 'New job.'
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/111051008/e61a729cc2bd5ea49c0c8817/_no_subject__-_christina_green_housecallpro_com_-_HouseCall_Mail.png?expires=1763568000&signature=9ed3471b6916e13c5af228f67b2e4c364b1a083c90421df8e5c4146a7f40599e&req=dSEmFsx%2FnYFXFb4f3HP0gIeAEA%2FHI2Cuyv%2F5Lxs%2Fem%2BzsLmUZeviIk77Zunl%0AY0Q%3D%0A | [Image] https://downloads.intercomcdn.com/i/o/159963130/cbabd0e9a4ff60dd9372afab/image.png?expires=1763568000&signature=8f1a80487edad9a23ed50aea22d9a322e0c31dd0f8bee4b0dd60999c78706625&req=dSUuH899nIJfFb4f3HP0gBIBbr16Qjzl3q6JhPmHglTSR%2BuQIYy19b5rZWL8%0As0Y%3D%0A
+
+- Enter the applicable information for the job and save by clicking the checkmark located in the upper right-hand corner.
+
+- The next screen will take you to the job details page. From there, you will be able to see all details previously entered by scrolling down.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/111051012/170c2afb49275a6456ccdc57/_no_subject__-_christina_green_housecallpro_com_-_HouseCall_Mail.png?expires=1763568000&signature=6b8650e9325093e8b36bb665d1a1ebfbe8ccfd449e5ccc005034edb7f79d9be9&req=dSEmFsx%2FnYBdFb4f3HP0gPXa3EJRyiUR2Oi1pUDr5Q9LylvAv%2B%2FuFp4qn15p%0Aeoo%3D%0A | [Image] https://downloads.intercomcdn.com/i/o/111051014/1d5f3d7504d241d7415dbe62/_no_subject__-_christina_green_housecallpro_com_-_HouseCall_Mail.png?expires=1763568000&signature=46e2a3772250b0b71d91e4fc0b175dcc9e57c26622b2996ba509888da195d1bd&req=dSEmFsx%2FnYBbFb4f3HP0gK%2BO6ysWIah9XksKduNj3K%2FzTfyxKAP%2BRCWfs3Oz%0AlMU%3D%0A
+
+- You can also view the invoice associated with that particular job by clicking Invoice.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140690343/f12d1fd2fe4c7a563f32be50/Screenshot+2024-08-09+at+7_38_41%E2%80%AFPM.png?expires=1763568000&signature=5a47cb909e986b3799623c65a333f5feac04e1892dbd3b682ffec96c4952148b&req=dSEjFs93nYJbWvMW1HO4zaOvSuyK5JAsjWFKW2FAZMlVD90g2XiPzaa0e8k1%0AQqsQBjPUtGK6eTCHrGE%3D%0A
+
+---
+
+Video Tutorial: How to Create a Job (HCP Web Portal)
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/41gb1sljhj
+
+---

@@ -1,0 +1,66 @@
+Manage and Merge Duplicate Customers
+Source: https://help.housecallpro.com/en/articles/8500499-manage-and-merge-duplicate-customers
+Author: Sienna M
+Last updated: Updated over a month ago
+
+Summary: Clean up your customer list using a new tool that automatically identifies possible duplicate customers and makes it simple to merge them.
+
+Manage Duplicate Customers
+
+We automatically group possible duplicate Customer profiles for you based on matching details such as Name, Mobile Number, Home Number, Work Number, or Email. You can review each group in the Manage Duplicates section to confirm and merge profiles.
+
+To manage duplicates and merge duplicate Customers:
+
+- Click on Customers in the top navigation bar
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/858394445/fb8dc1dc6212c9202630a06b/qQqLeCIaE4RA_Lsu5hblEfSt2cUX4JOi1ng7EU6-JV8Spto8Rz8km0eDqMmP6nMVA7JlInegDDlNOIOhnbZnzjHR94f8PW9mVtB7Ck4qP4F0gZuUcaCMsTy3ZiUTNw6qOVHN2iwgypQlxVp5KNM3LvA?expires=1763568000&signature=fff30e038f0da3d2d082a73fee5af1f94cc736b62aac19a7bcb3e6550c94bdea&req=fCUvFcB6mYVaFb4f3HP0gAqxtVrbOaUR4xP6yk6Y8kSigvwBrLGLevUi%2BDiz%0A8equf2BEPbpw%2BUyZYQ%3D%3D%0A
+
+- Click the Actions button and select Manage duplicates.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/858394464/740dbd96f28e889226123157/98O4zEf538bUi3KKVknY1HgvfB6nTovjFHza7y7r8bh2s4MUPWTtu-m06yNHUKX9db48LTYsHAQipQjWln8uUt8m_ouztdClU8J79qaKIyeYyI1v2yJHqz01g7kicU9x0xb10s0PHI41e8JjdDZI5Ts?expires=1763568000&signature=712d6769a5fd34ca1f980f5acdcd642a57b9abb8bdde6802e6905b19ec405875&req=fCUvFcB6mYdbFb4f3HP0gK1deaG%2FJQ%2BZ9CUDuLtT6%2B%2FkvdlpYAxAoOSjve62%0A0QUveyp6oX7lt09q8w%3D%3D%0A
+
+- Click the dropdown arrow next to the group you want to isolate (such as Name, Mobile number, Home Number, Work Number, or Email).
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1611867407/3978c878434a70ef0818b83b614d/image.png?expires=1763568000&signature=23d252a3ef85f784c5f341c51a538b4ec81b2a62d171d6f84c53de1dfc829560&req=dSYmF8F4moVfXvMW1HO4zRyFtb2G9fJ6mmkO2qFiwyOjPaq%2Fq2JImD%2Bx2l%2F4%0A3Szrd%2Brdilr176Ssrdg%3D%0A
+
+- Then, click the dropdown arrow on a specific customer row to expand and review all possible duplicates.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1611834184/a437e79eb894f0f7d48ceaf9d879/image.png?expires=1763568000&signature=c9f1b710aca55abef0a61b2b1b0880aae44bad766e5901196688fe8e5e8bb54d&req=dSYmF8F9mYBXXfMW1HO4zYsXb3XnKlcQjDPCmgSRtZypcRZjpSU19NxSQTsa%0AyuUEnZQnATPhpMl2%2Fhw%3D%0A
+
+- Once you’ve confirmed that the customers are duplicates, select one or more of them, then click Merge in the upper right corner.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/858394490/3eb286f770439e0ed45a07ce/5YdQHpP1DTtBbFfJwSj9VPVt1tNV0NCb4cDBa4NURXTN2OCB_GMP6tly0_liGYtO058HtAZXFf3a8lc9-osjWEmt-N-Hrb75CflZmine5mtT8ZzBZB2-n3KStxpivvR-VqulNO5sJpkychaIL8zdOwE?expires=1763568000&signature=c4dfc0080439548b9a05700fc12c375eaff27f599f90f3cb98a171be1ccd843f&req=fCUvFcB6mYhfFb4f3HP0gOS2c0UMRVRxFtMUhiguLFZnmyMh0YIkZfOH%2BodY%0A4ANj%2FcFUF1Gc3FT3ow%3D%3D%0A
+
+- A window will pop up to merge the customers. Check all of the information being merged. If everything is correct, click Merge Customers to finalize the merge.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1611810160/c36e313b133f9255ba72077bb575/image.png?expires=1763568000&signature=e1111eda111baeac04fa849ec7bf222834091ca7363f94d79f3d104f6d73e50b&req=dSYmF8F%2FnYBZWfMW1HO4zezrqRzJmrUbcBPnVvSVbM1CP6sEPD2UkHiygSAd%0AAcKBLmwm9uyyckSq1N4%3D%0A
+
+- You will stay on the page to easily review and merge all possible duplicate customers. If any customers are not duplicates, you can leave them in the table without merging them.
+
+---
+
+Merge Customers
+
+You can select multiple Customer profiles directly from the Customers list to merge them.
+
+To merge Customer Profiles in the Customers List:
+
+- Click on the Customers tab in the navigation bar.
+
+[Image] https://downloads.intercomcdn.com/i/o/718320515/cde21a5a275b7e7e971ebb47/DC_1+2.14.48+PM.png?expires=1763568000&signature=3cd0be6b6932fc6d91205b88781759a011c8d8f3ec142afd726f8fee351363e2&req=cyEvFct%2BmIBaFb4f3HP0gI%2BeNvPQpx7ObsIG7FVWE%2F7HR72F5rkyD%2F8o3SxU%0A9%2Fy82rRYLHYwRfYpOw%3D%3D%0A
+
+- From the customer list view, select the customers (2 or more) you need to merge by checking the box on the left.
+​
+- Click the Bulk Actions dropdown and then Merge customers.
+
+[Image] https://downloads.intercomcdn.com/i/o/716722731/811c8b5504a63fc81c9e34af/DC+2.png?expires=1763568000&signature=c7d880bb2aee7d702259d58cffefc466bf43e2f436543a93a261341ca63a227d&req=cyEhEct8moJeFb4f3HP0gK95uxmCawg73vqHMTqG2Q%2BvjORPqLE5RYMxjAqp%0AUKsZoBkjN2ibRUvIiQ%3D%3D%0A
+
+- A new window will appear where you can select the correct Contact info from the drop-down options (if applicable).
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1613187479/d83a7fb61341123ef628951dc0fe/image.png?expires=1763568000&signature=754f0692541898735e2a9459b81962bd08a9b69542ab794aae722228bd04b29f&req=dSYmFch2moVYUPMW1HO4zRyy48AcAH2Eh8qvutuLf0eYR9OUGwpmBJed4JK%2B%0Ax4ouAhiABMRWVKwa30M%3D%0A
+
+- Finally, confirm and click Merge customers to finalize the merge.
+
+[Image] https://downloads.intercomcdn.com/i/o/718316687/94dc7960435aaba2fc167540/last_DC.png?expires=1763568000&signature=423886f883159f23b4d700b27164fdd6d188b41fff1373eb9fba339b4a7564eb&req=cyEvFch4m4lYFb4f3HP0gKS6pe%2B0yZs68o6f7Quxq6%2Fdau2%2BLCuXMVh8TzhX%0AOCvHnPKRCkorgY35aQ%3D%3D%0A
+
+---

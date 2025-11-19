@@ -1,0 +1,111 @@
+How to Create an Estimate
+Source: https://help.housecallpro.com/en/articles/1185469-how-to-create-an-estimate
+Author: Shontiquia K
+Last updated: Updated over a month ago
+
+Summary: Learn how to easily create and schedule new estimates or quotes
+
+Creating Estimates in Housecall Pro
+
+Creating quotes allows your customers to get an idea of what a project will cost and ensures that you and the customer are on the same page.
+
+[Image] https://downloads.intercomcdn.com/i/o/862091684/3f01d194d33a8e1185f14b5f/estimateetmplates.png?expires=1763568000&signature=c7c62237accfd668070d55fc6ddae8310690a36cc28c76254a69d2520717559d&req=fCYlFsB%2Fm4lbFb4f3HP0gM0b3ASNfcE6dqclfncgjXylBaP5Yj936MhcIqP4%0AQ%2FEGQ8HHtg5sZ8IFcg%3D%3D%0A
+
+---
+
+Create an Estimate (HCP Web Portal)
+
+To create an estimate in the HCP web portal:
+
+- Click the New button in the navigation bar at the top of your Housecall Pro account.
+
+- Select Estimate from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1343896135/f76dd0f447edf1cdef58c55d2219/Screenshot+2025-01-20+at+4_46_00%E2%80%AFPM.png?expires=1763568000&signature=8c00e0bcfef1d2bdf09d213b74684304a42d9a0f4bb3a2ca36780ff6f24aaba1&req=dSMjFcF3m4BcXPMW1HO4zUiMNHM6MYq0%2FOU5R4BZLe7Bt4E70b3sYf0B6t58%0AOYxw%2FavB6R9E%2FA2oXBc%3D%0A
+
+- Enter your customer's information: In the Customer section of the estimate, type an existing customer's name in the search bar and choose the correct profile and address from the drop-down menu. - Alternatively, click + NEW CUSTOMER to add a new customer for the estimate.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234640082/c801b747ac7f6665781bf0c9e128/Screenshot+2024-10-30+at+6_58_12%E2%80%AFPM.png?expires=1763568000&signature=20c21f6a0d44b801c37b3c232142ed725faefcbca6ba27d6b031af8e0d8cd808&req=dSIkEs96nYFXW%2FMW1HO4zZD389uGKhspLnAP8slOyTxSRZDPDd00lQ163lVT%0AAIkN7EbzjHKQ1lsxnIg%3D%0A
+
+- Add line items to the estimate: Type the service line item directly into the space provided to search your set price list and select from the drop-down. - You can continue typing to create a custom line item for a specific invoice.
+- Click to edit the service line item, description, or price within the invoice (this will not change the item in your main price list).
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234641706/00c60703a8e36e880fdc53958df3/Screenshot+2024-10-30+at+7_00_09%E2%80%AFPM.png?expires=1763568000&signature=4652f7f74a378d9c1f4020d02b4a7588ae4165dc54ea8884df9faf44967e98a3&req=dSIkEs96nIZfX%2FMW1HO4zVL42SlOvWgJ2eTWg5cm4ThbThzmYC5U%2BwiIV%2BzO%0A6kloQktnC5tABYnswe0%3D%0A
+
+- Schedule the Estimate (optional): In the Schedule section of the Estimate creation page, you can set the date and time by clicking the From and To fields.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1758965204/5f711af7d725e023858b69cceb29/Screenshot-2B2024-10-30-2Bat-2B7_03_27-E2-80-AFPM.png?expires=1763568000&signature=1c0eb36c6007a21ab50f429e6f99eb3b68f7e0513d237d2767c56b51d8b178c0&req=dSciHsB4mINfXfMW1HO4zYSkWQQplORm7hFrTm%2Fth525jHMcucEu94p20IXV%0AU3kgrsMh%2BcORKvylZt0%3D%0A
+
+- You can also click the pencil icon in the Schedule section to open the full schedule view, where you can click directly on the blue tile or drag and drop the blue tile to the desired time.
+
+- Arrival Window: To set your arrival window, click the pencil icon in the schedule section, then select the arrival window button, where you can select the desired time frame. If you'd like to set that window as your default moving forward, check Set arrival window as default in the bottom left of the pop-up. Click Save once complete.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1759103814/0803f42383dcd8c9eda21696dfca/ScreenRecording2025-10-03at11_25_46AM-ezgif_com-video-to-gif-converter.gif?expires=1763568000&signature=514344a3171941167e2adc7ad05af89a62ddae7ffaea0350d8b99fb3a112b141&req=dSciH8h%2BnoleXfMW1HO4zTCAF%2FYSBmr%2BqRk%2FHuHNJ0lRtWAZWemKkzCfk37Q%0AiiouktS4rfWCR4UOUoY%3D%0A
+
+- Dispatch: Click on the Edit team dropdown to select who you'd like to assign to the Estimate. You may select more than one employee.
+
+- Notify customer: This will default to the customer profile notification settings. If you do NOT want your customer to receive the email and text notification confirming the scheduled estimate, you can un-check this box before clicking Save.
+
+- Click the + next to the Private Notes, Estimate Tags, Attachments, or Lead Source section to add, edit, or delete as needed.
+
+- Click Save Estimate in the top right corner of the page once you've finished.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234643568/31aa7e8f1ca98c6ef3219cb4374a/Screenshot+2024-10-30+at+7_03_51%E2%80%AFPM.png?expires=1763568000&signature=4c8edf983e46cd4ead5d5cfef4d37e2b290225f95a59fb2ab943f096a7a699fb&req=dSIkEs96noRZUfMW1HO4zabKcT5x7l5wpDggAH3GWYUWnIR5%2FnhMyDEkzijG%0AtZDTgULydQgXqzn1w%2Fg%3D%0A
+
+---
+
+Create an Estimate (HCP Mobile App - iOS)
+
+To create an estimate from the HCP mobile app on iPhones/iPads:
+
+- Tap the + icon in the top right corner of the screen, then select Estimate.
+
+- Add all necessary details into the following sections: Customer Info, Invoice, Schedule, Dispatch to, Estimate fields, and Job Tags.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/731029175/f121a92a06c0efa587962cc6/image.png?expires=1763568000&signature=b643d5cd4727ca892640569a9023406b884004d83da045dbad82c597eb29f61f&req=cyMmFst3nIZaFb4f3HP0gGuN%2FpRIl0V%2FHz9vHc4Y1aoIwvvvpWRh%2FB5Lf0CH%0Atz0%3D%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234650858/9ae5d06f906e7f066e78aa520d28/Screenshot+2024-10-30+at+7_13_33%E2%80%AFPM.png?expires=1763568000&signature=2a1010f47a5bf433d3f25a8475d12eb748f74af4178f32e804e0feb65291bedc&req=dSIkEs97nYlaUfMW1HO4zYnOYxS4DNVzj3B7UA922Um%2BZSmN8Lw%2BGqClhWnJ%0Aht3X%0A
+
+- After all details have been entered, tap Done in the top right corner of the screen.
+
+- You'll then be taken to the Estimate details page. From here, you'll be able to see all of the details previously entered and update the estimate if needed.
+
+- You can preview and send the estimate by pressing the Estimate option at the top of the page.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234651812/94f9efbcc9378be19dad98fa4fc8/Screenshot+2024-10-30+at+7_13_45%E2%80%AFPM.png?expires=1763568000&signature=a14772dc99f1973f5d5120baca35a853b616673e3e4a3d813fc8e9640ad60ac2&req=dSIkEs97nIleW%2FMW1HO4zU%2BhJtLjKpzk%2Bq2Woekfu6JkloFEuuZUDmbDxWP8%0AAIw%2B%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234684411/594699f6b06ee7c741a2b4c79956/Screenshot+2024-10-30+at+8_22_16%E2%80%AFPM.png?expires=1763568000&signature=fc8a5c44789a9f8e608394dc891c07bec5890ba64bc03646d59c18cdc437acb2&req=dSIkEs92mYVeWPMW1HO4zQDt8J6wlhsV3cJFyOKIch0kfRD8jUgTuWdN5LQy%0AiHYi%0A
+
+---
+
+Create an Estimate (HCP Mobile App - Android)
+
+To create an estimate from the HCP mobile app on Android:
+
+- Click the green + button in the bottom right corner of your screen.
+
+- Select New estimate.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234669794/21d896f0eb752e4f9166d4434165/Screenshot+2024-10-30+at+7_45_51%E2%80%AFPM.png?expires=1763568000&signature=4645e5158963a56579b664047ba2cc2ebeac0b11bb9a8beef8fde1c58019fad6&req=dSIkEs94lIZWXfMW1HO4zWaRM9aMN1QRJ%2BfQczJu9RNhW6iPlPiydBCQ8lKX%0A8PRU%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234669982/c21b4d88db585679fd8a2100b38b/Screenshot+2024-10-30+at+7_46_03%E2%80%AFPM.png?expires=1763568000&signature=26333e50188331609faee5e99364b3a33313b5afaffe827b3efff65974ae7af8&req=dSIkEs94lIhXW%2FMW1HO4zSPKcerwOh69g6WGwV3t4t411SDeem9u7MgPI1T0%0AnPR6%0A
+
+- Add all necessary details into the following sections: - Customer Info
+- Line Items
+- Schedule
+- Dispatch to
+- Estimate fields
+- Job Tags
+
+- After all details have been filled in, tap the checkmark in the top right corner of your screen.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234673211/d6d483dd7fce3efb4f6711540953/Screenshot+2024-10-30+at+7_46_17%E2%80%AFPM.png?expires=1763568000&signature=7b2888d37297eb12a90301dde9d0a36adf51067adb68f06ad30592cfeeb0660a&req=dSIkEs95noNeWPMW1HO4zcX14e%2BnLFPq9QGJbpbf2LZlaJJPdCfIvCsJ3Inh%0AZ0va%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234674309/63e253215388fb0c202fa777edd4/Screenshot+2024-10-30+at+7_46_30%E2%80%AFPM.png?expires=1763568000&signature=7afe8292cd9bf97f6813927b8b134ed600e631eb287f43eb0312519841734283&req=dSIkEs95mYJfUPMW1HO4zc1DdsshydOH%2FvHFbTuyIFm09O9NvoImUqvnHL1W%0AYaam%0A
+
+- You'll then be taken to the Estimate details page. From here, you'll be able to see all of the details previously entered and update the estimate if needed.
+
+- You can preview and send the estimate by pressing the Estimate option at the top of the page.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234675909/cdd80e411e4cf2b51ad75317518a/Screenshot+2024-10-30+at+8_04_11%E2%80%AFPM.png?expires=1763568000&signature=537f8a5984e3e63e0f8ac17619d4941acbebfefc6ece2c290f6bed7eb823efcd&req=dSIkEs95mIhfUPMW1HO4zfqXpRIUAD4f1PhvZHCwGjobqjarqgggixtk7Gke%0AhQin%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234676029/4df147769d126272e97cccdd6841/Screenshot+2024-10-30+at+7_46_44%E2%80%AFPM.png?expires=1763568000&signature=5f5b82551d256eb4a0f78bb48c054934cdba09c31acd9aa664ec624eadf16478&req=dSIkEs95m4FdUPMW1HO4zURQFGoRLtB47Mf1OHC6AaXgyTIQdJWljxRBiJdG%0AvLsW%0A
+
+---
+
+---

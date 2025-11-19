@@ -1,0 +1,97 @@
+Add a Deposit to a Job
+Source: https://help.housecallpro.com/en/articles/3066064-add-a-deposit-to-a-job
+Author: Ian H
+Last updated: Updated over a month ago
+
+Summary: Learn how to add a deposit to your invoices to send to your customers and invoice them for just the deposit amount.
+
+How to Add a Deposit to a Job
+
+Create a deposit based on a specific dollar amount or a percentage of the job total directly on the job details page!
+
+To add a Deposit to a Job:
+
+- Open a job to view the Job details page.​
+
+- In the Line items section of the Job page, click the Add Deposit button in blue, located directly under Subtotal, Total, and Discount
+
+- Select if the deposit type is a specific dollar amount ($) OR a percentage (%)
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1467746831/af6dd1e0a185adee5985cf3454df/Screenshot%2B2023-11-17%2Bat%2B10_10_42-E2-80-AFAM.png?expires=1763568000&signature=e3f05b68a34b6e4b6c72ddfe0aeb6dae9c5482e81d698972c2a230c6289e32a8&req=dSQhEc56m4lcWPMW1HO4zaibVpg8U2Aed7OgaorGj1mQc9mANZf2PjR3M1hW%0Aoo4dBFiji4E20MmAkm4%3D%0A
+
+- In the space provided, type the dollar or percentage amount of the deposit
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1467746824/d6fb3b3b8bb9b0f6d45daaf8a703/Screenshot%2B2023-11-17%2Bat%2B10_13_21-E2-80-AFAM.png?expires=1763568000&signature=4d652769596404cc770eee4acf8115664ddd35b1e49c5ed9957d87e7a7f3ae55&req=dSQhEc56m4ldXfMW1HO4zXaLwohbEdGUCuZcZWNvQdzpXoqJb22axSqpMcnZ%0A9q5tO82vYSW9FqaKTD4%3D%0A
+
+- Set the deposit due date by typing in the given field or selecting from the drop-down calendar and clicking Save.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1467746822/e40891d96fc98fc52e3369eb1e09/Screenshot%2B2024-10-22%2Bat%2B2_29_51-E2-80-AFPM.png?expires=1763568000&signature=3a2b4f00dd263941bb06f440fca9e7ac0b9e43fa849f75a91b278a7552d62cb2&req=dSQhEc56m4ldW%2FMW1HO4zW8cXBbaLHVzWQ3b68VkYUmYKY8sjdFNFOgsdlW6%0AvhNzqQSl2MKO3RQJQ30%3D%0A
+
+---
+
+Sending a Deposit
+
+Sending a deposit is an identical process to sending an invoice. Once the deposit has been sent to the customer, they can pay online (if you have included that option).
+
+- After adding your deposit, click the Invoice (paper airplane) icon.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1467746823/e2d995bdfca54f5268ad9bf9871a/Screenshot%2B2024-10-22%2Bat%2B2_32_26-E2-80-AFPM.png?expires=1763568000&signature=f425ed2f78009932ff6f14d2b1fd5654cf792304e7562b1800d1974e3ca52472&req=dSQhEc56m4ldWvMW1HO4zZH3t8jKFcb%2FF0iTwyPzu1sVmAy6qynoSiA8iKNI%0AwpeszLDw5pewiC4yqDM%3D%0A
+
+- Select your deposit invoice and payment settings, and click Next.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1467746830/42b8a669ead165b9aa9a5cfd1e6d/Screenshot%2B2024-10-22%2Bat%2B2_33_50-E2-80-AFPM.png?expires=1763568000&signature=b6f74ef4a0e90c15feebafb9737c7d451ef42ac5eee5b94d91d06eac307416e1&req=dSQhEc56m4lcWfMW1HO4zVwsQxmTOjiSKkfwVedhHhbLnkN8ZRRuDIZUQuPk%0AxRdOscoXClGhIuCnZzA%3D%0A
+
+- Select if you'd like to send the deposit via text or email
+
+- Click Send
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1467746826/62b38b1f0d73906e1c4837385c9d/Screenshot%2B2024-10-22%2Bat%2B2_37_02-E2-80-AFPM.png?expires=1763568000&signature=2a40aba24332a35398deb54d88bd9c701015be24d3c40caf1c508e57918582d9&req=dSQhEc56m4ldX%2FMW1HO4zct6BX%2B0IzmQMhX3Uip7RqBPHJ5uGjxVZYTypxxZ%0AwHeKIt3RKnb3SwvlgRM%3D%0A
+
+- Your customer will receive an email notifying them of the due deposit and a pay online link (if you have included that option).
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1467746820/4a5c5af7a4a9fe2fafd68cf76694/Screenshot%2B2024-10-22%2Bat%2B7_14_15-E2-80-AFPM.png?expires=1763568000&signature=544e08b5bafd00a4ee5b01be6127adee58913550ac7ee3ee9e86fd2183cd0ef5&req=dSQhEc56m4ldWfMW1HO4zd7lI05x8cmA14GC2ndBw%2FLKtvCfugEmoIh6QGxp%0AhFueIAzpmkZDi0dk0jc%3D%0A
+
+- When your customer clicks on Pay Online, they will be taken to the page below, where they can review and pay the Deposit invoice.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1467746825/2dc0fc789b6530d7cdabc23c9449/Screenshot%2B2024-10-22%2Bat%2B7_34_36-E2-80-AFPM.png?expires=1763568000&signature=5bd204a5bccb15bddf5bece7c4b06b4fca40abd6c353d229690b2ab83c25fef7&req=dSQhEc56m4ldXPMW1HO4zat%2BSgY%2ByyFL%2FAL9NjOZHhHUAv3pdY6%2BylgnO9%2Fl%0AFX8QtkcqVQ0qEzaM0wc%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1467746827/4b7b885b374be4c4e1b333cd75bf/Screenshot%2B2024-10-22%2Bat%2B7_45_54-E2-80-AFPM.png?expires=1763568000&signature=0835959cba1cdfbbf1eab1d0bbef03885649440f8963b7c3ec6fa0aa012d6f20&req=dSQhEc56m4ldXvMW1HO4zajZ1OT55hcEbm5VWra09jmVsab%2FdkkB9JIEc4BZ%0Aoi6V%2FaFVsypoDDaWZqs%3D%0A
+
+---
+
+How to Take Deposit Payments
+
+Similar to taking payments to mark invoices as paid, you can mark deposits as paid if you need to manually record a deposit payment.
+
+To take a Deposit Payment on the HCP web portal:
+
+- After you've added the Deposit to the Job, click the Pay button at the top of the Job details page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1780068146/c8449b28d927369b40d0a658d9bb/image.png?expires=1763568000&signature=5f654a4322488deb6012fb64d95a566e762493190ca38ca9e9223d9ff7837dad&req=dScvFsl4lYBbX%2FMW1HO4zVXhicgG2mlFxwYSwL13g4Se8azjGeiyfXOIa2Z5%0AnR0EFbPdNikzi8HPM4Q%3D%0A
+
+- In the Payment window, you can select the Payment method (Credit Card, Cash, Check, or Other) and enter the total due for the Deposit in the Amount field.
+
+- Check or uncheck the Notify customer box and then select the Paid button to apply the payment to the Deposit.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1780083756/19d759aafb34599b2ec9856e6054/image.png?expires=1763568000&signature=6c049178415bf5d8288c9ab5d14edd4a77e92b5c71abf30757bbad2c107cc2b3&req=dScvFsl2noZaX%2FMW1HO4ze3X2sLWA5t%2BUgEqf1Z6SrfhZ%2FRNerqi655YtvZd%0A6GIcohKxHFJCJ7R3hFM%3D%0A
+
+---
+
+Things to know:
+
+- To delete a deposit, enter a zero (0) in the dollar amount or percentage field and save.
+
+- If a Job has a deposit applied, it will NOT automatically update if any line items or materials are added afterwards. You must delete the deposit, then re-enter.
+
+- If using segments for multi-day jobs, add the deposit to just 1 segment. Do not attach any other segments when sending off for deposits.
+- Each deposit will have its own invoice and invoice number. If you have the job<>invoice number sync setting, the deposit will share the same number as the job. Ex. Job 100 will have a deposit invoice D-100.
+
+- If a deposit has been partially or fully paid, the payment must first be refunded before the deposit itself can be deleted.
+
+---
+
+Video Tutorial
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/kd7eznbr0d
+
+---

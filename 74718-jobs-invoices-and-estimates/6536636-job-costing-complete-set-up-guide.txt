@@ -1,0 +1,471 @@
+Job Costing: Complete Set-Up Guide
+Source: https://help.housecallpro.com/en/articles/6536636-job-costing-complete-set-up-guide
+Author: Bricelyn J
+Last updated: Updated over a month ago
+
+Summary: How to set up Job Costing;
+
+Job Costing Overview
+
+Measuring profitability is crucial for business growth. That's why Housecall Pro offers Job Costing, making it easier than ever to track and report the costs associated with each job.
+
+Job Costing simplifies tracking expenses and profits by letting you meticulously monitor costs like labor, materials, miscellaneous expenses, commissions, and services. Its comprehensive reporting capabilities allow for a detailed analysis of job costs and profit margins, aiding in informed decision-making for business growth.
+
+This step-by-step guide ensures you have everything you need to navigate and utilize the Job Costing tool effectively.
+
+---
+
+---
+
+Setting Up Job Costing
+
+Job Costing involves multiple areas that help calculate and provide the necessary information to ensure each job generates profit.
+
+To start using job costing, you'll first need to enable the Job Costing Breakdown feature in your Housecall Pro account. You can then enable additional tracking settings to maximize your job calculations (covered in the sections below).
+
+---
+
+How to Enable Job Costing
+
+To enable Job Costing:
+
+- Click the gear icon in the top-right corner of your account to access your Settings.
+
+- Select Jobs from the left menu.
+
+- Click the Costs & Materials tab at the top of the Jobs settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1647752693/8a1bf6e933669cc7f7de9bfe3d92/Screenshot+2025-07-31+at+1_25_25%E2%80%AFPM.png?expires=1763568000&signature=764e1cb443e60b7a56e88475546db1a1a1b3530408add65fd256f46481f80a60&req=dSYjEc57n4dWWvMW1HO4zUDMd1mR6UgKdYbzdDSKBnQdWDLsp%2BpfHZivN%2BDc%0AtGVLs3J3h4xYzF%2F9Ykk%3D%0A
+
+- Click the toggle next to Show job costing breakdown to enable the Job Costing Breakdown feature.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1647758749/e59b5ced94bef57f76dba0b20787/Screenshot+2025-07-31+at+1_30_07%E2%80%AFPM.png?expires=1763568000&signature=6236cc2d1e422e0f7ecfd4050ff8bbe9f4fb4d53b1f1d06a7ea272395072cfed&req=dSYjEc57lYZbUPMW1HO4zd61c8%2Bcij%2FQZbMf%2B1XFirLd47n8UHW%2FWrc9RT23%0A0UaDmUVGMDi08CEaxHM%3D%0A
+
+After enabling the job costing breakdown:
+
+- Job costing calculations will be displayed on jobs, including a detailed breakdown of profit margin, total revenue, job costs, and gross profit percentages for a clearer financial overview.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1289437612/d18f62d13535c06c4d3d62182b97/Screen-2BShot-2B2022-09-06-2Bat-2B5_15_28-2BPM.png?expires=1763568000&signature=3496a64a6a73806c7ee3b41f4f0eeb0c8738c8e8240c4714e34813b44990cc9e&req=dSIvH819modeW%2FMW1HO4zZA9JdPztKZuNkdNb%2BsMF7%2FnIr77e5blZEXza4hE%0Age2oIoAjOQWgUg2Seak%3D%0A
+
+---
+
+---
+
+Tracking Labor Costs
+
+Tracking labor costs lets you know exactly how much each job costs in terms of labor, factoring in travel time and employee-specific costs.
+
+To track labor costs, the following features need to be toggled on/in use:
+
+- Time Tracking
+- Fully Loaded Rates
+
+Once fully loaded rates are assigned to employees and they track their time on the jobs they're assigned to, their fully loaded rate will be multiplied by the time spent on the job (including travel time) to calculate actual labor costs.
+
+---
+
+How to Enable Time Tracking for Job Costing
+
+To enable Time Tracking for Job Costing:
+
+- Click the gear icon in the top-right corner of your account to access your Settings.
+
+- Select Jobs from the left menu.
+
+- Click the Costs & Materials tab at the top of the Jobs settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1647760497/ec6f500442bb7af82ebd8bba22ed/Screenshot%2B2025-07-31%2Bat%2B1_25_25-E2-80-AFPM.png?expires=1763568000&signature=540d4190a54161e21e2f565cf61c84c551681142a69439e256585b0f948aeabb&req=dSYjEc54nYVWXvMW1HO4zYqMi6fZj1qzYAcbJPqTD77HYoG0zMWvP61m88uc%0AJ80f3pCQ7pedK2KOPHg%3D%0A
+
+- Click the toggle next to Travel and time on jobs to enable time tracking. - Ensure that employees track travel and time on jobs for accurate job costing calculations.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1647816261/dd56841b498dc770e4134e64bc55/Screenshot+2025-07-31+at+2_05_21%E2%80%AFPM.png?expires=1763568000&signature=f53d0cf99b91d863ec6d46d4415cd91363ed085b40bbe0844ad51147ab4441cb&req=dSYjEcF%2Fm4NZWPMW1HO4zfcsK3FBCa8%2FjtZD0oDeCEWfMnWzL1xYJjVWh5dk%0AGUq9wNQHjqJE4Hn8zVU%3D%0A
+
+---
+
+How to Configure Fully Loaded Rates
+
+Enter the base pay and the additional employer paid costs for your employees to calculate a fully loaded rate. The fully loaded rate will be used to track actual labor costs for job costing reporting.
+
+A fully loaded rate includes the base hourly rate of an employee + any additional employer-paid costs, multiplied by the time on the job. Follow the steps below to set up your employees' fully loaded rates.
+
+To set up your Employees' fully loaded rates:
+
+- Click the gear icon in the top-right corner of your account to access your Settings.
+
+- Select Jobs from the left menu.
+
+- Click the Costs & Materials tab at the top of the Jobs settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1647761102/69dc464f869733f027a78e9fc719/Screenshot%2B2025-07-31%2Bat%2B1_25_25-E2-80-AFPM.png?expires=1763568000&signature=82e23a20b812c9c755cc86e8954c91cf424e3500e69f3726e95e47965324b931&req=dSYjEc54nIBfW%2FMW1HO4zeXYg2PHh9afd%2B2aL8025reqa%2BTCXS79TKrrz1Ud%0AVtRlM3MMrxFEfQVC5Ys%3D%0A
+
+- Click the pencil icon next to Labor costs.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1647820769/35b3b0eaa4d292021fc66e9549a6/Screenshot+2025-07-31+at+2_07_38%E2%80%AFPM.png?expires=1763568000&signature=752ba72837d0f7df05ae2a4621db408fde9bbfa50317e9dcf9c1b0ef06dec264&req=dSYjEcF8nYZZUPMW1HO4zbgA6KVQJafCOxW2TKhu6iaH93StoK5JsSTXAuTd%0A9ujczoGY2Dab1euC4nU%3D%0A
+
+- Click the pencil icon next to an employee to edit their pay details.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1295178428/92f3a7d7f2e81736576964733339/JobCosting4.png?expires=1763568000&signature=725477d41361724236fdeaa2947baf9786a8f5b206fe906d824439ec5b8f6df7&req=dSIuE8h5lYVdUfMW1HO4zV9PkUCuz0j2f%2Bkg87r2w8cFqdqiKEiRc5zspjOF%0A4OdydyUvcBrMOrcmZ5E%3D%0A
+
+- Select the base pay option that applies to your employee: - Hourly: Base rate per hour.
+- Salary (full-time): Annual salary amount or hourly pay rate.
+- Salary (part-time): Annual salary amount + hours worked per week, or hourly pay rate + hours per week.
+
+- Use the fields under Additional Costs to account for any additional employer-paid costs (such as taxes, insurance, or benefits). - These figures can be entered as a dollar amount or a percentage markup.
+
+[Image] https://downloads.intercomcdn.com/i/o/744776364/65e406fd9e9f172f19027555/labor.gif?expires=1763568000&signature=c5be0c0f3228ee68920a8cf36474e69e9d3e1c78bb98afc1a4384533e0da31d2&req=cyQjEc54nodbFb4f3HP0gJEzOrS%2BAQl%2FUhkTkZF4%2FQpepPb4gxnG5FAI0WQd%0AtEUOjBKMEDTxypDxyQ%3D%3D%0A
+
+---
+
+How to Use the Fully Loaded Rate Calculator
+
+To access the fully loaded rate calculator:
+
+- Click the gear icon in the top-right corner of your account to access your Settings.
+
+- Select Jobs from the left menu.
+
+- Click the Costs & Materials tab at the top of the Jobs settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1647761223/6b971d88744a11465a47ed614702/Screenshot%2B2025-07-31%2Bat%2B1_25_25-E2-80-AFPM.png?expires=1763568000&signature=56e76ed5795bd23608390650ca3a1261dba935605c33dd2fba8c34c3683a25a7&req=dSYjEc54nINdWvMW1HO4zTpGXljiOmN%2FqQhl%2BG1iY5Gupn883Rz4migCwGfa%0Axc1uVZgiSERATpwJB70%3D%0A
+
+- Click the pencil icon next to Labor Costs.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1647819864/1eac7a053b11b9df11dd7f80cde3/Screenshot+2025-07-31+at+2_07_38%E2%80%AFPM.png?expires=1763568000&signature=1451338702c78cfd63d66611290f9983a76dee49abdfbfacb21b771913e216aa&req=dSYjEcF%2FlIlZXfMW1HO4zbU02wQitlHiUoicX4lYmo94QPyUq8N4QG2P5sRG%0A1ZZ07i%2BkfxSyMwkFmfk%3D%0A
+
+- Click the pencil icon to the right of your employee's rates.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1295153593/a787a4a2bc4a73f13c000b4b54aa/JobCosting4.png?expires=1763568000&signature=9cb8035c897e05de4d9a04b64e334eef9adb5040b141cd704f96e40ca0c76b23&req=dSIuE8h7noRWWvMW1HO4zUkVLxIz4U%2F6bIvZFjGY9pnC90tUY%2BNNhB7T5KW0%0A8MCHrhYt94Br2MMNL2o%3D%0A
+
+- Click the Use our calculator hyperlink.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1295157224/94ae8d0c0113489a4f738587578d/JobCosting5.png?expires=1763568000&signature=412cd6c47f4a8cdb4a3487b2e959ec325f4d324aba94399d633789a139414f1d&req=dSIuE8h7moNdXfMW1HO4zcq6YSrtAzrScmnS8gGIobytzuGjSSBvtu7uaMWm%0AWhbNI042%2F5WQbUD0xeQ%3D%0A
+
+To use the fully loaded rate calculator:
+
+- Step 1: Enter your employee's net earnings (take-home pay) in the Calculate fully loaded rate window.
+
+- Step 2: Enter your employee's gross earnings (including taxes).
+
+- Step 3: Enter the amount the employer pays to cover taxes and other contributions.
+
+- Step 4: Enter the overhead costs, then click Calculate.
+
+- Your employee's fully loaded rate will be calculated, and each field will be adjusted based on the entries submitted in the calculator.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1209369539/902ddc4c922d09989dab8520b617/Screenshot%2B2023-08-22%2Bat%2B10_06_00%2BAM.png?expires=1763568000&signature=c559c8810ba598fdb3034924ae0d26b143cfbba983bffc57b84d6ba84dd6cab1&req=dSInH8p4lIRcUPMW1HO4zUGabzvm8IYrYpCGHvzVCTw2qmLLAEAnWqhehpv8%0AZCYk%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1209369541/c2b0c28d7dfc6e1f5048ce2e6fac/Screenshot%2B2023-08-22%2Bat%2B10_06_30%2BAM.png?expires=1763568000&signature=26261078de8c89414e1378b349625de81c4dc20f4ffa0ea2e1e699cc67be95b2&req=dSInH8p4lIRbWPMW1HO4zeCBe%2Bi2DGXphKjnxY51w8Nyso4G0W7jXwP1gZHu%0ATt0G%0A
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1209369542/af125cc1c61817f5f25886445b5d/Screenshot%2B2023-08-22%2Bat%2B10_06_42%2BAM.png?expires=1763568000&signature=10b09a3e7b8ce5eede26fa94ac4472567dfce3a20b6af2a47b04606b153e996a&req=dSInH8p4lIRbW%2FMW1HO4zeoXP6E6jxLoptFcjlQ0zApr9%2FdTFKQ%2BqNI52eK0%0A9lpf%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1209369545/4c789e21a0c60f885fcb38dac988/Screenshot%2B2023-08-22%2Bat%2B10_07_02%2BAM.png?expires=1763568000&signature=bec66ad829576b564ce2f9408f3390109570c18bb2c0cd5db637ac2d588f5fff&req=dSInH8p4lIRbXPMW1HO4zcGDlZyhqy%2F%2Bfkye7IofrKDcp334Ryg6LL85PhhS%0AoRcu%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1209369543/c992b0276aecc1db86394e943fed/Screenshot%2B2023-08-22%2Bat%2B10_07_32%2BAM.png?expires=1763568000&signature=410fe44c044d0cec78b9d92adf6c3e631e04a4eb2adb39c15ae298192724670f&req=dSInH8p4lIRbWvMW1HO4zbWvrTlnW8tXy74ywH%2FKZpmr5t8GqhpnzoneyN2e%0Aj0f%2BsQyzHAnPWBaN2HE%3D%0A
+
+---
+
+How the Fully Loaded Rate Is Calculated
+
+Here’s how we calculate your fully loaded rate in the job costing tool:
+
+- We start with the employee’s hourly rate. If the employee is salaried, we divide their annual salary by the total number of working hours in a year to get an hourly base.
+
+- Any amount added in the Fully loaded rate section (as a dollar amount, percentage, or using the calculator) is then added to that hourly base.
+
+---
+
+---
+
+Tracking Material Costs
+
+Materials costs are another important cost category to track. Keeping tight control over and tracking material costs ensures that your pricing reflects the real expenses that are associated with each job. This is crucial to avoid undercharging and a loss of profit.
+
+To get the most out of tracking material costs, you'll want to enable the following features:
+
+- Material line items
+- Material job inputs (best used with Flat Rate Pricing)
+
+---
+
+How to Track Costs for Material Line Items
+
+Building out your Price Book with the common materials you use will make it easier to track the materials going into your jobs.
+
+To track costs for material line items:
+
+- Build out your Price Book with the common materials you use. The more detailed your Price Book is, the more accurate job costing will be, allowing for better cost management and more precise budgeting on each project.
+
+[Image] https://downloads.intercomcdn.com/i/o/576284590/7ac81b85478e83c26f552375/job.gif?expires=1763568000&signature=e6c8c56c0c21bc97efcbe7966e8d60af6837a21b96829102ca51553223895737&req=cSchFMF6mIhfFb4f3HP0gCqgaNjuBoS%2Fj0fikqGO4GzhvxOsN1Xmg%2FjOPqGJ%0AxY1DxV526U7mcRHMfg%3D%3D%0A
+
+- Add material line items to jobs, and be sure to fill out the unit cost field. - The unit cost is the cost of the material to you (not your customer).
+
+[Image] https://downloads.intercomcdn.com/i/o/576285333/a9b1cdcc213e071925b59692/job.gif?expires=1763568000&signature=041781f098b5d74e23958c53179051b45ccc05ee5d4c3460055f460552700a61&req=cSchFMF7noJcFb4f3HP0gEsmepZTpG99hYEExpZ8E%2Fz5FSO5g2gP7H4W%2BMwk%0APEM%2FxhanFkzpIu%2F%2FWQ%3D%3D%0A
+
+---
+
+How to Enable Material Job Inputs
+
+If you want to track materials outside of line items in a way that doesn't impact the price of your job, you can do so by enabling the Material Job Inputs setting.
+
+When this setting is enabled, you'll see a Job Inputs card on the Job Details page (via the HCP web portal and mobile app) where material items can be added. These materials will not show up on the invoice or impact the price of the job.
+
+To enable Material Job inputs:
+
+- Click the gear icon in the top right corner of your account to access your Settings.
+
+- Select Jobs from the Settings menu on the left.
+
+- Select the Cost & Materials tab at the top of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1647825680/39d4ba7f8bd999b66e0a4af0ae09/Screenshot%2B2025-07-31%2Bat%2B1_25_25-E2-80-AFPM.png?expires=1763568000&signature=4802d2aebd84ba2a5ed1af202a2e57688ae5f78526ac8833cefd665cad597298&req=dSYjEcF8mIdXWfMW1HO4zSTlr2cLUqIT78ClHk%2BMBEJNOzsABxuwT3oGl2zB%0AK7Fu%2Fo%2BTtrIC3Vj%2B9cw%3D%0A
+
+- Click the toggle to the right of Material job inputs.
+
+- Enable or disable this setting for all flat-rate services by clicking the box next to Track materials from all Price book services.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1647900831/86342efb06236aed947a5193210a/Screenshot+2025-07-31+at+2_53_24%E2%80%AFPM.png?expires=1763568000&signature=9d464f43a2844a7b280185162767a350aa64a0a7de05bbabbfd21852db0f0eb6&req=dSYjEcB%2BnYlcWPMW1HO4zfuUUTAbHO%2FmvkfzIQP0Bb4auICW2MmjnCttzUg1%0Aag9JDKC%2BYtVTlQT06sw%3D%0A
+
+After enabling the Material Job Inputs setting:
+
+- Add materials to jobs from the Job Inputs card on the Job details page.
+
+[Image] https://downloads.intercomcdn.com/i/o/668050809/485d826e338c516d7019d45c/ests.gif?expires=1763568000&signature=617f5c074ad57d93e8c815bfd601764012d44fffe059cf61d4b7d6b921ca7348&req=ciYvFsx%2BlYFWFb4f3HP0gMC%2BW4MZ4cUISi%2B5edxa%2B2j1pVo2dKNbKsamK4ad%0A8zAHN33VCI0fcoa1gA%3D%3D%0A
+
+- You can also auto-populate material job inputs when flat-rate services that have materials added to them are added to a job. - To auto-populate flat-rate materials, navigate to your flat service in the price book. 
+- Once materials are added to a service, enable the Track materials in your Job settings. 
+- Once enabled, the materials will automatically show up in the job inputs section of the job when the service is added to the job.
+
+[Image] https://downloads.intercomcdn.com/i/o/668053892/3383c2777ae70d87aaf8b815/ests.gif?expires=1763568000&signature=466bcb9f80c2c3e2de2c9aefb567d3525b3e7506efcf0d0e1d68065a2c0923a2&req=ciYvFsx9lYhdFb4f3HP0gLPfBaWkATRc3TPziRYtXOhpsQCqGc9J%2B5GJL9j9%0Ao7%2FfyhS3P1k0O3Ho6A%3D%3D%0A
+
+---
+
+---
+
+Tracking Miscellaneous Costs
+
+Tracking miscellaneous costs helps you maintain a detailed record of job-related expenses that don’t fall under labor or materials, such as permits, parking, and rental fees, to name a few. This approach gives you a complete view of job costs, enabling better financial management and more accurate budgeting.
+
+To track miscellaneous costs separately from line items, you'll need to enable the "Miscellaneous Job Inputs" Job Costing setting in your account. Once activated, you can track these costs via the HCP web portal and mobile app. These costs won’t affect the invoice or job price.
+
+---
+
+How to Enable Miscellaneous Job Inputs
+
+To enable Miscellaneous Job inputs:
+
+- Click the gear icon in the top-right corner of your account to access your Settings.
+
+- Select Jobs from the left menu.
+
+- Click the Costs & Materials tab at the top of the Jobs settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1647825967/a59bc30cacc7c5b6b834c3c9abae/Screenshot%2B2025-07-31%2Bat%2B1_25_25-E2-80-AFPM.png?expires=1763568000&signature=cea1d914c2ee895ad5c41652274cfb5fc171716a5554439468dc313b14525890&req=dSYjEcF8mIhZXvMW1HO4zZIdc6apTzkj0Gf%2FE3ifuZFE9O1cXfAjpXBVwKrf%0A2vG%2BvyHFZYP8UhWbZ60%3D%0A
+
+- Click the toggle next to Miscellaneous job inputs.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1647908554/453b82057b5e6bdab0a3fd3c7522/Screenshot+2025-07-31+at+2_58_34%E2%80%AFPM.png?expires=1763568000&signature=3a717d0cee90a45568cbe79ba5a6ea61427c8d6ec870120a40330c3914cea3f6&req=dSYjEcB%2BlYRaXfMW1HO4zX%2BqQydb8J7eTbwS5T34rYEvPkK8IrZzv94nXc%2Bp%0AaPgOg519eMwF5lKOOvg%3D%0A
+
+---
+
+---
+
+Tracking Commissions and Upsells
+
+If you have a performance pay structure for your employees, you can turn on tracking for commission costs, which will allow you to assign commission rates to your employees. Once you've enabled commission tracking and added commission rates, you can assign commissionable line items to employees on jobs.
+
+Commissions are calculated by multiplying the commissionable amount of line items by the assigned employee's commission rate.
+
+Please note:
+
+- When multiple technicians are assigned to a job, each technician can be associated with specific line items within the job. This allows for accurate tracking of sales and commissions.
+
+- If multiple technicians are assigned to the same line item, the system will attribute the full amount of that line item to each technician.
+
+- To ensure accurate sales tracking, you can assign specific line items to individual technicians. This can be done by editing the 'Sold by' field for each line item in the job details.
+
+[Image] https://downloads.intercomcdn.com/i/o/744793695/3717ae11617ef25fc50e9ce8/commissions.gif?expires=1763568000&signature=1b9536944b3d290fe19310900b43fd0c738c9ba5bb142a15b233d7b6fbd86aae&req=cyQjEcB9m4haFb4f3HP0gI7%2BGxlEc6Fd8BA9bw0ag7d9LXrSnmrcb%2FpM94Aw%0AIZ7ZvVz%2Bmd4uyPgC6g%3D%3D%0A
+
+---
+
+---
+
+Tracking Services
+
+You can use the unit cost field on service line items to track service costs. However, tracking the actual costs of labor, materials, miscellaneous expenses, and commissions will provide a more accurate breakdown of your job costs and margins.
+
+Scroll down to the Expected vs. Actual Costs section to learn how to track service costs as expected vs. actual job costs.
+
+[Image] https://downloads.intercomcdn.com/i/o/589339528/775c4dbb260d8c0e37a0505d/Screen+Shot+2022-09-29+at+1.44.19+PM.png?expires=1763568000&signature=f66525a8f894af09e84f3126556cd3e01810f7693d7cbd345c47d220ab0c9cc6&req=cSguFcp3mINXFb4f3HP0gBCzPWHGEUjE%2FrZ0bnVqPoX%2B7dumLx26yxlcJAXR%0Ag9cbwtGFH8q5EHkufw%3D%3D%0A
+
+---
+
+---
+
+Expected vs. Actual Costs
+
+When pricing your services, you may factor in anticipated labor, materials, and other costs to ensure the service is priced profitably. This is particularly important if you use flat-rate pricing.
+
+With the Show expected job costs setting enabled, the unit cost of any service line item on a job is treated as an expected cost and shown under the Expected Costs section of the Job Costing Breakdown on the Job Details page.
+​
+Material line items or inputs, miscellaneous inputs, commissions, and labor tracked on the job from time tracking will be calculated as actual job costs and are shown in the top section of the Job Costing Breakdown.
+
+---
+
+Job Costing Breakdown (Expected vs. Actual Costs)
+
+Job Costing Breakdown explained:
+
+- Service costs will not be calculated as actual costs in the top section of the Job Costing Breakdown.
+
+- All other costs (materials, miscellaneous, commissions, and labor tracked with Time Tracking) will be treated as actual costs and used to calculate actual profits and margins.
+
+- In the Expected Costs section, the Total Job Costs value reflects the sum of service line item costs on the job.
+
+- The Expected Labor Cost value reflects the expected labor.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1293735622/a605185b15bb116db14113596cac/Screenshot%2B2023-05-11%2Bat%2B10_34_13%2BAM.png?expires=1763568000&signature=89274b69e2c423a99c158915a05ffb5a42f619f4456dc0be5c58f39f7246ece2&req=dSIuFc59mIddW%2FMW1HO4zYn81D8r7zIb7nThbxq1pLnZogv8WRVcEwO8QhV%2F%0Ag0V85leLNRH%2FEOeIlnk%3D%0A
+
+---
+
+How to Enable Expected Cost Tracking
+
+If you'd like to report on expected vs. actual job costs to stay on top of your margins and adjust pricing as needed, you can do so by enabling the Show expected job costs setting in your Job Costing settings. Follow the steps below to enable tracking of expected job costs.
+
+To enable Expected Cost Tracking:
+
+- Click the gear icon in the top-right corner of your account to access your Settings.
+
+- Select Jobs from the left menu.
+
+- Click the Costs & Materials tab at the top of the Jobs settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1647826710/4387ee914f397ca20d6c0c3590e7/Screenshot%2B2025-07-31%2Bat%2B1_25_25-E2-80-AFPM.png?expires=1763568000&signature=6e65cf2b10314d06876af5457c804ebbb194796f54831f512e4795b598e3b0ba&req=dSYjEcF8m4ZeWfMW1HO4zUPvHhB3b%2FBRTHq5CesLWPvouAwgyIEmFO8ZdgsA%0AA8xL%2BuaGdqoYvS7v%2Frk%3D%0A
+
+- Click the toggle to the right of Show expected job costs. When enabled, the toggle will turn from grey to blue. - Note: If you've activated your Flat Rate Price Book, this setting will be enabled automatically.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1647911445/e4262e57e8b3c71bb2bf9f996085/Screenshot+2025-07-31+at+2_59_59%E2%80%AFPM.png?expires=1763568000&signature=5854a2b5827c8a0d564a0e603280e8e9ecf21075f76444041431ddf67c411424&req=dSYjEcB%2FnIVbXPMW1HO4zQk8TcrtfhQ56hsjCa1Q9OB7uJt3isEnJinx6XSp%0A8MVh0KRYjAomSOD2kZo%3D%0A
+
+---
+
+---
+
+Reporting on Job Costs and Profit Margins
+
+Reporting on job costs and profit margins helps you see if you're making enough money from each job. It guides pricing, budgeting, and overall business management for greater success.
+
+As you track revenue and costs on your jobs, you'll be able to analyze your job costs and profit margins from the Job Details page and in job reports. If you're tracking expected vs actual job costs, you'll be able to report on expected margins, profits, and costs vs actuals as well.
+
+[Image] https://downloads.intercomcdn.com/i/o/594291632/519c4186e1a1a5d84fe140f9/ests.gif?expires=1763568000&signature=56ae1b8287a099579042e05688d929e49daac817421ee20a17c8dc41cb874026&req=cSkjFMB%2Fm4JdFb4f3HP0gEBzwu8yr4fhyakEkLGEoldrbTp93q6qA6IxvhkR%0ApOL8Fp0%2B9BiOGrl8cg%3D%3D%0A
+
+---
+
+Job Costing Breakdown Metrics
+
+The following metrics are available by expanding the Job Costing Breakdown on the Job Details page:
+
+- Profit Margin = Gross profit/revenue
+
+- Total Revenue = Job subtotal minus any discounts
+
+- Total Job Costs = Labor costs (including travel and time spent on the job, multiplied by the fully loaded rate of any assigned employees), plus material costs, commission costs, miscellaneous costs, and service costs
+
+- Total Gross Profit = Revenue minus job costs
+
+---
+
+Aggregate Job Costing Reporting
+
+Aggregate Job Costing reporting is available in the Reporting tab of Housecall Pro.
+
+To view the aggregate reports:
+
+- Click Reporting in the top navigation bar of your HCP account.
+
+- Select Jobs from the menu on the left.
+
+- Select any of the reports in the Job Costing section: - Profit by date
+- Profit by business unit
+- Profit by job type
+- Expected costs by date (available when "Show expected job costs" is enabled).
+
+[Image] https://downloads.intercomcdn.com/i/o/589383551/90290b940c3c2831913cf7ff/Costing+only+for+GTM.gif?expires=1763568000&signature=17230ac820ad748a561addc44a6b2f174c6f99c7b796fa87162c71eddca5704c&req=cSguFcF9mIReFb4f3HP0gOCwXVy4p3anK79Vf07XdqJmztGFogF8L8Di37IN%0AsXI8iCRC4wM9ZzWI3g%3D%3D%0A
+
+---
+
+---
+
+Job Costing Margins: Employee Permissions
+
+The Job Costing Margins permission controls access to the job costing breakdown on jobs and related reports. By default, this permission is enabled for Admins and Office Staff employees, allowing them to view job costing information for each job.
+
+- If you'd like Field Techs to view job costing details, you can enable the See job costing margins permission in their team member profile.
+
+- To restrict Office Staff or Field Techs from seeing job costing information, you can disable this permission.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1280023079/9178104d336b8e48d5a285e2eb55/Screenshot%2B2024-10-15%2Bat%2B9_21_17-E2-80-AFAM.png?expires=1763568000&signature=624913520d887abe47bfcd45949c36156dcf23869acacb4e70c28ba00062ffa3&req=dSIvFsl8noFYUPMW1HO4zap6hXblsCk6LvC4Rj7PVq2fqCQhd8LiZ5Y3X4gV%0Aq%2FELIczi7pszKUuxFVo%3D%0A
+
+---
+
+---
+
+Job Costing on Estimates
+
+With Job Costing enabled, you'll be able to track basic unit costs on service and material line items, along with the expected profit margin on estimates.
+
+[Image] https://downloads.intercomcdn.com/i/o/589385218/b10a26f6d72badb97827110d/ests.gif?expires=1763568000&signature=6253af5335b42033a86fb30c2833432afa55504b9082cc869d45b6f775270856&req=cSguFcF7n4BXFb4f3HP0gJqI1WvhN2WP7ukNikCbFZ3JgTiTCbfhUcIVsFKr%0AN%2FytLpDIoMNCn3t3OQ%3D%3D%0A
+
+---
+
+---
+
+Uploading New Price Book Items (Excel or .CSV)
+
+If you are uploading Price Book items through an Excel or .CSV file, you must enter the cost info into a column titled "cost."
+
+Prefer to use a template? We made it easy by including a column for Cost already! You'll just need to enter the cost before uploading or sending it to our team for upload.
+
+[Image] https://downloads.intercomcdn.com/i/o/1118171538/00c735415306687273f32d80/image.png?expires=1763568000&signature=b05479ea4768670a1d249714fc1387490c6d551aeff4675e943337e58dfaa5da&req=dSEmHsh5nIRcUfMW1HO4zYYMYMFy6khoXVlYRe1cCGcFZS4n%2F5U9LtodN9%2BC%0AuXnsHp3%2FV7cJwkAZd88%3D%0A
+
+---
+
+How to Use the Price Book Data Import Template
+
+To use the Price Book data import template:
+
+- Click the gear icon in the top-right corner of your account to access your Settings.
+
+- Select Price Book from the left menu.
+
+- Select either Services or Materials at the top of the page.
+
+- Click the "this template" hyperlink.
+
+- After downloading and filling out the template, click the Upload File button to import the file to your Price book.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1647890084/6af73ef1a2fd0449671792d55163/Screenshot+2025-07-31+at+2_27_13%E2%80%AFPM.png?expires=1763568000&signature=529aa1387131919c4337a45743500d911789bc41fe25fae839f55d6d5b016734&req=dSYjEcF3nYFXXfMW1HO4zWRKIPsyJrqLJIHFjSc8VNIy%2FcyzkqtR1VXIH%2FxN%0AK39SpkJcPMWx9%2BYu3Es%3D%0A
+
+---
+
+---
+
+How to Edit Job Costing on a Job
+
+To edit Job Costing details on a job/invoice:
+
+- On the Job Details page, click the blue pencil to the right of the line item you'd like to edit.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1300277364/83ca87961919e98cbfeae2622005/JobCosting11.png?expires=1763568000&signature=04a090fbef2667bba5e48180bf282bc789996c3f4d1fdbf5166e9a5b2c4f2731&req=dSMnFst5moJZXfMW1HO4zbzLjQj09vaBDJAmio2ZHoQ7JO3Dcn4LwTlBb2YH%0AOHlyNswQj5BbXcNOBS4%3D%0A
+
+- In the Line Item window, use the Unit Cost and Unit Price fields to update the job costing details for the line item as needed. - The value in the Unit Cost and Unit Price fields will be automatically pulled from the Unit Cost field within your Price Book.
+
+- Click Save, and the changes will be updated on the Job.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1300273858/832d8ee5b3882c85e12b880f3abd/JobCosting10.png?expires=1763568000&signature=58aa07e754d38f92de2ca38d70abc0ab632ab92adb1e10f42ef96b5067bb6d7b&req=dSMnFst5nolaUfMW1HO4za23LYkczNLR4ogh2YwoLkkcwI0Fc8LekXMvSndk%0A7NbfmwwFW%2B6pWH4lMSE%3D%0A
+
+---
+
+Need help with understanding your business numbers?
+
+Enroll in Business Coaching by Housecall Pro Coaching Foundations, and our certified Advisors will teach you the playbook Pros like you have used to scale their business to 7-8 figures in revenue.
+
+“This has been the best decision I have made as a business owner. I left my full time job in September to go full time with my business, and I would not be where I am at just a few short months later without this coaching. Highly satisfied.” - Wanye Clark, Foothills Exterior Cleaning Services
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1405411759/8b24ad49a40483adad28adda8432/Business+Coaching+by+Housecall+Pro+%28Article+Footer%29.jpg?expires=1763568000&signature=1b6e5f9cf0b4e3cce1b11537931ab214daca97c8837f84d1359928b9f6e11fca&req=dSQnE81%2FnIZaUPMW1HO4zb6DV5b01qDuu4EXUGOWVfyJyvk4OkHwj3U3OYE%2F%0A6oeaaCgf2PCygilC2Kc%3D%0A
+
+---

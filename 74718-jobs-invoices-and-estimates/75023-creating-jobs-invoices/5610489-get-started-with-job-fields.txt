@@ -1,0 +1,65 @@
+Get Started with Job Fields
+Source: https://help.housecallpro.com/en/articles/5610489-get-started-with-job-fields
+Author: Bricelyn J
+Last updated: Updated over a month ago
+
+Summary: Capture details about job type, business unit, and callbacks to organize important information about jobs while simplify reporting.
+
+What are Job Fields?
+
+While tags are useful for capturing a variety of details about customers and jobs, they can become difficult to manage and report on as the list grows. Job fields provide a more structured and organized way of capturing specific information about your work that results in more accurate and consistent reporting.
+
+Job Types, Business Units, and Callbacks
+
+The following fields are available by default on any job or (with the exclusion of the Callback field) estimate details page:
+
+- Job type: This field can be used to capture the types of services your organization offers.
+
+- Business unit: If you have multiple teams or business units, this field can be used to track which teams are working on which jobs.
+- Callback: If a previously scheduled job resulted in a callback, this field can be used to capture which jobs are callbacks.
+
+[Image] https://downloads.intercomcdn.com/i/o/399731627/a3801415a636e93225e6664e/Screen+Shot+2021-10-06+at+8.45.43+AM.png?expires=1763568000&signature=779619b6f8763c9d02c24b48c91e4963763e20746af9807c2e2a0f44cf29d8ec&req=dykuEcp%2Fm4NYFb4f3HP0gIVGJJ3qjZMcQzjs1D198LractJG0jv7UZpCP0y2%0ARfZBHywsRibeEux4AA%3D%3D%0A
+
+---
+
+Use and Customize Job Fields
+
+Job fields can be used while creating a new job or estimate, or on existing jobs and estimates. Simply select the appropriate value from the dropdown. Next, check the Callback box if the job is a callback. All selections will be saved to the job.
+
+Both Job type and Business unit have default values upon creating a new job or estimate. These values can be changed to better reflect your business and reporting needs. Use the steps below to update field selections.
+
+---
+
+Add/Manage Job Types and Business Units
+
+To add, edit, or delete Job Types and Business Units:
+
+- Click the gear icon in the top right corner of your account to access your Settings.
+
+- Select Job Fields from the Settings menu on the left.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1642484539/4ffce1c3fe022204cb68be84b1e6/Screenshot+2025-07-28+at+4_22_11%E2%80%AFPM.png?expires=1763568000&signature=88f42a2795026268acb74410e632c3c7f29f8bff1e5f7c860e3496197de9e97b&req=dSYjFM12mYRcUPMW1HO4zUeiPFMoRpOESk3T%2B5p2bhRCx7a9pYZb2ANRSdWa%0Aopls9Ez5oXhu1Oi7U4Y%3D%0A
+
+- Click + Job type or + Business unit to add a job field.
+
+- Click the pencil icon to the right of a job field to edit it. Enter a new field value name, then click Save.
+
+- Click the X icon of the value you want to delete and click Delete to finalize the action.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1642490001/3574750fa4663adaff1fa53eeb69/Screenshot+2025-07-28+at+4_24_09%E2%80%AFPM.png?expires=1763568000&signature=cf17df2b3e0588b2aba660c9a9f2a58ec8e028eb38d478dbde78a5197c7110b5&req=dSYjFM13nYFfWPMW1HO4zQ9fJBsP66F55bW52bea3UN5UTtJZKEic%2BpkOdXi%0AK3H%2FmgiO8BfOxkWYN2Y%3D%0A
+
+---
+
+Use Job Fields in Reports
+
+Job fields can be used as both filters in your job reports and as an added column in the job drill-down report.
+
+- To use the fields as filters on reports, navigate to the reporting tab from the web app.
+
+[Image] https://downloads.intercomcdn.com/i/o/904899435/fed0b5aa7efbf3943ec629d3/Screenshot+2023-12-08+at+4.33.30%E2%80%AFPM.png?expires=1763568000&signature=962882410fa9f9220d120b2ff77b0c5a7354cac592efd7f26e04b9a2ff5f82ab&req=fSAjHsB3mYJaFb4f3HP0gFHWgpFaeSdxgUwM8OGacRblojSjJCc1VYSNVCfH%0AFC7xD2o8sNfz0EPRzw%3D%3D%0A
+
+- Select a report and click to add a filter. On the right-hand panel, you'll see Job type, Business unit, and Callback as filters that can be applied to the report.
+
+- Additionally, by clicking into the job drill-down report by selecting View All Jobs, these fields can be added as columns and exported.
+
+---

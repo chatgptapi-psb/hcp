@@ -1,0 +1,57 @@
+Batch Invoicing: Send Invoices & Take Payments
+Source: https://help.housecallpro.com/en/articles/2782323-batch-invoicing-send-invoices-take-payments
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: Send multiple invoices to your customers and take batch payments on grouped invoices.
+
+Batch Invoicing
+
+Batch Invoicing is the process of selecting multiple Invoices from either the same customer or for several different customers and sending them an invoice all at once.
+
+---
+
+Batch Invoice from the Invoice List
+
+- From the Home Page, select the Open Invoices card, or click the Customers tab in the top navigation bar and select Invoices from the left menu.
+
+- Select any invoices that you would like to batch-send.
+
+- Once selected, click the Bulk actions button and choose Bulk send from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1423073918/9e2f0e33945fb9785e1123b5ec4c/Screenshot+2025-03-14+at+1_24_53%E2%80%AFPM.png?expires=1763568000&signature=9e38346a2d36fb3ab51467bdaf91846c73c79c58f7e9490a338bd1fe3ca1d048&req=dSQlFcl5noheUfMW1HO4zRDrrk1%2BrGH2OVYz94tvmQUJjzNCBWtJRZulTMTE%0ANteAxQ8mx6rJc%2FTjg%2B8%3D%0A
+
+- Click Send invoices in the confirmation box, and you're all set! - You will see a small, temporary success floating banner in green in the bottom left corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1423074787/1a27826cdedc2cd47d4e6ab6fe7a/Screenshot+2025-03-14+at+1_29_13%E2%80%AFPM.png?expires=1763568000&signature=cc314ffc37882ca4209e87902af1215f4e69d46567d30bf03210157dc49f0fe7&req=dSQlFcl5mYZXXvMW1HO4zYmz3nOYqeqm3hs23qF1NXVflMXIMIloLMfzSqBJ%0ArvMzsISA0vzfeFQ28XU%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1423075416/1b08c8cb386affa19158a58121f9/Screenshot+2025-03-14+at+1_30_11%E2%80%AFPM.png?expires=1763568000&signature=25f01abec3dfa674a059565921085a699976db81627375aab3ad9c24909cacbb&req=dSQlFcl5mIVeX%2FMW1HO4zT6nQsFKhn%2BqxFvV%2B0ovF%2B93BmSf0b3JWMZUbKqV%0AR%2FqRP0hqPSd7UHnrnio%3D%0A
+
+---
+
+Batch Invoice/Collect Batch Payments from the Customer Profile
+
+When sending multiple invoices to the same customer using Batch Invoicing, all selected invoices will be included, rather than being sent individually.
+
+To send a batch invoice/collect batch payments from the Customer Profile:
+
+- Open a Customer Profile and select the Jobs tab. - Alternatively, If your customer has outstanding invoices, you will see a red banner with the number of invoices and the grand total amount due. Click View Details on this banner to be directed to the Jobs tab.
+
+- Select any invoice to batch send and/or collect payment on. - The selected invoices will be highlighted in blue.
+
+- In the blue banner at the top of the Jobs tab, you'll see: - How many invoices have been selected
+- The total amount to be invoiced/collected
+- 3 batch icons:
+ - Batch lead source (circle icon)
+ - Batch payment (card icon)
+ - Batch invoice (paper plane icon)
+
+- To send a batch invoice, click the paper plane icon. You'll then be taken to the invoice preview, which will show all selected invoices. You can adjust your payment options and add any attachments from here. Then, click Next in the top right corner to continue sending the invoices.
+
+- To collect a batch payment through the system, click the card icon in the top right corner of the blue banner. The payment window will appear, where you can select the payment method (Credit, Cash, Check, or Other) and proceed with taking the payment.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1423177049/dea14fd4c9c6c7455ec36eebf481/Screenshot+2025-03-14+at+2_20_05%E2%80%AFPM.png?expires=1763568000&signature=8030f96b9d409ae3c078b8f2d4dd632195dd37cb904d56425efe999d6b8e2ddd&req=dSQlFch5moFbUPMW1HO4zdkS9s%2B8eIpDf01t%2BRgGdovFFl931HcGm1ALjlyQ%0ALTDaAzO%2B5hF7aMa%2FE6w%3D%0A
+
+---
+
+---

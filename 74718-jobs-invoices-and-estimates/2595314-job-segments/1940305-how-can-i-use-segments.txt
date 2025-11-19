@@ -1,0 +1,85 @@
+How can I use Segments?
+Source: https://help.housecallpro.com/en/articles/1940305-how-can-i-use-segments
+Author: Taylor M
+Last updated: Updated over a month ago
+
+Summary: Use segments for jobs that require multiple visits, a return visit, collecting  deductibles, and taking multiple payments
+
+---
+
+Segments
+
+Segments are ideal for Jobs that require multiple visits, collecting deductibles and billing insurance companies, or that need multiple payments. Each segment has its own Job page within the original Job details page, where you can schedule, start, finish, and invoice the work separately, while still keeping everything organized and combined under one job page.
+
+Below are a few scenarios on how to use segments in your workflow.
+
+Scenario 1: Multi-Day Jobs
+
+- If you need to schedule a job that lasts more than one day, with multiple visits, or requires different technicians, use Segments.
+
+- In the example below, we will walk through scheduling a sprinkler system installation. The job will last two days and will require a different technician for each day or phase of the job.
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/lm7ubc0imv
+
+- Create a new job by clicking the New button in the top navigation bar of your HCP account, or open an existing job.
+
+- Click the gear and wrench in the top right corner of the page to open your job options window.
+
+- You will be able to choose Add segment or Copy to new segment. Both options will create a second segment for the job. - Add segment will create a completely blank Job page for the second day. Select Create, and a new Job details page with both segments will populate. You will have the option to add the second segment to the invoice
+- Copy to new segment will copy the information from the original job to the second day. A copy of the original job invoice will be included in the second day's invoice. Select Copy, and a new job details page with both segments will populate. The first invoice details will automatically transfer to the copied segment.
+- You have the option to rename the segments.
+
+- You can edit the job cost per segment as needed by editing the line items.
+
+- You can schedule the job once all information has been added/updated.
+
+- Once the job has been completed, you can invoice the customer.
+
+---
+
+Scenario 2: Need to Make a Return Visit
+
+- While on the job, you find that you need to order additional parts and schedule a return visit to complete the job.
+
+- Add a Segment to the original job and schedule that return visit without having to create a new invoice.
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/dqpe21o7uj
+
+- Create a new job by clicking the New button in the top navigation bar of your HCP account, or open an existing job.
+
+- Click the gear and wrench icon at the top right of the page to populate your job options.
+
+- Click Add segment. - You have the option to rename the segment.
+
+- You can edit the total job cost as needed by editing the line items.
+
+- Schedule the job once all information has been added/updated.
+
+- Invoice the customer. - You will have the option to add the second segment to the invoice.
+
+---
+
+Scenario 3: Taking Deductibles and Billing an Insurance Company
+
+- If you take a deductible from your customers but bill an insurance company, you will want to use Segments to properly keep track of the total owed, the deductible amount, and any taxes that need to be collected.
+
+- In the example below, we will go through scheduling a windshield repair where our customer pays us a $100 deductible, but we need to invoice the insurance company for the full amount of the job (including tax), less the amount of the deductible already paid by the customer.
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/8nc2bi0zkj
+
+- Create a new job by clicking the New button in the top navigation bar of your HCP account.
+
+- Schedule the job.
+
+- Click the gear and wrench icon in the top right of the page to populate your job options.
+
+- Click Add segment. - You have the option to rename the segment.
+
+- Add line items.
+
+- Process a payment for the deductible. - Add a description
+- Once you've added the amount you want to bill for, click Paid. You will then see the updated balance on the invoice preview as well as just below the Pay button.
+
+- Invoice the customer. - You will have the option to add the second segment to the invoice
+
+---

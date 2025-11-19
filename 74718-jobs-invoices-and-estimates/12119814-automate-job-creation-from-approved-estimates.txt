@@ -1,0 +1,44 @@
+Automate Job Creation from Approved Estimates
+Source: https://help.housecallpro.com/en/articles/12119814-automate-job-creation-from-approved-estimates
+Author: Pat P
+Last updated: Updated over 2 months ago
+
+Reduce manual work and ensure you never miss an approved estimate by automatically creating a new job when an estimate is approved.
+
+This article will walk you through how this new automation works and how to set it up for your business.
+
+---
+
+How it works
+
+Automation is supported for two workflows:
+
+1. When a customer approves an estimate: If the automation is enabled, a new job is automatically created as soon as a customer approves an estimate through the Customer Portal.
+​
+2. When you approve an estimate from the web or mobile app: The approval process has a new, easy-to-use option to "Copy to new job." When you approve an estimate, this checkbox will be pre-selected for you, and the job will be created automatically.
+
+---
+
+How to set it up
+
+By default, this setting is turned off. To enable it:
+
+- Click the gear icon in the top-right corner of your Housecall Pro account to access your Settings.
+
+- Select Estimates > Automations from the left menu.
+
+- Toggle on the switch next to Automatically copy an approved estimate to a new job - and that's it!
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1700204058/a573cf47759d2266b6b9c68cf240/a4478a8a-74e5-4681-8712-b791f70d0510?expires=1763568000&signature=cb7e28b1f6ba51540070eea022d2c4e016a49bd5870dc85cb99cea75cf62323f&req=dScnFst%2BmYFaUfMW1HO4zQLZfb7RVNyv6ozG7%2BzKhr1IXeSz0YXjMmdtyaR%2F%0AXjrZCm8afZR3fiZcjyA%3D%0A
+
+---
+
+Manual approvals
+
+You can now easily copy estimates to jobs while manually approving estimates yourself in the web and mobile apps.
+
+To do that, after clicking Approve on the estimate, simply make sure that the Copy to job checkbox is selected.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1700204057/f2f128c206617e6457dad17ad211/4168e6d2-ba00-4e3b-9d1c-bb3bf42a8030?expires=1763568000&signature=dd154fbebb95096711d986fc7e60c48fd720c3f9f8c46d9c6443c19df3741025&req=dScnFst%2BmYFaXvMW1HO4zccKu8OfNS8ujkVYB4Z%2FnWI9UXxR1MklgfQjpkUk%0A%2BR5dMvMSAMwcP9UdIlY%3D%0A
+
+---

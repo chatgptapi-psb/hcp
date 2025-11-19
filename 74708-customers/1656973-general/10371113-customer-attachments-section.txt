@@ -1,0 +1,117 @@
+Customer Attachments Section
+Source: https://help.housecallpro.com/en/articles/10371113-customer-attachments-section
+Author: Olivia R
+Last updated: Updated over 4 months ago
+
+Summary: View all of a customer's attachments in one centralized location.
+
+Customer Attachments Section on Web
+
+A new section on the Customer Profile, the Attachments section enables you to see a complete aggregation of a customer's attachments across their profile, jobs, estimates, and equipment in a timeline view.
+
+Attachments are organized by date uploaded in descending order, with the most recent attachments at the top. By default, 25 attachments are displayed per page, but you can configure the page to display 50 or 75 attachments on the bottom left.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1398736876/c48d48b23ecdfee1f18f2428725e/image.png?expires=1763568000&signature=e02d6e1a8d03c6707c2e30b765228115449ee1097a1153f5ceadc2c787b8ce31&req=dSMuHs59m4lYX%2FMW1HO4zcb20yxVqGVHbzsT20mKL4WBleWtuLiAbZu2knYu%0Afc5%2B2V6PYsV2xP2g9zE%3D%0A
+
+---
+
+Functionality
+
+Clicking on a thumbnail image displays an image in a carousel viewer. From this viewer, you can navigate through attachments by clicking the arrow buttons or using your keyboard.
+
+On the top right, you'll see a link to the customer profile, estimate, job, or piece of equipment, depending on where the attachment was originally uploaded. This enables you to easily pull up the relevant attachment details.
+
+You can also rename or download individual images. To rename the file, click 'Edit' on the right panel and then save your changes. The download button is available in the bottom left corner. If you rename your file and then download it, the file will be downloaded with an updated name.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1398736875/4b12fe9404184ca5bbec8ca065bc/image.png?expires=1763568000&signature=12722133c9ea3aa706c036a3a95e521dd6a5c0d5b6f1b7dbba2db645769602c1&req=dSMuHs59m4lYXPMW1HO4zb3z0Yvk%2F7K14OznQ%2F%2BJmpwKmjHnNY9QvWQ%2FCw16%0AJJyHlDtocGUaaRQarNA%3D%0A
+
+---
+
+Sharing Attachments with Customers
+
+Pros now have a single, streamlined location to share attachments with a customer, accessible via a new Attachments tab in the Customer Profile. This feature allows Pros to document their work and manage their workflow more efficiently.
+
+Key Features:
+
+- Ability to share any attachment to the Customer Portal, via email or SMS.
+- Ability to bulk download attachments.
+
+How to Share Attachments with Customers
+
+To share attachments with customers:
+
+- Navigate to a customer's profile on the web.
+
+- Click the Attachments tab.
+
+- Select the attachments you'd like to share by clicking the checkbox on each one.
+
+- Click the Share button.
+
+- Choose either Email or Text as your delivery method.
+
+- Enter the recipient's email address(es) or phone number, and adjust the message if needed. - You can send to multiple email addresses, but only one phone number at a time.
+
+- Click Share to send.
+
+---
+
+FAQs
+
+How do I access the Customer Attachments section?
+
+- You can access the Customer Attachments section by going to a customer's profile and then clicking "Attachments," which will be the rightmost tab on the screen.
+
+What type of attachments are supported?
+
+- While all attachment types will be displayed, thumbnail and carousel previews will only be displayed for select attachment types, including most images, videos, and PDFs.
+
+Can customers see all of their attachments?
+
+- No, your customers will continue to see only the attachments you share with them via an invoice or an estimate.
+
+Why do I see a "no attachments" message?
+
+- This means you haven't uploaded any attachments for this customer across jobs, estimates, equipment, or their profile.
+
+Can I view child attachments on a parent customer's profile?
+
+- Not at this time. To view attachments from child customers, you must navigate to the attachments section of the child customer's profile.
+
+Am I able to download attachments in bulk?
+
+- Not currently, but this is a functionality we are exploring.
+
+Is this available on mobile?
+
+- Not yet, but we are working on building out the equivalent mobile functionality.
+
+---
+
+---
+
+Customer Attachments Section on Mobile
+
+A new section on the Customer Profile, the Attachments section enables you to see a complete aggregation of a customer's attachments across their profile, jobs, and estimates in a timeline view.
+
+---
+
+Functionality
+
+Attachments are organized by date uploaded in descending order, with the most recent attachments at the top.
+
+You can filter attachments by object in the top left by Customer, Estimate, or Job if you wish to only see attachments uploaded to one of those object types.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1514544398/b57198e79deda0e0612adcf501d4/AD_4nXcryDhaIdF6x8J1h5-4npI8oAOu0gRrLMWMNNoUxJritc_UHbKOP2fUOFEDypIDAZllsTZTh_K24dWj-7LdhSi8k3LWwXIV5AIhuscY1bNrOtc_rL0Kb5a70J6GRA9dDzrNYpO0gw?expires=1763568000&signature=1a88a3e35c9c600f87dfd4785a55cea8dc98f1e84a724bc3267651fad0694a30&req=dSUmEsx6mYJWUfMW1HO4zR4Y6APEMzBBQWmolBkLHqXkUiu59DN6WN0wqzEN%0AaT5ZhnsTDfbrTBcwT6k%3D%0A
+
+Clicking on a thumbnail image displays an image in a carousel viewer. From this viewer, you can navigate through attachments by swiping.
+
+Underneath the photo, you will see a link to the Customer, Estimate, or Job the attachment was uploaded to.
+
+In the bottom right, you can view details including the date and time the attachment was uploaded.
+
+The share button in the bottom left will enable you to share the attachment via email, SMS, or another app, as well as save the attachment to your device.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1514662597/b51e1e7d8133ee89c7a4ce23df6f/AD_4nXfByLCrJhR0YGaWD-4qFrOZlMgzNJSe-T5U-OQVFEtR3fiGbLYTG3c3caxY_wgaUOVFO3KLQ2bmR3TRk_geLhysbKG4P2pG5uu6BofZxhTWqJ6kgqpsBN6jJq_x4uBo_FkyBZoIng?expires=1763568000&signature=8aac2a3ffd2e2a1662945368064698246ea35bd673deeb8dfbd3220eecaa952e&req=dSUmEs94n4RWXvMW1HO4zeyk5thtlXSwQYTt5R4rTi6nEYsiW%2FBg0oTeRjyD%0AFyD88YIAvlDio87Knn4%3D%0A
+
+---

@@ -1,0 +1,79 @@
+Global Chat
+Source: https://help.housecallpro.com/en/articles/10778784-global-chat
+Author: Gillian H
+Last updated: Updated over 2 weeks ago
+
+Summary: Learn how to use our Global Chat feature.
+
+How to Use the Global Chat Feature
+
+To access and manage your Chat messages:
+
+- First, navigate to the right rail and click the Inbox icon.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1805384817/df2cc45c93c7ed497aea9fb14980/Global%2BChat%2BRight%2BRail.png?expires=1763568000&signature=eb1d6fdc506c81b56d22048fe7f919bb9bc0f7ab6244c0c0be1d4f02ccf5b194&req=dSgnE8p2mYleXvMW1HO4zSvKiZowzzRcTqCIBYNMyoxTVjM6eLVxopD3kc1%2F%0AQsPaCvpaMcPIIrdfXVQ%3D%0A
+
+- Next, you will see a whole list of your chat channels. This aggregates your Customer, Employee, and Job Inbox chat messages.
+
+- To send a new message, click the pencil icon located at the top-right of the Global Chat page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1801659443/6b232a85b72b29ebd26699be3540/Global%2BChat%2BRight%2BRail%2B-%2BChat%2BList.png?expires=1763568000&signature=f99725e86d7ef5d1b3b0558c50706ef824d3b1939a9143a3224eaf6b14f6b3c2&req=dSgnF897lIVbWvMW1HO4zfCrxOsFtua8O0%2BPEdre3pxnx10v4OM3buReURMS%0AFgRNXYexuNXaXaS0%2B%2Bk%3D%0A
+
+- To navigate to a chat, select it in the chat list and it will open directly in the right panel.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1770782979/aedcc41b96c8210e7075ba4b34bb/Global+Chat+Right+Rail+-+Individual+Chat.png?expires=1763568000&signature=44de5651cb5c029248e4ccf8196990537b3507a295fa98a0c5f04e7426346f3d&req=dScgFs52n4hYUPMW1HO4zVI1K%2F07QXG2ZCQDddnktA1OfX7U2HzsKTThBSlc%0Ailr65Y45N0JRdX6vCAY%3D%0A
+
+- Once you are in a chat window, you can click on the Customer profile icon to open up the Customer profile.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1770783122/7dc9aacb26afea2940a34659eac0/Global+Chat+Right+Rail+-+Customer+Profile.png?expires=1763568000&signature=cc5dcb550201b08b704d4432d8e979aebe65a9b2567ce1af271986171854256f&req=dScgFs52noBdW%2FMW1HO4zYm4ZhiqZ5MWd1fAYbyIEj%2FCGEq9%2BPvU%2Bvn4AMXm%0AF7%2F66RqrijlTYVL1saE%3D%0A
+
+- Once you are in a chat window, you can click on the phone icon to populate the customer's number into the dialer if you have VoIP.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1770783223/982c2a0860238079d1c2122cffd5/Global+Chat+Right+Rail+-+Call.png?expires=1763568000&signature=cbc19e2bed01ca3ce5e0fe9af7acfb640f4268ea533f7ad84758d8e0d81d2a46&req=dScgFs52noNdWvMW1HO4zWY5vVQ4N7iKivL5O%2FoCNPeZFGtZWtM7eGp3gWOq%0Ag2zeQzV44B9DA2OJFTA%3D%0A
+
+- The pop-out icon will move the chat into a chat window in the bottom right corner of your screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1770783376/5fdd6703568297158899dd59fec3/Global+Chat+Right+Rail+-+Popout.png?expires=1763568000&signature=ba2bb5eb167b4624a851607ee6c2199901718142fa965ae9d3beb075b41e19e5&req=dScgFs52noJYX%2FMW1HO4zXmmfpdu5%2FH5R9l%2BFRR2%2F42x8Dka%2BiMUDwECdNyR%0ANM%2BFBUxdvmsBtD3ROXQ%3D%0A
+
+- In a chat that has been popped out, the arrow icon will minimize or maximize the chat so it doesn’t interfere with what you are doing in Housecall Pro.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1770784182/6831c23d180e57faf37475153941/Global+Chat+Right+Rail+-+Minimize+_+Maximize.png?expires=1763568000&signature=5f76e16216e8b6bb2086c8bb11dac8a8a951686839c6aa1497c38e6a8b27d663&req=dScgFs52mYBXW%2FMW1HO4zTFRY%2FsmIot7LDJVUXJ6Y13X%2Bbz4eZXohGXm%2FjMN%0ASuFDISrUlFNpe%2FZFTIk%3D%0A
+
+- The X icon will close the chat window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1770784318/81de081ec895f91584b29901d39f/Global+Chat+Right+Rail+-+X.png?expires=1763568000&signature=b6436432e7c0aa6ccc14ff4159ce3658b728ad86357d5357e79545c8c70d9208&req=dScgFs52mYJeUfMW1HO4zd8ngW%2Fi2NVUvl8U81FGnjC1w9goMtoyOWPaufHY%0AW5WOfIxEV9Y2Ai9wDwQ%3D%0A
+
+- Within a chat window, you will be able to hover over the chat to take action on an individual message: - For a message you receive, you will be able to React or Copy the message.
+​
+ 
+ 
+- For a message you sent, you will be able to React, Copy, Edit, or Delete the message.
+ 
+ 
+- For Voice messages, you will be able to download the recording if there is one.
+
+- To manage your chat windows, you can click the more icon and you will be able to select Close all chat windows or Minimize all chat windows.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1770784468/410d412fda5e2429e57295d27515/Global+Chat+Right+Rail+-+More.png?expires=1763568000&signature=3a2a18ce1a5267ff3f9df9f1b631e606e31dace840e2d3bc7f4b5867793ef221&req=dScgFs52mYVZUfMW1HO4zT%2BQif5tghel7H%2FnwzbggJEFvGESOBtyHiJn6pub%0AXShtdqp3yXHxlJ4nJuA%3D%0A
+
+- Close all chat windows will close all the windows from Global Chat.
+
+- Minimize all chat windows will hide all the windows. You can open the chat window again by clicking on the chat window.
+
+- Mark all as read will mark all of your messages as read.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1770784556/3a07cbbc940d92cbc68914c4731c/Global+Chat+Right+Rail+-+More+Dropdown.png?expires=1763568000&signature=0ecfae6eeddee042437885b1178cffc7e18951c5094c0222bad22b1a7a653ab7&req=dScgFs52mYRaX%2FMW1HO4zbiG2ZC3mVGZFC%2BbbXD1f0IpDS2AIw7YIZSlEPg4%0APkO0rF5x0iiOaj98wWo%3D%0A
+
+- You can also filter the Global Chat Inbox to: - All Comms
+- Customers
+- Employees
+- AI Team
+- Job inbox
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1770784795/1db7819045c3510a9a9bbb39ef3b/Global+Chat+Right+Rail+-+Filter+Dropdown.png?expires=1763568000&signature=333dde928e5c9f872e64bd1d3c403541847dfa03ad48162a2d6e4ba7a18f8326&req=dScgFs52mYZWXPMW1HO4zfPmTY%2FpWzYYc2qJu8JW2eRIpabOsYqk3NEqNv5g%0AlFppx5DrTcuaEDIE0p4%3D%0A
+
+- You also have the ability to view only your unread messages through the unread toggle.
+
+- If you have multiple chat windows open, they will minimize under a More icon
+
+---

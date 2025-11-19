@@ -1,0 +1,36 @@
+How do I delete a multi-segment job or multi-option estimate?
+Source: https://help.housecallpro.com/en/articles/1078179-how-do-i-delete-a-multi-segment-job-or-multi-option-estimate
+Author: Alyssa Moretti
+Last updated: Updated over a month ago
+
+Summary: Delete a job or estimate with multiple options
+
+You already know how to create jobs with multiple segments or estimates with more than one option. But things change! So let's learn how to delete these jobs/estimates.
+
+The process is nearly the same for estimates and jobs, other than this: with jobs the menu will say 'segment,' with estimates the menu will say 'option.'
+
+To delete a segmented job, you first need to delete any extra segments. After opening a job, from the job details page, hover over the segment you would like to delete at the top of the job, and click the 3 horizontal dots.
+
+[Image] https://downloads.intercomcdn.com/i/o/1078736715/e24e4fcde2be8d92be95c1d4/Screenshot+2024-06-11+at+11_47_04%E2%80%AFAM.png?expires=1763568000&signature=938bb890cf1e44893e93a3600227bb03d498bef1fb95097ef4c97c78cda40d07&req=dSAgHs59m4ZeXPMW1HO4zQOAZYX4jZJcrpQkp7topPOeyR3QObAAeeOuzEyw%0AY8SDa9Ktn9Gmlr0sGGY%3D%0A
+
+A drop-down menu will appear, you can then select the 'Delete Segment' option:
+
+[Image] https://downloads.intercomcdn.com/i/o/1078739033/73ebc4c776c790163b504a20/Screenshot+2024-06-11+at+11_48_39%E2%80%AFAM.png?expires=1763568000&signature=6e1f03f2895e3b9cfe6b351441d5b211f9078403e827b8b778cc554ce3375b0e&req=dSAgHs59lIFcWvMW1HO4zcYWSM3QrEUPdmpbecTOGryaLKC1sOU2%2FWT%2Bv8s1%0AdmoIrMxfMGMA0GZkxbE%3D%0A
+
+A new pop up window will appear, select the black 'DELETE' option to confirm you would like to delete this segment:
+
+[Image] https://downloads.intercomcdn.com/i/o/1078741071/cad50744cc8602a9f01f2781/Screenshot+2024-06-11+at+11_49_44%E2%80%AFAM.png?expires=1763568000&signature=350cf3a8bb6ff91d0989230291c60d810802a47f82e5ebc4bac95cdce768f62e&req=dSAgHs56nIFYWPMW1HO4zaYwS2Ogl%2Fu3CV6PnMjmqKWqSz7e02gapiu5jYwg%0AOf95E7MaXRCrJknvncw%3D%0A
+
+Continue this process until only one segment remains. Once there are no more segments, select the wrench icon in the top right corner of the screen:
+
+[Image] https://downloads.intercomcdn.com/i/o/1078743173/8a2c3ee464325ec25ea74bed/Screenshot+2024-06-11+at+11_52_43%E2%80%AFAM.png?expires=1763568000&signature=95d6b1747093c2a5bf588271de13e1692e391340981c777ea7c5b4a6fadfc887&req=dSAgHs56noBYWvMW1HO4zRkSE6gMeLJrPiQ3B9UkYRp3GdNFNzRsMVtjjh7e%0AjX2AAc24SP1%2F%2BviCK7o%3D%0A
+
+A drop down menu will appear, and you can then select the 'Delete Job' option:
+
+[Image] https://downloads.intercomcdn.com/i/o/1078745086/295fca49170f4497ea805930/Screenshot+2024-06-11+at+11_55_01%E2%80%AFAM.png?expires=1763568000&signature=f1ae4b86e9e2fb0343c234d1a776b0912b3f54a17fc17a2ca622e01058492bb8&req=dSAgHs56mIFXX%2FMW1HO4zRVkMSU0QGxCK0R08xmNV0KArjPkIjjdvHQAcS%2BC%0A7Snu0fQxqiUbmkvS%2Bjs%3D%0A
+
+A new pop up window will appear, select the black 'DELETE' option to confirm you would like to delete this job:
+
+[Image] https://downloads.intercomcdn.com/i/o/1078746709/8a27d180adc847b03fb5fc25/Screenshot+2024-06-11+at+11_55_47%E2%80%AFAM.png?expires=1763568000&signature=b21e466e6c6934444314051c27dd657d3183a99f54932999926a95cb9d8fbc50&req=dSAgHs56m4ZfUPMW1HO4zblVkeagfc53i3oDz96zf%2Fbw3J3RYTC0MUeJfpA2%0AePrUc6EVDuJGxgOXRBE%3D%0A
+
+---

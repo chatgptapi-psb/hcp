@@ -1,0 +1,85 @@
+Using Job Templates
+Source: https://help.housecallpro.com/en/articles/9101271-using-job-templates
+Author: Bricelyn J
+Last updated: Updated over a month ago
+
+Summary: Learn how to use job templates to streamline job setup
+
+Job Templates Overview
+
+Job templates can help you automate capturing information for common types of work to reduce manual steps and errors. Information on jobs helps your employees get the context they need about the work they're doing and gives you better quality reporting.
+
+[Button] Go to my Job Templates -> https://pro.housecallpro.com/app/settings/job_details/job_templates
+
+---
+
+Add and Manage Job Templates
+
+When you create an account with Housecall Pro and select plumbing, HVAC, Electrical, window cleaning, carpet cleaning, or home cleaning as your company's industry, default templates will be created for you.
+
+To add and manage Job Templates:
+
+- Click the gear icon in the top right corner of your account (on web) to access Settings.
+
+- Select Jobs from the Settings menu on the left.
+
+- Select Templates at the top of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1642066242/8a81c707517f1d0cdcc46f11a857/Screenshot+2025-07-28+at+12_01_21%E2%80%AFPM.png?expires=1763568000&signature=728051132dd04cce4b2a3a6a1dad74f91156c894e8def5d9ee34ece25b2a4aa7&req=dSYjFMl4m4NbW%2FMW1HO4zdcsoVagxH9eFNM3MRCtQLlUr9eaVGvxBeJ47JWK%0AoQY1GT2ehrFAXuyw340%3D%0A
+
+- Create a new template by clicking the + Job template button to the right.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1642078365/8fbf242cd3dd411ef4b2bee5499e/Screenshot+2025-07-28+at+12_04_56%E2%80%AFPM.png?expires=1763568000&signature=d364ad53309b6ed8005e36ba7a8b21f2fbcb243f58621923b228e981b558b25c&req=dSYjFMl5lYJZXPMW1HO4zfw%2BLpe59cQIugQGO%2FcXHxwM9oKeIShTaoad5Yo3%0AZzGBsSusItkXqCw8CrA%3D%0A
+
+- Edit an existing template by clicking the pencil icon to the right. Make updates as needed, then click Save in the top right corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1642081704/57d24b8f3b79d9e836d594c317bc/Screenshot+2025-07-28+at+12_05_30%E2%80%AFPM.png?expires=1763568000&signature=379403037352d350cc3c311937d2e14ff8a9658602da39c599761c541ea8f13f&req=dSYjFMl2nIZfXfMW1HO4zdi6KOL7MJXfi4Bs%2BSbv7ysu5pkicBcCb7dD1U7i%0AsUwpBh7Gfl%2F0HOxCCnU%3D%0A
+
+- Duplicate an existing template by clicking the More icon (three dots) in the job template row, then select Duplicate.
+
+- Delete a template by clicking the More icon (three dots) to the right. Select Delete from the drop-down, then click Delete in the confirmation window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1642075142/e0da23eefd77d5af01f69c096c09/Screenshot+2025-07-28+at+12_05_39%E2%80%AFPM.png?expires=1763568000&signature=e65e4ad4a8b2fd7fcb1280ce04cc92d8e02da07913c14b166d3e97dff9ba3d31&req=dSYjFMl5mIBbW%2FMW1HO4za%2FPst389YFx0%2BgN5Q%2FERFHWmifxNTkPWNhwvj1M%0A8Jp4IuC1%2BC2Mb5%2FxdP4%3D%0A
+
+The following information can be added to a job template:
+
+- Template name
+- Checklists
+- Job fields
+- Job tags
+- Private notes - Only employees who are able to see the job will see the note.
+- Attachments - Add any documents or photos that may be needed for the job.
+- Line items (Services and Materials) - Line items on templates must be saved to your price book. If you add a line item that doesn't exist in your price book yet, you'll be asked to choose a location to save it. 
+- Information on the line item (e.g., quantity, price, description, etc) cannot be changed on the template, but once the job is created, the line item information can be updated.
+
+---
+
+How to Use Job Templates
+
+Job templates can be selected when creating jobs or applied after a job is saved. Once applied, any information from the template will be automatically added to the job.
+
+Adding a template while creating a job:
+
+[Image] https://downloads.intercomcdn.com/i/o/998886131/a35f844a7d62104761dd8761/add.gif?expires=1763568000&signature=da0f9c0e4dfe3bab209cedff5353d703b1fe62e245691e8268e5946355af1966&req=fSkvHsF4nIJeFb4f3HP0gHuUJEBjqolhjU67ysqzt%2BhZTNqT4udc4Y4J7gIB%0ANlf0ToV8ztervLLRNA%3D%3D%0A
+
+Adding a template from an existing job:
+
+[Image] https://downloads.intercomcdn.com/i/o/998887299/bd2fac4acc2f8fac5c43a924/jobs.gif?expires=1763568000&signature=168471b837af442fbc4865d1dcd9352802612cbb8731d7b9918731377e0005dd&req=fSkvHsF5n4hWFb4f3HP0gES0zGFsi0qjJqIr1UG%2BRDsrS5V5x3LuRvP%2FJBiy%0ARZ1fYsTwHONWTS826g%3D%3D%0A
+
+---
+
+Job Templates on Mobile
+
+Job Templates on mobile can be applied by creating a job or added to an existing job. Just as on web, if information is added to a job before a job template is applied, applying a template later will not delete any existing information on the job.
+
+Adding a template when creating a new job: 
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/1071328446/6024b9ccc218a8e5a2ee0753/new+job+template.gif?expires=1763568000&signature=522e1242ca4e3f49c5f345b2b51f4a69db0ccc2d6da21ad45137b56a0d1767ca&req=dSAgF8p8lYVbX%2FMW1HO4zSiTleJhE3MOI0utaSjfvgZIuaA7T6Qyw7O8HbQd%0AahIEemVgT2rn100Ak6w%3D%0A
+
+Adding a template to an existing job: 
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/1071297960/3fab7241ced652a2661d185b/existing+job+template.gif?expires=1763568000&signature=e45bf8b637fe6c363be30779bea7c4b70188a14820bde9fbdf885989e0c15166&req=dSAgF8t3mohZWfMW1HO4zRKeFUPnOXBQkDLB4mwyQbB%2BQE5EM5RciWWaN1SS%0Ar1wRxi%2BPzxiBoHK2x7o%3D%0A
+
+---

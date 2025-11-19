@@ -1,0 +1,153 @@
+How do I change an Estimate, Job or Invoice number?
+Source: https://help.housecallpro.com/en/articles/1133223-how-do-i-change-an-estimate-job-or-invoice-number
+Author: Francisco C
+Last updated: Updated over a month ago
+
+Summary: Learn how to change an Estimate, Job or Invoice number.
+
+Change your Estimate Number on Web.
+
+- Navigate to the Estimate Details Page and click on the Estimate #.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234638596/1049b0591720fdf29b883553b528/Screenshot+2024-10-30+at+3_56_10%E2%80%AFPM.png?expires=1763568000&signature=151361e4fad5563e5709d89ddf0f285f547c6f4e75ffc8c5e4838d90909f5741&req=dSIkEs99lYRWX%2FMW1HO4zddiUWs9hohkxdhrG8PsV4qqaS4%2F1rUb9Czi1QF4%0A2unmm1JWF5BoRyCL6fk%3D%0A
+
+- Enter your newly desired number in the prompt that appears and click Save.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234638830/10badf7d9baf648c8b15babec7b9/Screenshot+2024-10-30+at+3_56_34%E2%80%AFPM.png?expires=1763568000&signature=9ac87cb704c956a99c08b7e72f158a4f553664e98f6231f5550a25af9810269f&req=dSIkEs99lYlcWfMW1HO4zTNgj5tky%2Fa%2BUg91kn6tZT9xARgC6H78FQqZba6B%0AowV%2FnhinFKVyIHqsoso%3D%0A
+
+- You will see a temporary floating banner in the lower left corner of the page that says, Estimate number updated successfully.
+
+Note: You will not be able to change the Estimate number to another number that is already assigned to an existing Estimate.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234641519/0c334823c66967329acc2f63c20e/Screenshot+2024-10-30+at+3_58_56%E2%80%AFPM.png?expires=1763568000&signature=442ad75c6a5f611d65ccb04762d0a28a363e54c9d08c68863a7c699efaeb8837&req=dSIkEs96nIReUPMW1HO4zVwGBvvT46mUDV3yISIQn630gEYNvdRuBlRcTi6C%0AvPSfev9M%2FzLgkgXKBxA%3D%0A
+
+---
+
+Change your Job Number on Web
+
+- Navigate to the Job Details Page and click on the gear and wrench icon in the right-hand corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1635160303/eb5f71b9d580efbf3b99d838c898/image.png?expires=1763568000&signature=78b575fed2ce7188bbfb0d64f6341cae701fa4005ef9ed07a79db3457746ada6&req=dSYkE8h4nYJfWvMW1HO4zWndDapMX5omq%2BssHVr%2FzyRYuJ6C0m64V1DsChC%2B%0AikbLJkuEExkywQyEgDM%3D%0A
+
+- Then, select Edit job number from the dropdown menu
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1635162533/c4ccb5331b40d47e87d7d7d963fb/image.png?expires=1763568000&signature=0d5c8b6214a4fb2235bca65f62545283df7f0a85a9580c54b1abd4c0757463aa&req=dSYkE8h4n4RcWvMW1HO4zaXCcgYt4rTxmGvq%2Bfq1zj7N8iHkgUjN%2B%2B8xRL9n%0A4lA6CJs26sikAtvYEJk%3D%0A
+
+- Enter your newly desired number in the prompt that appears and click Save.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234645982/6ac04966b8e2d5fb4167c12b701a/Screenshot+2024-10-30+at+4_08_54%E2%80%AFPM.png?expires=1763568000&signature=d6f1103f211207e3e07000ccfa5343f11986af189e95dcce7b8181d9c51ccbf0&req=dSIkEs96mIhXW%2FMW1HO4zSh4ncm329mlcpKNTpnXqbM6tt9Gbq8x1nXn40XL%0Avp%2Fziv1bcI1uTJtyHJ8%3D%0A
+
+- You will see a temporary floating banner in the lower left corner of the page that says, Job number updated successfully.
+
+Note: You will not be able to change the Job number to another number that is already assigned to an existing Job.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234647393/1c130b197e56397100594f5b9609/Screenshot+2024-10-30+at+4_10_25%E2%80%AFPM.png?expires=1763568000&signature=c75aa665047725f629fb587d45daaa9b2131ef4b339e86c29914a09d9dab7c24&req=dSIkEs96moJWWvMW1HO4zfdVwVgSussxEyrXUoyuFFqIXstmpI5FkQIvyF2k%0AqLxS9vKc6uJji4gYXe4%3D%0A
+
+Change your Invoice Number on Web
+
+- Navigate to the Job Details Page and click on the blue Invoice #.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234650368/016ce7305d73ea8dd6bb95f578d3/Screenshot+2024-10-30+at+4_14_35%E2%80%AFPM.png?expires=1763568000&signature=530de4b2ba1701fe83343a791b291671fdde8020c21e7d83a50512a959b5ea94&req=dSIkEs97nYJZUfMW1HO4zW7Rk8DO0ZmXlQBd4xxjWnfswBuopWlgIH6vEtsL%0A0sZMI312pHs%2B46ADVHw%3D%0A
+
+- Enter your newly desired number in the prompt that appears and click Save.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234650019/5176be0b306a35c169653fcb6826/Screenshot+2024-10-30+at+4_15_58%E2%80%AFPM.png?expires=1763568000&signature=fe354823c6be7e0f10136bf1348ed47fbb0dfa5a3f31715cd11bccbd93ef0508&req=dSIkEs97nYFeUPMW1HO4zXt2KntHpMsNexHAywIfH2UAbOqHN%2FMuOUUhXxLk%0AkOrln1swoiXCG3gKRVc%3D%0A
+
+- You will see a temporary floating banner in the lower left corner of the page that says, Invoice number updated successfully'
+
+Note: You will not be able to change the Invoice number to another number that is already assigned to an existing Invoice.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234651234/aaa316927c8d69793ab152c51ccc/Screenshot+2024-10-30+at+4_17_31%E2%80%AFPM.png?expires=1763568000&signature=56e1088a7f39001600cf07e1edf5de2d7284c89df274bef6fafacd5daf4fc362&req=dSIkEs97nINcXfMW1HO4zQ4%2FIvmojCeKM10Msctj0BL5ztpLHGwUQRR9aDdb%0AarsHXTQxUWDL08aR%2Bpc%3D%0A
+
+---
+
+​
+
+Change the Estimate Number on iPhone
+
+- Open the Estimate Details Page
+- Click on the 'Estimate' icon (paper airplane icon)
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1235843693/4c84eb2dc9a9c2a5c47581d2b5d9/Image+from+iOS.jpg?expires=1763568000&signature=365896ecd4ae68c14824946cf84745e8fcdf2144f6516c9701366ba18821d3c1&req=dSIkE8F6nodWWvMW1HO4zdd8r6eL8EZjcgnu76uZLzXPkJkElfJEHU%2FRcFB3%0AXKQFr%2FBwNlc7Onq7IoA%3D%0A
+
+- Click on the 'Settings' icon (gear icon in the upper right corner)
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1235847051/95cc4f5f3094ecdb3078813b3033/Image+from+iOS+%281%29.jpg?expires=1763568000&signature=8865b69271f79fcf9a180a2a616770593dcbdd073f961983b90eba806122252c&req=dSIkE8F6moFaWPMW1HO4zRpxSzGUeH5wwCewqDU%2F39B7IZTWcQ4N%2FXHopPMv%0AYnbTwDrueABsvPWS0yw%3D%0A
+
+- Click 'Estimate number'
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1235847632/d568f56d4892a6de7f17c37ee30a/Image+from+iOS+%282%29.jpg?expires=1763568000&signature=f08a28a9267bb97f7ef6de67ab612cdecba0378058f2cac3a1b138f2de2c1def&req=dSIkE8F6modcW%2FMW1HO4zWCPw0Oc5ztDf8geF6A85sJ11n8WsYObEKTSZQ3s%0Acx2fCFZgOFs21N8EdRk%3D%0A
+
+- Type in the new Estimate number. Then, click 'Save'
+
+- Tap the 'X' in the top left corner to return to the Estimate details page
+
+---
+
+Change the Job Number on iPhone 
+​
+
+- Open the Job Details Page and click on the pencil icon next to the Job #.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1235852897/332a47920c424fd1e4f090b13770/Image+from+iOS+%283%29.jpg?expires=1763568000&signature=512893164e7df806e9fa459967f113b20d294e3e2959683b81121d5ca3104061&req=dSIkE8F7n4lWXvMW1HO4zftlkfhR2Cf37GndMksKYIEv5oh6ihxDGvuwCR3R%0Ab%2BfPeMSI7OoxV0l8%2BW0%3D%0A
+
+- Enter the desired Job number and click save. If successful, the Job number will automatically reflect the new number.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1235855277/e6f172d73541d66856fffa21aaac/Image+from+iOS+%284%29.jpg?expires=1763568000&signature=55eb443b4166095bb113b487d3be902d22cca5585300fa1abaadbcaa7de01258&req=dSIkE8F7mINYXvMW1HO4zUk6Csy930MfJpSyth2KzBtxlmUQCdlapqsv6xCi%0AG3O%2B%2FENMHNiDlcpF2LM%3D%0A
+
+---
+
+Change the Invoice Number on iPhone or Android
+
+Changing the invoice number using an iPhone or Android is not currently possible. This is only available on the web version at this time.
+
+---
+
+Change the Estimate Number on Android
+
+- Navigate to the Estimate details page and click on the 'Estimate' icon (paper airplane icon)
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1235916371/c7927d2891896fcfba44ba59d9b5/Screenshot+2024-10-31+at+7_03_16%E2%80%AFPM.png?expires=1763568000&signature=312ce74a56785156ea3fbad1d3c0006ae7f5b94048e81d7ac57068057c0513a2&req=dSIkE8B%2Fm4JYWPMW1HO4zaDy5%2Fjp%2B7%2BERJmuvXHXPGfpZfVPHyMU7y4%2BDOBI%0AILOjR6DzuAtxUp31OBk%3D%0A
+
+- Click on the 'Settings' icon (gear icon in the upper right corner)
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1235926668/15fbbac37e427078ad6532cfade2/Screenshot+2024-10-31+at+7_22_28%E2%80%AFPM.png?expires=1763568000&signature=63b919a2008bff7606b9041e481d7c3535fb4d321fd19d8837ee282d1db97986&req=dSIkE8B8m4dZUfMW1HO4zYrEpjQyNYkFEGNyaYHsJEgzz2z71gkPljt%2BQGuG%0AOgw6Gj1Ig2cYyCGuHWo%3D%0A
+
+- Click 'Estimate number'
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1235922053/7bcc7e86017495552cdb59557bc5/Screenshot+2024-10-31+at+7_03_43%E2%80%AFPM.png?expires=1763568000&signature=1adcda1e9fdbe83ed1d4cdd6bc622bb0efc42aecde72300ffef1d005226239b6&req=dSIkE8B8n4FaWvMW1HO4zYSg3kEK9BXLAOMivCrS5l0EdbKyD7b%2BZwKuNkUV%0ApQVoDDIqZ67gx%2BuaAEc%3D%0A
+
+- Type in the new Estimate number. Then, click 'Save'
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1235922633/38bcf3f005ffbff0ef4ba8c1c546/Screenshot+2024-10-31+at+7_03_57%E2%80%AFPM.png?expires=1763568000&signature=20431a93f99b779c8659321d88756b3a461f71eac1f86c00db8de481adf2608a&req=dSIkE8B8n4dcWvMW1HO4zY%2FWpgzGmzztZka59PSzhmHVmfmUknI1aO9n6J8z%0ArJHjOnSBT6R5Wssqd%2Bk%3D%0A
+
+Change the Job Number on Android
+
+- Open the Job Details Page and click on the pencil icon next to the Job #.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1235924449/533b8128ed6c2dcd3a7b86ad357c/Screenshot+2024-10-31+at+7_17_29%E2%80%AFPM.png?expires=1763568000&signature=a95ccf803f5a996c4ca35d51b4b2c5a1c1b799ce03b48604fb08a2e755199b99&req=dSIkE8B8mYVbUPMW1HO4zQXINyQ%2BjnWwjSbFIMEZg%2BlsD8ypV30NWiqQBChY%0A%2BR%2B6rj8bY2iXoHG%2FcJQ%3D%0A
+
+- Enter the desired Job number and click 'OK'. If successful, the Job number will automatically reflect the new number.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1235925309/d2fc092cb880505dd266caca0244/Screenshot+2024-10-31+at+7_17_45%E2%80%AFPM.png?expires=1763568000&signature=c9766f373454ca6e05f16f4820974f301f29f197fac9f98166b82025d396235a&req=dSIkE8B8mIJfUPMW1HO4zZLd9e9h%2B8YmhkHbMDRNz5twV67xVG1pDLP20xxm%0AnIWk3OjyyNZgY7tk5Os%3D%0A
+
+---
+
+Best practices
+
+- If you want to check the highest invoice number available, use the invoice list view to see the last created invoice number
+- Housecall Pro will always run Estimate, Job and Invoice numbers in sequential order, starting from the HIGHEST number in the system. This means, if you change an invoice number to #100 but there is an invoice in the system listed as #200, the next invoice created will be #201, then #202, #203, etc.
+- By default, HouseCall Pro accounts are configured using Simple Invoicing, which simply put means that creating a job will automatically create an Invoice. Accounts that have Progress Invoicing turned on will not automatically display an invoice number on the Job Details page. 
+​
+
+Frequently asked questions
+
+- Will my job and invoice number always stay the same number as one another? - This depends - invoice, job and estimate numbers are all independent. This means, an estimate, Job and/or Invoice can have the same number and be completely unrelated. 
+- For most HouseCall pro users, creating a Job will automatically create an invoice. 
+- For those using Progress Invoicing, the Job and Invoice numbers can diverge if you have many invoices to one job or are using deposits.
+- Can I make my invoice number lower? - Yes, if that lower number is available you can re-set the invoice number to something lower. We do not recommend constantly changing numbers. Please keep in mind that the next job you create, the invoice will pick up from the last highest number.
+- Please chat into support if you require assistance here.
+- If I edit the invoice number, will this cause issues with Quickbooks? - No, currently we push JOB information to QuickBooks to ensure all critical information is sent ex. payment, due dates, customer details, etc. The invoice number in Housecall Pro does not go over to Quickbooks. Learn more about what information goes over from Housecall Pro to QuickBooks HERE.
+- Will the system warn me about duplicates? - Yes, you will see an error return if you enter an invoice number that is already in use.
+
+---

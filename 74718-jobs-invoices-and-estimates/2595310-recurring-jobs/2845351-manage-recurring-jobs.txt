@@ -1,0 +1,122 @@
+Manage Recurring Jobs
+Source: https://help.housecallpro.com/en/articles/2845351-manage-recurring-jobs
+Author: Sarah C
+Last updated: Updated over 6 months ago
+
+Summary: Make changes a single recurring job or the entire series.
+
+How to Edit Recurring Jobs
+
+If you have a recurring job scheduled but need to make changes to one or all, you can edit the dispatched employee, frequency, or scheduled time/date by following the steps below.
+
+---
+
+Edit the Entire Series of a Recurring Job
+
+Editing the entire series of a recurring job will impact the current job you are making the change to and all future jobs in this series.
+
+To edit the entire series of a recurring job:
+
+- Open a job to view the Job details page.
+
+- Edit the job using the Schedule button (calendar/pencil icon) or click the pencil icon in the recurring job card on the left side of the page.
+
+- Select "This job and all future jobs."
+
+- Make your changes and click 'Save.' - Changing the date, time, assigned technician, and arrival window will impact the job you are on and all future jobs. 
+- If you change the recurrence details (i.e., weekly to monthly), the change will be made starting with the current job. 
+- If you change the duration of the job, the change will be made starting with the current job, meaning the duration will "reset" starting with this job.
+- For examples of how this works, please visit the FAQ section at the bottom of the article.
+
+Video Walkthrough:
+
+[Image] https://downloads.intercomcdn.com/i/o/1071579804/31a6b92b6c759a9e1d0e3f1f/recurring+3.gif?expires=1763568000&signature=7ae2b2a10be9150f3ec98090d55acfc9e4b5417a17d236d4ce5697285dae42cc&req=dSAgF8x5lIlfXfMW1HO4zb%2BXRr%2BfE12oNfuT%2BSvX%2FHQQ6K9UeRc4Sf6P3vks%0Ag7lIcusSmb3p55SJe%2B8%3D%0A
+
+​
+
+---
+
+Edit a Single Job Within a Recurring Series
+
+Editing a single job in the series will only impact this current job and there is not an option to adjust the series as a whole.
+
+To edit a single job within a recurring series:
+
+- Open a job to view the job details page.
+
+- Edit the job using the edit Schedule button (calendar/pencil icon) or click the pencil icon in the recurring job card on the left side of the page.
+
+- Select "Only this job."
+
+- Make your changes and click 'Save.'
+
+Video Walkthrough:
+
+[Image] https://downloads.intercomcdn.com/i/o/1071584561/1a89c2b3a575e5f24fb93ac2/recurring+4.gif?expires=1763568000&signature=b1fe57b7707c5a6918032a884aff65d97a17e55e7e6456df74833ade1e36ec36&req=dSAgF8x2mYRZWPMW1HO4zXVYxG3%2FkhDQLmqoS%2FG5xB9L9pyIX8NGBOtdraO8%0AX2OygnRoAELw8etFGLk%3D%0A
+
+​
+
+---
+
+How to Delete a Recurring Job
+
+You can easily delete one job within a recurring series OR delete the entire series altogether.
+
+To delete a recurring job:
+
+- Open the job details page for the job that needs to be deleted. - If you need to delete an entire series from a specific date moving forward, open the first occurrence that will NOT be completed.
+- Click the gear & wrench icon in the top right corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/1193155675/31bb645b2d8f85a680061c72/Screenshot+2024-09-25+at+2_26_45%E2%80%AFPM.png?expires=1763568000&signature=1b8e8c12f4c2e1e048ebadfe968f699699c4112a4bd3c65372e520334d8cde02&req=dSEuFch7mIdYXPMW1HO4zRI4KCUVnu88%2BiiboKChAdRTxJUjBwmaMN1kFdTO%0Aym%2Fdu54TxBcvdhrES5k%3D%0A
+
+- Select 'Delete job' from the drop-down menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/1193157526/4a155ce127cc032535261089/Screenshot+2024-09-25+at+2_27_45%E2%80%AFPM.png?expires=1763568000&signature=250867de77e35afbbcde7d02b478324a6a8e8b5e32b977150aea00dfd41210c2&req=dSEuFch7moRdX%2FMW1HO4zXdXkTngJUNkNSmnm7qqkOsdlXCVwY3HFm71Ien7%0AJpgcClwwU0ZYya7%2Fu9M%3D%0A
+
+- Choose whether you'd like to delete: - 'This Occurrence' 
+- 'This and Future Occurrences'
+
+- Once you select an option, the changes will be made immediately, and you will be taken back to your Home page.
+
+[Image] https://downloads.intercomcdn.com/i/o/1193158552/046a43e7c4db5e5cd816a259/Screenshot+2024-09-25+at+2_28_42%E2%80%AFPM.png?expires=1763568000&signature=6feae7725f354d7dbf77eaf4ee2c697d745a970af5bfe66e277e57288670be5c&req=dSEuFch7lYRaW%2FMW1HO4zYd2YiJMHQk4QMXKU5F67H%2B9Rh%2B6E0%2Fp%2BYpUKF0d%0AIjEvY9b2SnRCr0bVZog%3D%0A
+
+---
+
+Recurring Jobs FAQs
+
+How do I delete or cancel a recurring job?
+
+- Deleting and cancelling recurring jobs follow the same rules as many any other edits to a recurring series. These changes can be applied to a single job or the remainder of the series. Use the job options menu from the job page to delete or cancel jobs.
+
+I would like to take a current job and make it recurring. How do I do that?
+
+- Simply edit the job you wish to make recurring and add the new recurring details. This job will be considered the first job in the series. So if you make a series with 5 jobs the result will be the current job + 4 new jobs. 5 in total.
+
+I am not seeing a recurrence option.
+
+- Recurrences are only available on jobs. Recurrences cannot be created on: - Segments
+- Estimates
+- Jobs with more than one appointment
+
+What happens for a never-ending recurrence?
+
+- The frequency of the series will determine how many jobs are initially created in the series. Do not worry - the recurrence will be automatically extended. - Daily, weekly, and monthly jobs will extend 1 year into the future.
+- Yearly jobs will extend 5 years into the future.
+
+What happens when I make changes to the duration of the recurring series?
+
+- Scenario: Increase or decrease the number of recurrences. - What happens: The number you enter on this change impacts only jobs moving forward, not the total number of jobs for the entire series. The recurrence will "extend" based on the number you enter.
+- Example: I have a recurring job with 4 occurrences. On the second job, I increased the number to 10. There will be 10 more occurrences starting with this job, so in total 11 in the series.
+
+- Scenario: Change the end date further into the future. - What happens: We extend the recurrence to that date.
+
+- Scenario: Change the end date to a date in the past. - What happens: Any recurrences after that date will be deleted.
+
+What happens to my recurrence rule when not all months have the same amount of days?
+
+- Scenario: I schedule a monthly recurrence for the 31st of each month. - What happens: Jobs will only be scheduled for the months that have 31 days in the month. If a month only have 30 days, a recurring job will not be scheduled for that month.
+- Scenario: I schedule a job for the 5th Friday of the month. - What happens: Jobs will only be scheduled for the months that have a 5th Friday. Jobs that do not have a 5th Friday will not be scheduled. 
+- Recommendation: Schedule the job for the last Friday of the month.
+- To ensure that all jobs are scheduled in a monthly recurrence, please be sure to schedule for a date that is guaranteed to happen each month.
+
+---

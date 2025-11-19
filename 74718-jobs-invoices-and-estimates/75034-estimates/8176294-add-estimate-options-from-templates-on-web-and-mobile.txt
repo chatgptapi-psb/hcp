@@ -1,0 +1,109 @@
+Add Estimate Options from Templates on Web and Mobile
+Source: https://help.housecallpro.com/en/articles/8176294-add-estimate-options-from-templates-on-web-and-mobile
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: Use templates to quickly send or present pre-built options to your customers
+
+To learn how to create estimate and proposal templates, Click here.
+
+---
+
+Accessing estimate/proposal templates from the new estimate flow
+
+To create your option, select a template by clicking the TEMPLATES button. Keep in mind that you can only select one template on this page since you can create only one option there. After you hit the SAVE ESTIMATE button, you can create more options for your estimate.
+
+[Image] https://downloads.intercomcdn.com/i/o/852113080/a4897f6121b0f70ad9565aa5/Screen-Recording-2023-10-12-at-2.gif?expires=1763568000&signature=cca0c740612a9ea73ca46afcf9bee7f4c257b6970d4c712d018af5acd7103865&req=fCUlF8h9nYlfFb4f3HP0gHDlSAsMvw%2BdMcxTgoD8KUPLvHrOfimOgSl%2Bxl6K%0ACnT2Rkk6DY9QjxGeOw%3D%3D%0A
+
+---
+
+Accessing estimate/proposal templates from the estimate details page on web
+
+To apply a template for your current option, click the TEMPLATES button at the top right corner of the line items component. This will allow you to select one template that will replace the current content of the option:
+
+[Image] https://downloads.intercomcdn.com/i/o/852119447/092e6478edc1cfd7f4acf036/Screenshot+2023-10-12+at+20.58.55.png?expires=1763568000&signature=f733855ade4fc1650ebab73a2656e3f896830ec18d3669acef32d86540d03852&req=fCUlF8h3mYVYFb4f3HP0gNXk18txWGbUmSoVlHODTpWs%2FwJF9C0zq0xIX4Ts%0AzHO08yBso2PFd4pU5A%3D%3D%0A
+
+Accessing estimate/proposal templates from the estimate details page on mobile
+
+On the mobile estimate details page, click on the pencil for editing line items. You will be prompted to add a new line item from scratch, or from a template. Once you click on from a template, you will see a list of your pre-built templates. Select the template you would like to use and it will be applied to the estimate.
+
+[Image] https://downloads.intercomcdn.com/i/o/1199241588/a8269decf221b5ebef7b0a6f/estimate+templates+gif.gif?expires=1763568000&signature=89cb084f45f4e7cc9293689ae06afdf59b957b37b722cdacdbacd4104a1bbaf4&req=dSEuH8t6nIRXUfMW1HO4zTV7jePd8IlpfV2npxZvS1cdLaec9nW%2BhtOkbhcL%0Av7FeZI%2FAXfY1PLpb2lc%3D%0A
+
+Adding new options from an estimate or proposal template on web
+
+Click the ADD OPTION button at the top of the screen to add new options from templates to your estimate:
+
+[Image] https://downloads.intercomcdn.com/i/o/793252161/57ee34a4104f1d3208e40cfb/addoptionbutton.gif?expires=1763568000&signature=840de2406b57f641b7261bdcd1fc416236064f2f4c8f8575ba3c6aa81c51c1c2&req=cykkFMx8nIdeFb4f3HP0gDmUEX%2B2N0f2wOVHsojpX0H6JeFjt7w4n6R%2F3iOZ%0A1oo%2BL%2FRpzXZ2gNjAGw%3D%3D%0A
+
+Clicking ADD OPTION opens a two-item menu.
+
+1. New Option
+2. Select from templates
+
+To create options from pre-existing templates, click the Select from templates item:
+
+[Image] https://downloads.intercomcdn.com/i/o/793252555/37e9c2081a087a7f57272d58/selectfromtemplates.png?expires=1763568000&signature=392c98f095d6f3f9abdf828a908e731aa5c3f7d3fadded5506b3273fd68a270f&req=cykkFMx8mIRaFb4f3HP0gDhXpMtdU50EhCJoXxl12Lcbc2T19C%2F6dBSqWu9s%0A8PPlo9guVFubelf%2B0A%3D%3D%0A
+
+This will open a modal that you can use to browse your templates and select which template(s) you want to use to create your options:
+
+[Image] https://downloads.intercomcdn.com/i/o/793252763/88bb8d94ffc4463c1b009b8f/select+templates+option.png?expires=1763568000&signature=da925f8e32ada74da6fd7fdb29d5d01532c007dcdbdd41c7f3706fb469579d41&req=cykkFMx8modcFb4f3HP0gExUDeqd3ZYhpiL8T1uMJns0q0Lld2k8wdNpzBlP%0Ab9gFK%2FIyclt%2Btbgo5A%3D%3D%0A
+
+Templates inside this modal are organized into their respective categories. The category structure inside of this modal mirrors the category structure inside of the Estimate templates section of your price book.
+
+To select desired templates, navigate to the last (sub)category within a given category path. This will open a list of all templates you have added to that (sub)category. This list can also be sorted:
+
+[Image] https://downloads.intercomcdn.com/i/o/793256026/5af54b32ea8d1d9533005049/templatescategorygif.gif?expires=1763568000&signature=edf47872033cc0345fa169b2c86f5c651944ffe40533feef94e19e4465584578&req=cykkFMx4nYNZFb4f3HP0gIiaVKcju4UfiaeFb41UGLWEhv%2FRgU5jdNwEBWA4%0AZzEuUfkibDD%2BdBVamw%3D%3D%0A
+
+You can select more than one template to quickly create multiple estimate options. It is also possible to select templates from different (sub)categories.
+
+[Image] https://downloads.intercomcdn.com/i/o/793256674/ef6af0a68fd04cc2b9f6199b/templatessubcategoriesselect.gif?expires=1763568000&signature=e6f0164f808cbd8214dc7faddebba2ac1c0d98c23606a21c7cc1cab11606ec5b&req=cykkFMx4m4ZbFb4f3HP0gNWSEJMEt%2FiuRU0eQuF%2FOqSpy22D%2FFktzGGmNS%2B5%0Al8H1waElQ4EJEDEvJQ%3D%3D%0A
+
+Updating options created from templates
+
+You have the flexibility to make adjustments to any estimate options that you add from a template (e.g., you want to apply a different discount to a specific customer).
+
+One-off changes applied to the option will not automatically update the original template used to create the option.
+
+Adding new options on a mobile device from a pre-built template
+
+You can use pre-built templates on the Housecall Pro mobile app!
+
+1. Create an estimate with an empty Option #1
+2. Click the "More" button on the top right of your screen
+3. Select the templates you want to use! You can choose multiple templates to create multiple options at once.
+
+[Image] https://downloads.intercomcdn.com/i/o/873955602/51c1888600f72fbd67e5373c/101723-estimate-and-proposal-templates-on-mobile-static-assets_asset-1-460x310+%281%29.png?expires=1763568000&signature=34762f46306ded1bfe5b83e4bd6ead5dbaa7c27b47a0e509e6e8beff8b1c9d32&req=fCckH8x7m4FdFb4f3HP0gJ9PXiOawLBVf1KA7hDq8XHJtpqUWBqISTB8ZEZT%0A%2Bmzm2q7osR9gwczneQ%3D%3D%0A
+
+Tap More in the top toolbar and choose Add option(s) from template. You can then create one or more options from your pre-built templates
+
+[Image] https://downloads.intercomcdn.com/i/o/860046914/26231f502705547039161945/101723-estimate-and-proposal-templates-on-mobile-static-assets_asset-4-option+presentation-mobile-460x310.png?expires=1763568000&signature=fb48aa30961593bd38552001f3189710d822e2ceae70bce57e3dc909bb769c71&req=fCYnFs14lIBbFb4f3HP0gArWfi2qiQved21xiiehTWSLJFott%2FGzpbUi1iq6%0Ac9sBUk16ivdRPleFJQ%3D%3D%0A
+
+You will see a new view that you can use to browse your templates and select which template(s) you want to use to create your options:
+
+[Image] https://downloads.intercomcdn.com/i/o/844649422/6d3de074f66e7d638fbd614d/image.png?expires=1763568000&signature=0b86d1f8824ee780168d751ba520ae8532e4954a136d10ba0acf6913cf489859&req=fCQjEM13mYNdFb4f3HP0gCsM1cb128UKzYHw8Mz9XQIBH%2FF6aCwAQB2g3t1m%0ABW1ju%2BIRfz%2BW0VJ3Pw%3D%3D%0A
+
+To select desired templates, navigate to the last (sub)category within a given category path. This will open a list of all templates you have added to that (sub)category. You can select more than one template to quickly create multiple estimate options. It is also possible to select templates from different (sub)categories.
+
+[Image] https://downloads.intercomcdn.com/i/o/844647577/23c1fcb310c606edaeeb6846/image.png?expires=1763568000&signature=b84c0b46f41a450a4e36074580d607027e24e12f442de570695c9c67d646f134&req=fCQjEM15mIZYFb4f3HP0gKUkyUNpvtwaKW%2BkBVVaPb8Sb5lzuHinmQjd9oud%0AWIwv%2BRWKCWZ5lqrCpg%3D%3D%0A
+
+Presenting Sales Proposal options from pre-built templates on the Housecall Pro mobile app
+
+[Image] https://downloads.intercomcdn.com/i/o/873954408/8fb341ba63cf27384ae6c638/84pu93.gif?expires=1763568000&signature=bcc11f43d8b56db7f4e8e0e9bf2c0cf45a11093f88d9ca18ce97ae9a9b4f3685&req=fCckH8x6mYFXFb4f3HP0gAjy3lFbpKADdQ8zPTKV2jTUiKpD2f2bo8S6Soi9%0A%2BJAlD6Nj4lrDCtrrfQ%3D%3D%0A
+
+If you have access to Sales Proposal Tool 2.0 with your Housecall Pro plan, you have the ability to provide an optimized 'presentation mode' of your estimates (Sales Proposals).
+
+Proposals enable you to create engaging sales experiences, provide 5-star customer service, and easily upsell larger jobs.
+
+By using the same workflow detailed in the previous section, you can now use pre-built templates to more efficiently present good, better, best proposal options to your customers on a job site!
+
+If you have existing templates from Sales Proposal Tool (1.0) Your work is safe! All of your templates are moved into the new Archived templates category. You may continue to edit these templates and you can move them to a different category if desired.
+
+How do I add Sales Proposal Tool 2.0 to my account?
+
+If you already have access to the Sales Proposal Tool with your current plan, you will automatically get access to the new updates. If you are interested in adding the Sales Proposal Tool to your plan, you can chat into the blue bubble to connect with a Success Advisor, or visit the Housecall Pro App Store.
+
+See what our Pros have to say about the Sales Proposal Tool!
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/lth2xlvmqw
+
+---

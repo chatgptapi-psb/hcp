@@ -1,0 +1,158 @@
+Jobs & Estimates: Unschedule and Undo Actions
+Source: https://help.housecallpro.com/en/articles/2823066-jobs-estimates-unschedule-and-undo-actions
+Author: Nate H
+Last updated: Updated over 2 months ago
+
+Summary: Unschedule or undo actions like OMW, Start, and Finish on jobs and estimates.
+
+Sometimes customers need to reschedule an upcoming job but don't know what day or time works yet, or maybe you have accidentally selected a job status. You can easily unschedule the visit or undo actions without deleting the entire job/estimate.
+
+---
+
+Unschedule a Job or Estimate (Web)
+
+To unschedule a job or estimate in the HCP web portal:
+
+- Open a job or estimate.
+
+- Click Undo directly above the Schedule button at the top of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1226616137/1d13c0e277ee41364d3ecdd1c75d/Screenshot+2024-10-23+at+2_27_52%E2%80%AFPM.png?expires=1763568000&signature=e1a03d8d1860c99c940a7f5570e545a2c832ff711897c948d40a3608a7f17d36&req=dSIlEM9%2Fm4BcXvMW1HO4zVx3YRk4%2BPuBfUhz3umpX%2F%2FgJzW36l95a9h1i26v%0AuyTjlxvJDdLnfL4mR60%3D%0A
+
+- Click Unschedule job in the confirmation window to proceed.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1226618709/751b93027c270640db39919daf14/Screenshot+2024-10-23+at+2_31_07%E2%80%AFPM.png?expires=1763568000&signature=e9bac920ea1144eaa55886d51135eebf962ce85f3e8e6f5ff7796b9473baaca5&req=dSIlEM9%2FlYZfUPMW1HO4zc5Q8FJFuayjavo5g66%2BOFn76Fqak%2FjCo5Ki8Q3A%0Aen48CZ0YNUFhzZZrSUA%3D%0A
+
+---
+
+Unschedule a Job or Estimate (iPhone)
+
+Unschedule a job or estimate from your calendar from your iPhone without deleting it completely.
+
+Below are the steps to unschedule a job or estimate from your iPhone:
+
+- Open a job or estimate on the mobile app.
+
+- Scroll to the Schedule section and click the pencil icon.
+
+- Select Unschedule.
+
+- Click Done to save.
+
+[Image] https://downloads.intercomcdn.com/i/o/1200498940/b53be263c5ffa5d56353f0e6/mobileunschedule.gif?expires=1763568000&signature=c2f0124fa7d600fb199353ee2f82237e8b0139767347fc967eff88f536970c32&req=dSInFs13lYhbWfMW1HO4zRc5uWFjOmJvlu2txsuxVkkMw0zUBkJBhn1lsFN0%0AhIcrtg00tXfPMTT1mww%3D%0A
+
+---
+
+Unschedule a Job or Estimate (Android)
+
+Learn how to unschedule an estimate on your Android phone in just a few seconds!
+
+- Open a job on the mobile app.
+
+- Click the Schedule section.
+
+[Image] https://downloads.intercomcdn.com/i/o/1200498934/0c895e36d057ba3ccfb7bb9c/Screenshot%2B2024-08-14%2Bat%2B7_30_12-E2-80-AFPM.png?expires=1763568000&signature=ef3c00ff0b7155b0eefb42d448c6b760c0e2389503a78dc50c211f547d8ab79c&req=dSInFs13lYhcXfMW1HO4zV35v9harAkZHH%2BPyipHSilzBA1yEQSNhorqIBhP%0AE9CquABNQ6J0JPy3p8c%3D%0A
+
+- Click Unschedule at the bottom of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/1200498936/c759c9e44f517d9ffb93b19d/Screenshot%2B2024-08-14%2Bat%2B7_30_40-E2-80-AFPM.png?expires=1763568000&signature=e21ec7e65800b8a720b78b7f2f513c9d7d9f20e9cb94867114d7b7f1b1259084&req=dSInFs13lYhcX%2FMW1HO4zQn03C%2FshvwcF37ZSxxtxZmA42Kypw4alMw1wbgi%0Aeu6mXFveOBTPwi7bkiU%3D%0A
+
+- Click OK in the confirmation window to proceed.
+
+[Image] https://downloads.intercomcdn.com/i/o/1200498933/ed0b94b93831dce15522dd9a/_no_subject__-_christina_green_housecallpro_com_-_HouseCall_Mail.png?expires=1763568000&signature=d027fb5ed6469d5c2c462e4ce295e1f7a8eb6f9c69ff7f5a19140c6e70be6e25&req=dSInFs13lYhcWvMW1HO4zUAu5Y2Mg9BwP%2BOoRdZJv5fmw0YZ%2BBA0t58AH6gn%0AigNAzk7xdkjrzLnQC%2FM%3D%0A
+
+---
+
+Locate Unscheduled Jobs and Estimates (Web)
+
+From the Schedule tab:
+
+- Go to the Schedule tab in the top navigation bar of your HCP account on web to access your calendar.
+
+- Click the Unscheduled icon (calendar with a red x) on the upper left side of the page.
+
+- To schedule, you can drag and drop the job or click the job to open it.
+
+[Image] https://downloads.intercomcdn.com/i/o/667020350/64eb3acb6c4b60f5db9292bb/Screenshot+2023-02-06+at+6.32.26+PM.png?expires=1763568000&signature=a467a5dcad09f0113020793ce77153d0f2da2e8d59ee8bdbfcbf0038e973370c&req=ciYgFst%2BnoRfFb4f3HP0gK%2BFXKWU4iZ84qcV9bC1PC%2FqcXb6Aj5JOFydIgW4%0A5nAgBfZAQ57Vf6PzIA%3D%3D%0A
+
+From the Customer Profile:
+
+- Select the Jobs or Estimates tab in the Customer Profile.
+
+- For estimates, the status will show as Unscheduled.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1226661954/6fec1047ac5bd77715d36706d3b2/Screenshot+2024-10-23+at+3_03_03%E2%80%AFPM.png?expires=1763568000&signature=71b4c7f9340ea308bc9a5e8bc49627fc1e33d61058125b1d5644325b9da3b89f&req=dSIlEM94nIhaXfMW1HO4zXVAZF8QmCxqq5R2Z9uLq33Epj%2FfZ5P7JowZGgaF%0AACdmKm2mgWf%2BUa66cE8%3D%0A
+
+- For jobs, the status will show as Needs scheduling.
+
+[Image] https://downloads.intercomcdn.com/i/o/729443547/a2bd00622e739cf12c82a0d8/Screenshot+2023-04-26+at+3.46.10+PM.png?expires=1763568000&signature=65d48ff925590804051ca61d341e74c5a31efea0e68bfb2e0fc1c31f3a79d0fb&req=cyIuEs19mIVYFb4f3HP0gEF5%2Bt9S%2F%2FiIeFLM8VsIU6vGQKe0cIBYPkk0BmWv%0AdnRem1dlAbUP7GXflA%3D%3D%0A
+
+---
+
+Locate Unscheduled Jobs and Estimates (Mobile)
+
+To access unscheduled jobs:
+
+- In the HCP mobile app, select Dashboard in the bottom navigation bar.
+
+- Select Needs Attention at the top.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1732323644/81b131cd5665d50ef544e141a375/Screenshot%2B2024-10-23%2Bat%2B2_45_44-E2-80-AFPM.png?expires=1763568000&signature=bc7297f7ee53f7041a0e71070519d9cabaa1319e8f2de5ae7c43a7ee14945d5d&req=dSckFMp8nodbXfMW1HO4zRZvMly66Y9PRjF%2BEvGMkDnQZsK7V4C33DVHct2y%0AQRQHRwA9KWpTedeuM0Q%3D%0A
+
+- Click the Unscheduled tab at the top of the page.
+
+- Select a job or estimate to open the details page and schedule.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1732323643/410f72ae60859b77ca3698cbd45d/Screenshot%2B2024-10-23%2Bat%2B2_45_30-E2-80-AFPM.png?expires=1763568000&signature=729768a922336c6c654260fce0e5ede5a493693757cc8b85f71c1e9ef6f9e45b&req=dSckFMp8nodbWvMW1HO4zTmaz%2BMmaDq2rp%2ByandaBWi5iVfIayWLbAQA5xAE%0AMwIRFkVd3Poed%2BhBSTc%3D%0A
+
+---
+
+Undo OMW (On my way)
+
+If you've accidentally clicked the OMW button before it was time, you can reset the action in the HCP web portal by following these steps:
+
+- Open a job or estimate.
+
+- Click Undo above the OMW button.
+
+[Image] https://downloads.intercomcdn.com/i/o/1200496118/2545ca00ba22750a312476ab/Screenshot+2024-10-01+at+3_11_51%E2%80%AFPM.png?expires=1763568000&signature=31df35aca3032d5d34d1eb63e6d9ed4c999783beb7e43090ecc82313bfe0c0db&req=dSInFs13m4BeUfMW1HO4zaqWbi6R4Sf7xPfPRsnAXELeu9c9BuoxVe2F4seA%0Ax0fV169E18MPYwyI%2Bcg%3D%0A
+
+- Click Undo omw in the confirmation window to proceed.
+
+[Image] https://downloads.intercomcdn.com/i/o/1200491152/0ba4117d1b0e1cba555413de/HouseCall.png?expires=1763568000&signature=98e27271172a3d7999bc448d48472483cf3d9c196acc93b593b86c3226ec40b2&req=dSInFs13nIBaW%2FMW1HO4zbX0FW%2FbM%2BvWm1p7dnkebMVhxkbUykvEXCaZgMKf%0AcHEvoyqlD0hTrGyQntw%3D%0A
+
+---
+
+Undo Start on a Job
+
+If you've accidentally clicked Start on a job before it was time, you can reset the button in no time in the HCP web portal.
+
+- Open a job.
+
+- Click the UNDO option above the Start button.
+
+[Image] https://downloads.intercomcdn.com/i/o/1200509362/90ed7398bc2c8d4fe9cfccb0/Screenshot%2B2023-08-31%2Bat%2B11_32_05%2BAM.png?expires=1763568000&signature=a01182d3a943e16c5d0ae6f21225cf8e36d449de8170f17bbd475b1a7d716297&req=dSInFsx%2BlIJZW%2FMW1HO4zWrGpOaFPtOJGjXgMg%2BhiEg7FKeulv0fBHTNU6o2%0A788vozaM9JJTi7fQ%2B4o%3D%0A
+
+- Click Unstart job in the confirmation window to reset the job's Start time.
+
+[Image] https://downloads.intercomcdn.com/i/o/1200509363/3810e19582094feaada73fe3/Screenshot%2B2023-08-31%2Bat%2B11_33_56%2BAM.png?expires=1763568000&signature=62a485ab476a15937fc255954d6f21e21f538d2157250438dad7be5ec63f3882&req=dSInFsx%2BlIJZWvMW1HO4zTb46KaCj%2BDL0BPvf8H87Me5j6%2B0OWmRWB%2Fhppf3%0AMrlPmWdtsum3Fe0jzmA%3D%0A
+
+---
+
+Undo Finish on a Job or Estimate
+
+If a job or estimate was prematurely marked as complete, you can quickly "unfinish" the job by following these steps through the HCP web portal:
+
+- Open a job.
+
+- Click UNDO above the Finish button at the top of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/1200504633/c5225ed661e7a7e840f40c56/Screenshot+2024-10-01+at+3_19_57%E2%80%AFPM.png?expires=1763568000&signature=ca38d2e14bbbb338c9d8334b32ef198df96a4471149564cfd05f23ce30ffe4fb&req=dSInFsx%2BmYdcWvMW1HO4zfBtdPBOfVUGa9fpd9UsQm8Niw%2FmaTdjLwSkToBg%0A%2BA7myKwTihalD0iiqsU%3D%0A
+
+- Click Unfinish job in the confirmation window to proceed.
+
+[Image] https://downloads.intercomcdn.com/i/o/1200501066/df5634806f9ebce84d4f9181/Screenshot%2B2023-08-31%2Bat%2B11_07_55%2BAM.png?expires=1763568000&signature=5a21e41e3583939ce640c8e89b9874fde2493b97ea673429aa5e2de4fd4c8148&req=dSInFsx%2BnIFZX%2FMW1HO4zWHED0mcY9itr1VGTI7I93xTu09cO591ZjFeV6BT%0AcQczo0lhXATzpBDrtso%3D%0A
+
+---
+
+​

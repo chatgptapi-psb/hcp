@@ -1,0 +1,82 @@
+E-Signatures on Estimates
+Source: https://help.housecallpro.com/en/articles/10040275-e-signatures-on-estimates
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: E-Signatures protect your business from disputes and other liabilities by letting you gather proof of approval before work begins.
+
+E-Signatures on Estimates enable you to collect a signature when you send estimates to your customers via email or SMS. This removes the need to print, physically sign, and scan documents, allowing you to close deals faster.
+
+In this article, you will find detailed information about collecting e-signatures on your estimates on the web version of Housecall Pro.
+
+---
+
+Turning E-Signatures On/Off
+
+To turn E-Signatures on Estimates on or off:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Estimates from the Settings menu on the left.
+
+- Click the Configuration tab on the Estimate settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1627665742/4ebf1d304a72ce04900ab2ab3994/image.png?expires=1763567100&signature=2d6b1d86687b291f5b7c857e9328a520eefb0a4436a2b555d2b567852305674d&req=dSYlEc94mIZbW%2FMW1HO4zT01aoII6570K44AM8vbUg6Gj04rAbXUiAXZZdkT%0AiW1yUkmS1rfDA1NdRWE%3D%0A
+
+- Click the toggle to the right of Require e-signatures for approval to enable or disable e-signatures.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1627668459/df8c9c8947988ec0c84d1c5d20ee/image.png?expires=1763567100&signature=4deb2cb8244ae0c8f2d048cf7e8638d5087deae676db3290d00b35db4f856a14&req=dSYlEc94lYVaUPMW1HO4zRrLHJvocQJxx0vaC1ir%2FEH2NPK85sugpGCzkrwb%0APQgXLgawmRekE1%2FuCj8%3D%0A
+
+---
+
+Signing the Estimate
+
+- First, create an estimate and send it to your customer by email or SMS.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1227592799/1243c99d23b2f950921e9d4d4a8b/Screenshot+2024-10-24+at+15_23_32.png?expires=1763567100&signature=097af88148c57cc798d2dcbb837c9a424e8140b292302dcbe3d8ab8f446c7358&req=dSIlEcx3n4ZWUPMW1HO4zUa7zSeMn3JLI13DHT4i5qXVm5wTYS2prGBAteA1%0AYp7DPbhQOtNlYezAgTA%3D%0A
+
+- When your customer opens your estimate and approves an option, they will be prompted to provide their signature.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1340205669/43156ce5d31197ac803766a32663/Screen-Recording-2025-01-17-at-1.gif?expires=1763567100&signature=3e1366110a392554d76c6667d1bba4c2cef671081c7fa10c8f1630a07daf8b6b&req=dSMjFst%2BmIdZUPMW1HO4zQonHrBrOAc8iqJ3Ioke5f%2BmlYyFG9Hp6iDlB%2BKr%0ANJbroNauPPgiQUmJiDw%3D%0A
+
+- The customer has to first provide their name. This name will later be displayed next to the signature.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1227594630/6f7d5c1c2619d24f28797a9e1d56/Screenshot+2024-10-24+at+15_28_04.png?expires=1763567100&signature=32d314384de4a13cfc46732eb177c9d091dd656d3a5f47337cc793efd70c2926&req=dSIlEcx3mYdcWfMW1HO4zYUDbm43Ec7f7%2BQZ2lfDyFvNIoREMimGD7Sq98I5%0ArWuwYL1nwIqjRkjDTBU%3D%0A
+
+- Next, they can decide whether they want to leave the signature typed:
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1227595180/63bac1ddccf13adb7354b31aee56/Screenshot+2024-10-24+at+15_28_45.png?expires=1763567100&signature=3419bc03fa159cf5eaad0a8af27aafee70c06250721f2c6897e86d252a392434&req=dSIlEcx3mIBXWfMW1HO4zfZYfH7KbsuGn0czLgENTe0WPLtwS%2FqNjBCq3jRF%0APVkvOFIgMiqPZpskwX8%3D%0A
+
+- Or, if they prefer to draw it:
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1227595806/4ded5e3ed6ce0dbc92c2c1d96fe8/Screenshot+2024-10-24+at+15_29_39.png?expires=1763567100&signature=d2b5f6c03af380087f075e239300943500ce92241104d51dc28b1417ac2ab46b&req=dSIlEcx3mIlfX%2FMW1HO4zUvPdv4bmNpkoCWz7niwUbiZN%2B4PaROdi5LYPO%2Bc%0Akl7f%2BpbbzLhyfVdExBA%3D%0A
+
+- If you have added Terms and Conditions to your account, the customer can review them by clicking the link.
+
+- Finally, the customer must check the box to acknowledge that they agree to conduct business with you electronically.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1227596426/a2b499a5e6e7d3db8a2396b7b5d8/Screenshot+2024-10-24+at+15_30_23.png?expires=1763567100&signature=880ef55f078188468722db139e5e7a5035ad71e83c9644bc95c472a698285b30&req=dSIlEcx3m4VdX%2FMW1HO4zbKcV4sC5a8%2FPMZKYfXKACxfp6TWNomn7oMXa8zO%0AW%2F0ewPDuwEfmVOQ1ZeA%3D%0A
+
+- Once the customer successfully provides their signature, the estimate is approved!
+
+---
+
+Accessing the Signed Copy of the Estimate
+
+- Both you and your customer will receive a signed copy of the approved estimate via email.
+
+- This copy is a PDF file containing your customer's signature, along with the name, IP address, and timestamp of the moment the signature was provided.
+
+- The PDF also contains the approved estimate and the terms and conditions your customer has agreed to.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1227597244/465283b89828415e91e2c589f904/Screenshot+2024-10-24+at+15_38_29.png?expires=1763567100&signature=c3591dd8f69dec0e91081c2895fcf393cd5a925e69276e27f24893ec6111c19b&req=dSIlEcx3moNbXfMW1HO4zVume1XTTqcKFINvT%2BLdQinwZr8LScvC6q1BuOci%0AiA5XFYyZbGw%2FP6E%2Fmlo%3D%0A
+
+- Additionally, you can download the same PDF from the Estimate details page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1227597564/3f6295e5790a089b30d88270ab09/Screenshot+2024-10-24+at+15_40_42.png?expires=1763567100&signature=5cb61c67ded3ea8411c36c725a2a2c038dd0035bc7f9becd397ef148a9f0e1a3&req=dSIlEcx3moRZXfMW1HO4zSGBbOF61JXoaaAXiZDcA6llXzkRnyqrxl1lWqVl%0AYtdYzxN%2BmTpelJbiIE4%3D%0A
+
+---
+
+Estimate Signatures on Mobile
+
+---

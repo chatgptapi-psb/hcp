@@ -1,0 +1,84 @@
+Invoice Email & SMS
+Source: https://help.housecallpro.com/en/articles/6817890-invoice-email-sms
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: We'll walk you through how to edit your invoice email body, subject line and SMS for future invoices
+
+How to Edit Your Default Invoice Email & SMS
+
+To edit your default Invoice Email and SMS:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Invoices from the Settings menu on the left.
+
+- Click the Email and SMS tab on the Invoices settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1634518851/0788ff001108368f1efde97658b0/image.png?expires=1763568000&signature=50f6bb41b150dddd8dc664c5b4e6a42e77fe12f02b017aae1aa567a5a75c89e7&req=dSYkEsx%2FlYlaWPMW1HO4zSyM0MJJM5grc2tpPgM4HXWTDlYH8dWSSXP3PeiS%0AaKd7hnmB9nfveFXd8W0%3D%0A
+
+- If you are navigating here for the first time, you will see the Housecall Pro default-generated content.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1634546410/67f94c63c5e5669b1f028775374d/image.png?expires=1763568000&signature=ab29005d4c79f81ff9b2fcb2806a59b6ef6374d066d2e0e9571ad401b296a88e&req=dSYkEsx6m4VeWfMW1HO4zTD8PHuMpxdH3vfrVWhMcwfL0sh1DOFEdBf9sIW4%0Apbw5DjrOS5ssh25A6oc%3D%0A
+
+- Click Edit in the appropriate section (Email preview or SMS preview), enter your desired wording, and add any variables to include or remove.
+
+- Click Save to set those changes live for all future invoices.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1634549029/039cb5011584ee3609fe5b7341ac/image.png?expires=1763568000&signature=33f694c54e02080ece1490853b2b08c123e66e82cc293d385b3c08fff0644099&req=dSYkEsx6lIFdUPMW1HO4zXH8gRjczuKwIaNwfzxcrPryf7K3%2BiY6YWFg4mQA%0AH%2BDpQRNWiIDLuCZjtrk%3D%0A
+
+---
+
+How to Create Default Invoice Messages on Emails Using Marketing AI
+
+To create default invoice messages on emails with Marketing AI:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Invoices from the Settings menu on the left.
+
+- Click the Email and SMS tab on the Invoices settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1635344763/67e22fad1f7c077cab6d5d32047b/image.png?expires=1763568000&signature=cd238ebd2e9142c1f01b1fc25dc137164b661e913d6dedbc26557007816f149b&req=dSYkE8p6mYZZWvMW1HO4zQ8k2UHZeM10GOCWY%2BvyPLcyO8GJQimp942UA7Yp%0A0mYsUppKYLF4k4iDrv4%3D%0A
+
+- Click Edit next to the Email preview.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1635346424/0a117c4c76852834720cf45c4cfb/AD_4nXe4z-3wsi64rKAHWZG02OY1H93ssf_yR7tf4DfgQzutIPA01XNUgcU7QAPMIvV6IesBt9jfLP2AuzqGxicDwUolM3kzh04v5Cvubdx92HrzACq4WLXMwPXU3mQTEQfpu3M-drdD8g?expires=1763568000&signature=04f69280bfb45c16c80dda4654f5e798e2fa14764865c4eeb76fedc40cceb61c&req=dSYkE8p6m4VdXfMW1HO4zTKF5qqH2CJqP63j6JebNNBBT9UFMX8zXINfUrlE%0Al%2Bf%2Bc5D%2FXVbt6fSmwqI%3D%0A
+
+- Click Write it for me, and Marketing AI will ask for a prompt to base the email on.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1627844266/9ef984cdf733f0b5d5ad9b795272/AD_4nXcrhzUNVCoOwWH6zIzM2gDStEtpbtTd5ZmNZ-KBGYMFMIKr5uoFqyE0SmePwDgMsVvQ3TSS4diGgWiZ68ADBWKlTFkO_4tzvyin_OAEZhwmVZViuWRXP5bPC36fKyUriAze6W_jsw?expires=1763568000&signature=4b2f7ad578aba3fca024d68f7e5f89e1c1d357ac7ec4656e8d7b1a0779d592c9&req=dSYlEcF6mYNZX%2FMW1HO4zX%2BQnu7Sk%2BepY3vPzEkzcZOaJ04Xh11mWYcEA36b%0A9Vqrc3GCc5zp3SfdsvQ%3D%0A
+
+- After entering a prompt, click Write it, and Marketing AI will generate your message.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1627847854/e176c85f4bba458eaeed597bd736/AD_4nXeUghtENIPifVZNf3WjQWJadf5k2fu32au4ssI0AgKJKASQvmGEnWHssrSYgpUDH6yJbMa6m4A_dducp46pLZ5l0jk3Hok7A4CjGr8fwEuQaXlCvxTqzcDidqxPis_cQfU0ITTXBw?expires=1763568000&signature=9559f77cf3f54418421cff9a06d95f7a2338267ab9c622b8130d422f74186d23&req=dSYlEcF6molaXfMW1HO4zY0GX8NxQIBdidxXZrhNV%2Bs72HbL0hW%2BW%2BxQNZza%0A%2F4qcLLiS5zJD97s0zms%3D%0A
+
+- Review the message and edit the prompt to generate a new message.
+
+- After finalizing the message, click Use this.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1627848342/922551f363e1bbb25169074dcdd5/AD_4nXfD3ZfRDgI4-MhPiHlBgx_pOIB4afxvXOI86bnBhwdXydpy-xVaMsJHzPKvca_HbkGME6BmJxndBlujKt6YWveVB0KIvkYIMyY6uDtYL8hsY9SlnjAbuOuBeZsnXzGVEYIFa7dq6A?expires=1763568000&signature=b3b248bde5ec9e2ca1d128427151c8bfd5da54daec1676dcaaa9fb61b6445cfb&req=dSYlEcF6lYJbW%2FMW1HO4zZKFqXRKEHYPYU5JIFC1jhJcBbmwPm3d%2B7T%2BvsAY%0AqxkzlpzBmw%2BYlD4Dvig%3D%0A
+
+- Click Save to use your newly crafted message across your default invoice messages.
+
+---
+
+Key Call Outs
+
+Email Content:
+
+- HTML embedding is not permitted at the moment for this content.
+
+- If your techs have the ability to invoice, they will see the last content you have saved when they are in the preview invoice flow on mobile, ahead of sending it out in the invoice email or text.
+
+- If your techs do not have the permission to edit invoice messages, they will not be able to modify the default content you have set up in this section.
+
+- The character counter is only an estimation of characters. For more info on what each variable means and the character counts associated with each variable, check for more info here.
+
+SMS Content:
+
+- We will automatically append the invoice preview link for your customer, and this will not count against your character limit.
+
+- The character counter is only an estimation of characters. For more info on what each variable means and the character counts associated with each variable, check for more info here.
+
+---

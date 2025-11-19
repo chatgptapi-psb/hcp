@@ -1,0 +1,461 @@
+Messaging Within Your Housecall Pro Inbox
+Source: https://help.housecallpro.com/en/articles/5981299-messaging-within-your-housecall-pro-inbox
+Author: Nate H
+Last updated: Updated over 3 weeks ago
+
+Summary: Learn how to efficiently use the messaging features in your HCP Inbox to manage your conversations and streamline communication.
+
+Inbox Overview
+
+The Inbox feature within Housecall Pro allows you to access all of your messages in one place. You can access messages from your customers and your team members on iOS, Android, and the HCP web browser to make sure you and your team never miss a beat!
+
+Our HCP Inbox chat features allow you to create new messages, start group chats with your team and customers, and send Images, videos, GIFs, and file attachments. These features allow you to improve customer service and get a better understanding of what the customer's issue is.
+
+This unified chat system allows you to run your day-to-day business operations through three workspaces:
+
+- Customers - Take customer service to the next level by communicating with your customers over SMS. Point of contact, Office Staff, and Field Techs will be auto-added to all customer chats to ensure that customer communication is transparent to everyone on your team.
+
+- Employees - Easily manage communication with your team to effectively quarterback internal operations. You can start conversations with one of your team members or add as many team members as you'd like!
+
+- Community - Chat with peers and other Pros outside of your organization. In addition, if you get a customer referral, they will show up in this workspace for you to accept or decline.
+
+---
+
+---
+
+Inbox on the HCP Web Browser
+
+Your Inbox is the central hub for all customer and employee communications. From this one location, you can easily access and manage messages with customers and employees to review or send messages. You also have the ability to control which employees are involved in chat threads. In this section, we'll go over how to access and manage these features.
+
+---
+
+Customer Messages in the Inbox
+
+To access and manage your Inbox messages with customers:
+
+- Go to Inbox in the top navigation bar of your HCP account (on web).
+
+- Select Customers from the menu on the left of your Inbox page.
+
+To send a new message to a customer:
+
+- Click the blue pencil icon located at the top-right of your message thread (toward the middle of your screen).
+
+[Image] https://downloads.intercomcdn.com/i/o/1073895287/74e1f310dae890acd747cb1a/image.png?expires=1763568000&signature=f2acfe28310035f1d8f2818313077e3e1495c2c1f0d3a33bbf792ad3a6dc91a6&req=dSAgFcF3mINXXvMW1HO4zbAF8YahuTgOIlvJ1zkA34oF0yp9D6HLnaC1a8Lb%0AltdUzf47t5Tv0lXSEhU%3D%0A
+
+To mark all your messages as read:
+
+- Click the More icon and the Mark all as read option.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1676385185/760bc62007bcf98a3bf3e581ce26/AD_4nXcFmbwRnz2f5eVBqoRiYHrBvpYuZlwB6M9Fa8Snd67tazhvQyJf--aJ76r1UHn7-THXNLkZnMPajdx_7UwNS3SvCUxkzB-ti_mcrJMuAgLSOJ6Y188vv5hzHTxKX3_KYWuM7R0f6g?expires=1763568000&signature=f5dc3af41a1dfc12cc38aba9c7f52e5403463aba242a69dcc857e584b23e240e&req=dSYgEMp2mIBXXPMW1HO4zY5a7V68mv2kqG4f2BUBAqugowvvOVomx1JxtLxo%0AxCT3GfCI2zuQhHO2HQ0%3D%0A
+
+To navigate to a customer's profile from the Inbox:
+
+- Select an existing message thread for the customer whose profile you'd like to access.
+
+- Click the customer's name at the top of the chat thread.
+
+- Select Customer profile from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/1073925037/817774f41f00ea78452385a0/image.png?expires=1763568000&signature=5293ddcf5433a10e0c8de81c99922cdffb0efb1d8ce0921f20980fa908b3910c&req=dSAgFcB8mIFcXvMW1HO4zYS85Gq91LgcHj%2FoqRVj7dacKFMfZIOrcW4R%2F9wD%0ADGkIfajm7lN%2FQLfAbRM%3D%0A
+
+- If the customer you are communicating with has the Do Not Service label, you can see that in the Customer Chat list view and in the chat window
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1547130079/78631a920fb3de040128f1e95946/AD_4nXcynBDoIHpMb9Eqnzw5x1QfP1ymhygMHg6UvvQnBP2Y-vAqr4kNTeJ1CUrF_OJiUu2P698h2y3qSDXHUToJWy4hnqVbNf4b9suytr1lXmqsrPPB4eZWpaF96hs3AE7tKzcJjpvO?expires=1763568000&signature=9b6a90e6d46a39dec69834c4d8c531e584f00a87f7114b25613dc88b8550e761&req=dSUjEch9nYFYUPMW1HO4zYTnyFqHoatBW1nsc%2BBtvPsM04EQj1gkjI%2FZXcAP%0A0FExzddtLjUOwwS34%2B8%3D%0A
+
+---
+
+Adding, Removing, and Viewing Members in Chat Threads
+
+The Members feature allows you to view, remove, and add employees in a message thread in your inbox at your discretion. Employees included in a message thread will receive push notifications from any customer's reply to the thread.
+
+To view and manage members in a chat thread:
+
+- First, navigate to your Inbox by selecting Inbox from your HCP navigation bar at the top of your screen.
+
+- Next, select a channel (Customers or Employees), then select a chat thread.
+
+- From there, click on the members' names above to add or remove employees from the thread (this will be highlighted in blue when you hover over it).
+
+- The Add or remove user window will appear, where you can add employees to the chat or remove them.
+
+To add an employee to the chat:
+
+- Simply type in and click on their name, or select their name from the list.
+
+To remove an employee from the chat:
+
+- Click the X icon to the right of their name.
+
+[Image] https://downloads.intercomcdn.com/i/o/448637105/9af75586e2a7af167dce40d4/Screen_Shot_2022-01-14_at_9_49_41_AM.png?expires=1763568000&signature=b68f91439605847358b65f2f665a32604e04ec9b294c33d2171b2876507d1fa5&req=cCQvEMp5nIFaFb4f3HP0gOhYZdj04kuOu6hu5DPVcXVXD2ho28FZYfYYX1r4%0Axc2K3rMf6KmQDLu%2FYw%3D%3D%0A
+
+---
+
+---
+
+Global Chat
+
+Learn how to use our Global Chat feature. Global Chat keeps your Inbox accessible anywhere in Housecall Pro!
+
+You can open your messages from the traditional Inbox in the top navigation bar or seamlessly manage conversations using the new chat windows, conveniently located at the bottom left of every page.
+
+To use the Global Chat feature:
+
+- First, navigate to the right rail and click the Inbox icon.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1770787126/1bdd67e61a3ce7cdd82b8a4c934e/Global%2BChat%2BRight%2BRail.png?expires=1763568000&signature=e7c8998844bd88e50c7b045f1b65831355e12b96abea016745c035a923e3385b&req=dScgFs52moBdX%2FMW1HO4zdEMoKzEpSLn%2F%2BMuZDbo8ANxzwPFz1nytb3Pxouu%0AJMDWUAxkp81W2HZgB%2FQ%3D%0A
+
+- Next, you will see a whole list of your chat channels. This aggregates your Customer, Employee, and Job Inbox chat messages.
+
+- To send a new message, click the pencil icon located at the top-right of the Global Chat page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1770782873/40cfd2aea2cf75d57e5639ff6787/Global+Chat+Right+Rail+-+Chat+List.png?expires=1763568000&signature=ab04bb908ce9c2f54478838f093a381107c4acf37b7b491964c17aaa8c2f2f9d&req=dScgFs52n4lYWvMW1HO4zdxh%2BFATvMjxvXSSJYOnfAZIDydESt7NYg6ZmFz3%0AKAyalJQYNtzX7eUMA2o%3D%0A
+
+- To navigate to a chat, select it in the chat list, and it will open directly in the right panel.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1770786399/c95d2929f74075b46a89e8043ec6/Global%2BChat%2BRight%2BRail%2B-%2BIndividual%2BChat.png?expires=1763568000&signature=689490edece6fcb3d39d94ae9c2070f3cf8a87f649c56626ce26ad0c628ef84e&req=dScgFs52m4JWUPMW1HO4zd3Y4a7udXVsfYggburq9N4kD8XHTSFPwH7rPc6e%0A81sChna5pKNpSWGKyBg%3D%0A
+
+- Once you are in a chat window, you can click on the customer profile icon to open up the Customer profile.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1770786397/44a261aa04ebdf55357ce418b079/Global%2BChat%2BRight%2BRail%2B-%2BCustomer%2BProfile.png?expires=1763568000&signature=bb600395610e39440aedf3a05fa2cc5f0b3b74014f1cb9491ede90f51bf9ae59&req=dScgFs52m4JWXvMW1HO4zW4A%2Fg5T0rrIWwZg3nD644R8qxQQlo2pvC1jiTwE%0AH0MTMWsSW6Ep74XyWo4%3D%0A
+
+- Once you are in a chat window, you can click on the phone icon to populate the customer number into the dialer if you have VoIP.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1770786396/8715b44ceb91bef5624b2737e421/Global%2BChat%2BRight%2BRail%2B-%2BCall.png?expires=1763568000&signature=843d65721b218839fa68de28d3524d94617655bbf58ac793c0c95aefca5c1727&req=dScgFs52m4JWX%2FMW1HO4zXQX4BDR7qH2Ib4dV%2BmMbiFNmu%2FXdTlGh0XXl6Fy%0AWVl7LbyqjFHhSbbLCPw%3D%0A
+
+- The pop-out icon will move the chat into a window in the bottom right corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1770786400/487e3e613412900a5138c6e0f7cc/Global%2BChat%2BRight%2BRail%2B-%2BPopout.png?expires=1763568000&signature=455b7b66c56b4eebd576eef92cc95959fff6ce4423bfc32f6d167a7dba3132b8&req=dScgFs52m4VfWfMW1HO4zUTef28ecJMSl9m6O9AVt9nlLrWWyAAUYvfoEu46%0Ax4BzJSMU9Vr9Div6A8M%3D%0A
+
+- In a chat that has been popped out, the arrow icon will minimize or maximize the chat so it doesn’t interfere with what you are doing in Housecall Pro.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1770784182/6831c23d180e57faf37475153941/Global+Chat+Right+Rail+-+Minimize+_+Maximize.png?expires=1763568000&signature=5f76e16216e8b6bb2086c8bb11dac8a8a951686839c6aa1497c38e6a8b27d663&req=dScgFs52mYBXW%2FMW1HO4zTFRY%2FsmIot7LDJVUXJ6Y13X%2Bbz4eZXohGXm%2FjMN%0ASuFDISrUlFNpe%2FZFTIk%3D%0A
+
+- The X icon will close the chat window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1770786404/d2d51b8df351b2ec1873a4c85350/Global%2BChat%2BRight%2BRail%2B-%2BX.png?expires=1763568000&signature=4b1732608e341da6260f9b0fd15d41c91c8fc7b1f54ed249aca57b09708ab172&req=dScgFs52m4VfXfMW1HO4zaTVA2KCpQz2P1vjmJ1WcDNbHFzitXkQvMn9pJ0N%0ABJBJIW1sAh9CX37XnDk%3D%0A
+
+- Within a chat window, you will be able to hover over the chat to take action on an individual message: - For a message you receive, you will be able to React or Copy the message.
+​
+ 
+ 
+​
+- For a message you sent, you will be able to React, Copy, Edit, or Delete the message.
+ 
+ 
+​
+- For Voice messages, you will be able to download the recording if there is one.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1676397597/9b477c4d8137d87990688d6df03c/AD_4nXfM0BgATVD4A-l9HB-HfGWi40lNl812Egccs4XbIOtpP1KzWhCtKPTwjr5klIt06jyM5sTLyrwuRUKGyy3dcoY-wPup5t-dNTgOr_iWEK4FbkC03jSsewE_JhbTxS2PT5y_ELOJ?expires=1763568000&signature=99f78705bea944f97445cd679addeed1ddab42aff311007144016efcd24aeab2&req=dSYgEMp3moRWXvMW1HO4zcHF6jMOy5hgcUWCIlj2Ud6DXduHqlQePYOSGBuk%0AoGHjHFuMaKVUG851Xgg%3D%0A
+
+- To manage your chat windows, you can click the More icon (three dots), and you will be able to select: - Mark all as read
+- Close all chat windows
+- Minimize all chat windows.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1770786401/d5f9b1bf7902d4988eab77f33427/Global%2BChat%2BRight%2BRail%2B-%2BMore.png?expires=1763568000&signature=425ea6e7c3ff51a8c0ab46936d6484a245df11ce9c940d85b5faf049e9402fcc&req=dScgFs52m4VfWPMW1HO4zUURTjaInCTRqdeAUvFGcARp24L8vwU2GbwfeyK8%0A2w5rafyv%2FlI3EaVinnM%3D%0A
+
+- Mark all as read will mark all of your messages as read.
+
+- Close all chat windows will close all the windows from Global Chat.
+
+- Minimize all chat windows will hide all chat windows. You can open the chat window again by clicking on it.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1770786398/ab127413b9e7d25f327150cac393/Global%2BChat%2BRight%2BRail%2B-%2BMore%2BDropdown.png?expires=1763568000&signature=575b8e69571321d657866edc3b867e5000ba363c96a51bb95345c7ea03336d4c&req=dScgFs52m4JWUfMW1HO4zfMoMn7jzm6ZMf7WFojbfaLOs6T9BtTrX3ivAwty%0A9rKZs05jnq8Er3Bz5wM%3D%0A
+
+- You can also filter the Global Chat Inbox to: - All Comms
+- Customers
+- Employees
+- AI Team
+- Job inbox
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1770786402/babe97d592f98e7e436afbee7747/Global%2BChat%2BRight%2BRail%2B-%2BFilter%2BDropdown.png?expires=1763568000&signature=c2f37615e8a05bddd7f438d47f7165293beb81994d11c284836c9b653a74befb&req=dScgFs52m4VfW%2FMW1HO4zehcn1IdsXbd3WVNj1cz1ObNg3behR03mVTszJrP%0AT8tRNAU61XWxw6GC5Fw%3D%0A
+
+- You can also view only your unread messages through the unread toggle.
+
+- If you have multiple chat windows open, they will minimize under a More icon
+
+---
+
+---
+
+Enable Desktop Notifications
+
+Desktop notifications are available to show when someone sends you a message. Clicking on the notification will take you directly to their chat.
+
+[Image] https://downloads.intercomcdn.com/i/o/450398431/76193baf4ab9a391cdd198b7/Enable_Notifications.png?expires=1763568000&signature=26c3bb46bed7bac8e28977f48d5e9d809ac66e1f37975327db76a0c613c87c26&req=cCUnFcB2mYJeFb4f3HP0gD2klg2%2FkN%2Fsp%2FP4DYnDY9gecitKNH4aAKWKGvfL%0ARiN2K8WI1bRTXp0AzQ%3D%3D%0A
+
+To enable desktop notifications:
+
+- Open a Google Chrome browser on your computer.
+
+- Click the More icon (3 dots) in the top right corner of your browser.
+
+- Select Settings from the drop-down menu. You will be redirected to the Settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/406552751/b7155a8ef475115cb24b67b4/Screen_Shot_2021-10-20_at_9_50_43_AM.png?expires=1763568000&signature=e0be0f36cded6f5dc7db040fa97d05fe7af91200e59f16fe111106ae36cbd8e5&req=cCAhE8x8moReFb4f3HP0gCKI5itPkMMr4bGQMTvg3cZKYori0MSQX7T90K6v%0ApB2qxaR0GdZ%2Fb%2Fzl%2Fg%3D%3D%0A
+
+- Select Privacy and security from the menu on the left.
+
+- Select Site settings.
+
+- Scroll down and select Notifications.
+
+[Image] https://downloads.intercomcdn.com/i/o/406556286/7df6636f6f6de52544e29458/Screen_Shot_2021-10-20_at_10_05_11_AM.png?expires=1763568000&signature=266ef2133346fe0b359da3480648e4ac353b30929a4ad8f1bce69e0676a7ae0f&req=cCAhE8x4n4lZFb4f3HP0gKpNnIRRrkmzR3QyfJcEZimVCHx%2F2L335wgkxBDk%0AwYxj1lnMBOWWv8%2By4g%3D%3D%0A
+
+- Under Default behavior, click the radio button to select the option, Sites can ask to send notifications.
+
+[Image] https://downloads.intercomcdn.com/i/o/406559383/f89a6526533fbab996c05194/Screen+Shot+2021-10-20+at+9.54.56+AM.png?expires=1763568000&signature=fb8989f2dda7dc05123af566034eb7756f63b2d13cd1cca58522b2d93a2f38ab&req=cCAhE8x3nolcFb4f3HP0gJX0lXa7tNT8ginT%2BCy4Pd09A7ReJTo5Owmq%2B3yI%0AQ6op98muz%2FcoJSRRUg%3D%3D%0A
+
+- To turn on notifications for Housecall Pro, scroll down to Customized behaviors and click the Add button next to Allowed to send notifications.
+
+[Image] https://downloads.intercomcdn.com/i/o/406563268/a0ef7116a3aabd04ac0468c2/Screen_Shot_2021-10-20_at_9_55_12_AM.png?expires=1763568000&signature=6f1bcbdae8734763fca0ef050972a08163ff79fbb33eb85398e50e4fe364fe9d&req=cCAhE899n4dXFb4f3HP0gAVP%2BB3z9I%2F%2Fw50gIJvstG29483MS4XnZOFHGRll%0AS8ScealbClAx9yHoLg%3D%3D%0A
+
+- Enter housecallpro.com in the Add a site pop-up window, then click on the blue Add button, and you're all set!
+
+[Image] https://downloads.intercomcdn.com/i/o/1136678401/0fc2f4a5fb597fadc43362ba/image.png?expires=1763568000&signature=9c062e16bd3682a1dc3e2c1c2f0d5dbb7ce042aa181283484c0b10cfb469d10d&req=dSEkEM95lYVfWPMW1HO4zfWFAY64k%2Fq6JSOejgRG7ngQpPht9L2%2F69yigrK2%0ANPTyef1caRanG4LywCo%3D%0A
+
+Video walkthrough:
+
+[Image] https://downloads.intercomcdn.com/i/o/1038796721/fa8cef7f3ece415e558946e1/turn+on+chrome+notifications+for+hcp.gif?expires=1763568000&signature=c131c232ee1fa9a75862129284b94824f5b1c4d1127f23f5e6c36e58859a33a2&req=dSAkHs53m4ZdWPMW1HO4zQ5xmG%2BFH0sn7w0Zl%2BPCMfE24t2CBbsaQu4bTHgk%0AnGu3KkBbR8Th7b6vNzM%3D%0A
+
+---
+
+---
+
+Inbox on Mobile
+
+To access your Inbox on the Housecall Pro mobile app:
+
+- Tap the Inbox icon in the navigation bar at the bottom of your screen.
+
+- From here, you can create a new message and add multiple parties to the channel.
+
+To start a thread with a customer and multiple techs:
+
+- Select Customers after opening your Inbox, then tap the pencil icon in the upper right corner of the page.
+
+- In the search box that appears, start typing the customer's name and select them from the list once it appears.
+
+- Tap Create.
+
+- Once the thread is started, you can proceed to add employees by clicking the gear icon.
+
+- Under the chat settings, you'll see a list of all the employees currently attached to the conversation.
+
+- You can add more employees by clicking the pencil icon in the upper right, then searching for the employee's name and selecting it.
+
+- Tap the back arrow in the upper left corner to return to the settings or the chat thread after adding an employee.
+
+- Employees can also be removed under the settings for the chat by clicking the More icon (3 dots) next to their name and selecting Remove.
+
+[Image] https://downloads.intercomcdn.com/i/o/1073946760/53ee7d36dd874704b1c6a9fb/inbox.gif?expires=1763568000&signature=292a440dcb1953c50f56484237474a18252424ed87402c5a91de9f545820b107&req=dSAgFcB6m4ZZWfMW1HO4zen7tZN0ZhKJTuBbCnQrpj02U2fSWDDkotdH4vHp%0AebPK0D%2FU%2FyCmOGhGbDM%3D%0A
+
+---
+
+What’s new?
+
+The mobile Inbox now includes a unified All Comms view where every conversation lives in one place. Of course, you can still filter your conversations by using the dedicated inboxes as usual.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1615705875/8f0dcea879cd67020ace7e37b52b/AD_4nXfX1t0ZlaX8apMLSU8l10UUV7S_qL6MjXzE3cubp_dOZCDmjr3PIy_dTzg_OkbUOBt8JXJNtYV4SmK8dKErj0_YMGnPmJPOCr9KuGrj7hEzoLV1yrFbFQhI6FbbdvuFOTxqWb2tdA?expires=1763568000&signature=421bdd277684c31b8223bd8e74b8cb6d1934638a331b4d5ea2f25af87151fa77&req=dSYmE85%2BmIlYXPMW1HO4zbAWPT6iXQC5N5ryxUTc6d3HNj77%2FNUsY49%2BOBdm%0A3rP9LMkwuJI70KnrMIQ%3D%0A
+
+---
+
+Open the Inbox
+
+- Tap Inbox on the bottom navigation bar of the HCP mobile app.
+
+- At the top, you'll see All Comms, showing all recent conversations in chronological order.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1615705861/586786f0547155682c7573e86099/AD_4nXe2uiHB60vAHc-E-W29i5Psa0LNlCfjJ2AKYoMtSURCC1DcbTDLXIq-TTsb9OJUFUDIwmk1RJcMwjYUVmOdBJZU1hWP3d0DzMYxYrIO0RwtYR0_oSsT2nQjCjYmlMi6S0tLqp63qA?expires=1763568000&signature=15a7d2e089bbff02158a27f4b6fd53097a3910254eebe76ce6e79debb2caae21&req=dSYmE85%2BmIlZWPMW1HO4zX76FL97JngDU7rVIMA1bdyuRkGABnIPZnuajKv8%0A8VjQGu24jOQaVBB418w%3D%0A
+
+---
+
+Start a New Chat
+
+- In All Comms, tap the New Message ✏️ icon (upper-right).
+
+- In the Search bar, start typing a customer or employee name. Both appear in the same list—no tab-switching required.
+
+- Select one or more participants (e.g., a customer plus multiple techs).
+
+- Tap Create to open the thread.
+
+---
+
+Manage Participants in a Chat
+
+- Inside the thread, tap the Settings (gear) icon (upper-right).
+
+- Add employees: Tap the Add ✏️ icon, search, select, and they’re added.
+
+- Remove employees: Tap the ⋯ (three dots) next to a name → Remove.
+
+- After changes, tap the ← back arrow (upper-left) to return to the chat.
+
+---
+
+Switching to Dedicated Inboxes (Optional)
+
+If you prefer separate views, navigate back to the main Inbox view and choose a section to see only those conversations. Return to All Comms at any time from the same view..
+
+---
+
+---
+
+Advanced Inbox Features (Web and Mobile)
+
+The following advanced Inbox features are available on both the HCP web portal and the HCP mobile app.
+
+---
+
+Archive Chat Threads (Web)
+
+To archive chat threads in your Inbox via the HCP Web Portal:
+
+- Navigate to your HCP Inbox by clicking Inbox in your Housecall Pro navigation bar, then select a Channel ('Customers' or 'Employees').
+
+- Select a chat thread that you would like to archive and click the More icon (3 dots) toward the top right corner of your screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/1185002069/b7bacab1e524acb9d050e482/Inbox-HCP+%288%29.png?expires=1763568000&signature=3ca5dc70341ed33aaa61f034618a2781d86e65d7dc4a0cb53154c809e4ff4c66&req=dSEvE8l%2Bn4FZUPMW1HO4zWTl%2BJtC6r4mhcsaC7AfsZOQ6TaGc78mWql92TDI%0Aj6tXnUlbSvv5GaCZ6mQ%3D%0A
+
+- Select Archive chat from the drop-down, and a dialogue box will pop up to confirm whether you would like to archive the chat.
+
+[Image] https://downloads.intercomcdn.com/i/o/1185985096/4a821e2ce81adafca7d0e12d/Inbox-HCP+%289%29.png?expires=1763568000&signature=c031846cf6b67261fbea516868fa25199fe56ca27bdc914ea233101411f0c714&req=dSEvE8B2mIFWX%2FMW1HO4zfyeTwWZNn86jZG87uFQzdGywl9KyRBaKJE1H4gf%0AKzBRmsXwawty%2FY9F%2BnA%3D%0A
+
+- Click Archive to confirm.
+
+[Image] https://downloads.intercomcdn.com/i/o/1185001397/776ee0924a62e322fbb8ca74/ArchiveChat.png?expires=1763568000&signature=3fd3819bfa4f987288fc7cc8a315795ead0e0d33dff4288c05a612f6dccd23be&req=dSEvE8l%2BnIJWXvMW1HO4zTR0umf2CIwcX0yy%2Bwa315AOfJTOX5wcwiW9PKuS%0AIxV3Z%2FUkjfz25GwEsA4%3D%0A
+
+---
+
+Archive Chat Threads (Mobile)
+
+To archive messages/chats in your Inbox via the HCP Mobile App:
+
+- Tap on the Inbox icon in your navigation bar at the bottom of your screen.
+
+- Select the Customers channel.
+
+- From there, tap on a message thread and swipe left on the chat that you wish to archive.
+
+- Archived chats will be hidden from your list of chats with customers. However, all data will be preserved.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/443909610/3b0f9a15240f96dd8ade70cd/archive+ios-2.png?expires=1763568000&signature=4193aad54a63ca10f8d684f54872bf69d4ec1baa76117afb88d61e30496be759&req=cCQkH8l3m4BfFb4f3HP0gB7fugo%2FDkAkeeqiHaJkH%2BJkXBpMDGm11ni4UQJO%0AnL8%3D%0A | [Image] https://downloads.intercomcdn.com/i/o/443909628/9e4f640a5cb7ccd37f8b2a68/archive+android-2.png?expires=1763568000&signature=09e535ba845e5c633e4de493aa25ec8c89e6bea34a665527a779d15541ae66d5&req=cCQkH8l3m4NXFb4f3HP0gNn2N1leaRvT6TDNHqmHXSULLOlyypDXTt4pVQ%2BE%0Al9M%3D%0A
+
+---
+
+Navigate to a Customer Profile
+
+- The Inbox allows you to go to the customer profile directly from a chat.
+
+- To do this, click on the customer profile icon (located to the left of the messages the customer sends in the thread).
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/448532536/250b1494dfaf7ca9d43bebe2/customer_profile_1.png?expires=1763568000&signature=deb544d53755d911cdb35b87f52eecb1627687da49ca2cd2a20faf89621ec188&req=cCQvE8p8mIJZFb4f3HP0gEJjb%2Fefc9GCPEhkvHsg3XGxmwqUPoPare1JRIXi%0AcJM%3D%0A | [Image] https://downloads.intercomcdn.com/i/o/448534357/567679c1c619e78e11127403/Customer_Prodile_2.png?expires=1763568000&signature=48523708464bbe2e96e316451d843e26dadbc263f297ef0114b94948f7f17733&req=cCQvE8p6noRYFb4f3HP0gFj3S45T9zVl9vhRsQFt2uO3YrUSePamnTH74tXA%0Ak%2FI%3D%0A
+
+---
+
+Internal Note
+
+- The Internal Note feature allows you to send messages within the Customers channel that are only viewable by your team. The customer will not be able to see these messages.
+
+- If a message is in yellow, that signifies that the customer cannot see that message.
+
+[Image] https://downloads.intercomcdn.com/i/o/466456666/4e9622406c110281add22f75/internal+note2.png?expires=1763568000&signature=6679f4cb6af9d8d1215105b05c8a3b68919f7a5ae6c42876e15467bd72d1955a&req=cCYhEsx4m4dZFb4f3HP0gCIxZkar9lYwXli0d7YZSic2coWZ%2BOkKUSyYtEvm%0ADrXIMhMsZEmcDXM2Lw%3D%3D%0A
+
+---
+
+Activity Feed
+
+- You can see any event that occurs regarding a customer's profile, such as a job that is scheduled, completed, or paid. These activity updates are viewable right within your chat with the customer.
+
+- The activity feed tells you what those events are, when they happen, and who's involved.
+
+- This will provide you with a holistic audit trail of everything that has happened on that customer's profile.
+
+[Image] https://downloads.intercomcdn.com/i/o/466459077/9b68742e59015de53707c303/activity+feed.png?expires=1763568000&signature=06f4714cb460bc1008bbb31f28a34f080bca088aace66de9250df8f65e664565&req=cCYhEsx3nYZYFb4f3HP0gFB403oywW9j0Wa6PSnsZZ9ne%2B9MNPmWp1wIa%2FRA%0AGFuA179I6BEZYmeobA%3D%3D%0A
+
+---
+
+@Mentions
+
+With the @Mentions feature, you can mention employees within their channel. Anyone outside the channel will have to be added to the channel first.
+
+- You can tag specific employees in your messages, for both normal messages and internal notes.
+
+- You can distinguish mentions because they will be highlighted
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/u9p1dznwl1
+
+---
+
+Emoji Reactions
+
+You can react to employee messages (normal messages and internal notes) with emojis in your Housecall Pro Inbox channels!
+
+- In your Housecall Pro Inbox, navigate to a channel and select a message thread. You'll see a smiley face with a plus (+) icon. Clicking on that icon will bring up a panel of emojis.
+
+- You can choose your emoji from there, or you can click on the additional smiley face with the (+) icon, and a broader selection of reaction emojis will pop up. 😁
+
+[Image] https://downloads.intercomcdn.com/i/o/485275700/1105cf8afe7af33cf94dad43/reactions3.png?expires=1763568000&signature=63262baacfbebbf030689fc66a965f1d8f1be552470a5ef02f5bbaddad75a8e1&req=cCgiFM57moFfFb4f3HP0gHtGZstwYsR%2BWWiBO6bE7OrfAajVWjjosmDUKAJz%0A6XeIJ6rLApYcwjGGqw%3D%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/485275766/1c7738bc0541e65cdfbc1c76/Screen+Shot+2022-03-23+at+3.23.40+PM.png?expires=1763568000&signature=906e3692d3f26978d28ac4e5dadbff31db92de348335c5a703a2be3e78eb637a&req=cCgiFM57modZFb4f3HP0gMRD20lRN6oCBiPQAf5%2FmkH72snrKx3EPiMdH4HO%0A0YlX9uwep18wc1LYxw%3D%3D%0A
+
+---
+
+Review Message Type
+
+If your customer submits a review, then we will show that review in your chat feed.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1526371250/452475c499bfd4065b068dcfca7f/AD_4nXdL_njDD7mwSX5USTxoGRKj3QuN-VYB70hJogyNdi59M3LdDsOpAyaVvfNWSChjzLqivJ2piZ5BnzRAmsvqBp_ew8aHpUgCNLY753JHVs9sjrVLueFh6U5OAo6tlCsMlCoPmIxUeA?expires=1763568000&signature=d99f25ed1ec96cb02053ce6b1c9d12c206c7683bdfef87bdb9deb93d60c7d06b&req=dSUlEMp5nINaWfMW1HO4zcAg0KbhJFqaknjZHNso6WWEO4bsand4mKELYS7t%0AjFDMbgc%2FCHONC99ss78%3D%0A
+
+---
+
+Call Message Type
+
+If you have the Voice feature, you will be able to access your inbound, outbound, and missed calls in the chat feed. It will have access to the call recording and the details of the call.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1526371246/af68235f33ffdeeb3bfa2bae0896/AD_4nXe5sXBhMraPmuYgViDev6PvZVXZZ7I4omNhEqq3TOPxMggmtODfmyLvZimOwCuSAyPqO3EXnARI03HkTt4UfIU6BAQI_tu03p1MABSjh7ErPZg0Tgq2RW2_54mE1GjUahuH1hZ0aQ?expires=1763568000&signature=f2553309d89e2a4accdda5fb184954682d18314b31d85d972792dd3ada423e96&req=dSUlEMp5nINbX%2FMW1HO4za3HIfFRUtkc6oeok6kC7S%2BUQFlXaRNN%2F2BndKPE%0AxULAh1aaOMu8eYnBIVU%3D%0A
+
+---
+
+---
+
+Inbox Features Available on Mobile Only
+
+The following Inbox features are only available on the Housecall Pro mobile app.
+
+---
+
+Turn Off Chat Notifications (Mobile)
+
+To disable chat notifications:
+
+- Go to your Inbox in the HCP mobile app.
+
+- iOS: Tap the gear icon in the top right corner of the page.
+
+- Android: You will see your settings in the list of items that appear when you click the Inbox icon. Settings should be at the bottom of the list.
+
+- Select Turn chat notifications off from the menu that appears on your screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/1073965417/616c8d11546610cbed51651d/image.png?expires=1763568000&signature=d11932cb511dcd693002e1799acd1293dcd71be4d045a314f8f53c6593140378&req=dSAgFcB4mIVeXvMW1HO4zeroOI6cQJEavQoBAN%2B20uayKp%2FKLZA%2Fl58DULJL%0ABAIxyzc199aRfX4IR54%3D%0A
+
+---
+
+Mark All Messages as Read (Mobile)
+
+To mark all messages as read:
+
+- Go to your Inbox in the HCP mobile app.
+
+- iOS: Tap the gear icon in the top right corner of the page.
+
+- Android: You will see your settings in the list of items that appear when you click the Inbox icon. Settings should be at the bottom of the list.
+
+- Select Mark all as read from the menu that appears on your screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1615515604/42983a0ad5f2bfa473f2eb0817a3/image.png?expires=1763568000&signature=d2cff8f0a69af7c752864e74d57f674ec1d11b44b8e1530fbdd4f9ebfe11345a&req=dSYmE8x%2FmIdfXfMW1HO4zb%2BGQi12rIz4%2Bz4eVgvBYi6OeV1Nl7m0C2Q9leby%0Avt3YVARRAklWDjWsqZE%3D%0A
+
+---

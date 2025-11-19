@@ -1,0 +1,32 @@
+How to Access Job & Estimate Pages
+Source: https://help.housecallpro.com/en/articles/6950397-how-to-access-job-estimate-pages
+Author: Sienna M
+Last updated: Updated over 3 weeks ago
+
+Summary: How to access your Jobs and Estimates in Housecall Pro.
+
+Accessing Jobs and Estimates
+
+To access a Job or Estimate page:
+
+- Jobs and Estimates can be accessed by clicking on the 'Customers' tab in the navigation bar at the top of your Housecall Pro account.
+
+- From there, select 'Jobs' or 'Estimates' from the menu on the left.
+
+[Image] https://downloads.intercomcdn.com/i/o/662608956/bc8cbc25869a12a75b662fa3/Screenshot+2023-01-30+at+4.27.55+PM.png?expires=1763568000&signature=986548907706268ec6ae7b7f273a10eb158592702d2832aeff3ea789af317af3&req=ciYlEMl2lIRZFb4f3HP0gNCBCn3I8DM%2F0Wwe5ULYp5xhlX3vJvojLRWfEMpY%0ANiE1oSXRByjH291tMQ%3D%3D%0A
+
+Job and Estimate pages enable you to take actions on your list of jobs or estimates, including:
+
+- Search all jobs/estimates by any field.
+
+- Filter by common fields such as Status, Customer, Employee, Scheduled Date, and more.
+
+- Edit Columns to adjust what fields are shown in your table.
+
+- Create a job or estimate easily. - This is the same functionality as the 'New' button in the navigation bar.
+
+- Export your list of jobs or estimates.
+
+- Import your jobs.
+
+---

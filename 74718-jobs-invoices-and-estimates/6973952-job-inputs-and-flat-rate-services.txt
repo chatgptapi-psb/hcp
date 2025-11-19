@@ -1,0 +1,62 @@
+Job Inputs and Flat Rate Services
+Source: https://help.housecallpro.com/en/articles/6973952-job-inputs-and-flat-rate-services
+Author: Bricelyn J
+Last updated: Updated over a month ago
+
+Summary: Learn how to track materials and other costs on jobs for flat rate services
+
+What are Job Inputs?
+
+You can track material and miscellaneous costs as job inputs rather than line items, which will not impact the price of the job or show up on the invoice. If you have flat rate services set up in your price book, you can also choose to automatically populate needed material for the service on the job.
+
+If you'd like to track material and/or miscellaneous costs outside of line items, you can do so by enabling the Material job inputs and Miscellaneous job inputs settings from the job costing settings page.
+
+---
+
+How to Enable Job Inputs
+
+To enable Job Inputs:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Jobs from the Settings menu on the left.
+
+- Click the Costs & Materials tab on the Jobs settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1634816987/8df37811146e32fd5e0307d3dbdd/image.png?expires=1763568000&signature=9021654320a11f603e5050e41f731aae094a45aa75d39ff12de5c8667d7f2a46&req=dSYkEsF%2Fm4hXXvMW1HO4zYhYiAW%2B2FpTynvKLwjuaK9iHBKKY4%2FUw%2BlkZBiJ%0A5PaH5kklqQekt0y8nAg%3D%0A
+
+- Click the toggles to the right of Material job inputs and Miscellaneous job inputs.
+
+- If you'd like to automatically add materials to jobs as inputs for accurate material and job costing reporting, check the box next to Track materials from all Price book services. - Materials will be tracked as inputs rather than line items, and will not be visible to the customer.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1635011732/30f0f0cfa25798a540277b59c3ea/image.png?expires=1763568000&signature=6805b8f761b21b3e1d3d3cd8e1c46f495acce430a0d00de3987bb17cef1aa02a&req=dSYkE8l%2FnIZcW%2FMW1HO4zUlSmvnnbERCU5jSM%2BJQxTzX1zzpnLPE8xTtGmjO%0AxHuOX3l47KItYd3L63s%3D%0A
+
+- Once these settings are enabled, you'll see a job inputs section on the job details page on both web and mobile, where materials and miscellaneous costs can be added. Items added to the job inputs card will not impact the job total or show up on the invoice.
+
+- Material and miscellaneous inputs will be considered job costs in job costing reporting, and material inputs will be tracked as material used on the job in the material on jobs reports.
+
+[Image] https://downloads.intercomcdn.com/i/o/668580538/a3216457e4016123df321e0b/inputs.gif?expires=1763568000&signature=5fe1591947ae7259d57bb11b713e1c93718fc62239856fc8ae4d440941649a80&req=ciYvE8F%2BmIJXFb4f3HP0gDOedTsb1V7mkcPil647uQcka8%2FIP7TO3k0ggWJT%0AcRfNLKbALiRldy3sgA%3D%3D%0A
+
+Learn more about job costing
+
+Learn more about material usage reporting
+
+---
+
+Automatically Track Material Inputs for Flat Rate Services
+
+If you use flat rate pricing, you are likely considering the cost of the materials that will go into a service when setting the price. You don't want your customers to see the details of the material needed for the job, but you may want your employees to see what material they should use on a job, and you want to track what material was used, along with the costs, without impacting the price of the job.
+
+If you have Flat Rate turned on, you'll notice a setting on any service that has material added to it in your price book called Track Material on jobs. Enabling this setting will auto-populate the material on the job as a material input when the service is added to a job. Material inputs will be visible from the web and mobile apps.
+
+[Image] https://downloads.intercomcdn.com/i/o/668590727/405194d780ae9777b8fe17ba/pricebook.gif?expires=1763568000&signature=572f5540a35c5c24a02340f844780e9aad8197a7ed772359a18a1d816c6a3ba3&req=ciYvE8B%2BmoNYFb4f3HP0gBuxDADNe%2FRI0BhMUpDV2W4bV84dmhifK%2Fqzv0mk%0AimakiBRv29tFP7lc9g%3D%3D%0A
+
+If you've set up flat rate pricing, you'll also want to ensure you're tracking your service costs as expected costs on the job.
+
+[Image] https://downloads.intercomcdn.com/i/o/894505919/415903d084d3e544da8a7b08/Screenshot+2023-11-27+at+3.23.55+PM.png?expires=1763568000&signature=aa0312507e1525f341ed6ca3896054fc53a0e6021630bc60c8669cc6b778ac17&req=fCkjE8l7lIBWFb4f3HP0gAN%2BHglqz7NX7te6OCq3RR7z%2BZwdfkuzgzwUvLXh%0AlpMpbLS71U%2BjURxjUg%3D%3D%0A
+
+Learn more about job costing and expected vs actual job costs.
+
+Learn more about flat rate pricing
+
+---

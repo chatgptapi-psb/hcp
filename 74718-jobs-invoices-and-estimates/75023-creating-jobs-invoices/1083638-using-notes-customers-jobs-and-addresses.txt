@@ -1,0 +1,63 @@
+Using Notes: Customers, Jobs, and Addresses
+Source: https://help.housecallpro.com/en/articles/1083638-using-notes-customers-jobs-and-addresses
+Author: Alyssa Moretti
+Last updated: Updated over a month ago
+
+Summary: Keep notes on your customer, locations or specific jobs
+
+What different kinds of notes can I have?
+
+There are a few different places for you to store notes on specific pieces of information about your customers or jobs you're doing. Each has a different purpose and place.
+
+---
+
+Customer Notes
+
+Customer notes let you keep important details about your customers in one place. Notes can be added when you’re setting up a new customer or updating an existing profile, and they’re available on both the Housecall Pro web portal and mobile app.
+
+- On the web: You can view customer notes directly in the customer profile. You can also click into All, Leads, Estimates, or Jobs tabs in the Private notes section to see any notes tied to those sections. For example, if a private note was left on a Job, it will appear in the Job section of that customer’s profile.
+
+- On mobile: Customer notes can be viewed by clicking the customer’s name on a Job and selecting Notes from the Customer Profile.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1787722542/b52fdcbf128f718e91372944dd32/d32667b8-cc27-4977-a113-98efc5f00d6f?expires=1763568000&signature=52e7644a90daa4df314a3e813ea8fa99c6b9a104f6070405786e9e7dd6b1560c&req=dScvEc58n4RbW%2FMW1HO4zX9FyqTE0i8WhdzODpCULS3NqizDwcCYiIcEW3Uz%0A2jaF2MFJSnmUwUOsQF0%3D%0A
+
+You can move Private notes within the Customer Profile by clicking the Move card to other column button in the upper-right corner of the Private notes section (next to the add note button).
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1787736206/1b9f1b1763f238abf09979bd877a/Screenshot+2025-10-20+at+3_31_17%E2%80%AFPM.png?expires=1763568000&signature=eabacdeeb438772218d234ef7ada9db55f66cd9415f63a8f285218fb366af6dc&req=dScvEc59m4NfX%2FMW1HO4zdUbnJE499kUot6qDQ%2F%2FjN2qGGNyQMXi%2BGqChYaG%0ABqHKl4A0w5gGfSHEqVc%3D%0A
+
+You can also pin important customer notes to make sure critical information like a gate code or special instructions always stays visible, no matter how many times you work with that customer.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1787753377/542555d85f7ea06f550c664c8db9/Screenshot+2025-10-20+at+3_49_54%E2%80%AFPM.png?expires=1763568000&signature=f2f498f8bbd3cb2d3cb63e929fe9464cb3cf1ea54229142dba7682b1c11fb93f&req=dScvEc57noJYXvMW1HO4zVQgpkm6n5cuf8EFu30lEf%2FrOeBjMg%2FRC7YDGgbB%0AGfjGZo38wkkWhRVfIFM%3D%0A
+
+---
+
+Job and Estimate Notes
+
+Job and Estimate Notes are used to capture information specific to a single job or estimate.
+
+- You can add notes while creating a Job or Estimate, or later by clicking on the Private notes section within the Job or Estimate page.
+
+- If an Estimate with private notes added is copied to a Job, those notes will automatically carry over to the new Job.
+
+- Use Job Notes to track important details the customer has shared or instructions about the work to be completed.
+
+These notes appear directly on the Job or Estimate details page in the Housecall Pro mobile app, making it easy for your team to access them while on the go.
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/35215159/753be84b414216af752fd1d4/HouseCall.png?expires=1763568000&signature=50be2cde6ee65e581913451d5b03e185aba0a896f34fc200a4b8e68e2f3f7f91&req=dyUlF8x%2FmIgTWLcX3D%2B5hs8jrLYrMkqUYaXqteF4X1KtzI25XFoJaF48d%2Be6%0A8faUmvnFyZuRSoQK%0A
+
+---
+
+Address Notes
+
+Address Notes are similar to Customer Notes in that they apply to the specific address for all jobs or estimates moving forward. To add an address note, click over the 'address' tab in the customer form and click into the 'notes' box on the right.
+
+- For a customer with multiple locations, you can keep the information sorted by each place. It's also helpful if the location has a tenant whose information you'd like to have one hand.
+
+These notes can be seen in the field by clicking on the customer's name on the job details screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/94720631/025f14863b844266463e0019/notes2.png?expires=1763568000&signature=a48e8e4ef5c27b28311825a250b4a3abd3b5f609fbf12ad143903f9cc05d5c89&req=fSQgFMl4noATWLcX3D%2B5htcU%2FQ3cReaitf3Vq8%2Bd%2BqC2a6WdbdCacjnC5utG%0Ar1rykFahc%2B%2BxVLpO%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/94720664/4161550baf11d2fa86d5fcaf/notes3.png?expires=1763568000&signature=00aee82e10cc005a3da8bfddabb3237d3f710c0fd7f5ff00849d709bbe8e78e5&req=fSQgFMl4m4UTWLcX3D%2B5ho8gJq3v3wENqfVlj6PnatH%2Bvjx8wFFmVew9K1%2FP%0AjIIZjibwR%2BmtcXCS%0A
+
+---

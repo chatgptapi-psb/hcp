@@ -1,0 +1,217 @@
+Private Notes on Jobs and Estimates
+Source: https://help.housecallpro.com/en/articles/2883273-private-notes-on-jobs-and-estimates
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: Add and edit internal job notes about the job for your company to view prior to or while on the job.
+
+Private notes are notes that Admins, Office staff, and Field techs will be able to see, specific to the individual job or estimate. Customers are not able to see these.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1781755628/39fa41fac9eeed7121f22e3d7bcf/Screenshot+2025-10-16+at+11_44_30%E2%80%AFAM.png?expires=1763568000&signature=62827167575ddc72fa08bc0e7edcac87c3c533207e9920302454c711a6520124&req=dScvF857mIddUfMW1HO4zd5nK0SB10yylE%2FtU6ILxeyZotRMRt9FrEtOk9qw%0AgBVIMEFP7D%2BEX%2BhMt0o%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1781757919/1323728beb1a0283abae73d78c5b/Screenshot+2025-10-16+at+11_45_38%E2%80%AFAM.png?expires=1763568000&signature=36f209bc247256d3360353aa0c60699ab47b0d505a499a144dea3002de2b0284&req=dScvF857moheUPMW1HO4zXhTlldaWfCXyjHV0wYFlUzPf%2BcY0WckcDGi6kTE%0AmRxQZqs%2FoxfG7k35T5o%3D%0A
+
+---
+
+Add Notes to a New Job or Estimate
+
+After adding a customer when creating a new job or estimate:
+
+- Locate and click the Private notes section on the left side of the page.
+
+- Ensure that the toggle is set to This job or This estimate.
+
+- Enter your notes into the text field.
+
+- If needed, you can press Enter on your keyboard to begin a new line of text.
+
+- Save the note by clicking anywhere outside of the text field, and that's it!
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1782034768/f183cdf7f7096f3643154f296ec1/Screenshot+2025-10-16+at+2_06_06%E2%80%AFPM.png?expires=1763568000&signature=6737684a522a3463c7b4530a08d097d67279d21c1675fb2433dc22c4ae2961c7&req=dScvFMl9mYZZUfMW1HO4zbwr77t0%2Bb84VWRt3YVSUsY443YKk8%2BBh5Wsc%2B6t%0AbT3xMPVXejDXayGGFFI%3D%0A
+
+When creating a new job or estimate without adding the customer first:
+
+- Locate and click the Private notes + button on the left side of the page.
+
+- Enter your notes into the text field.
+
+- If needed, you can press Enter on your keyboard to begin a new line of text.
+
+- Save the note by clicking anywhere outside of the text field, and that's it!
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1781940877/d3193df272336369a866d1b0c97f/Screenshot+2025-10-16+at+1_08_39%E2%80%AFPM.png?expires=1763568000&signature=fbd16e42579adfdc42f3e590f3bf354dcd1c23442a3aeeabea5672a032498507&req=dScvF8B6nYlYXvMW1HO4ze5gdAZZ84z1nS9bokpfNjC4VvvT4XvjUSaljMnx%0AG3hQD%2FodOzyJoRsMTBg%3D%0A
+
+---
+
+Add Notes to an Existing Job or Estimate
+
+To add private notes to an existing job or estimate:
+
+- Open a job or estimate and scroll down to the Private notes section.
+
+- Ensure that the toggle is switched to This job or This estimate.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1789190120/911907c0c1e0725baeab1421a15e/Screenshot+2025-10-16+at+2_09_43%E2%80%AFPM.png?expires=1763568000&signature=1f4bb3d242c745c8dd04077ed4b97232aca544c84223f0347a8d32be97802065&req=dScvH8h3nYBdWfMW1HO4zdFQc1A%2B9K%2F%2B1%2F5YoYVzKFsnV5toGxplT2iemmvR%0Asvow54teO9w2IlsivVc%3D%0A
+
+- If your notes are located on the left, you can add a new note by clicking the Add note (+) icon in the top right corner, or the + Job note or + Estimate note button at the bottom.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1781795636/ee065f579e1c3152e4d1aa0c89f5/Screenshot+2025-10-16+at+12_01_24%E2%80%AFPM.png?expires=1763568000&signature=1fc9948dfeaee64e7704da99b7aa3cf1c941f967424b9cf591f182e48993ad15&req=dScvF853mIdcX%2FMW1HO4zWgok4lpghL61KYUwqUxKsP9cWTvl%2Buu4zCpy%2BfZ%0AHegOReRP5AOa841tJCg%3D%0A
+
+- If your notes on jobs are under Line items, you can add a new note by clicking the + Note button in the top right corner or the + Job note button at the bottom.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1781798839/d738de48989acc4323a6987c0df2/Screenshot+2025-10-16+at+12_03_22%E2%80%AFPM.png?expires=1763568000&signature=f0c996ac84a525be67abbba36524d3f1b96e3826813e167c4afd51e29378c49b&req=dScvF853lYlcUPMW1HO4zTcZ4VO8T0gKE%2BOhqxb1XigXBmnZnXXfLMeiIbRA%0AitbVbwzGAhgtuwj17qw%3D%0A
+
+- If you're adding a note to a job that's part of a recurring series, a confirmation window will appear, allowing you to select whether you'd like this note to be added to all jobs in the recurrence or just this job.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1781805293/7efa2a75aefc57447a0326fff42e/Screenshot+2025-10-16+at+12_08_25%E2%80%AFPM.png?expires=1763568000&signature=80b5c425c3656428ff1508b9c9da8416b93c8bb9e33176f6129dfe2142d9607c&req=dScvF8F%2BmINWWvMW1HO4zVqEKDhd%2BwkX3gis4AJp3tyCjddEjzGM4tGVbRjf%0Ao7NBplkkSC%2BOSwRnKXc%3D%0A
+
+- Enter your notes in the New note field.
+
+- If needed, you can press Enter on your keyboard to begin a new line of text for the same note.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1781953738/0577220655ea5da6dd40c1a91c3f/Screenshot+2025-10-16+at+1_14_13%E2%80%AFPM.png?expires=1763568000&signature=6a8f58dbc3e050748da669e1e83d33758b66cd6c1fa62c15d5927a215c45e5b9&req=dScvF8B7noZcUfMW1HO4zfPYs8RPzbAid%2FvXd9x4nJ9O20vCn4whZzt65JOQ%0AX0jeutOdu15%2FgRA3ZsQ%3D%0A
+
+- Save the note by clicking anywhere on your screen.
+
+- If you accidentally save the note, you can edit it by clicking the pencil to the right.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1781953457/0b6660124bdbb956c8e9d5a8dae1/Screenshot+2025-10-16+at+1_14_51%E2%80%AFPM.png?expires=1763568000&signature=c17d70e2720332425350f8c3aa16c1439dca67cfddd78ae9fda71ffa04151774&req=dScvF8B7noVaXvMW1HO4zQRTptf80%2FVEEQRWgqbFnTyZuhwp2nKhwuzZtmx%2F%0AGyP553BB9dx8CFQrGYI%3D%0A
+
+---
+
+Edit a Note on a Job or Estimate
+
+If your Private notes are located on the left side of the job page:
+
+- Click More (⋮) to the right of a note.
+
+- Select Edit from the dropdown.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1781974812/02ee822ed1f516ca1e1a2c0c2635/Screenshot+2025-10-16+at+1_26_33%E2%80%AFPM.png?expires=1763568000&signature=f70fce2a3d42d30faf2eae429a2cb1ac216883c069c95a936b88f54041d2c3ea&req=dScvF8B5mYleW%2FMW1HO4zR1p1BGh%2Bqe%2BjdmX2wHgtPjPd3XdTrJVMlSDinYL%0AFyQTIQqTLdOXi3SFTVw%3D%0A
+
+If your Private notes are located under Line Items:
+
+- Click the pencil icon to the right of the note to edit it.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1781966989/ce80756cc2656a2ab25cac65048a/Screenshot+2025-10-16+at+1_21_26%E2%80%AFPM.png?expires=1763568000&signature=0ffd91b46daeb800c7dbfe8e099f3d84a0adc156e9ad643b4490e7f2ff485ecb&req=dScvF8B4m4hXUPMW1HO4zXnQby58Mhm4gk4tJdGdi%2Fn4XH3QZ4umNNK7SbXb%0AKNoyePOCg1tVnC7Zwfc%3D%0A
+
+You can then edit the note as needed and save your changes by clicking anywhere on your screen.
+
+---
+
+View the Edit History of a Note
+
+To view the edit history of a note:
+
+- Click More (⋮) to the right of the note.
+
+- Select Note history from the dropdown.
+
+- You'll see the previous versions of that note, including who made edits and when the edits were made.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1781981973/374b4493a252fcc9925cf83eb666/Screenshot+2025-10-16+at+1_32_01%E2%80%AFPM.png?expires=1763568000&signature=93332b3372f6867ed55d814eb4ccf62495c60213bcd529d4a44f01bae43f7150&req=dScvF8B2nIhYWvMW1HO4zS5pcwSmT5eVUdjUW0Sq%2Bb%2BAxKqcnpXinGzi1sPS%0AHBTT%2BeOCZMd6aVLT5u8%3D%0A
+
+---
+
+Move Private notes on a Job
+
+To move private notes on a job:
+
+- Click the change column icon (to the left of the + icon) in the Private notes section.
+
+- Your notes will then be moved: - Under the Line Items section (if they were previously on the left).
+- To the left side of the page (if previously under Line Items).
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1451157970/cefdc6e7d7c6c58c2322115f80e8/Screenshot+2025-03-31+at+3_14_35%E2%80%AFPM.png?expires=1763568000&signature=48e4e9f02f956418e359dc5403af0415203aee4f2e5302a650eec6fea49a5271&req=dSQiF8h7mohYWfMW1HO4zaBmuBecTWRgMlv0R3f7yye7G0jQHowFxdXEngl7%0AlKrLdx4jS8T9Lhn3b%2Fg%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1451179692/f0a76580fd499cc3ddbbdc26025a/Screenshot+2025-03-31+at+3_30_17%E2%80%AFPM.png?expires=1763568000&signature=314b3d4556a3ca77a7de3053ccfa14479f4634c666df01c857f1d7d49f296d9b&req=dSQiF8h5lIdWW%2FMW1HO4zUdV77edUym74Vcb1GWbKUyq9tmJYvzmM7vl0%2B9W%0A9h38bmWqTQQSzWHGITw%3D%0A
+
+---
+
+Delete a Note from a Job or Estimate
+
+- Click More (⋮) in the top right corner of any note.
+
+- Select Delete note from the dropdown.
+
+- Any notes that have been deleted will show up in the job's activity feed.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1781962162/3bf0935f0f7c5cd115e914e1a0df/Screenshot+2025-10-16+at+1_18_19%E2%80%AFPM.png?expires=1763568000&signature=4923255d9ce83c87e1b89fdb713b6ef5e11a8f256ff3f5a25faccdc11735a778&req=dScvF8B4n4BZW%2FMW1HO4zVb%2BdS6YEUMDD1UDpQ9J8fmZdbEX34QicDkNTjX%2B%0ACKJLjaWw7bULR40QKBo%3D%0A
+
+---
+
+View Job or Estimate Notes in the Customer Profile
+
+Once you've added a note to a job or estimate, the note will also appear in the Customer Profile in the Private notes section.
+
+To view a Job note in the Customer Profile:
+
+- Open a Customer Profile.
+
+- Select the Profile tab and scroll down to the Private notes section.
+
+- Toggle over to Jobs to see all job-related notes for that customer. You can also click the blue Job # to open the related job.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1732540497/452cf767583f5e77d4dd42c6db0c/image.png?expires=1763568000&signature=aa597e972c210d14dc0c96c7273c5a3848921ecc346da64f3fba6c64ff76a1ff&req=dSckFMx6nYVWXvMW1HO4zQfoYc%2FmM6EehYG2cpAIwdwXGEdBIwT4x3cM4L9U%0A3DEZ9N1m6%2BXr1FpTrJY%3D%0A
+
+---
+
+NEW! View Customer Notes from a Job or Estimate
+
+To view Customer notes from a job or estimate:
+
+- Open a job or estimate and scroll down to the Private notes section.
+
+- Switch the toggle to Customer.
+
+- From here, you can review any notes added to the Customer Profile.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1782354723/659d5ada9cd4f939f5c9668bfb2d/Screenshot+2025-10-16+at+3_29_39%E2%80%AFPM.png?expires=1763568000&signature=73a21ad40ae15c99bcaaaa4b04f929bccd6ed436642d1337eb575979d86f59c0&req=dScvFMp7mYZdWvMW1HO4zQJOG0xBp6SOwd%2F%2Bqw1JxnQmZFodGO6GeAyR4vXf%0AjeZGgRtZwcq8dCGjta0%3D%0A
+
+---
+
+How Notes Work with Recurring Jobs
+
+If you add a new note on a recurring job, you're able to apply it to just this job, or all jobs in the recurring series.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1781866303/bddb59ab29fe581b9d6b98bd168d/Screenshot+2025-10-16+at+12_08_25%E2%80%AFPM.png?expires=1763568000&signature=60284c211a11bdb681e210878f2d0980ce0fc09bdac4cf543d36fc37158a41e1&req=dScvF8F4m4JfWvMW1HO4zVxdGpWBxgT6sAPuFWKxT2EpowkQ5Z9%2BaeGFW9sF%0AzM9ZeZvjmop%2BEYjdVcE%3D%0A
+
+Recurring notes will have a recurring icon in the top right. Any edits made to that note will apply to all the jobs in the recurring series. Deleting that note will remove it from all jobs.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1781988886/fa010b9f79a76cc1df831471d7f8/Screenshot+2025-10-16+at+1_35_51%E2%80%AFPM.png?expires=1763568000&signature=ca55247d1b6dcb876cb20202b106d1b97ddebaad400c096f7f0df7f08e8b6f53&req=dScvF8B2lYlXX%2FMW1HO4zV9IbSFOff60qyqlHNkgP10Hl3lSIk0cKnpUMXSm%0ARWXy44zw98aN%2FgNixzE%3D%0A
+
+---
+
+Job Notes on Mobile
+
+Since Housecall Pro is a cloud-based system, you can add notes to a job or estimate right from the field and it will be automatically synced with the web portal, making it easy to stay organized.
+
+To add a note to a job on mobile:
+
+- Open a job in the mobile app.
+
+- Scroll to the bottom of the page and click the Private notes button.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1209459221/d5a000589e6191ad10dbf513e90f/IMG_0059.PNG?expires=1763568000&signature=332aab4d5bafa5d46d0499caf1bfb18e942a3a065e3ac4e33f507c7c92b5077d&req=dSInH817lINdWPMW1HO4zUaOqfHx%2BcfvrrMNZNdLPluMUBxD4oGtS7vtYo4O%0AgvbjO3qGwCylR%2F50DLc%3D%0A
+
+- This will bring you to the Add note screen. Enter your note, then click Save in the top right corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1209459220/8d20a19af00800acc3b1136969b4/IMG_0060.jpg?expires=1763568000&signature=1ec2b1b72704a47a4c98bb5f80049cf843159b749274a7733722a92501f99357&req=dSInH817lINdWfMW1HO4zUduHH43ay6TcWGRnf8hFmsFzknnsm6nxnIHL5va%0A9fSx9DCKKZJMUpgMvhk%3D%0A
+
+- If you need to add more information to the job, you can click the + icon to add a new note, or you can click on an existing note to edit it.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1209459224/611c7ca851ff1c2c8364e0eb943d/IMG_0061.jpg?expires=1763568000&signature=adafc958054937607bf86c01041b5f210fafca8b75f05258ca8fc58f543a96ea&req=dSInH817lINdXfMW1HO4zRK%2B29x63M1yVx9jPxtQF9tWO%2BnwPX0HhV%2FDbosM%0A1pSl1gk6FZgr25UojfE%3D%0A
+
+- To delete a note, select it from the job page and click More (⋮) in the top right corner of your screen. Then, select Delete note.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1209459216/39ada4dadb3f750872ce00d1d906/IMG_0063.jpg?expires=1763568000&signature=418afdc1efa8e39809f9d2a6cc5032e667904ee9209569a17a503b6315eacfeb&req=dSInH817lINeX%2FMW1HO4zSaAK%2F6larTM5SzbD4kb9pEqpgmMYTMfYqBNPa%2Fy%0A69ALpS9oQGpwjfdTH%2F0%3D%0A
+
+- If you have multiple notes that you'd like to view all at once. You can click on the expand icon in the top right corner of the Private notes section on the job.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1209459218/39fd5f4a34d771faf7c26f3fd582/IMG_0065.jpg?expires=1763568000&signature=3ebaef6adbab83e5d2221fb73e20e129417ceb4e08f50f6077c61bdb0e82d201&req=dSInH817lINeUfMW1HO4zeTVnXgnRGN8%2BXZiDmrzMLJTFsgCsth78gfINJGG%0AKztFiEONZwXvv0TzQdU%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1209459217/d12dc72baab9e2fb93e1a9a02583/IMG_0064.jpg?expires=1763568000&signature=085cd309935929a0dd6ac846bf4a7a02336d8ca0f0b4d31d96a0a7647b98baff&req=dSInH817lINeXvMW1HO4zaZPVgaIluhwCdWEyHrpxI9%2BRuqttWGYDFCMixaA%0AMdLzS%2BvbE3BLVFHgUNo%3D%0A
+
+All of these changes will automatically show up in the web portal. In the activity feed, you'll be able to see when a note was added and deleted, as well as any history of edits to a note. Learn more about notes on the web here.
+
+---

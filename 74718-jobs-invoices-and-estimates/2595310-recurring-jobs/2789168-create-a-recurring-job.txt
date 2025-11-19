@@ -1,0 +1,54 @@
+Create a Recurring Job
+Source: https://help.housecallpro.com/en/articles/2789168-create-a-recurring-job
+Author: Nate H
+Last updated: Updated over 4 months ago
+
+Summary: Create daily, weekly, monthly, yearly and custom recurring jobs.
+
+Recurring Jobs in Housecall Pro
+
+There are many options for creating recurring jobs to meet the needs of your business. Recurring jobs are a great tool because once you set up the recurrence, you'll no longer have to schedule each job every week.
+
+---
+
+How to Create a Recurring Job (HCP Web Portal)
+
+To create a recurring job in the HCP Web Portal:
+
+- Click the 'New' button in your navigation bar.
+
+- Select 'Job' from the drop-down.
+
+- Click the pencil icon in the Schedule card on the left side of the page.
+
+- Click the 'Recurrence' button at the top of the Schedule page.
+
+- Set up your recurrence details.
+
+- Click 'Save Job' in the top right corner of the page, and you're all set! You can review the recurrence details from the recurring card on the left side of the job page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1357128878/7f24505eb3f944411783cdeba99c/recurring-2B6.gif?expires=1763568000&signature=67586332d8812ec8113cef19f9008ff26329c228fa83b25bb92ccf7d5fd97147&req=dSMiEch8lYlYUfMW1HO4zY73lM%2BLmbfi9MTmSsDcImnzc6R84kB5GCYSiPB4%0APXps%2Fh0cFQM1fIqPywM%3D%0A
+
+---
+
+How to Create a Recurring Job (HCP Mobile App)
+
+Easily create recurring jobs from the mobile apps. Make changes to a single job or the entire series on the go.
+
+To create a recurring job in the HCP Mobile App:
+
+- Tap the '+' button on your home screen and select 'Job.'
+
+- Tap 'Schedule +' on the job page.
+
+- Select Recurrence.
+
+- Customize your recurrence details.
+
+- Save the job
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1357128879/016f366fc1a92891e4e7331bc902/custom-2Brecurrence-2Bon-2Bmobile.gif?expires=1763568000&signature=728c1f88dc04de1ec37d427ffc25b7284c922c86eb2720afeb14d9b9b12565a4&req=dSMiEch8lYlYUPMW1HO4zWy%2B%2BPkpO%2FJM%2BvE2iEhPr3Yp4SobbXz990evmhdB%0AyXzSSOF7%2FJNtnpuV7lY%3D%0A
+
+---
+
+---

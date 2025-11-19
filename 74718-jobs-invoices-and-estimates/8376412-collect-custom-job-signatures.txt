@@ -1,0 +1,109 @@
+Collect Custom Job Signatures
+Source: https://help.housecallpro.com/en/articles/8376412-collect-custom-job-signatures
+Author: Sarah C
+Last updated: Updated over a month ago
+
+Summary: Create and collect up to 3 custom signatures on a job.
+
+Custom Job Signatures
+
+In some states, consumers have the right to cancel a service within three days of receiving a price or estimate. To comply with these regulations, many Pros require customers to sign an agreement acknowledging that they are waiving this right before work begins.
+
+Our Custom Job Signatures feature makes it easy for Pros to collect these legally required signatures—along with any other necessary signatures—directly from customers on the job. With this feature, you can:
+
+- Create up to three custom signature fields for your service agreements.
+- Collect signatures quickly and securely from the mobile app while on the job.
+- Display signatures on both the invoice and the job record.
+
+In this guide, we’ll walk you through how to set up and use the Custom Job Signatures feature to streamline your workflow and ensure compliance with local regulations. Let’s get started!
+
+---
+
+Add and Manage Custom Job Signatures
+
+To add Custom Job Signatures:
+
+- Click the gear icon in the top right corner of your account.
+
+- Select Jobs from the left Settings menu.
+
+- Ensure that the General tab at the top of the page is selected.
+
+- Scroll down to the Custom Signatures section.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1637006698/f1325a38e8abcdd1df4b91edc523/Screenshot+2025-07-24+at+11_40_03%E2%80%AFAM+copy+2.png?expires=1763568000&signature=e329b3171b236d33960ed9b7523dce2300dcd097e1e43fec7242ce320c5715d3&req=dSYkEcl%2Bm4dWUfMW1HO4zeG7lEa%2B2o2l4FLvF8l83DzKLGXTL0Sp5Wn6rkGP%0AZKWUgaBaHTzHrL23%2B0A%3D%0A
+
+- Click + Signature, and the Create Signature window will appear.
+
+- Name your signature and add your terms, then click Create.
+
+- Your Custom Signature will then be available on all future jobs.
+
+- If you'd like to prevent the signature from being added to all future jobs, click the toggle to the right.
+
+Edit or delete a Custom Signature:
+
+- Click the pencil icon and make any necessary changes, then click Save.
+
+- Click the X icon, then click Delete to confirm.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1637007054/d6264344951ba2ed693ec7267907/CustomJobSignature1.gif?expires=1763568000&signature=825cb93cf0e2b465f347d1b227c1483ee224356a83229c07abed7694284ea048&req=dSYkEcl%2BmoFaXfMW1HO4zZrzQlmpJvGP3a%2Fu%2BCMt3f%2F3wVztKlwe2WETyCOw%0A4PksMIm255zX%2BVc0NOQ%3D%0A
+
+---
+
+Collect a Signature on a Job (Mobile)
+
+To collect a signature on a job:
+
+- Open a job on the mobile app.
+
+- Tap Approve in the top left corner of the page.
+
+- Select a signature: - Before work starts
+- After work is complete
+- Custom signatures
+
+- The signature box will appear on your screen, and the terms for that signature will be displayed at the top.
+
+- Once your customer signs, they'll tap Done Signing - and that's it! The customer's signature will then be displayed on the job (on web) and at the bottom of the invoice.
+
+[Image] https://downloads.intercomcdn.com/i/o/838588820/3367cda5ece4ff00010115c5/custom+signatures.gif?expires=1763568000&signature=9420a863cf00a401d7839c1c7beb663fa0eaa96c72089d90eb554246e653a121&req=fCMvE8F2lYNfFb4f3HP0gGDlZOGVRim9ovSgYtzY6UEPeDhfOvnp53nxzC%2BL%0AXCDC8DH9L3WsMQGJJg%3D%3D%0A
+
+---
+
+View Collected Signatures
+
+Once signatures are collected, they are displayed on the invoice and in the Approvals section on the job on web.
+
+View a signature on the Job details page:
+
+- Open a job in the web portal.
+
+- Scroll down to the Approvals section on the left.
+
+- If a signature was collected for the job, you'll see it here along with the following details: - Type of signature used
+- Name of the customer who signed ("Approved by...")
+- Date the signature was collected
+- The amount that was approved
+
+View a signature on the Invoice:
+
+- Click the Invoice button at the top of the Job details page to view the invoice preview.
+
+- Your customer's signature will be displayed at the bottom of the invoice.
+
+[Image] https://downloads.intercomcdn.com/i/o/830779839/698907f855bc4056a8f1f562/collected+signature.gif?expires=1763568000&signature=92df52e777383d1caa9b7eb5a3a558b86f20e02c111eec06a6e935adc46d3982&req=fCMnEc53lYJWFb4f3HP0gP0sOKxJm0y2JUFLznSxePXrzcljaXBuXoNMBsoo%0Amy8D%2FQmqwo0M34O6pA%3D%3D%0A
+
+---
+
+FAQs
+
+What happens if I delete a signature from the settings?
+
+- Deleting will not affect any already collected signatures. The option to collect or recollect that signature will no longer exist on existing and future jobs.
+
+What does the toggle do for signature settings?
+
+- Turning the toggle off will remove the option to collect or recollect that signature on existing and future jobs.
+
+---

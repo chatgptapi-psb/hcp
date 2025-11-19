@@ -1,0 +1,45 @@
+Customer Profile: Job History
+Source: https://help.housecallpro.com/en/articles/682495-customer-profile-job-history
+Author: Nate H
+Last updated: Updated over 2 months ago
+
+Summary: How to view a customer's job history from the Customer Profile.
+
+View a Customer's Job History
+
+To view a customer's job history in the HCP web portal:
+
+- Open a Customer Profile.
+
+- Select the Jobs tab.
+
+- Here, you'll see the list of all jobs linked to that customer.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1730992976/6198e5504377f930f4b775f0bd01/Screenshot+2025-09-17+at+2_21_24%E2%80%AFPM.png?expires=1763568000&signature=ab974f071ee5fc865fd47286bb25ce8fabbc6d4826b4aab82748174a197dea9a&req=dSckFsB3n4hYX%2FMW1HO4zUsIRPubj4r%2FTTPUKWWxLTQA2VkfJbY7w6ExHG6%2F%0A2OvN84%2FVcLBkO2uNBEk%3D%0A
+
+Optional: Customize job history columns
+
+- Click the Select columns to view button (3 bar icon) above the list on the right to edit which columns are displayed: - # (job number)
+- Job created date
+- Job scheduled for
+- Job completed date
+- Customer (display name)
+- Address 
+- Description
+- Lead source
+- Amount (total price of the job)
+- Status (of the job)
+- Payment (status)
+- Notes
+- Employees
+- Tags
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1730979891/e8e2439ae449a75b6c172925a442/Screenshot+2025-09-17+at+3_07_42%E2%80%AFPM.png?expires=1763568000&signature=f11a575eba8af066669d376fe676f7a6488199adfa7972a6b2fd5819e12f36a8&req=dSckFsB5lIlWWPMW1HO4zcu0G7J3iW8mz1xctVoduRVgN4XyUbghDFhQiWjz%0AnM50YjQgzyQw7MvQXUQ%3D%0A
+
+Optional: Filter job history
+
+- Click the Filters icon to narrow the list by job scheduled date or by lead source.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1730977043/842b74f2dc358882b93ac60e6404/Screenshot+2025-09-17+at+3_02_04%E2%80%AFPM.png?expires=1763568000&signature=91ff7afbcf90e5fcbc7de1588bf87e106384286d200fad35769e3917eb0deb36&req=dSckFsB5moFbWvMW1HO4zYtpb4Lzjq%2FBdlgn583hbbvctBKoZ8QQiz8JeRgj%0A5jFovR0CTRz6Kvb4gu4%3D%0A
+
+---

@@ -1,0 +1,115 @@
+How do I Set Up Invoice Reminders?
+Source: https://help.housecallpro.com/en/articles/4249157-how-do-i-set-up-invoice-reminders
+Author: Francisco C
+Last updated: Updated over a month ago
+
+Summary: Learn how to set up automatic invoice reminders to remind customers they have an overdue invoice. See common questions answered too!
+
+How to Turn Invoice Reminders On/Off
+
+Invoice reminders aim to simplify the payment process and professionally notify customers about overdue invoices. To enable or disable invoice reminders, you can follow these steps below.
+
+To enable or disable invoice reminders:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Invoices from the Settings menu on the left.
+
+- Click the Automations tab on the invoice settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1634405315/4a6fff0cecaf0d63cc9df416fc39/image.png?expires=1763568000&signature=9af6f20d7f6f47952faf85492620f60856f945c24fb29bd5ad7f4102c53f2d87&req=dSYkEs1%2BmIJeXPMW1HO4zTydzjjmbly9WfZj7e5oh%2BL6vdg6jKcObbI1OWU1%0AVIxrXP4B56QOpFQZoPQ%3D%0A
+
+- Toggle On or Off the Send unpaid invoice reminders setting to enable or disable invoice reminders.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1634419183/f51aba07febb3821be92a71e2d2e/image.png?expires=1763568000&signature=3f5a563f6b58d94404773594d71a7c76bd093dedb8a72e74d11ddaa6134bb2ce&req=dSYkEs1%2FlIBXWvMW1HO4zd6Uqu5HTckPNCAVlRuK0uJkj9nn4uSYdvM%2BtugL%0AvpgO0yUiusSLGreZ49M%3D%0A
+
+---
+
+Edit Invoice Reminder rules
+
+To set up or edit the frequency and amount of invoice reminders sent:
+
+- Navigate to the Invoice Automations settings page.
+
+- Click the pencil icon next to the Send unpaid invoice reminders toggle.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1634451000/3b4cd83b260a8aeab5887fa17d5e/image.png?expires=1763568000&signature=636514100ab43db8dcd5868f04af1fa9fb26c6e278d1a755c6f8457c897f0c61&req=dSYkEs17nIFfWfMW1HO4zUBxek7NCuZsJ9ASaVMgi7vDCxxes0YiJmbKrimZ%0AKBwB4mkxfLGmjczV3y0%3D%0A
+
+- In the Invoice reminder rules window, click the dropdown arrow next to Reminder frequency and select one of the following frequencies: - Every day, Every 2 days, Every 3 days, Every 5 days, Every 7 days, Every 14 days, or Every 30 days.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1634433365/ebc257e26bfff67f9f90a5738e65/image.png?expires=1763568000&signature=8c00397e0f53f43455c6b8c9f7156f481fba26437a151b468dc2300759f69e94&req=dSYkEs19noJZXPMW1HO4zfHqQeahLhHsFow0PjY8VVNEM3xioh1HsXdBSuVX%0AOJM68nJWmwADE2BMvaI%3D%0A
+
+- Next, click the dropdown arrow next to Send a maximum of and choose how many reminders you'd like to send (between 1 and 10).
+
+- Finally, click the blue Save button to confirm your changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1634442432/39e70cd176d39febdc2c769beb64/image.png?expires=1763568000&signature=f225e783819b187d90f464d24aa068d4a7809eb35a492df03f4be5e9360be7ff&req=dSYkEs16n4VcW%2FMW1HO4zVXfbcIaJgrq0ijZePZy9faXCRhAYJLHWx8ufzOc%0AvcI3w7cxVuOzJdlWAC0%3D%0A
+
+---
+
+Invoice Reminder Exclusions
+
+Exclusions will stop active invoice reminders from being sent. You may choose to exclude certain customers from receiving invoice reminders by searching the Customer Name or by entering a Customer Tag.
+
+To exclude customers from invoice reminders:
+
+- First, navigate to the Invoice Automations settings page.
+
+- Next, click the pencil icon to the right of Excluded from invoice reminders.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1634475292/6a4463c34b3e09478de90cbb016c/image.png?expires=1763568000&signature=b2a8fb8117e033a051543b5dd61426b80bcdc66b1c892e0e2660265110c16e36&req=dSYkEs15mINWW%2FMW1HO4zefQfs92vEY7VngNs6Ue7x%2BQYKQET%2FPsOhMCQlOt%0ApK5u%2BpX%2BHwuH7BBQ7b0%3D%0A
+
+- In the Invoice reminder exclusions window: - Type the customer’s name into the Search customers field and select it from the dropdown.
+- Enter a customer tag to exclude and select it from the dropdown.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1634481075/ed804b8c565a59319c96251ecee0/image.png?expires=1763568000&signature=0c74662f3b39bb5a9500aba2f116270d0f5583f45090e1f0256f3f6e5371655a&req=dSYkEs12nIFYXPMW1HO4zRadNEplsTbV%2FUwOLw4H%2B%2Bq3rjxGsvJNHJKXZkZc%0AcZge%2BYYN8s0AHoFEtdM%3D%0A
+
+- Once selected, the Customer (or tag) will appear under the Customers excluded list.
+
+- To remove a customer from the customers excluded list, click the X icon to the right of their name.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1634489071/425d01930bcaba6fc45890051b1f/image.png?expires=1763568000&signature=b89a44ae458e8fb971fed4e57f2a092885f979c20d37e609462a18cb8be37a70&req=dSYkEs12lIFYWPMW1HO4zRAnHGg%2Flt3qU6K1slIqcyUlfZKtTkWrXnR4GFz3%0AN9q%2BspiZtstAnegAMTQ%3D%0A
+
+- Finally, click the blue Save button in the bottom right corner to confirm your changes.
+
+---
+
+Invoice Reminders FAQs
+
+Who can configure Invoice Reminders?
+
+- All Admins can adjust your invoice settings to either turn on or turn off invoice reminders. Office Staff employees with the Update company account info permission are also able to adjust these settings.
+
+Will Invoice Reminders be sent for Due Upon Receipt?
+
+- Yes, the due date of this invoice will be the day it is sent to the customer, and if the customer has not fully paid their invoice come the next day, it will then fall into your Invoice Reminder cadence that you set.
+
+If I turn Invoice Reminders off after having them on, will my customers who have already received reminders continue to get them until they pay?
+
+- No, when you turn on/off Invoice reminders, all customers and all invoices are immediately affected. This means that if you have a customer who would have received a reminder email tomorrow, but today you turn invoice reminders off, that customer will no longer receive that reminder email tomorrow.
+
+What is required for HCP to send the reminder to my customer after I have turned Invoice Reminders on?
+
+- Invoices have to have the job associated marked as finished, have an invoice due date, have a balance greater than $0, and you must have sent an invoice to the customer. Invoice reminders will start going out after the invoice due date has passed and the invoice is still unpaid.
+
+When do invoice reminders stop being sent to customers?
+
+- Invoices have to be marked as Paid in order for the reminders to stop.
+
+What happens if I manually send the invoice to my customer again?
+
+- The reminder sequence will restart based on the most recent date you sent an invoice to a customer.
+
+Who receives the invoice reminder if I emailed the invoice to multiple email addresses?
+
+- The Invoice Reminder email will be automatically sent to all email addresses that received the invoice when you sent the invoice to the customer.
+
+How will I know if the Invoice Reminder was sent to my customer?
+
+- You will see the Invoice Reminder in the activity feed on the job. It will look just like the activity for sending an invoice, except that the user will be Housecall Sparky, since HCP is automatically sending the reminder for you.
+
+Does Invoice Reminder work with batch invoices or auto-invoicing?
+
+- Currently, Invoice Reminders are not compatible with batch invoices or auto-invoicing.
+
+---

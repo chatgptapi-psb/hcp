@@ -1,0 +1,117 @@
+Line Items on Jobs and Estimates
+Source: https://help.housecallpro.com/en/articles/7119803-line-items-on-jobs-and-estimates
+Author: Bricelyn J
+Last updated: Updated over a month ago
+
+Summary: Add service and material line items to jobs and estimates, and find quick ways to complete actions to save you time.
+
+Line items allow you to easily build out the details of your jobs to ensure employees and customers know what's expected and what's being charged.
+
+Adding and Editing Line Items
+
+To add a line item, simply click to add a Service or Material. You can search for items in your price book, choose from frequently used or favorited items, or create new line items that are not yet in your price book.
+
+Alternatively, you can add items from your visual price book by clicking the Service or Material Price Book buttons.
+
+[Image] https://downloads.intercomcdn.com/i/o/828089862/837ab5cf582ce4988d82b291/favorite.gif?expires=1763568000&signature=6202228c85e0035d1243df3f8f4f1dc6b43c75585638a6878ca803bc24dd4759&req=fCIvFsF3lYddFb4f3HP0gEDF0%2FcHBq5evXLNF08SFVRnVeeebyWYuodlZVpV%0AWkTQv5L8OAHgbgFxmQ%3D%3D%0A
+
+Note that multiple line items can be added or edited within the same modal by rotating through line items or clicking to add a service or material.
+
+[Image] https://downloads.intercomcdn.com/i/o/828094643/ed32030a3061cfb06ed8a5bc/favorite.gif?expires=1763568000&signature=46b6043b5275c47f9b74f15dfeab17f314495066e34d02c07a59a20f28ac3794&req=fCIvFsB6m4VcFb4f3HP0gBKAVLdgUlTwBQKnTapE1K7sq2%2BjnYXY1eWgG%2BpI%0AD09lMnpYuhq4Bdbe3A%3D%3D%0A
+
+To edit Line Item information, click on any field to update it. Changes will be auto-saved and you'll see a Saved confirmation toward the top of the line item box.
+
+Clicking the grey 'X' icon next to a line item will allow you to delete it.
+
+[Image] https://downloads.intercomcdn.com/i/o/828093537/919e4e9c2327b41d36b8eccc/favorite.gif?expires=1763568000&signature=28d3dec176608570a084fcaa6796f603170db334092a6cc91f2341ebf8077016&req=fCIvFsB9mIJYFb4f3HP0gGAEriLeg2PLWJSS6Ztpa9FAGPCFh1CPKglao5nS%0AS62mSY3Idu%2FxtwUqIw%3D%3D%0A
+
+Forms View vs. Table View
+
+Within the Line Items section, you can toggle between Forms View and Table View. The same features are supported in each view, and changing the view from the toggle will only change the view for you, not for others in your organization.
+
+- Forms View supports editing and auto-saving fields directly on the page.
+
+- Table view supports editing and saving field-level information from within a modal, and gives you a more condensed, read-only view.
+
+[Image] https://downloads.intercomcdn.com/i/o/828087394/4609928339d25be84a026274/favorite.gif?expires=1763568000&signature=35f681df270d07ed4f9f3f2bca79b5395404f5425d7740c3dd80d4788dbba56d&req=fCIvFsF5nohbFb4f3HP0gDX0RTPo5Ykg1iJQt69E50wi65Dt4wHmMUpuzhA4%0ARYLeYJwWHj4faRlY0w%3D%3D%0A
+
+Setting the Job Description:
+
+The top Line Item entered under 'Services' will serve as the Job Description on your Schedule, the mobile app dashboard, and under the 'Upcoming Jobs' tile on your Dash page (if applicable). This is ideal for detailing call notes or the scope of work for a customer, and to prepare field techs for an upcoming job.
+
+On the Schedule:
+
+[Image] https://downloads.intercomcdn.com/i/o/928067196/1e447597cc31980c74b4ab5b/Screenshot+2024-01-08+at+4.49.38%E2%80%AFPM.png?expires=1763568000&signature=53c4cdec10438fe71e5a85fb54b41e94e38bcc0235abf9c3852f00f8223ae35a&req=fSIvFs95nIhZFb4f3HP0gGT6TLkzrqeSuLx6sH6KxDwqGOuL8%2Fd3BEj1Q99s%0AZ1RwA8I3R9iRhXolCQ%3D%3D%0A
+
+On Mobile:
+
+[Image] https://downloads.intercomcdn.com/i/o/928065123/39e630f946f9db21bc3c2fcd/File+%2821%29.jpg?expires=1763568000&signature=2fe3e5ae1cacd463daedd072a1e506f4c1760058d6e6890a4521ac6e9d014a0c&req=fSIvFs97nINcFb4f3HP0gJoLIj9qHihkVXqsXxAu%2FLN20NwOe7XFsaf2g7GB%0AOiwDg%2BmSjVJoMG1l%2Fg%3D%3D%0A
+
+On the Dash page (if applicable):
+
+[Image] https://downloads.intercomcdn.com/i/o/928064804/cbb3a230902ba714928e70d5/Screenshot+2024-01-08+at+4.48.40%E2%80%AFPM.png?expires=1763568000&signature=0766fdf4a4f12306fa36323a2aaa8c7bff82291ef85d8fb4eb9528ad5a82d10d&req=fSIvFs96lYFbFb4f3HP0gMfVU%2F%2BUpry2CkIqPDRqqoPZSE8ZCKzDjM0YUJHR%0Ad5FC4uFk3Bhw2SI1Fw%3D%3D%0A
+
+Quick Actions and Time Savers
+
+Who wouldn't love to save some precious time? These quick-action features are designed to minimize clicks while creating jobs. Let us walk you through how these features can make your job creation process a breeze!
+
+Copy Jobs and Estimates
+
+You can copy a Job or an estimate for a different existing or new customer. This feature allows the copying of information like line items, tags, fields, checklists, notes, attachments, and team assignments, to another job or estimate.
+
+[Image] https://downloads.intercomcdn.com/i/o/828915911/4cf158f8f1b7479df7bfe79b/ac739c55-1a30-4429-93f3-c7d5fac36162.gif?expires=1763568000&signature=f33c635d433cfee2150d2ccefab0c3e4d17c79c08a26d812b57c661bd84c7b33&req=fCIvH8h7lIBeFb4f3HP0gPXGRfqk4Hjs4M%2BY%2FL4GgV7rtkUhrEawDmyFxcYS%0A5BPeFe3J8P8cVls%2FlQ%3D%3D%0A
+
+Frequently Used and Favorite Line Items
+
+When adding line items to a job, estimate, proposal, lead, or via the intake form, you will now see a list of your most frequently used line items. The list will update dynamically over time as the usage of line items is tracked.
+
+[Image] https://downloads.intercomcdn.com/i/o/1061970956/e00ef3ca3bcd3616e817dcae/IMAGE+1.png?expires=1763568000&signature=1b739f979dc46c810907a35875779a1815f7dd49c5c21f382cf94fd742a08d78&req=dSAhF8B5nYhaX%2FMW1HO4zZywZNCf54n7kgUCM24uVYQrRsQef8sq%2FYGE%2Fv%2BZ%0ApOyKAY7GzAmXSHX749c%3D%0A
+
+Note: The frequently used line item list shows up to 30 of the most commonly added line items to jobs and estimates.
+
+By clicking on the star icon to the right of each Service or Material, you can also Favorite those specific line items so they are easily accessible. When you favorite a line item, it will only favorite it for your user account.
+
+[Image] https://downloads.intercomcdn.com/i/o/1061972155/5d511dafba0bd40aa8cac4f1/IMAGE+3.png?expires=1763568000&signature=400852b6d63ae17068cb99f815e2e76758915f10b035f25d620a8593b9cc3963&req=dSAhF8B5n4BaXPMW1HO4zVKGA5F8FDuTVtHX67zE5fSOMDBqHzaOJ4TfPjtK%0AgfTMTsvnr1Cyv9Q5EGs%3D%0A
+
+Once a service or material has been added to your Favorites, the star icon will turn blue, and that item will be moved to the top of your Line Item dropdown menu:
+
+[Image] https://downloads.intercomcdn.com/i/o/1061972314/1fa4bdc459506d9612202079/IMAGE+2.png?expires=1763568000&signature=f3c520685736dbf8e73e2cc625f82df55fa9d5f4cc371a09d6ec981c36296e69&req=dSAhF8B5n4JeXfMW1HO4zc1rhHjS17h3YlYEYCBz%2BDdTPQxnvKcMQZUooFBL%0AVAGQLeXb6G%2Bis2ANVVQ%3D%0A
+
+Favorite and Frequently Used Items on Mobile
+
+When adding line items to a job through the "Add Service" or "Add Materials" buttons, Favorite and Frequently Used items are presented.
+
+[Image] https://downloads.intercomcdn.com/i/o/1067792024/77452be0041adda5e889858a/IMG_0856.jpg?expires=1763568000&signature=5b01ba48e9e50252cd628184132612dc60b4cecddedde56649a9efa6bb36341c&req=dSAhEc53n4FdXfMW1HO4zdp8Xc1iHCHTKUeRx5eBbGEHap2PyVEoA5r4t94o%0A%2BCo2%2BduNLdShsYBF3cw%3D%0A
+
+Frequently Used items will be visible on the Industry or Category selection pages. The list will update dynamically over time as the usage of line items is tracked.
+
+The Favorites tab contains a list of all user and organization-level favorites.
+
+[Image] https://downloads.intercomcdn.com/i/o/1067806780/6d91983f95cc8c3e4edc3795/IMG_0867.jpg?expires=1763568000&signature=6110ffa05270d12e8bb3f2ec038d95026dfbb94fa1adfcda70b239006a014add&req=dSAhEcF%2Bm4ZXWfMW1HO4zXVxRO6HZ3NzVPXYGxW2gdb0UOTg0%2BtIU38otBVf%0AoJgstTKgT3H5RWGLRKc%3D%0A
+
+Services and Materials can be added to the Favorites list by tapping on the star icon to the right of that item. Favorite items show with solid blue stars. Items that are not on the Favorites list will show an outline of a star.
+
+Favorite items will remain in the Category lists, along with the designated list of favorites.
+
+[Image] https://downloads.intercomcdn.com/i/o/1067811870/47e2f8886412985963e5b150/favorite+items.gif?expires=1763568000&signature=a49a8ecceec8bf504aec378f98c45cc22e14181f8bde049beafe846674e4dcfb&req=dSAhEcF%2FnIlYWfMW1HO4zVOaqgaLhHGrqWIhbaVaZjbt7t6STbkYujT3lma8%0AGxeesVVq7ZIIRdBEFxY%3D%0A
+
+User-level favorites will show with a solid blue star and can be removed from the favorites list by tapping the star. Organization-level favorites are shown with a solid gray star and cannot be edited from mobile. Admins will need to adjust organization favorites on the web app through your Price Book.
+
+[Image] https://downloads.intercomcdn.com/i/o/1067826018/6c4913991c7af2ddf2c9c901/unfavorite+.gif?expires=1763568000&signature=fe579ef7b8fc969ebf232fc584c1b4b9445e2a439a145e06b3122b0758c61d3d&req=dSAhEcF8m4FeUfMW1HO4zR3FMwSzwX%2Bp4TLpYAJ5Odos5bV05sq9%2BQE2SATw%0Az92nI4x7N8ZEecA7b9w%3D%0A
+
+Save Line Items to Price Book
+
+If you add a line item that is not in your Price Book, a 'Save Line Item to Price Book' button will be visible.
+
+Clicking this button will prompt you to save it to the correct Industry and Category so that the item will show up next time when searching for it within the add line item dropdown.
+
+[Image] https://downloads.intercomcdn.com/i/o/828093045/650d5e61c4e340d3e2f60f3c/favorite.gif?expires=1763568000&signature=ec70dc0f60d0fc343fc0847d043b1ee437d1de063c39069bcbcba73c0db5e8c1&req=fCIvFsB9nYVaFb4f3HP0gJ%2BE8jyD4RcKAtH8OSjOnBdYYObPtNpd5GwzGcsM%0AEjOfxqqJMZh7HYg04w%3D%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/828918010/038c593c487e0b02ac9937ed/708f435a-ce43-4656-a2b6-f5b43ae7efde.gif?expires=1763568000&signature=8be2dd5b8c3b561721dc03276acf431624cf1b3d097c9d9a489a05f34f480780&req=fCIvH8h2nYBfFb4f3HP0gFN%2Fsr625WCXiNm%2F3znT8tnuEHgAZg1omIWZZ9Ub%0A%2BnQHOKeWTdO%2BrWEClw%3D%3D%0A
+
+Learn more about the additional features supported by Line Items:
+
+- Material inventory detail tracking
+- Selling service plans
+
+---

@@ -1,0 +1,64 @@
+Check Email Delivery Status
+Source: https://help.housecallpro.com/en/articles/119547-check-email-delivery-status
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: Check if emails sent to your customer have been successfully delivered or not.
+
+Understanding Email Deliverability
+
+Email providers like Gmail, Yahoo, and Outlook use their own filters to protect users from spam. Because of this, legitimate emails — including those from Housecall Pro — can sometimes end up in folders like Promotions or Spam.
+
+If your customer can’t find an email, ask them to check other folders and mark it as "Not spam" to help future messages reach their inbox.
+
+---
+
+How to Check an Email's Delivery Status
+
+If you've sent an email and want to confirm that it's been successfully delivered to your customer, you can easily check the Activity Feed on the Job or Estimate details page.
+
+Be sure to double-check the customer email address you have on file.
+
+To check the delivery status of an email, follow these steps:
+
+- First, click on Customers from the HCP navigation bar at the top of your screen.
+
+- Next, select either Jobs or Estimates from the menu on the left and select a job or an estimate. This will take you to the Job/Estimate Details page.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136882057/7708a1e278c74350f1905cf0/image.png?expires=1763568000&signature=b63c393bcd78ff012c4c47fb75484334b120090b648d56e7ef9a16dc5dd8d527&req=dSEkEMF2n4FaXvMW1HO4zcQUWs7UGQ30ssv%2Fl7Yt2exPt5PMIxGxAWxvDY1h%0A0WbMRyEI1FlrUHok7qc%3D%0A
+
+- On the Job/Estimate Details page, scroll down to the Activity Feed.
+
+- If an email was sent for the Job or Estimate you selected, you'll see an action item from Housecall Sparky labeled: - "Job scheduled email sent to..." 
+- "Appointment scheduled email sent to..."
+- "Estimate scheduled email sent to..."
+- "Invoice email sent to..." 
+- "Estimate email sent to..." 
+- "Job review request email sent to..."
+
+- These action items will show which email address the email was sent to, and will also indicate whether the email was delivered successfully. - If the email was delivered successfully, the font will remain black. 
+- If the email was NOT delivered successfully, it will appear in red.
+
+[Image] https://downloads.intercomcdn.com/i/o/126192481/897415cd40812316e7bd1b9e/screencapture-housecall-io-pro-jobs-36609153-2019-06-05-12_44_11-2.png?expires=1763568000&signature=318a9b3a2950acb87f597be43fe7c197a82dd21d88adb4bb2c6e964e39dde2f1&req=dSIhF8B8mYleFb4f3HP0gJ6vkEMnmAZKbrt7AndHyo9uv91g%2BOuaH8rGuuUZ%0Abu1LhPuXG3TZ3sGFaA%3D%3D%0A
+
+---
+
+Job and Estimate Email Delivery Statuses
+
+On the Activity Feed of a Job or Estimate Details page, you can click on the action items to view a breakdown of the details.
+
+At the bottom of the section, each action is listed with timestamps and statuses (sent, delivered, opened, or dropped).
+
+- If an email has been opened by the customer, this breakdown will also show how many times it has been opened, with a number indication in parentheses next to the word "opened."
+
+[Image] https://downloads.intercomcdn.com/i/o/126194247/2c45952e12af5e5b1b9b6171/Screen_Shot_2019-06-06_at_8_48_49_AM-2.png?expires=1763568000&signature=d441dfebcf9c6b5fd24cd8248c8aa18c80170070b0d3344c8aedb0b6630d1410&req=dSIhF8B6n4VYFb4f3HP0gNN0YWZzLFdNHnmWCPZ%2FEefd2s%2FZ8xQPpxVgYjC%2F%0AI%2BFvpIG1xhUi0y5wxQ%3D%3D%0A
+
+- If an email was dropped, you'll see how many times the email was attempted to be sent, as well as the reason why it was not sent successfully.
+
+[Image] https://downloads.intercomcdn.com/i/o/126193922/5e9603f93dd6197df84faaa0/Screen_Shot_2019-06-06_at_8_48_40_AM-2.png?expires=1763568000&signature=199604bb5aaad65a5992069f4af3fbd317808faff51c06a889c500de2a9b3d3c&req=dSIhF8B9lINdFb4f3HP0gHwPiYse7LA2sLjrHbWSCfxz8cmk7%2Bx6gEGmv8ad%0AczBP%2Fq3BQjAHcsrOfg%3D%3D%0A
+
+---
+
+Check out our tips on how to better connect with your customers.
+
+---

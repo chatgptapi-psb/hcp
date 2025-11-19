@@ -1,0 +1,62 @@
+Set Up Sub-Customers (Parent/Child Billing)
+Source: https://help.housecallpro.com/en/articles/910988-set-up-sub-customers-parent-child-billing
+Author: Angel A
+Last updated: Updated over 9 months ago
+
+Summary: Complete work at a service location, but bill to a different party or location
+
+Sub-Customers Overview
+
+Anyone set as a sub-customer is an individual customer in the database. They have their own contact information on file and are simply linked to the appropriate "parent" customer.
+
+Parent/child billing works best in situations where you're communicating with the person at the service location, but the actual payment will come from a different party. For example, a tenant might schedule a job, but the homeowner is responsible for the payment.
+
+Automated notifications (job scheduled, "on my way," and job completed) are sent to the sub-customer, while invoices, estimates, and receipts are sent to the parent customer to be billed.
+
+---
+
+How to Set Up a Sub-Customer
+
+You can easily set up sub-customers (parent/child relationship) when creating your customer database.
+
+- If you are communicating with one customer, but invoicing another (i.e. property management companies and tenants), follow the steps below.
+
+- If you are communicating and invoicing everything to one customer for multiple locations, you will need to set up multiple addresses instead.
+
+To set up a sub-customer in your HCP account:
+
+- When creating a new child customer, scroll to the Notes section of the 'Add new customer' window.
+
+- In the "This customer bills to" field, type in the existing parent/billing party's name, email, address, or phone number and select their profile from the drop-down list.
+- When you click 'Create Customer,' this setting will be saved.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1358445451/b05f306fd76683e73c5e9bbc8052/May-07-2019%2B11-06-23.gif?expires=1763568000&signature=b9b809b0fa4045fbbdee3c93d954cd5c00c441fcf0e106f4772589a0a313cb97&req=dSMiHs16mIVaWPMW1HO4zYb4Q5oQ4BsaJeEjKBlvrRJ9xyTu%2FMfxud8yLj5Q%0AZgzwLhNXA3namnHXBdw%3D%0A
+
+If you happen to create the sub-customer first, you can still update this setting within their customer profile once you have added the parent account:
+
+- Click on the pencil icon next to 'Contact Info', and edit the same "This customer bills to" section.
+- Make sure to click 'Update' to save this change for future billing purposes.
+- If you would like to remove or replace a parent customer, you can simply click the 'X' next to the customer name and either enter a new parent customer or leave the field blank.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1358445427/5922526efa735939a38531f88e28/Customers_-_HCP%2B2.png?expires=1763568000&signature=8329b17f565e0832e31d5bfc8c41d60a20065c24a3ecaa1ea85262239cd82306&req=dSMiHs16mIVdXvMW1HO4zeyXWu1iTw8aE1IU26mxzOkrA9IlRG39v1ryV%2BUu%0AKSd3JESX0VdA4xDj%2BXY%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1358445423/880e7a6c47d59799dfac54d47c7e/New_Article___Articles___Articles___Housecall_Pro___Intercom_and_Customers_-_HCP.png?expires=1763568000&signature=c3920c82bc9c3ea9b9604ebe62d15df0c2cd32e1a3eafeabc73c7f620d13455a&req=dSMiHs16mIVdWvMW1HO4zR9A5Az3ZJs%2Fb1TV0seiFJUOZupAeSGlC0YsVaJ%2F%0ADdC21tWWDLdSySAjkjw%3D%0A
+
+- Within the sub-customer’s Profile section, you will be able to view their billable parent account and address. This will also be displayed on the job details page in the customer contact information box.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1358445424/b465b9dc3a8cbad3681f2934d3a3/Customers_-_HCP.png?expires=1763568000&signature=28e552c78ed7d61aaacfc3c0557216a084cf6de38de3d3c70fa5333bfebbe337&req=dSMiHs16mIVdXfMW1HO4zbgLOMcoatRHiwmf2qNB6kYZrpFB%2BEx5MMjc2XlE%0AjmDItsL131aeC%2Bb2qZs%3D%0A
+
+- The parent customer’s profile will display which sub-customers they accept bills from in the billing section.
+
+- Additionally, the parent customer’s ‘Jobs and Estimates’ history section will display their sub-customers’ history.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1358445468/128874efe7013e38ee911636f315/parent%2Bprofile.gif?expires=1763568000&signature=2286aa3d734109c6ded4737de1f4056528c35fd72ffc336805a5592f98a0759e&req=dSMiHs16mIVZUfMW1HO4zRk3dBifpi%2FtA%2B2o7aqJIJLEhkFekjfIkpBJeKJl%0Ae0Fkkih9EiX2R75yiCg%3D%0A
+
+- Automated notifications (job scheduled, "on my way," and job finished) go to the sub-customer. Invoices, estimates and payment receipts will go to the parent customer to be billed.
+​
+
+---
+
+​Check out our tips on how to better connect with your customers.
+
+---

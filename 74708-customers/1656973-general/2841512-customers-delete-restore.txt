@@ -1,0 +1,102 @@
+Customers: Delete & Restore
+Source: https://help.housecallpro.com/en/articles/2841512-customers-delete-restore
+Author: Nate H
+Last updated: Updated over 4 months ago
+
+Summary: Remove a customer from your customer database in the web portal.
+
+Deleting Customers from Your Account
+
+There are three ways you can delete a customer from your customer list and database: individually from your Customer List, individually from the Customer Profile page, and in bulk from the Customer List.
+
+Whether you're cleaning up outdated records or removing customers who no longer engage with your services, understanding the steps for each method will help you maintain an organized and accurate customer database.
+
+In the following sections, we’ll walk you through the processes of deleting customers, ensuring you can choose the best option based on your needs.
+
+---
+
+Delete a Customer (from the Customer List)
+
+To delete a customer from the Customer List:
+
+- Go to 'Customers' in your top navigation bar to be directed to your Customer List.
+
+- Select a customer profile using the checkbox on the left.
+
+- Click the Delete button in the upper right section of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1328510278/daa3ede130649c1dba4acbea3173/DeleteSingleCustomer1.png?expires=1763568000&signature=8c551f303cf34deada4b90bec8a16e142a80271aebcbb47f81fdaa6b52a0974d&req=dSMlHsx%2FnYNYUfMW1HO4zb047w7C1BsvR4ZDHrzzi9uB%2BBYT%2BXUJLAF%2Fdrh5%0AobS72JAPQGs06vxgglQ%3D%0A
+
+- Click 'Delete' in the confirmation window to finalize the action.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1328509973/ac71d849ff7c2605b8a8172ce46a/DeleteAllCustomers.png?expires=1763568000&signature=f240d3a0c1008e7d4a8b8797747dc97db3f321d2c1dcf908ef0bc7f19e2c0b71&req=dSMlHsx%2BlIhYWvMW1HO4zZMyt7llRS6ORlegUnqxGvf%2FlixeYKXd7IHPPSqY%0AKiJV2vcObrEUg8qaJI8%3D%0A
+
+---
+
+Delete a Customer (from the Customer Profile)
+
+To delete a customer from the Customer Profile:
+
+- Open a Customer Profile.
+
+- Click the 3 dots in the top right corner of the page.
+
+- Select "Delete customer" from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1328511066/fe1c7427b240fa9ec378cd6e4f69/Delete+Customer+%28from+Profile%29.png?expires=1763568000&signature=65978226bd1d96b7dd53ddaa845624004f3e2a6c33eade059f9dcfeac04deedd&req=dSMlHsx%2FnIFZX%2FMW1HO4zSaL5rPbsbjFX37KtWiG8i6To9A8AWQ%2BRida0kOY%0AjZlNpb7%2BUkaSfmU9zqc%3D%0A
+
+- Click 'Confirm' in the confirmation window to finalize the action.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1328511221/185ffec1d12cf0eeb219665c1736/DeleteCustomerConfirm.png?expires=1763568000&signature=9f71bd069dcb1ca6e293e84aa1e8ec21bb2f987f11bc9bd9fb713a65366cc357&req=dSMlHsx%2FnINdWPMW1HO4zdmzToZT39viDxgPPj%2F0U%2FjFXL9cSV9azHB265Dm%0Ae8RBWA9OJi%2BZl2vrKnk%3D%0A
+
+---
+
+Delete Multiple Customer Profiles (Bulk Delete Customers)
+
+To delete multiple customer profiles at once:
+
+- Access your Customer List by clicking 'Customers' in your Housecall Pro navigation bar.
+
+- Click the boxes to the left of each customer to select the customer profiles you'd like to delete.
+
+- Once your selections have been made, click the Delete button in the upper right corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1328479026/1d8b6652b6e2ebb24b5a39ae756b/DeleteCustomersBulk.png?expires=1763568000&signature=8d82009b7029eb85009af877c07a42cf6732aeb66149f9d04c555b6ca0e2d75b&req=dSMlHs15lIFdX%2FMW1HO4zV3gVM1iBf099o972tBN%2BxmoDrVFm5T2%2BgptuPoI%0AfhZya7m27fOaRe17CMI%3D%0A
+
+- Click 'Delete' in the confirmation window, and all selected customers will be deleted.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1328480159/4c59fd24683569e003252fb3e901/DeleteCustomersBulk1.png?expires=1763568000&signature=a15693a3adc73c90b18daa0255e3b1472e2df8360f8ed6a46bd450f44e732a10&req=dSMlHs12nYBaUPMW1HO4zRYmdHRABOV0pbNxSXwSyVpRX6qQqqEoHBn1Gd7D%0ASAel2gB%2BnHvahaj9lyI%3D%0A
+
+---
+
+---
+
+How to Restore Deleted Customers
+
+If you've accidentally or prematurely deleted a customer from your list, you can easily and quickly restore the customer profile.
+
+To restore a deleted customer's profile, follow these steps:
+
+- Select 'Customers' in the navigation bar at the top of your screen.
+
+- Click the Actions button in the upper right corner of the page.
+
+- Select "Restore deleted" from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1328513581/aaae2f458faab9227706fc5ee3c1/RestoreDeletedCustomers.png?expires=1763568000&signature=c11f26636fd1dd242a04b2d4ee27bd3d6b791cc7541d46995f2f7f8f755cd0c1&req=dSMlHsx%2FnoRXWPMW1HO4zVlq9oqrCyq%2BQR37NgWPKrbobFKTIP74NtReZ%2FmQ%0Aa7KjifMHMyYiwMdfbTE%3D%0A
+
+- Use your search bar for customer attributes like name, company, phone, or email.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1328516811/82e6a2697306af240549cf8fa2d5/RestoreDeletedCustomers%28Search%29.png?expires=1763568000&signature=419185d607bb7b334c997115963764305f48a9dbacf9f9670e3bfa1e98cb910d&req=dSMlHsx%2Fm4leWPMW1HO4zb8D74Yi049d9mefHja88xdi6WmhpPG5meUlkVex%0AF54ZIts9y3%2FH%2BHVICr4%3D%0A
+
+- Click the Filter button in the middle of your screen to filter your search results by customer tag and lead source if needed.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1328518030/c875e31d6317cc451c0b1dfad5ce/RestoreDeletedCustomers%28Filter%29.png?expires=1763568000&signature=c18646a4923b3cbbd482c0e0d1869c8261c5a028b820e8876b3cbc2689642aac&req=dSMlHsx%2FlYFcWfMW1HO4zbnHvv34W%2F7i7mwPKW0EOSFpa2pJ5Ylr9%2BbNwNnJ%0AdkAQWNmU21nsAgh3aDU%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/760326353/a79d91108d8f4e3bb74139db/image.png?expires=1763568000&signature=9e20a135e9e74d72b779651f0b9a63ab90981db22a456fe81ec5b017cf5cba1e&req=cyYnFct4noRcFb4f3HP0gLO5xiHA6QEbZu%2FpbDovNKdSJew%2BV19PWDUfNRaT%0AK9wE1Hce46n5GEbHCQ%3D%3D%0A
+
+- Finally, click 'Restore' to the right of the customer profile.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1328518231/126095f529d902815574a4014973/RestoreDeletedCustomers2.png?expires=1763568000&signature=66ecc51982f18aa20fc40082df2f54e6124b6eacd72f883bc202800ab0678fd6&req=dSMlHsx%2FlYNcWPMW1HO4zcS2drBnbZ7Q6%2B5hJgIVHjYCveyI0ckHpBFhr6p%2F%0AX%2BOzMRCLuKs%2BOrtoxhk%3D%0A
+
+---

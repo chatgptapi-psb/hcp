@@ -1,0 +1,140 @@
+Tracking Commissions on Jobs
+Source: https://help.housecallpro.com/en/articles/6649542-tracking-commissions-on-jobs
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: Track and manage commissions in Housecall Pro by assigning team members to line items on jobs.
+
+What Are Commissions?
+
+Commissions let you track which team members are responsible for selling services or materials on jobs. This feature helps you:
+
+- Monitor employee performance
+- Automate commission payouts
+- Improve the accuracy of job costing
+- Report on commission totals by team member
+
+---
+
+Prerequisites
+
+Before tracking Commissions:
+
+- Commissions must be enabled in your Settings.
+
+- You must have at least one employee/team member added to your account.
+
+- Jobs must include line items (services or materials).
+
+---
+
+---
+
+Set Up Commissions
+
+Before you can start assigning or tracking commissions on jobs, you’ll need to enable the Commissions feature and set commission rates for your team members. These one-time setup steps ensure the system knows who is eligible to earn commissions and how much they should receive. Once setup is complete, you’ll be able to track commissions automatically on every job.
+
+---
+
+Step 1: Enable the Commissions Feature
+
+To enable the Commissions feature:
+
+- Click the gear icon in the top right corner to open Settings.
+
+- Select Team & Permissions > Commissions.
+
+- Click the toggle next to Commissions to enable it.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1683283001/78dacbb1b7326f2cd2809aa44bad/Screenshot+2025-08-22+at+10_53_58%E2%80%AFAM.png?expires=1763568000&signature=15e27ddc6a5b49f6cfd6524986d659187c5af0d644999e6886994e0ea4501f15&req=dSYvFct2noFfWPMW1HO4zQbLM2zlH5HJHN1IYuh%2B5Xg5bHaVkdTml15kwrn8%0A5VBnUcIBlz1VmX4BLF0%3D%0A
+
+---
+
+Step 2: Set Up Commission Rates
+
+After enabling commissions, assign a commission rate to each team member.
+
+- Click the pencil icon next to Employee pay & Commissions.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1767891542/07831e8a4849482e6b4cdc6f07ba/Screenshot%2B2025-07-31%2Bat%2B12_57_52-E2-80-AFPM.png?expires=1763568000&signature=67fbd9b632f05cb782c98d4febb3bc030c48b41562eb23f9107485ee6e5b3bce&req=dSchEcF3nIRbW%2FMW1HO4zbc%2BmrexDU1tLoFpVwGJGykWZqF50kEh%2FFbPY3i%2B%0ACA%2FWGnunuNCGm4FF1tI%3D%0A
+
+- You'll then see a list of your team members. Note the new column labeled Commission rate.
+
+- Click the pencil icon next to the team member.
+
+- Enter a rate in the Commission rate column for each employee.
+
+- Click Save in the top-right corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1633201167/9b2d570eaa1729953af112e5666d/Screenshot%2B2024-10-24%2Bat%2B1_18_39-E2-80-AFPM.png?expires=1763568000&signature=c442445b7d677148a696c599605ab2b9e53fb8cbdd0700be7c6c8c0e401db67a&req=dSYkFct%2BnIBZXvMW1HO4zZZCKLIWpc0YFRWXtJoEIVoWboHRMVv%2F9yWF9mtW%0AA947wt8PkS9WotzP%2BVk%3D%0A
+
+---
+
+---
+
+Manage Commissions on Jobs
+
+Once commissions are set up, you can assign and manage them directly from the Job details page. Each time you dispatch employees to a job, they are automatically assigned to every line item.
+
+To view or update commission assignments:
+
+- Open a job to view the Job details page.
+
+- Select any Service or Material line item.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1633503247/f777f8b72d054ec5f7bbfe5221a3/Screenshot%2B2024-10-24%2Bat%2B4_09_30-E2-80-AFPM.png?expires=1763568000&signature=3ac5d82a36bb489e2cf5d19cc29d53b52793ac6a2ea4f80d70002aa68664124b&req=dSYkFcx%2BnoNbXvMW1HO4zYAIGo8Dqh1fxFpDccWd%2FIW0Gi17454x3%2F6H4W9k%0A%2FYIKEED4Xm1mNjg2JnM%3D%0A
+
+- From here, you can: - View/edit who is assigned for commission
+- Add more employees (click the + icon)
+- Remove an employee (click the ✖︎ icon next to their profile picture or initials)
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1633503745/a992dd1b4d8afc1c8a52d36fee4f/Screenshot%2B2024-10-24%2Bat%2B4_12_10-E2-80-AFPM.png?expires=1763568000&signature=580f668e82c49412727b152993d08b110188a5c0a11ed823c504fdc0a81b517c&req=dSYkFcx%2BnoZbXPMW1HO4zYfRZetKT01s5EZym5tFz3qf9Fw5%2B7lmZ3YtlD9H%0AP8qXfnplM6yQwgs3XX0%3D%0A
+
+- Click Save in the Line item window to apply your changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1633501542/64748a8a6efe298904cb4669beb6/Screenshot%2B2024-10-24%2Bat%2B4_18_39-E2-80-AFPM.png?expires=1763568000&signature=d6d051fc535245ad0d3185e97ee451d67a95655efab4e2cf018a45348f4a22f9&req=dSYkFcx%2BnIRbW%2FMW1HO4zRr6VYxPFivKE0ltg2tCVkvo6pasZXV7Vkzjnozv%0AQE%2FoYJVW9LGiCz42odE%3D%0A
+
+---
+
+Commission Summary on Jobs
+
+At the bottom of the Job details page, you'll find a Commission Summary:
+
+- Employee: Team member with at least one line item assigned.
+- Commissionable: Total dollar amount of assigned line items.
+- Rate: Commission rate set for that employee.
+- Amount: Automatically calculated commission total. - You can override the amount manually.
+- The back arrow icon allows you to undo changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1633489153/e60cf2bb98ec4fd9eabef405b043/Screenshot%2B2024-10-24%2Bat%2B5_16_20-E2-80-AFPM.png?expires=1763568000&signature=762eb58161f2db7ad0e810dd152395fd847c3d886829369363e30f0716bdeb16&req=dSYkFc12lIBaWvMW1HO4zU51vY6p3gcObnb50qP5SHmPHp9%2B7p0tl%2FFQZ5lF%0ALYNN%2FiFA2xpeZVkXu2U%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1633489465/2ec105fc4456e68701a8c59dd546/Screenshot%2B2024-10-24%2Bat%2B5_25_49-E2-80-AFPM.png?expires=1763568000&signature=43e980813fc3e278de856e43dfcea47a4ddcb01d4892905fb02e228f51e4e1c7&req=dSYkFc12lIVZXPMW1HO4zVQxeKZwV31AGxXSRpBOigIbU%2B%2FMuPeWQmfg6Oq1%0AWuAisazCLksgO8CVKxQ%3D%0A
+
+---
+
+Example Scenario
+
+In the example below, we dispatch Joseph Wallace to a job with two line items. Notice that one is a Service item and the other is a Material. Commissions work for both.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1633468968/766bcc760d304fd1dde56fa4ec28/Screenshot%2B2024-10-24%2Bat%2B1_23_53-E2-80-AFPM.png?expires=1763568000&signature=eaf07b1d49c2e5de6406017041e2e7023d5e26730a636692ff00482e5905ca0b&req=dSYkFc14lYhZUfMW1HO4zZdCBF%2BfSlUQWGb0yT5aGRHVwxlMN0xg6oBUsRhw%0AxORHfCb91ngqal4Rlsg%3D%0A
+
+- When you save this job, Joseph is automatically assigned to each line item.
+
+- You can confirm this by locating the Commissions section below each line item (highlighted in blue on the picture below).
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1633468973/253c9c8cd822bf5166f6b3d1e818/Screenshot%2B2024-10-24%2Bat%2B1_25_00-E2-80-AFPM.png?expires=1763568000&signature=1c122c7cf3d30a03a1b36fbb6e884148b081cc082312a88d76fee4b3dfdf862b&req=dSYkFc14lYhYWvMW1HO4zbJYR1RAqxKgxPG7R6q5P6iwLbllGCjtiqMkQcWb%0A5BuR57vRACHFq7aVPt8%3D%0A
+
+- You can click on the blue highlighted line items section to open a pop-up window with the line item details.
+
+- Here you can also view and edit the employees assigned to receive commissions on the job.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1227929512/cbb52f7d75c6a08247af4ee3e309/Screenshot+2024-10-24+at+1_25_23%E2%80%AFPM.png?expires=1763568000&signature=3d645b4997fedd1061ff2c63600a94a651da1c96e1ac95c629ab8373c4c89c6b&req=dSIlEcB8lIReW%2FMW1HO4zWRDEPBl%2FvnLIvWaW9MsgOVqp7rdPAY7H3n6K1Br%0AXXBl2tntygUsddaHJO8%3D%0A
+
+---
+
+What’s Next?
+
+To review commissions over time, use the built-in reporting tools.
+👉 See Commissions Report to learn how to generate and analyze your commission data.
+
+---
