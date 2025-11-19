@@ -1,0 +1,62 @@
+Disconnecting from Google Calendar
+Source: https://help.housecallpro.com/en/articles/358149-disconnecting-from-google-calendar
+Author: Nate H
+Last updated: Updated over 4 months ago
+
+Summary: Learn how to disconnect Google Calendar from Housecall Pro.
+
+How to Disconnect Your Google Calendar
+
+If you no longer wish to have your Housecall Pro calendar integrated with your Google calendar, please follow these steps below to disconnect.
+
+---
+
+Disconnect Google Calendar through Housecall Pro
+
+To disconnect your Google Calendar through Housecall Pro:
+
+- Navigate to My Apps by clicking the 3x3 square icon in the top right corner of your HCP account.
+
+[Image] https://downloads.intercomcdn.com/i/o/1095676759/c244b5fce72e02e69f8a2509/Screenshot+2024-06-27+at+10_38_34%E2%80%AFAM.png?expires=1763568000&signature=33300b55473232d88850a6e830cdef60d83f19c2422a31fda8c0443d4f255e9f&req=dSAuE895m4ZaUPMW1HO4zYGs9eREmVq0dhMYFA9FwgB3MmxPapzNmwMZTtfJ%0AHHo6fczvB%2FvKV15ZhNs%3D%0A
+
+- Locate and select the Google Calendar app card.
+
+[Image] https://downloads.intercomcdn.com/i/o/1095678194/b358e41d55cb5ae635590e9a/Screenshot+2024-06-27+at+10_38_48%E2%80%AFAM.png?expires=1763568000&signature=cc4956686509b2bd5e79d714bad2fe3f552fe624b4f4e78741e6872e7ffe32eb&req=dSAuE895lYBWXfMW1HO4zSxpqeucf8a0quFP2IIWCgRCUef0qayiRy0MEG%2BU%0AWZ1oeDf%2FLCF4%2FHKOAeM%3D%0A
+
+- Click the toggle in the top right section of your screen, and a confirmation window will appear.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1458809952/b9dd0341a307c3eff2c279a0dfda/Screenshot+2025-04-04+at+11_41_22%E2%80%AFAM.png?expires=1763568000&signature=ab012aebfe0578eecd50e2c9b7bc4cfc8b0f9bb840861520a43dffffbae1d772&req=dSQiHsF%2BlIhaW%2FMW1HO4zeyhd0NXS4mBbDcHZd5J0d6%2BIJnc%2B5vg8v3R6c5v%0A49cAHaG4IlRKBZMjA%2Bo%3D%0A
+
+- Click 'Disconnect' in the window to proceed, and your Google Calendar will be disconnected from Housecall Pro. - The toggle should turn grey and show "Disabled" to the right.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1458806000/c061263864195bfe0822ec9dfa84/Screenshot+2025-04-04+at+11_42_29%E2%80%AFAM.png?expires=1763568000&signature=1fc85fb0f9bfcf8c5ea03518a7b4db088d33ba21b02c7fa23e453d6e831e5d8e&req=dSQiHsF%2Bm4FfWfMW1HO4zZYyaMlLMBY%2BBNYRtJlA2jbggQERO8KtHOVYu7oc%0A9v2aPOPcuvUzOovqyLc%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1458809464/ac7de0e8e42badb1112a0c298591/Screenshot+2025-04-04+at+11_43_15%E2%80%AFAM.png?expires=1763568000&signature=a368fa21f88a1463f28513d12a8101f3e4ef0b7706ad22acb47b68585a752de9&req=dSQiHsF%2BlIVZXfMW1HO4zSevRnyHQ2K2mMLYcJokDJi6bponhcLbdXS4I191%0AC%2FkyDSRR8%2FxIaXtBrP4%3D%0A
+
+---
+
+Disconnect through Google Calendar
+
+To disconnect the integration through your Google Calendar:
+
+- View your list of calendars under "My calendars" on the left side of your screen and find the calendar titled "Housecall Pro."
+
+[Image] https://downloads.intercomcdn.com/i/o/1095689242/1e075beb0d4f6545295144c5/Screenshot+2024-06-27+at+10_53_53%E2%80%AFAM.png?expires=1763568000&signature=003bbd76b13dec60d750652bf1d71235e607445ef0c48f1cbad779f28841c686&req=dSAuE892lINbW%2FMW1HO4zeEXfkk6nJxzsX7X8yRnl8CbaUVarFk9tgJckTtY%0AAR300Dzb9oF9XcpstbA%3D%0A
+
+- Hover over the Housecall Pro calendar and click the More icon (3 dots) that appears to the right.
+
+[Image] https://downloads.intercomcdn.com/i/o/1095691020/8cdf939f5e79a7a1c677df24/Screenshot+2024-06-27+at+10_55_28%E2%80%AFAM.png?expires=1763568000&signature=c06e00b823302f3445d003502cc2ffec578562eae16290ab2636fe9b400a9aac&req=dSAuE893nIFdWfMW1HO4zenjrsmngHD6k9LovNQtTnKq1e5WOFralWthMB6S%0A4LwJkZ%2FYcm3YRRtfsAc%3D%0A
+
+- Select 'Settings and sharing' from the pop-up menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/66143993/267595496335b61e4858c052/Screen+Shot+2018-07-03+at+1.45.40+PM.png?expires=1763568000&signature=25614a5a32d39192c0f24f5bf5f7104542b073b844d9064567be8fd1367f1b08&req=ciYmEsp3lIITWLcX3D%2B5hvLSSu%2B3AEGwdxkeDP5zxtYIrxxSdM6x4nTjNqoZ%0AMcdHnbNV0rMUED9H%0A
+
+- Scroll down to the bottom of the page to the box titled "Remove calendar." Click 'Delete,' and a confirmation window will appear.
+
+[Image] https://downloads.intercomcdn.com/i/o/1095695174/5d3853fcf316ebc531a27887/Screenshot+2024-06-27+at+10_58_38%E2%80%AFAM.png?expires=1763568000&signature=6860c1c7e1881590b2e01650f12aa8f0820a53f2581ba6dce0856d0a5c0e0cac&req=dSAuE893mIBYXfMW1HO4zUu9LVLPhiTp7Kbhc%2FOO3eAk%2BLh%2BoskutzV3%2FSHo%0AZt0OPgh0UcgSoNIVSMA%3D%0A
+
+- Select 'Permanently delete' to confirm you would like to permanently erase this calendar from your Google Calendar view.
+
+[Image] https://downloads.intercomcdn.com/i/o/1095696969/aecd7984d9ab4050ca34e237/Screenshot+2024-06-27+at+10_58_59%E2%80%AFAM.png?expires=1763568000&signature=1fb3c3be026595a9e1f6ab55cfe0aa610ef4dd5c940667088889e9c0d2db372c&req=dSAuE893m4hZUPMW1HO4zQ0wJG29qylEWaV4ELAOiTZfsJtcarQviP7AmBCh%0AKYYcJmf8b0PbDtOIBFM%3D%0A
+
+---

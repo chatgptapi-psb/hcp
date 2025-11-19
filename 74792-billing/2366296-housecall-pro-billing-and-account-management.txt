@@ -1,0 +1,174 @@
+Housecall Pro Billing and Account Management
+Source: https://help.housecallpro.com/en/articles/2366296-housecall-pro-billing-and-account-management
+Author: Alyssa Moretti
+Last updated: Updated over a week ago
+
+Summary: Manage your Housecall Pro account with ease—update billing details, switch plans, and handle cancellations smoothly.
+
+Billing, Plan Changes, and Account Management
+
+Managing your Housecall Pro account and billing information is essential for a smooth experience. This guide provides a clear overview of how to handle billing processes, update your payment details, and manage your account settings.
+
+You'll learn how to effectively navigate billing features and keep your payment information current. Additionally, discover how to switch between different Housecall Pro plans to best suit your needs before considering account cancellation. This guide offers the essential information you need to make informed decisions about your account and billing management.
+
+---
+
+Access Your Billing Settings
+
+The Billing settings in your Housecall Pro account allow you to manage your plan, update your payment method, and view your billing history.
+
+To access your Billing information and settings:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Billing from the left menu, under Global Settings.
+
+- The following options will be available at the top of the page: - Plans & Payments
+- Billing History
+- Explore Plans
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1622028922/c6e8286825bc9ecea9f0801b07bc/Screenshot+2025-07-15+at+3_20_54%E2%80%AFPM.png?expires=1763567100&signature=bcb848e27f7702087ce6f2167b5f19cff78d32d538ab7d183c63f6d768120d46&req=dSYlFMl8lYhdW%2FMW1HO4zU3SrfV3iqbXAd3pQH9rpnlikVcc%2FW0%2F1gPw4cF%2F%0AxRUHV9KHordzm6u2unM%3D%0A
+
+---
+
+View Your Current Housecall Pro Plan
+
+To view your current Housecall Pro plan:
+
+- Click the gear icon in the top right corner of your HCP account to access your Settings.
+
+- Select Billing from the left menu, under Global Settings.
+
+- Ensure that Plans & Payments is selected at the top of the Billing settings page.
+
+- This will take you to your billing profile, where you can view and manage your current plan, check your next billing date, review any special billing notes, and see a history of all charges made to your account.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653150465/e3cf032125eadbe13ef045a2437d/Screenshot+2025-08-04+at+11_19_13%E2%80%AFAM.png?expires=1763567100&signature=137093918e45d4cb1b9a9584a28335768ea313d5db6af88073a822b3bdc69780&req=dSYiFch7nYVZXPMW1HO4zb%2BOi4MKjy47y6o4wTc7zlJhFyQ3ZjE2PoDcMxGv%0A8KZsym7Y2LSXxYqP128%3D%0A
+
+---
+
+Add a Payment Method for Your Housecall Pro Subscription
+
+To add a payment method:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Billing from the left menu, under Global Settings.
+
+- Ensure that the Plans & Payments tab is selected at the top of the Billing settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653294596/dfafce56a4e36f58fd9db2adfcf1/Screenshot%2B2025-08-04%2Bat%2B11_19_13-E2-80-AFAM.png?expires=1763567100&signature=088b7152426eed932b1ab8f6cbdfbf432daa29515affe0601d66cbbbed707b4d&req=dSYiFct3mYRWX%2FMW1HO4zfOaLkuX1QvBGf5jsVvhmfaHK1nJlOlEH5p%2BkLR1%0A%2FnG2VlL45y083uhp2WM%3D%0A
+
+- Click Add Card under the Billing details section to the right, or click the More icon (three dots) next to the current card on file and select Update card.
+
+[Image] https://downloads.intercomcdn.com/i/o/1116662892/93be3068730c8adad5827665/image.png?expires=1763567100&signature=b16d0e0371ca3429cfddbdbfde5fe6df733877c3bc132d5dfbfb055324871c53&req=dSEmEM94n4lWW%2FMW1HO4zbMb0OQn1zXCi9DEipImOKqn922BRXs7FEK4hs2Z%0ADakRtnBma461BLp24l4%3D%0A
+
+- The credit card window will then appear with the following fields for you to add or update your payment method: - Name on Card: The name as it appears on the card
+- Card Number: The 16-digit card number
+- Exp Date: The card's expiration date (format: MM/YY)
+- CVC: The security code on the back of the card
+- Postal Code: The postal code associated with the card
+
+- Below these fields, there is a note stating, "You authorize us to charge any additional forms of payments you have on file with us if your primary form of payment fails."
+
+- Check the box next to Set as primary in the bottom left corner of the window if you'd like to make this card your primary payment method.
+
+- From here, click Add Card in the bottom right corner of the window to add your new payment method.
+
+[Image] https://downloads.intercomcdn.com/i/o/1119239002/de1ea38575e835006677c404/image.png?expires=1763567100&signature=2a756fd7bb3f2257efd584ede49b28a41df111b743a5a22302fa8db793bc944e&req=dSEmH8t9lIFfW%2FMW1HO4za0h%2FLlv3stLkDwkLLBInfJkT2S9ZXNf%2F3GTBrjr%0AT7XlZ5PFJq20ZV4Fm3k%3D%0A
+
+---
+
+Changing Your Housecall Pro Plan
+
+​To change your Housecall Pro plan:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Billing from the left menu, under Global Settings.
+
+- Click Explore Plans at the top of the Billing settings page, and the Pick Your Plan window will appear.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653343387/a49e3d4dbe8e5ec50a245e628104/Screenshot+2025-08-04+at+1_03_08%E2%80%AFPM.png?expires=1763567100&signature=159e6713276fab77243b025d89aabcd6aa2a6991236272903978b623ee563bb0&req=dSYiFcp6noJXXvMW1HO4zcPkojRhLuIgDK6lS9FKDOLC4Wx9J4l3r7FzMkXd%0AqpobhBIPe0D%2BYNLIkVw%3D%0A
+
+In the Pick your plan window:
+
+- You'll see a breakdown of each available plan. Your current plan will be pre-selected.
+
+- You can choose to switch to monthly or annual billing by clicking the toggle in the top right corner of the window.
+
+- Select your new plan by clicking the radio button under the plan name.
+
+- Click Next in the bottom right corner of the window to proceed.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653422540/f79c233f9e1955429080405bfc05/Screenshot+2025-08-04+at+1_52_27%E2%80%AFPM.png?expires=1763567100&signature=5b7c11793eebaa8487cdfc8953707487aafc95bdbcc91278bb00765e949dd20f&req=dSYiFc18n4RbWfMW1HO4zRB5mvzInl%2BYHzDB3oN69QYCu5nzoqj9TgVcQmOH%0AlsbBRrFFG9uKxInipZs%3D%0A
+
+In the Configure your Plan window:
+
+- You can review your plan details and select from the following add-ons: - Additional logins (available only for MAX plans)
+- Service Plan 
+- Sales Proposal
+- Vehicle Tracking
+- Pipeline
+
+- If you'd like, you can also toggle between monthly and annual billing here.
+
+- When you're ready, click the blue Next button to proceed.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653439829/5c52887fced4c1ac2fe845a53ca9/Screenshot+2025-08-04+at+2_04_21%E2%80%AFPM.png?expires=1763567100&signature=bf131c23f911ea08bb8f2d179927e705561dc8a2b394744cc4566938a0b5fc25&req=dSYiFc19lIldUPMW1HO4zWbvbwX7oxvFpQyVaRcHjn3xrPHJngxjc8f5LzXT%0AzHCYtMg3vNoEjC721YI%3D%0A
+
+On the Review & pay screen:
+
+- Review and update your preferred payment method and company address as needed.
+
+- Review the plan details and totals. If needed, you can click the Back button in the bottom right corner to return to the Configure your plan screen.
+
+- When you're ready, click Update plan to complete the process.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653453121/aed63575c59ae1f380639dc0c77e/Screenshot+2025-08-04+at+2_07_31%E2%80%AFPM.png?expires=1763567100&signature=beac9148495695087ee911ea3e6875fccb65051853c54c8653b8dff094d914b0&req=dSYiFc17noBdWPMW1HO4zfsQYqHH9EX%2F6LnhSHRF52ezPpOOO6ut1PnKkX2v%0ArMjTqDfF66qyIZ%2FQfR8%3D%0A
+
+---
+
+I Upgraded My Account—Was I Charged the Correct Amount?
+
+When you upgrade your account on a monthly plan, you will initially be charged a prorated amount for the remainder of the current billing cycle. Starting from your next billing date, you will be charged the full monthly rate for the new plan.
+
+For example, if you are on the Basic plan with a billing date on the 15th of each month and you upgrade to the Essentials plan on the 28th of the current month, you will first be billed a prorated amount for the period from the 28th of the current month to the 14th of the next month. This means you’ll only pay for the days you are using the new plan, not the full monthly rate immediately.
+
+Starting on the 15th of the following month, you will be charged the full monthly rate for the Essentials plan.
+
+---
+
+Canceling your Housecall Pro Account
+
+- To cancel your Housecall Pro account, start a new chat with our Support team using the Blue Chat Bubble in the lower right corner of your account. Click the chat bubble and select "Send us a message." Let the representative know that you would like to cancel your account to initiate the process.
+
+- Our billing team will reach out within 1-3 business days to assist with your request. Please keep an eye out for calls from phone numbers with the area code 858 during that time.
+
+Please note that we cannot fully process your cancellation or pause billing until a team member has spoken with the account owner over the phone.
+
+---
+
+Policies and Guarantees
+
+Housecall Pro Terms of Service
+
+To review the terms and conditions governing the use of Housecall Pro, please visit our Terms of Service page at any time: Housecall Pro Terms of Service. By utilizing our software, you agree to abide by these terms.
+
+Money-Back Guarantee
+
+As outlined in our Terms and Agreements, Housecall Pro offers a money-back guarantee within the first 30 days of your subscription. This guarantee entitles you to a full refund of the monthly subscription fee if you decide to cancel within this initial period.
+
+Please note:
+
+- Eligibility for Refund: To be eligible for a refund, you must have been offered the Guarantee upon sign-up, and this offer will be documented in our system.
+
+- Exclusions: Refunds will only apply to the baseline monthly subscription fee. Additional charges, such as setup fees, postcards, chargebacks, and any other items not included in the basic subscription fee, are non-refundable.
+
+How to Request a Refund: To cancel your service and request a refund, please contact us via email at cancellations@housecallpro.com. Our support team will guide you through the cancellation process and ensure your request is handled promptly.
+
+---
+
+FAQs
+
+---

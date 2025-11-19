@@ -1,0 +1,470 @@
+Manage Team Member Profiles
+Source: https://help.housecallpro.com/en/articles/2865944-manage-team-member-profiles
+Author: Nate H
+Last updated: Updated over 2 weeks ago
+
+Summary: Learn how to add new team members, edit existing team member profiles, set up roles & permissions, and delete/restore team member profiles.
+
+Managing your team members' profiles is an important step in ensuring that your business runs as smoothly as possible.
+
+In this article, we'll go over how to add team members to your Housecall Pro account, edit existing team member profiles, set up roles & permissions, delete team member profiles, and restore deleted team member profiles.
+
+---
+
+---
+
+Add a Team Member (HCP Web Portal)
+
+To add a Team member using the HCP web portal:
+
+- Click the gear icon in the top right corner of your account to access your Settings.
+
+- Select Team & Permissions from the left menu.
+
+- Ensure that the Team tab is selected at the top of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1646015366/0fbef5678fe380b0b48944b6791f/Screenshot+2025-07-30+at+3_04_01%E2%80%AFPM.png?expires=1763568000&signature=dde5eb25b89aef3562f37b0644923705e60c117812dd8a220fa1d025dfd2eba4&req=dSYjEMl%2FmIJZX%2FMW1HO4zSZlAgkSOnndJHkrb2c7zdGBP%2Fkp0eCfiUiJaH3X%0AGq3kigBHVKxbn1X%2BN4Y%3D%0A
+
+- Click the blue Add team member button above your list of employees.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1646034063/e1b6d09708827bd80defb3b48c68/Screenshot+2025-07-30+at+3_12_22%E2%80%AFPM.png?expires=1763568000&signature=97c9ab5c366d3ef39a3c9547444a6837d975294033a9493fb57f6727ccb7a06c&req=dSYjEMl9mYFZWvMW1HO4zXyKHnIvQSddyU6xM5Z0lm8pzWN1ekHDVoqZ3CX5%0Au3GXNOkP3VgPN77Ezyc%3D%0A
+
+On the Add team member page, complete the profile setup:
+
+- Personal Details: Enter your team member's preferred name, last name, email address, and mobile number. All fields are required to add a new team member.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1584572955/511cbd0bc47973286655569b2a60/Housecall-Pro-06-23-2025_02_20_PM+%281%29.png?expires=1763568000&signature=ec58ccb0330748412d28e231cec98c7a6b4cd5c9647e997c7fa64382099b1317&req=dSUvEsx5n4haXPMW1HO4zVHuTROstePQK06z9rxq9%2Bm%2FlrZ%2BrRCw0L7riKVv%0AuJ0Hw70yluzVapzUn78%3D%0A
+
+- Avatar and tags: Upload your team member's profile picture, set their team member color for your calendar, and add any tags.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1584582223/02121590b1b287fce45de5667de7/Screenshot+2025-06-23+at+2_28_49%E2%80%AFPM.png?expires=1763568000&signature=3446d220a0bed2787394e910c783ac2bf46a2b37c41448957f3aaa5c64a60aaa&req=dSUvEsx2n4NdWvMW1HO4zTQVumifm9NvTccj1Arl53UlqBNcDgx0xrxtIsUy%0A5K0ge9XkaQNm1zhmQNM%3D%0A
+
+- Role: Select your team member's role based on their responsibilities in the company: - Admin
+- Office Staff
+- Field Tech
+
+- Permissions: Updated depending on the role chosen. Check or uncheck the boxes next to each permission to enable/disable certain access.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1584643012/c10350277a9e37c00d575659d18b/Screenshot+2025-06-23+at+3_09_18%E2%80%AFPM.png?expires=1763568000&signature=bf4310ab854cfc4066fad6324f362eb1a86f4ae3a012f49089925bad6cdfafe1&req=dSUvEs96noFeW%2FMW1HO4zTWGt0HT32R%2FLiFLksV35HXiDNZbwGj%2BKPhyouE3%0AOvA0hRf5ZQ3A0fgr8Ac%3D%0A
+
+- When you're ready, click Save in the top right corner of the page.
+
+- Your team member will then be added to your account, and an invite link will automatically be sent to them via email and SMS.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1584646297/bdca137dee0b3f9cbbf37e36f8ff/Screenshot+2025-06-23+at+3_10_35%E2%80%AFPM.png?expires=1763568000&signature=59a29f29acf5c9b689a8b6a78c4e13285168ea09ba6f1ffd191ebf5fb3290ecd&req=dSUvEs96m4NWXvMW1HO4zcyZjbZRoi8vLQ1%2B8KyVMrEd0hcCkljFN8HzF2G%2F%0AyXuw3w9pP%2BGnoYBSmMY%3D%0A
+
+---
+
+Add a Team Member (HCP Mobile App)
+
+If you need to add a team member while you're on the go, you can easily do so from the HCP mobile app by following the steps below.
+
+To add a team member via the HCP mobile app:
+
+- Tap the More icon in the bottom right corner of your screen.
+
+- Select Company setup > Employees.
+
+- Tap the Add manually button.
+
+- Enter your team member's information and choose their role in your company.
+
+- To set your team member's role as Office Staff or Field Tech, tap on the radio button under Permissions next to either option.
+
+- To set your team member's role as an Admin, tap the Save as admin checkbox. If this option is selected while either the Office Staff or Field Tech radio buttons are selected, the team member will be set up as an Admin.
+
+- When you're ready, tap Save in the top right corner of your screen. Your team member's profile will now be saved in your Housecall Pro account.
+
+[Image] https://downloads.intercomcdn.com/i/o/1162750367/2ed2ef2116571a069d51aa5d/AddEmployeeMobileGIF.gif?expires=1763568000&signature=6ca8468d34d913601b0c74a18fd619165666dd63512a22f866098c6f91f22fd8&req=dSEhFM57nYJZXvMW1HO4zX2RRjT27k2s63qYnvuUSINwnLXBo2twkFJNcRyH%0AYGygydyUpFLqpLFKKfs%3D%0A
+
+---
+
+---
+
+Access Your HCP Account (Invite Link)
+
+After setting up a new team member's profile, they will receive their invite link via email and SMS. This link allows team members to access their profiles in your Housecall Pro account.
+
+To access the Team Member invite link via SMS:
+
+- Tap on the invite link from the SMS you received from Housecall Pro. - If you haven't downloaded the HCP mobile app yet, the link will direct you to your app store to download it. 
+- If you have already downloaded the HCP mobile app, the app will open and prompt you to set up your password.
+
+To access the Team Member invite link via email:
+
+- Open the email you received from Housecall Pro (notifications@housecallpro.com) and click or tap on the Go to Housecall Pro button. - Admins and Office Staff will be directed to log into the HCP web portal. 
+- Field Techs will be directed to download the HCP mobile app if it hasn't been downloaded yet. If the HCP mobile app has already been downloaded, the app will open and will prompt the user to set up their password. 
+​
+
+If your Team Member Invite Link shows that it has expired:
+
+- Copy the URL from your email and paste it into your browser search bar by pressing and holding the Go to Housecall Pro button in your email.
+
+- Tap Copy Link from the options that appear. 
+​
+- Open a web browser on your mobile device and paste the link into the search bar.
+
+- You should then be directed to download the HCP mobile app, or to set up your password if the app has already been downloaded.
+
+[Image] https://downloads.intercomcdn.com/i/o/1158823899/1140f35fb6197f8602c18402/rpreplay_final1724355315-ezgif_com-video-to-gif-converter+%281%29.gif?expires=1763568000&signature=48f8788fee7198e7453113d913d5047175e41287b6feb08cd5f5a18c378898e6&req=dSEiHsF8nolWUPMW1HO4zZMSSO1a9yDArZS9BZTY0ARAOfpPP7ryv%2FrhMn1Q%0Awf9YfjgNsJAr385h3wY%3D%0A
+
+---
+
+---
+
+Editing Team Member Profiles
+
+In the following sections, we'll cover how to update an employee's profile information (name, phone number, email address), upload profile pictures, edit a team member's calendar color, and change a team member's role/permissions.
+
+---
+
+Update a Team Member's Information
+
+To update an employee's profile personal details:
+
+- Click the gear icon in the top right corner of your account to access your Settings.
+
+- Select Team & Permissions from the menu on the left.
+
+- Ensure that the Team tab is selected at the top of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1646042327/419029b580ca520228694b17c1d2/Screenshot%2B2025-07-30%2Bat%2B3_04_01-E2-80-AFPM.png?expires=1763568000&signature=e188c34ee0b035afd2db68d74a0efa7d5e24f3563c6d1aa197eedb116a3b647d&req=dSYjEMl6n4JdXvMW1HO4zfcpMyHM6GLZ8D1Gl3ubOtVCBPJa20odrvOEr5lh%0AOAHQJExi%2BZV6yl6Sw%2Bo%3D%0A
+
+- Click the employee's name, or the pencil icon to the right of the team member's profile you need to edit.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1584862954/6a444f1325ad28087ee928a19786/Screenshot+2025-06-23+at+5_49_55%E2%80%AFPM.png?expires=1763568000&signature=9c4fc212fddb6c7187f0c1efae1d5f0f62e7c888d1f118d9dcfe6c3732a7322b&req=dSUvEsF4n4haXfMW1HO4zbUxki2%2Fvh5iFNBxbrfy52ksH8k%2Fkpv84u9xNTVB%0A73Yv48tAGrXAcRKOb%2FI%3D%0A
+
+- You'll then be taken to the team member's Personal details page.
+
+- Click Edit in the Personal section.
+
+- From here, you can edit the Employees: - Preferred name
+- Last name
+- Phone number
+- Email address
+​
+- Click Save in the top right corner of the page after updating, and you're all set!
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1584877021/4d1a50b61fd8f9205d3095eec627/Screenshot+2025-06-23+at+6_05_54%E2%80%AFPM.png?expires=1763568000&signature=6fbda996bee2e3bf4aa75dda921feaa0984c583d9c00bf5d03b132b15fde7a8c&req=dSUvEsF5moFdWPMW1HO4zRsBUvoT78m%2FmYhlstxJ3HBaN2Zv%2Bu%2F4NKyBmdid%0AF%2BE34ODYMsrTZCE5mw4%3D%0A
+
+​
+
+---
+
+Upload a Profile Picture
+
+To upload a team member's profile picture:
+
+- Click the gear icon in the top right corner of your account to access your Settings.
+
+- Select Team & Permissions from the left menu.
+
+- Ensure that the Team tab is selected at the top of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1646042766/7261df8ef9e454cc8475761468ef/Screenshot%2B2025-07-30%2Bat%2B3_04_01-E2-80-AFPM.png?expires=1763568000&signature=946e6d01ab84a2a85f293ef3155d795978c5fbfd2df66914ad3a8b18e65c3087&req=dSYjEMl6n4ZZX%2FMW1HO4zcng2qzP2loipGXOVytiheMKZ5rvcx1rJU0lIo6W%0AdcWQxyzh%2Bz38Ibmc2f0%3D%0A
+
+- Click the team member's name, or the pencil icon to the right of the team member's profile you need to edit.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1584877319/83249e72f70ef04e1542b05f0da4/Screenshot%2B2025-06-23%2Bat%2B5_49_55-E2-80-AFPM.png?expires=1763568000&signature=2ca9c41d8dc7cf863c674399fe07bd225060d3aa6955fe28da568ab2fe22f061&req=dSUvEsF5moJeUPMW1HO4zRkzyGrgaVkclS%2FIgy318L8xGSBOXijOF6%2BLjgk0%0Av%2BCwJFgx6JHHli7jTcI%3D%0A
+
+- You'll then be taken to the team member's Personal details page.
+
+- Click Edit in the Avatar and tags section.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1584886337/a54259fe5ab39588806135aa9788/Screenshot+2025-06-23+at+6_18_55%E2%80%AFPM.png?expires=1763568000&signature=a5c3a5905a217b57f00d74ea711706ac2665d8dfa06dd97b5e85eaf0f24afaf3&req=dSUvEsF2m4JcXvMW1HO4zV%2FoxsI7vCJMfXeR1aZtaLZAX9AsZg5i%2F5sZUIS1%0Awgl6tsVPV7Zb8UgdMvw%3D%0A
+
+- Click the Select image button under your team member's current profile picture.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1584889019/0ca2168a92101df9d8fda978b40a/Screenshot+2025-06-23+at+6_20_09%E2%80%AFPM.png?expires=1763568000&signature=f8776074a9c01e503448f05870dd2c98a049c32b75b0de6ff80041bc6f3a71bf&req=dSUvEsF2lIFeUPMW1HO4zUYb63M16l%2FwVMxPvkww1QWBOV3M0EqYFv2xjENi%0Ar9iH571%2FuAN7%2BD6usN8%3D%0A
+
+- A file explorer window will then appear on your screen.
+
+- Select an image from your computer by double-clicking it or by clicking the Open button on your file explorer window.
+​
+- Once the image has been uploaded, the Crop your image window will appear, where you can crop, rotate, or adjust the size of the image as needed. 
+​
+- Once your adjustments are made, click Save in the bottom right corner of the window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1584893881/808070f2a84ecff9fc59776ac55a/Screenshot+2025-06-23+at+6_28_33%E2%80%AFPM.png?expires=1763568000&signature=1668ed169fe1970d751a35c2f59da455e04eadd31b14e8962ba4f5a1cfe9cd41&req=dSUvEsF3nolXWPMW1HO4zZdxA930cfb2zQwY0a4TZtvO0pwocM6ynkT6SCkU%0AKC0Kr7jHhkBRyCfImYM%3D%0A
+
+- Click Save once again in the top right corner of the Edit avatar and tags page to finalize the changes, and you're all set!
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1584897081/419ecc895585836f0eec5e1d6865/Screenshot+2025-06-23+at+6_31_21%E2%80%AFPM.png?expires=1763568000&signature=840d33e2f17de56f865ffff6641a3ba6e250c8206e01418569fa64d3778483ee&req=dSUvEsF3moFXWPMW1HO4zYjAwGLjAF0t4wluV6VTJPtQEJf8A6hV4ReHiPqL%0AB4fn%2FA6MmaZledpGAHw%3D%0A
+
+---
+
+Set a Team Member's Color
+
+Team member colors are used on your calendar to show which team member is assigned to a particular job.
+
+[Image] https://downloads.intercomcdn.com/i/o/739844319/014cf4aed4b21bd12a6cc623/image.png?expires=1763568000&signature=4d1f95b4a879d9e83a98969d5b339f4a36bc66b7b033604b2abc464f48fb0067&req=cyMuHs16noBWFb4f3HP0gCrX%2F33%2FzbPZNfcqmfOtP6aoBmsCrBSrpZtyVJDL%0AxusrN1VFEllcbaCYtg%3D%3D%0A
+
+To set a team member's color:
+
+- Click the gear icon in the top right corner of your account to access your Settings.
+
+- Select Team & Permissions from the left menu.
+
+- Ensure that Team is selected at the top of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1646043042/7ed09e950311654b1b0dfbd8e70b/Screenshot%2B2025-07-30%2Bat%2B3_04_01-E2-80-AFPM.png?expires=1763568000&signature=2d406a543baa6381acebb76f35392db1e69e4b7b908da75efeadb18af1b82bf1&req=dSYjEMl6noFbW%2FMW1HO4zTfDxy6SzjkLWGxKI0zsmqhxIyGQCOMZuodPJQYI%0AYQ%2Bz2wc2P6Aatb%2B2K%2FA%3D%0A
+
+- Click the team member's name, or the pencil icon to the right of the team member's profile you need to edit.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1584881957/3f8d5586e3efed8691c8aec77c7e/Screenshot-2B2025-06-23-2Bat-2B5_49_55-E2-80-AFPM.png?expires=1763568000&signature=682c068378d6bc801b73db4ef17533acef54d4487443b76aaebfbffee0173d83&req=dSUvEsF2nIhaXvMW1HO4zUgXVJfVVEGi73xHNCkFDLUj35U0nuvMuoWNeQLY%0A4Ma7aGS1hu0%2FnRZ%2B6%2BM%3D%0A
+
+- Click Edit in the Avatar and tags section.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1586251491/b3753c9d723d4e561bb0c320b6f7/Screenshot%2B2025-06-23%2Bat%2B6_18_55-E2-80-AFPM.png?expires=1763568000&signature=29c025275cf8aea97e4d623795d16fd282f427b9d9db8f369d8dc9c277b0b6f7&req=dSUvEMt7nIVWWPMW1HO4zeZKUyAn2xnbcfYs9ynQRjkYuT2gv9nO0TbvOazo%0ABzXxQP6wW46X4OqG78s%3D%0A
+
+- Click the Team member color drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1586255766/137eb5cb2d6858ba840ca594faae/Screenshot+2025-06-24+at+12_55_43%E2%80%AFPM.png?expires=1763568000&signature=202ef0ff72f9d4ed281e89fb84d7a8eed970e97f0f77926ff01e5e60d037fcab&req=dSUvEMt7mIZZX%2FMW1HO4zczOV9U94Zi%2BYEt2ZJJ7sajpZmrjlkKjQaylxKH5%0ABmpSarfxeiZ0jMW7yv8%3D%0A
+
+- A small color-selection menu will appear, where you can select a preset color or click the + icon to choose a custom color.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1586258090/993f972f9e204868097cc53c284c/Screenshot+2025-06-24+at+12_57_18%E2%80%AFPM.png?expires=1763568000&signature=bb34c704b61d364c6100fcecba078b5190ed813c4f468c85203c9047cbcc82fb&req=dSUvEMt7lYFWWfMW1HO4zTPFeXpzjzUo9M3wAH9wSUaUfesWLewpONJa23qy%0ApfV666sTufVd2UjK%2BmI%3D%0A
+
+- If you select a custom color, be sure to click Apply in the Choose a custom color window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1586259489/986a1666cb4ea04901f8baec52cd/Screenshot+2025-06-24+at+12_58_18%E2%80%AFPM.png?expires=1763568000&signature=a469e82ca799882994680b621ae7108b8a21ce4cfed1121f01ddeb4d5dd0409f&req=dSUvEMt7lIVXUPMW1HO4zUFrZQaOeaVZnximbiQx5OyMtO6hRQkwCDUW5AHB%0AYNO%2BkTzsW49%2FKaG64mU%3D%0A
+
+- Finally, click Save on the Edit avatar and tags page to save the changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1586263067/50c9229321f76731c9fff73dec91/Screenshot+2025-06-24+at+12_59_41%E2%80%AFPM.png?expires=1763568000&signature=152ec68d5668bbaa671fa0f4dda642c6b0c38ee01ac065f1b2c9121546d4f436&req=dSUvEMt4noFZXvMW1HO4zT8pIdZ31v0ERnHAGx4OStl4iux8E2wFvNwE0ySN%0AFCrC0Q0WN6YUUWLlh5M%3D%0A
+
+---
+
+Edit Roles & Permissions
+
+To change a team member's role or permissions:
+
+- Click the gear icon in the top right corner of your account to access your Settings.
+
+- Select Team & Permissions from the left menu.
+
+- Ensure that the Team tab is selected at the top of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1646043323/2775dd05a5a859a88121ed9c07a7/Screenshot%2B2025-07-30%2Bat%2B3_04_01-E2-80-AFPM.png?expires=1763568000&signature=8931c172974786752446dcc83de4f9da49bf14012eef3ab32937067d8a59bd7f&req=dSYjEMl6noJdWvMW1HO4zXeK3OkANKsYXSG6ZVgWs%2F1nCvzx1%2B%2BV7LUTaj8u%0A97rctGVXbGRahPRWDMA%3D%0A
+
+- Click the employee's name, or the pencil icon to the right of the team member's profile you need to edit.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1584882189/e85ae13e3d2adba4f7cef2e2ee8d/Screenshot-2B2025-06-23-2Bat-2B5_49_55-E2-80-AFPM.png?expires=1763568000&signature=c12e75b3c6733e16f1466097c3995b0a60c8296b0b97b9520d44e3f31ba7166f&req=dSUvEsF2n4BXUPMW1HO4zQExvcMCD84Oo0dllftzwtMg01wItMdVpg05LsQ%2B%0AfMsWIA%2FRBRbDVtZm378%3D%0A
+
+- Select Permissions from the menu on the left. From here, you can: - Change your team member's role to Admin, Office Staff, or Field Tech by clicking on the respective radio buttons. 
+- Update your team member's permissions by clicking on the checkboxes next to each permission.
+
+- Once you have set up your team members' roles & permissions, click the blue Save button at the bottom of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1204475154/c3ffe087ea93e3d501a9764c9af2/Housecall-Pro-10-04-2024_11_49_AM.png?expires=1763568000&signature=552373f0fa08bac0162c18934a1d239b9b1ec4025be35e1f9bf9a890823eae1e&req=dSInEs15mIBaXfMW1HO4zf7tK0ADmiGCRVAJES9rJq1FB11uj8HWCxo8OLFF%0A4C16gHPWwXrChdf7eWI%3D%0A
+
+---
+
+Assign a Dispatch/Messaging POC (Point of Contact)
+
+When a customer replies to an automated message from your company, the Dispatch/Messaging POC will receive that on their mobile app.
+
+- If they are not already, be sure to set the team member as Office Staff or Admin.
+
+- Only ONE team member can be made the Dispatch/Messaging POC.
+
+To assign a Dispatch/Messaging POC (Point of Contact):
+
+- Click the gear icon in the top right corner of your account to access your Settings.
+
+- Select Team & Permissions from the left menu.
+
+- Ensure that Team is selected at the top of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1646043566/dc768edfe3298e99669feb802752/Screenshot%2B2025-07-30%2Bat%2B3_04_01-E2-80-AFPM.png?expires=1763568000&signature=6520e253aa05b71e513a338188716d49677a80b6bd842fa660585e689bb95f19&req=dSYjEMl6noRZX%2FMW1HO4zclF5dmxFdJY4gQrFA8FnQmuBsWvywwJJ74nwK6t%0A5%2BfwCP5qyAJPuOFhS9M%3D%0A
+
+- Click the team member's name, or the pencil icon to the right of the team member's profile you need to edit.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1586330642/b5497cd2098ce8b10c6b08d009da/Screenshot-2B2025-06-23-2Bat-2B5_49_55-E2-80-AFPM.png?expires=1763568000&signature=a46651dc559fffe3880c672ffd6d0c6fbef90f2e6b63d62c4bbb7688dd2b278d&req=dSUvEMp9nYdbW%2FMW1HO4zQJ4gw%2B8zTGFvm3v5R%2FYviYkxKYzMxhe6GP%2FtCc0%0APFh9cah%2BbljBxYliVlw%3D%0A
+
+- From here, select Permissions from the menu on the left, under your team member's name.
+
+[Image] https://downloads.intercomcdn.com/i/o/1158877430/a3cce38b6ddcc2b4026de4df/Untitled+2.png?expires=1763568000&signature=b59579b2e0963587e1a7381a1c15e8cec7cf2f53cbee14da63ca6ad3521e5ec5&req=dSEiHsF5moVcWfMW1HO4zTQxAVmkBJ5gRxOV8%2Feo8xNxMONdWR6DAOj8iPZ6%0ApOQTnWZowsC5OEKFSc0%3D%0A
+
+- Check the box next to Dispatch/Messaging POC (Point of Contact), then click the blue Save button to save the changes. ​
+
+[Image] https://downloads.intercomcdn.com/i/o/1158880512/3d8b86f834272691b4e20b44/image.png?expires=1763568000&signature=2721dec7260d8a4e57b3a2cec7002791ce1cb175da51f15fe13ece22cf397875&req=dSEiHsF2nYReW%2FMW1HO4zaF8WMZ%2BVM366qDvg7uyqhNtEI7XQGvasgt3Atax%0AsiMU0W2dWYQPpRCSrJE%3D%0A
+
+---
+
+Edit a Team Member's Pay
+
+You can define or update each employee’s pay details, including hourly or salary base pay, fully loaded rate, and commissions. Specify whether the employee is paid hourly or annually, add employer-paid costs like taxes or benefits to calculate their true cost per hour, and set their commission percentage based on eligible job line items.
+
+To edit a Team Member's Pay:
+
+- Click the gear icon in the top right corner of your account to access your Settings.
+
+- Select Team & Permissions from the left menu.
+
+- Ensure that Team is selected at the top of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1793554171/ce098042d4e80ca3b77bc875da07/Screenshot-2B2025-07-30-2Bat-2B3_04_01-E2-80-AFPM.png?expires=1763568000&signature=60ae429f3d786aceb64f82e2762fd8dd3dffe8520d1c7bc4812660f0fb9fc98c&req=dScuFcx7mYBYWPMW1HO4zR%2FSJgxduPUe5bjGabiNUEXmwWbpycXOk3kfHWUa%0AA%2F3s6DYAqaHhOZZcSyU%3D%0A
+
+- Click the team member's name, or the pencil icon to the right of the team member's profile you need to edit.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1793558136/8ab3f3feb8353ba254c8af7f785f/image.png?expires=1763568000&signature=8f5c814cd240ceb76a774726b95ac2dedcd01d145c1a311c6c64585412050319&req=dScuFcx7lYBcX%2FMW1HO4zbJPBrI0qPxRP5HjydM4IoEbecZbdk%2Fl9EMFtkmK%0ATVV%2FnPATxn7Xwa9FmhI%3D%0A
+
+- Select the Pay tab at the top of the employee's profile and then select the blue Edit button to edit your employee's pay details.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1793563904/06189b724fe0c4ae0db76d299aab/image.png?expires=1763568000&signature=52b86501d7af7912f40789c6357d0b028d20a72651ec9e98aa891b5136e58136&req=dScuFcx4nohfXfMW1HO4zYSRJNmFcx0Y20jGB89JiNsw1eQZz3yOuiECUunx%0AjtKwMrfiL5XqSi3DvW4%3D%0A
+
+- Here, you can set or edit your employees' base pay, calculate a fully loaded rate, add additional costs, or set their commission rate.
+
+- Finally, click the blue Save button to save your changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1793572175/b56a294431e9acae85b573edcadf/image.png?expires=1763568000&signature=585bfd2080c4d61cdd952cfdf2fd092e134cb27402cf01cfd71d3faa898f79d3&req=dScuFcx5n4BYXPMW1HO4zRixC%2BcRbzC0IRfdaHD4474vpztTuZlcxZB5OPt7%0ACspCgzA2JAr23YhAYEU%3D%0A
+
+---
+
+---
+
+Archive a Team Member's Profile
+
+You can easily delete a team member's profile from your Housecall Pro account by following the steps below.
+
+To archive a team member's profile:
+
+- Click the gear icon in the top right corner of your account to access your Settings.
+
+- Select Team & Permissions from the left menu.
+
+- Ensure that Team is selected at the top of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1646043854/c64edea6433bcf61dd21ccbe3337/Screenshot%2B2025-07-30%2Bat%2B3_04_01-E2-80-AFPM.png?expires=1763568000&signature=a33eaeb63ac1150c0ac26beca29d294e8f291909c1e7cf0990f6b343948ebe40&req=dSYjEMl6nolaXfMW1HO4zdd%2FyHtfR3kfAlOTVt%2Fbkr4N6y4YHCPClMGRJsMd%0AePbkNTtiSr%2BLkg22iPQ%3D%0A
+
+- Click the team member's name, or the pencil icon to the right of the team member's profile you need to edit.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1586411117/38dd9b90d4a2caceada4ced5ac67/Screenshot-2B2025-06-23-2Bat-2B5_49_55-E2-80-AFPM.png?expires=1763568000&signature=30c97e270a3d1b2d988f0e630cc1dc355eb900fe312efc26bda3d71309977483&req=dSUvEM1%2FnIBeXvMW1HO4zayJCEq816Tt%2F%2FAc2YYHPGaTmNFO75Bd6DSP8rew%0Acc5ca58Pp8goN0MSx1o%3D%0A
+
+- Click the Archive user button at the top of the Personal details page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1586789165/df8d9c0092281d468dc3e12d52fa/Screenshot+2025-06-24+at+6_28_42%E2%80%AFPM.png?expires=1763568000&signature=b0410f38ed7162abda9ff0041a78706771fcd7fffe786ce544684a71ca7aa68a&req=dSUvEM52lIBZXPMW1HO4zRbzzBD1Shzd3HGUAhkyE9yUKCzIq%2BRDDPShFvfJ%0A1JYzUNCSx%2FEB807QBns%3D%0A
+
+- A confirmation window will appear.
+
+- Click the Archive employee button to confirm. The profile will be deleted immediately, and you will return to the Team member page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1586789377/4c6258cb005a9819a9667d25b202/Screenshot+2025-06-24+at+6_30_28%E2%80%AFPM.png?expires=1763568000&signature=5d04cd89af7b6031c7824e0a74ba3ea3ae6be8258384c7a16dea85c9184a3271&req=dSUvEM52lIJYXvMW1HO4zT%2BvzBlMwULeb%2BkSXSpM7%2BpeaSFocJg3poM6cRGm%0Amm3PC7s7A4DZGJEWkL0%3D%0A
+
+- After archiving an employee profile: - The archived employee will not be removed from any future or past jobs that they are assigned to.
+- The archived employee will be logged out of your company's Housecall Pro account and will not be able to log back in unless their access is restored.
+
+---
+
+---
+
+Remote Log Out
+
+In some cases, you may need to log yourself or a team member out of your Housecall Pro account remotely.
+
+To log a team member out remotely:
+
+- Click the gear icon in the top right corner of your account to access your Settings.
+
+- Select Team & Permissions from the left menu.
+
+- Ensure that Team is selected at the top of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1646043955/a3ef9f3c64653b089e2fb6ea5d15/Screenshot%2B2025-07-30%2Bat%2B3_04_01-E2-80-AFPM.png?expires=1763568000&signature=1aa546a429cd601f35e8e55aa2743c5cece46b9222e5880c70b0e62b3e519c8e&req=dSYjEMl6nohaXPMW1HO4zatHp2TMDVBgYOUvXhEOWWg79%2B2pOBMfXUmo5lRH%0AYfgARf7YqK1VovPgEvM%3D%0A
+
+- Click the team member's name, or the pencil icon to the right of the team member's profile you need to edit.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1586412599/cdf05a9ee442d0fab730d131d93a/Screenshot-2B2025-06-23-2Bat-2B5_49_55-E2-80-AFPM.png?expires=1763568000&signature=02e82626f52ac490fb3d7d913d6bddb4bd1dfb2aba84c7b363cc73fca2692fde&req=dSUvEM1%2Fn4RWUPMW1HO4zbygoVhlzL6kHMsbkX1xuuPBEGbCC%2F8SJpZsCS%2Br%0APfJRsR2pkawtFxC6daU%3D%0A
+
+- Click the Remote logout button in the top right corner of the page. The team member will then be immediately logged out of their profile on both the web portal (if applicable) and mobile app.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1586754130/824801c762f777fc7331859c056a/Screenshot+2025-06-24+at+5_59_58%E2%80%AFPM.png?expires=1763568000&signature=d5750142fc2436a2771c1a562a0919f46b315d2dbe9243ae03bf83512665a7f2&req=dSUvEM57mYBcWfMW1HO4zY7Lv%2FdLfIFxq7mxX54%2BrQn7mglLa0yBCW67mdZx%0AA4LFluytkZyqJDzFSNg%3D%0A
+
+---
+
+---
+
+Restore a Team Member's Profile
+
+If you've accidentally deleted a team member's profile or have re-hired a former team member, you can restore their profile in a few easy clicks. Just follow the steps below!
+
+To restore a team member's profile:
+
+- Click the gear icon in the top right corner of your account to access your Settings.
+
+- Select Team & Permissions from the left menu.
+
+- Ensure that Team is selected at the top of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1646044181/65f8f0a24ec23cdef9ed6cde046e/Screenshot%2B2025-07-30%2Bat%2B3_04_01-E2-80-AFPM.png?expires=1763568000&signature=73f5c85517000c9e73cf71d8053a8699b90127fdaec2bc9dfb7f86b4d449bc9a&req=dSYjEMl6mYBXWPMW1HO4zVCwlMRpaIMs7q%2BlY7BWX%2FtT5jr05EUMrgYpAvGk%0AE%2FpFd9TOjindXAauwYc%3D%0A
+
+- Click the More icon (three dots) in the top right corner of the page, next to the blue Add Team Member button. 
+​
+- Select Archived team members from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1586759944/90da9ebd14818897b0b43c7dbdb5/Screenshot+2025-06-24+at+6_05_07%E2%80%AFPM.png?expires=1763568000&signature=13e0e66e3c17a14248a872d2de98c8a0d3a37778ab3b3fe3125e971426f7e375&req=dSUvEM57lIhbXfMW1HO4zc3GlCOVqVWgVTPjYO8LQsckOhqas98WaMplwzZz%0AFMFGeont%2FmTwuT7A0Nw%3D%0A
+
+- Click the clock icon to the right of the profile you need to restore - and that's it! Your team member's profile will then be restored in your account.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1586763124/ca1c62c41938de16ce7f416ed358/Screenshot+2025-06-24+at+6_07_42%E2%80%AFPM.png?expires=1763568000&signature=8253edd1f9518991da375bf0b0f08da21b5289aca9c360b9ee30c948e4200ccb&req=dSUvEM54noBdXfMW1HO4zUm1HpnCFI7jKnC85TsKBPkIgTox%2BLXtzGLM%2FTby%0A3Zk6FLUqvs1uRdDRdbk%3D%0A
+
+---
+
+---
+
+Resend a Team Member Link
+
+To resend an invite link to a team member:
+
+- Click the gear icon in the top right corner of your account to access your Settings.
+
+- Select Team & Permissions from the left menu.
+
+- Ensure that Team is selected at the top of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1646044339/6e075032051fc92b2ac94bda1081/Screenshot%2B2025-07-30%2Bat%2B3_04_01-E2-80-AFPM.png?expires=1763568000&signature=7a8d2b9845b2e95e34620aa5f8820be41b6bb720442ed9976a049e25592141e5&req=dSYjEMl6mYJcUPMW1HO4zcOeJSP8FC1uuaksoddB2pi%2Bs6W4SYujnlIIaFKJ%0AGrBpB2g04cYHlgl%2FP68%3D%0A
+
+- Click on the paper plane icon to the right, and the link will be sent to your team member right away.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1586785089/2f6908cef9f92314670549e5c26f/Screenshot+2025-06-24+at+6_26_21%E2%80%AFPM.png?expires=1763568000&signature=6b9eb52cbc2c9b53e0721a017dc0010c6acdd1aecd989534ff84070252a79b37&req=dSUvEM52mIFXUPMW1HO4zSnUOTULoa7mXj%2BlXUNe3nQbFt%2Fs5nizsQ33H9lF%0AT%2FPci8ZK3EciID2ngCg%3D%0A
+
+---
+
+---
+
+Team Member Profile FAQs
+
+Why don't I see a pencil icon next to my team member's profile?
+
+- If you do not see the pencil icon to edit your team members' profiles, your browser may not be in full-screen mode. In this case, use the scroll bar at the bottom of your web browser and scroll to the right. If the pencil icon still doesn't appear, please reach out to our Support team via the Blue Chat Bubble in your account.
+
+What happens to job history when I delete a team member?
+
+- Once a team member is deleted, they will be removed from the schedule, and they will no longer be able to access your Housecall account. However, the team member’s personal information will be archived. All past and future jobs and estimates assigned to the deleted team member will remain on the calendar. You can reassign them to a different team member to remove the deleted team member from the calendar.
+
+I deleted a Field Tech from my account, and now their times aren't showing up on past jobs. What happened?
+
+- When a Field Tech is deleted, their time will no longer display the time tracked on jobs. You can still see the history of who was assigned at the time, but not the time-tracking part.
+​
+
+Why is my Field Tech having trouble logging into the web browser?
+
+- Field Techs are only able to log in via the mobile app and not the web browser.
+
+- If access to the web browser is needed, you may choose to update your Field Tech's role to Office Staff, with reduced permissions if needed. In this case, your Field Tech will still be able to complete the same functions while in the field, while having access to the web browser. (Office Staff members may have access to see increased amounts of Company data, such as customer history and pricing). 
+​
+
+Why am I getting the 'Email is already in use by another account' message when trying to add a Team member?
+
+- This means that email is already connected to a different Housecall Pro account, either one your employee created themselves, or one from another company (including possibly your own in the past). Once the email is no longer tied to another account, you’ll be able to add the team member successfully.
+
+- If the Email was used in your Company before: Restore the archived employee. You can then add “+archived” to the end of their email address and change the phone number to all 7s. Click Save, then archive the profile again. This will free up the email so you can use it for the new Employee.
+
+- If the Email is used in another Company or personal account: Have the Employee reset their password or contact the previous company’s admin so they can archive or change the email, freeing it up for your use.
+
+---
+
+​​Check out these tips on attracting great employees to your company.
+
+---

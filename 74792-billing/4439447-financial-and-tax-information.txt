@@ -1,0 +1,82 @@
+Financial and Tax Information
+Source: https://help.housecallpro.com/en/articles/4439447-financial-and-tax-information
+Author: Layla K
+Last updated: Updated over a month ago
+
+Summary: Find key details on U.S. sales tax, tax reporting, and 1099-K forms to effectively manage and understand your tax responsibilities.
+
+Managing Sales Tax and 1099-K Reporting with Housecall Pro
+
+Per the 2018 South Dakota v. Wayfair Supreme Court decision, Housecall Pro is required to collect and pay sales tax in certain states. Learn how this affects your account, including which services are taxed and how to update your company address.
+
+Additionally, find out if you qualify for a 1099-K form and get answers to common tax reporting questions.
+
+---
+
+U.S. Sales Tax FAQ
+
+Why am I being required to pay sales tax now even though I didn’t before?
+
+- The change in sales tax requirements is due to the 2018 South Dakota v. Wayfair Supreme Court decision. This ruling allows states to mandate that businesses collect and remit sales taxes if they meet specific revenue or transaction thresholds, even without a physical presence in those states. If Housecall Pro previously provided you with tax-free services, our business operations have changed, and we are now required to collect sales tax in your area.
+
+What Housecall Pro products or services does sales tax apply to?
+
+- Sales tax rates and applicability vary based on state and local regulations. Generally, sales tax may apply to a range of Housecall Pro products and services, including subscription fees, activation fees, postcards, card readers, and other items. The specific rate and which products or services are taxed will depend on the local ordinance in your area.
+
+How can I update my company’s address?
+
+- To update your company’s address, which determines your sales tax jurisdiction, go to your Housecall Pro Company Profile. Admins can make this update by accessing Settings: - Click the gear icon in the top right corner of your account, then select Company from the left menu and ensure that Profile is selected at the top of the page.
+
+How much sales tax will my business be charged?
+
+- The amount of sales tax your business will be charged is displayed in the Billing section of Settings. Sales tax appears as a line item, similar to an additional user. For instance, if your state applies sales tax only to subscription fees and your monthly Housecall subscription is $100 with a 7.5% sales tax rate, you will be charged $7.50 in sales tax.
+
+- The specific sales tax rates and applicable items can vary by state; for example, South Carolina charges sales tax on software and website builder subscriptions, setup costs, and additional items like postcards or card readers, but not on referral fees, credit card processing, or Instapay.
+
+What if I am a tax-exempt organization?
+
+- If you are a tax-exempt organization, please submit your sales tax exemption form to our team via the Blue Chat Bubble. We will update your account to reflect your tax-exempt status accordingly.
+
+Who do I contact for more information?
+
+- For specific tax laws and rates in your area, we recommend consulting with your local tax authority. For additional questions, you can contact the Housecall Pro team via the Blue Chat Bubble.
+
+---
+
+1099-K Reporting FAQ
+
+All Payment Settlement Entities, including HouseCall Pro, are required by the IRS to report the earnings of those merchants who qualify for a 1099-K.
+
+What is the Form 1099-K?
+
+- The IRS requires that Payment Settlement Entities, such as HouseCall Pro, report the payment volume received by U.S. account holders. A 1099-K is a compilation of information that is given to the IRS and qualifying customers.
+
+Sample 1099-K Form
+
+- A 1099 form mailed to you from Housecall Pro will include the company’s name and address, along with your details as the recipient. It will show the total gross payments or transactions processed through Housecall Pro, listed in various boxes. The form will be labeled as a 1099-K if it reports these payment transactions. Additionally, it will come with instructions on how to use the form for tax reporting. This printed document is sent to you directly and provides essential information needed for your tax filings.
+
+[Image] https://downloads.intercomcdn.com/i/o/111041847/cb38acaf5bbb3a6fe67fd0e7/1099-k_form.jpg?expires=1763567100&signature=960dbbab588103bca4f73fc829336c901fcdffa459a71fe0ec2d48da13a2768c&req=dSEmFs1%2FlYVYFb4f3HP0gMq7ojEj9g1mhSrDr%2BxCzv18WfyE9lVhJ4MNvpcL%0AVdFBv5Ze4PpRfeEhug%3D%3D%0A
+
+How are the amounts on the form calculated?
+
+- The amounts reported on the 1099-K are based on your gross sales from credit card transactions. Note that these amounts may differ from the net amounts deposited into your bank account due to refunds, chargebacks, holds, and credit card processing fees.
+
+How do I submit my Form 1099-K?
+
+- Housecall Pro is required by law to file a copy of your 1099-K form for the applicable tax year. For questions about how to file your taxes, please consult a tax professional, as Housecall Pro cannot provide tax advice.
+
+Do I Qualify for a 1099-K?
+
+- You qualify for a 1099-K if your account meets both of these criteria: more than $20,000 in gross sales from goods or services within the calendar year, and more than 200 transactions in that year.
+
+- These thresholds apply to credit card transactions processed through Housecall Pro and are based on the aggregate gross sales volume across all accounts using the same Tax Identification Number (TIN).
+
+- If you qualify, we will mail your 1099-K form to the business address on your Housecall Pro account.
+
+- If you have not received your 1099-K form by January 31st and you qualify for one, please contact our support team via the blue chat bubble.
+
+What if I Don't Qualify for a 1099-K?
+
+- If you do not qualify for a 1099-K but need to download your invoices, go to your Jobs list or simply click here. Click the Actions drop-down menu on the Jobs list page, select Export, and your jobs and invoices will be exported into a CSV file and emailed to you. You can then use and filter this file as needed.
+
+---

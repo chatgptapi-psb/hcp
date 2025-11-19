@@ -1,0 +1,32 @@
+Team Member Roles & Permissions
+Source: https://help.housecallpro.com/en/articles/1073431-team-member-roles-permissions
+Author: Nate H
+Last updated: Updated over a week ago
+
+Summary: Understand user roles and permissions to ensure that your team members are set up with the correct abilities.
+
+Adjust the permissions for each team member individually to set what they have access to in the system. Setting up permissions correctly ensures that everyone can use Housecall Pro in the best way possible, allowing you to keep your business moving smoothly.
+
+Team members can be entered as Admin/Owner, Office Staff, or Field Tech. Below are the lists of each role and permission type, and what each permission allows.
+
+---
+
+Admin / Owner Permissions
+
+Admins have access to your full account, meaning that they can add and delete employees, see all reporting, view all jobs and employees' schedules, and edit your company information. We recommend limiting this permission to only the owner(s) or main Admin.
+
+---
+
+Office Staff Permissions
+
+---
+
+Field Tech Permissions
+
+---
+
+FAQs
+
+---
+
+Check out these tips on attracting great employees to your company!

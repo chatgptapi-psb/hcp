@@ -1,0 +1,503 @@
+Time Tracking Overview Guide
+Source: https://help.housecallpro.com/en/articles/2795146-time-tracking-overview-guide
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: Learn how to configure time tracking so your employees can track their time in the field.
+
+Time Tracking with Housecall Pro
+
+A better understanding of the actual time and labor that goes into scheduled work can only start with accurate time tracking of the employees assigned to given jobs. Time tracking features within Housecall Pro allow you to better track the time your employees are spending on travel or working on the job site! This ultimately leads to insight into your field employees' efficiency and a more accurate sense of how labor impacts your job profitability.
+
+To ensure that your employees can track their individual time on jobs, you'll want to start out by turning on this feature in your Housecall Pro account. We'll cover how to do that in this Help Article, and we'll also provide other information to make sure that you get the most out of Time Tracking with Housecall Pro.
+
+---
+
+---
+
+Setting Up Time Tracking
+
+To set up Time Tracking:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Jobs from the Settings menu on the left.
+
+- Click the Time tracking tab on the Jobs settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1634577024/99ded02ac36c2e73c2fd9540492d/image.png?expires=1763568000&signature=aee8fb6724779231de75570e5e79363853f45d1a56188f3a035160ab3804b0fe&req=dSYkEsx5moFdXfMW1HO4zYZPO%2FUEFXR61eu71MbRwLIJY8g9ZrzS3cXovdcU%0AlmOMMN7Yj1pVlrCWdrs%3D%0A
+
+Alternatively, you can locate Time tracking settings through My Apps:
+
+- Click on the My Apps icon (3x3 square) in the top right corner of your HCP account.
+
+[Image] https://downloads.intercomcdn.com/i/o/1129118583/5d423e2369f2323dce9cadfb/image.png?expires=1763568000&signature=81f64cddbb05c5c47214324f526d4e11a2e4a0e6d5dd0f4832dabe9d9df74d1c&req=dSElH8h%2FlYRXWvMW1HO4zQoapYX%2F4CQmqXOcaSFNTn8p0aywRq19z%2FDG4ANj%0A2XuSm0y%2F64B5gCBPQpA%3D%0A
+
+​
+
+- Click the Go to App Store button at the top of the app menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/1129123912/b18b72f0ede9e7e7d2a09965/image.png?expires=1763568000&signature=33b1d7aaf4858158196ee2ce1741e6e0ef10ad126808c23211f205902c0195ae&req=dSElH8h8noheW%2FMW1HO4zYaRyj%2BKkMZGy9rqW1kHCw7aHQwQuVGOXorAy8D6%0AnzxnosT4nLteJ7rpw04%3D%0A
+
+- From the App Store, type Time tracking into the search bar, or scroll down until you see the Time Tracking app.
+
+- Click on the app directly, or click the View Details button.
+
+[Image] https://downloads.intercomcdn.com/i/o/1129127407/057983d83ae1f68badf7132a/image.png?expires=1763568000&signature=885fe9490d683c99b8dcc7669de95bb5e7192d0e0937e164b34fffd0687e01a7&req=dSElH8h8moVfXvMW1HO4zZ%2B1%2FTLUnblzIfbxw7iHPlyXe3tXddvobGrXTHHc%0AKx56KPnLqQM4nrHo4yo%3D%0A
+
+​​
+
+- Click the blue Settings button in the top right corner of the app details page to be directed to your Time Tracking settings.
+
+[Image] https://downloads.intercomcdn.com/i/o/1129129156/7c924a2643b94b48a41dfd42/image.png?expires=1763568000&signature=c5dac69d7276dce557b749ae9fb9cfe53f15db295620a76329e37ada2f04187e&req=dSElH8h8lIBaX%2FMW1HO4zXHVFWGKq0tHjXame6cA1F7MfMO3gQ0XIhA3q6cH%0AgMf5BKaTQP2cOt9I8os%3D%0A
+
+In your Time tracking Settings:
+
+- Enable the Employee Time Tracking features by clicking on the toggles for each one: - Total clocked-in time and timesheets.
+- Travel and time on jobs.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1634587345/e151c88c7d6f4270b0f7258f407d/image.png?expires=1763568000&signature=86bb712f5d7f8a3b3a1bd21854a38ab5b346c2e129c5c3b7a2720700af1c8407&req=dSYkEsx2moJbXPMW1HO4zcbnEhH3iq7M1LzaViRY5boJmDqL%2BC3mSZFBxaF3%0AHG3s%2Be2qZgzB6KMsNIg%3D%0A
+
+---
+
+Total clocked-in time and timesheets Feature
+
+- With this feature enabled, the clock in/out widget will be available to employees on the mobile app dashboard. This allows your employees to clock in and out of their workday to track how many hours they are on the clock, which tracks total clocked-in hours on a timesheet. Enabling this option gives your employees access to timesheet reporting.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1634632088/e6d81be2e5a095f35fd1fe192986/image.png?expires=1763568000&signature=cb43893dbeaf649b6cdc37d3507844c52a556669997893ef019ba8ae69acbf5a&req=dSYkEs99n4FXUfMW1HO4zQ3LOmmGnC8hokl8PwcXTB3nt58C7BlgnFqxHWTp%0A7yO6ERDxJMa5GxGy0TI%3D%0A
+
+---
+
+Clocking In and Out
+
+Once you've enabled the Total clocked-in time and timesheets setting, your employees will see the clock in/out and timecard widgets at the top of their Dashboard in the HCP Mobile app.
+
+To clock in or out:
+
+- Tap on the time tracking box on the main Dashboard of your HCP Mobile App.
+
+- The Time Tracking box will be gray when an employee is clocked out.
+
+- When clocked in, the Time Tracking box will turn green and show a running timer.
+
+- Tapping it again will clock the employee out again and stop the timer.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/113200739/ef9310756996e8f15abf6813/Screen_Shot_2019-04-04_at_7_12_46_AM.png?expires=1763568000&signature=eb78ee7a58b22e49c2798ab03bc564e0ab79faebf56ecdd3581521cdfab866f2&req=dSEkFMl%2BmoJWFb4f3HP0gH1dybNacpxXmjX251EBGl6rEa044fqalV9o6MZ2%0AKNw%3D%0A | [Image] https://downloads.intercomcdn.com/i/o/107714943/c45d8fd752ac48d5017c2cc8/MobileClockIn%3AOut.gif?expires=1763568000&signature=bc68555492cdf657cf77d37e8a12839d1c7a60166ca3798f42ffb54f16c6bea4&req=dSAgEch6lIVcFb4f3HP0gIojZWBkrrKl%2BRLn0oX%2BbCdIV79Krd2XozOMqv6I%0AgGA%3D%0A
+
+---
+
+Viewing Your Timecard
+
+Tapping on the Timecard box to the right of the Time Tracking box will show your employee their total hours clocked for the week.
+
+To view your Timecard:
+
+- Tap the Timecard widget on the right side of your HCP Mobile App Dashboard.
+
+- Scroll through to view your hours, broken down by day.
+
+- Each day will also display the Clock-In and Clock-Out times.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/113201273/8b3579b39cff8e5837546118/Screen_Shot_2019-04-04_at_7_12_46_AM-2.png?expires=1763568000&signature=30efe3191086493e6e73ce73c40c983ad5008a0f825ff2084451d4f9b17ef852&req=dSEkFMl%2Fn4ZcFb4f3HP0gCvdEcvmHIR0M14p7IiT7wWzcbZjQ0fIJwpEcTZg%0A4NA%3D%0A | [Image] https://downloads.intercomcdn.com/i/o/113201411/c3f60a9f19461104676cfe66/Screen+Shot+2019-04-04+at+7.11.42+AM.png?expires=1763568000&signature=b0bdd03ae063273d6e54fd5b02e80121bb91e5e8839de84a252a543df1eefac7&req=dSEkFMl%2FmYBeFb4f3HP0gPDt9i%2BCE5orygHQdl56HlOF7nGtNM1zoXsToXMF%0Afig%3D%0A
+
+---
+
+Managing Employee Timecards
+
+Once you've enabled the Total clocked-in time and timesheets setting for your account, you can easily view your employees' time cards and clock-in/out locations, and edit their times as needed.
+
+View & Edit Employee Timecards
+
+To view and edit timecards:
+
+- Click the My Apps icon (3x3 square) in the top right corner of your Housecall Pro account.
+
+- Select the Timesheet app.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1677420916/53ecbae62503bef30fcba7fb2bed/image.png?expires=1763568000&signature=67f1dec4338a7032311b7cf5f0da83c71e39962f851ccd8fe6dd6d455b3b1d0b&req=dSYgEc18nYheX%2FMW1HO4zQi0ubzfroMSNjUdUM9G7vM1FySml9rETCjwQOfP%0AnL4phYMA406AXoMlc84%3D%0A
+
+- You'll be directed to your timesheets, where you can view and edit employee timecards.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1677420920/ca4f74c308633e57f3061f85c0b2/image.png?expires=1763568000&signature=578a019c385f6ee4f2c5aa7e9b32478752924624333d063a305deb6df9d8b740&req=dSYgEc18nYhdWfMW1HO4zVxcJEe8oUEUDAYetAYdWLWJLgMXO9UuQm5M35Ct%0A1nTL%2FuopBupgj5AOm%2FE%3D%0A
+
+- Select a shift that corresponds to the date (far-left column) and the employee name (top row) you need to edit.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1677420918/ad07c2b1c2be6d967480f8ed0644/image.png?expires=1763568000&signature=3b0ee4f76283059591615d0d6c8c3cc1d6b0e10d9d5e2a2675ba73fa55e9c8b0&req=dSYgEc18nYheUfMW1HO4zXlEsyfCUO%2BUQfRcTqsRT8VhTnq9JDa20y1yicxl%0A8IOgQcjhs2BVUnLUyBA%3D%0A
+
+- Next, click directly on the In or Out fields. You can select a time from the drop-downs or manually enter the time into each box.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1677420917/962d4544d340324e6423353b80dd/Screenshot%2B2025-01-17%2Bat%2B12_58_25-E2-80-AFPM.png?expires=1763568000&signature=4a7207ee38eb8d44471fb15a578ea3c79f38b8dc1d2c42e341dd9c8fa7ee5b20&req=dSYgEc18nYheXvMW1HO4zTmgpeca5YF3Gr4nEW7vmBWlaiR%2Byb279aoTSalO%0AzaYpvFghuQkrkZpLa%2F4%3D%0A
+
+- If you need to add a new time entry, click + Time Entry and adjust the in/out times as needed.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1677420915/ae361c3784169bebbf11b8fe5b1b/image.png?expires=1763568000&signature=b0eb64c69ddc9913027b084069d76886e4821810c7aba9b1538a0b0506de0b13&req=dSYgEc18nYheXPMW1HO4zdKVqnegKi7gvUn9n%2F8sj18JtdOgfpQ0kTNgYIbN%0AybENl795qQ1Om31q4Wg%3D%0A
+
+- Click Save in the bottom right corner of the timecard once you're finished!
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1677420922/e68215f2e766eb0faee89cac2218/image.png?expires=1763568000&signature=cc99da2a0243588857172c18279ba701d10692d0d44e821954c7677d0d989da6&req=dSYgEc18nYhdW%2FMW1HO4zfBgEzs%2FJqKSNDn934sYtkL40Gfi5aOkvan4WEtI%0A7tKYf6T2ttf3JlS5VH8%3D%0A
+
+---
+
+View Employee Clock In/Out Locations
+
+To view the locations where your employees have clocked in/out:
+
+- Click the My Apps icon (3x3 square) in the top right corner of your Housecall Pro account.
+
+- Select the Timesheet app. You'll then be directed to your timesheets.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1677438566/d2d88d88779c97e82c571c5d3f53/image.png?expires=1763568000&signature=9d65af0cd86995db19a55135db7ba9a01b59aef0c9800688e8febe6d16a4573b&req=dSYgEc19lYRZX%2FMW1HO4zXQfAStpqd1CU8wnL9A2dwHaRujIbnAugL57%2BCLl%0AMvBhZ7YIRyriIpspm90%3D%0A
+
+- Select a shift to view its clock-in/out locations.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1677438569/94aba4a1955c6c1724100550e6ed/image.png?expires=1763568000&signature=a882b2496ee715e7c309fb146e6e39e36fd6ad82960ae4603293d028f8a0cf5f&req=dSYgEc19lYRZUPMW1HO4zfvynwOxmcXIdbIHsQXtN91g9HfJwTL4kPDlouva%0Ags5pNzZyNlfHmQ3YGH4%3D%0A
+
+- Clock-in/out locations are displayed in the Timecard window (provided location settings are enabled for both the Housecall Pro mobile app and the mobile device upon clocking in/out). ​ - Green pin: Clocked in location.
+- Red pin: Clocked out location.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1677438584/231bccd998afbe89c50d9d14bcac/image.png?expires=1763568000&signature=d83e643a7cd6037c8ba6feef07db2efa3cfda5fb9303da1029bc3f29289133ee&req=dSYgEc19lYRXXfMW1HO4zRh0k0ZQ4306sV0c4LKtH%2B9Xk7UBKrAAVjHWWp4s%0AT0BdIXyyikzl3btStwM%3D%0A
+
+---
+
+Delete a Time Entry
+
+To delete a time entry:
+
+- Click the My Apps icon (3x3 square) in the top right corner of your Housecall Pro account.
+
+- Select the Timesheet app. You'll then be directed to your timesheets.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1677438570/271ef96be851c82a27a15c66d8b3/image.png?expires=1763568000&signature=5965be63949a9af7230611b6aa0814d14b44a717077eb4e17599da400a3ae01d&req=dSYgEc19lYRYWfMW1HO4zclqx%2FSHbXBxukvNYrm8Yfr50ehnD1Ba7UX4DkCd%0AGNhXNG%2BRZ1wmUct1sbQ%3D%0A
+
+- Select a shift you need to delete a time entry from.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1677438572/255cd4f88a954bee72e229fa4b7b/Screenshot%2B2025-01-17%2Bat%2B1_13_24-E2-80-AFPM.png?expires=1763568000&signature=b33840975369ddd7734a47609c567076bc1747e23e65355dbcf306fe2a7d01ac&req=dSYgEc19lYRYW%2FMW1HO4zRk2VWDL018v6bNDrWTcendzn5Vr8S0vJxkfb%2BWL%0AU6rm077O8KZwP5jjExY%3D%0A
+
+- In the Timecard window, click the checkbox to the left of the time entry you need to delete. - Select multiple time entries by clicking the checkbox next to each one. 
+- Select all time entries by clicking the checkbox to the left of "Hours" at the top.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1677438562/4b649a8f179285681e505b067b1b/image.png?expires=1763568000&signature=0b53e28ca236a6e474e6b1b55381dfae0e15ce8254754ea23e0f212abef41ef1&req=dSYgEc19lYRZW%2FMW1HO4zTdH4GYbKockU03BbFgNVdl2CmKgsG0CFN2ClzLR%0ArRfzPugTqsMC3MLElL4%3D%0A
+
+- Next, click the trash can icon on the upper right side of the Timecard window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1677438557/b349c1d7f2cb5e6cbf979b02fcef/image.png?expires=1763568000&signature=a27b80cb162b83ee98d49caa350dbedb29d34f0a34fa2fdf19099f06a34a8207&req=dSYgEc19lYRaXvMW1HO4zZLX7%2FgXSzF7knQm9vPxkSP2%2FAcYtIbHJ19vT63%2F%0AosQ%2FDfSWY%2BduyMrLk34%3D%0A
+
+- Select Delete in the confirmation window to delete the time entry, and that's it!
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1677438563/0b906a81b85df3d32a7edfe8ec00/image.png?expires=1763568000&signature=dd558f659354e766cf327e339bdbac683a6c1850e08628160ebed3e1bf890ed6&req=dSYgEc19lYRZWvMW1HO4zcvBaUqYnkMUQNDdMOwUDFgVZhz3IEuxkTSVYMdf%0A2rALKtY4NCbJgjqN4gg%3D%0A
+
+---
+
+Mark Hours as Paid or Unpaid with Timesheets
+
+If you're manually tracking payroll hours through HCP, you can mark hours as Paid or Unpaid by following these steps:
+
+- Click the My Apps icon (3x3 square) in the top right corner of your Housecall Pro account.
+
+- Select the Timesheet app. You'll then be directed to your timesheets.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1677438568/f1ccc746480b998bbf99f44d4030/image.png?expires=1763568000&signature=fe62e4e5da3b59b55eda3234c1486d822c77205021c5624bcb50f0795b9c5a1c&req=dSYgEc19lYRZUfMW1HO4zZRPEjQZmUJM3BmBjG2czAFTJtERxwVtnqQFuo9Z%0A7DkXPOi%2F313NrN3Lm8k%3D%0A
+
+- Select a shift that you need to mark as Paid or Unpaid.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1677438564/1f834d0c67b0294fd54b2564be52/image.png?expires=1763568000&signature=ee3067f58064efe22acb0d067d4a5648db1d0bb08c8c80e453f308ec8a4616b5&req=dSYgEc19lYRZXfMW1HO4zf9kvZocA%2BtullvlpF8RZd8lMKl9F6Ut48%2FeeqUz%0Acv9VVYWqM33q9LUM%2BXk%3D%0A
+
+- Next, click the checkbox to the left of each time entry in the Timecard window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1677438571/8a2aaf018d00c0ea7ae6df4c7d37/image.png?expires=1763568000&signature=8660f29e789518bbe02cd87faa8a6d351ab5bb1a51240bab722a90407cd0f6e9&req=dSYgEc19lYRYWPMW1HO4zQxdT2%2BqHfAhwb7YUE%2BCpJEPsdia2ZRFBkKcKeL0%0AxrPsMl0JeyG6ChztTAc%3D%0A
+
+- Select the hour type (regular hours, overtime, or double overtime) under the Type column by clicking on the drop-down for each time entry.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1677438567/6b4e63efddb98e1dde6bdeccb38d/image.png?expires=1763568000&signature=867c271f6ab496423f39f200e3d4394c32d555e2086d1e4681e2202a606f0364&req=dSYgEc19lYRZXvMW1HO4zUGqUREwJxMZnYv3a8tjqHAaPowAOqMCfWho3r%2BY%0AYqE%2FGBnJclfP6JGfOvc%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1677438565/fab42a5d62f1d93b563ac7a28a35/image.png?expires=1763568000&signature=421c56215d92f8b9e43c86c5d6aa2df635a34d7c754a6e029fc1c973fd63c368&req=dSYgEc19lYRZXPMW1HO4zfRoAzTiIKaIh1Y3au0KGaCLDWtdLG4iXz7BoysU%0ABR%2FRl5UbNqUtuZ5uxVg%3D%0A
+
+- Once the time entries and hour types are selected, click on the Paid icon or the Unpaid icon in the upper right section of the Timecard window. - Paid icon: Dollar sign with no slash.
+- Unpaid icon: Dollar sign with a slash.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1677438559/8b4a04d65f49082f23ee19656224/image.png?expires=1763568000&signature=dddf96524896d777c01ade5a04ff4cea40212f949987c241be1fcabbd2ddd693&req=dSYgEc19lYRaUPMW1HO4zY4AJ22VuqKp36vKlniP6jRkBZ3znZhAJb40p1ko%0AuqmIsGBL%2B8GkhNapYEo%3D%0A
+
+- Upon clicking the Paid icon, you'll see the word PAID above each time entry in the Hours column.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1677438558/48dda7218828446575f0a3d5737f/image.png?expires=1763568000&signature=36e7bdf95b3a4f1586d1f6ea360fb0f7c1b481d39a56b976148daba3f6cf8c08&req=dSYgEc19lYRaUfMW1HO4zQDs9YNBqxhLf3qau40WWyrcoPBIbv6d1CmifODl%0Am4wxUkJUmcqIXgUxBt8%3D%0A
+
+- Finally, click Save in the bottom right corner of the Timecard window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1677438561/b97c929a9176194deb5c60bded7a/image.png?expires=1763568000&signature=7a884c11d22965f5552a3c076102e1bcb73f6d3d0f29aaac8f95d528b8074df1&req=dSYgEc19lYRZWPMW1HO4zVdP%2BgSYhmPpP%2BaHxhOWCXLw2vf3qOOSDTzvpFUG%0ALTssO9OeBE0%2F6mfN9OU%3D%0A
+
+- You'll see the changes reflected on your employee's hours for that shift with the word Paid and hours in red.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1677438573/0c562802750f12ee06f003bf2d5c/image.png?expires=1763568000&signature=eaef5514910c43dd230a1aa7bc07529f1bc8db3ea90a54141655207cbb513e0c&req=dSYgEc19lYRYWvMW1HO4zSezcPKp0Cnx9aCcakIQLQqnAlCQjWOmM6zaCfjx%0A%2FRmVhAVUHKvjoFIsqAg%3D%0A
+
+- Repeat this process for each shift you need to mark as Paid or Unpaid, and you're all set!
+
+---
+
+---
+
+Travel and time on jobs Feature
+
+- This feature allows all employees assigned to a job to track their individual travel time and time on the job from the HCP Mobile App. Each employee assigned to a job can individually indicate when they are on their way, and when they start, pause, and stop their work on a job.
+
+- Housecall Pro will track both Travel Time and Job time. From the HCP Mobile App, whenever you or an employee presses On My Way, Start, or Finish. We date and time-stamp when this action was taken so that we can track the time a job takes.
+
+- Enabling this option will also give your company more accurate reporting on total labor.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1634644871/01d1ad97163873f523f700b5c21d/image.png?expires=1763568000&signature=3f79e1939d52194b7e609036f9cd5ccb98c0936008dd9760b1eccda40f044193&req=dSYkEs96mYlYWPMW1HO4zSgxEa1ZFcv25kmpGkErQAOll3RvH3%2FOiXNH4AvU%0Apr25igA82ez1rUk5F00%3D%0A
+
+---
+
+Track Travel and Time on Jobs
+
+To start tracking your travel time:
+
+- Tap On my way on the Job page in the HCP Mobile App. This will begin the time it takes to travel to the service address.
+
+To stop tracking travel time and start tracking time spent on the job:
+
+- Tap the Start my time icon on the Job page, to the right of the 'On my way' icon.
+
+[Image] https://downloads.intercomcdn.com/i/o/497411786/8446ca73ace057798f24f8d6/start.gif?expires=1763568000&signature=b18f3ece6b7b8a912dc874c7b1cff899705b148565f7630ba5f6552efb676122&req=cCkgEsh%2FmolZFb4f3HP0gPsiPLuO23xb%2BfpsHAjSIYwyBoV7Jnio1NBkftOW%0Ai%2BVh8JN%2BmqnraJvY6g%3D%3D%0A
+
+---
+
+Pause a Job (HCP Mobile App)
+
+This functionality ensures that if a job time needs to be paused before marking the job as finished, employees on the job can do so while also keeping a record of the paused time. This also ensures that, if multiple employees are working on a job at different times, they can all track their start and stop times independently of finishing a job.
+
+To pause time on a Job:
+
+- If you or your employee needs to leave a job without marking it as Finished, you can tap on the Pause my time icon to temporarily pause their time on the job.
+
+- You can then select a reason for why you are pausing your time, as well as leave a more detailed description in the Note field. Available reasons include: - Completed my work
+- Material needed
+- Break
+- Other
+
+- Once you return to the job, you can tap Start my time again to continue time tracking.
+
+[Image] https://downloads.intercomcdn.com/i/o/497415203/ea5ede4169ed6a2278edfa57/pause.gif?expires=1763568000&signature=27f2bac5550878ec8ca9251b1979ee521edd8e3f1d18c60baa9181e13e4fdb9d&req=cCkgEsh7n4FcFb4f3HP0gJsfscvtG%2BM3C7qnOwujO8lt60MBfFee04PttQc2%0Akv2jvtBm0aPb60IpFw%3D%3D%0A
+
+---
+
+Finish a Job and Stop Tracking Job Time
+
+To finish a job and stop tracking job time:
+
+- When a job is complete, tap the Finish Job icon. This will automatically stop tracking time and will mark the job as finished. 
+​
+- Once you or your employee has tapped the Finish job icon, you will see the calculated Travel Time and Job Time. Employees' total travel and time on the job can be viewed from the mobile app and web portal.
+
+[Image] https://downloads.intercomcdn.com/i/o/497417134/3639344f12646af423635a79/finish.gif?expires=1763568000&signature=34535510329c8f8708e802d9af65f70ce6313dfc595724c1b2f5ddfbb7a9da90&req=cCkgEsh5nIJbFb4f3HP0gF5N4HpPok%2B9Khhxam8MlhAakN9HfXnxnNZ6fSlo%0AVp0qIcI4EGFmFMvFdw%3D%3D%0A
+
+---
+
+View Time Tracking on Job History on Mobile
+
+To view the job time tracking history on the mobile app, anyone assigned to the job can:
+
+- Tap the Time log section to view the Time Tracking status card. This will provide a detailed history of your time log, including total travel time and time on the job.
+
+- If needed, you can edit your Total time by tapping the pencil icon.
+
+[Image] https://downloads.intercomcdn.com/i/o/497428478/cfa3bf1af7bd24343c2a366d/history.gif?expires=1763568000&signature=370e4eda493b5129f320b491a8742e2721dd4f607a47dbc989bb15c5d8c7e4a0&req=cCkgEst2mYZXFb4f3HP0gFi7AYKXIrG6X%2BcbAQ1F9cBYZrDISy5zgx6zHBe9%0AehV2ahZXxsJi7I0FFw%3D%3D%0A
+
+- Anyone who can see a job on the mobile app can also view the status and total time metrics for assigned employees right below the schedule widget.
+
+[Image] https://downloads.intercomcdn.com/i/o/497432343/decff64f635e835e3ec12f09/IMG_3173.jpg?expires=1763568000&signature=5cc3682cd5c7366410bd4869fe86dd6af77a97e4275ff22b2570e7710717ace8&req=cCkgEsp8noVcFb4f3HP0gLe55tHLseMvAqm%2BwCs9P0mvA%2Bwl486p3AxNDjfC%0AKsl0pEcTKizHcDsaFg%3D%3D%0A
+
+---
+
+Viewing Time on Jobs You're Not Assigned To
+
+When an employee is not assigned to a job but is able to view it from the mobile app, they’ll see the job workflow along with timestamps for on my way, job started, and job completed events. If they want to trigger these events, they can as well.
+
+They can then see specific status updates for each employee on the job below the schedule.
+
+[Image] https://downloads.intercomcdn.com/i/o/572614240/6366647c1a67179bfac88453/IMB_VmAWPQ.gif?expires=1763568000&signature=faa70c37ae5912acbfed1fdb8aadcdeceabc56563634d27d4deff8cb7692b962&req=cSclEMh6n4VfFb4f3HP0gKM5iG59eIS07n%2Bj9%2FaGmUBXkWgRxTUGZhr83Zn1%0AGC9gwr6M0id7ySnOvw%3D%3D%0A
+
+---
+
+Location-Based Prompts
+
+As long as you have enabled location sharing within the HCP app, we'll send reminders to start and stop your time when you arrive or leave a job site!
+
+To enable location sharing for Time Tracking notifications:
+
+- Navigate to your device Settings.
+
+- Tap the Housecall Pro app.
+
+- Tap Location.
+
+- Select Always.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/446016017/8b6a31bab12ef0558bff61ac/IMG_1D28F231F004-1.jpeg?expires=1763568000&signature=9e1ea08e600b13c2664034bef0db7be563110c50f0d9e97292eef4ba6d9733a1&req=cCQhFsh4nYBYFb4f3HP0gMFML9t%2FcissRL1hn%2BnAlrKH6TaH2ZcmimPWafYI%0ABXk%3D%0A | [Image] https://downloads.intercomcdn.com/i/o/446014507/9fad710075b73c8e80b779ec/Screen+Shot+2022-01-10+at+11.06.58+AM.png?expires=1763568000&signature=5f27f4884e6be579afa49c068519d0c58ca8a6e7d88027af062c36c746fc39e4&req=cCQhFsh6mIFYFb4f3HP0gDjIgvbIObXVQwhaHjNhrqPVRMMWOtJkOA17oSdU%0AVZM%3D%0A
+
+---
+
+Time Tracking Metrics on the Job Page
+
+When using the Travel and Time on jobs feature, our system can track the time from when an employee taps On my way, to the time they tap Start job, to the time they tap Finish job. This is available on the web portal and in the Housecall Pro mobile app.
+
+- On the Housecall Pro web portal, you can see the timestamps of each step under the OMW, Start, and Finish buttons on the Job details page.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130618542/815aba3b79e5f5f01a5b6282/image.png?expires=1763568000&signature=7bc5b2ea45a2c9135c5a4d882cdada49e54690b499f0fea09ff4089a8dd065c5&req=dSEkFs9%2FlYRbW%2FMW1HO4zdCDp5JDfAB7TF2cRGAJrhzewgseYC%2FAs%2BViltVe%0A1qZrADil4WAqJJKit58%3D%0A
+
+---
+
+Field Tech Status & Travel and Time on Jobs History
+
+Within the Job Details page in the Housecall Pro web portal, you’ll be able to see the Field Tech status of each employee assigned to the job, which will give you a more accurate account of total labor time.
+
+From the Field Tech Status table, you can review:
+
+- The name of each employee assigned to the job.
+- Each employee's status on the job.
+- Each employee's total travel time.
+- Each employee's total time on the job.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130651173/b1bab5ea745da7215d18560f/image.png?expires=1763568000&signature=3859df66406b82ea774349085a625b5568ccc865d65ecf62541abce034133552&req=dSEkFs97nIBYWvMW1HO4zURi4E6RT9jScK8GHJYaGrVCtt8oQaXnjwt%2Faqoy%0A14zXsGmG485GJjXV%2BbI%3D%0A
+
+---
+
+View Time on the Job History
+
+For a breakdown of each employee's Travel and time history on specific jobs:
+
+- Open a job to view the Job Details page.
+
+- Click on each assigned employee's row in the Field Tech Status table at the top of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130673790/8662cdf9048c2dca9d7e50a1/image.png?expires=1763568000&signature=229757040bfb3aaa376aa3385349044ea21633300c858a89168f22fabed9e4f5&req=dSEkFs95noZWWfMW1HO4zaMH%2FrB0E8VUXVldbvuKKU2rS0SK6mxQIJmai9IR%0AdPttRohQ1iHVc3aRVF4%3D%0A
+
+- This will bring you to the Field Tech Details page, which gives a more detailed time tracking history per employee.
+
+---
+
+Edit Travel Time/Total Job Time
+
+To edit the Total Travel Time and Total Job Time on a job:
+
+- Open a job to view the Job Details page.
+
+- Click on an assigned employee's row in the Field Tech Status table at the top of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1340440106/e63d6613ca5c8a729dd79f0221db/image.png?expires=1763568000&signature=0006760efed925fdaad2f760f5c09e371d6d542dfcfe88a21d8936d9a97c3a8d&req=dSMjFs16nYBfX%2FMW1HO4zW%2FepjgGZkkO5TSQrTr0MzyOmToACLBAy71r4JTE%0AHKn5SDPhscTU3pyASmY%3D%0A
+
+- This will bring you to the Field Tech Details page, which gives a more detailed time tracking history per employee.
+
+- Click the Edit button in the top right corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1340450512/34da847d23652496d5daf1f06f75/Screenshot+2025-01-17+at+1_50_36%E2%80%AFPM.png?expires=1763568000&signature=dc9658eb8464ffd57fc1b04b64af6b42ac2915bb4fac899f52e41b066d857b58&req=dSMjFs17nYReW%2FMW1HO4zSdL6tohKZvhLcy6HakBvBspfrEoby1wENTSdSXk%0ANov9Uuu6VMT0sJTidCE%3D%0A
+
+​
+
+- In the Time Tracking section, manually adjust the Total Travel Time or Total Job Time by entering the hours and minutes in the fields.
+
+- If you’d like to provide a reason for the adjustment, you can add a note in the notes section.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1340453746/44357320dfadc99f8834610b1a6a/Housecall-Pro-01-17-2025_01_53_PM.png?expires=1763568000&signature=235077122e5f55c2e9a901dadad96d933a9fae941d015053906ae17d9afc9370&req=dSMjFs17noZbX%2FMW1HO4zR6AK12413x3a89rQqSaEUno7xb%2FJlqd1th%2F5nYe%0A2P6%2FqH1UxNU7ek05IFY%3D%0A
+
+- Once the adjustments are made, click on the blue Save button in the top right corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1340457690/7c282f32dffced5dda53e84afbe9/Housecall-Pro-01-17-2025_01_56_PM.png?expires=1763568000&signature=eee97b464df4377b52ce22af1a8a18b552167e83436599bcc54e4e98709ec3a6&req=dSMjFs17modWWfMW1HO4zfYe51J2bYDKlX%2FLsjqfyzjZ9RiK5GgYIWEgw3rp%0A8h%2BkZn4Jtc65NnldO%2FY%3D%0A
+
+- Any adjustments made to the Total travel or Total job time will then be shown under the Edit history section.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1670594224/6e06a4874b446ee48bd96eea1543/image.png?expires=1763568000&signature=5f7ab4159dc4dab933b2bb16bacb8e61cc6487e2011e201d106e0662e4a4b18a&req=dSYgFsx3mYNdXfMW1HO4zfGhw4hn0nVaDd10VReV3uFP9QmfqimK2JKlCb2p%0AKQdibBuL4q%2BoizXVvp0%3D%0A
+
+- To exit Editing mode without saving changes, click Cancel in the top right corner of the page, next to the Save button. You'll then be taken back to Viewing mode.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1340460813/baef5b02415c0b6b26656e5fb4bb/Housecall-Pro-01-17-2025_01_58_PM.png?expires=1763568000&signature=9be45639b71feb7e2e686824fe51d75b5f34c6431a0ad02bd7359a8e8c529b62&req=dSMjFs14nYleWvMW1HO4zfdKttfPAS1lJelaEFy7QO3OF9S7ktl2sWkJuBuG%0Az3eH7u%2Br9GCozO70Ikc%3D%0A
+
+- To leave this page without saving any changes and be taken back to the Job Details page, click on the X icon in the top left corner of the screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1340466205/c3beefdc819e44ad91f190d5c9cc/Screenshot+2025-01-17+at+2_00_09%E2%80%AFPM.png?expires=1763568000&signature=ce7d417fe9d6889e8b27d2c7ff8cd6d26ce4ef474d9b25ceef5faa8511226ef8&req=dSMjFs14m4NfXPMW1HO4zTdoaPqEIqo3SbC23%2FE%2Fam8LI%2BSfg8Nl%2B%2FyDOPwB%0A1Dpuom%2FOwfmkOou9lBM%3D%0A
+
+---
+
+---
+
+Timesheets
+
+---
+
+How to Access Timesheets
+
+- The easiest way to access your Timesheets is to click on the My Apps icon (3x3 square) in the top right of your screen, then select the Timesheet app.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1538194262/ecd36caea0cd0c072f8a01c59e0e/lzqpDvgCiuQAUMNqqTjKm1qIFiKVDbzZdRcostO9orGtQgqjOXU5cOaokHciAEuu_qMM-IIPqcn5YkfK1ABOSgLHQ0IDl4BpDm9FdKBZGUbEaqW5eWYiH1BZSEr9y56BirWllive0rm_mh4Mx1kzcwA?expires=1763568000&signature=a66d168bc8e9f35ac98ca117909c93b63d28119fedb0867efddb9afb252ee5e8&req=dSUkHsh3mYNZW%2FMW1HO4zXGQ1TsuwC1PRqyYuljUEIX8VPWbGwnZDm6U3NTZ%0AzN3XQAPFTrTHZ8%2BWWmw%3D%0A
+
+---
+
+Add a Timesheet Report on the Dash
+
+If the Dash is available on your account, you can add a Timesheet report widget to your dashboard by following the steps below:
+
+- Go to the Dash tab in the top navigation bar of your Housecall Pro account and scroll down to the bottom of the page.
+
+- Locate the Add custom report widget and click the blue plus icon.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1538269150/4522b6e565ffdcf41541cbf295bb/Screenshot+2025-05-23+at+12_01_28%E2%80%AFPM.png?expires=1763568000&signature=b359dda6fa35e03af83641ad67d40fd143babc6ba7cc33ecea5b8b788ba3a065&req=dSUkHst4lIBaWfMW1HO4zZKuQZFpWtYeGkc9x5%2FuDcfvAIiJMjgGO%2BkImxW7%0A4Q%2B6Gmb0fABqRq26aiI%3D%0A
+
+- The Custom report templates window will appear. Click Add on the Timesheet report template.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1538269822/d5be4a861e3415ee48f47d1a8af3/Screenshot+2025-05-23+at+11_56_55%E2%80%AFAM.png?expires=1763568000&signature=ac8384fcc99d6c268e25b868a51e862fcaa9aa276ba31d027bbeca84452eee9a&req=dSUkHst4lIldW%2FMW1HO4zbZD0U54gNbC0a66yVYSJrGExaHHFX9Ynh%2FBp4N5%0AAOChil3k%2BcJYxFPB9k0%3D%0A
+
+- The Timesheet report will now be available as a widget on your Dashboard. Click the eye icon in the top right corner to view and edit the report.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1538293708/1b3ed6278e6bded3f74c8ec22d76/Screenshot+2025-05-23+at+12_26_03%E2%80%AFPM.png?expires=1763568000&signature=158db1b4c81c8aa0fcdd82a5f830dfadfd38a9fff42ca777b54e2bb8ff40ebbf&req=dSUkHst3noZfUfMW1HO4zcjmEBq8EjgSrZ%2Fh83fcnDmnnyfHqomClJeL%2F5kC%0AqB6osieA9VCQJCZ70ac%3D%0A
+
+- From here, you can select the time period for the report by clicking the radio button to the left of the options in the upper left corner of the page: 1 week, 2 weeks, Month, or Year.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1538370115/e0f39332385328a0ebb81ca3e53a/image.png?expires=1763568000&signature=60811d10794b7846485a3005b64615bc669e884bc1ef1b89a254da22b8821ae2&req=dSUkHsp5nYBeXPMW1HO4zRVQKKpxu%2BMjBb7lSMf4SJiARnpQ4JIyy0YAB%2FZm%0AtMxyE0LrxL0BuNi80fY%3D%0A
+
+- With the time period selected, click Save Report in the top right corner of the page, to the left of the Export button.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1538370117/3a34181c7b065ba51dca3411b810/image.png?expires=1763568000&signature=d9afdba8705c04e87895555c3c10ac60a36f5c2d33b13d0cb9a380b58eeb9708&req=dSUkHsp5nYBeXvMW1HO4ze2prRwWXf55R%2BorjIEZuB7Q%2FE49dewtfQOVCuyQ%0A6IHoiDoweJobbR1JPSg%3D%0A
+
+- If you don't see the Timesheet Report widget on your Dashboard, you may need to scroll down to the bottom of your Dashboard and click Show More to view additional reports/widgets.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1538370111/12a6c0fa6057174fbfa76843e80e/image.png?expires=1763568000&signature=feb38984240661074b49a95900481817d7070bf5ec5267c243a989fac1be2de9&req=dSUkHsp5nYBeWPMW1HO4zXO6320DohjdCR%2FX5Lp4sbot2dF%2BGeFfNVIUXfOM%0ARRUt3GrplEvclXenuAM%3D%0A
+
+---
+
+Export your Timesheet Report
+
+A Timesheet report gives you a detailed view of your employees' time entries and total hours and is available from the Housecall Pro web portal.
+
+To export your Timesheet Report:
+
+- First, navigate to My Apps by clicking on the 3x3 square icon in the top right corner of your Housecall Pro account, then select the Timesheet app.
+
+[Image] https://downloads.intercomcdn.com/i/o/1129353296/7f11298b31d3d27d42ddd0e2/image.png?expires=1763568000&signature=26093719ad2aa68683fa7820bd0074b1bf6e4c1827eb5035a9de8a6b92f032f8&req=dSElH8p7noNWX%2FMW1HO4zTNEi%2BWawMpf%2BtYjGDuO3X0gync%2F0h7FACa9lsZ%2F%0ABuiIO7ueBql%2B%2BR8mKH4%3D%0A
+
+- From here, you can select the time period for the report by clicking the radio button for the options: 1 week, 2 weeks, Month, or Year.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130831993/e53ff881565c15258ac06b9d/image.png?expires=1763568000&signature=5a2d5083a8a198c3be0c87feffbc5ba6795927b710bb25082558a9d398282a10&req=dSEkFsF9nIhWWvMW1HO4zbSyycbL2uVqA6e6QJz4j7vCbtfncgnSqXLN8jWt%0A8pzFzbCsPgt9AYFVEro%3D%0A
+
+- Next, select your report dates by clicking the dates in the From and To sections at the top of the Timesheet app. A drop-down calendar will appear where you can select the date for each one.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130841471/89033a2a92f17381397c941a/image.png?expires=1763568000&signature=19323545771e671a044b42f0e59c91af8082ea18421c14568b7d477dde9ea015&req=dSEkFsF6nIVYWPMW1HO4zU%2FhIU1pJdArbr38kKv4V%2Bda38h3YGLLmzQ3xi4p%0A2Hep3ZF5JEfvCl3kSpw%3D%0A
+
+- Once the time period and date range are set, click the Export button (downward arrow over a line) in the top right corner of the page to export your Timesheet report.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1340472014/6fb676ae9aff87d3d2a5cef0ea38/Screenshot+2025-01-17+at+2_05_51%E2%80%AFPM.png?expires=1763568000&signature=f3cf9ad68f37d058a12a99a3fc9e016c3611878830cc1d3d63f257ee19c17228&req=dSMjFs15n4FeXfMW1HO4zUfaieIXrZUGqmUPdJT390cx3%2F3BvrcNuXw2gnDY%0A1eZ%2BKLzStTHNO0TU2Hs%3D%0A
+
+- The Export time tracking data window will appear, confirming the export and the email address where the report will be sent.
+
+- If everything looks good, select Export in the bottom right corner of the window.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130853747/24ef808b90144d238548057c/image.png?expires=1763568000&signature=0ab87279a63f4a88ca0360d3b2ba8674b658e76b0839a2b158a990be05e087a5&req=dSEkFsF7noZbXvMW1HO4zcgjM2MFj7ob%2BtmyMu%2BPDdFrNbQY%2BTaLdhUKFAAY%0AEYlzvhiPKdmSsxI7jO8%3D%0A
+
+​
+
+---
+
+Check out these tips on attracting great employees to your company!
+
+---
