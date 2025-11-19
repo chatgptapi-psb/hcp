@@ -1,0 +1,84 @@
+CallRail Integration Overview
+Source: https://help.housecallpro.com/en/articles/4550900-callrail-integration-overview
+Author: Taylor M
+Last updated: Updated over 2 months ago
+
+Summary: Learn how the Integration between Housecall Pro and CallRail works.
+
+How the integration works
+
+CallRail is a marketing and analytics software that helps you manage and track all your leads. It keeps track of your phone calls and recordings, and marketing campaigns.
+
+Track your phone call conversations to provide a better customer experience. You can also track marketing campaigns to know which marketing ads, keywords, and campaigns bring valuable leads over the phone and on the web.
+
+[Image] https://downloads.intercomcdn.com/i/o/257220586/5eed67a632309bf489adc588/image.png?expires=1763567100&signature=ef9f916e0f902bb6c7740f537cb8fb6865a23beed13b70b38214c3cfbf42d1cc&req=diUgFMt%2BmIlZFb4f3HP0gK0%2BY52LSi5HYRRBg2O1x9sg3Ce4R6dZWFHyKQO0%0AN3l6%2Btttgp%2F5JHxhDA%3D%3D%0A
+
+- Make sure you’re on a Housecall Pro Essentials plan or above (formerly Grow)
+- Sign up for a CallRail Account
+- Set up the Housecall Pro Integration
+- Start dialing and receiving calls
+
+With the integration, CallRail has the ability to look up incoming phone calls to see if the person calling is already within your current HCP customer database. Once the phone call comes in, you'll know who's calling because your Housecall Pro customer database is synced with CallRail.
+
+When a call from an active or returning customer comes in on CallRail, the notification will pop up on Housecall Pro and let you know who’s calling you. When you click on the notification, you’ll be brought to that customer profile. You will be able to see what jobs you’ve done for this customer. Because of this, you might already have an idea of what they are calling about and can better understand their issue.
+
+[Image] https://downloads.intercomcdn.com/i/o/257221937/54b0e285840c308d9048f930/image.png?expires=1763567100&signature=b1e411addadad454b4258a77bc850aeaf908f59d62da06b7ef893851937ad7da&req=diUgFMt%2FlIJYFb4f3HP0gCLfOxP%2Bbq%2FpJ%2BTSXSuGFv7tcmAEgldDt3Ln1Kfq%0AY2X%2Bp%2F0aD1Cv3AD%2BEQ%3D%3D%0A
+
+To learn more, check out CallRail's website for trial information and to speak to one of their representatives.
+
+---
+
+Connecting Housecall Pro and CallRail
+
+Connect your Housecall Pro and CallRail accounts to bring call tracking and recording functionality into your Housecall Pro account.
+
+How to activate the CallRail Integration
+
+- Log in to your CallRail account by going to https://app.callrail.com/authenticate/ and entering your CallRail credentials in the designated textboxes, then clicking the blue "Sign in" button. [Image] https://downloads.intercomcdn.com/i/o/998347441/cfd2ff976814b4ab2bf55ae7/Screenshot+2024-03-21+at+09_37_42.png?expires=1763567100&signature=62b8c6efb18f5efcd1ec2da2c0013877e4e10b89fac741ef80ad5f75852c3558&req=fSkvFc15mYVeFb4f3HP0gNLYVM8wUBPgiyIzAg3NsmV5B3ZMh3ZxpplQcppR%0A2Qg%3D%0A
+- Once you've logged in to CallRail, click the settings icon on the left side of the screen, this icon is represented as a gear and lightning bolt, and the word "Settings" will appear if you hover your cursor over it. [Image] https://downloads.intercomcdn.com/i/o/998354396/971152a0c66e68c913684077/Screenshot_2024-03-21_at_09_41_19.png?expires=1763567100&signature=5c174942da77f002d2e2878aca502c834d1e503dd21431e49d0ea59b7185afc3&req=fSkvFcx6nohZFb4f3HP0gKeyP%2BdbeeLO7bJexoW4A4tR3vJShSXqxkjaOIds%0AgcE%3D%0A
+- If you have multiple companies using CallRail, use the dropdown in the upper right corner of the CallRail Settings page to select the company you would like to integrate with Housecall Pro. [Image] https://downloads.intercomcdn.com/i/o/998357228/08c312a83970d21528ddd301/Cursor_and_Numbers___CallRail.png?expires=1763567100&signature=9287dca6763514d715725f5cffb75100f2b7b71559d171199cfa7f1124fd08fe&req=fSkvFcx5n4NXFb4f3HP0gAraurXRszJbSlVIEuK1Xwp77r4i1p80EKcBDd3t%0AO9M%3D%0A
+- Once you have selected the company you would like to integrate with Housecall Pro, click the word "Integrations" at the top of CallRail's Settings page. [Image] https://downloads.intercomcdn.com/i/o/998359332/10989b6883c7e8bb2c797e6d/Cursor_and_Numbers___CallRail.png?expires=1763567100&signature=fbbc8fae40e20014c1210a824612947b05235db5d0fd9752651b239ab4fead63&req=fSkvFcx3noJdFb4f3HP0gKwnQ2Q1Xe24EgaxPJP8ZaqxEsi3sATptroSf7IP%0AudU%3D%0A
+- From the list of integrations, select Housecall Pro. CallRail's Integrations page does have a search bar in the upper right corner that you can use to help locate the Housecall Pro card. [Image] https://downloads.intercomcdn.com/i/o/998362143/4b22a1f473823aeae1b3a768/Cursor_and_Integrations_library___CallRail.png?expires=1763567100&signature=f36a97cd46aab59af2831730ed7e5bcb6b7bfcf4bb49ffb278b9decd9297c6e7&req=fSkvFc98nIVcFb4f3HP0gMhT5ZcfEEEFPwvRlc88i6B0NiXahP1grh0rjJ2v%0Ato8%3D%0A
+- From CallRail's Housecall Pro integration page, click the blue "Authorize" button to be redirected to a Housecall Pro login page. [Image] https://downloads.intercomcdn.com/i/o/998364794/842b663bbc021dbc1abf5b25/Cursor_and_Housecall_Pro___CallRail.png?expires=1763567100&signature=cea8535d39f7096222a99c716511b05a1c8940c6d5ba85734861c0e864be8710&req=fSkvFc96mohbFb4f3HP0gOEkrn1qoLpe4hFDL38IUYZBhfgfy6kJkY633xlB%0AEsw%3D%0A
+- From the redirected login page, enter your Housecall Pro credentials in the designated textboxes, then click the blue "SIGN IN" button. [Image] https://downloads.intercomcdn.com/i/o/998372872/50bc5bd771d6c8562744b25b/Cursor_and_Secure_Login___Housecall_Pro.png?expires=1763567100&signature=319dbe97570d3c13690f5a66951710fe5d88e0a861cc63a9d2dfe0372eeaffc2&req=fSkvFc58lYZdFb4f3HP0gKN9q7svE1DkUJHOlrsnqxaoh84vITAn8BvW1V4h%0Akhg%3D%0A
+- Once you have signed in to your Housecall Pro account, you will be redirected to an authorization page. Click the blue "AUTHORIZE" button to finalize the integration. [Image] https://downloads.intercomcdn.com/i/o/998375297/316ef9dc94f00352aeaa7745/Cursor.png?expires=1763567100&signature=9cc378463cafb2e6e4c2f5169834b6fe56b52dd3a49fab097d146ccdfa4c3361&req=fSkvFc57n4hYFb4f3HP0gO5KNmua29KUS6hzh7Gv6bVCBNl2nWVLhUlCmyqb%0Aq4k%3D%0A
+
+How to deactivate the CallRail Integration
+
+- Log in to your CallRail account by going to https://app.callrail.com/authenticate/ and entering your CallRail credentials in the designated textboxes, then clicking the blue "Sign in" button. [Image] https://downloads.intercomcdn.com/i/o/998347441/cfd2ff976814b4ab2bf55ae7/Screenshot+2024-03-21+at+09_37_42.png?expires=1763567100&signature=62b8c6efb18f5efcd1ec2da2c0013877e4e10b89fac741ef80ad5f75852c3558&req=fSkvFc15mYVeFb4f3HP0gNLYVM8wUBPgiyIzAg3NsmV5B3ZMh3ZxpplQcppR%0A2Qg%3D%0A
+- Once you've logged in to CallRail, click the settings icon on the left side of the screen, this icon is represented as a gear and lightning bolt, and the word "Settings" will appear if you hover your cursor over it. [Image] https://downloads.intercomcdn.com/i/o/998354396/971152a0c66e68c913684077/Screenshot_2024-03-21_at_09_41_19.png?expires=1763567100&signature=5c174942da77f002d2e2878aca502c834d1e503dd21431e49d0ea59b7185afc3&req=fSkvFcx6nohZFb4f3HP0gKeyP%2BdbeeLO7bJexoW4A4tR3vJShSXqxkjaOIds%0AgcE%3D%0A
+- If you have multiple companies using CallRail, use the dropdown in the upper right corner of the CallRail Settings page to select the company you are disabling the Housecall Pro integration for. [Image] https://downloads.intercomcdn.com/i/o/998357228/08c312a83970d21528ddd301/Cursor_and_Numbers___CallRail.png?expires=1763567100&signature=9287dca6763514d715725f5cffb75100f2b7b71559d171199cfa7f1124fd08fe&req=fSkvFcx5n4NXFb4f3HP0gAraurXRszJbSlVIEuK1Xwp77r4i1p80EKcBDd3t%0AO9M%3D%0A
+- Once you have selected the company you would like to disable the integration for, click the word "Integrations" at the top of CallRail's Settings page. [Image] https://downloads.intercomcdn.com/i/o/998359332/10989b6883c7e8bb2c797e6d/Cursor_and_Numbers___CallRail.png?expires=1763567100&signature=fbbc8fae40e20014c1210a824612947b05235db5d0fd9752651b239ab4fead63&req=fSkvFcx3noJdFb4f3HP0gKwnQ2Q1Xe24EgaxPJP8ZaqxEsi3sATptroSf7IP%0AudU%3D%0A
+- From the list of integrations, select Housecall Pro. CallRail's Integrations page does have a search bar in the upper right corner that you can use to help locate the Housecall Pro card. [Image] https://downloads.intercomcdn.com/i/o/998362143/4b22a1f473823aeae1b3a768/Cursor_and_Integrations_library___CallRail.png?expires=1763567100&signature=f36a97cd46aab59af2831730ed7e5bcb6b7bfcf4bb49ffb278b9decd9297c6e7&req=fSkvFc98nIVcFb4f3HP0gMhT5ZcfEEEFPwvRlc88i6B0NiXahP1grh0rjJ2v%0Ato8%3D%0A
+- From CallRail's Housecall Pro integration page, click the red "Deactivate Housecall Pro" button on the right side of the page. [Image] https://downloads.intercomcdn.com/i/o/998385949/cba0cf37bab5ec4f5b4f0fd4/Cursor_and_Housecall_Pro___CallRail.png?expires=1763567100&signature=785e0db05090c0eed7482b0402e0ecf263fb585c66d21de2b8f29b0abdeaff7b&req=fSkvFcF7lIVWFb4f3HP0gIymupSKoZd6nHwvGpiPMaHak%2FCZze6adXoRDOT%2B%0AgFI%3D%0A
+- This will cause a popup window to appear, confirming you would like to disable the integration. Click the red "Deactivate" button in the lower right corner of this popup to finalize the deactivation of the CallRail integration. [Image] https://downloads.intercomcdn.com/i/o/998388787/5c46feccb33b5185dc23885b/Cursor_and_Housecall_Pro___CallRail.png?expires=1763567100&signature=84ffbd6b7c8529d417abbc41659d07e91822cda6cb5d47f08b13b84e07f5384f&req=fSkvFcF2molYFb4f3HP0gGoBKWX%2BbXb9pFl0dkgGKJGJawRIlsTZakU%2BDVfV%0AEz0%3D%0A ___________________________________________________________
+
+How to enable desktop notifications for CallRail
+
+Turn on notifications for incoming calls from CallRail on Chrome
+
+Desktop notifications are available in our CallRail integration to show when a customer is calling. Clicking on the notification will take you to their customer details page.
+
+[Image] https://downloads.intercomcdn.com/i/o/257272382/998c3f2592a39a17070a73f4/image.png?expires=1763567100&signature=a48ce1b903500ecc80f3495fbaeec4c31e02c65b8737a739ee06334a131e42b6&req=diUgFM58noldFb4f3HP0gNTGl5rTlGjEChzNi8xaLKIe9xGF8b3codLsbvFz%0A%2FfvtdQ0LLbM7ACGucg%3D%3D%0A
+
+How to enable desktop notifications:
+
+Click on 'MY APPS' and then 'GO TO APP STORE'.
+
+[Image] https://downloads.intercomcdn.com/i/o/257293531/b40003ffc7e2f6df18680adc/image.png?expires=1763567100&signature=f05b948e82a069d73cf8a04b4fa62d8840ceefa00457db1aaff3ec6cfcb09058&req=diUgFMB9mIJeFb4f3HP0gGHy1xrwx8M9gxE6N6BcI2r6NHXZGNDNDxcjlMFH%0AwjdDon5Prlktd%2F%2FEQw%3D%3D%0A
+
+Scroll down to find the app card for CallRail and click LEARN MORE
+
+[Image] https://downloads.intercomcdn.com/i/o/257293837/49de4b6cfa1e6bcb1bd3a115/image.png?expires=1763567100&signature=9e736187e5d3cef03bfec194a5683f420532f47ad48d7ea38e65d82432e125cd&req=diUgFMB9lYJYFb4f3HP0gCCI7%2BVpGfz0i7mwvy%2F1biLlfi16oWJWh1GNggzB%0AJMHwTv237gnOoOonsg%3D%3D%0A
+
+On the app page for CallRail, there will be a bell icon in the top right corner. Click on this icon and a pop up will appear prompting you to enable notifications. Click ENABLE NOW.
+
+[Image] https://downloads.intercomcdn.com/i/o/257294356/f0aa70f6322d1ec763801b8b/image.png?expires=1763567100&signature=82674515d27ebc38a43096a3e9e814b9138160e610669fec11f93b6a6b326e2d&req=diUgFMB6noRZFb4f3HP0gPAkK4CIdFkgHPeMEZlCxquzFZLSJ1Y%2FkvEmpH03%0AYqw2QaykZGnlFiOXlQ%3D%3D%0A
+
+Your browser will then prompt you to enable notifications. Click ALLOW.
+
+[Image] https://downloads.intercomcdn.com/i/o/257294641/a08d2821778d5b1c8961455e/image.png?expires=1763567100&signature=82e6074aef4ccb6784d3da153d7bbd51fd1f7564e7b5610dc820727a6134dc4e&req=diUgFMB6m4VeFb4f3HP0gC1vcc8c7kJuR4znpQGAzefGBFwX1%2FcZ066lW4XW%0A%2BeSiKX%2FLOw8ja55a6g%3D%3D%0A
+
+You will see a "Success!" notification letting you know that notifications are now ready and enabled, and the bell icon will turn into a toggle. Flip the toggle "on" and you will see the same "Success!" notification.
+
+---

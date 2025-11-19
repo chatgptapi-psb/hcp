@@ -1,0 +1,328 @@
+Multi-day Job Appointments Overview
+Source: https://help.housecallpro.com/en/articles/6930497-multi-day-job-appointments-overview
+Author: Sarah C
+Last updated: Updated over a month ago
+
+Summary: Effectively manage and schedule jobs across multiple employees and days by creating multiple assigned appointments within 1 job.
+
+In this article, field and office employees/admins will learn how to use Multi-day Job Appointments. You may also take a quick product tour.
+
+[Button] Take product tour -> https://app.storylane.io/share/nkypa03fh10b
+
+---
+
+Enable Appointments on Jobs
+
+To enable appointments on jobs:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Jobs from the Settings menu on the left.
+
+- Click the General tab on the Job settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1636409726/ba34352d3ac2053039e51cccfcfd/image.png?expires=1763568000&signature=4530ae35518d354b4b480ed95bd4d4266878f590a3bf80bd91ab91a43577ef3f&req=dSYkEM1%2BlIZdX%2FMW1HO4zaX1GYTMl%2BEbzKNELCkCRNaMm9UTH26Hhdr7Mj2T%0AI1V3CAvl3QB5iv7fUZI%3D%0A
+
+- Click the toggle on the right side of the screen where you can toggle on or off appointments.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1636416527/951bac90bf27f61fb0e7c1859610/image.png?expires=1763568000&signature=2df0ef457ad1ec015bf6d3ae39621149b691e6b0042f9626ab44ccd84a0770e4&req=dSYkEM1%2Fm4RdXvMW1HO4zQ1QyL589zj7%2FPHiqYfskiWN77V0lmH56Ls1iabf%0AFTO6Dnmb3p7zlWFixGs%3D%0A
+
+- Confirm that all employees are using the latest version of the Housecall Pro mobile app.
+
+- Once you navigate to the Appointments settings page, you can send "update" links to employees. A yellow banner will automatically appear at the top of your settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/850485146/d5540fdef55f58f1a3b260ce/techsupdate.png?expires=1763568000&signature=eeda9f9b6af267e1b860028bd22249895cb5ac9e9ffc8b588086e81f5b915310&req=fCUnEsF7nIVZFb4f3HP0gN%2FhaQ9nSW%2F1K6TRg0y480rmCsDFymyPk%2BDgV5vH%0AqrAQwR50l29op7uieA%3D%3D%0A
+
+- Toggle the Appointments setting to on on your Settings page
+
+---
+
+Creating a New Job
+
+- Adding multiple appointments to a single job will not complicate the process of creating a job with a single appointment (single visit). The flow of adding a new job remains almost unchanged. The only noticeable change is the name of the card. It will now say Appointment instead of Schedule:
+
+[Image] https://downloads.intercomcdn.com/i/o/659400996/acaeff74ec975db2b8e2471c/Screenshot+2023-01-25+at+3.52.11+PM.png?expires=1763568000&signature=39d8670cb479c702b1517fad5ac8a0dbe5620a950bde67dfab659d2d02022f07&req=ciUuEsl%2BlIhZFb4f3HP0gLJdl6Xz7KM%2FUb5SL2LeLwr%2BgkjJfrFwOk7UUHEo%0ATEoPKR2knqDmebwqsw%3D%3D%0A
+
+It is still possible to:
+
+- Create a job without a schedule (without any appointments)
+
+- Create a job with a schedule (with a single appointment)
+
+---
+
+Adding an Appointment to an Existing Job
+
+When a job is created as a single job or without any appointments, it is possible to add an appointment to the job by adding each appointment "one by one".
+
+On the HCP web portal, you can add appointments by either:
+
+- Clicking on the ADD APPOINTMENT blue button at the top of the page
+
+[Image] https://downloads.intercomcdn.com/i/o/659953621/2f0aabe3cd9ecf98486f8828/Screenshot+2023-01-26+at+11.40.52+AM.png?expires=1763568000&signature=4919209fbb40623fe7c953ceec1c5286d7118f3d208a567aeda27c01dceeb3d8&req=ciUuH8x9m4NeFb4f3HP0gDDNRvW%2BQGjVd2nUK14uJBUIuHNw11cWO3wu%2FdzI%0AMQBStgA2u3CnIRjPzA%3D%3D%0A
+
+- Click on the ADD APPOINTMENT button visible in the new Appointments section of the job details page (please note that this section appears only when a first appointment is scheduled for the job).
+
+[Image] https://downloads.intercomcdn.com/i/o/802988188/f9435b494394748e6b1e36d7/Appointments+-+no+statuses%2Csingle+column.png?expires=1763568000&signature=4fb251b5622dc247cad0f52e6b9918d56c3f0e929d298ba219d46afab759a2f9&req=fCAlH8F2nIlXFb4f3HP0gO7y3H0qzL%2FIHEDiO0GrD2%2FnD2r6F86ydACED8s0%0AVB2I6A2RA7NN8FouQQ%3D%3D%0A
+
+---
+
+How to See How Many Appointments Are Scheduled Within a Job
+
+- You can see how many appointments have been added to a job by looking at the information below the ADD APPOINTMENT button at the top of the page, or by looking at the Appointments section of the job details page.
+
+- If you'd like to see the details of each appointment (the date and time range, arrival window, and who is assigned to it), you can expand the Appointments section by clicking the dropdown arrow next to + Appointment.
+
+[Image] https://downloads.intercomcdn.com/i/o/802994391/4314ddf6f88b5f1ba5c3281c/Screenshot+2023-08-08+at+3.34.03+PM.png?expires=1763568000&signature=379c06cf283914463be3102c4b9301c06d46743af14e4a3f980b8ecbd0a5734d&req=fCAlH8B6noheFb4f3HP0gLK%2FBEwEvM5w93%2BiEVt0iE%2B18RZpmXWMEIuQi54U%0AVKBiDX6O8PJXQYhu8A%3D%3D%0A
+
+---
+
+What can I do with an Appointment?
+
+Reschedule an Appointment
+
+- Either click on a calendar icon next to the appointment you'd like to reschedule (when clicked, calendar view as on job details should open).
+
+- Move the appointment tile on the schedule tab calendar view.
+
+[Image] https://downloads.intercomcdn.com/i/o/802997140/2784af73c8dfce61ddf3c835/Screenshot+2023-08-08+at+3.38.11+PM.png?expires=1763568000&signature=a25aca5f482227a9a88237eb652e4619e4ef679d73212faa07c28377087de74c&req=fCAlH8B5nIVfFb4f3HP0gNZyUCHgh8hkAMKHo9RsjHCQ7DqWhGYbFV6GvKhk%0AiSTvqOH%2F27Pn7U4QHw%3D%3D%0A
+
+---
+
+Reassign an Appointment to another employee
+
+- Click the pencil icon next to the appointment you'd like to reassign, and then select employees who should be assigned to that appointment. Once the selection is changed as desired, click Save.
+
+[Image] https://downloads.intercomcdn.com/i/o/802998483/1626815b94c238c5dd893b14/Screenshot+2023-08-08+at+3.39.31+PM.png?expires=1763568000&signature=96a36a4703b8710ca89dd73701ff0e9d0368abae1382aef4cbba9dc0ddb240b4&req=fCAlH8B2mYlcFb4f3HP0gCEUYcqAZvfzKvqq0IRCmfGaVBrUl5ZciQqR8j8m%0AMrOg96rBbgMHFzb12A%3D%3D%0A
+
+---
+
+Change the arrival window of an Appointment (currently available on web only)
+
+- Click the pencil icon next to the appointment you'd like to reassign (when clicked, calendar view as on job details will open).
+
+- Then click on Arrival window icon to the upper right corner of the screen and select desired option (if you'd like to save it as default, please remember to check the box on the bottom).
+
+- Finally, click Done.
+
+[Image] https://downloads.intercomcdn.com/i/o/662047571/9c938f5fe2d2b4eca670deec/Screenshot+2023-01-30+at+11.36.52+AM.png?expires=1763568000&signature=915b79bcd445e08d80a621835925871785794e137d966e567f803cb9195e4eb4&req=ciYlFs15mIZeFb4f3HP0gEEqrnpiixuy4gQMMV3LZKBmeBj5xYDfMW%2B4w0SZ%0AyE3rGbAD1KKq4dryig%3D%3D%0A
+
+---
+
+Delete an Appointment
+
+- Click the More icon (three dots) next to an appointment you'd like to delete and then choose Delete.
+
+[Image] https://downloads.intercomcdn.com/i/o/846293780/40c8b306bb82e5bb6cf158e3/Screenshot+2023-10-05+at+11.38.43+AM.png?expires=1763568000&signature=dabbf1c127372e4d9b091cbd5fa11c8b7464925492b5a947e01ba55b12e40350&req=fCQhFMB9molfFb4f3HP0gFWc4EIuppnGSsDlAxK5%2BAczKfJSvAWxAqnirFx2%0AeO1wg8va13l3W1PZsg%3D%3D%0A
+
+- Confirm you really want to delete the selected appointment.
+
+[Image] https://downloads.intercomcdn.com/i/o/846294039/0f191b2a85808f764634b626/Screenshot+2023-10-05+at+11.38.56+AM.png?expires=1763568000&signature=766abce14e98d21fda9509ec84b9c3245c82616f78b038d5c4577c2988f328f5&req=fCQhFMB6nYJWFb4f3HP0gIoHDIa92Kb9hN0dTYvOyx46KCm5dMLAx7iv3Gr%2F%0AYkIoEnj3DZzCkHqY0w%3D%3D%0A
+
+---
+
+OMW Notifications for Appointments
+
+With appointments, you can send "On My Way" notifications multiple times on a single job:
+
+- Click the OMW button at the top of the page
+- Then select the appointment where the OMW message should be sent
+- Indicate whether or not the customer notification should be sent.
+
+[Image] https://downloads.intercomcdn.com/i/o/846295942/5f32782050644f3f6e506739/Screenshot+2023-10-05+at+11.40.18+AM.png?expires=1763568000&signature=39d66e8134865c243df07e5c535363745f5301be311c77cf6b2a8a21a53aac48&req=fCQhFMB7lIVdFb4f3HP0gHAsiZX9BMFsykDWJ4gcoMIp8sCHB85WM9k6%2F3OY%0A90hRXlkrKgCqA%2BkJVA%3D%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/846296082/61e779faec63ccb50382ba5a/Screenshot+2023-10-05+at+11.40.38+AM.png?expires=1763568000&signature=a0ccb9bed8c201632d09f0c525724e502934eef566821fb46279b3fc0e06c1b2&req=fCQhFMB4nYldFb4f3HP0gCUWuTfbdZRpI2aAgI82amgUM1GdmWZFQ6mpl8wC%0AjlCjAfF8ueY5RPkqRA%3D%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/662123199/a0c3044b0192acd4d10233bb/Screenshot+2023-01-30+at+1.11.02+PM.png?expires=1763568000&signature=75744c8cccb3f01e5aefcabbac336e645fa9da9a090645424e2a5f20a939e1df&req=ciYlF8t9nIhWFb4f3HP0gOVzIGCeagmKS5HdNWLjnOwoUVmY%2F0GG%2BKB6M2Vq%0AXVmMmkcFolNBVtvVGg%3D%3D%0A
+
+- Or you can click on the More icon (three dots) next to an appointment you'd like to send a notification for and choose Send OMW (you can also decide if the notification should be sent to the customer).
+
+[Image] https://downloads.intercomcdn.com/i/o/846297960/92322394b699b5b04b4899ec/Screenshot+2023-10-05+at+11.46.17+AM.png?expires=1763568000&signature=9d6e5cce53ffabe10efe7d391122629866859c9f813bdac224972c0b6b1b4b33&req=fCQhFMB5lIdfFb4f3HP0gPkJaGZo%2FItoAk9QS2aS1MD5zTY2IXvWKyR8rcst%0AdZa9FGEXlvxDsykXzw%3D%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/846298739/9fa2b937b22e29af2c6a96b6/Screenshot+2023-10-05+at+11.46.24+AM.png?expires=1763568000&signature=dcb40ca3e425ccbaac0b7801ef1d01999b72829eb255fa576cc775724a1314a0&req=fCQhFMB2moJWFb4f3HP0gEHDzhktP8h%2BRHl3KzrLop8IUFv2dxsy7qjWlRus%0A%2Bu1J6XXeA4ohiODyNg%3D%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/662125355/15c8023cfe25656733048385/Screenshot+2023-01-30+at+1.11.02+PM.png?expires=1763568000&signature=ca55dafbcd81b3c45c79d8cc6d7a3eb6a98734d3ca8b70d0951470a9dbde2794&req=ciYlF8t7noRaFb4f3HP0gOsODb%2FGJoPCtlYPSh6pKypVW4DYwvCDuYB3Iu1Z%0AFLbxCl7une89sEkUSA%3D%3D%0A
+
+Job Status
+
+- Job and employee statuses (available on the mobile app) remain unchanged with the introduction of appointments.
+
+---
+
+Can I unschedule a job with appointments?
+
+- As a concept, appointments were created to hold information about time and date, therefore, there is no way to have an appointment without this information to unschedule an appointment.
+
+- If there's a need to unschedule a job, all appointments have to be deleted or a new segment on a job could be created without adding date and time to it.
+
+---
+
+How are appointments displayed on the calendar?
+
+- Each appointment for a single job is visible on every calendar in Housecall Pro as a separate tile (this is because each appointment has a different date and time range).
+
+- In order to recognize which appointments are scheduled for the same job, you can hover over an appointment and look for job information or invoice number information. Invoice number information should be selected in the calendar display settings.
+
+- Each appointment is styled according to the job status, and based on the assigned employees - as described in this help article What do the different job, estimate, and event colors in the calendar mean?
+
+[Image] https://downloads.intercomcdn.com/i/o/665647763/d67653eb7ea6ef40b94c4d5d/Screenshot+2023-02-03+at+6.59.46+PM.png?expires=1763568000&signature=ef2c704d080feca6d46b22b13db79314a6290541cb76c9f6a672c858b9110b15&req=ciYiEM15modcFb4f3HP0gDTOCGw1BE1HXQGDnBWNyuKCVWq1wNREF0KtwUYW%0AQLxbTezpzhHarHJomA%3D%3D%0A
+
+---
+
+How are appointments displayed on Google Calendar?
+
+- If you have integrated Google Calendar to sync jobs from Housecall Pro to Google Calendar (as described in this help article), all of the appointments created in Housecall Pro will be displayed in your connected Google account.
+
+---
+
+How are appointments displayed in Pipeline?
+
+- For Jobs that have more than one appointment scheduled, the information about the number and details of each appointment is displayed on the respective Pipeline cards.
+
+[Image] https://downloads.intercomcdn.com/i/o/803018982/03676aacb779e12c3a9dfa1e/Jobs.png?expires=1763568000&signature=5e0fc6081d9f54bc4c204dc2b1230f0ac5a688181892a0870a640881036bd7c3&req=fCAkFsh2lIldFb4f3HP0gBC4SpF0DAkxN3BgxTHpAuUtB7rTAcj2ZBaQxtEM%0AGDq8Tl8P4N9o6g%2BRcA%3D%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/803019075/b962a9776be01372e52b2e93/Job_deatils.png?expires=1763568000&signature=759391ec31a8f3bf8e4ab5bda9d7ecfe238600112cc82b64e1f7d1bf73d3fe9e&req=fCAkFsh3nYZaFb4f3HP0gKt2tNFPBkcsro57FU%2FA50lHPwWadUdyfOXe2PWl%0AkPI5PepqW87K%2FMJiTA%3D%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/803019185/003ddedaf0880e51ae1b8115/Appointment+details.png?expires=1763568000&signature=8e844b76eb4528f18f04a999951cc31984ecad39b2abc4890601fc1a912d2bbb&req=fCAkFsh3nIlaFb4f3HP0gNl8Y1WUfv1DVkulNC%2Fdsuo%2FtcgyA5FNmKvU3R2T%0AYVPOdOUR3KZnZg%2Fu2Q%3D%3D%0A
+
+---
+
+---
+
+Appointments on Mobile
+
+The Housecall Pro Mobile App supports Multi-Day Job Appointments functionality! You can display a list of appointments and enjoy the ability to edit, add, and delete appointments.
+
+[Image] https://downloads.intercomcdn.com/i/o/810494816/5f6cdbe13d9a7d818bbb3b80/IMG_7676.png?expires=1763568000&signature=de114fab91c64ee65472cd585cc65a4eb0533589415ae029cb0bfcc465fd1018&req=fCEnEsB6lYBZFb4f3HP0gC5nxzvYmL5d51eOxQzaKu1k1XKS0UzUbXad31DK%0Adu%2BfyV2MaIiutu4clA%3D%3D%0A
+
+- Appointments are prominently displayed at the top of the Job Details page.
+
+- To edit an appointment, click the pencil icon. This will take you to a new screen where you can reschedule and make modifications.
+
+[Image] https://downloads.intercomcdn.com/i/o/810497741/87a2c3c63722707e398a8ade/IMG_7678.png?expires=1763568000&signature=dbf7b9f869726af23159c1364ae7dc7c9befb39cb16ac28f701c9475f9c09901&req=fCEnEsB5moVeFb4f3HP0gKYi6uVxreoPxsYimPt3YkS4srzORb23TaM%2BzXEH%0A8%2BqsHfaxhK1YOTgPtg%3D%3D%0A
+
+- To see a preview of all appointments created within a job, click the "View all" link in the Appointments section on the Job Details page. This action will show a list of all appointments associated with that job.
+
+[Image] https://downloads.intercomcdn.com/i/o/810499693/57ab19d7b6fa44e773881ff7/IMG_7677.png?expires=1763568000&signature=e926166d45ec98c3ea7a3ca4a55c1b89d8e78106972e7313f340a5c8ca5166cc&req=fCEnEsB3m4hcFb4f3HP0gJsA6yQryaq8Ezxk4T3HGUcGCVd4diLy%2FNVIFWCD%0ARRhn%2FY3vW550R6ayLw%3D%3D%0A
+
+---
+
+How To Manage Multi-day Job Appointments (HCP Mobile App)
+
+How to manage Multi-day Job Appointments on the mobile app: for owners, admins, and field employees.
+
+---
+
+How are appointments displayed on the mobile app?
+
+Open Work and Upcoming section on the mobile app:
+
+- Open Jobs and Upcoming sections will continue to display Appointments instead of Jobs, following the rules outlined below:
+
+- When an employee has the setting “Show techs full schedule” toggled OFF: Open Jobs display all Appointments assigned to a given Pro AND scheduled for today AND with start date/time past current date/time
+
+- When an employee has the setting “Show techs full schedule” toggled ON: Open Jobs displays all Appointments assigned to a given Pro AND scheduled for today.
+
+- Upcoming displays the next scheduled job. If there is more than one appointment on the job, the job status must be scheduled in order to return multi-day appointments.
+
+- If you are actively scheduling jobs with multiple appointments, it is recommended that “Show techs full schedule” toggled ON. This creates the best experience in the mobile app for technicians to be able to see all appointments in a job.
+
+---
+
+Getting to a Single Appointment
+
+Opening an appointment functions the same way as jobs on the mobile app. If appointments are enabled, you will see a list of appointments in all the places where you currently can see jobs. 
+​
+Places such as your schedule, open work, upcoming, invoices, needs attention tab, etc.
+
+When a single appointment is opened, a job details page populates and presents information about the whole job. A new section is also visible that provides specific appointment details, including appointment date, time range, and assigned employees. 
+​
+The new section will be called "Appointment."
+
+[Image] https://downloads.intercomcdn.com/i/o/1089601507/a2c6864f5348ea363bb83bda/image.png?expires=1763568000&signature=7cf9261f0d89f9f1d80885aebc3390516161f3111b5048c3f73e5aaa6f3b995b&req=dSAvH89%2BnIRfXvMW1HO4zRVWauYIOFHddzkDp%2B5iWRVlpRVGnzqiwyUep1dR%0Am1VnQ0YCtznpBadhewA%3D%0A
+
+---
+
+Editing Appointments
+
+A single appointment can be edited from the Job details page on the mobile app by clicking on the blue pencil icon.
+
+- The Edit Appointment screen is opened with a calendar preview on top and a form allowing modification of the date and time, arrival window, and assignees below the calendar. - It is also possible to edit an appointment by selecting it directly from the schedule. The Job details page appears with the selected appointment and modification options.
+
+- You can also delete appointments from the appointment edit screen by selecting the Delete Appointment option at the bottom.
+
+- The Job details page currently displays the appointment closest in time. If the user has permissions or is assigned to different appointments in the job, they can be accessed from the calendar in the schedule tab.
+
+- You can navigate to the schedule by clicking the calendar icon on your navigation bar at the bottom of your mobile app.
+
+---
+
+Preview a list of Appointments
+
+- To preview all appointments created within a job, click the 'View all' link in the Appointments section on the Job details page. - This will display a list of all appointments associated with that job.
+
+- To edit an appointment from the list, click the pencil icon next to it.
+
+---
+
+Add a New Appointment
+
+To add a new appointment on the mobile app, click the View all button while on the Job details page, then select the + button in the top right corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/884479933/4d0e93e8fd6671ce7591192b/newappointmentimage.png?expires=1763568000&signature=ad5d55ef044f1df4cfae8fd66cb0f7b489e760c5e1d3f6d4c2a96e203f48fa7a&req=fCgjEs53lIJcFb4f3HP0gGk7vFi6RMOu25aIc%2F5T3Flhqrg5SpZm%2BTAbl3Em%0AeKZeaoxo%2FTAP2%2FHoxA%3D%3D%0A
+
+---
+
+How do Employees report on work status in the mobile app?
+
+Job-status
+
+- Appointments introduce information about the scheduled date and time of customer visit(s), allowing one to see who is assigned to each visit, but they do not have status. This means the whole job is going to be started when the OMW button is clicked for the first time by any of the employees assigned to the appointment, and this also means that only the whole job can be finished.
+
+- There is no option currently to finish the appointment. By clicking finish job, the whole job is going to be marked as completed.
+
+OMW (On My Way) Notifications
+
+- OMW Notifications can be sent for each Appointment tied to a parent job (one notification may be sent per appointment)​.
+
+- When the "Tracking Time on Jobs" feature is enabled in the settings, and when an OMW notification has already been by another employee: - The app will present information about the employee who sent it and the time it was sent.
+- There will be no possibility of sending another customer notification (until the next day) for this appointment.
+
+Start/Pause time tracking (Mobile only)
+
+- When the "Tracking Time on Jobs" feature is enabled in the settings, each employee can start and pause their time on a job with multiple appointments. Time tracking is done on a job level, thus the time on a 2nd appointment is going to continue to count from the previously paused time, instead of starting from 0:00.
+
+- With the Tracking Time on Jobs feature, each employee should pause their time on each appointment and not finish the job until they've completed all appointments for the customer.
+
+- Employees can pause their time on jobs on the mobile app by tapping the Pause Time button, this button only appears after an employee taps Start Job on the job details page.
+
+Online Booking and Multi-day Job Appointments
+
+- When checking for the availability of each employee, all appointments assigned to that employee are taken into account when using Online Booking.
+
+---
+
+How does Time Tracking work on a job with multiple appointments?
+
+- Time Tracking continues to work on the job level, so field techs clock in and out from a job every time they use the OMW and Start/Pause buttons.
+
+---
+
+Does the Activity Feed show information about appointments?
+
+- Yes, information about changes made to appointments is saved in the Activity Feed. The following changes are being noted: - An employee was assigned to an appointment.
+- The employee was reassigned to an appointment.
+- The employee was unassigned from an appointment.
+- The appointment schedule was changed.
+- An appointment scheduled/re-scheduled notification was sent.
+- The appointment's OMW status was set and a notification was sent.
+
+---
+
+Want to book more jobs on your calendar?
+
+Check out Business Coaching by Housecall Pro to learn how certified coaches can teach you the Business Coaching playbook to drive your business growth.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1405344875/2411f888515de9df4eab1a120ae2/Business+Coaching+by+Housecall+Pro+%28Article+Footer%29.jpg?expires=1763568000&signature=15bdd900eb75479e3e237fb6c582c10a329e90fc3ee130302ecb4f58007bc3e0&req=dSQnE8p6mYlYXPMW1HO4zUSAE4Z7Tu3zPngR8puA4m8%2FHesAK%2FNuRz9Jhyx%2B%0AfgM0JzWo2hSqpIc1lV4%3D%0A
+
+---

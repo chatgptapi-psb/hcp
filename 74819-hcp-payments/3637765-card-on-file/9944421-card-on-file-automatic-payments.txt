@@ -1,0 +1,107 @@
+Card on File: Automatic Payments
+Source: https://help.housecallpro.com/en/articles/9944421-card-on-file-automatic-payments
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: Learn more about how our automatic charge card on file feature works and how to enable it in your account
+
+Enable Automatic Payments
+
+The Automatic payments feature allows you to automatically charge a customer's card on file, so you don't have to manually take the payment yourself.
+
+To enable Automatic payments:
+
+- Go to your Settings by clicking the gear icon in the top right corner of your HCP account on web.
+
+- Select Invoices from the left menu.
+
+- Click the Automations tab at the top of the page.
+
+- Scroll down to the Automatic payments section and click the toggle to the right of the setting: If a customer has a card on file, automatically charge card for unpaid balance on a job on invoice due date.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1776165224/4a8918a5196e692299631fa0c9b0/Screenshot+2025-10-13+at+2_10_58%E2%80%AFPM.png?expires=1763568000&signature=93162fe8f60cb8b7b2aaabda3d74a87a571788e8f1f290a5fded8cac5f084575&req=dScgEMh4mINdXfMW1HO4zahBfC%2F0PhdzsoH4AWwaUwmLArmEepBGPPpBD%2F%2F2%0Advoay5PEnipvZS8t1mg%3D%0A
+
+After enabling the feature, be sure to set the trigger:
+
+- Click the pencil to the right of the setting toggle.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1776337978/5abf13b4661b2fb24d90c36b4d72/Screenshot+2025-10-13+at+3_52_30%E2%80%AFPM.png?expires=1763568000&signature=fb8d8ba39b48175e81253b2d5387bd5a97ecfce244e3293442656bf25bfe4995&req=dScgEMp9mohYUfMW1HO4zXfRkicC1iHZ%2FHv%2Flbmv8jprBjDuVuMRIKQNEYO9%0AhA2MhHb4qO4j%2Fyrsp74%3D%0A
+
+- Select the trigger: - Upon completion of job: Invoice will be charged when job is marked finished.
+- On invoice due date: Invoice will be charged when invoice payment terms have passed.
+
+- Click Save to confirm your selection.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1776330624/d5005a421b6e7c85a1f1340a4738/Screenshot+2025-10-13+at+3_39_24%E2%80%AFPM.png?expires=1763568000&signature=b64c1c4bbf6918bcec45a4e51b2fc3bd97c18faa09dd301ee7b7b3165d308709&req=dScgEMp9nYddXfMW1HO4zSIK0KaWX6gGkpOEmyZBZrqm5L1jXVAz67GQO970%0A26G3zaQANUKNdx5i3ss%3D%0A
+
+---
+
+Which Automatic payments trigger is right for me?
+
+You have two options for triggering the charge:
+
+- Upon job completion: Recommended for businesses where you typically want to take payment as soon as the job is done, and typically want to receive payment as soon as the invoice is sent.
+
+- On invoice due date: Recommended that have net due terms and aren't taking payment as soon as the work is done. For example, the job might be complete and invoiced today but the customer has 30 days to pay. This would auto charge 30 days after the invoice is sent. Sending out the invoice and setting a due term is a critical part of this option.
+
+---
+
+Exclude Customers from Automatic Payments
+
+If a customer has a card on file, but you'd like to prevent them from being charged automatically, follow these steps:
+
+- Go to your Settings by clicking the gear icon in the top right corner of your HCP account on web.
+
+- Select Invoices from the left menu.
+
+- Click the Automations tab at the top of the page and scroll down to the Automatic payments section.
+
+- Click the pencil to the right of the setting: [#] customers excluded from auto charge card on file.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1776482244/eeeee06a334a069b7f0edb62147f/Screenshot+2025-10-13+at+3_41_49%E2%80%AFPM.png?expires=1763568000&signature=bf2c423c10bd4df3d0d6017025512a846bade9e15f2e9cd4fd6dfe38b9d71816&req=dScgEM12n4NbXfMW1HO4zWJh8dXnMjVPHJIHiSiERhX6l4CUwkys7s2pctQD%0AyjWmrnzxNxy1D%2BU%2FrHQ%3D%0A
+
+- Use the Search customers field to select specific customers, or use the Enter a custom tag field to exclude customers by Tags.
+
+- Click Save in the window to confirm.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1776489847/1bb27af12e450fad788cf51b0f33/Screenshot+2025-10-13+at+5_33_08%E2%80%AFPM.png?expires=1763568000&signature=189cd3ed61ee98109288bacce8057372e0f71ad1c45e05071a01dffaf0a79f1a&req=dScgEM12lIlbXvMW1HO4zR9MuSVBXtrPQKfYhuTAdb0PNMgOEZqheG%2B89rlu%0Auu%2B2MpY3B4E%2FskiQTxI%3D%0A
+
+---
+
+Important Notes
+
+- This will not retroactively charge jobs that meet the criteria for automatic COF.
+
+- This will only work moving forward for jobs that are finished, where the customer has a card on file.
+
+- There is a 5- to 10-minute delay from the moment the trigger for automatic payment is met.
+
+- If the job hits the criteria for auto-charge and the amount is modified after the fact, that will cancel the auto-charge.
+
+- For the On invoice due date trigger, the auto charge will happen at 5 p.m. PST/ 8 p.m. EST
+
+---
+
+FAQs
+
+Do I need to be set up for payments to use this feature?
+
+- Yes, in order to be able to have customers put a card on file, you must be set up for Payments and ensure your customer has a card on file registered. How to get set up for payments.
+
+How can I start getting a card on file for customers to use this feature?
+
+- You are able to put a card on file by requesting one from your customer or manually entering it on their customer profile. Learn more here.
+
+Will those retroactively charge jobs for customers who have a card on file?
+
+- No, this will not retroactively charge finished jobs for customers who have a card on file.
+
+Will my customer automatically receive an invoice or receipt for the auto-charge?
+
+- Your customers will automatically receive a receipt for the automatic charge. Invoices do still need to be manually sent if you wish to send it to your customer.
+
+If I made a mistake on the amount and undercharged, will this automatically charge again for the remaining balance?
+
+- No, at this time, the auto charge will only be for the full amount at the time the criteria for auto-charge are met.
+
+---

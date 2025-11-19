@@ -1,0 +1,42 @@
+Troubleshooting Employee Push Notifications (Mobile App)
+Source: https://help.housecallpro.com/en/articles/941117-troubleshooting-employee-push-notifications-mobile-app
+Author: Alyssa Moretti
+Last updated: Updated over a year ago
+
+Summary: Ensure you receive notifications when a job is scheduled to your calendar, and also receive a reminder an hour before appointments.
+
+In addition to the automated customer notifications, employees will also receive automated push notifications when a job has been assigned to them and scheduled on their calendar, as well as a reminder notification an hour before the job starts.
+
+---
+
+How to Troubleshoot Employee Push Notifications (Mobile App)
+
+When an employee enters the HCP mobile app for the first time, the app should prompt them to accept the permissions for location and notifications once they tap on a job.
+
+If an employee has accessed the app previously and the message no longer appears, delete and reinstall the app.
+
+If the employee still doesn't receive push notifications, there's a chance that their app notification settings are incorrect. In this case, follow the steps below.
+
+To Set Up Employee Notifications for the HCP Mobile App:
+
+Table:
+Row 1: - First, navigate to the Settings app on your phone or device. | [Image] https://downloads.intercomcdn.com/i/o/745755939/875e5105c0a28e49435e691b/image.png?expires=1763568000&signature=a019719129ef8ce233a1ce6271caca279b6394d6b8d3e2d5328d3403f043c7af&req=cyQiEcx7lIJWFb4f3HP0gNeB33%2F%2Fh2W0wONRMwJaWDoIiddFVC53Ap%2B4KGw%2F%0AhYg%3D%0A
+Row 2: - Next, select 'Notifications,' then select the Housecall Pro app. | [Image] https://downloads.intercomcdn.com/i/o/745756642/71945b31133b31e54d21d7a4/image.png?expires=1763568000&signature=c8d9fe140cbc1814ed4133abcedf5aba10de28f33293b1626848602b6ad52e48&req=cyQiEcx4m4VdFb4f3HP0gFl7vxz%2BcarPj9ibQqhulwWOuEbuTXQcDuyt2p6o%0AMl4%3D%0A
+Row 3: - From here, tap on the 'Allow Notifications' setting to toggle it on. 
+ 
+- After the 'Allow Notifications' setting is enabled, you can configure how you'd like the notifications to appear on your phone. | [Image] https://downloads.intercomcdn.com/i/o/745758161/c21d6de1459cd49889c093d7/image.png?expires=1763568000&signature=6caff51ed38d7237380c26c29eaa3a749026b1cdef0ec32e914f441d02dea29f&req=cyQiEcx2nIdeFb4f3HP0gHL%2Bkih08p6GLez2xzS33aZQuep88m%2BU5CRLYUn4%0Aa%2Bs%3D%0A
+
+Once the settings are to your liking, you can navigate out of your Settings app, and the information will automatically be saved.
+
+---
+
+Support
+
+If you're still experiencing issues with receiving Mobile Push Notifications, please reach out to our Chat Support team for live customer support.
+
+- From your HCP Web Browser, click on the blue chat bubble.
+- In your HCP Mobile App, tap on the 'More' icon at the bottom right of your navigation bar. Select 'Chat & help center' from the menu, then tap 'Send us a message,' and follow the prompts.
+
+If you’d prefer to talk with a team member over the phone, no worries! You can call our Support number at (858) 842-5746.
+
+---

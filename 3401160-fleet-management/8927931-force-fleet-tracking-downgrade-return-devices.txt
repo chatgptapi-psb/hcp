@@ -1,0 +1,102 @@
+Force Fleet Tracking: Downgrade & Return Devices
+Source: https://help.housecallpro.com/en/articles/8927931-force-fleet-tracking-downgrade-return-devices
+Author: Joanna D
+Last updated: Updated over a month ago
+
+Summary: Learn more about cancelling or downgrading your Vehicle GPS or Dashcam devices.
+
+Changing your Force Fleet Subscription
+
+If you plan on changing your Force Fleet Tracking subscription, you will need to return any devices that you choose to cancel or replace.
+
+Once you change your plan, Force Fleet Tracking will be notified upon your next billing renewal and will send you a pre-paid return shipping label PDF to the email you have on file in your Force Fleet Tracking account. ​For example, if you cancel on June 1st, but your HCP renewal date is on June 15th, Force Fleet Tracking will issue your return labels after June 15th.
+
+By default, your Force account is created with the first Admin email listed in your Housecall Pro team member list. If you don't see the email, please double-check that the correct email address is associated with your Force account.
+
+Table:
+Row 1: Vehicle GPS Trackers | Dashcam Video Monitoring
+Row 2: - After downgrading, you will have 30 days from your subscription renewal date to return your devices. - If you choose to request your return labels early, you will have 30 days from your label request date to return your devices. - Any Vehicle GPS Tracking devices not returned within 30 days will incur a $150 charge per device. | - After downgrading, you will have 30 days from your subscription renewal date to return your devices. - If you choose to request your return labels early, you will have 30 days from your label request date to return your devices. - Any Dashcam Video Monitoring devices not returned within 30 days will incur a $400 charge per device.
+
+---
+
+Downgrade Vehicle GPS Tracking & Return Devices
+
+To downgrade and request your return shipping label for Vehicle GPS Tracking devices:
+
+- Click the gear icon in the top right corner of your Housecall Pro account to access your Settings.
+
+- Select Billing from the left menu, under Global Settings.
+
+- Ensure that Plans & Payments is selected at the top of the Billing settings page.
+
+- Click Manage to the right of your current plan in Plan details.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1717637618/ce1eb700e7ef90ac1928bbe5fc3e/Screenshot+2025-09-09+at+2_29_31%E2%80%AFPM.png?expires=1763568000&signature=e5bc9c2696e690bd1a8b9b62230770994c88263a08a29c7d4ba2dab40e1f4732&req=dScmEc99modeUfMW1HO4zWhnM4ya20owWvz6UOV2%2FRT%2BD2ELU%2Bp9K6CnjHi7%0AEg9cn%2BuqyRnHVopBtxw%3D%0A
+
+- Click Next in the bottom right corner of the Pick your plan screen to advance to Configure your plan.
+
+- Adjust the number of devices next to Vehicle Tracking under the Add-ons list.
+
+- Click Next to move to the Review & pay screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1717675831/6328880c3c6a1cae8229eed79495/Screenshot+2025-09-09+at+3_18_42%E2%80%AFPM.png?expires=1763568000&signature=0ff865ea11b8ebbfeb66b27fa0c08370fb86b362a5f5657ed2e5ded9b8703c93&req=dScmEc95mIlcWPMW1HO4zQF1U16NUY39T1uKU4NEsCW30eK3kpbU3R296Ghq%0AGSYmwOmBF8Sj7W8BH5I%3D%0A
+
+- Click Update Plan to confirm.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1717671514/3148bd3e805a3d1b9281d1e6a769/Screenshot+2025-09-09+at+3_17_04%E2%80%AFPM.png?expires=1763568000&signature=6b729de20289515ebf050bd7208ff1afce15bc3cd0190e5e76604f21a3944c6e&req=dScmEc95nIReXfMW1HO4zeuF08aVWa7SwxydPs9gxg%2BmYF1j81RpzOE6N3Dd%0ABODhbUKF%2FYmEwHnND8E%3D%0A
+
+---
+
+Downgrade Dashcam Video Monitoring Devices
+
+To downgrade and request your return shipping label for Dashcam devices:
+
+- Click the gear icon in the top right corner of your Housecall Pro account to access your Settings.
+
+- Select Billing from the left menu, under Global Settings.
+
+- Ensure that Plans & Payments is selected at the top of the Billing settings page.
+
+- In the Subscriptions section, click Manage to the right of Dashcams.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1721214359/7b212f2503ee7319ce1c6c16195b/Dashcams_NewSettings.png?expires=1763568000&signature=d19ec7014c5d1c961f44c0e8a3075c0b5a5788f401fc291e8808aed6d162ba27&req=dSclF8t%2FmYJaUPMW1HO4zYsm9%2BSpyyoVe7Lfffm38yvgwHnN4krfNb1TTjVc%0A09ZeFYOyjPBAix5plqs%3D%0A
+
+- Click Manage Devices on your screen. This will open a Support chat through the Blue Chat Bubble so we can assist you through the subscription change.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1217069590/bbb78357f287687733766630e570/Screenshot_2024-10-15_at_11_11_12%E2%80%AFAM.png?expires=1763568000&signature=5627a898ff1007c33df9a900a9ccbd4c2f499a5cfe5f2abdb35c2a58528eeb75&req=dSImEcl4lIRWWfMW1HO4zepCEzUQJrfxP0bBQ%2FIBNs76PWfYo984AWO%2F5C7m%0ABHGo0e7sLaIKozVttZk%3D%0A
+
+---
+
+Request to Return Shipping Label Early
+
+Returning devices is simple: the return label will be pre-filled with your information and completely pre-paid! If you would like to return the Force device earlier than your billing renewal date, follow the steps below to request a shipping label.
+
+To request a shipping label:
+
+- Click the My Apps icon (3x3 square) in the top right corner of your Housecall Pro account.
+
+- Then, select Go to App store.
+
+[Image] https://downloads.intercomcdn.com/i/o/1106583114/3f7ffcf1f5e06e1f98333851/Screenshot+2024-07-08+at+12_14_34%E2%80%AFPM.png?expires=1763568000&signature=73d7e66715c897c8a2fa7b03c0c78747b46bc8d2b1a397692967690569efccdb&req=dSEnEMx2noBeXfMW1HO4zTyEv3bI2BVzQe2j8M2WH4CMMewBA0BqxwKUeBUN%0ATCXDgz9JdIp5lbNOQNk%3D%0A
+
+- Navigate to the Vehicle GPS Tracking app.
+
+- Click on Request Return Label located in the yellow notification bar at the top right of the screen
+
+- Fill out your contact and address details in the pop-up window
+
+- Lastly, select Request Email located at the bottom right of the return label pop-up screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/958925076/938673dddc332d31fc249d94/Screenshot_2024-02-09_at_2_39_42%E2%80%AFPM.png?expires=1763568000&signature=a256821ca8e7d2b2e9a8fa73f101b8417931e35acc16082ce96502471c128506&req=fSUvH8t7nYZZFb4f3HP0gG0qVV8VkLO9%2FLcZNBbukAyBBKVcUVll0dH8HP3s%0AI7zNDC4puC5oKjL%2BLw%3D%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/958926712/2595b99ca4ce3c7a471c5ca1/Screenshot_2024-02-09_at_2_43_37%E2%80%AFPM.png?expires=1763568000&signature=84ca306c341e936d08e3d4bec9691dd1e51af314823810c2fdda78fd4a8744ef&req=fSUvH8t4moBdFb4f3HP0gO8fVwMHJpqXuUWOByihn9zA9EIHOhh%2B3RXkYLq1%0Al3Mps3si5iApmIx8Nw%3D%3D%0A
+
+---
+
+Returning Your Vehicle GPS Because You Upgraded to Dashcams
+
+The other reason you may be returning devices is that you are replacing your Vehicle GPS Tracking devices with Dashcams. When you upgrade to Dashcams, the expectation is that you will send back your Vehicle GPS devices that you are replacing.
+
+Check out Dashcam Video Monitoring: Set Up for more information on how to confirm your shipping address for your new Dashcams and return shipping label.
+
+---

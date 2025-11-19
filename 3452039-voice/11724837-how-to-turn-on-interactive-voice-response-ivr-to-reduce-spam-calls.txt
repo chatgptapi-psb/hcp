@@ -1,0 +1,89 @@
+How to Turn On Interactive Voice Response (IVR) to Reduce Spam Calls
+Source: https://help.housecallpro.com/en/articles/11724837-how-to-turn-on-interactive-voice-response-ivr-to-reduce-spam-calls
+Author: Erika E
+Last updated: Updated over 4 months ago
+
+Spam calls can be frustrating and disruptive. With Housecall Pro’s Call Menu feature—also known as Interactive Voice Response (IVR)—you can reduce unwanted calls and help real customers reach the right department more quickly.
+
+This guide will walk you through how to enable and configure your Call Menu with a spam-reduction focus.
+
+---
+
+What is the Call Menu (IVR)?
+
+Call Menu and IVR are two names for the same feature. This system greets incoming callers and prompts them to press a number to route their call appropriately. It improves customer experience and filters out many spam or robocalls that can’t respond to these prompts.
+
+---
+
+Step 1: Add a Call Menu to Your Call Flow
+
+You can add one Call Menu per time setting—one for open hours and one for closed hours.
+
+- Go to your Call Flows settings.
+
+- Click Add Widget.
+
+- Choose Call Menu.
+
+- Select the Spam Reduction template to get started quickly.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1608152787/1f2e1abf34d83be87234ac79b250/AD_4nXd5f3yJ9K8dfaYLDxEHuUoRX3p2L9bI2neLPpRHU2Q6cE6vCC7RmdtCv5jQ11n98i_YH4XK56F79JfKEWtswDNwSdAM6Rhvekex2HpekvNIg5mkAiDND8jb7fIjlmDb0a8dR-kP?expires=1763568000&signature=53ebf70aeed4a040533ba99795ab0e0293f5a2acc2782231e21c9a5fb9f7585f&req=dSYnHsh7n4ZXXvMW1HO4zchKgA6ggXl7GE50fVpFii0CDhMNisTXq9TbcUCh%0AIlRbxvCgOsU6gzCRLeM%3D%0A
+
+---
+
+Step 2: Configure Your Call Menu
+
+Once added, you’ll be guided through setup. Here's what to do:
+
+Create Your Greeting
+
+Your greeting tells callers which number to press to reach the right department.
+
+- Use an Audio file to upload your own recording.
+
+- Use Text-to-Speech to type a message that the system will read aloud.
+
+Choose What Happens if No Input Is Given
+
+If the caller doesn’t press anything or presses the wrong number, you can decide what happens:
+
+- Send to Voicemail: The caller will hear a default message and can leave a message.
+
+- Disconnect the Call: The call will end automatically after repeating the greeting twice.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1608321714/d8d7bac7e00ccd9d4a1bb81d6f9a/AD_4nXepRIpRzRNGGwT1VoXbgULU6533wvWR4z_McBvNOAxviViEIn9VOvGqvIBIlfWPdR49MijRppB-Qe9UvdML3Z0UZhoP3-zEfcLUxMFoLJZT25EmonilWm-aZlkduvrOWBQ1RSC4?expires=1763568000&signature=f8fa0ec6a0c6af96601477c8aa727097520085ab3ad2e07c2274ed65b43b5982&req=dSYnHsp8nIZeXfMW1HO4zQ%2FCUyCFLb7%2FT3S4%2FuWLYJck%2FzKkMR12ZJWDhvM5%0AIujOALwDyh5sBTpXjGs%3D%0A
+
+---
+
+Step 3: Add Call Menu Options
+
+You can create up to five menu options.
+
+Each one can:
+
+- Play another message
+- Ring a specific person or department
+- Go to voicemail
+- Route to another part of your call flow
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1608323443/9cc852d767fadf24fa7c38fb50b3/AD_4nXeJ9SdXxFXkZ4wbjx94mIrXz-g6yR1dhCbAQOCt8yn3t0c4-3uSQyMnurcI_FY6zSAva2ODipxGBFnXUyIaNWU_1nGey9sPbXq4tiBm5DZQ1an0PYy3_1vM5TdovImb_TWHwVjlTg?expires=1763568000&signature=bf0f5e34a8d8e837692b317b4f8601180b21ce770eccc592b68e8a9bb02c035d&req=dSYnHsp8noVbWvMW1HO4zQj2uJBgwFc2PcVWo54D1eDE7G5rSLXAO8sctg8N%0A7cqppfjfzYUcUm9CJEk%3D%0A
+
+---
+
+Step 4: Test Your Menu
+
+Once your Call Menu is saved:
+
+- Call your business number.
+- Try each option to confirm it routes correctly.
+- Make adjustments as needed.
+
+---
+
+Why This Helps with Spam
+
+Most spam calls are automated and can’t press a number. By requiring caller input, you help block spam from reaching you and ensure only real callers get through.
+
+---
+
+You can learn more about setting up Voice features and managing the Call Menu in this Help Center article.

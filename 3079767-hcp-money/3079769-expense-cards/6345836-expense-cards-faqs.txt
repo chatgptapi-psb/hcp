@@ -1,0 +1,141 @@
+Expense Cards: FAQs
+Source: https://help.housecallpro.com/en/articles/6345836-expense-cards-faqs
+Author: Lani Y
+Last updated: Updated over 3 months ago
+
+Summary: Comprehensive overview of Expense Cards with answers to frequently asked questions.
+
+General Expense Card FAQs
+
+What are Expense Cards?
+
+- Expense Cards are one of the products offered as a part of Expense Management. They are an excellent way to manage spending and track business expenses, providing a great alternative to using petty cash and reimbursement processes.
+
+Where can Expense Cards be used to make purchases?
+
+- Expense Cards can be used for any type of purchase or service payment you, your office managers/admins, or your technicians need to make.
+
+- Purchase supplies, materials, truck repairs, or pay for online subscriptions using funds deposited into your Expense account.
+
+- Expense Card purchases will automatically reconcile with your QuickBooks Online account.
+​
+
+What are the eligibility requirements to enroll in Expense Management and to order Expense Cards?
+
+- The first steps toward ordering and using Expense Cards are to enroll in Expense Management and to fund your Expense account.
+
+- To be eligible to enroll in Expense Management and order Expense Cards, you must: - Be a U.S.-based company.
+- Be enrolled in Housecall Pro Payments. 
+- Be on the Essentials or MAX subscription.*
+
+How does the QuickBooks Online Integration work with Expense Cards?
+
+- To learn more about how Expense Card purchases and transfers to and from your Expense account balance are automatically recorded with our QuickBooks Online Integration, check out our Help Article, "Expense Cards: QuickBooks Online Integration" in the HCP Help Center.
+
+Do I need to set a PIN on an Expense Card?
+
+- No, you do not need to set a PIN on a specific card. While you may need to confirm the zip code of your business for some purchases, you do not need to set PIN numbers at this time.
+
+- Simply activate the card from your My Money page, and you can begin to make purchases when there are funds in the Expense account balance.
+
+- If you’re given the option to choose Debit or Credit when checking out at a store, choose Credit. 
+​
+
+What are pending transactions?
+
+- In your Expenses Transactions page, you will see both pending and completed transactions.
+
+- Pending transactions will show Expense Cards purchases, deposits, and withdrawals that are still processing while money moves between accounts.
+
+- Depending on the transaction type, you will see pending transactions for 2-4 business days before they move to completed purchases.
+
+Why are my card transactions getting declined?
+
+There are several reasons why your Expense Cards purchases may be getting declined, including:
+
+- The card may not be active. - If you have yet to activate your Expense Card or one of your technicians' cards, it will automatically be declined. 
+- To learn more about activating your Expense Card, check out our Help Article, Expense Cards: Order & Activate in the HCP Help Center.
+
+- Spending limits have been reached. - If you have set a spending limit for an Expense Card, any attempted transaction that is over the set amount (per transaction, daily, weekly, or monthly) will automatically be declined. 
+- To learn more about editing the spending limits on a card, check out our Help Article, Expense Cards: How to Control Spending in the HCP Help Center.
+
+- The card has insufficient funds. - If you do not have enough funds in your Expense account, any transaction for more than the amount remaining will automatically be declined.
+- In this case, you will need to fund your Expense account by setting a minimum balance or transferring funds from an external bank account. 
+- To learn more about funding your Expense account, check out our Help Article, Expense Account: How to Fund Your Account in the HCP Help Center.
+
+- The card is being swiped when the chip or tap-to-pay should be used. - When a card terminal has the ability to accept payment via chip or tap-to-pay, the card’s magnetic strip is disabled because chip and tap-to-pay are the most secure payment mechanisms and the best way to keep your card’s information safe.
+​
+
+How can I dispute a fraudulent transaction?
+
+Before submitting a dispute:
+
+- If you believe your card has been used fraudulently, cancel and reorder the card immediately so that it can’t be used again.
+
+- Review the transaction and ensure you do not recognize the transaction or the merchant. If you do recognize the merchant, contact them directly. Most of the time, misunderstandings or errors can be resolved much more quickly with the merchant than by formally disputing the charge.
+
+- Please note that complaints regarding a transaction you do recognize, including, but not limited to: duplicate charges, incorrect charge amounts, non-delivery of goods or services, unsatisfactory quality of goods or services delivered, buyer’s remorse, or disagreement with a merchant about tips or added charges, must be addressed directly with the merchant before a dispute can be filed.
+
+- If you do believe that a transaction posted to your Financial Account was unauthorized or otherwise fraudulent, you have the right to dispute such a transaction.
+
+To prepare for the dispute process, gather any relevant documentation to support your claim that your card was used in a fraudulent manner, which could include items like the following:
+
+- A record of the transaction(s) you’d like to dispute.
+
+- Any evidence that shows the cardholder's whereabouts at the time of the fraudulent transaction. This could be in the form of: - Receipts from authorized transactions on the same card or a different card(s) made around the same time 
+- Plane tickets or hotel reservations
+- Correspondences with others discussing whereabouts
+- Phone/computer device location information
+- Signed witness statements substantiating your whereabouts
+- A lost or stolen card report before the transaction took place
+- A police report which specifies that your card information was used fraudulently
+- Any correspondence with the merchant regarding the unauthorized transaction.
+
+- To initiate a dispute, contact Housecall Pro’s Support Team via the chat interface in your Housecall Pro account no later than 60 days after the transaction was authorized.
+
+- Upon receipt of your dispute, a Third Party Financial Partner will initiate an investigation.
+
+- At the conclusion of the investigation, you will receive an email from our Third Party Financial Partner with the outcome.
+
+---
+
+Instant Deposits FAQs
+
+Now funds are available in your Expense account in less than two business days* after a bank transfer is initiated at no extra charge.
+
+And get this: by starting a transfer before 11:00 AM CST on a business day, the funds could arrive the same day!
+
+How much does it cost to get the faster funding speed?
+
+- There is no fee to use the faster funding speed.
+​
+
+Do I need to update my current recurring transfers from my bank account to get faster funding?
+
+- No. Your preexisting transfers will default to the faster funding speed and should arrive in your Expense account in less than two business days.
+​
+
+Is it possible to transfer the funds on the same business day?
+
+- Yes. It’s not guaranteed, but initiating a transfer before 11:00 AM CST on a business day increases the likelihood that the funds will be in your Expense account on the same day.
+​
+
+Will the funds always be transferred in less than two business days?
+
+- No. Some fund transfers will take the standard 4 business days to reach your account. This is part of an additional security check to make sure the transfer wasn’t made fraudulently. Unfortunately, these security measures will result in a longer time before the transfer is complete.
+
+- You may also need to refresh your external bank account connection to be eligible for the faster funding speed. Look for a blue banner on the Expenses Overview page to refresh your bank account connection.
+​
+
+Will the faster funding speed impact my minimum balance setting?
+
+- No. We recommend setting up/keeping a minimum balance so your account stays funded in between transfers using credit card payments.
+​
+
+---
+
+---
+
+By using Housecall Pro services, you agree to the Housecall Pro Terms of Service.
+
+---

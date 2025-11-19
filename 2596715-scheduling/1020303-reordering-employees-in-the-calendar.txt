@@ -1,0 +1,34 @@
+Reordering Employees in the Calendar
+Source: https://help.housecallpro.com/en/articles/1020303-reordering-employees-in-the-calendar
+Author: Alyssa Moretti
+Last updated: Updated over a month ago
+
+Summary: Reorder and organize the order in which your employees appear in the calendar's schedule view
+
+How to change the employee order in the Housecall Pro Calendar
+
+You can easily choose which order employees appear in on the calendar to make scheduling and dispatching as efficient as possible.
+
+- To access your Housecall Pro calendar, click on the Schedule tab featured in the navigation menu at the top of your Housecall Pro home page or dashboard.
+
+- To edit the order in which your employees are displayed on the calendar, first click on the three-line Menu icon located in the top left corner of your calendar page. A panel will slide open on the left side of your screen, with the monthly calendar located at the top of the panel and a list of your employees beneath it.
+
+[Image] https://downloads.intercomcdn.com/i/o/582861032/f1494e6323c8d123a7d1f968/Screenshot+2022-09-19+at+5.38.50+PM.png?expires=1763568000&signature=dc581b657e4173515ff565f68e70ab8275a4eeb79e9c3dd408f93a116a7ac6f0&req=cSglHs9%2FnYJdFb4f3HP0gA2pPhV0ZQD6R69PX60nP2yg967oZMgeDJ4xrCNb%0A2pqKJVEfxk%2Fzs%2F8pRA%3D%3D%0A
+
+- Next, reorder your employees by clicking on Reorder employees represented by a three descending line icon located next to Team calendars. This will direct you to a separate page featuring your list of employees to the right of a two-lined icon. Click on this two-lined icon to drag and drop the employees into the order of your preference.
+
+- When you are finished, click on the blue, Save order button in the top right corner of your screen. This will produce a pop-up window entitled Save employee order and will read: "Employees will display in this order across all users' calendars. This applies to web, iOS, and Android." You then have the option to press the blue Cancel button to cancel the changes, or the blue Save order button to confirm the changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/1108218441/56bae2e965dc9633871bc034/Screenshot+2024-07-09+at+2_46_55%E2%80%AFPM.png?expires=1763568000&signature=85a50c4007bacec510f4c6f0eb258551804942e8379d8e607fb21aa4c83efe45&req=dSEnHst%2FlYVbWPMW1HO4zcj8bncHC2abolDBBFUxVPTlSQvARPZT8TcxrUMH%0AiYmOhI6p1DLPeDU%2B5c0%3D%0A
+
+We recommend moving office staff members to the bottom of the list to make it easier to see the field techs' schedules.
+
+- After your employees are in the correct place, the order will be reflected in the dispatch view of the calendar and when using the View by employee functionality on Day, Week and Monday-Friday views.
+
+[Image] https://downloads.intercomcdn.com/i/o/582861618/4cce581ebf6aa7a9aaea4220/Screenshot+2022-09-19+at+5.40.53+PM.png?expires=1763568000&signature=08bc3d6c30855712e7485f3f01a68713d808a46487b11d8242805ef1851501ba&req=cSglHs9%2Fm4BXFb4f3HP0gJKs3v7Y1nBc2WYUitKAWcGJlOCwpJtYOQlPiuGF%0AKhibJ7tRNj4Q44CTlA%3D%3D%0A
+
+For more information on the key features of the Housecall Pro schedule (calendar), click here.
+
+---
+
+---

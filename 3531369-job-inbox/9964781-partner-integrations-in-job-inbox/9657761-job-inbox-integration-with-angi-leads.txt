@@ -1,0 +1,129 @@
+Job Inbox: Integration with Angi Leads
+Source: https://help.housecallpro.com/en/articles/9657761-job-inbox-integration-with-angi-leads
+Author: Mathew H
+Last updated: Updated over 4 months ago
+
+Summary: Directly integrate Angi Leads into your Housecall Pro account.
+
+Overview
+
+Housecall Pro has partnered with Angi Leads to bring your leads straight to your HCP inbox!
+
+We know you are already using Angi Leads to boost your business and win more jobs, and now you can easily connect your two accounts to manage it all in one place: your Housecall Pro app.
+
+This integration eliminates the need for manual imports, saving you valuable time and streamlining your workflow.
+
+---
+
+How to Find Your Angi Leads Service Provider ID
+
+The one piece of information you'll need to connect your Angi Leads account to Housecall Pro is your Angi Leads Service Provider ID.
+
+To find your Angi Leads SP ID:
+
+- Log in to your Angi Leads account at office.angi.com/app/login.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130398856/8a33dad3746ef78a36424e12/Screenshot+2024-07-31+at+09_36_39.png?expires=1763568000&signature=913102aa0f14f578e82ba3cb085a0cb4c2dd8e142e228d67e7ade3338acb8654&req=dSEkFsp3lYlaX%2FMW1HO4zZDaDh4JEdlD0erJP6%2B87LKynmk79zWSxbCBHSzv%0ApgfHPDh4TRAOa0j7M44%3D%0A
+
+- Then, click on the button that says "Angi Leads" in the upper right corner of the screen.
+
+- Your SP ID will be the number after "ID:" near the top of that drop-down. - Keep this number handy as you navigate back to HCP to connect your accounts!
+
+[Image] https://downloads.intercomcdn.com/i/o/1171465273/9c616a05e7e6e8a95dd112ed/Screenshot_2024-09-06_at_11_09_36%E2%80%AFAM.png?expires=1763568000&signature=791ba4a84e21402496b3d7ae169e9e75374fdfd4c02a007258afff5a03409bc5&req=dSEgF814mINYWvMW1HO4zRas0qaC%2B2VMYkBORCrNOSy390sDS%2B%2BNHzdjM90q%0AydTuQrwBISgnJuoVV3k%3D%0A
+
+---
+
+How to Enable the Angi Leads Integration in Housecall Pro
+
+To enable your integration with Angi Leads:
+
+- First, go to My Apps within your Housecall Pro account by clicking on the 3x3 square icon in the top right corner of your screen.
+
+- Then, select the Job Inbox app.
+
+[Image] https://downloads.intercomcdn.com/i/o/1171496791/7354360e960ba2f120aa00f4/Screenshot_2024-09-06_at_11_41_06%E2%80%AFAM.png?expires=1763568000&signature=f8c08512c4db6ed8773991478b667275becaba95716b5a8988917d7dc5beec8b&req=dSEgF813m4ZWWPMW1HO4zZtDj0%2BQ5ZYr0Ugixp9Hboc5sAOhliH6UsfdKsWZ%0ALTejrgWrcVcjUZL%2BKWc%3D%0A
+
+- Locate the Angi Leads integration option and click the toggle next to it to enable the integration. The toggle should be blue once enabled.
+
+[Image] https://downloads.intercomcdn.com/i/o/1171500262/a89ab7d4bf80dd4dc417164b/Screenshot_2024-09-06_at_11_45_25%E2%80%AFAM.png?expires=1763568000&signature=91a960f6e1e6cb902ed9fd864ec6713a6d87a20f070d7bf4497199fae5560c95&req=dSEgF8x%2BnYNZW%2FMW1HO4zXvqNJ1wrxJ%2BPzyWvqtGDAqnwpS2cfqSHkwUBINm%0AqR3fCt6xE8Z6Zak718A%3D%0A
+
+- Next, go to 'Inbox' in your Housecall Pro navigation bar and select 'Job Inbox' from the menu on the left.
+
+- In your Job Inbox, find the designated Angi Leads channel and click 'Connect.'
+
+[Image] https://downloads.intercomcdn.com/i/o/1171502222/7499497a72cfb183382ccd5c/Screenshot_2024-09-06_at_11_47_21%E2%80%AFAM.png?expires=1763568000&signature=a7c1635976929f6d67473d2fecdef19d3e3bbfda0baa5e0a8a306ba55deab918&req=dSEgF8x%2Bn4NdW%2FMW1HO4zbHCwbwTh0V9H8Y10yYkay5xvofiFuj65RXcbQm3%0AAxno8edACFmyTzG%2BhWg%3D%0A
+
+- This is where your Angi Leads Service Provider ID will be used. Enter your SP ID into the designated text box and click 'Submit.'
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1253674351/df6593abc94124e96fe405082a21/Screenshot+2024-11-15+at+11_51_21%E2%80%AFAM.png?expires=1763568000&signature=e1c994299b287573cedb9de51392582d7df3f3ce218f44d1d100e17c56c6b0cf&req=dSIiFc95mYJaWPMW1HO4zT%2BJcRiUxnFg3ulH%2B773DdxYxcZ%2F9eR2V5ebc4dh%0AU%2FjK736cMgQn0qFtdiQ%3D%0A
+
+- The Angi Leads integration can take up to 7 days to successfully connect. This will be noted in the Angi Leads channel of your Job Inbox.
+
+[Image] https://downloads.intercomcdn.com/i/o/1171506571/9fe31fab9edac3033c0316a0/Screenshot_2024-09-06_at_11_51_02%E2%80%AFAM.png?expires=1763568000&signature=79ea65caab33ca2fd684cd07a6816e09ac105c2b4ccf5bf7e4b9760539bbf1e3&req=dSEgF8x%2Bm4RYWPMW1HO4zbYYmblwsq1czt73Qw9mglfJkPgYLr4CBj9lDCIY%0ANU42P6OdYaaWcubFcLs%3D%0A
+
+- Once the integration has been successfully activated, you will see this message in your Angi Leads channel: "✅ Angi Leads integration successfully activated. Angi Leads leads will now appear inside Job Inbox channel"
+
+[Image] https://downloads.intercomcdn.com/i/o/1171507811/d9003722c5cce3322901c3d6/Screenshot_2024-09-06_at_11_52_58%E2%80%AFAM.png?expires=1763568000&signature=20fd79e5e2869dff411ca6e20edc6636a6905b989ecbd5454094b5c23c0fc1c3&req=dSEgF8x%2BmoleWPMW1HO4zXpAyHgdZMI4HsR7Ccl2ksCoH41hwKFW%2BJtpENmg%0ANu7cVoBTO1Lr19YTsPs%3D%0A
+
+---
+
+Getting Angi Leads in Job Inbox
+
+Once the integration has been successfully activated, all new leads from Angi Leads will be automatically created as leads in your Housecall Pro account, and you'll receive a notification for each lead in your Job Inbox.
+
+[Image] https://downloads.intercomcdn.com/i/o/1171512729/e933c18ed61189561673d1c0/Screenshot+2024-09-06+at+11_58_22%E2%80%AFAM.png?expires=1763568000&signature=db38cdd8dba7b86735dc3e3c081c3973887f036861ada63b2ea8d03a54062c2e&req=dSEgF8x%2Fn4ZdUPMW1HO4za8uZLITvU1jtCWYIFnhfst%2FdZiRshbLnDoazYlP%0AX6iWP1Tw12FvaQRjyV4%3D%0A
+
+By clicking 'Learn More' on the lead card, you'll be able to review the lead details, including contact information, availability, how much you paid for the lead, the ability to copy the lead to a job or estimate, and the ability to chat with the customer.
+
+[Image] https://downloads.intercomcdn.com/i/o/1171515200/1b6c2c3e3ebc99f8163c0e10/Screenshot_2024-09-06_at_11_59_05%E2%80%AFAM.png?expires=1763568000&signature=bd3030e8d7d0cdbf6c0864661206dc53935f7d6abf498079d021f2e114de0ea6&req=dSEgF8x%2FmINfWfMW1HO4zQckCCY1JIKNCrqWC7TrUKtuL1%2BvUKmRfrVWMe%2BT%0AnTouvF2XAQEcGjcBYzk%3D%0A
+
+---
+
+What to Do if the Integration Fails to Connect
+
+If the integration isn't connecting after you’ve tried enabling it, please verify the Service Provider ID (SP ID) you’ve entered.
+
+- To find your Angi Leads SP ID, log in to your Angi Leads account at office.angi.com/app/login.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1253664808/d556d09f6ff0db760f4d09f96a6d/Screenshot%2B2024-07-31%2Bat%2B09_36_39.png?expires=1763568000&signature=d7cb6ab7339f4e10dfa4057c202502caa459e64a7f36767ed8a66621d40e6d7e&req=dSIiFc94mYlfUfMW1HO4zWaUWQ4D7%2F4xE1L26gYmoj1hwKRNVs0noVD%2FXYXS%0AsVyA%2F2b8nLylUbOkq50%3D%0A
+
+- Then, click on the button that says "Angi Leads" in the upper right corner of your screen.
+
+- Your SP ID will be the number after "ID:" near the top of that drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1253665516/60676243e06b5cba508743649921/Screenshot_2024-09-06_at_11_09_36-E2-80-AFAM.png?expires=1763568000&signature=381604d7fef27e48e94f88f00e3475763046f605a96ad46fc9cb0b31cfedf1ef&req=dSIiFc94mIReX%2FMW1HO4zWwR0McY04JEzfjLvWRjKX3OXOElO4t%2FdRBnR0kf%0A0mDySmoDUKQqJJAF3jk%3D%0A
+
+- In Housecall Pro, select 'Inbox' in the navigation bar at the top of your screen, then select 'Job Inbox' from the menu on the left.
+
+- Within your Job Inbox, find the designated Angi Leads channel and click 'Connect.'
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1253666348/ef5cd72caa2a34bd243e7439c79a/Screenshot_2024-09-06_at_11_47_21-E2-80-AFAM.png?expires=1763568000&signature=7f97bab4a8f4881c910e3ec5ee26586c773a577734b1dec8a9a964e938b203a8&req=dSIiFc94m4JbUfMW1HO4zfE5xX3Dp10g3SeFSDL5xu5ln8ykk6x7ZiAewYVD%0ABzkk8eazBZk3e6Q2Np4%3D%0A
+
+- Re-enter your SP ID into the designated text box, then click 'Submit.'
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1253674643/b166ecb240e6a41b63c2725ad3f7/Screenshot%2B2024-11-15%2Bat%2B11_51_21-E2-80-AFAM.png?expires=1763568000&signature=92ef09b138fb47d5c9cd1c8d64e71dd67bd04db38b31aeafab1c9e0f2f4a4df3&req=dSIiFc95mYdbWvMW1HO4zWnn4McPZQL2qSQY8fyhR66sWd4D4JXaaB6GDjFa%0A3YIq51LGfK07tV3WfxQ%3D%0A
+
+---
+
+Understanding Masked Phone Numbers with Angi Leads
+
+Angi Leads now sends masked phone numbers for new leads to meet compliance rules. These numbers forward to the customer but expire after about 30 days. Pros will see a label and chat note explaining the details of the masked phone number.
+
+What are masked phone numbers?
+
+- A masked number is a temporary phone number that hides your customer’s real number. When you call or text, the masked number connects you to the customer, but their real number stays private. You can still talk and text like normal, but neither of you will see each other's actual phone numbers.
+
+Here’s what you need to know:
+
+- When an Angi Lead comes in through Job Inbox, you will see a label that shares when the masked phone number will expire.
+
+- The masked phone number will expire after 30 days.
+
+- To contact your customer after the phone number expires, you will need to ask your customer for their real phone number.
+
+- To use your HCP Chat, Voice, SMS, or an external phone number to contact your customer, it needs to be linked to your Angi account. Learn how to link a phone number to your Angi Account here.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1608394313/6e08f572c127fea7f1bd981319a1/AD_4nXePHpetMpdb8tlyCm0i7_dm3gUoKdw7gS1Yh7m5MQseHhCiBjtSZsb_FeUaIlsww0wrRt6ucl_Xci5fHWUDUjgY8VTC6-BOMa1pvKnQXduAJOjMyPYjCR6-yCrGEC_UV2D1v3mukg?expires=1763568000&signature=19cf63c34ffacd5998043fb6dda56efc4635c64ff463eaf3115b53e8eca9cba6&req=dSYnHsp3mYJeWvMW1HO4zYSA8ljbeqbh6SjVVm1MIBw48qzp0crXVd2LD%2Fj1%0A69HI%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1608394508/49e37ddf945718f4e0708d912065/AD_4nXd48cfUww6Wwfg2CGd1hFxJMJTpk8a80T6w0nfNEwXDcYI3n8vEteW4rkqLmzHl64ji77lcx-Q7EVOdk6Ht1fqm0ZdebSbTeV_Kb3LkLrFwroE2R4VWbOGPDFZTVU47Q0uF0wTO?expires=1763568000&signature=bc62dfd9101a8f38bad7c91f659c8be03654bd066289179be8fd7cb052a9e753&req=dSYnHsp3mYRfUfMW1HO4zcZFoRa%2B1ow5aWb1HmedrnTtwuQRletlaBQkauvz%0AYqzs%0A
+
+---

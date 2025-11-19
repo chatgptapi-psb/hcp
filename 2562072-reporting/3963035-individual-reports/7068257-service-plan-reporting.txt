@@ -1,0 +1,65 @@
+Service Plan Reporting
+Source: https://help.housecallpro.com/en/articles/7068257-service-plan-reporting
+Author: Ian H
+Last updated: Updated over a month ago
+
+Summary: Reports and metrics to help dive into your service plan data
+
+If you're using Service Plans in Housecall Pro, you can now track the revenue generated from service plans, and the employees who sold them - all from the reporting tab. Use our new service plan reporting suite to dive into your data and make important business decisions around service plan strategies.
+
+Creating a service plan report
+
+Select the Reporting tab, located at the top of your HCP in your navigation bar.
+
+[Image] https://downloads.intercomcdn.com/i/o/1115542790/ee3ca7cf4679a91ddee5feea/Screenshot+2024-07-16+at+11_31_37%E2%80%AFAM.png?expires=1763568000&signature=a9cd59910a3a22b6aa7fbf30a9c7842cf15208e2081e8e345e514e810f6fd86b&req=dSEmE8x6n4ZWWfMW1HO4zVuowSKUAMHVoCgb7SsWzlgfh6C4BhKamNxd8SnO%0AJSiJgp7MhqKHUV8GNmU%3D%0A
+
+Within reporting, if you are using service plans, you will see a 'Service plans' option in the left sidebar. Click into Service plans to uncover your new reports. From there, click into any of the blue links on the right to open each report with default filters and date ranges.
+
+[Image] https://downloads.intercomcdn.com/i/o/687767508/e5996bc41c0a12d676f050e1/image.png?expires=1763568000&signature=4bb687c8a963ab51cef414eff73f8373ab70419849bd2307c2c023a8eb395e02&req=ciggEc95mIFXFb4f3HP0gK4CqfJuuNNGgNJhXFaSzCTDyb2%2FnnteXl65%2Fbif%0AV%2BYlr%2FmMIcfR1T62qQ%3D%3D%0A
+
+Service plan reports are categorized by date, employee, and type.
+
+New reports include:
+
+- Service plans by day/week/month
+- Recurring revenue by month (next 12 months)
+- Service plans by plan name
+- Recurring revenue by plan name (next 12 months)
+- Service plans sold by employee
+
+Understanding new metrics
+
+Three main metrics that are tied to service plan reporting are the number of plans, recurring revenue, and collected revenue.
+
+- Recurring revenue: total amount due from customers across all service plans
+- Collected revenue metric: amount of revenue collected from service plans within date range on the report
+- Plans sold by employee: total number of service plans sold by each tech or employee as identified in Housecall Pro
+
+[Image] https://downloads.intercomcdn.com/i/o/687725452/b7839dbed9cced3e4624df15/image.png?expires=1763568000&signature=f73de570d3bc1cba943578a6f86b25c88912aa79076b4b0bfcdd40b2ea52697c&req=ciggEct7mYRdFb4f3HP0gH4rwN1%2Fgw4lUbD4vfrUlAaLYtYsuE%2BnUzcrqf91%0Ac5B5tvDoCYDP85pwUA%3D%3D%0A
+
+Adding Sold by to your service plans
+
+When in your customer profile, click into any of their active service plans to update the sold amount. (This can also be added upon service plan creation). A new field has been added called sold by, located at the bottom of the service plan details card.
+
+[Image] https://downloads.intercomcdn.com/i/o/687774407/d9bf43dff5e84a7c1b5a3d63/image.png?expires=1763568000&signature=920eef25ada9cf781f075b21838d6f4519978542ee2690d8e28989c3c93114e2&req=ciggEc56mYFYFb4f3HP0gHHxioraAd30pDRJYJ09aauWl1oys3bUw9pHuhF3%0AGd3t6SRgPxcmD4pmrw%3D%3D%0A
+
+Use this field to report on how well your employees are selling service plans. Track revenue or total plans sold in our new employee service plan reports.
+
+Customizing your reports
+
+There are a few ways to manipulate the data that is displayed on any report - updating date ranges, managing filters, updating columns, or changing the graph display.
+
+To learn more information on everything you can do in reporting - check out this in-depth article on report customization.
+
+[Image] https://downloads.intercomcdn.com/i/o/687741126/8de2d8cb735296fbd152bee6/image.png?expires=1763568000&signature=e1fe169ea169f0c8d0712131a9097d95d0b319b539cd92453b82cc127c94baa2&req=ciggEc1%2FnINZFb4f3HP0gGDq%2BPh2wf73oAAl4b%2B%2BhweKlUOQLkEB3Hh3r7jO%0Ab7NHRYcNJ1vymPwhQA%3D%3D%0A
+
+- Click into the date drop down at the top left of the report graph to update the date range - Look at this week, month, quarter, year or even add in a custom date range
+- Use the drop down on the report graph to update the metric being displayed
+- Use your blue 'MANAGE FILTERS' button located at the bottom left of the graph to filter the results displayed in the graph and table
+- Use the blue 'EDIT COLUMNS' button at the bottom right of the report graph to manipulate the columns in the report table
+
+For more information on Service plans check out our help article collection here.
+
+---
+
+---

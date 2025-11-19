@@ -1,0 +1,28 @@
+Effective Strategies for Inventory Tracking and Reporting
+Source: https://help.housecallpro.com/en/articles/2154660-effective-strategies-for-inventory-tracking-and-reporting
+Author: Angel A
+Last updated: Updated over a month ago
+
+Summary: Keeping track of materials in Housecall Pro
+
+How do I keep track of inventory?
+
+Many of our pros use QuickBooks Online Plus as they have a built-in inventory tracking feature that works well for keeping track of your materials. If you have the material added as a price book item in Housecall Pro, you will be able to account for this in QuickBooks Online when the invoice with the material included is sent over.
+
+If you would like to track what type of materials you use on each job, check out our article on how to run a Material Usage on Jobs Report!
+
+You can also track and report on where material is coming from along with purchase details across jobs and employees. To learn more, check out Material Inventory Detail Tracking.
+
+If you have any questions or want to add your vote for this feature, be sure to chat into the blue chat bubble to do so!
+
+---
+
+Want to see a specific feature in Housecall Pro? Your voice matters!
+
+​Visit our Product Roadmap to suggest and vote for the features you'd love to see. Your feedback helps us improve our services to better meet your needs!
+
+Are you an HVAC business owner? Learn how to best price your services.
+
+---
+
+---

@@ -1,0 +1,165 @@
+QuickBooks Online: Managing Payments
+Source: https://help.housecallpro.com/en/articles/6293317-quickbooks-online-managing-payments
+Author: Nate H
+Last updated: Updated over 5 months ago
+
+Summary: How to manage payments and refunds with the QuickBooks Online integration when they are entered into Housecall Pro.
+
+How Invoices & Payments Link to QuickBooks Online
+
+When a job has successfully been pushed over to QuickBooks (either after the invoice is sent to the customer or the job is marked as Finished or Paid), links to the invoice and payment will be available in the QuickBooks Online section of the Job Details page in Housecall Pro.
+
+To view your invoice/payment in QBO directly from the Job Details page:
+
+- Open a job and scroll down to the QuickBooks Online section.
+
+- Click on the QuickBooks Online link to be taken to the invoice in your QuickBooks Online account.
+
+- If a payment was taken for the job, click on the QBO transactions drop-down to view the transaction history of the invoice, then click on the transaction details link to be taken to the payment in QuickBooks Online.
+
+[Image] https://downloads.intercomcdn.com/i/o/519922395/b1723a09d19e58786b1e6f6e/aainvoices2.png?expires=1763568000&signature=804fc34240a3b001a1104fa047c4a6c8dfcb0d7629aa74f54f0e4c5af8188712&req=cSEuH8t8nohaFb4f3HP0gIk2mDM2xzV9mMerDIhw%2FsKfHJyEdAz9CgOhO%2Bsf%0ANpX7k%2FlTrIXXHokhhQ%3D%3D%0A
+
+- On the Invoice page in QBO, click the payment made link under the Payment Status section.
+
+[Image] https://downloads.intercomcdn.com/i/o/542815427/4e0b0104eaecbf832b39a265/image.png?expires=1763568000&signature=2f8c3f01f7c461da4eb83239001988e5a78c7d9254235197ce33264a291ab112&req=cSQlHsh7mYNYFb4f3HP0gFzoe8309vOkX5saNw0yFIXGW7s0VO59Vf2YHyE9%0AuJg0FMBTy%2F%2Bh7tnjgg%3D%3D%0A
+
+- A small window will pop up with the payment details. Click on the date of the payment to open it.
+
+[Image] https://downloads.intercomcdn.com/i/o/542815810/06c2e881bdbba6a4a6960ff1/image.png?expires=1763568000&signature=10b96e1b5cf47adcd18139d22f4c6780b94dea535bf6db6aa25fc1789546796d&req=cSQlHsh7lYBfFb4f3HP0gMeoTDxJxXyaw5J9qfW3hUo72JfnHlc3lgfcBcIO%0AatyyCnhmo%2B%2BnHa%2B5UA%3D%3D%0A
+
+- You’ll then be able to see the details of the payments that were transferred from Housecall Pro to QuickBooks Online for that job.
+
+[Image] https://downloads.intercomcdn.com/i/o/538971193/7c0b094df0aa3671c503b270/pay6.png?expires=1763568000&signature=c5624eb1ac093835b9ab87678f5eb64c14f5d03188db83b4c10dbe33ad964c89&req=cSMvH85%2FnIhcFb4f3HP0gC3aXVUqV%2BJ%2Fz0Hw%2FbY5i%2FJQby3S08VzZKvZkoNo%0AgTroc6O%2FSrSpf7OdeQ%3D%3D%0A
+
+---
+
+How Service Plan Payments are Pushed to QuickBooks Online
+
+Service Plan payments get pushed to your QuickBooks Online account as an invoice and a payment. This push is triggered when a payment for that Service Plan is made.
+
+- If your customer accepts a Service Plan and puts their credit card on file: - When the first payment is completed for the recurring Service Plan, the invoice and payment will be pushed to QuickBooks Online.
+
+- If you accept the Service Plan on behalf of the customer: - You will be prompted to enter the payment information to process the initial payment. Since you are collecting the payment through Housecall Pro, the invoice and payment will be pushed to QuickBooks Online.
+
+- If a recurring Service Plan is already marked as Paid: - Since you are not collecting payment for the plan in Housecall Pro, the invoice and payment will not be pushed to QuickBooks Online.
+
+To view Service Plan payments in QuickBooks Online:
+
+- Click on Sales in the navigation menu on the left side of your QuickBooks Online account, then select Invoices from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/1178294808/82b78b7e5e6afad336c1e850/Screenshot+2024-09-12+at+4_24_59%E2%80%AFPM.png?expires=1763568000&signature=d120e148e5063479030773c6154166328de192895f58d982334926313d15424b&req=dSEgHst3mYlfUfMW1HO4zZvG46iqiVdatMDTCCm%2BeG%2F%2BBw3CmObHd1hnNx1S%0ADnDW7CI7OdzlCdribEA%3D%0A
+
+- Invoices with Service Plan payments will show as "RSA" in the No. column.
+
+- Click on the invoice to open the Invoice page. 
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/1164193040/1c5ebe9eee6b568c8a7db99b/RSA-5.png?expires=1763568000&signature=6403604473eeabf6279622d99435c76f1ac2cfae55ee4f15aa86e9627459920a&req=dSEhEsh3noFbWfMW1HO4zVhYVvbrJ0%2Bo45xsK%2B74LJsZcJ21JUOr27%2BQSZqd%0AmO9962401mO5RQoz99U%3D%0A
+
+- The Invoice number ("RSA") will be shown in the top left corner of the page and in the 'Invoice No.' box on the right, under the payment status information.
+
+- The Description of the line item on the invoice is displayed as the name of the Service Plan
+
+- The Product/Service column shows which Income Account the Service Plan will be categorized under.
+
+[Image] https://downloads.intercomcdn.com/i/o/1178338752/363a663920807df38292111d/ServicePlanInvoice.png?expires=1763568000&signature=052d2c39a1279b604903b9943ca73819c3d572308ac004c7752b940c1757fdec&req=dSEgHsp9lYZaW%2FMW1HO4zaLtG8aNvdQ9xk%2FUDN3nYu1h3T%2FCYK9LIvsm%2FSkX%0A4rxhDpdz37%2Bj%2BO%2BiPR4%3D%0A
+
+---
+
+Pull Payments from QuickBooks Online
+
+If you accidentally marked an invoice as Paid in QuickBooks Online before marking it as Paid in Housecall Pro, you can manually force HCP to pull payments from your QBO account.
+
+To pull a payment from QBO to HCP:
+
+- Open a job and scroll down to the bottom of the page.
+
+- Click the More icon (three dots) in the top right corner of the QuickBooks Online section, under the Activity Feed.
+
+- Then, select Pull Payment from QBO from the options that appear. This option allows you to pull the payment directly from QuickBooks Online into Housecall Pro to match payments without creating a new one.
+
+[Image] https://downloads.intercomcdn.com/i/o/1178344520/67f7942d1933d8f88a391a2e/QBOPullPayment1.png?expires=1763568000&signature=48c7eb84033a70ee94334c218d9f400db3d1cde15d3dda6b2d3c50c250c415c1&req=dSEgHsp6mYRdWfMW1HO4zey71tlDBCsMSUv3001ORy15Gqde4flOP%2B7ddFrx%0AaAKWp%2FTqklvBuI%2BzfUw%3D%0A
+
+---
+
+Add a Local Payment (Not Sent to QuickBooks Online)
+
+If you need to mark an invoice as paid in Housecall Pro without sending the payment to QuickBooks Online, you can do so by adding a local payment. This will ensure that you avoid duplicate payments if a payment has already been recorded.
+
+To add a Local Payment:
+
+- Open a job linked to the invoice that you need to mark as Paid in Housecall Pro. ​
+
+- Scroll down to the bottom of the page and click on the More icon (three dots) in the top right corner of the QuickBooks Online section, under the Activity Feed.
+
+- Then, select Add Local Payment from the options that appear.
+
+[Image] https://downloads.intercomcdn.com/i/o/1178347049/db1c9cb78c81871f2c2c3f72/AddLocalPayment.png?expires=1763568000&signature=561edf5946d2e42302db1271ced35a7990a91832eb451f493ba2b8d2d6407231&req=dSEgHsp6moFbUPMW1HO4zetNMrKqh6uHJqDDsi0IJE%2BcACLph%2B5z6zP6ktaB%0AgskupLeXPBFrQBRD6QI%3D%0A
+
+- From here, the Payment (not sent to QuickBooks Online) window will pop up, where you can mark the job as paid with Cash, Check, or Other. You can also choose to notify the customer and send a payment receipt from Housecall Pro. - If you do not want the customer to be notified of this payment being marked, then uncheck the Notify customer option in the bottom left corner of the window.
+
+- Enter the payment amount, then click PAID in the bottom right corner of the window.
+
+[Image] https://downloads.intercomcdn.com/i/o/1178350777/c67cc9dcbcdbb26f75783082/Housecall-Pro+-+2024-09-12T172928_589.png?expires=1763568000&signature=1f0d9b3418af4afdc54849a4bbfed6f6ae6480b367e3a17b871df6bd2e7c93f4&req=dSEgHsp7nYZYXvMW1HO4zU4U2bsW3qTRsGXVFrPCQTuqbVmSOeMXxnur1F5E%0AyynstoY6rYXYMeTI0Nc%3D%0A
+
+- Once this is done, your job will be marked as Paid in Housecall Pro, and the transaction details will be shown under the Payment history section of the Job Details page.
+
+[Image] https://downloads.intercomcdn.com/i/o/1178332130/737ca87b237fb7ac3920ca4f/local5-png-1420%C3%97749-.png?expires=1763568000&signature=9760a82ef05ef4a1ba916d87576e56235590d71cdaf183660dc2a3e7ba790338&req=dSEgHsp9n4BcWfMW1HO4zT1Un8QxKlODgS%2FgjZg4aNQnWIA8CYxPX6Ss0DPx%0AO2UoKqzPD7Tpjs7vQko%3D%0A
+
+---
+
+How Refunds Work with the QuickBooks Online Integration
+
+When you refund payments in Housecall Pro, a Refund Receipt is created under the customer's profile in QuickBooks Online.
+
+After processing a refund in Housecall Pro, ensure that you see the refunded item in the customer's Transactions List in QuickBooks Online.
+
+To verify refunds in the Transaction List and view the Refund Receipt:
+
+- Click on Sales in the navigation menu on the left side of your QBO account, then select Customers from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/1178375165/c7f20f4c7353a0c99aa3c3f6/Screenshot+2024-09-12+at+6_01_13%E2%80%AFPM.png?expires=1763568000&signature=8de9a3fb0981083b3f09cc4f70b9e5c5dc1ffd7a12928b7aa8d2df9c838fd687&req=dSEgHsp5mIBZXPMW1HO4zeoUlMs1YnoYNx4OGJX92wwksyPTgPNHuGFwgiq6%0AJfbUogMR%2BP7YCx%2BA2lw%3D%0A
+
+- Next, select the appropriate customer and identify the refunded payment in the Transaction List.
+
+[Image] https://downloads.intercomcdn.com/i/o/1178373375/c65a30ad9ea81e17985a7f9e/TransactionList.png?expires=1763568000&signature=bb3677a5c46fa75dde5cdf1dd23de5bcf3a656be38051f748959c40daabbdc5e&req=dSEgHsp5noJYXPMW1HO4zbcTVaE7cfwajn0O6p7DSGEaWPaJXtfd%2F1RVDVqk%0AApTMrYryRyxWkhEo1Dk%3D%0A
+
+- Click on the refunded payment to view the Refund Receipt. This will show which invoice the refund was applied to, as well as the refunded amount, receipt date, customer name, and transaction details.
+
+- You can edit the Refund Receipt details by clicking Edit in the bottom right corner of the window.
+
+[Image] https://downloads.intercomcdn.com/i/o/1178381597/f718702daa31d46718c0e42f/Customer-Terry-Larry+%282%29.png?expires=1763568000&signature=058a449304ec838b87e8b02bcd3c2c91d3b0dec224fa132ac752eb87d7f0b28e&req=dSEgHsp2nIRWXvMW1HO4zdvyTuiOtbrzy7q0UatWvtZoRJNv%2F0sJ35iq5ROO%0Ao8CW9uRtON2qIha%2Bjh4%3D%0A
+
+- The Transactions List will show that the customer has a balance due for the refunded amount.
+
+[Image] https://downloads.intercomcdn.com/i/o/1178379249/3e6c7497fb6062ba5ade19e9/Customer-Terry-Larry+%281%29.png?expires=1763568000&signature=756ee57ab74c9e77494af9a930d755a54debe2f085a693bcc2a8bcfa47fa634c&req=dSEgHsp5lINbUPMW1HO4zZ9gO795Uwut2GtusozAvQYglUJe4lJ84XHtXnni%0AuXp7YO0ndAnIb7hNEOI%3D%0A
+
+- The refund receipt will also display on the register for your Undeposited Funds for you to add to a deposit and deduct from your account register appropriately.
+
+[Image] https://downloads.intercomcdn.com/i/o/1178385029/19f1d391dd0a702d78a170b7/Register+%281%29.png?expires=1763568000&signature=7ec925bcf1237a5019cf887ba3242809db42e092976fed9738b0d2b1b4f78e63&req=dSEgHsp2mIFdUPMW1HO4zUlywQ8JV4lBla8W%2F5RJUfAomFeXiY1c%2BzgYxx8%2B%0Ada6I36I%2FgPAnxQfib60%3D%0A
+
+---
+
+Video Tutorials
+
+How Credit Card Deposits Work between HCP and QBO:
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/o6gwn8ly7o
+
+How Credit Card Refunds Work between HCP and QBO:
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/mr9olwf525
+
+Credit Card Refund Issues:
+
+[Video - youtube] https://www.youtube.com/watch?v=5W77QGZCpO4
+
+Waterford Business Solutions is a certified Housecall Pro partner.
+
+---
+
+---
+
+Learn more about how Housecall Pro easily integrates with your
+
+Quickbooks Online account.

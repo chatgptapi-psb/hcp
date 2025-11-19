@@ -1,0 +1,720 @@
+Campaigns: Step-by-Step Guide
+Source: https://help.housecallpro.com/en/articles/8832769-campaigns-step-by-step-guide
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: Master the process of building one-time SMS and email campaigns, plus campaign flows, with our step-by-step guide.
+
+Build One-Time SMS/Email Campaigns and Flows
+
+This guide covers the essentials of creating one-time SMS and email campaigns and setting up automated flows based on triggers like job completions. Learn to streamline your marketing processes and enhance engagement with our expert step-by-step guide. Whether you're new to campaign building or looking to refine your approach, this guide provides all the insights you need.
+
+---
+
+How to Send a One-time SMS Campaign
+
+Setting Up Custom SMS and Securing Consent: Essential Steps for Compliance
+
+To send an SMS campaign, ensure you have a custom SMS number set up. Find out how to set up a custom SMS here. Additionally, your customers must consent to receiving SMS marketing. Please review our help article on confirming consent for SMS marketing to ensure compliance here.
+
+Express consent is a clear and deliberate agreement from an individual to receive specific communications, such as marketing emails or promotional texts. It requires a direct action, such as ticking a checkbox or signing a form, and verbally confirming their willingness to be contacted.
+
+Identifying the "right customer" for your marketing campaigns fundamentally begins with obtaining express consent. This initial step is crucial not only for compliance with regulations but also for establishing a foundation of trust and relevance. By securing this permission upfront, you target an audience that is more engaged and more likely to respond positively to your messages, thereby optimizing the impact of your campaigns and maintaining a respectful and ethical relationship with your customers.
+
+---
+
+Steps for Setting Up Your One-Time SMS Campaign
+
+Once you have set up a custom SMS number and obtained consent, you can send a one-time SMS campaign.
+
+- First, log in to your Housecall Pro account and select the Marketing tab from the top navigation bar.
+
+[Image] https://downloads.intercomcdn.com/i/o/773873101/84f10088124eea5cf4e2cbd9/Screenshot+2023-06-28+at+7.03.33+PM.png?expires=1763568000&signature=662a6cd0145723bf96540811516928c4f24c0cd926da30ec8f394683bda14faa&req=cyckHs59nIFeFb4f3HP0gIBm12U0eBzWjD4blg34KvGFLdf4b4ugLqMMgqjt%0A5lBX8TI3Yf1Qbs500Q%3D%3D%0A
+
+- Once in the marketing center, click on NEW CAMPAIGN in the upper right-hand corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140431580/22391cc712af091505e4cdea/Screenshot+2024-08-09+at+1_43_09%E2%80%AFPM.png?expires=1763568000&signature=072552a64ed6ebce7495264a9065f1bfc0724d9d723bd02ed5fc08646b2d6270&req=dSEjFs19nIRXWfMW1HO4zcT%2BnulXmu%2FyXZMiAL4LFVZS3XqIm%2F%2BgUd%2FLVxYE%0A1Vxt%2BUzqKqP%2F1M0meM0%3D%0A
+
+- Next, click Select under SMS one-time to get started with sending a one-time SMS campaign to a group of customers.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140571098/7993294a7bab9419cc2029d8/Screenshot+2024-08-09+at+4_05_31%E2%80%AFPM.png?expires=1763568000&signature=db5485839448f097f170297bfee9ced1a2a7baecdbe6080493eadd6486378311&req=dSEjFsx5nIFWUfMW1HO4zQTVXHEOOx8KrBPoaQcFRJuamJBRjRhDSNcGIT9q%0AC39lFKwgPfONUAvuq9A%3D%0A
+
+Here, you’ll select your recipients. You can either choose an existing list or create a new one by clicking New List in the upper right-hand corner. For more information on how customer lists work for one-time SMS campaigns, please view our help article here.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140518756/17cfcf41ca93f37432e3c3ae/Screenshot+2024-08-09+at+3_07_45%E2%80%AFPM.png?expires=1763568000&signature=b6e836643865f084e5a890e3c4e653f4a630909ff1e7396f12289ce459073733&req=dSEjFsx%2FlYZaX%2FMW1HO4zfmrzUtrbokALRXkGNUewhgiWL4zymAVsJ6Gm52m%0AGJUzJw3zD8ADNbVqUsE%3D%0A
+
+Effectively targeting the right customers is crucial for the success of your SMS marketing campaigns. By reaching the appropriate audience with relevant and desired content, you increase engagement rates, improve conversion rates, and ensure a higher return on investment, all while minimizing spam complaints.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140519465/72257a38e64c11717f2c2e6f/Screenshot+2024-08-09+at+3_08_26%E2%80%AFPM.png?expires=1763568000&signature=4f3c3d57efd364c1f4335deea70da410c1efdd43340ea8e313e2a087a122deb8&req=dSEjFsx%2FlIVZXPMW1HO4zbvC3jzg4v76tGWZgm1k6k88YFlChSBl%2BtWO8j%2B8%0Ahg2Iz%2BoAqyhMWQiHwzA%3D%0A
+
+If you create a new list, you'll need to enter a List Name for this group of target customers. Choose a name for your list that will help you easily identify the attributes of the customers; for example "High Value, Inactive Customers" or "Google Ads-Residential Customers."
+
+Next, click the Select a condition dropdown to set your conditions to refine your recipient list. Customer conditions are specific criteria that can be applied to target customers by filtering lists based on specific inputs. The conditions you can use include:
+
+- Customer Tag: You can apply tags to Customer Profiles to help categorize them based on certain characteristics or interactions. These tags can be used to segment your customers into different groups for targeted marketing campaigns and other functions within your Housecall Pro account.
+
+- Customer type: Residential, Commercial, or Contractor.
+
+- Location: Allows you to target customers within or outside specific cities or zip codes.
+
+- Lead Source: Helps identify where your customers are coming from, allowing you to tailor messages based on the initial touchpoint (e.g., website, referral, social media).
+
+- Lifetime Value: Allows you to identify your most valuable customers over time and target them with special offers or loyalty rewards.
+
+- Creation Date: Refers to the date a customer profile was added to your system, useful for engaging new versus long-term customers differently.
+
+- Last Service Date: Useful for follow-up campaigns or reminders and targeting customers based on when they last used your services. 
+​
+
+Here’s how to configure each condition after selecting your condition:
+
+- Customer Type: From the Option dropdown, select Is or Is Not, then select Residential, Commercial, or Contractor.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1781800680/2fb838c176f9ea4ec9c65ec7f0ae/image.png?expires=1763568000&signature=7a506a5318615beaab7ae84c19f23d994c7073ba0ca6a5062989852bb6c70219&req=dScvF8F%2BnYdXWfMW1HO4zdstUr1OwnQ6etRvtn44tH6j1ctTnGt%2BA8%2BQqX1c%0Ax7gTsMsK9jCOFXwU4i4%3D%0A
+
+- Customer Tag: From the Option dropdown, select Is or Is Not, then add the specific tag(s) you want to use.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140520412/93f8bc898d1672e78fcc2128/image.png?expires=1763568000&signature=94b85021ad810df46f9dbd7c32fef72aed7364af099d7b7bcc6da543d24551de&req=dSEjFsx8nYVeW%2FMW1HO4zabzcjOS%2FM4UGTUAq7slx5PBlgzd6lo1357bfHgy%0AW5jj1PekhvwJ%2F4BDOz4%3D%0A
+
+- Location: Choose from Is in Zip Code, Is not in Zip Code, Is in City, or Is not in City from the Option dropdown. Then, specify the city/cities or zip code(s).
+
+[Image] https://downloads.intercomcdn.com/i/o/1140521625/15c6728018c88f584386d0f8/image.png?expires=1763568000&signature=8534164529854c5b9019adf699e976ea19b151391f58510abc51a01bd2c91da8&req=dSEjFsx8nIddXPMW1HO4zU2xGlqVDVUSmY4D5bjbsAC%2Fxq%2F1hFeVTcfkWhTx%0AOKn%2BW5UwWmaV9GaitsU%3D%0A
+
+- Lead Source: Select Is or Is Not from the Option dropdown and choose the relevant lead source.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140522453/987d94af74643346d26bc325/image.png?expires=1763568000&signature=72d8110dd128a1895da4da26d456d2cf80448c43aaad54c51084eef2c1a375f3&req=dSEjFsx8n4VaWvMW1HO4zR7Orqbn5gSQz1sVoI33I7x7divcROw53krSn9VF%0ATw9qxov3NGJjCBqCJiI%3D%0A
+
+- Lifetime Value: Pick Is Less Than or Is Greater Than from the Option dropdown, and enter the corresponding value.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140530958/22c48232e49d08171ea68f6d/Screenshot+2024-08-09+at+3_20_09%E2%80%AFPM.png?expires=1763568000&signature=cce98ff24b18f0a12fe8f0824509275f13e36295595728f18a04c48bbc78b76c&req=dSEjFsx9nYhaUfMW1HO4zXEuN5XAdlxqfIWYdlPjr60mg8h9fR5m0okJOtMp%0A103z3wpwkkkZfryBRUQ%3D%0A
+
+- Creation Date: Choose either Is Before or Is After from the Option dropdown, and specify the date. Alternatively, select a time frame such as Within Last 7 Days, Within Last 15 Days, Within Last 30 Days, or Within Last 90 Days.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140530839/3d4e0715494f350ba006faed/Screenshot+2024-08-09+at+3_20_34%E2%80%AFPM.png?expires=1763568000&signature=2954f129bc0446e977159b083242331b91eba04f940321bbb6ffbd9f32cf9f11&req=dSEjFsx9nYlcUPMW1HO4zQH6BmNywoV0tqVWOnePkptQ32IRltTV80%2Brm%2Bh%2B%0Aq5AgXzKnr5J03foA9UQ%3D%0A
+
+- Last Service Date: Select Is Before or Is After from the Option dropdown and enter a date. You can also choose a range like Within Last 7 Days, Within Last 15 Days, Within Last 30 Days, or Within Last 90 Days.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140532681/e72a3077edbbda83c95ba768/image.png?expires=1763568000&signature=5c06dc77ef34ee6bd457c491ad8c09163b523cc109cad9d1ce897d5b8f45548c&req=dSEjFsx9n4dXWPMW1HO4zbLXikTJgLeKOMdJPKZdVhsR5KzPFxKh1vbZjmox%0A5K7XFJNCoI8TlVGV6Kg%3D%0A
+
+To add multiple conditions, click Add Condition. Combine multiple customer conditions to refine your target audience further. For instance, you might target customers tagged with "Residential" who also have "Google Local Services Ads" listed as their Lead Source. Ensure the conditions you set align with the goals of your campaign for optimal results.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140533323/e5bafe1da3b24100a73f5861/Screenshot+2024-08-09+at+3_22_28%E2%80%AFPM.png?expires=1763568000&signature=005ec741c0fb338e31465c1cd8f63f1a51cbb589fc740608d4f8696433a933d0&req=dSEjFsx9noJdWvMW1HO4zVtCPFyH90hcVLBKt4KvmHhWnPvojLovNiIk3CC5%0Avq%2BL%2F1aNpLJTbajaEks%3D%0A
+
+Best Practices for Using Customer Conditions
+
+- Regularly Update Data: Ensure your customer data is up-to-date to maintain the accuracy of your segments.
+
+- Respect Privacy and Consent: Always adhere to privacy laws and regulations by managing customer data responsibly and ensuring you have consent for marketing communication.
+
+- Monitor Campaign Effectiveness: Refer to the Campaign Metrics to monitor and track the performance of targeted customer lists. Analyze the results to refine future strategies and achieve better outcomes.
+
+If you’re satisfied with your conditions, click Save Preview in the upper right-hand corner to review your target customer list.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140533943/b3cd18aa2d55756d84dec1ec/Screenshot+2024-08-09+at+3_23_17%E2%80%AFPM.png?expires=1763568000&signature=08af1b7587bc6aedfb51245cf2e1c20ec7e7765a2841128a8ebfdd6286a9ee60&req=dSEjFsx9nohbWvMW1HO4zQINH97hW9sqU%2FW4KT2CUb%2Fl18vNXaHsLhkG1Y97%0AhxC8%2BxmTfww90Sse%2FHM%3D%0A
+
+This will display the recipients who meet your specified criteria. To find specific customers, use the search bar to search by display name, address, or other details.
+
+If you need to adjust the conditions of your target list, click Edit List to the right of the search bar. This allows you to modify your conditions or refine the list further.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140536050/6a3a15516213b2a00f347f84/image.png?expires=1763568000&signature=2c1e4cff7b3158b3ec0e3a5d8d4208a634c176f89416a8d5b2153cb6d6800861&req=dSEjFsx9m4FaWfMW1HO4zeoBkwvrL5kRwl8cpKVn6at2kOrsOfoWVDsF%2BHI5%0ApEuFUQ1SmkzPW0fG4a0%3D%0A
+
+If you're happy with the customers you are targeting, click Next in the upper right-hand corner to move to the Campaign setup page page.
+
+On the campaign setup page, you will see the Campaign Type header, followed by the SMS One-Time sub-header. Below this, your Custom SMS number will be listed.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140577012/4246e94f220546be527337cb/Screenshot+2024-08-09+at+4_12_14%E2%80%AFPM.png?expires=1763568000&signature=59cac497f945fe5dc8d42fb2fd50aa24c4fb8e1126bdf3eb2f31e1b4fc38f258&req=dSEjFsx5moFeW%2FMW1HO4zZ%2FrL7bpmMFcq1y8oW%2BXvtVGNT66hsZ90isl6AFj%0AREv%2F7eQhubPzqiSJ0AE%3D%0A
+
+Under your custom SMS phone number, you will see Choose a Quick Content Option, where you can select quick content types for your campaign from the available options:
+
+- Special Offer
+- Maintenance Reminder
+- Thank You
+
+For additional content types, use the dropdown menu labeled 'More' to include:
+
+- New Service
+- Referral
+
+[Image] https://downloads.intercomcdn.com/i/o/1140577422/2c98d96f31a37b65e6d7540b/image.png?expires=1763568000&signature=61de32fb94d7a07da0128a6942b2fccff5a039b1c14eb05a770eb773ea4a61c4&req=dSEjFsx5moVdW%2FMW1HO4zcGfnVcMNJDFkEBHgC3yBwzCAl2PB0Ej8ixquRQ3%0AygQi0ehbyVWcD5L2PHM%3D%0A
+
+To generate content using AI , click the Write it for me button below the Choose a quick content option text. Once the Write it for me dialog box opens, enter a clear and detailed prompt describing the objective of your text message, the key message you want to convey, and any specific elements you wish to include. The more specific and detailed your prompt, the better the AI can generate suitable content.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1294717931/3068d8f5f96554ee8ec7d059879f/image.png?expires=1763568000&signature=af77ed3b15776014b1aa49bfb212699e7bd516705254fe22f3656d89a05e5499&req=dSIuEs5%2FmohcWPMW1HO4zbYtcZNVKK0gstgmOJ4x6muygpHAVFPEN2VL%2FOiK%0AKZ2Rjmhwr3iReWHBHZc%3D%0A
+
+Best Practices for Writing AI Prompts
+
+- Be Specific: AI can only generate marketing messages based on the information you provide. Detail what the message is about, who the audience is, and what action you hope the recipients will take. - For example, instead of saying "promote sale," specify "promote a 20% off sale on A/C unit installation starting this Friday."
+
+- Include Tone and Style: Inform the AI about the tone and style of the message. Whether it’s professional, conversational, or urgent, these cues will guide the AI to align the text message content with your brand voice and desired outcomes.
+
+- Highlight Key Points: Emphasize any critical points that must be included, such as special offers, deadlines, or unique selling propositions. This ensures these elements are prominently featured in the content generated by the AI.
+
+Reviewing and Customizing AI-Generated Content
+
+- Once the AI generates your message, review it thoroughly and make adjustments when necessary. While AI can produce highly relevant content, it’s crucial to ensure that every message sounds like you and meets your campaign goals.
+
+- Add in specific details about your business/brand. This might include adding personal stories or adjusting the call to action.
+
+- Proofread your AI-generated content. Believe it or not, even computers make errors.
+
+You can include dynamic variables in the SMS message field by selecting 'Add Variable.' Variables are placeholders in your marketing communications that automatically get replaced with real data when the message is sent. In the Marketing Center, you can utilize 4 variables:
+
+- Company Name
+- Customer First Name
+- Customer Last Name
+- Company Phone
+
+[Image] https://downloads.intercomcdn.com/i/o/1140579062/57d7ea9306fba29df4d3871f/Screenshot+2024-08-09+at+4_14_51%E2%80%AFPM.png?expires=1763568000&signature=55912dddbb64b0fabeffd0456e245aea0944ab42a729fca122e29ae580b6fc1e&req=dSEjFsx5lIFZW%2FMW1HO4zceSnM8hn8Ix5R54UW3pqC7M9zcd1BXoJThvB7Fa%0AU28EOSbv5f3AyypASck%3D%0A
+
+In today’s competitive marketing landscape, personalization is key to connecting with your audience effectively. One powerful method to achieve this in your SMS campaigns is the use of variables. Variables allow you to automatically insert personalized elements into your messages based on specific information. This not only enhances the relevance of each message but also plays a significant role in reducing spam complaints.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140579062/57d7ea9306fba29df4d3871f/Screenshot+2024-08-09+at+4_14_51%E2%80%AFPM.png?expires=1763568000&signature=55912dddbb64b0fabeffd0456e245aea0944ab42a729fca122e29ae580b6fc1e&req=dSEjFsx5lIFZW%2FMW1HO4zceSnM8hn8Ix5R54UW3pqC7M9zcd1BXoJThvB7Fa%0AU28EOSbv5f3AyypASck%3D%0A
+
+Best Practices for Using Variables
+
+- Avoid Over-Personalization: While personalization is crucial, too much can make customers feel uncomfortable. Ensure that the data you use is appropriate and not too intrusive.
+
+- Keep Data Secure: Handle all customer data with care, ensuring compliance with data protection laws such as GDPR or CCPA.
+
+- Update Data Regularly: Periodically review and update your customer data to maintain the accuracy of your variables.
+
+- Educate Your Team: Ensure everyone involved in your SMS campaigns understands how to use variables effectively and responsibly.
+
+In the upper left-hand corner of the setup page, you will see the current name of the campaign and the date it was created. Click the edit pencil icon next to this to change the name of the campaign. A sidebar will slide out from the left side of the screen, allowing you to edit the campaign name field. After making your changes, click Save to update the campaign name.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140619063/6c88098b5b4758b427f70193/image.png?expires=1763568000&signature=31ce4721dec239c238d73c8a8826b71dd3b989eeec1bfff3cebc41abca914abd&req=dSEjFs9%2FlIFZWvMW1HO4zcFN71J4aB4lbCYcZROPcQiHbB6G3Mi4nBpG8LJZ%0AYYEtb3pnY%2FpFUXxaOtE%3D%0A
+
+To the right of the SMS One-Time section, view the Preview SMS section to see how the SMS will look from your customer's perspective.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140580543/d901bde1b30d889079212192/image.png?expires=1763568000&signature=f1bb4cef1865e6455a165228ffed00523d03d911a7eb37bff8da7824968b7e7a&req=dSEjFsx2nYRbWvMW1HO4zQ5uk13ftThlcnXRcVUMtHpNJK7wbxQuiKJBPjQv%0ANw9a27DbL6MgQdytfjE%3D%0A
+
+If you're happy with your campaign, click SEND CAMPAIGN in the top right corner of the preview page to start your campaign. If you want to review or make changes later, you can also save the campaign as a draft.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140534914/8b2695232e12cf8f14dfb2bf/Screenshot+2024-08-09+at+3_24_06%E2%80%AFPM.png?expires=1763568000&signature=7406627bd870f8b33eb640412e10802d40192591fb1ff973d325537d19f09995&req=dSEjFsx9mYheXfMW1HO4zcuawD0ai5mBmR1QKAnRj6csiQDYE2xjqpgXhb43%0AZ524eJ6Tct7swOxp%2FZE%3D%0A
+
+---
+
+---
+
+How to Send a One-time Email Campaign
+
+Understanding Email Opt-In Requirements and Verifying Reply-To Emails
+
+To enhance compliance and ensure effective communication between Pros and your customers, Housecall Pro is introducing an email consent requirement. Starting June 19th, 2024, it will be mandatory to obtain consent from customers before sending them marketing emails. This change aims to increase customer trust, ensure compliance with email marketing best practices, and improve the effectiveness of your campaigns. To further understand email opt-in requirements, please view our help center article on marketing center compliance here.
+
+Express consent is a clear and deliberate agreement from an individual to receive specific communications, such as marketing emails or promotional texts. It requires a direct action, such as ticking a checkbox or signing a form, and verbally confirming their willingness to be contacted.
+
+Identifying the "right customer" for your marketing campaigns fundamentally begins with obtaining express consent. This initial step is crucial not only for compliance with regulations but also for establishing a foundation of trust and relevance. By securing this permission upfront, you target an audience that is more engaged and more likely to respond positively to your messages, thereby optimizing the impact of your campaigns and maintaining a respectful and ethical relationship with your customers.
+
+In addition to obtaining consent from your customers for your email campaign, it’s essential to verify your email address to ensure proper delivery and compliance. To do this, log in to your Housecall Pro account and navigate to the top navigation bar, then click on Marketing. Under the One-Time Email Campaign section, select Select. Next, find the Verify Reply-To Email link to the right of the Reply-To Email header within the one-time email campaign setup.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140440161/3e9ed066cbb028546caf8631/Screenshot+2024-08-09+at+1_50_12%E2%80%AFPM.png?expires=1763568000&signature=754650ad0bfe3d1543d5f7fee8897ce1215bb46c9b1a32992d979015fe4dda78&req=dSEjFs16nYBZWPMW1HO4zRMh9JIwNPaBdcyrpIAn%2BKotW9BNwetXZiqu4PSM%0AlVbYPG%2FRTmas%2BJOhsyE%3D%0A
+
+Alternatively, navigate to your account settings by clicking the gear icon in the upper-right corner of your account. From there, select Marketing Center from the menu on the left side of the screen, then choose Reply-To Email from the dropdown menu. On the Reply-To Email page, click Add Email in the upper-right-hand corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1642143340/5569a7a704f98360aed09f5de411/image.png?expires=1763568000&signature=0face71cb23e7d56df84a60c49e909fb23878750cbaa05f0d7d61319323a8a0c&req=dSYjFMh6noJbWfMW1HO4zQTv8bFEC%2BCV4kkjA2EyDdlqE7aqKLGzufzHf3P1%0AEKWJkaCtyWOW1ZUk5nI%3D%0A
+
+A pop-up will appear where you can enter your email address. After adding your email address, click Add Email in the bottom-right corner to send a verification link.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140460575/989aa5856dd37aac40b3e5c0/image.png?expires=1763568000&signature=d3e29a926c1ea7cc907a52a2bb786ff41ddb223715ff98bc47ca30ae9f7fb849&req=dSEjFs14nYRYXPMW1HO4zQg5VXMHkgpbb2k5DROJ9jVAycrFHowX%2FXg%2B0Qxf%0AbNfG0%2BanMsM4kjBQZAE%3D%0A
+
+To resend a verification link for an email that has already been added, from the Reply-To Email settings page, click Resend Verification Link under the Actions column.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1642147033/f59d2459d864273baf41ce5072de/image.png?expires=1763568000&signature=1b4e0a77ca6cd7308597c8a37e8368b44b830717c54c402077d9341291eec2a1&req=dSYjFMh6moFcWvMW1HO4zUsd9ETAaOxtQHj5F8xS8zIzUjpVeHvnoAZXmtC3%0AW4k6I9K7ly%2Bnuk2CYKI%3D%0A
+
+A notification will appear at the bottom of your screen advising, "Email was sent to (your email). Go to your email and click the verification link." If you cannot find the email, please check your spam folder. If you still haven't received it, please chat into the blue bubble for further assistance.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140461992/d2878d99e4a451b5cae94aa2/image.png?expires=1763568000&signature=c115b8143fb97d496e8292893f0d0ea567af567f7dc2aa219a4f5766de927301&req=dSEjFs14nIhWW%2FMW1HO4zVrNFIhBHywsLuZRAb311Ag5tB6MGsDII2BV9851%0AntN2IUDbvD6MSXqD8nk%3D%0A
+
+---
+
+Steps for Setting Up Your One-Time Email Campaign
+
+Once you have obtained consent from your customer and verified your email address, you can proceed to send a one-time email campaign. First, log in to your Housecall Pro account and select the Marketing tab from the top navigation bar on your dashboard.
+
+[Image] https://downloads.intercomcdn.com/i/o/773873101/84f10088124eea5cf4e2cbd9/Screenshot+2023-06-28+at+7.03.33+PM.png?expires=1763568000&signature=662a6cd0145723bf96540811516928c4f24c0cd926da30ec8f394683bda14faa&req=cyckHs59nIFeFb4f3HP0gIBm12U0eBzWjD4blg34KvGFLdf4b4ugLqMMgqjt%0A5lBX8TI3Yf1Qbs500Q%3D%3D%0A
+
+Once in the marketing center, click on NEW CAMPAIGN in the upper right-hand corner
+
+[Image] https://downloads.intercomcdn.com/i/o/1140431580/22391cc712af091505e4cdea/Screenshot+2024-08-09+at+1_43_09%E2%80%AFPM.png?expires=1763568000&signature=072552a64ed6ebce7495264a9065f1bfc0724d9d723bd02ed5fc08646b2d6270&req=dSEjFs19nIRXWfMW1HO4zcT%2BnulXmu%2FyXZMiAL4LFVZS3XqIm%2F%2BgUd%2FLVxYE%0A1Vxt%2BUzqKqP%2F1M0meM0%3D%0A
+
+Next, click Select under Email one-time to get started with sending a one-time email campaign to a group of customers.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140438233/6422c317879bfd99634a1674/Screenshot+2024-08-09+at+1_47_26%E2%80%AFPM.png?expires=1763568000&signature=fd2e56f76ccf4147487e189aeb2651da8ed7aaee7c94b2500c4dc24c4e75b8c6&req=dSEjFs19lYNcWvMW1HO4zcbg2GP77dEHTy%2BGoXnli7x096ypzO6AG4YqkkN9%0AxMAoM9XNFBEuKnuKCZQ%3D%0A
+
+Once you have verified your email, you’re ready to set up a one-time email campaign.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140497877/cd7f166035bec137a92a8501/image.png?expires=1763568000&signature=b5e273a84653bb746c0efb238761d40b1bf44a0af0b51eb9ac13118a12920d3d&req=dSEjFs13molYXvMW1HO4zZjysRmQhLNrdKdnrGEir3kO4QusB4XOwkTPofWJ%0Ari4UchyeCA4jK0yrprs%3D%0A
+
+On the campaign setup page, you will see the Campaign Type header, followed by the Email One-Time sub-header. Below this, the Reply-To Email section will indicate the status of your reply-to email, showing whether it is verified or unverified.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140495502/122b21af81da944ffe8ddbd8/Screenshot+2024-08-09+at+2_43_12%E2%80%AFPM.png?expires=1763568000&signature=8db61580c4a5a629b988c540d2e7ef4dfe881d4c2870d4d808077be5b011bc44&req=dSEjFs13mIRfW%2FMW1HO4zXdBxJZcAc%2B1ipFexY5ZhPMr%2BP1%2B9zVifAOjoVHV%0A%2Fb%2B8voq5sVF0v8CYM6o%3D%0A
+
+Under the verified status, you will see Choose a Quick Content Option,
+
+where you can select quick content types for your campaign from the available options:
+
+- Special Offer
+- Maintenance Reminder
+- Thank You
+
+For additional content types, use the dropdown menu labeled 'More' to include:
+
+- New Service
+- Referral
+- SMS Opt-In
+
+[Image] https://downloads.intercomcdn.com/i/o/1140497129/a07dfcf3d1b9adff641758c4/image.png?expires=1763568000&signature=0f8e86ed6d8359156b36cb609b43c0afe3f5ebda4a732cc3b20f39ba8d4f175a&req=dSEjFs13moBdUPMW1HO4zYSNIjLHJz0IBhxHKjKhwFwrUaX5Ni9jneQJyeNo%0AmUM%2FuIszB9DyMNlJKsU%3D%0A
+
+To generate content using AI , click the Write it for me button below the Choose a quick content option text. Once the Write it for me dialog box opens, enter a clear and detailed prompt describing the objective of your email, the key message you want to convey, and any specific elements you wish to include. The more specific and detailed your prompt, the better the AI can generate suitable content.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1294724391/49f6b5b072a687909d0728fb6776/image.png?expires=1763568000&signature=528472031df314771a74e133f3f4ae9744a5540ce57f1568dd590378ddfe43f4&req=dSIuEs58mYJWWPMW1HO4zTfpGFq2N9o%2BPCWs1uFarGhp4lJiThph5ntLm2EM%0A7Vw5y%2B%2B6%2BpZyd95Wh8Q%3D%0A
+
+Best Practices for Writing AI Prompts
+
+- Be Specific: AI can only generate marketing messages based on the information you provide. Detail what the email is about, who the audience is, and what action you hope the recipients will take. For example, instead of saying "promote sale," specify "promote a 20% off sale on A/C unit installation starting this Friday."
+
+- Include Tone and Style: Inform the AI about the tone and style of the message. Whether it’s professional, conversational, or urgent, these cues will guide the AI to align the email content with your brand voice and desired outcomes.
+
+- Highlight Key Points: Emphasize any critical points that must be included, such as special offers, deadlines, or unique selling propositions. This ensures these elements are prominently featured in the content generated by the AI.
+
+Reviewing and Customizing AI-Generated Content
+
+- Once the AI generates your email, review it thoroughly and make adjustments when necessary. While AI can produce highly relevant content, it’s crucial to ensure that every email sounds like you and meets your campaign goals.
+
+- Add in specific details about your business/brand. This might include adding personal stories, adjusting the call to action, or refining the subject line.
+
+- Proofread your AI-generated content. Believe it or not, even computers make grammatical errors.
+
+To include dynamic variables in both the subject line and email body, select 'Add Variable.' Variables are placeholders in your marketing communications that automatically get replaced with real data when the message is sent. In the Marketing Center you can utilize 4 variables:
+
+- Company Name
+- Customer First Name
+- Customer Last Name
+- Company Phone
+
+[Image] https://downloads.intercomcdn.com/i/o/1140499994/cfddae7ec9f5d7bc8e6c3a99/Screenshot+2024-08-09+at+2_48_18%E2%80%AFPM.png?expires=1763568000&signature=976f7184d15487ef56674cb905e0cab6e422d881883fca66491d5975b121a9d3&req=dSEjFs13lIhWXfMW1HO4zU24G6%2BkgWVGppyZnKRH8Ym1NUtOi23s6USwgtWX%0Am9C8CoMOBwAxK%2F6IUxM%3D%0A
+
+In today’s competitive marketing landscape, personalization is key to connecting with your audience effectively. One powerful method to achieve this in your email campaigns is the use of variables. Variables allow you to automatically insert personalized elements into your messages based on specific information. This not only enhances the relevance of each message but also plays a significant role in reducing spam complaints.
+
+Best Practices for Using Variables
+
+- Avoid Over-Personalization: While personalization is crucial, too much can make customers feel uncomfortable. Ensure that the data you use is appropriate and not too intrusive.
+- Keep Data Secure: Handle all customer data with care, ensuring compliance with data protection laws such as GDPR or CCPA.
+- Update Data Regularly: Periodically review and update your customer data to maintain the accuracy of your variables.
+- Educate Your Team: Ensure everyone involved in your email and SMS campaigns understands how to use variables effectively and responsibly.
+
+To enhance your email further, add a 'Sign Up for Texts' button in the email body by clicking 'Add Button' under the email body field.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140500736/09c1e0c7c5f1d939f0ffb50a/Screenshot+2024-08-09+at+2_49_11%E2%80%AFPM.png?expires=1763568000&signature=593397284fc273feb4cf888230f80fff70021c79087bd06f866ae697783b721a&req=dSEjFsx%2BnYZcX%2FMW1HO4zXN4CmdSKI6VnWouRrh%2FKpnQh7W5B0yjk2ETTLS5%0AGVeV0OnZ8uuSg0a6HBY%3D%0A
+
+---
+
+Customizing Text with the Rich Text Editor
+
+The rich text editor makes it easy to personalize the content of your emails. Here are the text modification options available:
+
+- Bold: Highlight key information for emphasis.
+- Italic: Add emphasis or a touch of style to your text.
+- Underline: Draw attention to specific sections of your message.
+- Strikethrough: Indicate edits or mark text as removed.
+- Bullet List: Create a list of items with bullet points for better organization.
+- Numbered List: Add a numbered list to outline steps or priorities.
+- Align Text: Align your text to the left, right, or justify it for a polished look.
+
+These formatting tools give you the flexibility to style your email content for maximum readability and engagement.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1310334121/edc6a812405938e88a2890cdeda3/image.png?expires=1763568000&signature=351a9be35875b81c577d05cc59d9b17a50a24e01a5c3aad1f1ac0996c2461a5b&req=dSMmFsp9mYBdWPMW1HO4zZIQjnnqT9roF7byojuJOFIfaP0bwPrY8bshmu8V%0AR8jNsywA7CeJdTSZMZM%3D%0A
+
+---
+
+Adding Images to Your Campaign Emails
+
+Adding images is a simple way to make your emails more engaging and visually appealing. Use them strategically to complement your message! 
+​
+Including images in your email can enhance its appeal and impact. Here’s how the image upload process works in the rich text editor:
+
+How to Add an Image
+
+- Click the Add Image button in the rich text editor toolbar. This will open your computer’s file browse tool.
+
+- Use the browse tool to select an image file. Only PNG, JPEG, JPG, and GIF file types will appear as selectable options. Other file types will be greyed out.
+
+- Once you select an image, it will: - Load in the location of the cursor inside the text editor if you’ve clicked within the editor.
+- Load at the bottom of the editor if no cursor position is selected.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1310339648/3c675c034457fd49ef6d00f8abd2/image.png?expires=1763568000&signature=0689985e044ebbad0d718e82497c7157dcb2a7c963bed0d39609b181b23fc799&req=dSMmFsp9lIdbUfMW1HO4zdGituAjEsrq%2BUKorwVbtOkidgCLjr794edORwFe%0ARTMhJCCQ06rDkx5jekk%3D%0A
+
+---
+
+Removing Images from Your Campaign Emails
+
+- If you need to remove an image, simply click on it. A Remove Image option will appear, allowing you to delete the image with one click.
+
+---
+
+Previewing Your Email
+
+To the right of the 'Email One-Time' section, view the 'Preview Email' section to see how the email will look from your customer's perspective.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140506586/ee6eab3dafcb12b0201237bb/Screenshot+2024-08-09+at+2_53_58%E2%80%AFPM.png?expires=1763568000&signature=ae3c5edd5c49b47ca663a5557d55499fe1856b9ec29040ef8d2b6e8674fe6e3d&req=dSEjFsx%2Bm4RXX%2FMW1HO4zax6HuTuSVxlnJc8lpD8zeka6Pk6SX7LP6JqXhCn%0AxY2juTFYqjDPITtjTO8%3D%0A
+
+In the upper left-hand corner of the setup page, you will see the current name of the campaign and the date it was created. Click the edit pencil icon next to this to change the name of the campaign. A sidebar will slide out from the left side of the screen, allowing you to edit the campaign name field. After making your changes, click 'Save' to update the campaign name.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140504449/3d2c19aa0f66a1f3734e5eff/Screenshot+2024-08-09+at+2_50_30%E2%80%AFPM.png?expires=1763568000&signature=1a55410795527704105d0b0e52a77702f529cead692e0db6796c946b9afe87f2&req=dSEjFsx%2BmYVbUPMW1HO4zbkJ4ZMVKlaNcwz5JuYYRX8h9CnbdZbu0gUK%2BgGV%0AXlGddQ5a4TU9XH6EDuM%3D%0A
+
+If you're happy with the content and the preview of your one-time email campaign, click 'Next' in the upper right-hand corner to move to the 'Target Customers' page.
+
+---
+
+Targeting Customers
+
+Here, you’ll select your recipients. You can either choose an existing list or create a new one by clicking 'New List' in the upper right-hand corner. For more information on how customer lists work for one-time email campaigns, please view our help article here.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140518756/17cfcf41ca93f37432e3c3ae/Screenshot+2024-08-09+at+3_07_45%E2%80%AFPM.png?expires=1763568000&signature=b6e836643865f084e5a890e3c4e653f4a630909ff1e7396f12289ce459073733&req=dSEjFsx%2FlYZaX%2FMW1HO4zfmrzUtrbokALRXkGNUewhgiWL4zymAVsJ6Gm52m%0AGJUzJw3zD8ADNbVqUsE%3D%0A
+
+Effectively targeting the right customers is crucial for the success of your email marketing campaigns. By reaching the appropriate audience with relevant and desired content, you increase engagement rates, improve conversion rates, and ensure a higher return on investment, all while minimizing spam complaints.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140519465/72257a38e64c11717f2c2e6f/Screenshot+2024-08-09+at+3_08_26%E2%80%AFPM.png?expires=1763568000&signature=4f3c3d57efd364c1f4335deea70da410c1efdd43340ea8e313e2a087a122deb8&req=dSEjFsx%2FlIVZXPMW1HO4zbvC3jzg4v76tGWZgm1k6k88YFlChSBl%2BtWO8j%2B8%0Ahg2Iz%2BoAqyhMWQiHwzA%3D%0A
+
+If you create a new list, you'll need to enter a 'List Name' for this group of target customers. Choose a name for your list that will help you easily identify the attributes of the customers; for example "High Value, Inactive Customers" or "Google Ads-Residential Customers."
+
+Next, click the Select a condition dropdown to set your conditions to refine your recipient list. Customer conditions are specific criteria that can be applied to target customers by filtering lists based on specific inputs. The conditions you can use include:
+
+- Customer Tag: You can apply tags to Customer Profiles to help categorize them based on certain characteristics or interactions. These tags can be used to segment your customers into different groups for targeted marketing campaigns and other functions within your Housecall Pro account.
+
+- Customer type: Residential, Commercial, or Contractor.
+
+- Location: Allows you to target customers within or outside specific cities or zip codes.
+
+- Lead Source: Helps identify where your customers are coming from, allowing you to tailor messages based on the initial touchpoint (e.g., website, referral, social media).
+
+- Lifetime Value: Allows you to identify your most valuable customers over time and target them with special offers or loyalty rewards.
+
+- Creation Date: Refers to the date a customer profile was added to your system, useful for engaging new versus long-term customers differently.
+- Last Service Date: Useful for follow-up campaigns or reminders and targeting customers based on when they last used your services.
+
+Here’s how to configure each Condition:
+
+- Customer Type: From the Option dropdown, select Is or Is Not, then select Residential, Commercial, or Contractor.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1781830506/38ff4e99fffdfeaa73bc733ec0f7/image.png?expires=1763568000&signature=5d9773b8c998063256f5556471c4052581ff2b88d8f6da994bf40810e278ee45&req=dScvF8F9nYRfX%2FMW1HO4zcaxgVN%2FrocfsUaoxvtwuAVIIJWF4QgZciAieZ7f%0ApNPxV%2BLl1tM1VutzMbw%3D%0A
+
+- Customer Tag: From the 'Option' dropdown, select 'Is' or 'Is Not,' then add the specific tag(s) you want to use. [Image] https://downloads.intercomcdn.com/i/o/1140520412/93f8bc898d1672e78fcc2128/image.png?expires=1763568000&signature=94b85021ad810df46f9dbd7c32fef72aed7364af099d7b7bcc6da543d24551de&req=dSEjFsx8nYVeW%2FMW1HO4zabzcjOS%2FM4UGTUAsb8jzqliSgbQymAJUpcUBRZP%0AEAs5%0A
+- Location: Choose from 'Is in Zip Code,' 'Is not in Zip Code,' 'Is in City,' or 'Is not in City' from the 'Option' dropdown. Then, specify the city/cities or zip code(s). [Image] https://downloads.intercomcdn.com/i/o/1140521625/15c6728018c88f584386d0f8/image.png?expires=1763568000&signature=8534164529854c5b9019adf699e976ea19b151391f58510abc51a01bd2c91da8&req=dSEjFsx8nIddXPMW1HO4zU2xGlqVDVUSmY4D%2F7zduTrzd0ItE6SyACKK9riN%0AmoFp%0A
+- Lead Source: Select 'Is' or 'Is Not' from the 'Option' dropdown and choose the relevant lead source. [Image] https://downloads.intercomcdn.com/i/o/1140522453/987d94af74643346d26bc325/image.png?expires=1763568000&signature=72d8110dd128a1895da4da26d456d2cf80448c43aaad54c51084eef2c1a375f3&req=dSEjFsx8n4VaWvMW1HO4zR7Orqbn5gSQz1sVuonxKobZyiLx7cx5G8tT4fdR%0ANT2X%0A
+
+- Lifetime Value: Pick 'Is Less Than' or 'Is Greater Than' from the 'Option' dropdown, and enter the corresponding value. [Image] https://downloads.intercomcdn.com/i/o/1140530958/22c48232e49d08171ea68f6d/Screenshot+2024-08-09+at+3_20_09%E2%80%AFPM.png?expires=1763568000&signature=cce98ff24b18f0a12fe8f0824509275f13e36295595728f18a04c48bbc78b76c&req=dSEjFsx9nYhaUfMW1HO4zXEuN5XAdlxqfIWYbFflppfryXAFIVixbWpHqRQC%0ALMYK%0A
+
+- Creation Date: Choose either 'Is Before' or 'Is After' from the 'Option' dropdown, and specify the date. Alternatively, select a time frame such as 'Within Last 7 Days,' 'Within Last 15 Days,' 'Within Last 30 Days,' or 'Within Last 90 Days.'
+
+[Image] https://downloads.intercomcdn.com/i/o/1140530839/3d4e0715494f350ba006faed/Screenshot+2024-08-09+at+3_20_34%E2%80%AFPM.png?expires=1763568000&signature=2954f129bc0446e977159b083242331b91eba04f940321bbb6ffbd9f32cf9f11&req=dSEjFsx9nYlcUPMW1HO4zQH6BmNywoV0tqVWOnePkptQ32IRltTV80%2Brm%2Bh%2B%0Aq5AgXzKnr5J03foA9UQ%3D%0A
+
+- Last Service Date: Select 'Is Before' or 'Is After' from the 'Option' dropdown and enter a date. You can also choose a range like 'Within Last 7 Days,' 'Within Last 15 Days,' 'Within Last 30 Days,' or 'Within Last 90 Days.' [Image] https://downloads.intercomcdn.com/i/o/1140532681/e72a3077edbbda83c95ba768/image.png?expires=1763568000&signature=5c06dc77ef34ee6bd457c491ad8c09163b523cc109cad9d1ce897d5b8f45548c&req=dSEjFsx9n4dXWPMW1HO4zbLXikTJgLeKOMdJJqJbXyGRmL2cp7keqiAPHO7j%0AWLvu%0A
+
+To add multiple conditions, click 'Add Condition.' Combine multiple customer conditions to refine your target audience further. For instance, you might target customers tagged with "Residential" who also have "Google Local Services Ads" listed as their Lead Source. Ensure the conditions you set align with the goals of your campaign for optimal results.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140533323/e5bafe1da3b24100a73f5861/Screenshot+2024-08-09+at+3_22_28%E2%80%AFPM.png?expires=1763568000&signature=005ec741c0fb338e31465c1cd8f63f1a51cbb589fc740608d4f8696433a933d0&req=dSEjFsx9noJdWvMW1HO4zVtCPFyH90hcVLBKt4KvmHhWnPvojLovNiIk3CC5%0Avq%2BL%2F1aNpLJTbajaEks%3D%0A
+
+Best Practices for Using Customer Conditions:
+
+- Regularly Update Data: Ensure your customer data is up-to-date to maintain the accuracy of your segments.
+- Respect Privacy and Consent: Always adhere to privacy laws and regulations by managing customer data responsibly and ensuring you have consent for marketing communication.
+- Monitor Campaign Effectiveness: Refer to the Campaign Metrics to monitor and track the performance of targeted customer lists. Analyze the results to refine future strategies and achieve better outcomes.
+
+If you’re satisfied with your conditions, click 'Save Preview' in the upper right-hand corner to review your target customer list.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140533943/b3cd18aa2d55756d84dec1ec/Screenshot+2024-08-09+at+3_23_17%E2%80%AFPM.png?expires=1763568000&signature=08af1b7587bc6aedfb51245cf2e1c20ec7e7765a2841128a8ebfdd6286a9ee60&req=dSEjFsx9nohbWvMW1HO4zQINH97hW9sqU%2FW4KT2CUb%2Fl18vNXaHsLhkG1Y97%0AhxC8%2BxmTfww90Sse%2FHM%3D%0A
+
+This will display the recipients who meet your specified criteria. To find specific customers, use the search bar to search by display name, address, or other details.
+
+If you need to adjust the conditions of your target list, click 'Edit List' to the right of the search bar. This allows you to modify your conditions or refine the list further.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140536050/6a3a15516213b2a00f347f84/image.png?expires=1763568000&signature=2c1e4cff7b3158b3ec0e3a5d8d4208a634c176f89416a8d5b2153cb6d6800861&req=dSEjFsx9m4FaWfMW1HO4zeoBkwvrL5kRwl8cpKVn6at2kOrsOfoWVDsF%2BHI5%0ApEuFUQ1SmkzPW0fG4a0%3D%0A
+
+If you're happy with your campaign, click 'SEND CAMPAIGN' in the upper-right hand corner of the preview page to start your campaign. If you want to review or make changes later, you can also save the campaign as a draft.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140534914/8b2695232e12cf8f14dfb2bf/Screenshot+2024-08-09+at+3_24_06%E2%80%AFPM.png?expires=1763568000&signature=7406627bd870f8b33eb640412e10802d40192591fb1ff973d325537d19f09995&req=dSEjFsx9mYheXfMW1HO4zcuawD0ai5mBmR1QKAnRj6csiQDYE2xjqpgXhb43%0AZ524eJ6Tct7swOxp%2FZE%3D%0A
+
+---
+
+Tips and Best Practices for Marketing Campaigns
+
+- Keep your message short and engaging: With a limit of 320 characters and a recommendation of 160 characters for each text message, it's crucial to make every word count. Your message should be engaging and get straight to the point.
+
+- Use a clear call to action (CTA): Ensure that your message includes a clear action that you want your customers to take, such as booking an appointment, availing a discount, or visiting your website.
+
+- Avoid spamming: Respect your customers' time and attention. Don't send too many campaigns too often.
+
+- Measure your performance: Keep track of the performance of your campaigns and use this data to improve future messaging and targeting.
+
+Remember, the power of marketing lies in its personal, direct nature. When used effectively, it can be a powerful tool to grow your business. Make sure to abide by all relevant regulations when sending messages, including getting consent from your customers to receive these messages.
+
+---
+
+---
+
+How to Set up Automated Campaign Flows
+
+Welcome to our Automated Campaign Flows feature—a powerful tool designed to save you time, enhance personalization, and optimize your overall campaign management. In this guide, we'll provide an overview of automated campaign flows and guide you through the steps to set up personalized customer journeys efficiently.
+
+Campaign flows are automated sequences of communications (emails and SMS messages) triggered by specific events, designed to re-engage past customers at optimal times. Utilizing delays and a mix of emails and SMS messages, these flows can significantly enhance customer interactions by providing timely, relevant information.
+
+It is important to note: If you are looking for a way to automate engagement with customers who are currently in the job lifecycle (for example setting up reminders and follow-ups about upcoming work) our Pipeline automations are an effective solution.
+
+---
+
+Understanding Campaign Flows
+
+Campaign Flows in the Marketing Center enable you to create a structured series of actions that respond to specific triggers. Once activated, the campaign flow will automatically execute whenever the trigger occurs, continuing until you turn off the Campaign Flow. Automated campaign flows involve designing a sequence of predefined steps that guide your customers through a personalized journey. By automating these processes, you streamline campaign management, ensure consistency, and deliver a tailored experience to each customer.
+
+---
+
+Components of a Campaign Flow
+
+- Triggers: Events that initiate a campaign flow. These include Job Completed, Job Satisfaction, and Estimate Declined.
+
+- Messages: Emails or SMS messages can be sent at any step in the flow. These marketing messages should be relevant to the trigger and designed to encourage a specific customer response.
+
+- Delays: Waiting periods between actions in a flow. Delays can be set to ensure messages are sent at the most effective times (e.g., sending a follow-up email three days after a service).
+
+---
+
+Setting Up Your Automated Campaign Flow: A Step-by-Step Guide
+
+To set up an Automated Campaign Flow, first log in to your account and navigate to the Marketing Center by clicking the 'Marketing' tab on the navigation bar at the top of your Housecall Pro account.
+
+Once in the marketing center, click on 'NEW CAMPAIGN' in the upper right-hand corner
+
+[Image] https://downloads.intercomcdn.com/i/o/936025558/9760cb4a3be12ba83ffe85d2/Screenshot+2024-01-17+at+8.52.17%E2%80%AFAM.png?expires=1763568000&signature=63431122992443581d95594488ed68649d8762e749c00167857bb8e6d8d4eb68&req=fSMhFst7mIRXFb4f3HP0gDKugE0EbnA%2FF8IdTCWSGIPaay7JKSWUjtrufbWl%0ARyJbNLJRrX02UlXUCA%3D%3D%0A
+
+Next, click 'Select' under 'Campaign Flows' to get started with setting up an automated campaign flow.
+
+[Image] https://downloads.intercomcdn.com/i/o/936027731/5d4acbbcd65dc5574ead6fd5/Screenshot+2024-01-17+at+8.52.26%E2%80%AFAM.png?expires=1763568000&signature=f6ce37a1dabe31f4b9a8cb3a1d71f5cfd0b6ff2bb30cbba2382f39d9d3be5bf1&req=fSMhFst5moJeFb4f3HP0gF3PM320Q8LDppCoci6pu6hL98F%2FHhFrLSeRLXQL%0AGthqxNXk8O6BdVszyQ%3D%3D%0A
+
+On the right-hand side of the campaign setup page, you'll find a side menu where you can choose from pre-made campaign templates. There are 3 customizable Campaign Flow templates available in the Marketing Center:
+
+- Job Completed - This is a predefined flow template that is created for sending an SMS after a job is completed, the delay to send it can be configured, you can use this and adapt it to add it more steps or customize the messages.
+
+- Job Satisfaction - This is a predefined flow template that is created for sending a thank you email and SMS after a job is completed, the delay to send it can be configured, you can use this and adapt it to add it more steps or customize the messages.
+
+- Estimate Declined - This is a predefined flow template designed to re-engage customers who previously declined an estimate.
+
+Click 'Use Template' to select one of these options.
+
+Alternatively, you can click 'Build Your Own' to build a Campaign Flow from scratch based on a 'Job Completed' trigger.
+
+[Image] https://downloads.intercomcdn.com/i/o/936036686/45ccb2f2f067ebcc6c99dec1/Screenshot+2024-01-17+at+8.52.33%E2%80%AFAM.png?expires=1763568000&signature=d6bdee0afaaa5cd4dd08a7be4ac26529743934ff77a2d5d5c8d182ae052a1cff&req=fSMhFsp4m4lZFb4f3HP0gAbphdMh2Q1w5yY5bSe%2Fk8cIlYDqjgLv%2FeDH3uJe%0A7lPPdi1sshFvtf91cA%3D%3D%0A
+
+To customize your flow, start by adding primary steps like 'Add Email' or 'Add SMS.' A delay can only be added after including one of these primary actions. Click 'ADD STEP' to insert an email or SMS, then add delays as needed.
+
+For example, if you click 'Add Step' to add an email, you’ll see an option above the email step to add another step, 'Add Delay.' This allows you to specify conditions such as, "If the job is completed, an email/SMS will be sent out." You can then determine how long after the job is completed the email/SMS should be sent.
+
+[Image] https://downloads.intercomcdn.com/i/o/936041077/73052528c7b18944d4ee7bf0/Screenshot+2024-01-17+at+8.52.43%E2%80%AFAM.png?expires=1763568000&signature=e29a172da22b96d35cbb9bccde1ada387bb081a459aef92dd5f42db640e24b98&req=fSMhFs1%2FnYZYFb4f3HP0gHQizQ8ubk1rDbZy3LNhq2Q4q7X3Yq2axA0Em1uT%0AY2MRZurJNqFxFRqW5g%3D%3D%0A
+
+To edit an existing step, click on the corresponding box and make the necessary adjustments. This allows you to fine-tune the flow and optimize it for your audience.
+
+[Image] https://downloads.intercomcdn.com/i/o/1144442554/89bbdfc8ea3aba55f49350a2/Screenshot+2024-08-13+at+12_17_04%E2%80%AFPM.png?expires=1763568000&signature=d47f5a5b748b5c1189e2967b881ce3f92d647e8e6fe07a77655289a27d10809d&req=dSEjEs16n4RaXfMW1HO4zUxQqBw%2B4ERwJDRR0v7XwbyqJ0g350P6GWPPTpBD%0AosQb6gUIImNzp6X1dBI%3D%0A
+
+When you add or edit an email or SMS, a sidebar will open on the right-hand side where you can edit the content.
+
+[Image] https://downloads.intercomcdn.com/i/o/1144442919/dfdfcf70b3adee6c9858ee0c/Screenshot+2024-08-13+at+1_14_13%E2%80%AFPM.png?expires=1763568000&signature=48911cd2455e9534e8be9df53e1878d09ad1b15fa6ea13e93345c2984ef31df5&req=dSEjEs16n4heUPMW1HO4zVRrS9Zrcjzs%2FeD2nVZDqkMXd50O2elaf4pigU6h%0AjvZqNa4FHL6ojR6WU6s%3D%0A
+
+Similarly, when you add a delay, a sidebar will open where you can enter a number in a field and choose the duration from a drop-down menu (day, week, or month).
+
+[Image] https://downloads.intercomcdn.com/i/o/1144440306/661b41b86b15821c2fa3a5ba/image.png?expires=1763568000&signature=cb332b48ef24b1b957af34dc20deb03619abf8fb75768c494def4783a38efa34&req=dSEjEs16nYJfX%2FMW1HO4zWiY0%2BlUy4WOWpeuVFlyY0F7fJNMtvXR6r5HfAQj%0AbLL2Lb3Px8g5f%2BYhzG0%3D%0A
+
+Review the sequence of messages and delays to ensure they align with your objectives.
+
+After adding the necessary steps to your campaign flow, focus on crafting engaging content for each email and SMS message. Tailor your messages to align with your campaign goals and resonate with your audience's specific needs and interests.
+
+- Select Content Type: For predefined content, navigate to the 'Choose a Quick Content Option' section. Here, you can select options like Special Offers or Maintenance Reminders. To explore additional content types, click 'More'.
+- Use Smart Writer: To create custom content using AI, click the Edit Pencil icon next to the content field. In the Smart Writer dialog, provide a detailed prompt outlining your campaign’s objectives and key messages. For example, you might enter, "Create an email promoting a 20% discount on HVAC services, highlighting urgency." Click the send icon to receive tailored content.
+- Add Personalization: To insert dynamic elements, click 'Add Variable' below the content field(s). Select variables such as Company Name, Customer First Name, Customer Last Name, and Company Phone. These placeholders will be replaced with actual data when the message is sent.
+- Enhance Content Features: For emails, add a subscription button by clicking 'Add Button' in the email body section. This will automatically include the SMS opt-in link, encouraging recipients to subscribe for text messages.
+​
+- Add Rich Text: The rich text editor makes it easy to personalize the content of your emails. Here are the text modification options available: - Bold: Highlight key information for emphasis.
+- Italic: Add emphasis or a touch of style to your text.
+- Underline: Draw attention to specific sections of your message.
+- Strikethrough: Indicate edits or mark text as removed.
+- Bullet List: Create a list of items with bullet points for better organization.
+- Numbered List: Add a numbered list to outline steps or priorities.
+- Align Text: Align your text to the left, right, or justify it for a polished look.
+​
+- Adding Images to Your Email: Click the Add Image button in the rich text editor toolbar and select the image you'd like to use. Adding images is a simple way to make your emails more engaging and visually appealing. Use them strategically to complement your message!
+- Review and Adjust: Click 'Preview' at the top of the sidebar to see how your email or SMS will appear to recipients. Review the content for clarity and alignment with your campaign goals. Make any necessary adjustments to ensure the messages are engaging and effective.
+
+Once you’re satisfied with the flow, delays, and content, click 'Save' in the sidebar to preserve your changes. If everything looks good, click 'Save' in the upper-right corner to finalize and proceed with selecting an audience.
+
+[Image] https://downloads.intercomcdn.com/i/o/1144456079/a7d74614d4e19f8435112d72/Screenshot+2024-08-13+at+1_25_59%E2%80%AFPM.png?expires=1763568000&signature=83958a22c62764c408398afb56f37bc584a7086c263988938730dc69c27675b8&req=dSEjEs17m4FYUPMW1HO4zdm%2BVUm5z%2BT%2BRMEaS3%2B82uC87QCQuXKg%2BgfIeH8o%0AuwmGZlKWXl8r9hywyoE%3D%0A
+
+After adding the necessary steps to your campaign flow, click 'Next' in the upper-right corner to move to the 'Target Customers' page. Here, you can select your recipients by choosing an existing list or creating a new one by clicking 'New List'.
+
+[Image] https://downloads.intercomcdn.com/i/o/1144454412/042b027adf4f262b22a362e9/Screenshot+2024-08-13+at+1_24_30%E2%80%AFPM.png?expires=1763568000&signature=d7e43f0756a183e555fb7814d28ab695d60b8a2728a3e0c1a5550bca6378caa5&req=dSEjEs17mYVeW%2FMW1HO4zcqECmPv0ELxVFZxwhyoENAASIsAqW7gr6RNnhsG%0Acyqw09%2BBRCNc3we0aII%3D%0A
+
+To create a new list, enter a descriptive name for the group, such as "High Value, Inactive Customers," and set conditions to refine your recipient list. Conditions can include Customer Tags, Lead Source, Location (by zip code or city), Lifetime Value, Creation Date, and Last Service Date.
+
+Configure each condition by selecting the appropriate options from the dropdown menus. For instance, choose 'Is' or 'Is Not' for Customer Tags, or select date ranges like 'Within Last 30 Days' for Creation Date. Click 'Add Condition' to include multiple criteria if needed.
+
+Once your conditions are set, click 'Save Preview' to review your target list. You can search for specific customers using the search bar and modify your list by clicking 'Edit List' if necessary.
+
+[Image] https://downloads.intercomcdn.com/i/o/1144457882/5a54833c9b8c0e3ba309db33/Screenshot+2024-08-13+at+1_27_15%E2%80%AFPM.png?expires=1763568000&signature=501624a05b60e458c5c59e8438414a7d27319c6a9924c6b1294357a8cd895dd7&req=dSEjEs17molXW%2FMW1HO4zUdniH8qSZA5EAYd6VFPN1XOQCnuNSNn3PJvBksw%0A0EjPpIZs6htPUwEfyho%3D%0A
+
+If satisfied, click 'Start Campaign' to launch it or save it as a draft for later review.
+
+[Image] https://downloads.intercomcdn.com/i/o/1144458914/1e1352a200d169f3dfb56a6c/Screenshot+2024-08-13+at+1_28_05%E2%80%AFPM.png?expires=1763568000&signature=3f33c06f929e237b9d36d5cec46cce97fd4bf03c3a5ef046601f94b47e2235d0&req=dSEjEs17lYheXfMW1HO4zV1Q3QEh%2FF%2BgOj6RGbPhR%2BsnMR8QA3%2F69ILHM8Fr%0AyuwcOk7OHHcimJusmgE%3D%0A
+
+Before launching, thoroughly test your automated campaign flow to ensure that all triggers, actions, and content work seamlessly. Address any potential issues you identify to provide your customers with a smooth and uninterrupted experience.
+
+---
+
+Pro Tips for Optimizing Automated Campaign Flows
+
+- Segment Your Audience
+Divide your audience into specific segments based on demographics, behavior, or purchase history. This ensures your messages are targeted and relevant, leading to higher engagement and conversion rates.
+- Personalize Your Messages and Offers
+Use personalization variables to tailor messages within the flow. Personalize promotions and offers according to customer behavior to increase relevance and the likelihood of conversion.
+- Keep It Simple and Customer-Centric
+Design your campaign flows with the customer’s perspective in mind. Ensure the flow feels natural and beneficial, rather than intrusive or overwhelming, to enhance the overall customer experience.
+- Monitor, Review, and Adjust Regularly
+Continuously track key metrics such as open rates, conversion rates, and revenue generated. Regularly review and make necessary adjustments to improve the effectiveness of your campaign flows based on performance data.
+- Integrate Across Channels
+Combine email and SMS strategically to reach customers through their preferred communication channels. This multi-channel approach ensures broader coverage and increases engagement.
+- Optimize Based on Performance Data
+Use performance data and customer feedback to make data-driven adjustments to your campaign flows. This could involve tweaking content, adjusting timing, or modifying conditions to better meet your audience’s needs.
+
+By following these tips and incorporating best practices, you can leverage automated campaign flows to create personalized customer journeys, save time, and enhance the efficiency of your campaign management.
+
+---
+
+---
+
+Marketing Center Key Features
+
+Housecall Pro's Marketing Center offers several features designed to streamline and optimize your marketing efforts. This section provides a detailed overview of the functionalities that enhance your efficiency and effectiveness in navigating the Marketing Center features.
+
+---
+
+Viewing Overall Campaign Performance
+
+Get a complete view of how your marketing efforts drive your business forward. With our latest insights, you can now:
+
+- Track the number of jobs your campaigns create and identify which messages connect best with customers.
+- Measure real-time revenue and understand which campaigns drive success.
+- Discover top-performing subject lines by analyzing email open rates.
+
+---
+
+How to Access Campaign Performance Metrics
+
+To access Campaign Performance metrics:
+
+- Select 'Marketing' in the navigation bar at the top of your HCP account.
+
+- Click 'Campaigns.'
+
+- At the top of the screen, you’ll find the new Campaign Performance section displaying your metrics.
+
+What You'll See:
+
+The new Campaign Performance section showcases three key metrics:
+
+- Jobs Booked - This is the total count of jobs booked within 30 days of receiving a campaign.
+- Minimum to display: 5 jobs.
+- This metric helps you understand how effectively your campaigns are converting leads into booked jobs.
+​
+- Projected revenue from jobs booked - This is the total dollar value of jobs booked within 30 days of receiving a campaign.
+- Minimum to display: $300.
+- This metric highlights the financial impact of your campaigns, showing how much revenue they generate for your business.
+​
+- Emails Opened - This is the total count of email opens from campaigns sent in the past 30 days.
+- Minimum to display: 100 opens.
+- This metric measures engagement, letting you see how often your emails are being opened and viewed by recipients.
+
+Campaign Performance metrics will only appear if they meet the following minimum thresholds:
+
+- At least 5 jobs have been booked within 30 days of receiving a campaign.
+- At least $300 in revenue must be generated from jobs booked within 30 days of receiving a campaign.
+- At least 100 emails have been opened from campaigns sent in the past 30 days.
+
+---
+
+Rename a Campaign
+
+Renaming a campaign in the Marketing Center helps keep your campaigns organized and makes them easier to search and reference.
+
+To rename a campaign, navigate to the Marketing Center by clicking 'Marketing' on the main navigation bar at the top of your Housecall Pro account. In the Marketing Center dashboard, locate the campaign you want to rename.
+
+Click the three dots ⋮ to the right of the campaign, then select 'Rename Campaign' from the dropdown menu.
+
+Enter the new name in the field provided and click 'Update Name' to save your changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/1058663825/cdca36720f333da7e2789576/Marketing+-+HCP+gif.gif?expires=1763568000&signature=4a8d2ff1bcce41a1f25aa41896b7a4e0602e922c9cb8e48bd244476f782b05c7&req=dSAiHs94noldXPMW1HO4zR1b%2FA8vsP27BYSQ4%2F38wxWyhRsCfIxd3tOmBUKJ%0APe1L2jmsfIZNtkD5jeA%3D%0A
+
+---
+
+Duplicate a Campaign
+
+Duplicating a campaign is an efficient way to replicate successful strategies, saving both time and resources.
+
+To duplicate a campaign, navigate to the Marketing Center by clicking 'Marketing' on the main navigation bar at the top of your Housecall Pro account. In the Marketing Center dashboard, locate the campaign you want to duplicate.
+
+Click the three dots ⋮ to the right of the campaign, then select 'Duplicate Campaign' from the dropdown menu.
+
+A new campaign labeled "Duplicated (name of original campaign)" will appear in your list of campaigns. Click on this new campaign to modify any elements as needed.
+
+[Image] https://downloads.intercomcdn.com/i/o/1058670685/f8dac531a15200d05192abea/Marketing+-+HCP+gif+2.gif?expires=1763568000&signature=33f6fbe6a33c98283779d01b35d15934e2beda5109faa9931f60b69013b32d59&req=dSAiHs95nYdXXPMW1HO4zXPh4cnXJl6DKyljBmAB1IzhW8qGxhLktfWmM%2F8p%0AVfPyLTcPdEoF6H8LtME%3D%0A
+
+---
+
+View Queued Message Count
+
+Viewing the queued message count provides insight into how many messages are lined up for sending, helping you manage your campaign delivery more effectively.
+
+To view the queued message count, navigate to the Marketing Center by clicking 'Marketing' on the main navigation bar at the top of your Housecall Pro account.
+
+In the Marketing Center dashboard, select the campaign you have fully set up and sent. Look for the 'Queue' section at the top of the screen to see the number of queued messages.
+
+[Image] https://downloads.intercomcdn.com/i/o/1058707286/824b20abbf89a5ad954d67cd/Marketing+-+HCP+gif3.gif?expires=1763568000&signature=24e470a1305ace0eb735931ea6269b13da140346b90242071ec3caa30616a002&req=dSAiHs5%2BmoNXX%2FMW1HO4zS6R%2BpJC2T2hDOe5gHUMTRf4BwpWVZVtGLYOpiYw%0AaZhO6NNSE6OFRi1tvjA%3D%0A
+
+---
+
+View the Sent Date of a Message in a Campaign
+
+Viewing the sent date of each message within a campaign is essential for tracking performance and analyzing message delivery.
+
+To view the sent date of a message, navigate to the Marketing Center by clicking 'Marketing' on the main navigation bar at the top of your Housecall Pro account.
+
+In the Marketing Center dashboard, select the campaign you have fully set up and sent. Find the "Date Sent" column to see when each message was delivered.
+
+[Image] https://downloads.intercomcdn.com/i/o/1058714198/e2b92634a72d318c1e2169a0/Marketing+-+HCP+gif4.gif?expires=1763568000&signature=a3913e39a1aaa4683fd548d90a3f4004681bc7629e8b0166107a77eeed7671df&req=dSAiHs5%2FmYBWUfMW1HO4zeihsKmmubykQ4oEbjxDziKSuRuqvsZNtKJtt8ET%0A3cvx9i1SmSXfGB8UYY8%3D%0A
+
+---
+
+Turn Off a Campaign
+
+Because Marketing Campaigns provide a record of all past campaign interactions with customers, they can't be deleted at this time. However, you can turn off a campaign by following the steps below.
+
+To turn off a marketing campaign:
+
+- Select 'Marketing' in your top navigation bar.
+
+- Click the 3 dots next to the campaign you'd like to turn off, then select "Turn off campaign" from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1348933052/d08e30d95453061338cac480d8f8/TurnOffCampaign.png?expires=1763568000&signature=cbc512ceb829257c837090dd617d44d1705e6539eebc26e743819f0df11d8973&req=dSMjHsB9noFaW%2FMW1HO4zSMVkYjqnIV0nQlgm%2Bxx87j3ym6ukiPdXIfU3dns%0AjZBJbRGdhdCvzuP0ovM%3D%0A
+
+- A window will appear, where you can click "Yes, Turn It Off" to confirm the change.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1348933050/25c99a0272314b167f596ba6298b/TurnOffCampaign1.png?expires=1763568000&signature=a07aaff2826bb93f1b73f98da31ba78c531d56dc194f1aae5e5b2cc31797a9c6&req=dSMjHsB9noFaWfMW1HO4zd4NhZjc7ilgr4%2Bgx0FA5%2B9SntB22a%2F7DAhNOi4F%0AHm72VxuYoPOAlQXDGkI%3D%0A
+
+- You'll then see the campaign status listed as "Off" for that campaign when reviewing the Marketing Center page.
+
+---
+
+---
+
+Conclusion
+
+Effectively setting up and managing your campaign flows with the Marketing Center enhances your marketing efforts by streamlining your processes and improving organization. Utilizing these tools allows you to create targeted, impactful campaigns that engage your audience more effectively. By ensuring each campaign is well-executed and timely, you can drive better results and achieve your marketing goals with greater efficiency and success.
+
+---

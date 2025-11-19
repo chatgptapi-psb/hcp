@@ -1,0 +1,119 @@
+Housecall Pro Mobile FAQ
+Source: https://help.housecallpro.com/en/articles/4747652-housecall-pro-mobile-faq
+Author: Taylor M
+Last updated: Updated over a month ago
+
+Summary: Find answers to common questions about using the mobile version of Housecall Pro in our FAQ.
+
+Mobile Version FAQ Overview
+
+Get all the details on accessing stored information without service and downloading the HCP Android app outside the Play Store. This FAQ also includes video walkthroughs for different device types to help you make the most of your Housecall Pro mobile experience.
+
+---
+
+Video Tutorial: iOS Mobile App Walkthrough
+
+Watch this detailed training video for an in-depth walkthrough of the mobile app on your iPhone or iPad. Learn how to efficiently manage jobs, schedule appointments, navigate the price book, and create estimates—all from your mobile device.
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/tngw19y11v
+
+---
+
+Video Tutorial: Android Mobile App Walkthrough
+
+Watch this detailed training video for an in-depth walkthrough of the mobile app on your Android device. Learn how to efficiently manage jobs, schedule appointments, navigate the price book, and create estimates—all from your Android phone or tablet.
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/nimm4rdhwp
+
+---
+
+---
+
+Mobile FAQs
+
+---
+
+How Can I Download the App to My iPad?
+
+Add the Housecall Pro App to your iPad with ease:
+
+Start by opening the App Store on your iPad and enter "Housecall Pro" in the search field at the top right corner, then press Search. Tap the "Filter" button in the top-left corner of the search results and select "Supports," followed by "iPhone Only." This will expand the search to show both iPhone and universal apps, allowing you to download and install the Housecall Pro app on your iPad.
+
+[Image] https://downloads.intercomcdn.com/i/o/67146579/72f56888ee4befe78ca1e71b/CDC2CE32-272E-4025-A461-5C1366E8F5B0_png_and_Inbox___Housecall_Pro___Intercom.jpg?expires=1763568000&signature=b7121dabda45387f0ab36d280f2b3ee08c6333b7dd46bb918b866b6fbf8f26f6&req=cicmEs97mogTWLcX3D%2B5hhtFaEb8aTRV%2BQFHlbhHySeQPE467lW83aD79hBa%0AUI61jcapUflitOhk%0A
+
+---
+
+How can I access job information without WiFi or cell reception?
+
+Minimum Android app version - 2024.8.1
+
+Minimum iOS app version - 2024.8.20
+
+While in the field it is not uncommon to come across areas where there is little to no cell reception. Accessing stored job data will allow for the job to proceed with minimal interruption.
+
+Before getting started:
+
+- Jobs are the only area of the app where data can be stored.
+- Editing without cell service or WiFi connection is not supported at this time.
+- Housecall Pro will store job data up to a pre-determined limit so as to not affect the speed of the app. When the stored data exceeds the limit the oldest data from the app will no longer be stored until under the max storage limit.
+
+Accessing stored data without cell connection:
+
+Step 1: Before being able to view job info with no signal, make sure you open the job in your mobile app when you do have service/Wi-Fi
+
+- The fields available to store if viewed: - Date/Time of Job
+- Duration
+- Customer Name
+- Customer Address
+- Customer History
+- Line Items
+- Private Notes
+- Job tags
+- Checklists
+- Attachments
+- Upcoming Job [though dashboard page]
+- Open Work [through dashboard page]
+
+Step 2: When losing cell connection a temporary banner will be displayed on the device
+
+[Image] https://downloads.intercomcdn.com/i/o/863746250/2e302801ef347b9781a27679/Screenshot_20231027-105401_HCP+Staging.jpg?expires=1763568000&signature=afd95d791724b52eb800466619a8add47f50b53eac0f188b2acb50f99f89e00a&req=fCYkEc14n4RfFb4f3HP0gL078NC4Kkm8mdOtkhDp1y89%2FlCtTzEcYivzzj0L%0AEfRKeDOeHW%2BUGU%2FnBw%3D%3D%0A
+
+​
+
+Step 3: Navigate to the job using either the 'upcoming work' or 'open work' cards on the dashboard or the schedule screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/1162938496/623e89f67a9285b5471730d0/offline+view+on+schedule+gif.gif?expires=1763568000&signature=38c894280c39a50ace8b52576663dda497ab242576e0fd0a22de1a713519cf1a&req=dSEhFMB9lYVWX%2FMW1HO4zclWmigc3N4oE85gR2vikEo6G7qqkhxGcMsl%2BVxl%0AWk%2BieWoVJPVK6mP7aEQ%3D%0A
+
+- Upcoming work must have 'Show techs next job' permission enabled in order to view on the app.
+
+- Open Work shows in progress work and jobs recently finished.
+
+- The schedule will allow you to see the schedule blocks for jobs, estimates, and events. At this time, only jobs that have been previously opened can be clicked on and viewed from the schedule.
+
+- If a job does not have stored data an error will be shown.
+
+Step 4: The job is available to view
+
+- The items listed in Step 1 will be displayed on the job details page if previously viewed on the device.
+
+- Navigation to notes, checklists, and attachments will be available if previously viewed on the device.
+
+Table:
+Row 1: iOS job in offline mode: | Android job in offline mode:
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/1025818030/1e90417a3b6fc233778d651e/iOS+offline.gif?expires=1763568000&signature=f051b619c77b64874d15eacfa2d41a8d7e1ffdd7adcaf9dab73740b1793e17cc&req=dSAlE8F%2FlYFcWfMW1HO4zTHdm7cAzmMTxzAeBpAGExEAutOg%2FmmFQDxWRgO5%0A2eDW%0A | [Image] https://downloads.intercomcdn.com/i/o/1025828040/6507b8fb47192360968f465d/android+offline.gif?expires=1763568000&signature=3642d26965670eebf164e0ae178f8e4248f359d4fc192be34d8bf270585bf73d&req=dSAlE8F8lYFbWfMW1HO4zUiOrVSp1u9QC8V%2FSi11f5ZeCTK0eGqDAmXIPZYG%0AOoav%0A
+
+---
+
+What does it look like when job data is stored?
+
+- Jobs that have stored data will allow navigation to that job with information visible on the job details page.
+
+- Jobs that have not been stored on the device will show an error
+
+- The difference between a job that has stored data vs one that does not is shown here:
+
+[Image] https://downloads.intercomcdn.com/i/o/872465218/079d31ac4523c5ea255458b7/cached+job.gif?expires=1763568000&signature=b4120ba7d38e06e41763610ddc648b56d557628e385aa0b9ff2b42f115ca6843&req=fCclEs97n4BXFb4f3HP0gMexc3inNwkX%2FOMjsuQrpuGu5N0SJ5O%2BZ3QVumhj%0AKw%2FFYe9n1t1y3oDhIw%3D%3D%0A
+
+---
+
+---

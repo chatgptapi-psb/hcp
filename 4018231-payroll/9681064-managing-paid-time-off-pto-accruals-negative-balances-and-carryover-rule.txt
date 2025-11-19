@@ -1,0 +1,46 @@
+Managing Paid Time Off (PTO) Accruals, Negative Balances, and Carryover Rule
+Source: https://help.housecallpro.com/en/articles/9681064-managing-paid-time-off-pto-accruals-negative-balances-and-carryover-rule
+Author: Angela G
+Last updated: Updated over a month ago
+
+We're here to help you manage Paid Time Off (PTO) effectively for your team. Below, you'll find detailed information on accruing time off, handling negative balances, and understanding carryover rules.
+
+Accruing Time Off and Negative Balances
+
+- Automatic Negative Balances: If an employee uses more time off than they have accrued, their balance will automatically go negative.
+- Manual Adjustments: Admins with the necessary permissions can manually set a negative balance in the employee's details screen under the time off section.
+- Regular Payroll Accrual: Time off only accrues during regular payroll periods. For off-cycle and bonus payrolls, you'll need to manually update the time off balance.
+- Custom Accrual Periods: Policies with custom accrual periods are not tied to payroll, and grants occur on the first day of the new accrual period.
+- Mid-Pay Period Hires: Time off does not accrue for new hires during a mid-pay period. You'll need to manually add the appropriate accrual amount. Accrual starts in the first full pay period.
+
+Scenario: If an employee starts on June 15 and your pay period is June 1 - June 30, you'll need to manually add accruals for June. Starting July 1, time off will accrue automatically.
+
+Negative Time Off Balances / Borrowing Time Off
+
+- Allowing Negative Balances: You can set policies to allow employees to request more time off than they have available, resulting in a negative balance.
+- Prohibiting Negative Balances: If not allowed, employees cannot submit a request that would result in a negative balance. However, admins can still record time off, resulting in a negative balance.
+
+Note: Changing the policy to prohibit negative balances will not affect existing pending time off requests.
+
+When a new accrual period begins:
+
+- Time Off Grants: Employees receive their entire time off amount if the policy has a fixed accrual amount.
+- Hours Carryover: Unused hours carry over to the new period, with any applicable limits.
+- Yearly Limits Reset: Employees can begin accruing hours again if they reach the max limit in the previous period.
+
+Fixed Accrual Types:
+
+1. Throughout the Year: Employees accrue time off each pay period.
+2. Beginning of Year: Employees accrue their entire amount at the start of the calendar year.
+3. Anniversary Accrual: Employees accrue their entire amount in the pay period of their hire-date anniversary.
+
+Carryover Balances and Rollovers
+
+- Carryover Limits: Set a carryover limit for unused time off from one year to the next. Not all states allow balance resets, so be sure to check state mandates.
+- Fixed Amount Policies: Choose between no carryover, a limit, or allowing all hours to carry over.
+
+If you have any questions or need further assistance, our support team is here to help!
+
+---
+
+---

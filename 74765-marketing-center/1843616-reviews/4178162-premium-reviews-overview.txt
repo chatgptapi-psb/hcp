@@ -1,0 +1,74 @@
+Premium Reviews Overview
+Source: https://help.housecallpro.com/en/articles/4178162-premium-reviews-overview
+Author: Anna E
+Last updated: Updated over 5 months ago
+
+Summary: Pick what percentage of review requests you want send to each source.
+
+Housecall Pro Blueprint to Success Workshop
+
+If you're looking for more advice on how to effectively use Reviews, along with other great features, register for the Housecall Pro Blueprint to Success Workshop!
+
+[Button] Register Here -> https://docs.google.com/forms/d/e/1FAIpQLScM2b6NgGEvrjkOFAZPunvol2CoR4FIIFiVgR7DmTRqgd3gQg/viewform?usp=pp_url&entry.1047718727=HCP+Help+Article
+
+---
+
+---
+
+What are Premium Reviews?
+
+Premium Reviews includes everything that basic Reviews has, but it also allows you to do two major things:
+
+- Choose how you want to distribute your review requests between Google, Facebook, and your website.
+
+- Reply to reviews on Google, Facebook, and for your website directly from your Housecall Pro account.
+
+Table:
+Row 1: Basic Reviews | Premium Reviews
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1547216589/7f309aec5ac780103219aa56cc6c/AD_4nXeGzUxCxsKFf67YWUg5O6HOZqv88A4EOJjYe94Qz06SM0kmwPEqbFnDbtRcjeKJCzxY0TQLM73JTFtSVFMhByYAGzJjMOaqaKs5-JL7BlmwKHYUNsH3SjpZHmM8oUXLO-QuHf4eFg?expires=1763568000&signature=39266c78ff4e30c5bf7549471499dcc03d4773b7af8fcf91796dd0cce6a6c94a&req=dSUjEct%2Fm4RXUPMW1HO4zUkL97tuFtRtpYJXQQ19vcn6M5FrmuX7Q6HR%2BYuq%0A71l%2B%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1547216908/1b79e5523343c5c90922f68d8a01/AD_4nXcxHVaw-ALELuHfc5ihzdwelpkJ3Mq3V0cGpKYGgHaW5GspJdinpqlc7QnLij2xiuqZDiWUmNNrbkXH7clyPVQjaIraipf6znc29CX71VD_U022VuBriFj5ATTNnDGkcoaai0OREQ?expires=1763568000&signature=3b754ff67a05a4627154bd36a3c4fba5068ac4f258a4eede9e8eb5342c6e6785&req=dSUjEct%2Fm4hfUfMW1HO4zVpKsHMscctNgtK%2Btre0S83RGTIswtbHQR8kba3k%0Arbhv%0A
+
+---
+
+Choose Where to Send Your Review Requests
+
+By default, we will optimize your review requests for you. This means that we will send all of your customers with a Gmail email address straight to Google to leave their reviews (this is because customers need to have a Google account in order to leave a review on Google Business Profile). The rest of your customers will be split equally between your Facebook page and reviews that you can collect for your website.
+
+You can also decide what percentage of review requests you want to go to each platform (Website, Facebook, or Google). To do this:
+
+- Navigate to the Marketing tab in the top navigation bar of your account.
+
+- From the left-hand menu, select Reviews to open your Reviews Dashboard.
+
+- In the Reviews Dashboard, click Edit distribution.
+
+- Toggle on Override optimization and set it yourself.
+
+- Adjust the percentage for each source as needed.
+
+- Click Save changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1547219659/61c170c4cab72ae133209a0646f2/AD_4nXc7H9WU1xbzd86gDdNiH3YGPxrSUOoU57T96gwIq6cqYD9pRQbGtPqhkYYwCAWpIzkEP7g3mXwXD7-l81tLK9lU2PT6_PTtUc-770qH9yJo_z33BeEruf_05dM-RRvUsOYWpfPklw?expires=1763568000&signature=f7d77554f7a6aad945a9f705f05f7742a525392de2fb7cd58af804d66d0e0109&req=dSUjEct%2FlIdaUPMW1HO4zX4gE7E2njyHJzx9Z4xnz57ffoVaZGyUWUw3iTik%0Ag%2B7EHeI3M7Giu4Mxqu4%3D%0A
+
+---
+
+How to Reply to a Review
+
+With our Premium Reviews feature, you can respond to reviews on Google, Facebook, and your website. Replies to Google and Facebook reviews will appear directly on those platforms, while replies to website reviews will be emailed to your customers.
+
+To reply to a review:
+
+- Go to My Apps by clicking the 3x3 square icon in the top right corner of your HCP account.
+
+- Select the Reviews app.
+
+- Hover over a review and click the reply icon in the floating menu on the right.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1547263402/a519480044d79948a6293db42236/AD_4nXcEPNu_9NlWK-jczok0SSr0AENCEk_zaEkOF6SI_LuVHMWZ6HPF4LDjA477VCofbiTtiEaec0iIXYVfWHJ7qhLXzADA06QO_NTf7Te-JRlappsgXo8sO5X-j0hiBsfLzgol8g6Ytg?expires=1763568000&signature=158e2378c697cd1fc2a3ef874923b26e20ae1faff734f3c6e5366423bd2e4141&req=dSUjEct4noVfW%2FMW1HO4zfpX3zjClOztcHRc%2FgXUtfEqn%2BpHRbVWn9%2BxkBB4%0AGmwB4WqFDJX0mn8LAjM%3D%0A
+
+- In the reply window, you can either write your own response or use the "Write it for me" feature to generate a suggested reply based on the review content.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1575799370/6c9f39eb134a4e7cbd74ed5bc687/AD_4nXers4_wpCh-ZEAgf7HNZYQiPT_qMXdRDIKKN11YihexXT12luv5NmDnK9qSYaNh2ZeOQRGgisC6_P0hmiVgOMzbDNligAhTVEQdx754Jk5ZRH8z2CjqivU4G4guEo_wZ9RKJZW7aA?expires=1763568000&signature=a31e8c201ba9e4a6a437917aaba8c982fde8b27662192986894eb4617489edc0&req=dSUgE853lIJYWfMW1HO4zUOJpHsxd%2BOleg5EOlilPVWrfDbnfqiOO1f5BIgd%0A%2Fk2KVy2HgqW72D%2F%2FQnk%3D%0A
+
+- Review or edit the response, then click Send to publish it.
+
+---

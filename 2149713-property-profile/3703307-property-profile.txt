@@ -1,0 +1,224 @@
+Property Profile
+Source: https://help.housecallpro.com/en/articles/3703307-property-profile
+Author: Nate H
+Last updated: Updated over 2 months ago
+
+Summary: Track work happening on equipment and other items on your customer's property
+
+Property Profile Overview
+
+The Property Profile app allows you to track work done on specific items at your customer's property and save important equipment details for future use.
+
+---
+
+Equipment Information Collected
+
+Multiple items can be added to each customer address. Data tracked on each item includes:
+
+- Item type (e.g., A/C, heater, water heater, etc.)
+- Display name (e.g., downstairs A/C)
+- Make
+- Model
+- Serial number
+- Install date
+- Notes
+
+---
+
+Enable the Property Profile Tool
+
+To enable the Property Profile tool:
+
+- Click the My Apps icon (3x3 square) in the top right corner of your HCP account.
+
+- Select Go to App store.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1419646473/e134d07c05d4a418caf06c65617e/Screenshot+2025-03-12+at+4_31_46%E2%80%AFPM.png?expires=1763568000&signature=8081302b22a18baf4487df54266e5a967dfad8a728b2426c300428590ff42bc6&req=dSQmH896m4VYWvMW1HO4zbrKjMdTIPVRis8rIl5QvcP384Bp00bK9EsaU9kD%0A5D495tb%2Bmb%2BTf%2BrzeIU%3D%0A
+
+- Select the Property Profile app to open the App details page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1419658074/acefaf55b898888e8fdb42b1afa3/Screenshot+2025-03-12+at+4_41_37%E2%80%AFPM.png?expires=1763568000&signature=08a8517122919ec775545096bb7f1573c5f27dc2098bbd190642f1cd1d4dc184&req=dSQmH897lYFYXfMW1HO4zcCVI8zmsSpDdX2EYDWEoaZIa6AGoP8XG7ns1noo%0AEf97JMOhJupgl1UxM4A%3D%0A
+
+- Click the toggle in the top right corner of the page to enable the feature. - Once enabled, the toggle will turn blue, and the word "Active" will be visible to the right.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1419642109/55cca8e133d05b6b6996a4afcc46/Screenshot+2025-03-12+at+4_30_21%E2%80%AFPM.png?expires=1763568000&signature=c2b083f7717cd266d2e528e59276b4cb5ccf30b3cfd494fdc0ab4959236b938c&req=dSQmH896n4BfUPMW1HO4zSigdBcbQt1jY4XdbY3BcRMESvl5sOJgaE0iJ0wd%0AA3ldE16LwGo6mPqjjlk%3D%0A
+
+---
+
+Add Property Profile Items to a Job (Web)
+
+To add a Property Profile item to a job:
+
+- Open the job that you'll be adding equipment to.
+
+- Click Property Profile on the left side of the page.
+
+- Enter the equipment information: - Item type (required)
+- Display name (required)
+- Make
+- Model
+- Serial number
+- Install date
+- Notes
+
+- Click Save in the bottom right corner of the window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1492731574/8f3bb6ef1e9b0facfeb99ccff7c5/Screenshot+2025-04-24+at+3_54_39%E2%80%AFPM.png?expires=1763568000&signature=58c7b733197f720d35dc556d2c16fbd8e8f9b33a9633f244435b9529090f4e1f&req=dSQuFM59nIRYXfMW1HO4zZJSb%2BxEN8Ad1enobRnf00KDDx5Q9gUArprprAAA%0AE1WYfhCMM5kavrNELqQ%3D%0A
+
+---
+
+Add Property Profile Items to a Job (Mobile)
+
+To add a Property Profile item to a job on the HCP mobile app:
+
+- Open the job that you will be adding equipment to.
+
+- Select Property Profile at the bottom of the screen.
+
+- Enter the equipment information (including installation date, if applicable): - Equipment type
+- Display Name
+- Make
+- Model
+- Serial Number
+- Tap Save in the top right corner of your screen.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/184435792/341c6312ff2edff88a8511e6/iOS+Property+Profile.png?expires=1763568000&signature=9eb10285d950bb694dd1e4b1fa0c3b3377613d6b5e05aab42e63b26674ae91a4&req=dSgjEsp7mohdFb4f3HP0gF17Mp3kIEjWhxmuT%2BgpbfhZplwe7w4tsjd11xOp%0A1yI%3D%0A | [Image] https://downloads.intercomcdn.com/i/o/184435664/fe07c2bb3a1d15aaa698318d/iOS+equipment.jpeg?expires=1763568000&signature=4060b0cea2a4b63da4dd0827b13de343fcd5ff4559ef7949acd4b4bbf348da0c&req=dSgjEsp7m4dbFb4f3HP0gIktZ9GX%2BC2hT0Y1mgDyHSA1EtlqEmSEnHmt97dA%0A7qM%3D%0A
+
+To associate equipment with a job:
+
+- Open a job you would like to add equipment to.
+
+- Scroll down to Property Profile.
+
+- Select the unassociated item under the Property Profile widget.
+
+- Tap Add to job.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/183765621/975c96da3a72779484bce8c4/image.png?expires=1763568000&signature=3b8ed3e9822f49c30ca9a6035748256ac368bab8fefdd1ea9835fb2206c6a8ad&req=dSgkEc97m4NeFb4f3HP0gBrZlGV3MF7W7xkrT3byyYUzQbAZgTlxPKbyEJHD%0Aw%2Fg%3D%0A | [Image] https://downloads.intercomcdn.com/i/o/184435219/9cbb14e14887c2bd7bc8e917/Screen+Shot+2020-02-12+at+12.24.50+PM.png?expires=1763568000&signature=65eab6f7fcc1f8738cc59a56bf3d0d00e7e5b6ee194ea31990fe092d90ee3c46&req=dSgjEsp7n4BWFb4f3HP0gCTl7EHGZ4iqR3y601XaJUIl1Gn2opYl6SmCxRns%0A0BM%3D%0A
+
+---
+
+Add Property Profile Items to a Customer Profile (Web)
+
+To add Property Profile items to an address:
+
+- Open the Customer Profile you would like to add equipment to.
+
+- Ensure that you're on the Profile tab.
+
+- Click the More icon (3 dots) on the right-hand side of the address you would like to add an item to.
+
+- Select New property item from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1492743261/137bd22343c897d7a56a837bffd5/Screenshot+2025-04-24+at+4_05_23%E2%80%AFPM.png?expires=1763568000&signature=0dc8f594f4968351696686f849b357ed8a0eb4735940928db065e2435b3002dd&req=dSQuFM56noNZWPMW1HO4zTM8ms1bgWfnwrWTrLVNjXC4t8x%2BiosoeUqoSj7L%0AEIo3ahYsVUJ%2BZjE1F3U%3D%0A
+
+- Type in the equipment information.
+
+- Click Save.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1492743485/d1f44270f0bd75c0713e3133d458/Screenshot+2025-04-24+at+3_54_39%E2%80%AFPM.png?expires=1763568000&signature=37633d6321586c88a7cc8e0a6a67a93a1b1ed215581694bde034c2e772780050&req=dSQuFM56noVXXPMW1HO4zSWVk8A4nVPDM3glZkidZ9zX4dddcecZh7Ug5Evi%0AkUuIjtrWoewfcHFPJyk%3D%0A
+
+---
+
+Access & Manage Property Profile Items
+
+To access, edit, or delete a Property Profile item:
+
+- Click the My Apps icon (3x3 square) in the top right corner of your HCP account.
+
+- Select the Property Profile app.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1730428117/7fa5dd7268d74bb855b3410be07d/Screenshot%2B2025-04-24%2Bat%2B4_13_36-E2-80-AFPM.png?expires=1763568000&signature=ef7ce6d9135df49e63fa6c47aa02b5b6a2b36ae0cd66732fcbbae0ca3ffc92ac&req=dSckFs18lYBeXvMW1HO4zSpnIhzvb6wNZ8t9In3%2FiM6So7ikCyIVgaXo3gHp%0A0Iws4JgiuWSLYFi%2FMtk%3D%0A
+
+- Alternatively, open a Customer Profile and click the Property Profile drop-down under the correct address.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1730428124/edb271cd86c7d79ddee2ceaab14e/Screenshot%2B2025-04-24%2Bat%2B4_42_13-E2-80-AFPM.png?expires=1763568000&signature=273c2d199199bf9ccdc2a0bfb85bea9a98df8b8558ed265282d3aa17f6c87475&req=dSckFs18lYBdXfMW1HO4zbSP%2BU86m%2FWRGL1LGeywlK9zUh1Q%2FkH%2BjEgxEgnD%0ARoN1tHzo1E0juyfvvfI%3D%0A
+
+- Select the Property Profile item you'd like to edit or delete.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1730428125/7885571ed927fdd53b6b9787bf70/Screenshot%2B2025-04-24%2Bat%2B4_32_34-E2-80-AFPM.png?expires=1763568000&signature=f34897f30f20d784f587206fe39498727ae1be9eaf447ce335370df140166eb0&req=dSckFs18lYBdXPMW1HO4zeYfzvHNbmgufrB33uD%2FFcOjbk6BlUhZI%2FKAOOgT%0APDUSdvoOWhrvrL5hmEE%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1730428132/3542bb34d7ff246d85f08b17d47b/Screenshot%2B2025-04-24%2Bat%2B4_38_59-E2-80-AFPM.png?expires=1763568000&signature=5679b0e8a08889b503b9209aab6fa805633accb65568e831a14c2c2de3500039&req=dSckFs18lYBcW%2FMW1HO4zUNbYfum9fVeJCoplBp%2B%2B%2BPYGgkaTL6f%2BLWSlXaw%0AleWcxvL%2Bb2IiZzeqFVQ%3D%0A
+
+- Click the More icon (3 dots) in the top right corner of the Property Item page, then select Edit property item or Delete property item from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1730428121/b03e944cf35f630226165e3b4240/Screenshot%2B2025-04-24%2Bat%2B4_45_44-E2-80-AFPM.png?expires=1763568000&signature=0887f04a89f31ca6a30d07996fa4e9a8da60402b9fd4995fa1d5d368c69d3ebe&req=dSckFs18lYBdWPMW1HO4zc2tgWvhCCpKINva7C4Tgc4ct3Re0UvJuqIU%2BU1b%0AIadWGpLTYlWS8TAvi2w%3D%0A
+
+- When editing a property item, make edits as needed, then click Save in the bottom right corner of the Edit item window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1730428120/86b967ce4862b178e35cae984191/Screenshot%2B2025-04-24%2Bat%2B4_49_43-E2-80-AFPM.png?expires=1763568000&signature=752d539141641b0c6720df2e4715bd48125d7b4df2dce17650102f0f37864377&req=dSckFs18lYBdWfMW1HO4zZAphNpazAyf1BLoJBh1RDUy6eODo%2FcIsf4Z%2Fg5A%0AMrP6svljsmplrQ2TeRY%3D%0A
+
+- To delete a property item, click Delete in the confirmation window that appears, and you're all set!
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1730428118/6244ad4b97b1500d75f1647655eb/Screenshot%2B2025-04-24%2Bat%2B4_51_56-E2-80-AFPM.png?expires=1763568000&signature=fa88f015dd177c9018467cd85b68943b41f2f183288bf5bfd0e1e02b6880ceb2&req=dSckFs18lYBeUfMW1HO4zSvMCggcueJCVdw1RZGXiLbUCKNtHVracqfG9kYg%0AK3q82LGad93aW1wsA9c%3D%0A
+
+---
+
+Filter and Export Property Profile Items (Web)
+
+Learn how to filter Property Profile items to track equipment that hasn't been serviced in a while or by the installation date.
+
+To filter all Property Profile items:
+
+- Click the My Apps icon (3x3 square) in the top right corner of your HCP account.
+
+- Select the Property Profile app.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1492753932/1413dc86a897ea36ed058a59187a/Screenshot+2025-04-24+at+4_13_36%E2%80%AFPM.png?expires=1763568000&signature=b9e1825ba6f2b20169c82e15ed1d9c2de9275aee4de9e6a85ee58cbeb95bd97f&req=dSQuFM57nohcW%2FMW1HO4zRJsgBLypqg0eWc6BRWgHUNIk1uvUG4gIdaJuWIZ%0AeRDmiwFmEkqQ5%2BF0yKA%3D%0A
+
+- Click the filter icon (upside-down pyramid) in the top right corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1492755437/c2ba28da38a6d2cd456c5fe94e36/Screenshot+2025-04-24+at+4_15_35%E2%80%AFPM.png?expires=1763568000&signature=a8f9b72c49455bf4a30081c9ad933e4d85c532ff287133c6201a76816ed98bee&req=dSQuFM57mIVcXvMW1HO4zSa0SOkVJGsENvqtOGKRnCssm6fsuexYOXLXBcrH%0AEpJJzmZtei5M6w%2F7c5Q%3D%0A
+
+- The Filters menu will appear on the right. You can then filter your list of equipment by these fields: - Item type
+- Last service date 
+- Install date
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1492757695/15e303834ab84a0c6180a864bf7c/Screenshot+2025-04-24+at+4_17_52%E2%80%AFPM.png?expires=1763568000&signature=d153fb0c02ee9999c7fa031484462a7da0f13514bde24dea0629c5d68baf89ea&req=dSQuFM57modWXPMW1HO4zaSj5XH8b4XCzU1Zm07fK7foXQHlnp61btXsdz0x%0Aq0CZsoYbAShKIdgE7Cw%3D%0A
+
+- Once you have added your filters, click the X icon.
+
+- If you need to erase the filters, click Clear all.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1492760623/e966d9cb668c927b43ba1c688616/Screenshot+2025-04-24+at+4_19_04%E2%80%AFPM.png?expires=1763568000&signature=204d1c2136c19044590943689b52e4c9847412cb05a2db206d5a20db40dd778f&req=dSQuFM54nYddWvMW1HO4zQaCinrg1a42fYaqpKiPDkNrTdPrE%2B%2BV%2BlOBWNMl%0Ayt3J05JisMs3BA0lgQI%3D%0A
+
+- On the Property Profile app page, you can also sort your list of equipment by clicking on Customer Name or Last Service Date. - Clicking on either field will display an arrow. You can then use these arrows to sort A-Z or Z-A for name, and New-Old or Old-New for the last service date.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1419605336/c6a34d430a2a73b3d37d88fe52fc/Screenshot%2B2023-06-01%2Bat%2B11_56_04%2BAM.png?expires=1763568000&signature=07255b7ce0133719e4b3473e246e35d053269af2a88d941356276a1eb351f352&req=dSQmH89%2BmIJcX%2FMW1HO4zd7%2FI%2BxA6lktUFRrYel8UA9XHU3aUCJ5TZ6S4QGR%0A3AbbSCA40%2FgEOdElA9w%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1419605332/038f9dd579ad6a160abd90abfc7e/Screenshot%2B2023-06-01%2Bat%2B11_57_19%2BAM.png?expires=1763568000&signature=d7588fc3b3ded19fa82571f28136a65530e401d974a8228210713fe4ef56eedf&req=dSQmH89%2BmIJcW%2FMW1HO4zYY9OWzilXkuaCReiRifS1h0CqTLJjZyhE0iM28m%0AE8NtncRUMa%2BgupaaHtA%3D%0A
+
+To export your Property Profile equipment list:
+
+- Click the download icon in the top right corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1730425842/c069b5763745c813e42a9cece825/Screenshot%2B2025-04-24%2Bat%2B4_22_16-E2-80-AFPM.png?expires=1763568000&signature=ab8d788706fbf0a2668a6df93a0c28ac397ea787f31cedf35a74730a72c8954a&req=dSckFs18mIlbW%2FMW1HO4zYuSTzKoBLxXmHrAwpSseOWET3oDv%2F3A59WCT1A8%0AT1Pd4Aze8qs5h8uD7hI%3D%0A
+
+- Confirm your email address and click Send me the File.
+
+- Check your email inbox to find the .csv file.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1730425837/92782accb67e33bd4534e59d7871/Screenshot%2B2025-04-24%2Bat%2B4_28_01-E2-80-AFPM.png?expires=1763568000&signature=c4ee7d855a10fb821fe40643a0228cd9f83b43c363919115d3c5201cbf011dcd&req=dSckFs18mIlcXvMW1HO4zTiRfka3G3wzFqjnlSX%2F%2Bmkkb6rm28EAlpr9k8hj%0Ab%2BNWKQ0W4deTwFPTPEo%3D%0A
+
+---
+
+Property Profile Training Course
+
+Ready to elevate your skills? Register HERE to gain immediate access to our comprehensive training course!
+
+This video is part of our Intermediate Training series, designed to help you master the Checklist and Property Profile tools. It's perfect for anyone looking to set up or enhance their use of property profiles.
+
+What You'll Learn in This Training:
+
+2nd Topic of Training - Property Profile (Minute 16:20 - end)
+
+- How to activate and set up property profile items
+- How to attach property profiles from the customer profile, job, and/or service plans (if applicable)
+
+Don’t miss this valuable opportunity to streamline your processes and boost efficiency. Click HERE to start your training today!
+
+[Button] Click here to activate the Property Profile Tool -> https://pro.housecallpro.com/pro/apps/details/property_profile?utm_source=intercom&utm_medium=internal-video&utm_campaign=help-center&mc=Content&msc=help-center-hcpu-property-profile
+
+---

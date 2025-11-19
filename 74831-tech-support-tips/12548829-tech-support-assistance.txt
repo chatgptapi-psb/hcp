@@ -1,0 +1,111 @@
+Tech Support Assistance
+Source: https://help.housecallpro.com/en/articles/12548829-tech-support-assistance
+Author: Taylor L
+Last updated: Updated over 2 weeks ago
+
+Tech Support Assistance
+
+Our Tech Support team can help you make specific updates or corrections to your account that aren’t available through your in-app settings. This includes moving payments, managing imported data, archiving or restoring deleted price book services or materials, and adjusting account-wide settings. Below are the types of changes our team can assist with and what to expect for each request.
+
+If you need to make any of these updates, our Tech Support team can take care of them for you, ensuring your account stays accurate, secure, and running smoothly.
+
+To request help, reach out to our Support team using the Blue Chat Bubble in your Housecall Pro web account and share the details of what you need. We’ll take it from there!
+
+---
+
+Available Actions by our Tech Team
+
+Move Invoice Payments
+
+If you need to move a payment from one invoice to another, our Tech Support team can help!
+
+We can move credit card or ACH payments between invoices as long as:
+
+- The payment is not linked to a Service Plan
+
+- The payment amount is equal to or less than the amount due on the invoice it’s being moved to
+
+- For example, if a payment of $100 was made by mistake on the wrong invoice, we can move that payment to another invoice that has at least $100 due. If the new invoice only has $50 due, the full payment can’t be moved.
+
+---
+
+Update Tip Amount
+
+If you need to adjust the tip amount on an invoice, our Tech Support team can help. We’re able to update an existing tip, but we can’t add a new tip if one wasn’t originally included on the invoice.
+
+A common example is when a refund is issued, but the original tip amount still appears as “due.” In that case, our team can update the tip amount to $0 so the invoice no longer shows an outstanding balance.
+
+---
+
+Reset Invoice Numbers
+
+If your invoice numbers need to be adjusted, our Tech Support team can reset them for you. This allows you to start your invoices from a specific number that hasn’t been used in your account yet.
+
+For example, if an invoice number was accidentally changed to a long number like 123456789, causing all new invoices to follow that format, our team can reset your numbering back to something shorter — such as 1001, if 1000 was your last used invoice number.
+
+---
+
+Archive Price Book
+
+If you’d like to remove all services and materials from your account, our Tech Support team can archive your entire price book. This action clears everything currently listed under your services and materials so you can start fresh.
+
+---
+
+Archive Price Book Data
+
+If you’d like to remove items from your price book but keep your main categories, our Tech Support team can archive your price book data. This will remove all items within your existing categories and subcategories, while keeping the main category structure in place so you can rebuild or update it more easily.
+
+---
+
+Archive Price Book Without Materials
+
+If you’d like to remove all services from your price book but keep your materials, our Tech Support team can archive your services section while leaving your materials intact. This option is helpful if you want to rebuild or reorganize your services without losing your existing material list.
+
+---
+
+Restore Price Book Services or Materials
+
+If you’d like to bring back previously deleted services or materials, our Tech Support team can restore your entire price book. This will recover everything that has ever been deleted, including all past services, materials, and categories.
+
+Before requesting this action, please note that it will restore all deleted items — not just specific ones.
+
+---
+
+Delete Imported Customers
+
+If you’ve uploaded a customer list from a CSV file and need it removed, our Tech Support team can delete the imported customers from your account.
+
+This action only applies to customers added through a CSV import — it will not delete customers imported from other sources (like QuickBooks) or any customers entered manually in Housecall Pro.
+
+---
+
+Delete a Review
+
+If you need a review removed or updated, our Tech Support team can help in certain situations.
+
+We’re able to delete a review if:
+
+- The customer who left the review contacts us directly to request its removal, or
+- The review was a test review created by the Pro or one of their employees.
+
+If your customer left a review by mistake or wants to change the rating or comments, they can email support@housecallpro.com using the same email address they used to leave the review. Please have them include the changes they’d like to make.
+
+Once our team receives the request, we’ll respond within 7–10 business days.
+
+---
+
+Enable or Disable All Customer Notifications
+
+If you’d like to update notification settings for your current customers, our Tech Support team can enable or disable all customer notifications at once.
+
+This change only applies to existing customers in your account. Any new customers you add in the future will have notifications enabled by default, but you can change that setting when creating or editing their customer profile.
+
+---
+
+Enable All Taxable Items
+
+If you need to update the tax settings for your current price book items, our Tech Support team can mark all existing items as taxable or non-taxable in one update.
+
+This change only affects items that already exist in your price book. Any new items you create in the future will keep the default tax setting, which you can adjust individually as needed.
+
+---

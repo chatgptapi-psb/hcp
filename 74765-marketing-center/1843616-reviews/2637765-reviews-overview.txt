@@ -1,0 +1,130 @@
+Reviews Overview
+Source: https://help.housecallpro.com/en/articles/2637765-reviews-overview
+Author: Anna E
+Last updated: Updated over a month ago
+
+Summary: What is the reviews app and what can I do with it?
+
+Housecall Pro Blueprint to Success Workshop
+
+If you're looking for more advice on how to effectively use Reviews, along with other great features, register for the Housecall Pro Blueprint to Success Workshop!
+
+[Button] Register Here -> https://docs.google.com/forms/d/e/1FAIpQLScM2b6NgGEvrjkOFAZPunvol2CoR4FIIFiVgR7DmTRqgd3gQg/viewform?usp=pp_url&entry.1047718727=HCP+Help+Article
+
+---
+
+---
+
+Getting Started with Reviews
+
+Reviews help you automatically collect and manage customer feedback to build a stronger online reputation and grow your business — all in one place.
+
+By automating review requests and centralizing responses in a simple dashboard, Reviews saves you time, builds trust with real customer stories, and boosts your online visibility to help grow your business. Stay organized, respond faster, and turn positive feedback into a powerful tool for winning more jobs.
+
+---
+
+Access Reviews Dashboard
+
+Your Reviews Dashboard is located in the Marketing Center of Housecall Pro.
+
+Just click the Marketing tab in the top navigation bar of your Housecall Pro account, then select Reviews from the menu on the left.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1545923719/0382c0e8be3925345b1e3e5756af/AD_4nXe_CQLJBtuv6fzADOQyLGSV7ShSmyKvMRfA9uuaIWn30DEFUF0zLN0agZL14dVNcSAWySapP6ZPVM8i25sLaFEMPA2FYz4P1tmCJLcwDWFYDjfSeb-AWc-lztxGWkWFbGW1aXG2?expires=1763568000&signature=5c8965346ddacf5f945c8aaa992a473ab0b6b0fc28c132a8b8dc38825d8d054e&req=dSUjE8B8noZeUPMW1HO4zW3%2BpzMKgbO5r7l3FBh8Xa07%2F%2B8sZhHaauiFDewF%0AVBoX2ZKXypadC5FpZm0%3D%0A
+
+---
+
+Set Up and Send Review Requests
+
+Review requests are automatically sent when a job is completed. You can change this any time in your Reviews settings.
+
+To view and manage responses, make sure your Reviews Dashboard is set up:
+
+- Navigate to Reviews by clicking Marketing in the top navigation bar of your Housecall Pro account and selecting Reviews from the left menu.
+
+- Then, click the Set up reviews button in the middle of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1545923727/7186c929fdcbd84583e8fc333923/AD_4nXeNMEPtbznhqTPa4BoBeAXG91sUfoFaV18zTXRB9b9CSB4rDl8JJ3LmW2OhFiNoUbS36BPcqQFmm4yetCRHIb0fkx4QAKBkdGByN4UWhHLbMri6Wa6OYtnNjNoqARwq8mNi7CInrg?expires=1763568000&signature=10dbee76a258cc7c7f5af0f3157d4423f74a95e373213e465da046d9cf1ced08&req=dSUjE8B8noZdXvMW1HO4zeg3NAySaPV2pYv5I77f%2B4MdR%2BFRhgejb8kHPNeR%0AtlDsjYCkVvB44UtSExw%3D%0A
+
+- You now have the option to connect Reviews to Facebook or Google, or to skip this step.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1545923722/7959acce139417425a658ece3a70/AD_4nXdrlpQ9YrM0bm7dCiPuJcmHEScD2wxpmK__bH4PtxKo5bUCXiVDHreYa5VsbsJ4p7SdXp5903xooFd9Hjto-Xq4cmyaSZxX6TureyG5UJbTuhwiL0hniBk8mXaFwJ99KmXp4GtgoQ?expires=1763568000&signature=2ef8770d5a0f3663a0bebd31c141856f0d2730dbee94fe9f007f5d7564dc9d1f&req=dSUjE8B8noZdW%2FMW1HO4zemSEl61zKU8QIlTeAPw%2BAJsq1DCHPgC2cOSj04r%0ADerUvjgvgE2W4HN9Jiw%3D%0A
+
+- If you skip the Facebook and Google setup steps, you will be directed to your Reviews Dashboard.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1545923736/45282ffeed100d0889fe553b3bb2/AD_4nXcbtEi0yb6fwQQF2YtMKoKpdTUsyVURxLnMZ8cG9eMcqTr161zLyxfBdPhEjBnEDs59jrhwunhBYNdWSTpTi113UlGmpym3QOsm9r4rDUcDFZfOHAY5ws61sVxc-Zv0qtwNT5Zl0w?expires=1763568000&signature=1514f8a762a53432ffbe8f22df456b03f01c602cc001e3f6a6ea47995d6fa0c2&req=dSUjE8B8noZcX%2FMW1HO4zZqNGjwe0hd%2BwgekxzuxnwTla%2Fie98yPC4aVJrd5%0AQds3CjHYxgQeXH38YBw%3D%0A
+
+---
+
+Understanding Your Reviews Dashboard
+
+Your Reviews Dashboard gives you access to all previous reviews and important analysis to understand your customer feedback.
+
+To access your Reviews Dashboard:
+
+- Select Marketing in the top navigation bar of your Housecall Pro account and select Reviews from the left menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1545923731/95b04e2e46b608b7e3159385c72f/AD_4nXcIfC-JcFcXCuKeyW7MWLFFdXoye6YNaWE2iymBJ1skCotW7lVUNPV4X7m-0U1WOi787ns7zkCn8k2YoR_xd2wNf71Ab_zW4CgatGsBRgeU4jZ-Q3tJo3BsaJari9vm98_Wpico?expires=1763568000&signature=9f8d522962da7fa16332e492e565ddb2e7d5b65c8cb19555c295fd753c6ca373&req=dSUjE8B8noZcWPMW1HO4zeGQ22b8%2Bla5xdiWfjbn39k7IFlVorohohc3Ok2e%0AVUlouz%2BRSnyWZ5YGlNY%3D%0A
+
+- Total Reviews: Counts all reviews collected by your customers across both Housecall Pro & Google Reviews of all time (including all previous Google Reviews), all platforms.
+
+- Reviews by Platform: See the total number of reviews with your average rating by platform.
+
+- View Activity: See all recent activity of emails and texts that have been sent to customers.
+
+- Edit distribution: Control the percentage of reviews directed to Housecall Pro, Google, and Facebook platforms based on preferences or business goals.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1545923723/f9e06cd895555514acf8aa3325c6/AD_4nXfWNo_UNQ8syeX20f5YAG3ExFEXwp106B9Eai9ArZEKouVKh4uRYQMKdb6q4PyEonpbkKgZeqBWj0GuZTeM80yJMLw-PrndlBSDqKYlloIk_g26IBMqmeBEzwW3dIX9NQYZ4aHKGQ?expires=1763568000&signature=0a32fc8292205d031096c05de7b342318dea9052f6ab50b460205cc9d3d3655f&req=dSUjE8B8noZdWvMW1HO4zfo11mhTOllIhlatNPtXyL2cYe3o2d6R4AEHyWYH%0APapnB5xFzakysY6fIkQ%3D%0A
+
+- Bulk request: send review requests via email to multiple customers at once.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1545923729/9779a1f14ed1f00a7a43e0d26013/AD_4nXd5b4u_l-ySEY_GWsh6MgdqWu0mVdZdJDw2e37TJ-bdGupWF1eB5JZgphO66hhxvfV9Alih61SHlTm4BwqpX46HzneQ5LcaRPILwCckuHuwQBGkKNfV8C-7AdY1QKToWA2Fyw1sZQ?expires=1763568000&signature=639ec1a4d17e4ebf41747b7497dad1145889813c76580203e0452c52a99b2fb6&req=dSUjE8B8noZdUPMW1HO4zeJHcHrzxhr4FxAQc1M6jy%2Fml24yItDUlfIVpihe%0AwNNy4G0G9GAXPAFcwWY%3D%0A
+
+- Recent Reviews: See reviews listed by most recent, with key information like their name, date of review, the employee that worked with the customer, review, source, and the review comment on the Reviews Dashboard. - Reply: You can reply directly to the Review, and it will post to the public on both Facebook and Google. (Note: this is a Premium Review feature only.)
+- Featured: If you favorite a review (select the star icon) only for HCP Reviews on HCP Website (for HCP Website Pros only).
+- Job: Takes you to the Job page from which the review was sent.
+
+- Filter Reviews by Source: Easily view and manage reviews from different sources by clicking the Housecall Pro, Google, or Facebook tabs in your Reviews Dashboard. This lets you quickly see how you’re performing on each platform and focus your follow-ups where they matter most.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1781691738/5dd5f69b9de1387d7a26488da12b/image.png?expires=1763568000&signature=6c0194a063cc84415114387fa3375dedb7e398a48f50cdecda69536f434bf6f6&req=dScvF893nIZcUfMW1HO4zRjCvu%2B25PY26D3Vph9RDT9aDzmF3qosV6ATxJuK%0AMKuUtq76KdkPO18w1Bo%3D%0A
+
+Access Your Reviews Settings
+
+To access your Reviews settings:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Marketing Center from the Settings menu on the left.
+
+- Click the Reviews tab on the Marketing Center settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1637981814/fb060c7fdb2370a344cb4a09b227/image.png?expires=1763568000&signature=2e88132398bdd517540941c547aa1b6773f7c37987ff3d3d660f95080b59cae2&req=dSYkEcB2nIleXfMW1HO4zfTkrimj1sBOXj2ZOzDsgY2VGAdp%2FrTOHLFwN5UU%0AIKxQueWFB8nvgxnB0DA%3D%0A
+
+On your Reviews settings page, you can manage the following settings:
+
+- Active: Toggle on or off automatic emails to collect Reviews after a job is finished or paid.
+
+- Connect your accounts: Connect your Google or Facebook account. Learn more here.
+
+- Send a review request when: Update Review send timing to when a job is finished or paid. - Select Job is finished to send review requests once Finish has been selected on the job.
+- Select Job is paid to send review requests once your customer pays their invoice.
+
+- Exclude specific tags: Exclude specific tags to not receive Review requests. - Customers: add a Customer Tag to the profile of a customer you don’t want getting Review requests.
+- Jobs: add a Job Tag so specific jobs won’t receive a request.
+
+- Notifying Customers: Update notification settings to send to customers even with notifications off.
+
+- Add reviews to my website: Select which reviews to show on your HCP Website (only available to HCP Website Pros).
+
+- Link to this page: The My review site is your review page for all of your Housecall Pro reviews to be displayed. You can use this URL to add to your website. Learn more here.
+
+---
+
+Review Email & Text Preview
+
+You can preview the email and text that is being sent out by adding yourself as a customer and going through the job process. You are unable to edit the email or text at this time.
+
+Table:
+Row 1: Email Preview | Text preview
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1545936544/02f583e051b61e596de411a8711a/AD_4nXf4coSGbWagL2FcRQpwz2TEuyF4qKWxshDpyhOjpbo4fKtzrggJ_bVQJCosBD6KRKg8iVohZGw62T8yyZbXnk2h7Xj9Q5fZrdsTLufewnNL__OK46RAWiqaV0Yd5BgLiUegta9PBw?expires=1763568000&signature=f8e1fe9d6c0ee82ebc7c862a574dfdce0526ece269b90b5d65dd39912ade7ed3&req=dSUjE8B9m4RbXfMW1HO4zZG0QXBPXCo0vTtsHh8apidGaNIqL%2Blyqgv%2Fb2ff%0AYtLi%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1545936678/762a4c8a1e9b94494fd141c4773c/AD_4nXe6ubjYMZ4s0UbSFizffCaX_a0o165JxVzon5EM7puLHgmlIqkunSZwbiCjQIY7YnqRdABOR6I48hCRWrv9NK9GiA582_naZeZj39nwbDLMQwsYd2524zqWT1xBuCYgckom41ngWg?expires=1763568000&signature=539781bc2d30ee9cf9bbbe7d92063d41c9d5dc7cf3351bea35a51d0b9482b86f&req=dSUjE8B9m4dYUfMW1HO4zT4EjXDHHmBZr5iRm14PJvEfHMshiCbDhlhJwbgl%0AVjwz%0A
+
+---

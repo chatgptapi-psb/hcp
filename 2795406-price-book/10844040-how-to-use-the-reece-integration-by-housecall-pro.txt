@@ -1,0 +1,114 @@
+How to Use the Reece Integration by Housecall Pro
+Source: https://help.housecallpro.com/en/articles/10844040-how-to-use-the-reece-integration-by-housecall-pro
+Author: Champagne M
+Last updated: Updated over 8 months ago
+
+What is Reece, and What Are We Doing?
+
+Reece is a leading distributor of plumbing, providing high-quality products to trade professionals. With the Reece Integration in Housecall Pro, you can seamlessly access your materials, stay updated on pricing, and streamline your workflow. This integration is designed to help you save time, improve accuracy in job costing, and ensure you always have the latest pricing information from Reece.
+
+What the Integration Includes
+
+The Reece Integration offers three key features:
+
+- Import Recent Purchases from Reece
+Automatically import your most recent purchases from Reece into Housecall Pro, allowing you to quickly add them to jobs, invoices, and estimates.
+
+- Receive Monthly Updates on Pricing
+Stay up to date with the latest Reece pricing. Each month, your Reece catalog will be updated, ensuring you have the most accurate costs for your materials.
+
+- Search the Reece Catalog
+Find and add Reece materials directly from their catalog within Housecall Pro. No more manual entry—just search, select, and use the materials you need.
+
+---
+
+How to Use the Reece Integration
+
+Step 1: Connect Your Reece Account
+
+- Navigate to your Price Book in Housecall Pro
+
+- Select Materials and click "Connect" on the Reece banner
+
+- Log in with your Reece account credentials - Customer ID (this is created with your Reece account)
+- Billing zip code (the main zip code you use when billed from Reece)
+
+- Grant permission for Housecall Pro to access your purchase history by selecting "Connect & Import."
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1444523031/434207dfcef170cefdcb56182c1c/Reece1.jpeg?expires=1763568000&signature=0a99f1d202e1b19f661253f3dcb03a86c97549d20019bb50933984b956ed9184&req=dSQjEsx8noFcWPMW1HO4zSt6OvHOXbUIdOoOuzn8luKQe6gkC%2B1G5hA2%2F3hN%0AqMc%2FgbNbLw52a3xjBUo%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1444523199/bf20fac9520870aa35b4ff67f5a7/Reece2.jpeg?expires=1763568000&signature=ee369bd670cc673121e3be582424f2ca1da34613e497bb0cbba32e36bb067de9&req=dSQjEsx8noBWUPMW1HO4zc09YkKa9ilmZ18fvr%2BETbyPSBntTu4SqUsnU0Ou%0A6BuKJeXl0Bz2Zcm1J5I%3D%0A
+
+Step 2: View Reece Materials
+
+- Go to Materials in your Price Book
+
+- Click the Reece category
+
+- Your recent purchases from Reece will be automatically added to your material price book.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1444523800/9f82de392cd6be44c0079df52a57/Reece3.jpeg?expires=1763568000&signature=f33d857cc2b3c786b1c51fea7de18f1d9bc41d3a25d3441cd9bf6a9ceeaf30cc&req=dSQjEsx8nolfWfMW1HO4zXTbkbOKHBNZGF%2BQkiCZaRDI72F3NnxCl4gpWXYm%0AX6Y7SBV5ZgwKPaLbisM%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1444524026/453702eebee5064f55c0a6c796d7/Reece4.jpeg?expires=1763568000&signature=edc9ab1c3c8157fbe742abc809c43f9c8ff406e1f652ce5f57e56a8ee22e7880&req=dSQjEsx8mYFdX%2FMW1HO4zQYwLP84m34PdiBDDeQ1o4BF5AbH9Rp7Sd0aEeUO%0A17wFlW08O9KNqcIWw1s%3D%0A
+
+Search and Add Reece Materials
+
+- Navigate to Price Book > Materials.
+
+- Select the Reece catalog.
+
+- Click Search Reece Catalog in the top right of the Materials page.
+
+- Enter the name, keyword, or UPC in the search.
+
+- Click Add to Price Book to save it for future use.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1444525362/f736e0fbe3a9fd0be3b6e684bc6a/Reece5.jpeg?expires=1763568000&signature=981ddc003415c42ed6c5ea99098fcafeae380db12eefcfc6f55743ae03b7f6ce&req=dSQjEsx8mIJZW%2FMW1HO4zYr6M3rVv%2FWiyL6ykFEBqzPeN%2BVZ%2FmFyNeNXr0Er%0AreIkm7R%2FlegtV5AVe8s%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1444525589/1923bcea632411ac1e12453549c7/Reece6.jpeg?expires=1763568000&signature=bd2fdbebe13ff1820c5c8210e41ee1678a21b61fe671e9970fc22c24c60593bf&req=dSQjEsx8mIRXUPMW1HO4zSOX6skBqmv2vPq9fLJZraqtiYG7KQ51yoXicGLY%0AKRvxgcmWdOc0K4v01j0%3D%0A
+
+Monthly Pricing Updates
+
+- Housecall Pro will automatically update your material pricing every month to reflect Reece’s latest prices.
+
+---
+
+Frequently Asked Questions (FAQs)
+
+Who can use the Reece Integration?
+
+- This integration is available to all Plumbing - Housecall Pro users who have an active Reece account, who have Flat Rate Pricing enabled.
+
+How often does pricing update?
+
+- Your pricing will automatically update every month, ensuring you have the latest costs from Reece.
+
+Can I edit imported materials?
+
+- No, materials that are imported will be managed by Reece to ensure accuracy and receive updates. However, you can mark items as taxable in your Price Book.
+
+Can I use the Reece Integration without a Reece account?
+
+- No, you must have an active Reece account to connect and import materials into Housecall Pro.
+
+How do I disconnect from the Reece integration?
+
+- If you wish to disconnect from the integration, please chat in with Support and request to disconnect. This will remove all materials linked to Reece and disconnect you from the integration.
+
+What happens if I disconnect my Reece account?
+
+- If you disconnect your Reece account, you will no longer receive pricing updates, and you won’t be able to import recent purchases.
+
+Can I use Reece materials with Flat Rate Pricing?
+
+- Yes, Reece materials can be added to any flat rate service.
+
+How do I know when my pricing has been updated?
+
+- Pricing updates occur automatically each month, you can view in the banner in your Reece category the date of when the last update occurred. Only Reece materials.
+
+Do imported materials include images and descriptions?
+
+- Reece does not include descriptions of the materials, however, they do provide some images.
+
+---

@@ -1,0 +1,130 @@
+Virtual Expense Cards FAQ
+Source: https://help.housecallpro.com/en/articles/10111570-virtual-expense-cards-faq
+Author: Jamie G
+Last updated: Updated over a year ago
+
+Summary: Learn how to set up and use Virtual Cards.
+
+What Are Virtual Expense Cards?
+
+Virtual Expense Cards are digital cards that are attached to your HCP Money account, giving you and other admins the power to control your back-office spending with instant access to unique digital card numbers.
+
+Once a card is activated, you’ll get access to a digital card number that can be used for all of your office spending, such as online transactions, putting a card on file with a vendor, or recurring expenses/subscriptions.
+
+To get started with Virtual Expense Cards, you’ll first need to enroll in HCP Money.
+
+---
+
+How Do I Create a Virtual Expense Card?
+
+To create a Virtual Expense Card:
+
+- Click 'My money' in the navigation bar at the top of your Housecall Pro account.
+
+- Select 'Expense Cards' from the menu on the left, then click the 'Add Card' button in the top right corner of your screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1247912809/8b4416507b5cc63ae90f685fcb2b/AddVirtualCard.png?expires=1763568000&signature=ada49a80373d67f3754146d11cfd1d1de79aa432408df47011b8ac06062181af&req=dSIjEcB%2Fn4lfUPMW1HO4zdIE3FCjCV%2BcuTJ1dJdnCH%2B40xMVKbIjvkW6pwu8%0ADq8aravv2JY%2F4FkAl3M%3D%0A
+
+- Select the 'Virtual Card' option on the Add Card page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1247952287/e34442cfafaa6051d7c80c72c606/VEC2.png?expires=1763568000&signature=1ec817152bdddabe5bbb88138d017547c7239c1fdaf5dfe65b906b37e32d4dda&req=dSIjEcB7n4NXXvMW1HO4zUUDX%2FT8eEHbP4x8pOngU%2FDsDbMG0HDVdLk3leXt%0AOpzfYpYZ0s%2BjTrYvJwM%3D%0A
+
+- From here, use the 'Cardholder' drop-down to select which team member you would like to assign this card to.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1247954013/3757d69ca7816d260d7eaf7125f6/VEC3.png?expires=1763568000&signature=dd0cff5a73f986deae98cd26ce3e74c5be3c35d8cead31ee8528d7e0b305e6b2&req=dSIjEcB7mYFeWvMW1HO4zZZdkEfTKviE9k6ov3H5TnExSjgbEYlw2%2BALTss1%0A242770kgQVCXCPeg900%3D%0A
+
+- Set your spending limit amount in the 'Amount' field, and use the 'Spending limit' drop-down to view and choose from the following spending limit options: 
+​ - 'Off' for no spending limit to apply. 
+​
+- 'Per transaction' so the spending limit will be capped at a set amount but there is no overall spending limit within a timeframe. 
+​
+- 'Daily' to reset the spending limit every 24 hours. 
+​
+- 'Weekly' for the spending limit to reset every Saturday at 5 PM.
+​
+- 'Monthly' for the spending limit to reset on the 1st of every month.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1247962885/a485f5d2a2cf9016b36b685c316b/VEC8.png?expires=1763568000&signature=fd99fca92e28b6a257d966438311457e96f6c2cc1c12fec331e1355cd7bd529c&req=dSIjEcB4n4lXXPMW1HO4zTDpAtVOc2OIeoeZg08X0WGogygz%2FbnYI6xpJFSC%0AtlsLaGSME3bYNiU2KZo%3D%0A
+
+- Fill out the 'Purpose' field to assign a name to your virtual card. This makes it easier to organize and manage your cards according to their intended use. 
+​ - Some examples of what you might name and use for your virtual card include the Vendor (e.g. “Lowes”), the purpose (e.g. “Supply store”), or anything else that makes sense to you and other admins. 
+​
+- Other examples of what to name and use the card for are online subscriptions (e.g. “Spotify” or “G-suite”), general online purchases, or simply the admin’s name that will be primarily using the card.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1247968730/ede847ec0476436adf18fefb5ba2/VEC0.png?expires=1763568000&signature=d8e337642d02be258f3e72184290103d37f961be79d9aa5583eae32c2ecd37c0&req=dSIjEcB4lYZcWfMW1HO4zThrBrsQ0ZGE2mNiY2tEX0u%2BokWdUqaNhKXVoqPx%0AQ3YoaXwHw8862cZw2Zs%3D%0A
+
+- Once everything is filled out accordingly, click the 'Add Card' button in the bottom left corner of the screen and you're all set!
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1247967967/9b010a8e8fdec8357a28c5306696/VEC9.png?expires=1763568000&signature=c19f474f90502f0416dd0e16d1e345163b4e64129fa6842b347af7df8dc73186&req=dSIjEcB4mohZXvMW1HO4zWRQWzG6GC7I1ZmuryQV7jKsrE7N4vwK%2FvnDY%2BQn%0ARq0uJhrPJLEXMTCeC48%3D%0A
+
+---
+
+How Do I Activate or Deactivate My Virtual Expense Card?
+
+To activate or deactivate your Virtual Card:
+
+- Select 'My money' from the Housecall Pro navigation bar at the top of your screen, then select 'Expense Cards' from the menu on the left.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1247943229/e50e968558d25e813ca750198095/VEC1.png?expires=1763568000&signature=36e883eaa822dc34e8b71ed65d5f3c6ff789b9795358a774078b38cebe8c0fc8&req=dSIjEcB6noNdUPMW1HO4zQX2CncMLv9B%2FQ8HomeTDQrcCjQFPUgnskE6zuC7%0AyME%2BvQJtafGsR0edzwo%3D%0A
+
+- Click on the 3 vertical dots next to the card you want to activate or deactivate and select the 'Manage Card' option.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1247912807/06e35b65b7929643f51b0efed7e2/AD_4nXdkvUHGBrEUk4tw8tIzIN1PHRduMbeCNDrI8X5PWDTG9nch92QLtWuhNmP-LkrzZ1kEloglLB1zFxlfraWXj7iMu0NkXdF6LOYYbjXIzjJYdBwa57l5rNvIIm16pwVAlDqAh0p4FndoT6N3QB0anNoVMUqO?expires=1763568000&signature=09368430629bf5d8d2680283214fa5a38e8824b9cc32a47c1ad54225fe230eca&req=dSIjEcB%2Fn4lfXvMW1HO4zVNziO8rKKPUo1biJ2Hk02E5iyV%2B5GH%2BvMMH8DGp%0AfPeE%2B%2FeGXA34R70D3NE%3D%0A
+
+- On the "Virtual card details" screen, click on the 'Card status' toggle to activate or deactivate the card.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1247947759/247d1138dffbcc8b614f8982df8f/VECgif.gif?expires=1763568000&signature=3ef47b1de24755a03c869c89f912b4953a1f94e85b66b656aa2b33b3040bd274&req=dSIjEcB6moZaUPMW1HO4zdZCrrTk6CQnGYUXIdxAubF8dAkRQe%2B9qgJzCdVs%0Ax7ZlOAkWNRvyDQyXhf8%3D%0A
+
+---
+
+How Do I View My Virtual Card and Change the Spending Limit?
+
+To view the details and change the spending limit of your Virtual Expense Card:
+
+- Select 'My money' from the Housecall Pro navigation bar at the top of your screen, then select 'Expense Cards' from the menu on the left.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1247948204/295192494868031084b098f85b04/VEC1.png?expires=1763568000&signature=8be83a9f8e5f58bdde6f32b578cb9948cf8251ce235f28e09a677c777022f407&req=dSIjEcB6lYNfXfMW1HO4zf6YPhXQteG8BkHGrCbuhSGZas55j%2FoEyXbPXFnJ%0A%2BXvuLpfuMG5HmtSsuHw%3D%0A
+
+- Click on the 3 vertical dots next to the card you want to view, and select the 'Manage Card' option.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1247912806/088638559eafb47db5d47aee04ca/AD_4nXdkvUHGBrEUk4tw8tIzIN1PHRduMbeCNDrI8X5PWDTG9nch92QLtWuhNmP-LkrzZ1kEloglLB1zFxlfraWXj7iMu0NkXdF6LOYYbjXIzjJYdBwa57l5rNvIIm16pwVAlDqAh0p4FndoT6N3QB0anNoVMUqO?expires=1763568000&signature=aea9f00a1db041b6cde9eeb7b5f0af62f5e28ef6ce488678132a9fb3710eb5ae&req=dSIjEcB%2Fn4lfX%2FMW1HO4zZCMcAy6d%2B6VXhK5IMrLrIlaXHp8cnbJkTZrMUXn%0AFBEhh4TvCXYkYq9vs3M%3D%0A
+
+- On the "Virtual card details" screen, you can change the spending limit and amount.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1247971839/b151a280a2b0f7b1bdcae4eb41e0/VEC12.png?expires=1763568000&signature=ff277878229a2fbf852982e5f7ed2c86577bcff497c2f5fdd95875eae0a9a4b3&req=dSIjEcB5nIlcUPMW1HO4zf7rxJHhJuggwHjiQ%2F57G37Fixut0%2BCS1O9A9KVX%0ADcn%2F4hLUyo08Ea72xa0%3D%0A
+
+- To view and copy your Virtual Card information, click on the 'Show Details' button.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1247970616/736824d01713888faff7ac5f5693/VEC11.png?expires=1763568000&signature=5ffd0b622df928bb28dab93ea37cd66fd32967d6f9b99815473ce82c5be36b53&req=dSIjEcB5nYdeX%2FMW1HO4zWlgxaO%2FHhLRhYkeGUmtjGGcARnEPWB0zrnBMmK7%0AquBe%2F6blgSIAvLvQvFY%3D%0A
+
+---
+
+How Can I Use the Dashboard to Learn More About My Spending and Transactions?
+
+To learn more about transactions and spending:
+
+- Select 'My money' from the Housecall Pro navigation bar at the top of your screen, then click 'Overview' under HCP Money from the menu on the left.
+
+- You will land on the HCP Money dashboard where you can see trends and a running transaction list of your business’s most recent transactions.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1247975273/c664a460ce4f17efb667e9e36d44/MyMoneyOverview1.png?expires=1763568000&signature=3c575d8e4c524054e105d0195224818902c8bf0112990add9ebe41de7c7f0fa9&req=dSIjEcB5mINYWvMW1HO4zUocPwPtAR8TEXZ6Dw7XdDlpTajl1I%2B5e1UFkFaR%0AOlThMIibCfh%2BhBt0PBw%3D%0A
+
+View Spending by Category:
+
+- To see spending by category, use the drop-down menu above the "Overall Activity" spending chart and select “What categories am I spending on?”
+
+- You can also change the time period to the past month, three months, or year.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1247912811/a0afc727d616e9b7d85e41a50659/AD_4nXd43_PqJI5I8Di5G4HMvlw0tnK8iTTaf1Xvq_vp6YjoJ3DXVvXIU9Py3E8kvYXsBB37Ht-HqqabxfHvi3rYjLJDq7BZcs9Bip8b6_JxCmm7-p1d04UsbS9_3eMHumupcCFuxXHX-VFyS2Fi7yppn3H6zUCD?expires=1763568000&signature=469f77911b311d5df549efa8652c0717440c2165def0756151e4c4ddc46bcd8c&req=dSIjEcB%2Fn4leWPMW1HO4zQu4x%2FWHGOtAPICfNJ1pEdK2XjM7Owj2mCDvHQDP%0A1YUE0fO7ni%2BO97daZbE%3D%0A
+
+View a Full List of Transactions:
+
+- To see a full list of transactions, you can either click Transactions on the left-hand navigation menu under Expense Cards, or click the view all button directly above your list of completed transactions on the dashboard. You can use the arrows at the bottom right of the list to view more transactions directly in the Expense Cards interface.
+
+---
+
+How does the QuickBooks Online Integration work with Virtual Cards?
+
+- The QuickBooks Online integration works the same way with Virtual Cards as it does with physical Expense Cards.
+
+---

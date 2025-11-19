@@ -1,0 +1,135 @@
+Schedule Service Plan Visits
+Source: https://help.housecallpro.com/en/articles/3075085-schedule-service-plan-visits
+Author: Roland Ligtenberg
+Last updated: Updated over a month ago
+
+Summary: Service plan visits can be scheduled from the jobs page, service plan details page or the service plan dashboard.
+
+How to Schedule or Link Your Service Plan Visit
+
+There are 3 easy ways to schedule your service plan visits. Be sure to enable your automatic scheduling reminders so your customers will reach out to you to schedule their next maintenance.
+
+- Schedule a new service plan visit or attach a current or past invoice from the service plan details page.
+- Easily schedule new service plan visits from the service plan dashboard.
+- Linking the service plan visit from the job page.
+
+Schedule from the Service Plan Details Page
+
+- Go to the customer's profile and select the Service Plan below their address.
+- From their Service Plan details scroll down to the Visits.
+- The calendar icon will create a new job that will be linked to the service plan visit.
+- The edit icon will allow you to mark the visit as completed and attach a previous job to the service plan visit.
+
+[Image] https://downloads.intercomcdn.com/i/o/626746715/567b6ea07b37254eaf612eed/CSA+details+schedule+visit.gif?expires=1763568000&signature=2ac1148824a9ed993199545f270539daa65fc88809a3e670a42b4be1fc698f73&req=ciIhEc14moBaFb4f3HP0gBDMZDpmmKulLDO3BAORL4Y6XIRP8%2FR3s0GuIABL%0A%2BxVSEZwa0zXD3vaBOg%3D%3D%0A
+
+Schedule from the Service Plan Dashboard
+
+- Go to My Apps and select Service Plans.
+- From the Service Plans Dashboard scroll down to the Unscheduled Visits table. Visits will appear here in chronological order. If visits from months prior have gone unscheduled they will appear at the top of this list view.
+- To access the full list of Service Plan Visits click VIEW ALL at the top right.
+- To schedule a visit from either list view hover over the customer's row and a calendar icon will appear to the right.
+- Click the Calendar Icon. [Image] https://downloads.intercomcdn.com/i/o/626747058/ec585955591aa4a7f2873055/schedule+from+the+sp+dash.gif?expires=1763568000&signature=55c467e5095fa60301cf45998528195ff757d74c9f26921823ee7bc9f1093e6a&req=ciIhEc15nYRXFb4f3HP0gGfNOrELscZODHqzzHtlPwyORoxmKYXlBzr%2Flacc%0AXzI%3D%0A
+
+---
+
+Linking Service Plan Visits to Jobs
+
+To help you more easily fulfill your customers’ service plan visits, we updated the functionality of the “service plan” section on the Job page. Now, the service plan section automatically provides key information about a customer’s service plan, including the duration and expiration date, as well as the next unscheduled visit. With more visibility into which of your customers has an active service plan, you can easily see which customers are due for their next visits or require preferred treatment.
+
+Follow the steps below to link a service plan visit to a job:
+
+- Create a job for a service plan customer
+- Notice the service plan details on the right and top of the job page
+- Use the + service plan visit to select which visit to attach to the job
+- A line item with the visit and plan name will be created so you can easily track your visits on your invoices
+- Save job
+
+[Image] https://downloads.intercomcdn.com/i/o/626744331/f91253588bf29846ff69cad5/link+service+plan+from+job+page.gif?expires=1763568000&signature=818b88e251a6e7e28bd68a2a826026d2bd1a74376745497e05b5c83fe7a4cb12&req=ciIhEc16noJeFb4f3HP0gFVJm8x12zY3UZ5M389M0JsLXy4crPseNOwrCHxz%0AaM7zZP2y2dhISXN69g%3D%3D%0A
+
+When you attach the visit to the job, we’ll automatically create a line item with the visit and plan name so you can easily track your visits on your invoices as shown below.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/491462536/985253d35fc088c37a824867/ZmUyufPnnju4omoiOmu92g5yNotHPfZqFE57LKbFnob0-ttZ6Yso-TvR7eyNfWg1lTEIHQY7M9ZRDKRa_w3nc3RjjxxPPyARxhmKaq1Ix4__KFSAkGtLRI72dEzwJD582vQZQcJx?expires=1763568000&signature=8ed84a20989e329ad891a3fd25792139c1d6960580d6052093ffb845990e71cb&req=cCkmEs98mIJZFb4f3HP0gKN0aDlmmvwdG6K7DDLDTu6G2NoIE1dh6rJRdYj2%0AgMnNBLFxOW2fweeZXA%3D%3D%0A
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/491462552/b256b62a2e2262281d359c9d/3GvNfSt0IPA1gxWGXVsaYbS2wlXsYaSrD-pn1LUWAwGYnu6rN7HBSC39bsH9aJ_-mZ4I4ZGs5efgs0S5sKtRUtSWacmzvIsoAlyAO1UkDrXtBlIqdVI3OIK0Oj5BaZd6AhvYycWd?expires=1763568000&signature=66f80f53b20bbe557399a4c3c4e29404258edc42be09328da7b2121304ca68dc&req=cCkmEs98mIRdFb4f3HP0gP6W9hqmbLapkOW4GduvM0vPnXePixhFucb%2BOWle%0ALDjktCSIfhIXGwUwTQ%3D%3D%0A
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/491462498/e96e5110bc09d48895e22977/LoazHzFHzvq9j5rEIXcagUH5aYBCc96-oH5b_91QUq8r3iSsjFMdr75jLA-7MRQQdwM5-I7zoFG-JourSjzcjBnyuxiuuW2lcW1abeX-RcHa0c3-DQcpxFSiMkVHgCW9nZWZd5jV?expires=1763568000&signature=6f833badd0ccc4714a9d66bd87457f914bb326e618e2ac544abf2ab3efdda287&req=cCkmEs98mYhXFb4f3HP0gAO2rN7fp2OF58nHn9SBgHCE5RMb0%2BDLF9kbqvqu%0A9%2F%2F3KMKmo2%2Bg7ddSVw%3D%3D%0A
+
+Please Note: Once a visit has been selected and attached to a saved job, it is not removable from the job page.
+
+To remove or change the visit that is attached to the job, navigate on web to the Service Plan Details Page for that customer’s plan and click the pencil icon to edit that visit.
+
+---
+
+Edit Service Plan Visits
+
+How to adjust the month or year a visit is due, mark a visit complete, or associate an existing invoice to a Service Plan visit.
+
+Editing Visits From the Customer Profile
+
+- Go to the customer's profile and select the plan in need of editing.
+
+[Image] https://downloads.intercomcdn.com/i/o/383812507/53f90d0bdf775c9f85f0370c/Screen+Shot+2021-09-01+at+3.46.45+PM.png?expires=1763568000&signature=66cc0704ec497b59708cd27fe4ffc1efebbbebd37ff593ef638f9c87bcd5a6b2&req=dygkHsh8mIFYFb4f3HP0gPQBju6tSmzhyC6Pk1Rz4SIUWWBTbSCzd%2FSNjk5i%0AqxZLyYkDDgyd8g2TLQ%3D%3D%0A
+
+- Once in the Service Plan details, scroll down to the Maintenance Schedule. Hover over the row of the visit in need of editing and click the Edit Pencil Icon that appears.
+
+[Image] https://downloads.intercomcdn.com/i/o/383813154/a727ebf1f4d7a1ec9b81511e/Screen+Shot+2021-09-01+at+3.47.55+PM.png?expires=1763568000&signature=b571c1fc3b7337f9079fc639b1b316095cc092364b8ed21eb824b647c8c85607&req=dygkHsh9nIRbFb4f3HP0gLYNAV16Y%2FUyuXG8O3lHv9%2Fwmf9FZ5DRyod0HvHV%0AnpJfHc981brVbxsGEg%3D%3D%0A
+
+- To adjust the month or year that the visit is due select the correct month/year from the drop down and click SAVE. To mark the visit as complete, select the box next to Completed and click SAVE.
+
+[Image] https://downloads.intercomcdn.com/i/o/383813903/c9835f137b2096b811c8493b/Screen+Shot+2021-09-01+at+3.49.03+PM.png?expires=1763568000&signature=aa33c096e767a1991b9d63a22a3814b5ef2d1132b074d3108729d1ccf9fc9b9f&req=dygkHsh9lIFcFb4f3HP0gP8RJNVL2QAbB9X5IhQaT2%2B%2F62F0oJ%2B%2FXDRs6t%2Fq%0A2LcEUFT55hIAyBWxbg%3D%3D%0A
+
+OR
+
+- To associate and existing invoice to the Service Plan visit, select the box next to "There is an invoice attached to this visit" and choose the correct invoice from the drop-down. Click SAVE.
+
+[Image] https://downloads.intercomcdn.com/i/o/383815872/c8bbc793df415e2bf44bf269/Edit+SP+Invoice.png?expires=1763568000&signature=b38763aadd40c5b528724beea709a27a22e14de144f1413d81cccd2b38a3718a&req=dygkHsh7lYZdFb4f3HP0gISpZS1eaaCsANN0Snd4dM22C29nLOpWnWapgF6B%0A0eyJs2m%2FaQtVdaHNgg%3D%3D%0A
+
+Completed Service Plan Visits
+
+If a service visit was completed prior to a plan being set up with the customer officially, it can be marked as such and even linked to the related invoice.
+
+NOTE: This method is ONLY if you have already completed a visit, not how to schedule and attach a new visit.
+
+- Go to the customer's profile and select the plan in need of editing.
+
+[Image] https://downloads.intercomcdn.com/i/o/383812507/53f90d0bdf775c9f85f0370c/Screen+Shot+2021-09-01+at+3.46.45+PM.png?expires=1763568000&signature=66cc0704ec497b59708cd27fe4ffc1efebbbebd37ff593ef638f9c87bcd5a6b2&req=dygkHsh8mIFYFb4f3HP0gPQBju6tSmzhyC6Pk1Rz4SIUWWBTbSCzd%2FSNjk5i%0AqxZLyYkDDgyd8g2TLQ%3D%3D%0A
+
+- Once in the Service Plan details, scroll down to the Maintenance Schedule. Hover over the row of the visit in need of editing and click the Edit Pencil Icon that appears.
+
+[Image] https://downloads.intercomcdn.com/i/o/383813154/a727ebf1f4d7a1ec9b81511e/Screen+Shot+2021-09-01+at+3.47.55+PM.png?expires=1763568000&signature=b571c1fc3b7337f9079fc639b1b316095cc092364b8ed21eb824b647c8c85607&req=dygkHsh9nIRbFb4f3HP0gLYNAV16Y%2FUyuXG8O3lHv9%2Fwmf9FZ5DRyod0HvHV%0AnpJfHc981brVbxsGEg%3D%3D%0A
+
+- Select the box next to 'Completed' in the bottom right of the pop-up and click 'SAVE'.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160495461/233c567655dbd607647f901c/Screenshot+2024-08-27+at+6_45_45%E2%80%AFPM.png?expires=1763568000&signature=9f6fef54f93120a433530f56c1e117037f0c952b7161366c6042ca7bfb551c89&req=dSEhFs13mIVZWPMW1HO4zUebDqBH3TZXV054sOOABJ8bpq%2FX1aZC4NlB8lyj%0An2dqQ5mYUpXY4Drmxso%3D%0A
+
+Editing Visits From the Service Plans Dashboard
+
+- Open the Service Plans Dashboard from My Apps.
+
+[Image] https://downloads.intercomcdn.com/i/o/383817139/f072ed016e7ff297203b5fb2/Screen+Shot+2021-08-27+at+4.46.43+PM.png?expires=1763568000&signature=43e0c652f6179b22bd44e2d7ac5eb78bee88cba8dee1c67a0d23ef1f3727b92d&req=dygkHsh5nIJWFb4f3HP0gDjefRtdT%2B%2FJEFfyvMzGJIovIcCwPnNUKrvyS2gF%0A6GldKco6Mr5iq%2B8d1A%3D%3D%0A
+
+- Scroll down and click View All at the top right corner of the Unscheduled Visits queue.
+
+[Image] https://downloads.intercomcdn.com/i/o/383817515/d6ff3c9004a39ad64f2c440f/Screen+Shot+2021-09-01+at+4.01.57+PM.png?expires=1763568000&signature=4fbcde74182b764f76e2fb8b1948ff4c234ecbfe464a51b47d02e690aa5506b1&req=dygkHsh5mIBaFb4f3HP0gAXozF4HqBFZdppCbJUdNbjaykL6pxn9%2B6SendyG%0A0saL6yrI%2B%2BbTBgC%2FKQ%3D%3D%0A
+
+- Hover over the row of the visit that needs editing and click the Edit Pencil Icon that appears.
+
+[Image] https://downloads.intercomcdn.com/i/o/383818682/7a45e49e766e7aa23265b8f3/Screen+Shot+2021-09-01+at+3.59.57+PM.png?expires=1763568000&signature=54c9ca7eb077d75360137541b464f9563e4b25b008186ac48144350700f3a752&req=dygkHsh2m4ldFb4f3HP0gJFTGTzRcThNG6AtoScQ6W6C9B1oMfF0MivTNSiA%0Axo%2FAu0n1gSU92NZKTA%3D%3D%0A
+
+- To adjust the month or year that the visit is due select the correct month/year from the drop down and click SAVE. To mark the visit as complete, select the box next to Completed.
+
+[Image] https://downloads.intercomcdn.com/i/o/383813903/c9835f137b2096b811c8493b/Screen+Shot+2021-09-01+at+3.49.03+PM.png?expires=1763568000&signature=aa33c096e767a1991b9d63a22a3814b5ef2d1132b074d3108729d1ccf9fc9b9f&req=dygkHsh9lIFcFb4f3HP0gP8RJNVL2QAbB9X5IhQaT2%2B%2F62F0oJ%2B%2FXDRs6t%2Fq%0A2LcEUFT55hIAyBWxbg%3D%3D%0A
+
+OR
+
+- To associate and existing invoice to the Service Plan visit, select the box next to "There is an invoice attached to this visit" and choose the correct invoice from the drop-down. Click SAVE.
+
+[Image] https://downloads.intercomcdn.com/i/o/383815872/c8bbc793df415e2bf44bf269/Edit+SP+Invoice.png?expires=1763568000&signature=b38763aadd40c5b528724beea709a27a22e14de144f1413d81cccd2b38a3718a&req=dygkHsh7lYZdFb4f3HP0gISpZS1eaaCsANN0Snd4dM22C29nLOpWnWapgF6B%0A0eyJs2m%2FaQtVdaHNgg%3D%3D%0A
+
+For more information on Service Plans please see our Service Plans Collection or Service Plans FAQs.
+
+Check out how recurring revenue helps your service business grow.
+
+---
+
+---

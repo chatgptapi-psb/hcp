@@ -1,0 +1,187 @@
+QuickBooks Online: Settings in Housecall Pro
+Source: https://help.housecallpro.com/en/articles/1835834-quickbooks-online-settings-in-housecall-pro
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: Access your QBO settings in Housecall Pro to view alerts, check import statuses, set up your bank account, and verify your connection.
+
+QuickBooks Online Settings in Housecall Pro
+
+Once your QuickBooks Online and Housecall Pro accounts are connected, you can access your QuickBooks Online settings within your Housecall Pro account by:
+
+- Clicking on the QuickBooks icon in your HCP navigation bar. - This will direct you to your QuickBooks Online Sync alerts settings. You can also navigate to other settings options from this page.
+
+- Clicking on the gear icon in your HCP navigation bar. - This will direct you to your company Account Settings.
+- Scroll down in the Settings menu on the left side of your screen and click on the 'QuickBooks Online' dropdown under the "Money" section.
+
+[Image] https://downloads.intercomcdn.com/i/o/1175620931/8aa62b69471194506a1068b6/QBiconORgear.png?expires=1763568000&signature=2289781c547b4730b5f5d0eeccba490593219f55e9fe86fb67b76fe2d7542f88&req=dSEgE898nYhcWPMW1HO4zaF2KWEdsKNbp%2BMyijhmyu%2F6K3JyfcVIY%2BHZ7mF0%0AtNvcN%2FDlGTHzQYUdfbU%3D%0A
+
+QuickBooks Online Settings:
+
+- Sync alerts
+- Import
+- Banking
+- Account details
+
+[Image] https://downloads.intercomcdn.com/i/o/1175623126/6550e42db4f98660e22028a0/QBOSettings.png?expires=1763568000&signature=37b6c1007eae8cb481a8f1db47655f82c3e5da1ca80383c6840f563a874a7f46&req=dSEgE898noBdX%2FMW1HO4zelRFPmIA5Yi3tji3dg71BRAGJ%2FJ8bs4BGG%2FgUKF%0ALDIXY1ULFatj4Hxn5bo%3D%0A
+
+​
+
+---
+
+Sync Alerts Settings
+
+The QuickBooks Online Sync Alerts settings page displays alerts for invoices or jobs that encountered issues while syncing to your QuickBooks Online account.
+
+To access your QuickBooks Sync Alerts from any page in your Housecall Pro account:
+
+- Click on the QuickBooks icon in the top right corner of your screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/1175606328/8aee8e329c62a6d3ed03ca24/QBicon.png?expires=1763568000&signature=4fd667f5846c047f327814c0a5f3ace7f7230f756865582051586ef52a07032b&req=dSEgE89%2Bm4JdUfMW1HO4zRi40MpDIAzj6WVr%2BPWAciHeI%2FgmYhoIYympF63t%0AkwcXu65EnuhKLkZ%2FvkU%3D%0A
+
+If there are any alerts that need attention, they will be displayed here with the following information:
+
+- Job Number
+- Time the alert occurred
+- Type of alert
+- Description of the alert
+- Resolution for the alert
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/1175609412/bf7c294390a7eea30f70e342/SyncAlerts.png?expires=1763568000&signature=228c2dd2adb37db72c6ed91186fd4310ecddca4b84801bb86b810d4702b7ab55&req=dSEgE89%2BlIVeW%2FMW1HO4zaRuWAnnYJ9hmkc%2FQAQPpeom8eYo5Kk7hPHNM1Zg%0AzeXdnDwg3c%2FqCW602LQ%3D%0A
+
+---
+
+Import Settings
+
+The Import settings page shows your import history from the day you first imported data to Housecall Pro from QuickBooks Online.
+
+To navigate to your QuickBooks Online Import Settings:
+
+- Click on the QuickBooks icon or the gear icon in the top right corner of your Housecall Pro account.
+
+[Image] https://downloads.intercomcdn.com/i/o/1175617984/46d12aa5c0e732e9d5020490/QBiconORgear.png?expires=1763568000&signature=714da4f9e1268c69b96f04a806e2b4fb7a608e6fd4f1e2cfe8aa7438e75a1f18&req=dSEgE89%2FmohXXfMW1HO4zRbrminftVJVEPP0pNkg39hCOCrYweWUNGNvqE3%2B%0A4R1sIFtR%2FrVeFfvnf%2Bs%3D%0A
+
+- Next, scroll down on the Settings menu on the left side of your screen and click on the QuickBooks option to expand more options if needed.
+
+- Select 'Import' from the QuickBooks settings options.
+
+[Image] https://downloads.intercomcdn.com/i/o/1175619654/cdf8e7b1d85466f748e0f40b/QBImportSettings.png?expires=1763568000&signature=9c755f22d499e479a23c4764b636e0b6922982634cd5f1a59f532a3693a3ecad&req=dSEgE89%2FlIdaXfMW1HO4zTZDgtiMvPJxFbncTmOBkSgkgHGmtuoFkDMUEYDp%0AxZUKb7wPOL6t4X36o5Y%3D%0A
+
+On this page, you can view the following information for each import:
+
+- Import Date
+- Import Status
+- Details ('View Errors' hyperlink)
+- Customers imported
+- Invoices imported
+- Price Book items imported
+- Tax rates imported
+- Business Units (Classes) imported
+
+You can also import additional data by clicking the 'Import From QuickBooks' button in the top right corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/1171490826/08c6832a2ec40587256a62be/ImportSettings.png?expires=1763568000&signature=09ce1e23bfd0135f571a3dcc66e0fe021d128335d63be09d0ad87255d7445cf2&req=dSEgF813nYldX%2FMW1HO4zehy8NKVaFDrIxQQDhyhX9A%2BOHn0p5PB%2FOqi%2Bf0h%0AJPX18Vp8I%2FbI0awBpec%3D%0A
+
+---
+
+Banking Settings
+
+One key configuration included in this screen is the name of the bank account to which Housecall Pro credit card payments will be reconciled.
+
+From this page, you can connect a bank account if you don't have one connected already. You can also verify the bank account that's currently connected, or update the account.
+
+- If you don't have a bank account connected to QuickBooks Online yet, click on the blue 'Connect Bank Account' button.
+
+[Image] https://downloads.intercomcdn.com/i/o/1175685834/e8213d6d1a0a09ad6fffb9c2/QBOBankingConnectAcct.png?expires=1763568000&signature=8e3ef67be9b5faad529ba97c37921e5d14e108c6c3b114fc9af465d2de3f2fdc&req=dSEgE892mIlcXfMW1HO4zZeivEXjW%2F5ampYfBzyKcoKYZCcCJwup9HAENiqB%0ATp57gw%2Bc7yY%2BOumRt8o%3D%0A
+
+---
+
+Account Details Settings
+
+The Account details settings page displays two sets of information:
+
+- Data summary
+- Connection details
+
+If needed, you can also disconnect your QuickBooks Online account from this page.
+
+To navigate to your QuickBooks Online Account details settings in Housecall Pro:
+
+- Click on the green QuickBooks icon or the gear icon in the top right corner of your HCP account.
+
+[Image] https://downloads.intercomcdn.com/i/o/1175659746/acb6a4f8f96ade60e4ec0a44/QBiconORgear.png?expires=1763568000&signature=c150c8f52ad3fa0f3dbd71102529845af8b44018ea0c034576f881f61e44c137&req=dSEgE897lIZbX%2FMW1HO4zYt0zjTq40CK4w2apFnvESJKmm%2F5mGJQZX6SGLzB%0AdkBVoFFv1WjwvsTKZeE%3D%0A
+
+- Scroll down on the Settings menu on the left side of your screen and click on 'QuickBooks Online' to expand more options if needed, then select the 'Account details' option.
+
+[Image] https://downloads.intercomcdn.com/i/o/1175661993/c6cb5dcbfddccafac2be51d0/QBOSettingsAccountDetails.png?expires=1763568000&signature=2e4566a1d07b479ae999be6292abadc382211ce8554bf4b491cb869046bb7ede&req=dSEgE894nIhWWvMW1HO4zfroOvJCIbwRXWLcRHL1%2F%2FfHTkQSlHPYC4YvX9AB%0Avm8nMBKZT8%2F3XoHk5Mk%3D%0A
+
+---
+
+Data Summary
+
+The Data summary section shows which records have been linked between QuickBooks Online and Housecall Pro, and the count of records for each account for each category:
+
+- Tax rates
+- Business Units (Classes)
+- Customers
+- Jobs
+- Price book
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/1175664533/7f47d6f1a6a613834972f601/QBODataSummary.png?expires=1763568000&signature=97a5d84927e5551f44e484581d06c0cf7e17c42c8ef6c224d880b1cb0b2e4c56&req=dSEgE894mYRcWvMW1HO4zbuuE58lZ966jkiiqM57PEV3VF%2B9uofWyYdoYSBw%0AEl0NiRrx3rnlhgMGP2M%3D%0A
+
+---
+
+Connection Details
+
+The Connection details section shows the status of your QuickBooks Online connection and also provides the following information:
+
+- Realm ID
+- Company Name
+- Legal Name
+- Subscription Status
+- Offering SKU
+- Item categories feature
+- Email
+- Phone number
+- Website
+- Address
+
+[Image] https://downloads.intercomcdn.com/i/o/1175670745/e81318b8fbbbe0b89646f77b/QBOConnectionDetails+%281%29.png?expires=1763568000&signature=95f6140118d7430fb0bcac97b42f9041eb8dda73016695ca344eece1013ea76a&req=dSEgE895nYZbXPMW1HO4zU7Vc%2BO8yCX1nSCUQd0k0njCS6K1gGp1GRtnxldi%0AkhNtGOHCk4wXTWtWHP0%3D%0A
+
+---
+
+Disconnect your QuickBooks Online Account from Housecall Pro
+
+To disconnect your QuickBooks Online account:
+
+- Click on the green QuickBooks icon or the gear icon in the top right corner of your HCP account.
+
+[Image] https://downloads.intercomcdn.com/i/o/1175659746/acb6a4f8f96ade60e4ec0a44/QBiconORgear.png?expires=1763568000&signature=c150c8f52ad3fa0f3dbd71102529845af8b44018ea0c034576f881f61e44c137&req=dSEgE897lIZbX%2FMW1HO4zYt0zjTq40CK4w2apFnvESJKmm%2F5mGJQZX6SGLzB%0AdkBVoFFv1WjwvsTKZeE%3D%0A
+
+- Scroll down on the Settings menu on the left side of your screen and click on 'QuickBooks Online' to expand more options if needed.
+
+- Select the 'Account details' option.
+
+[Image] https://downloads.intercomcdn.com/i/o/1175661993/c6cb5dcbfddccafac2be51d0/QBOSettingsAccountDetails.png?expires=1763568000&signature=2e4566a1d07b479ae999be6292abadc382211ce8554bf4b491cb869046bb7ede&req=dSEgE894nIhWWvMW1HO4zfroOvJCIbwRXWLcRHL1%2F%2FfHTkQSlHPYC4YvX9AB%0Avm8nMBKZT8%2F3XoHk5Mk%3D%0A
+
+- Click on the 'Disconnect My Account' button at the bottom of the Account details page, under the Connection details section.
+
+[Image] https://downloads.intercomcdn.com/i/o/1175674914/6bcf76a2cfe694ce418a4c02/QBODisconnectMyAcct.png?expires=1763568000&signature=f4c5674ac87037934b30736fc4ff7aba9da3ee429697c7239e2d833b9393d2f6&req=dSEgE895mYheXfMW1HO4zYSZr7FhsbakfGUcaDWxUWLh48Eg%2FVMzujK6XcqV%0A0%2BzB%2B4iz1kPNObwVtCA%3D%0A
+
+- Next, select the reason for disconnecting your QuickBooks Online account, then type "DISCONNECT QUICKBOOKS" in the text box to confirm.
+
+- Finally, click on the 'Disconnect' button to disconnect your QBO account.
+
+[Image] https://downloads.intercomcdn.com/i/o/1171497626/240b49b1f50ea7dc29c8b806/DisconnectQBO.png?expires=1763568000&signature=cf6b92ec3cfb450abd9fde102445527a3a5690d81ef96d9344f37d6b1a63db7c&req=dSEgF813moddX%2FMW1HO4zTZhqtg2X0nRFbyjTXWDMRDn2RGbbqEKwFxn9LdR%0AwMaV4lmWU7yhGRpasdE%3D%0A
+
+---
+
+Learn more about how Housecall Pro easily integrates with
+
+your QuickBooks Online account.
+
+---
+
+---

@@ -1,0 +1,40 @@
+Wisetack consumer financing - invoices & estimates
+Source: https://help.housecallpro.com/en/articles/3538947-wisetack-consumer-financing-invoices-estimates
+Author: Nate H
+Last updated: Updated over 4 months ago
+
+Wisetack Financing Options on Invoices & Estimates
+
+With the Wisetack* consumer financing option turned on, your customers will automatically have the option to finance their jobs when you send estimates and/or invoices.
+
+Table:
+Row 1: Invoice | Estimate
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/1184946087/0d1df268e26c278a3d57dd1a/7vpbASQtTpK1PM4HRurrxIgvgyYOTqeJ8Kwvzq-N-nwX-8iOD8axd9nisH7iGgq_hY8DoVDCnLzAHxKEZUNtyg-qu6n6ysa-rhkvR2CU8c8rnnzRVSimsdveQT2mhkbDM6gx6c1S?expires=1763568000&signature=865b32dcc1f040b650d9c114264f7dc1b4fa38a11ed3e54d4dad2c5f7258a4ac&req=dSEvEsB6m4FXXvMW1HO4zUC%2Fd5C6Nok28M47%2B3KzdPf0Ch3X4ySJfViWVCr0%0AmWPe%0A | [Image] https://downloads.intercomcdn.com/i/o/1184946088/41489dd744704f7cf83a3722/YEiIApJ6CnqsN6qsqgJQWzCBWzGsD4xVhg4OrF9wljlGLroU4CQPc88k8_GYahPewQdnwuzhlSdoWA0dQ4da3djK7wBcjVPN-o57jfN6IW0d6MqLd4G-SVW5j_lNQJLGZ7xT3vYh?expires=1763568000&signature=62aebd93d50fb1c1e44b3a12b665e4213d41d8ab66f435fabfb50fb73c87269e&req=dSEvEsB6m4FXUfMW1HO4zW%2Bz3XuUizHR%2Fmkeoz%2F46ePb2JWaNzVfLQbkY1a%2B%0AeRbm%0A
+
+You'll have the ability to easily send your customers an application to finance their jobs with Wisetack directly from the Job Details page in Housecall Pro, from both the web portal and the HCP mobile app.
+
+If your customer is approved for and accepts financing for the job:
+
+- The purchase amount will be applied to the job total and reflected in the job's Activity Feed on the Job Details page.
+
+- You will receive the payment for the job after the job’s completion on the specified service date.
+
+---
+
+Updates to the Scope of Work or Job Amount
+
+If the scope of work or the job amount changes, you should resend the customer through the financing application process.
+
+Since checking eligibility only requires a soft pull on their credit, it does not hurt the customer's credit score to apply and check the financing options again. Plus, the application is easy to fill out and only takes a few minutes of your customer’s time.
+
+If the job size has increased, there is a risk your customer may not be approved for the new financed amount. In most cases, a moderate increase in the job amount should not be a problem.
+
+---
+
+Deposits on Consumer Financing Jobs
+
+Since you are set to receive the full amount from Wisetack when the job is complete, it's less common to collect a deposit on consumer lending jobs.
+
+However, if you still require a deposit, you can create a separate job, add a deposit, then send the invoice and have the customer pay. You can then just subtract the deposit amount from the financed amount.
+
+---

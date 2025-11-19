@@ -1,0 +1,50 @@
+Create a Report - Credit Card Processing Fees
+Source: https://help.housecallpro.com/en/articles/1749325-create-a-report-credit-card-processing-fees
+Author: Nate H
+Last updated: Updated over 8 months ago
+
+Summary: Create a report to view and export your credit card processing fees.
+
+How to Create a Credit Card Processing Fees Report
+
+Credit card processing fee reports are easy to create and important for your records come tax season! While you can view your credit card processing fees in the 'My Money' tab, you'll need to run the credit card fees report through your HCP Dashboard.
+
+To create a Credit Card Processing Fees report:
+
+- Select 'Dash' from the navigation bar at the top of your Housecall Pro account.
+
+- Click 'SEE REPORT' on the $ Paid invoices reporting widget. (You may need to scroll down to see it).
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1225243055/dcde002c8159dba218dba3c66eca/CCFeesReport1.png?expires=1763568000&signature=932a17d79815dfee7aab01cc7e184cc49e6355b6feb1b28f042191a90eae7d5d&req=dSIlE8t6noFaXPMW1HO4zUoYrhRLh%2FPZxJcOgNrTbC5MCsIFnXiXeexx0WeE%0AqJHoDp52x8D0NpNIY40%3D%0A
+
+- Use the 'Table Columns' drop-down at the top of your screen to include or remove columns from the report.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1225256262/bb01a43bb0fe917a308f1e3eb95a/CCFeesReport4.png?expires=1763568000&signature=8f17c3071aa4b19c8e14a37499fa98fa12ce03689ad387ab82d0eb51ae788fe2&req=dSIlE8t7m4NZW%2FMW1HO4zR4Wa5fevW%2BVmBoi%2BoPhmBqyFPScYsi6k9UAF0wk%0AXGLrjzAszCoOYWLz5rQ%3D%0A
+
+- If you'd like to filter for a specific date range, make the necessary adjustments by clicking the date filter to the left of the 'Table Columns' drop-down.
+
+- Click the green 'Save' button to save your report with the applied filters.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1225251420/4615deac4839d0b6343c7f558d17/CCFeesReport3.png?expires=1763568000&signature=f341018a0f74920c8338c3fd4cfb4784d5941c905d05ed326cb9b5a1024e99fd&req=dSIlE8t7nIVdWfMW1HO4zQYnTZ5Mg%2Bo5Vcz1KEfmboAqw54NgWGgEWl8%2B2BE%0A77u%2FSuj9R%2FO3GjpoIuA%3D%0A
+
+- Next, click the 'Export data to Excel' (notebook with an 'X') icon.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1225252670/47e7c9116e0386d6bc9bebb67251/CCFeesReport.png?expires=1763568000&signature=f706496551c8f6ac206ec2080aa724029215a638118cdbd4db0a782d7eeba5f6&req=dSIlE8t7n4dYWfMW1HO4zeyG3p5H%2Feiouq33InQq9E69xgF0Nw21vRCSYuuv%0AeI1J0bYQr%2FzJptgGE4I%3D%0A
+
+- In the "Export Data" pop-up window, you can select 'Download CSV' to download the CSV file to your computer or select 'Send by Email' for the Excel export to be sent to the email address listed in your Employee Profile.
+
+[Image] https://downloads.intercomcdn.com/i/o/136562138/e0922168b05180c18992f1de/Screen_Shot_2019-07-24_at_11_57_03_AM.png?expires=1763568000&signature=44fc6c68b3aeb5a1d879fbfb6a1681c292c986bf431746f7bfdf9d51e5363079&req=dSMhE898nIJXFb4f3HP0gDvMzacYzFKcRGUqopTtMTbNAEE3FnwT3suakJKx%0ArKn5RMEW8OFY9jXTdQ%3D%3D%0A
+
+- You will see the Credit Card Fee column in the exported report once opened in Microsoft Excel, Google Sheets, or Numbers (on Mac computers).
+
+- This column will show every individual fee within the date range selected. To see the total for the fees you will need to add a =SUM formula or another method to total the column.
+
+- Please Note: The Credit Card Processing Fees report is currently accessible only from the Dashboard ('Dash' tab) and is not available on all accounts.
+
+[Image] https://downloads.intercomcdn.com/i/o/136568119/10681270245ed37c803c98a3/Screen_Shot_2019-07-24_at_12_16_09_PM.png?expires=1763568000&signature=170cdd6a26e3d00dd0249d8b308562a6bbf7de1956a6e341f43236a2ea8f3e20&req=dSMhE892nIBWFb4f3HP0gAW1Dto0qSbNB76cobk0WrSVW%2FPE4vT%2BXEXsPGey%0A%2BEaGuD9AGEMiPdMqUw%3D%3D%0A
+
+---
+
+Learn more about how Instapay can have your credit card payment in hand, typically in less than 30 minutes.
+
+---

@@ -1,0 +1,123 @@
+Bill Pay: Overview Guide & FAQ
+Source: https://help.housecallpro.com/en/articles/7852378-bill-pay-overview-guide-faq
+Author: Nate H
+Last updated: Updated over 2 weeks ago
+
+Summary: Learn about the key features and capabilities of Bill Pay, how to navigate the Bill Pay Overview page, and review Bill Pay FAQs.
+
+Streamline Your Bill Payments with Bill Pay
+
+Bill Pay, powered by Expense Management, is a powerful solution designed to help field service companies streamline bill payments by allowing you to pay your company's bills directly within Housecall Pro.
+
+Say goodbye to manual check writing, addressing envelopes, and post office visits. With Bill Pay, you can focus on growing your business while Housecall Pro takes care of the rest! Start using Bill Pay today to organize your invoices, pay your vendors, and gain more insight and control over your cash flow.
+
+---
+
+Key Features & Capabilities
+
+- Pay any vendor with a check or bank transfer (ACH).
+- Seamless QuickBooks Online integration.
+- Collect and organize your invoices and bills within the HCP platform.
+- Eliminate manual check writing, addressing envelopes, and trips to the post office.
+- Upload copies of your receipts and invoices to the associated bill.
+- Keep track of past and upcoming invoices from your vendors.
+- View the total invoice payments and amounts due for specific vendors.
+- Receive in-app reminders for upcoming due invoices.
+- Track and monitor the status of your invoice payments at a glance.
+- Save a draft of a bill and come back to it at a later date.
+
+---
+
+Navigating the Bill Pay Overview Page
+
+The Bill Pay overview page provides an at-a-glance view of the most recent bills created or paid, along with your Expense account balance and more. From here, you can review drafted, submitted, and paid bills at your convenience.
+
+[Image] https://downloads.intercomcdn.com/i/o/926071439/a9d9a9345483b0f0c4018e10/Bill+statuses.png?expires=1763568000&signature=279b4a3d48a1a8ee9006bbcc5c87b1ff6a9c93980f7a9333949624b78f430667&req=fSIhFs5%2FmYJWFb4f3HP0gKkz7hkcELm5zuo%2BcQSmxJUhdXwn%2B3ZmH0cwlNxk%0AwuHECWgRVFB86tPx2g%3D%3D%0A
+
+---
+
+Bill Status Breakdown
+
+Table:
+Row 1: Status | Description
+Row 2: Submitted | The bill has been submitted for payment. For check payments, this means a check has been/will be created and mailed to the vendor.
+Row 3: Paid | The payment has been received by the vendor.
+Row 4: Draft | A bill has been drafted but not submitted for payment.
+Row 5: Failed | The bill payment failed. Please reach out to HCP for assistance with this error.
+Row 6: [Image] https://downloads.intercomcdn.com/i/o/775270029/628cc1934eaaa531c14c94f8/Icon+%281%29.png?expires=1763568000&signature=1384a681d9d7e1c0a396962bccb6e157e3f46c0ac393db871cc9a6acffa7947c&req=cyciFM5%2BnYNWFb4f3HP0gMbkQ8F5wVJ3Ts2kxhBSnYnvqBPf4nvYK48y5eKl%0ADpU%3D%0A | The red calendar icon will appear on bill payments under the "Due" column to indicate that a bill is overdue based on the due date.
+
+---
+
+How to Filter or Search for Bills
+
+If you're looking for more specific information about your bill, you can search for bills paid to individual vendors or filter bills based on the date created, the due date, or the status.
+
+To filter or search for bills in Housecall Pro:
+
+- Select My money from the navigation bar at the top of your Housecall Pro account.
+
+- Next, select Bill Pay from the menu on the left. This will direct you to the Bill Pay overview page.
+
+- To find a specific bill, enter your vendor's name in the Search for vendors search bar.
+
+- To filter bills, use the following drop-downs: - Created
+- Due date
+- Statues
+
+[Image] https://downloads.intercomcdn.com/i/o/926068092/f1a0493f0736e6473ee1fa0d/Filtering+and+Search+Overview+Page.png?expires=1763568000&signature=202db0cddb4baac64f47dfbf947c047684f76f99a1fe5cb28f0f4ab1724d0788&req=fSIhFs92nYhdFb4f3HP0gF6qDPppTeIPTylJiloh62EWB3wGbyyCphWyTM%2Bc%0ARTM1qG8KTqVvjmPGlQ%3D%3D%0A
+
+---
+
+How to Review Bill Details
+
+To review the details of a bill:
+
+- Select My money from the navigation bar at the top of your Housecall Pro account.
+
+- Next, select Bill Pay from the menu on the left. This will direct you to the Bill Pay overview page.
+
+- Click on a specific bill, and the bill details will appear on the right side of your screen.
+
+- To review all information for that bill, click the View Bill button in the bill details box. You'll then be directed to the Bill details page.
+
+[Image] https://downloads.intercomcdn.com/i/o/926075940/d9ad608b66051d20948df3b8/Sidecar+view.png?expires=1763568000&signature=d4388573cee8aa8b166d61b02c39485a77f03e43ef2c0e3063994af1d2372590&req=fSIhFs57lIVfFb4f3HP0gNChaoITEOdRRKlcN1rCt9cKU7fNqSMOtdeQjlJO%0AO9jv%2BHfRS6x8NDKHsA%3D%3D%0A
+
+- From the Bill details page, you can review all information associated with your bill, including the bill status, due date, any attachments, previous payment attempts, and more.
+
+[Image] https://downloads.intercomcdn.com/i/o/775343974/52582a8b0363183277481d3f/Bill+details%2B.png?expires=1763568000&signature=d92570d7b22d1c186840e14f5319a0833765e14824b1c7c209bbffefebec7b9f&req=cyciFc19lIZbFb4f3HP0gChCWvjDe0jJ28f5WMcOJU3CEEzdq0lhZb1NceBS%0ANSswYkQ%2BJaq164lEag%3D%3D%0A
+
+---
+
+How to Export Bills
+
+To export your bills from Housecall Pro:
+
+- Select My money from the navigation bar at the top of your Housecall Pro account.
+
+- Next, select Bill Pay from the menu on the left. This will direct you to the Bill Pay overview page.
+
+- Click the Export button on the right, across from the vendor search bar.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1239499550/17630b0db7be6288d1c97fffbc24/ExportBills.png?expires=1763568000&signature=b1a409bbaa57677c60270dba95133a1c9e8456393689e8d95eaceb333a3804ae&req=dSIkH813lIRaWfMW1HO4zdFq5SdFGkBujrPGWYoe7lhVb2LYvtrzDXH6ToIi%0AwDNdEIk2iFpjxso54XU%3D%0A
+
+---
+
+How to Cancel a Bill Payment
+
+You can submit a cancellation request for bill payments submitted through Housecall Pro if they have not yet been processed by your vendor.
+
+To submit a cancellation request, please reach out to our Chat Support team via the Blue Chat Bubble in your Housecall Pro account and provide the following information:
+
+- Payment creation date
+- Payment amount
+- Vendor information
+
+Once the request has been confirmed and processed, please allow 10 business days for the bill payment to be canceled and the money returned to your account.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1253523256/f5f701ad7d109fc23bc2f9e86a0d/Help-2BChat-2BBubble.png?expires=1763568000&signature=6a95f17fb276382b122da9ff21da1a6422ee3bb7538c63537d1e9d5ed7deda89&req=dSIiFcx8noNaX%2FMW1HO4zcDYgbJhl5LWCIUl0gwI6GqDtl2fTbPTnVvxkgti%0AvPrSkkMLtd1gBrgVUWA%3D%0A
+
+---
+
+Bill Pay FAQs
+
+---

@@ -1,0 +1,17 @@
+How safe is it to process payments?
+Source: https://help.housecallpro.com/en/articles/362289-how-safe-is-it-to-process-payments
+Author: Nate H
+Last updated: Updated over 6 months ago
+
+How safe is it to process payments?
+
+- Stripe is equipped with bank-level security to keep your information and your customers' information safe and secure.
+
+- All cards processed through Housecall Pro and Stripe are encrypted on disk with AES-256. The decryption keys are stored on a separate device. This means that as soon as a customer's card is scanned using the Housecall Pro mobile app or input into the Housecall Pro web portal, it is secured and unretrievable by the user.
+​
+
+---
+
+Learn how Instapay can typically have your card or bank (ACH) payment in hand in less than 30 minutes.
+
+---

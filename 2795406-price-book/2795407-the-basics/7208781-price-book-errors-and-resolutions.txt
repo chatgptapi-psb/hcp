@@ -1,0 +1,94 @@
+Price Book: Errors and Resolutions
+Source: https://help.housecallpro.com/en/articles/7208781-price-book-errors-and-resolutions
+Author: Jessica H
+Last updated: Updated over a month ago
+
+Summary: Common Price Book errors and how to resolve them.
+
+Common Price Book Errors
+
+In this article, we review some of the most frequent Price Book errors and offer solutions for each, helping you ensure that your Price Book is accurate and effective.
+
+---
+
+Error: "The Service with the name (item name) has an invalid industry called '(industry or blank)'"
+
+- Cause: The industry used is invalid because it is blank, you used a special character or it is spelled incorrectly.
+
+- Resolution: You must use an industry from the predetermined industry list in Housecall Pro. Click on "add industry" on the top right under your Price Book services and then click the drop-down for all the options you can use for your industry.
+
+- Note: For example, you cannot use "HVAC" as the industry. It has to be "Heating & Air Conditioning." It must be spelled exactly the same as shown under the industry options.
+
+---
+
+Error: "Category: Name is Required"
+
+- Cause: The item on either a services or materials list is missing a category.
+
+- Resolution: Add a category in the “category” column for the item(s) missing a category.
+
+- Note: Category name is a required field.
+
+---
+
+Error: "Material: Name is required"
+
+- Cause: The item on a materials list is missing a name.
+
+- Resolution: Add a name in the “name” column for the item(s) missing a name.
+
+- Note: Material name is a required field.
+
+---
+
+Error: "Service: Name is required"
+
+- Cause: The item on a services list is missing a name.
+
+- Resolution: Add a name in the “name” column for the item(s) missing a name.
+
+- Note: Material name is a required field.
+
+---
+
+Error: "Your CSV could not be uploaded"
+
+- Cause: This error means that the file isn’t in CSV format, or there are hidden, non-printable characters that are preventing the file from uploading.
+
+- Resolution: You have to convert your file from a .xls file to a .csv, remove all special characters such as hidden or non-printable characters in the file, or may need to update your browser and clear out your cache.
+
+- Note: Try importing your Price Book using a different browser or try uploading in incognito mode. 
+​
+
+---
+
+Error: "(Subcategory name) cannot be added to (other Subcategory name or category name), which includes services."
+
+- Cause: There is a mismatch in a number of subcategories in a category.
+
+- Resolution: Delete all subcategories in a category or add subcategories in a category so that there is an equal number of subcategories in a category.
+
+- Note: You can either add services or additional subcategories within your empty category, but not both. If there are existing items within a category, you cannot add a subcategory. However, if you have subcategories within a category, you can add additional/new subcategories.
+​
+
+---
+
+Error: "(category name) already has sub-categories."
+
+- Cause: There is a mismatch in a number of subcategories in a category.
+
+- Resolution: Delete all subcategories in a category or add subcategories in a category so that there is an equal number of subcategories in a category.
+
+---
+
+Error: "Service or material: Name is too long (maximum is 191 characters)"
+
+- Cause: The service item name is too long
+
+- Resolution: You have to shorten the item name to fewer than 191 characters.
+
+- Note: Item names can only be up to 190 characters long. If it is more than that, it will error out. You can either shorten the name or remove the extra characters. The name will be cut off after 190 characters, but you can add the full name in the description if needed.
+
+---
+
+---

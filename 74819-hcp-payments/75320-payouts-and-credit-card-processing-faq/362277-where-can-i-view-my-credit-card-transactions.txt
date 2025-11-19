@@ -1,0 +1,81 @@
+Where can I view my credit card transactions?
+Source: https://help.housecallpro.com/en/articles/362277-where-can-i-view-my-credit-card-transactions
+Author: Nate H
+Last updated: Updated over a year ago
+
+Summary: Get an itemized list of all of your credit card transactions and processing fees in your My Money section.
+
+How to View Your Credit Card Transactions
+
+The My Money page is where all future payments taken through Housecall Pro will appear, along with other financial solutions for your business. In order to have access to many of these features, you must connect an external bank account to receive payouts.
+
+---
+
+Payouts Screen
+
+The Payouts screen is the first page you'll see after clicking 'My Money' from the Housecall Pro navigation bar at the top of your account. This screen provides insight into your credit card transactions taken through Housecall Pro.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234649889/cdfc03cbcc1b18ba376dba45efc6/MyMoneyPage1.png?expires=1763568000&signature=6286a9cffe871fbb4a563a99b57d492c5823541fc577ca691e0d68804d65a9db&req=dSIkEs96lIlXUPMW1HO4zYjdwFI7pPj%2FoVhTuT7dt4bVPij3DpbcHOcFdNsg%0AtM9iYAs9ypS9%2FI99%2BN4%3D%0A
+
+---
+
+Payouts Section
+
+The "Payouts" section of the Payouts screen provides an overview of all payouts to be deposited for the day and the total of all current pending transactions.
+
+- Total depositing today - The amount that will be deposited into your account by the end of the day. 
+- Note: this can take until 12:00 AM.
+
+- Pending transactions - The total amount that our processor is preparing to send to your bank.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234649884/47b522ee5ef09c6dc7bce8a23ca7/Payouts-Payouts.png?expires=1763568000&signature=2f5157fbe73f100a3bfcf6c6f0088ecd65b16514a120525757d7709f1be4cbea&req=dSIkEs96lIlXXfMW1HO4zbFrLNu8l9RLFI1Lry9kkop9%2BAxGc5NyVNF8RuXn%0Azf5VdWEQWTV6HyWjYt8%3D%0A
+
+---
+
+Pending Transactions Section
+
+The "Pending transactions" section of the Payouts screen shows the funds for the payouts that are being processed by our credit card processor, Stripe.
+
+All of your pending transactions are listed here and include the following information for each transaction:
+
+- Charge date (the date that the payment was taken).
+- Payment method
+- Job number
+- Customer
+- Payment amount (the total amount paid by your customer).
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234649885/dcb5f2c8d390a2e7baeee291bb60/PendingTxns.png?expires=1763568000&signature=fb687267bcb934820c5535a1d2932ad5dd8f528b5060a92ab2430dc535c6854e&req=dSIkEs96lIlXXPMW1HO4zbauNkQjtZFa923SYsRoYnb5fldFULTPVinoAvbx%0Ak1mCsTsHq2%2FZM1P1UH0%3D%0A
+
+---
+
+My Payouts Section
+
+The "My Payouts" section houses all Standard and Instant payout information, including the deposit date, total payout amount, and payment status.
+
+- Payment Statuses: - In Transit - the funds have been processed and are en route from our processor to your bank.
+- Paid - the funds have been deposited into your bank account.
+- Failed - the funds could not be processed or deposited into your bank account.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234649887/14f43f68ca9942b2d9b837d8bb5d/MyPayouts.png?expires=1763568000&signature=b33617d2624a3f86758dd26dd9ae800c1c6367d7f1331a050c17a396dfe58155&req=dSIkEs96lIlXXvMW1HO4zQMwrosNufnW5Fp3PDcgHftvisY1BmIhAdoTkoiw%0AVz8J%2FKks9z9%2FuD%2FEdcA%3D%0A
+
+- Click on the 'Standard payouts' and 'Instant payouts' toggle to view the transactions associated with each payout method.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234649886/7ac5b9e1efd3f01b09dd090da0b6/Standard-Instant.png?expires=1763568000&signature=52081b43b9f7aee3c3775c8a2c252d7c6c671a81a396d4bf3d01ab0e410ed4ea&req=dSIkEs96lIlXX%2FMW1HO4zaCbbNno%2F6Hz9I52%2F3AV5uV54mUfeGyAnbKlx1gv%0ATGWZbfYAsH%2FRrW4%2FBrc%3D%0A
+
+- Click on each transaction to expand the payout details further. This will provide a breakdown that includes the following information: - Charge date
+- Payment method
+- Gross (total) payment amount
+- Fees associated with the payment
+- Payout total (after fees)
+- Job number
+- Customer name
+
+- To view your full payout history, click on the 'See All' button. You can also click on each transaction to expand the payout details here.
+
+---
+
+Learn how Instapay can typically have your credit card payment in hand
+
+in less than 30 minutes!
+
+---

@@ -1,0 +1,91 @@
+NiceJob Integration Overview
+Source: https://help.housecallpro.com/en/articles/5455576-nicejob-integration-overview
+Author: Ian H
+Last updated: Updated over 2 weeks ago
+
+Summary: Learn how the integration between Housecall Pro and NiceJob works.
+
+How the integration works
+
+NiceJob is a marketing software that can get you more reviews, and convert more leads into sales. With NiceJob, you'll be able to customize and automate your review flow and marketing campaigns.
+
+Once the integration is connected, your customers will automatically sync over to NiceJob.
+
+Get More Reviews
+
+- When you press "Finish" on a job in Housecall Pro, that customer automatically gets entered into a review marketing campaign.
+- Then NiceJob automatically sends the customer a text asking for a review.
+- The customer can choose where to leave the review (Google, other review sites). If the customer doesn’t leave a review, NiceJob’s review flow will continue to text or email them a couple more times.
+- If the customer posts a good review, NiceJob will automatically publish it to your company's website and/or share it on social media. This is where you can add photos of that specific job.
+
+*IMPORTANT: NiceJob does not auto-invite past customers, so the automated review process will start with future completed work.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/369806780/eb296681a2a491fd5ce78d1d/Image+from+iOS+%281%29.png?expires=1763567100&signature=9ec8c19ccc8fa495e7c00364f4d422bceacd0b0cecb6d564c5deb1a503a7ee42&req=dyYuHsl4molfFb4f3HP0gK95UUnkLjbqTGx5CAhAZ8W7efVv1y%2FCES8y%2F327%0AR5Q%3D%0A Customer gets a text | [Image] https://downloads.intercomcdn.com/i/o/369807149/4f91130c29dd2fffa19f1a90/Image+from+iOS.png?expires=1763567100&signature=1891672cffd9092bf879f6caa30aca5a26708771a3743edd0e97ef9fc688c52a&req=dyYuHsl5nIVWFb4f3HP0gDMgZIIIVdVLN5AI2El7I4nKz6fBzOUkfMNC7G4B%0A064%3D%0A Customer leaves a review | [Image] https://downloads.intercomcdn.com/i/o/369807275/30252fe669c8694fa2076c00/File.jpg?expires=1763567100&signature=1e841dd4ff2d3aca902abe3b170e1893deb0d51a3765b995a4b85d852177588a&req=dyYuHsl5n4ZaFb4f3HP0gBdV9lTCqVAGhkvRZcbfX9K65lTcbXx6c0sGhNj5%0AcOY%3D%0A Pro gets a notification
+
+*IMPORTANT: You can use the customer tag or job tag 'noreview' to prevent a specific customer from receiving a review invite
+​
+
+---
+
+Connecting Housecall Pro to NiceJob
+
+How to connect Housecall Pro to NiceJob and what the connection does.
+
+Integrating Housecall Pro with NiceJob means you can automate the sending of review invites to your customers - shortly after a job is complete.
+
+How to connect Housecall Pro to NiceJob
+
+With our native integration, it's only a couple of easy steps to connect NiceJob to Housecall Pro to automate sending review invites.
+
+If you don't have a NiceJob account yet, you can go to NiceJob.com and sign up for a free 14-day trial there.
+
+​From NiceJob, here is what a successful connection to Housecall Pro looks like:
+
+[Image] https://downloads.intercomcdn.com/i/o/352372880/4f9b1bb974eac4e516b4fbd0/199060823_197009162298853_5185796102091389418_n.png?expires=1763567100&signature=dcf750f626a3097eee936f4ec35ed2e6106e8a92c76a51f67f6df0b24aace1df&req=dyUlFc58lYlfFb4f3HP0gG3C%2Fdeu4%2BrE9yqfLTYUEkaTTxTYoDVUohAWMjC0%0A7MKDIoPmALfutj9qsg%3D%3D%0A
+
+Click here to connect your NiceJob app
+
+How the connection works
+
+Mark a job 'Finished' in Housecall Pro and NiceJob will automatically enroll that customer in the Get Reviews campaign immediately.
+
+[Image] https://downloads.intercomcdn.com/i/o/350519963/6276f02ac8daab0089a10d96/jobfinished.png?expires=1763567100&signature=658b0458a57db5cd231be1e32a7e19e23f71aa0e5d2c8e4d54e08435c9159752&req=dyUnE8h3lIdcFb4f3HP0gDQpimkw3BFz6rTw0KMZHma%2F8WAP9pGBHvZGKpga%0AiKuqFqDRsikTruF%2BFw%3D%3D%0A
+
+Use the customer tag or job tag 'noreview' to prevent that customer from receiving a review invite.
+
+Housecall Pro can transfer all of your customer data into NiceJob upon integration so that you do not have to import your contact list. NiceJob does not auto-invite past customers, so the automated review process will start with future completed work.
+
+New bookings through Housecall pro will also show up in the Engage Widget if you have that installed (here's how). This is great social proof for leads visiting your website!
+
+---
+
+Frequent Questions
+
+How can I tell if the connection is working?
+
+To test the connection, simply close a job in Housecall, and within 15 minutes that customer will display at the top of the People page in NiceJob, with the activity message that they have been sent their first review invite. Here's an example of how that will look:
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1812231640/60d737d96d08c0918210538a46e8/Screenshot+2018-02-07+08_14_08.png?expires=1763567100&signature=bfaad6c562f8f7ef0ce3bf9ea70a8a1fc4bd71d24820287a4f642d1774e1abb7&req=dSgmFMt9nIdbWfMW1HO4zetAugUOKVEOX6BwcYVFcHcN6ivwnq7EPbMEq6z%2F%0A1mpYkVu5Du0dASpBXhs%3D%0A
+
+What do I do if I think the connection is not working?
+
+Just email NiceJob at support@nicejob.com or click the blue chat icon in the NiceJob app and let them know! They will test it and make sure you're up and running.
+
+How do I prevent invites from being sent to certain customers?
+
+Simply add the tag: 'noreview' to the customer or the job to prevent that customer from receiving a review invite.
+
+Can I add photos when using the Housecall automated connection?
+
+Yes, but not until after the review is received. NiceJob is working with Housecall to enable you to add photos to the review invites as well even when using the automated connection.
+
+Can I add contacts that have no email address when using the Housecall automated connection?
+
+Currently, when using the Housecall Pro connection, your contacts require an email address to be enrolled in the NiceJob Get Reviews campaign. In NiceJob you can add contacts to a campaign with or without an email address. NiceJob working with Housecall Pro to bring that ability to the automated connection in the very near future.
+
+Does Housecall Pro send employee data to NiceJob so that my reviews can get automatically attributed to the right employee?
+
+Yes! If you have employees assigned to jobs in Housecall Pro, that data is sent to us via the integration which allows us to automatically attribute reviews received to the right employee. Learn more about employee attribution and how you can make use of it here.
+
+---

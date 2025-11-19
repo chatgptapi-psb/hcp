@@ -1,0 +1,103 @@
+Video Uploads on Mobile
+Source: https://help.housecallpro.com/en/articles/11145993-video-uploads-on-mobile
+Author: Nate H
+Last updated: Updated over a month ago
+
+Video Attachments on Mobile
+
+Photos are great, but they don’t always tell the whole story. That’s why we’re excited to introduce video uploads for jobs and estimates on mobile! Now you can capture and share the full picture—whether it’s a broken part, an unusual sound, or anything else that needs a little extra explanation.
+
+You can upload videos under a minute long to any job or estimate, and if it's longer, our in-app trimmer makes it easy to trim it down.
+
+Skip the long descriptions and let your videos do the talking!
+
+---
+
+---
+
+Recording & Uploading Videos to Jobs & Estimates on Mobile
+
+Capturing and uploading videos directly from your mobile device is a powerful way to enhance documentation and communication.
+
+In the following sections, we’ll walk you through the process of recording videos, trimming them when needed, and uploading them to a job or an estimate—all from within the app. Whether you’re showcasing a problem or explaining a solution, these steps will help you efficiently share important visual information with your team.
+
+To record videos on a job or estimate from the HCP mobile app:
+
+- Open a job or estimate and tap the "Attachments +" button.
+
+- Then, tap the camera icon in the top right corner of your screen.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1258352867/f4f75e00bd8053265087a728a5ad/image.png?expires=1763568000&signature=f6a5d7ad08d282ad3c67246301f5a8418c32c87ddd4f478b8ab935021d443771&req=dSIiHsp7n4lZXvMW1HO4zfRWN4TMAdSZm5FSwtjHimLcNG26emCTIEQieodX%0AHq3b%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1258353480/ed1223404d0d350f5cba027509cf/image.png?expires=1763568000&signature=8101f6033ab3f9244c8e34fa4f1fdfc5b994ee2cfa694f3c75b4db858e28cc38&req=dSIiHsp7noVXWfMW1HO4zbmgQAGqCfjOVHiIY9Egy3Tbe%2FhOi36%2FAzKK97cZ%0Ahnjw%0A
+
+- Tap "Use camera" to record a new video, or tap "Select photos or videos" to upload a video from your camera library.
+
+- When recording a new video, tap the "Video" option on your camera and press the red shutter button to start recording.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1258354258/751605784285ea37807e5d20d50f/image.png?expires=1763568000&signature=90abd0e87eff9aebc2f710c855b29681ba94ac491261bfb649d6a0e29d1fe541&req=dSIiHsp7mYNaUfMW1HO4zfPhUdk%2F%2FVhj%2BGvfnvkkMID1XxYQsZIPQgPpti7Z%0AWFaW%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1258355215/f9f4213872aeff62eed4b04dae83/image.png?expires=1763568000&signature=feca2a5500e1cd7fc2667c4337074719c6a9d7554581fd0ef6420007d6c9a860&req=dSIiHsp7mINeXPMW1HO4zYVDfYqCj40XM734NB0j%2B2FKmWpLuYTTVR2S4UcG%0ASsam%0A
+
+- When you've finished recording your video, press the shutter button again, then tap "Done" to start uploading.
+
+---
+
+Trimming a Video
+
+If you are uploading a video that is longer than one minute, we will prompt you to trim the video.
+
+When prompted to trim your video:
+
+- Tap "Manage" next to the video file.
+
+- Then tap "Trim video" to confirm.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1258362814/7af035f9fd456c91639d5ae598c4/image.png?expires=1763568000&signature=1fc1daec8d91fc5cdeed11a5c3ffad18b2d1be5a13eb60896396ec0676972d0a&req=dSIiHsp4n4leXfMW1HO4zfOKMwa2FqoHp1YxwPq52MyNwqxIwhS4A2f7HP8V%0Ajf1Z%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1258362380/cc5864eca102828b3ab19b4ebb44/image.png?expires=1763568000&signature=989f7f58698e50620754991422a568314c48def54f186607f2a4a25cf04cea26&req=dSIiHsp4n4JXWfMW1HO4zbVQW2ToRU8VJTyb9ZGW01jk7HF0fh79RyZehZ2y%0ADBkd%0A
+
+- Use the trimmer to select what part of the video you want to trim. - Remember that the highlighted section of the video is the section you'd like to keep. Anything outside of that will be removed.
+
+- When you've finished trimming the video, tap "Done" in the top right corner of your screen.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1258363379/135ec292617785f8ee5a2e8dbd0a/image.png?expires=1763568000&signature=0648d6c0c2fd00ab4ccfd83625420822975561b877aa8d77b00e7e3d1bd49355&req=dSIiHsp4noJYUPMW1HO4zYrBM%2Bj%2BT7xvHvpzKfvNabwGaP24mDY0nGJMiaYx%0Azzcu%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1258363879/c1a9d61324547d7a7ed0ee023ecd/image.png?expires=1763568000&signature=ef681d7200ea29acf38db7ecb3703d8045f7b77058c6a6d538c5387b6801455b&req=dSIiHsp4nolYUPMW1HO4zXwg%2BzOBw8WnFkyDN5kgMcZotbYK3DFpzpdAPzuo%0ANjq%2F%0A
+
+---
+
+Attaching Videos to Invoices & Estimates on Mobile
+
+After uploading a video to a job, you can share it with your customer when sending their invoice, or easily send it to others via email, text message, or any messaging app on your phone.
+
+To attach a video to an invoice or estimate:
+
+- When sending an invoice or estimate, tap the paperclip icon located just above the preview.
+
+- Then, tap "Attachments" from the prompt at the bottom of your screen.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1259314800/f9aa3543a80a1793628d6b48c5f5/image.png?expires=1763568000&signature=9b1d0010d2c910301617f06edba3166a68b01e7f942589dd0eb2a615aaecdab3&req=dSIiH8p%2FmYlfWfMW1HO4zZoAkvAFSQNSGXXzLtJtjidNOPT5k4bfZOwWUM4v%0AbZFW%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1259315687/65cc55af897b1b030971559f20c0/image.png?expires=1763568000&signature=cc1ecd94dbb43f5dc4543f997675ad42465d7d2ebea14cd4b1735fed683b8296&req=dSIiH8p%2FmIdXXvMW1HO4zUCULfblpi9CHuobzH%2BzbOIqb59wjGI5VBh8IouZ%0A2BbA%0A
+
+- Select your video(s) and any other attachments you want to include and tap "Done" in the top left corner.
+
+- Then, continue to send your invoice or estimate as you normally would.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1513166727/a5c5290975f6aea9ee49bed89c5f/AD_4nXc3BPJQtKXh5aBIMyzVH4zM75pnN4bayLQhh5KFM4zNbz08bSwYkjP647arOz05pQs-2iraeFhOVRvh-ovfw33rPykIcAVSds7YNFet04uLUMi8ZD5KPBCo4rQu-pMR-xquxHj-?expires=1763568000&signature=82f4a725d1e88e59f5c844589cc18f27fe5a9af218891e14106bfc99756b7e52&req=dSUmFch4m4ZdXvMW1HO4zWaNmmyMBU7nr6tuPJyJzO7wEaiD62X35lajEyuH%0AHAv%2Fvb4o%2F3pK6JbiQuY%3D%0A
+
+---
+
+Sharing Videos with Your Customers on Mobile
+
+To share a video with your customer:
+
+- Open a job or estimate and tap the Attachments section to open it.
+
+- Next, select a video you'd like to share with your customer.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1259322891/ca5acdea292fd6e0a9a0db90fdc0/image.png?expires=1763568000&signature=7816e7f978e98c7250c29808f884a9c86630b84b82e0d62534d090ba05bf4e7b&req=dSIiH8p8n4lWWPMW1HO4zRT6muytjE2qbn39fetIeiEnmiCxtSk55ilLMdqA%0ATiNG%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1259323510/426e149a75d41b4a5eb5a053c5ed/image.png?expires=1763568000&signature=1842922d2f20363d9dd3120b74734193389d6964ef210aa8cffc192bb0b1915b&req=dSIiH8p8noReWfMW1HO4zd5LxvXiRUS7eHdj%2FTeYLTha0JfbWweFROFjjdii%0AZq6d%0A
+
+- Tap on the share icon in the top right corner of your screen, then select how you'd like to share the video, and you're all set!
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1259324089/2fb7c357bbaa1ee3581d057c3498/image.png?expires=1763568000&signature=06d046c2373daad669635573216a16451adcf46ba7ebffa212322b83473d900d&req=dSIiH8p8mYFXUPMW1HO4zaGeKcPEM7RwlZiKKrMc7oAouaEyImTUQtXzeKeY%0AEzll%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1259350746/90e98474433b3913ff419c91cae8/image.png?expires=1763568000&signature=b6f12d186e9a23828ee89ef22535b56f230b5246ebe07d95c02dfb4c5d38225b&req=dSIiH8p7nYZbX%2FMW1HO4zRIFpZwiZgEaQDrF4ER%2FdiEMl6BDXecnOZv7sFzK%0ADOCC%0A
+
+---

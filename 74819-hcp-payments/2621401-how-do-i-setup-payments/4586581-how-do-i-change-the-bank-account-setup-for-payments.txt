@@ -1,0 +1,118 @@
+How Do I Change the Bank Account Setup for Payments?
+Source: https://help.housecallpro.com/en/articles/4586581-how-do-i-change-the-bank-account-setup-for-payments
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: Learn how to change the bank account you have connected to receive deposits from your payments.
+
+How to Update Your Bank Account in Housecall Pro
+
+Follow the steps in this section to securely update your bank account for payouts with end-to-end encryption using Plaid.
+
+To update your bank account in Housecall Pro:
+
+- Select 'My money' from the Housecall Pro navigation bar at the top of your screen.
+
+- Click the 'Settings' drop-down from the menu on the left.
+
+- Select 'Payout settings.'
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1333086517/d7d2d9e1060b4760779ec74d30a6/MyMoney-Settings-PayoutSettings.png?expires=1763568000&signature=3d1095a9016a14ea5b9d8632dc27dee614f1dcfbd75de073dd5be973f60d3a30&req=dSMkFcl2m4ReXvMW1HO4zbfyAFTfxLK8AfNX0TIby6dqthVUuBc%2FLS1vpd6f%0A3f8kkuUTZNd4RztRyyI%3D%0A
+
+- The Settings panel will then appear on the right side of your screen, where you'll see the bank account currently connected to Housecall Pro.
+
+- Click on the blue pencil icon next to your bank account to edit the information.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1219775309/359ca92a5276ad0e5610f1c259d7/ChangeBank.png?expires=1763568000&signature=65720c2c42b5a0fb504f5e1bf74b8914a5e5744c18e41a0c067a98fbaf3c96d6&req=dSImH855mIJfUPMW1HO4zZAb8VkqVYQvm%2Fi6Dr1Yt%2BqjCxQ3uF4ZPr1Icnbc%0AcwhxBlzF9vjcnsSNcf8%3D%0A
+
+- You may get a screen for a two-factor authentication depending on your account settings. In this case, enter the code and click the 'Continue' button in the bottom right corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1219775302/a59e13c78a46cbcc945789e87c0e/VerificationCode.png?expires=1763568000&signature=8f3d67a81a8d64b32303309844ae58b236dc66fedd897486bacab17a0c9aee36&req=dSImH855mIJfW%2FMW1HO4zaMBEq6t34EX45O4qdMDqk0K%2F%2B8Dx7ZGEyM4XXiL%0AyYuAmSM2u5Y1tPh6pgc%3D%0A
+
+- Next, click the 'Connect My Bank' button on the "Update bank account" window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1219775311/1ebfd9fd723a93b93fc5ff0dbd66/UpdateBankAcct.png?expires=1763568000&signature=5c6e6e4006501814789e1e06d53f65e3571ef9b5f638a5f89ce16722db7dc0e9&req=dSImH855mIJeWPMW1HO4zeNoFCxWt6ljnVzyrxgwpLiW48bckFvYjl2TfYTP%0AnEZoBTETSbziv7j%2Ba4o%3D%0A
+
+- Click 'Continue' on the first screen of the Plaid window to proceed.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1219775305/b875a6e6b143bfb0102cf1178a72/PlaidContinueUpdate1.png?expires=1763568000&signature=545862288a6da6b755d549eed3429f7e0300ccc38c38b3342f85a06b6bedfa75&req=dSImH855mIJfXPMW1HO4zXfX0k%2BwlkejwH%2BGw2P%2BIL4pt2Wt3CI1OQoBZSsA%0A7zWxJCo18oNO2wQLzu0%3D%0A
+
+- If you used Plaid to connect your bank account previously, your phone number will populate on the "Enter your phone number" screen. You can also enter your phone number to sign up for Plaid if you'd like. 
+​
+- Click 'Continue' here and a verification code will be sent to your phone.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1217305886/7afaf91b53f7136c11a87d9109cb/PhoneNumberUpdate1.png?expires=1763568000&signature=7a466a036724152972c82a08120d4f8327f0c193b2f38c327a69861374fdab0e&req=dSImEcp%2BmIlXX%2FMW1HO4zRY6RJq%2FqY2HHZ4NLX1zsXxgP1FNLjlZ8PEIRRQM%0A%2FIhQ%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1217314127/74e8ec10283c0736d05cf3be79ea/VerificationCodeUpdate1.png?expires=1763568000&signature=17b82dba14734e8fc02949b9c493ec6f626fadd6c2b5eff1dc7a1a4c7df43240&req=dSImEcp%2FmYBdXvMW1HO4zVelZN3pSEs4Ia15cWVErVlfF%2BgC%2BBSDDBNBYGW%2B%0AcI8x%0A
+
+- Alternatively, you can click the 'Continue as guest' option to select a different banking institution.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1217302619/aa63d231dfe97146a77cc1d9f62f/ContinueGuestUpdate.png?expires=1763568000&signature=2bde3e9fda543a460f37ffcd5a71d78ad7d5125f3ff5f842d302b843e1b942c2&req=dSImEcp%2Bn4deUPMW1HO4zejNn1fWoKPF3fWHRy4bFRo62eceTDUCclY9hKNn%0Ap%2FWF%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1217312757/204e159626fea719fe57678078ca/SelectBankUpdate1.png?expires=1763568000&signature=3f17c38357b5c733967b42dfa2d47d5006c81e5bc9d2ab8c8f12c1affc889efc&req=dSImEcp%2Fn4ZaXvMW1HO4zfDoOYka33hubQA1XHUjWGdeEF%2FKsiFfytOvPFBp%0AJzAA%0A
+
+If you choose to enter your phone number on the "Enter your phone number screen," any bank accounts associated with the account currently connected to Housecall Pro will automatically populate after inputting the verification code.
+
+- Select a bank account on the "Select an account" screen and click the 'Confirm' button.
+
+- On the next screen, the 'Continue to login' button to log into your banking institution's secure portal.
+
+- From there, you'll enter your login credentials, request an authorization code (depending on your banking institution), and authorize your banking institution to share your data with Plaid.
+
+- Once you authorize your banking institution to share your data, your bank account will be securely connected and updated automatically in Housecall Pro. You'll also receive an email and text message notification stating that your bank account has been updated.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1217342414/421f8b1b42cbfe384111c1cac4dc/SelectAcctUpdate1.png?expires=1763568000&signature=fad7ea8e61dcf611110bc4db4a10e587425e555725c6456ebd54a82c6d2a7c11&req=dSImEcp6n4VeXfMW1HO4zd47yXN5fW52q8LdH43OPT2%2FJKOaIMj18nTo2Liq%0ARo2m%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1217296733/942b224a79ba9af52588e9f6e3cb/LoginUpdate1.png?expires=1763568000&signature=703e0e32d0922e19541a8ae34a40db181013640b8415967a5072ac7e77b4e790&req=dSImEct3m4ZcWvMW1HO4zc9fWmrFy8Fw0avRjEIJcOeN%2F6CAeEPDuK0iuF1Z%0AhGeD%0A
+
+- Alternatively, you can select the '+ Add new account' option on the "Select an account" screen if you need to connect a bank account from a different banking institution.
+
+- Then, search for and select your bank.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1217301557/9d91c25bc379c155c492188eaaee/AddNewAcctUpdate1.png?expires=1763568000&signature=59b5b61706f73d7ac4a2df0b36d0e35f488f427510ed41d621f028466501d979&req=dSImEcp%2BnIRaXvMW1HO4zYEZ7LXKKf51vIR2Dp4XUahCMBL9ERcszwQBH5mj%0ARuaN%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1217301848/71564441254034fb4c7b7379680b/SelectBankUpdate1.png?expires=1763568000&signature=c0a201e33c169fbcf3d8d842874d6c6f30014924a1c6824e73489cab1a0b8fae&req=dSImEcp%2BnIlbUfMW1HO4zf5i%2B9IHnKqQ%2BI0gveXOQ40vGldl62gT%2BAXBS6hj%0AZTF3%0A
+
+---
+
+How to Update Your Bank Account Manually
+
+If you're unable to find your bank when attempting to connect via Plaid or would prefer to connect your new bank account manually, follow the steps in this section to update your bank account manually, using your routing and account numbers.
+
+To update your bank account manually in Housecall Pro:
+
+- Select 'My money' from the Housecall Pro navigation bar at the top of your screen.
+
+- Click the 'Settings' drop-down from the menu on the left.
+
+- Select 'Payout settings.'
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1333098991/e44d9787e19de3fccbbe58000d15/MyMoney-Settings-PayoutSettings.png?expires=1763568000&signature=da1a1ddc8c913cd87c32e5224f962a913d73d560d66b582f2149b176510662c0&req=dSMkFcl3lYhWWPMW1HO4zTb9YQxvfi8JhwFqEw0op7G%2Bxk7zjGB5y0n1ia25%0AqdDx9%2FqVO864rWtdtsc%3D%0A
+
+- The Settings panel will then appear on the right side of your screen, where you'll see the bank account currently connected to Housecall Pro.
+
+- Click on the blue pencil icon next to your bank account to edit the information.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1229432714/0626bc8578ce16c83b33d09a3d60/ChangeBank.png?expires=1763568000&signature=fcb6aa8e3b4c056d40180c3d030a1006059899d939f2f8291a0a002cbcfaa89c&req=dSIlH819n4ZeXfMW1HO4zXib8oiEUalAxBkAs9FPqOUXIcG9N6j%2F0OZlyHqQ%0AyPINYd%2FDMF%2BBF9rIDwg%3D%0A
+
+- You may get a screen for a two-factor authentication depending on your account settings. In this case, enter the code and click the 'Continue' button in the bottom right corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1229432711/273efd7e6092794c051f04cf6221/VerificationCode.png?expires=1763568000&signature=e34044952107f54745142a66d450782406ef744a5c3f57b5d44e5e44ec72a3ff&req=dSIlH819n4ZeWPMW1HO4zdTyPHkWwwRRuoOAo98lAy5l6TnzxTuLqtu5F0SE%0AJeIXsPNJMRVM3rEUNBQ%3D%0A
+
+- Next, click the 'Connect My Bank' button on the "Update bank account" window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1229432710/2f1ae61e960bb3e14faadf332d04/UpdateBankAcct.png?expires=1763568000&signature=c7b5957e1d657d45284105ee7d0f88ee3605f6b5ae5842b3e2060386478137ae&req=dSIlH819n4ZeWfMW1HO4zRHbGlG5DntIDn0K1rKrhyTsSq97YIdlOqXqOqqY%0AdHpKNveICv3SkzaGjNU%3D%0A
+
+- Click the 'X' icon in the top right corner of the Plaid window, then click the 'Yes, exit' button.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1219775304/164780d827213ae8f675cbc1e4dd/YesExitUpdate1.png?expires=1763568000&signature=a5a45317e52b48a9aa8fc372e94316465d0cfa4de9e8065f6c43290421ccd9a1&req=dSImH855mIJfXfMW1HO4zUi8HRbe80cJSbN%2BDcOkZz%2BdhPQ9btQ17fPzrYVm%0AIUOYjaP%2FXRcv%2FywaNM4%3D%0A
+
+- Enter your routing and account numbers in the "Having trouble connecting your bank?" window.
+
+- Once entered, click the 'Add Account' button in the bottom right corner.
+
+- You'll then receive an email and text message notification stating that your bank account has been updated in Housecall Pro.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1219775310/062493dfc9f24e08c2bc0e99ed87/ManuallyConnect.png?expires=1763568000&signature=e02ba95b7f9fcd5eaf0adb268e856d9b5fdabd4b3637fcfb9fd21c6a3e117c58&req=dSImH855mIJeWfMW1HO4zcg28OYVuqS4K0VlNYWKOEJZq3vH39cHuaxhWR94%0ApFQHSB2okXbDUoD1VqY%3D%0A
+
+---
+
+Learn how Instapay can typically have your credit card payment in hand in less than 30 minutes.
+
+---

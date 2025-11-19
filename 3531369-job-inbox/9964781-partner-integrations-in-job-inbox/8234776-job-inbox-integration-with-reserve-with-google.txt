@@ -1,0 +1,149 @@
+Job Inbox: Integration with Reserve with Google
+Source: https://help.housecallpro.com/en/articles/8234776-job-inbox-integration-with-reserve-with-google
+Author: Joanna D
+Last updated: Updated over a month ago
+
+Summary: Capture more customers through Google's direct bookings integration.
+
+Reserve with Google is a free service that lets customers book your services through Google Search and Google Maps. Unlike LSA, Reserve with Google doesn’t require payment to Google.
+
+By enabling Reserve with Google, bookings go directly through your Google Business Profile, making it simple for customers to schedule services while boosting your appointments in Housecall Pro.
+
+[Image] https://downloads.intercomcdn.com/i/o/861162552/f7cc533c958e83ba88aae4f7/83pibs.gif?expires=1763568000&signature=9bbfaf7346fb0007a66520a86e724c0f09b4422c0e376743a8facb41bfae1ad6&req=fCYmF898mIRdFb4f3HP0gO8vvl%2BEJOoZqfdBX9hvj9iq128JT6WG3pNkPnpl%0AEBr0TC6E%2Fqde3E%2BR%2Fg%3D%3D%0A
+
+---
+
+Enable the Reserve with Google Integration in Job Inbox
+
+Connecting Reserve with Google to your Housecall Pro account is easy! Here’s how:
+
+- Log in to Housecall Pro: Access your account using your credentials.
+
+- Go to the Online Booking Google Settings Page.
+
+- Enable Reserve with Google: Locate the Reserve with Google section and click the "Enable" button.
+
+- Verify Your Google Business Profile: Make sure your Google Business Profile is active and verified, as this is required to enable Reserve with Google. Learn more about verifying your Google Business Profile.
+
+- Sign in to Google: Log in using the Google account associated with your Business Profile.
+
+- Grant Permissions: Follow the prompts to complete the connection process and link Reserve with Google to your Housecall Pro account.
+
+- Confirm Integration: Once connected, bookings from Reserve with Google will sync automatically with your Job inbox under the "Google" channel.
+
+---
+
+Getting Reserve with Google Leads in Job Inbox
+
+Once the integration is set up, all new leads from Reserve with Google will be automatically created as Leads, and you'll be notified of each one by a message in your Job inbox under the Google Inbox.
+
+All bookings from Google Local Service Ads and Reserve with Google will appear in the "Google" inbox within your Job inbox in Housecall Pro. While bookings from Google LSA and Reserve with Google appear together in this channel, they are not differentiated.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1708057348/ba76e94caa83870ee40b7efd31e8/4e1bc44b-69bf-43e2-a834-c1faefbdbdce?expires=1763568000&signature=b454d05b1c51054911c249c753c72442ecde270dcd11b0b65505a25b1f52704d&req=dScnHsl7moJbUfMW1HO4zQhoEORK%2BZi18grs2D905i4miZqlB0%2B8G7fZwwrz%0AfpX2zyV0lba6ePh%2Fiqo%3D%0A
+
+---
+
+Requirements for Reserve with Google
+
+To connect and receive bookings from Reserve with Google, ensure you meet these requirements:
+
+- Google Business Profile: Your business must have a verified and active Google Business Profile. Remember, this is the free offering from Google that allows your business to show in organic search results to potential customers. Learn how to create a Google Business Profile.
+
+- Reserve with Google Enabled: Ensure that the Reserve with Google feature is activated on your Google Business Profile. Go to your Business Profile. On Google Search, select Bookings, or on Google Maps, select “Manage your Business Profile > Bookings”. Learn more about turning on bookings for Google Business Profile.
+
+- Housecall Pro Online Booking: Your Housecall Pro account must use the new online booking version for compatibility. Learn more about setting up your Housecall Pro online booking.
+
+---
+
+Troubleshooting Reserve with Google
+
+When trying to connect your Google Business Profile with Housecall Pro, you could run into some issues if your information is not the same.
+
+Make sure the following information matches between Housecall Pro and Google:
+
+- Business name
+- Business phone
+- Business address
+
+To find this information within Housecall Pro, go to your Company Settings.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/805938170/0db63ced918dc95e292a37a1/Screenshot+2023-08-11+at+1.48.35+PM.png?expires=1763568000&signature=5f3ad80831f3eb0e7b20641022980fa59ae46d139ec800c49d3c4fa02fb5b5da&req=fCAiH8p2nIZfFb4f3HP0gD%2Bnq3qvQjuNSWis2eO84lX8iq5d2tVqDqpehEej%0AqsI%3D%0A | [Image] https://downloads.intercomcdn.com/i/o/805942663/af75ad83fc0323de1dd39c17/Screenshot_2023-08-11_at_1_57_29_PM.png?expires=1763568000&signature=949950bb6ea08dcd81d759eadd018bc10af32feca0ba49b2a416773f4110c257&req=fCAiH818m4dcFb4f3HP0gNMa4jWNhEM47z%2BF%2FiQrK2Uvrc%2FnN9LC%2FLEX%2Bunn%0AfCc%3D%0A
+
+---
+
+If the Book Online Button Does Not Appear
+
+These are some possible solutions if you believe your business information matches exactly, but the Book Online button is still not appearing.
+
+Preferred Links
+
+If you notice the Book Online button is not appearing on your Google Business Profile, but instead provides website hyperlinks, then you must remove any preferred links that you have set on your Google Business Profile.
+
+- Preferred links will override the Book Online button and will prevent it from appearing.
+
+- Once you remove any preferred links, the Book Online button should appear within 24 hours.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1708074746/b8ea4840f40b69a52f9b8a8fe731/Screenshot_2023-10-10_at_3_06_20_PM.png?expires=1763568000&signature=e4413025e1025091020610101ecb5be49732c7cf44c560d20347b9ca25127414&req=dScnHsl5mYZbX%2FMW1HO4zbSOQIipgVP4G10tO1DsgTPr0SPUVyPOd4aBvJNx%0A9oKJ95NJloHeWsqPAj4%3D%0A
+
+To find the preferred links section in your Google Business Profile settings:
+
+- Navigate to your Business Profile. Learn how to find your profile here.
+
+- Next, select the transaction type, such as Booking, and then select Set preferred link.
+
+- Make sure you do not have any links added.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1708074742/3d4da736ba6aef95a71fb57e3cc8/image.png?expires=1763568000&signature=ba9d388542a1a0b76b19a501aec2311b9386343505dde223356dee5c850b728c&req=dScnHsl5mYZbW%2FMW1HO4zRv5PXrvpOPIvUptC6pTcNn4ttAbWPQ3CFpf%2FOch%0AkTqHnphyY2XtswVS64U%3D%0A
+
+Service Area Businesses
+
+We know it is common for businesses like yours to list your service areas on your Google Business Profile rather than an address. If you do not have an address on your GBP, Reserve with Google will not connect automatically. However, these are the steps to take to get enabled.
+
+- First, chat with Support via the Blue Chat Bubble in your Housecall Pro account.
+
+- Next, provide the URL to your Google Business Profile.
+
+- Our Tech Support team will be able to manually match your HCP account with your Google Business Profile. From there, the Book Online button should appear within 24 hours.
+
+Limitations
+
+Google has a handful of unsupported industry categories that will be unable to match and use this integration. There is no set list of these because they often change due to region and policy.
+
+---
+
+Connecting Service Area Businesses in Reserve with Google
+
+We know it is common for businesses like yours to list your service areas on your Google Business Profile rather than an address. If you do not have an address on your GBP, Reserve with Google will not connect automatically. However, these are the steps to take to get enabled:
+
+- Chat with Support via the Blue Chat Bubble in your Housecall Pro account.
+
+- Provide the URL to your Google Business Profile to HCP Support.
+
+- Our Tech Support team will manually match your HCP account with your Google Business Profile. From there, the Book Online button should appear within 24 hours.
+
+---
+
+Disable the Book Online Button
+
+You can disable the Book Online button at any time by completing the following steps:
+
+- Click the gear icon in the top-right corner of your HCP account.
+
+- Select Booking from the left menu, then select Reserve with Google at the top of the page.
+
+- Click the toggle to the right of the Show "Book Online" setting, and the Book Online button will no longer appear in Google Search and Maps.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1708157361/f3a4b4f6c1326d8d3b4bd08de05b/Screenshot+2025-09-03+at+7_29_39%E2%80%AFPM.png?expires=1763568000&signature=9e631ae9a17304f61e2f7e06658b865403c4988f39d78e8b57783c8a16c03939&req=dScnHsh7moJZWPMW1HO4zfCcQy6uD2%2B5vv%2BsEtATzX73TnA2ylwTnfVrh%2FlB%0AREHpMqgF%2BHlQ%2FgU%2FcLM%3D%0A
+
+---
+
+Got questions about your Google Business Page?
+
+We’re here to help!
+
+- Book a call with us: Intro Call
+- Email: rwgsupport@housecallpro.com
+- Chat: Use the Blue Chat Bubble and ask for the Reserve with Google Team
+
+---

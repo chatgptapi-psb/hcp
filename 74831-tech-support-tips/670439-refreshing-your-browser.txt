@@ -1,0 +1,38 @@
+Refreshing Your Browser
+Source: https://help.housecallpro.com/en/articles/670439-refreshing-your-browser
+Author: Nate H
+Last updated: Updated over 9 months ago
+
+Summary: How to refresh your browser on Mac or Windows.
+
+How to Refresh Your Browser
+
+Sometimes, your browser may cache values. While this typically enhances performance and usability, it can also cause your browser to display outdated information instead of the most current values in your Housecall Pro web portal.
+
+To fix this, you can force your browser to fully refresh the page and load the data cleanly from the Housecall Pro server.
+
+---
+
+On Mac
+
+For Chrome, Firefox, or Safari:
+
+- Press and hold command + shift + R.
+
+---
+
+On Windows
+
+Chrome:
+
+- Hold down Ctrl and click the Reload button to the left of the address bar.
+
+Firefox:
+
+- Press and hold Ctrl + Shift + R.
+
+Edge:
+
+- Press and hold Ctrl + F5.
+
+---

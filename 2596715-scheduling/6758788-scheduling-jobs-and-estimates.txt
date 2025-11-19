@@ -1,0 +1,185 @@
+Scheduling Jobs and Estimates
+Source: https://help.housecallpro.com/en/articles/6758788-scheduling-jobs-and-estimates
+Author: Nate H
+Last updated: Updated over 2 weeks ago
+
+Summary: Where and how to schedule in Housecall Pro
+
+How to Schedule Jobs and Estimates
+
+Jobs and estimates can be scheduled from 3 primary places in Housecall Pro. This article will show you how to schedule from each of these locations. Jobs and estimates can also be scheduled through the intake flow and pipeline.
+
+The main ways to schedule jobs and estimates are:
+
+- When creating a new job/estimate
+- When working on an existing job/estimate
+- Directly from the calendar/schedule page
+
+---
+
+Schedule a New Job or Estimate
+
+To schedule a new job or estimate at the time of creation:
+
+- Click the New button on the right side of the top navigation bar and select what you would like to schedule: either a job, estimate, or event, from the drop-down menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/1084671891/f313a6340c369a338e99a1a8/image.png?expires=1763568000&signature=202da13cfc1c08d0c72091255473a98f1804995f4b5eecefa0ccdd50232c51ca&req=dSAvEs95nIlWWPMW1HO4zUv62eyDl%2B9Oq%2F9%2Blj8lS8c1jcXiThhcqo3YAENe%0AIb1E46K9qT80TxOkyLg%3D%0A
+
+- You will be brought to a page where you can begin adding details of the job or estimate, including customer, line items, notes, and other details.
+
+- On the left-hand side of the page, directly under the 'Customer' section, you will see a Schedule box where you can select the gray fields next to 'To' and 'From' and choose the date you wish to schedule the job or estimate for from a small pop-up calendar.
+
+- Once a date is selected, you will see the time field auto-populate. Click into it and scroll through the drop-down to select your preferred time.
+
+- Selecting the Anytime checkbox will allow you to schedule the job for a specific day without having to select a specific time.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1635300857/274321fe8ff91d5a237b2310f394/image.png?expires=1763568000&signature=c9dc3fbddad628872895f94892a00c68c8a4c4bbf0e748eaccf689cc762b0333&req=dSYkE8p%2BnYlaXvMW1HO4zQEnXGpFV1gYaGbRNMdQWXrtX3Y9f4%2B8Hmur3MEs%0A57rTj8inO0LM0bf%2Fuws%3D%0A
+
+- If you would rather have a full calendar view to schedule your job or estimate, simply click on the pencil icon in the top right corner of the Schedule box.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1767697771/022ee8e6baab55d066db60746bfa/fd50f0da-8685-4686-8d6d-3677f1a5f6db?expires=1763568000&signature=ee059310490e2bad9c432f172aac8c9bd76c12da4efbc925051f9105d2d83501&req=dSchEc93moZYWPMW1HO4zX7mQjPu5pcWBMUIaR0bLYp3yMaoSCl8AbjAlSVS%0AL2v0RpbGj4aKJOLoR6I%3D%0A
+
+- After clicking on this, you will be taken to a full-page view of your Housecall Pro calendar, and you will see a new, blue box indicating the job or estimate you are working on, placed on the calendar ready to schedule.
+
+- To change the day/date and time of the new job or estimate, simply drag and drop the blue tile.
+
+- You can also manually change the date and time by clicking into the blue scheduling card, which will bring up a central pop-up window titled Job Schedule or Estimate Schedule.
+- Anytime will allow you to schedule the job for a date without selecting a specific time. This functionality is not currently available on Estimates.
+
+- Here you can manually adjust the date and time, before selecting the blue, oval Save button in the bottom right of the pop-up window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1635304449/dbd8879e51113e0d1335e121e0ec/image.png?expires=1763568000&signature=c774018d20d4c0891c3b22c81504d23baf7c3431d58ad0a9545e3c61b590f856&req=dSYkE8p%2BmYVbUPMW1HO4zRJIGveh9YMCu4pp0dXuFCwYbV9Q7gg29zqYHdBD%0AjwqwFMA0DBs43bKKM70%3D%0A
+
+- Your dispatched team can be selected or changed by clicking on the Edit team dropdown on the left of the calendar page.
+
+- Jobs do not need to have a specified assignee and can be marked as Unassigned. This functionality is not currently available on estimates.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1798615692/d0bb0e8ad65141f0def327c87e60/image.png?expires=1763568000&signature=73fd053fd14118decfb284da52d55fae794fc82ebb79df8bb754f0d708e38796&req=dScuHs9%2FmIdWW%2FMW1HO4zTz5F%2FoPedmDMbyaL8gkalwZsKU5WGdrDoRuWCdh%0AzzUbrlOjKhsCDH4DSEE%3D%0A
+
+- You may adjust the arrival window of the job or estimate you are scheduling, which will not change the job time on the calendar, but will instead be shared with the customer in their confirmation communications so that they have an expectation of your arrival time.
+
+- To set this, click into the dropdown ARRIVAL WINDOW button on the top right of the calendar page below Edit Team.
+
+- After selecting the arrival window, select Set as default if you would like this arrival window to apply to all jobs going forward.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1798618972/26132ab449e5dc36a58d039870f1/image.png?expires=1763568000&signature=0a21448fcf58d8d7e4c6ec283379eaed215ef3f77d85cc803be03bc42e138a3a&req=dScuHs9%2FlYhYW%2FMW1HO4ze8E8YnhWu%2BHeVZAF%2BCBs%2FQBkv0kcVayGXWcyzoI%0Acl84LoylMYj3N4R3LBA%3D%0A
+
+- Clicking the Find a time tab allows you to search for open availability on your calendar. Each suggestion will have a drive to and from your previous and next jobs.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1767707247/f639396c3c96282562b38b8f34c6/29a56df6-c476-4ca7-a82f-ca7a176a5e12?expires=1763568000&signature=57972417d6abf5953097747f7269bbc3665ff2abf9ae24b635d863c43efe1e16&req=dSchEc5%2BmoNbXvMW1HO4zaoL7%2B4dIgEcXujYQj9EZdDL1lCE00NLZgAvf5xU%0A7FV7FOqhunAtMyzAMYQ%3D%0A
+
+- When you are happy with your scheduling selections, decide whether you wish to notify your customer of the scheduled job or estimate via email and/or SMS communications.
+
+- If you would like to notify them, check the Notify customer option box in the top right corner of the calendar. Once you have completed scheduling the job or estimate, click on the blue, oval SAVE button in the top right corner of the calendar page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1798626388/9c47f5659e3c0f6b497fde00778c/image.png?expires=1763568000&signature=54181e2f8d2198a774e99fd1b66271455f2ced22c8ee7fb5a785e291752bd68c&req=dScuHs98m4JXUfMW1HO4zbt8poipt9dL0zhh849C6Dh4wMDSiRKGxwMfdQWS%0AIGKocZ%2F5KZnnX2QGQ%2BA%3D%0A
+
+- Once you have hit Save from the calendar page, you will be brought back to the new job or estimate creation page.
+
+- Continue to fill out the relevant fields as far as applicable, and click the SAVE button in the top right corner of the page when you are ready to save the job or estimate to Housecall Pro.
+
+[Image] https://downloads.intercomcdn.com/i/o/1084688076/2f8eee5f09e7d2709e2b2567/image.png?expires=1763568000&signature=f731bb5e5a01fa4d7fd88687dd50faa73a442aa1992a1e48cf0c54944e7f586a&req=dSAvEs92lYFYX%2FMW1HO4zdvm%2Fo2PwPvQE4dvVtvNGYA%2BkN4GQ5dYY43jkkP3%0Atyc%2FFpuqi1QZmzvRrgw%3D%0A
+
+---
+
+Schedule an Existing Job or Estimate
+
+Let's say you have a job or estimate already scheduled, but need to change the date and/or time.
+
+To schedule an existing job or estimate:
+
+- Open a Job or Estimate to view the details page.
+
+- Click the Schedule button in the Action Bar at the top of the page. - If your job or estimate already has a scheduled date/time, that will display underneath the icon, and the icon will be blue. 
+- If it is not scheduled, the icon will be white.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1798747940/acc2f6f88165380c6a8d865f2476/image.png?expires=1763568000&signature=a4908507f1844073c42f08ff1c07d29a5503d9a95dba3b9c9820877bbcae38b0&req=dScuHs56mohbWfMW1HO4zZr3YMS95FwbqU4hnk6MzCnnF0lEDYdMNGifUp%2BU%0ANqKcdX3r2UP77TtM0RI%3D%0A
+
+- You'll then be taken to the full-page view of your Housecall Pro calendar, and you will see a new, blue box indicating the job or estimate you are working on, placed on the calendar ready to schedule. If the job has already been scheduled, you will see the job in the blue box in the date and time slot you originally scheduled it for.
+
+- Just like you would when scheduling a new job or estimate, change the day/date and time using the input fields on the left of the page, or by dragging and dropping onto a new location on the calendar.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1798873982/0aa18b6cdecee786ae3005d05afc/image.png?expires=1763568000&signature=a6c38c1fbe7b0d2084b2f45a8826a09f87445fb0a601619e7ee24dc3fcd01f0a&req=dScuHsF5nohXW%2FMW1HO4zVcVKbXOWH0NSszUr%2BA01GvYwYp%2F04KPpgroVCCL%0Aox2aPZnvBbqg7riEJ7A%3D%0A
+
+- You may also manually change the date and time by clicking into the blue scheduling card, which will bring up a central pop-up window titled Job Schedule.
+
+- Here you can manually adjust the date and time, before selecting the blue, oval Save button in the bottom right of the pop-up window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1775937421/85970612eace9440e1f35a7e6e5b/3b4e5fef-2fda-482e-8bb6-986dbebafb46?expires=1763568000&signature=7e26e7789d10bc1ef3df80812b87a5888cc5bb42c0b3e7d75c20e1da74c83294&req=dScgE8B9moVdWPMW1HO4zVe5lb1q3HXk62uzQ4jEKRjm6oDcbqEuBEBJWAui%0A5bnAFrdoN7z36yR%2Bw7o%3D%0A
+
+- Your dispatched team can be selected or changed by clicking on the Edit team dropdown on the left side of the calendar page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1798876867/de8b71083ef5887e10bc9c4a3791/image.png?expires=1763568000&signature=3452f93b58f24e20807942c3fd94f5f7f62e248c2e1883c4015b9e7f6e0c7ca1&req=dScuHsF5m4lZXvMW1HO4zV6qXtv8qGWb8fTTBFWai4374eTdgYRWhaOOgs83%0AVxZjX3hXhUdlqn8s3pY%3D%0A
+
+- You may adjust the arrival window of the job or estimate you are scheduling, which will not change the job time on the calendar, but will instead be shared with the customer in their confirmation communications so that they have an expectation of your arrival time.
+
+- To set this, click into the Arrival window dropdown button on the left side of the calendar page, below Edit team.
+
+- After selecting the arrival window, select the Set as default blue text if you would like this arrival window to apply to all jobs going forward.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1798880909/50c5c3a6bc8535b6d2a22c1d44b2/image.png?expires=1763568000&signature=1a69daee2cd73f4fd3c3f02c835e014b2e448290ceaa56e7ff1ac693f2776a9b&req=dScuHsF2nYhfUPMW1HO4zYNWSr%2FbL6%2Bx3GoGIDplJkjVgd99kcNaGCAJqyWa%0AQB9unnZvP54JR3C74r8%3D%0A
+
+- When you are happy with your scheduling selections, decide whether you wish to notify your customer of the scheduled job or estimate via email and/or SMS communications.
+
+- If you would like to notify them, check the Notify customer option box in the top right corner of the calendar. Once you have completed scheduling the job or estimate, click on the blue, oval SAVE button in the top right corner of the calendar page.
+
+- Once you have hit Save from the calendar page, you will be brought back to the job or estimate page you were working from.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1775944747/3427235ae111b64b5a2f00e69e7c/87d8a461-3e5a-47a3-9714-70b380434362?expires=1763568000&signature=63f16d36041bda8b0bc46161d8b370dbc5b2ebdfec1f6b5467073f7b89005c24&req=dScgE8B6mYZbXvMW1HO4zTXz5zBshG%2FJO3CuFxLiELZca8idSZzgBa3Xu9rq%0AlrxFF51Zw%2Bvpgzu1HBk%3D%0A
+
+---
+
+Scheduling Directly from the Calendar
+
+You have the option to schedule your jobs and estimates straight from the schedule (calendar) page. Starting from the schedule page gives dispatchers a clear overview of the jobs, estimates, and events already on the schedule.
+
+To begin scheduling directly from your HCP calendar:
+
+- Click on the Schedule tab featured in the top navigation menu of your Housecall Pro homepage or dashboard.​
+
+- Once you have navigated to your preferred date on the calendar, simply click into your preferred timeslot for the job or estimate you are scheduling.
+
+- A pop-up box will appear next to your selected time with the options to book a Job, Estimate, or Event. Click on the option you would like to schedule.
+
+[Image] https://downloads.intercomcdn.com/i/o/1084698689/bb361066abdd2d99e2fdcdbe/image.png?expires=1763568000&signature=106a856469cd11f6310fb767a41455d4ead21b7e97b765a2052ff9f79376852f&req=dSAvEs93lYdXUPMW1HO4zZxpKwulzb%2FbUReIoK%2FPMSi7OK4ZJ%2FNQsi1NR0eV%0A1eSnldO5yyXLH7jRcm0%3D%0A
+
+- A new job or estimate page will open with the scheduling details already set, reflecting the date and timeslot you clicked into on the calendar. This can be modified as needed.
+
+- On the left-hand side of the page, directly under the 'Customer' section, you will see a Schedule box where you can select the gray fields next to 'To' and 'From' and edit the date or time if applicable.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1635310249/e5c32556bea16e9eff456946d594/image.png?expires=1763568000&signature=815047800e4c835a5875cecfb0b3f06900c64907fea88b801786ca5b2eb2a3e9&req=dSYkE8p%2FnYNbUPMW1HO4zan%2BbGSd9ee%2BxF0TAnT0lV%2BxycQglSutfpFHUl3D%0AtGNS8nya3FTeWQ%2FCpS4%3D%0A
+
+- Once your job or estimate reflects the time and date you wish, you may continue to fill out the remaining details, such as Customer name and any line items or materials, before hitting the blue, oval SAVE JOB button in the upper right corner of the page. Your job or estimate is now saved!
+
+---
+
+Schedule a Job (Mobile)
+
+Quickly create a job on your iPhone or Android Device
+
+To schedule a job in the HCP mobile app:
+
+- Tap the + icon in the upper-right corner of your dashboard
+
+[Image] https://downloads.intercomcdn.com/i/o/637821600/36adfd5f4c0d66b5096e855b/IMG_3960+Medium.jpeg?expires=1763568000&signature=ac599ede822b501286a180efba35c0741c74d22ad82ac577bd46c9c9b5b1545f&req=ciMgHst%2Fm4FfFb4f3HP0gP0lDBHqWSwHpptUKzbqRacGadrquytawv%2Fq0iXV%0AyK7v%2BZ5%2BpWVBHCMwpA%3D%3D%0A
+
+- Select New Job.
+
+[Image] https://downloads.intercomcdn.com/i/o/637822900/6054a222deeb71c4444eead0/IMG_3961+Medium.jpeg?expires=1763568000&signature=c09982bcac5ab9f0b89c42bbb861037355493627d44df385372c59181f6c38e3&req=ciMgHst8lIFfFb4f3HP0gCSAL83enbmp8Dg4vWSVtM33iOKQuDsiAPGjc6R5%0AzexSE60mmVelI8DaaQ%3D%3D%0A
+
+- Tap the Schedule + button to open the schedule view.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1806689714/8c5ff2a6846f1d3cb992e6155f9f/image.png?expires=1763568000&signature=07b498b22b2a56b1a8748f95b167b12f07b4b10c590ee9e6d235051b8640f73f&req=dSgnEM92lIZeXfMW1HO4zXNUM4tIKXM%2FapTH%2FAx%2BghcCWW4l4PrHRFbCer7N%0A0NC3m3iCtPPpvQUvJfc%3D%0A
+
+- From here, you can: - Select the Job’s Start and End Date/Time.
+- Toggle Anytime if there’s no specific time.
+- Set a Recurrence for repeating jobs.
+- Adjust the Arrival window (if needed)
+- Assign Employees to the job.
+- Choose whether to notify the customer.
+
+- Once you’ve finalized your scheduling details, tap the blue Done button in the upper right-hand corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1806699858/bda512202b6bac7bd8b37cc2a27d/image.png?expires=1763568000&signature=3ff072a7f72228c584c2b8412a91e937c2a6015b5ccf659446a1479f1f06ebb7&req=dSgnEM93lIlaUfMW1HO4zeDGe4lMjSXfLWMIn4fYUFGFSDjGhwfu%2Fyjpb%2FkM%0ADBNyfig9roc1besO7fQ%3D%0A
+
+---

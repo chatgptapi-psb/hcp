@@ -1,0 +1,37 @@
+Service Plan Template for Electrical
+Source: https://help.housecallpro.com/en/articles/2463500-service-plan-template-for-electrical
+Author: Ian H
+Last updated: Updated over a month ago
+
+Templates are a great way to get started with Service Plans. For more information on getting started with Service Plans, visit the Service Plans Starter Kit.
+
+Annual Electric Maintenance Plan
+
+Duration: 1 year
+
+Included visits: 2 per year
+
+Price: $95 per year
+
+Your electrical system runs every part of your home, so when there's a problem, it can wreak havoc on your life - and your budget. With an electrical protection plan from Direct Energy, you can secure coverage for annual safety inspections, electrical panel maintenance, and routine repairs for all of your home's wiring, outlets and switches.
+
+Our maintenance plan includes:
+
+- Annual Electrical inspection included to ensure the safe operation of your electrical system
+- 10% discount on all electrical repairs
+- Priority service and scheduling
+- Free estimates for all renovation projects
+- 2-year parts & labor warranty on all electrical repairs
+
+While we're at your house, we'll test:
+
+- Smoke detector operation and batteries
+- Receptacles for reverse polarity
+- Ground fault receptacles for proper operation (review locations)
+- Mechanical parts for proper operation
+
+Follow these steps to set up your service plan templates in Housecall Pro.
+
+---
+
+---

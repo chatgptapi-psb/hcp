@@ -1,0 +1,130 @@
+Take Payments
+Source: https://help.housecallpro.com/en/articles/2785726-take-payments
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: Learn how to take payments, issue refunds, change the date & time on payments, and delete payments.
+
+Taking Payments on the HCP Web Portal
+
+In this article, we cover the process of taking payments through the Housecall Pro web portal, the different payment methods you can use, and how to confirm whether a payment has been taken on a job.
+
+---
+
+How to Take a Payment (HCP Web Portal)
+
+To take a payment on the HCP web portal:
+
+- Open the job associated with the invoice you need to collect payment for.
+
+- Click the Pay button in the action bar at the top of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1204844335/4b9862084bf63b6c63fe10adaeb0/Pay+Button.png?expires=1763568000&signature=985da5884fb2995805f4c73bb91bae3ca4eec6e0e0e76740dcf11a9d084fdddb&req=dSInEsF6mYJcXPMW1HO4zYLi8Ajz8Bp5Nka3o5IEx9vlX8meeSMxjaM7%2BCOB%0Aq%2F6ho1T4LPWiHKbz4%2FE%3D%0A
+
+- From the Payment window, confirm the payment amount. - The total due amount for the job will be populated automatically, but the Amount field can be adjusted if you're taking a partial payment.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234295785/8c556f956f536fe4da3b5f3b5982/PaymentAmount1.png?expires=1763568000&signature=0772295c70ab39980ff4fef0f6a47bf22bcd07f0558a4593b4a3eb24a9a9f383&req=dSIkEst3mIZXXPMW1HO4zcAmcIbnQkyC0GM4YLgnJ%2BwiSn4qCWZl4yZ6Ys3C%0Annq2%2BuUrY0nzz%2FcdrzQ%3D%0A
+
+- To send your customer a receipt of their payment, confirm their email address in the Email receipt field and ensure that the Notify customer box is checked.
+
+- Uncheck the Notify customer box if you don't want to send a receipt to your customer.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234293982/0e5f4cbfd338fb83e65fb67d90d6/ReceiptPayment.png?expires=1763568000&signature=eac51e479d71b1a078a5d9bd32f671ea048e5073d4677bfe19c46fccc07a7e97&req=dSIkEst3nohXW%2FMW1HO4zQjph8kzYdlCObtUmrwivTB3lil1jze5WMqcazPq%0AL5RVThv3KBerLr72tC8%3D%0A
+
+- Select the Credit payment method when taking a card payment with Housecall Pro's payment processor.
+
+- Confirm the name on the card, billing address, and postal code associated with the card. (These fields are automatically populated with your customer's information on their Customer Profile.)
+
+- Input the card number, expiration date, and CVC.
+
+- Click Charge Card in the bottom right corner of the Payment window to process the payment.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234298122/dbfb0f36b102bb6960baf7289f10/CreditPayment2.png?expires=1763568000&signature=848d2ad09a88afb50d83da6aafc3b207716c6415f19fdcc809738b0135374070&req=dSIkEst3lYBdW%2FMW1HO4zTk7ISI7lfeF%2BVGnU0hJ21BpSSd51OUzGAJvEFWe%0AGyBxSyRmdXy3vWZ2SHY%3D%0A
+
+- If you are using a different payment processor (not through HCP), choose Other as the payment method.
+
+- You can then click the Other credit card processor option and select your credit card processor from the list that appears.
+
+- Enter any payment notes (optional), then click Pay - Other in the bottom right corner of the Payment window to process the payment.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1209083013/f0ab40c04dc42ae03d82b683a238/PaidOther.png?expires=1763568000&signature=cb6fd549a4cec95dc39a5a9125e21247a6cda0cdac52466cb42745ef2d5ac8f7&req=dSInH8l2noFeWvMW1HO4zT%2Bbdpk8GzWT1qwfmeHYKRPIZYdtzWdQ8HYrMkpS%0A0Tp4h774RtxUMQZZsFA%3D%0A
+
+- If your customer is paying with cash or check, select those options, then click Paid - Cash or Paid - Check, and you'll be good to go!
+
+- After processing the payment, a receipt will be emailed to your company's support email address and to your customer if the 'Notify customer' option was selected.
+
+- If Text Messaging has been enabled on your account and your customer has a phone number in the mobile field of their Customer Profile, your customer will also receive their receipt via SMS.
+
+---
+
+How to Confirm that Payment Has Been Collected on a Job
+
+When a payment has been made on an invoice, the Job Details page linked to that invoice will reflect the payment in 3 places:
+
+- The Pay icon in your Action Bar will now be blue and show "Paid" under the icon. - If a partial payment was taken, the Pay icon will instead reflect the due amount.
+
+- The Payment History section reflects the payment date, time, type, amount, and notes.
+
+- The Activity Feed will display a line in green text reflecting that a payment was made. - This line includes the payment amount, method, date, and time. A separate line will reflect which invoice the payment was applied to, along with the payment amount.
+
+Table:
+Row 1: Action Bar (Full Payment Taken)
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1209145393/85ecaed2e692752f2381a892eeb0/Paid.png?expires=1763568000&signature=65e844f7371bc0c32240ade979d5df677e48c07e4d2b71f9684369312fa020be&req=dSInH8h6mIJWWvMW1HO4zfBHDu2wCH9YCPa8OY7YGx0P%2BksUSVvpPLhHlaSi%0AeXxU%0A
+
+Table:
+Row 1: Action Bar (Partial Payment Taken)
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1209158490/ac838baeb04774613c45d16e9833/PayIconPartialPayment.png?expires=1763568000&signature=7318944d78257351cc7fe3384208fd56ab31ff06f3011ec171601e7f080e7289&req=dSInH8h7lYVWWfMW1HO4zYeLXPg7XTyUykSTQoFuhljNw9ZM%2BtcFHXwmxaqo%0AiiPf%0A
+
+Table:
+Row 1: Payment History
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1209150061/93b030a4446595964be88c7d8909/PaymentHistory.png?expires=1763568000&signature=94c249066e91ea4320bd53822dfaf164890a5f47dc2c60307a7b45fa4563af23&req=dSInH8h7nYFZWPMW1HO4zQ1ObqgeyviRzllqw0zNe1ijfmGMCoyME7hFG0cC%0AE%2Fgw%0A
+
+Table:
+Row 1: Activity Feed
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1209153429/0fa8fad4e0e471dc0ab273c2ca7e/ActivityFeedPayment.png?expires=1763568000&signature=43773bab82b47da18de6a5dd7a3ace0f14e7b26daae1f499de4a0732d7aff3fa&req=dSInH8h7noVdUPMW1HO4zcHwTg8ep8XjeR3lcPJhcEa%2FnjjIu2BOtTXBDj%2Bi%0A%2BBWX%0A
+
+---
+
+How to Send a Receipt to a Customer
+
+When a customer makes a payment on a job/invoice, a receipt will automatically be sent to them unless their notifications are disabled. In this case, you may need to manually send the receipt.
+
+To send a receipt to a customer:
+
+- Open the job associated with the payment.
+
+- Click the Pay button in the Action Bar at the top of the Job details page.
+
+- Confirm the customer's email address in the Email receipt field.
+
+- Click Send receipt in the bottom right corner of the Payment window, and that's it! The receipt will then be sent to your customer.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1369068356/595a6f33157f7dd6e3bba282fd68/Screenshot+2025-02-06+at+6_07_31%E2%80%AFPM.png?expires=1763568000&signature=d35d45a321ba102613708b9f42cedc7f033d3abe5edee5e66e80e805ea2adcb7&req=dSMhH8l4lYJaX%2FMW1HO4zX2jR%2FgjJappEhMM0S%2FH4U1WOOEZK%2Fm9TmsSwaIM%0AFDKlG%2Ff9Qei9dTlrqyI%3D%0A
+
+---
+
+How to Print a Receipt
+
+When a customer makes a payment on a job/invoice, a receipt will automatically be sent to them unless their notifications are disabled. To provide a physical copy confirming payment, you can print the invoice, which includes the customer's payment history and serves as a receipt.
+
+To print a receipt on the HCP web portal:
+
+- Open the job associated with the payment.
+
+- Next, in the Invoice section, click the printer icon to the right of the blue Send Invoice button.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1586211478/cd9ae678da157a36bd10212d9970/Screenshot+2025-06-24+at+11_20_33%E2%80%AFAM.png?expires=1763568000&signature=0bd92fe17fa57dbe0184b7b88941aaa471ef5eb66532c028d14f6e30759fde90&req=dSUvEMt%2FnIVYUfMW1HO4zY%2FRCid2Wtpt%2BSQIGPg375g9uX912tFbAenopAyl%0AlfuqEtusb11lS9fvDgk%3D%0A
+
+- A new tab and a Print window will automatically open.
+
+- Then, choose a printer to print a physical copy, or select Save as PDF to download a digital copy.
+
+- Finally, click the Print button in the bottom right of the window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1586236892/6691ec9e44fc833a2dac7fa04dfd/Screenshot+2025-06-24+at+11_40_39%E2%80%AFAM.png?expires=1763568000&signature=56bf846de9e3318b59a0731c6f3e2c3fdf3637d1f01b262a3f8ac0d7d49bf44a&req=dSUvEMt9m4lWW%2FMW1HO4zSZ3R8TVooAu5oAWMfr2BK93lfVds7begCUUksqj%0AvYJCpxvz%2FH9c%2FUrAXos%3D%0A
+
+---
+
+Check out these simple tips on collecting payments from your customers!
+
+---

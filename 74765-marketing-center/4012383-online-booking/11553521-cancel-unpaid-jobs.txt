@@ -1,0 +1,38 @@
+Cancel Unpaid Jobs
+Source: https://help.housecallpro.com/en/articles/11553521-cancel-unpaid-jobs
+Author: Anna E
+Last updated: Updated over a month ago
+
+Collect Payments When Customers Book Online
+
+You are able to enable payments in your Online Booking flow to collect deposits or full upfront payments when a customer books a job. A customer has the option to not pay in the exact moment they book a job, but instead pay before the scheduled job has started. If a customer does not pay before the scheduled job, you are able to cancel these unpaid jobs.
+
+---
+
+Emails with Payment Links
+
+When a customer fails to pay for the Job during the booking process, they will receive an email with a payment link. The customer can use this link to pay for the job at a later time.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1566098771/75c13ff6e8e92a92e79fa2575dc2/AD_4nXdxKNnBCUep8MnfyUb0lA4Ce9oisUbeA3L5mdSH98SQlYLntxj6dIHrmaplR7yrwvg8ht7TpvPCXv0mYQzcXsEfug5F8lDhVO_98utuUzblYkRBaWAdRZ-2nWUv2BPRi_yuS2V_cw?expires=1763568000&signature=f7aad6a8ed7df65dcc2806d188e4f396d77eb6745613fc13d6bde3dba420310c&req=dSUhEMl3lYZYWPMW1HO4zTq6%2FgIzy4TOxowlFGJFOeSs9B3uyKHU5Iw8%2BT5Y%0ANEn1Oi7xLdZ0ZjWXZO8%3D%0A
+
+---
+
+Automatically Cancel Unpaid Bookings
+
+To automatically cancel the unpaid jobs, follow these steps:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Booking from the Settings menu on the left.
+
+- Click the Online Booking tab in the Booking settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1645661054/d6d771047c019f0de0297697b4a2/image.png?expires=1763568000&signature=881f1bdd52bc3078d2a013f08d7de8f961cdb2be500930209d8e4996d5c74588&req=dSYjE894nIFaXfMW1HO4zcTU45kzJNE3bLSjOl6T1ZhIdX2SHb4KsWTofEla%0AcvOY5FJMicSGAkPVXyk%3D%0A
+
+- Enable the toggle Automatically cancel unpaid bookings within 1 hour.
+
+If that option is toggled on, the unpaid Jobs will be automatically canceled after one hour, and both you and the customer will receive a notification about the cancellation.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1645674319/54e57d91180d863addb768517fe3/image.png?expires=1763568000&signature=35fe3cecc093636eb2882adde8794889fa9d09583c4b7f5b1c8945fa1af79763&req=dSYjE895mYJeUPMW1HO4zQgRYxiJHf1zSaknlNy7tKbhj5pCPY5IYqRZFFnS%0AFnTaTy8QXpzqmgKie4A%3D%0A
+
+---

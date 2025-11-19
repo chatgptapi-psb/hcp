@@ -1,0 +1,176 @@
+Bill Pay: How to Pay Vendors in Housecall Pro
+Source: https://help.housecallpro.com/en/articles/8044500-bill-pay-how-to-pay-vendors-in-housecall-pro
+Author: Nate H
+Last updated: Updated over 10 months ago
+
+Summary: Learn how to get started with Bill Pay and review some frequently asked questions about how the Bill Pay tool works.
+
+How to Pay Your Vendors with Bill Pay
+
+In the following sections, we'll walk you through four key steps to submit bill payments to your vendors with Bill Pay in Housecall Pro:
+
+- Step 1: Fund Your HCP Money Account
+- Step 2: Upload Your Bill or Enter Vendor Details Manually
+- Step 3: Enter/Confirm Bill Details
+- Step 4: Submit Your Bill for Payment
+
+---
+
+Step 1: Fund Your HCP Money Account
+
+Funding your HCP Money account is the first and ✨most important✨ step before you start using Bill Pay because it ensures that you have the funds available to cover your bill payments.
+
+There are two main ways to fund your account:
+
+- Transferring money from an external bank account into your account, or
+
+- Setting up a minimum balance.
+
+[Image] https://downloads.intercomcdn.com/i/o/770220914/3cec79355bf60d740ab4dc9a/Add+funds+to+HCP+Money.png?expires=1763568000&signature=5e30fef2480188af433ab7a6847202bdac64c6cd351d44587ad444bd4af7ca0c&req=cycnFMt%2BlIBbFb4f3HP0gEfDulTeUgoGCdpwvG6QwtkwzhoK%2ByyHWis2tIQ1%0AQF93FU0lw9OjukBE2A%3D%3D%0A
+
+---
+
+Step 2: Upload Your Bill or Enter Vendor Details Manually
+
+When paying a bill with Bill Pay in Housecall Pro, you can choose to upload a PDF file or a picture of your bill. You can also enter your vendor and bill details manually if you don't have a file to upload.
+
+To upload your bill or enter your vendor details manually:
+
+- Go to 'My money' in the navigation bar at the top of your Housecall Pro account.
+
+- Click 'HCP Money' in the left menu and select 'Bill Pay' from the drop-down. This will take you to the Bill Pay overview page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1335304426/d55c49a299f7f86be24df6b7fee8/Screenshot+2025-01-14+at+4_47_17%E2%80%AFPM.png?expires=1763568000&signature=3b43950a5eb9c78a7a935732c4a9d734df7f1c5b434afe871e8c5d25ba320d4b&req=dSMkE8p%2BmYVdX%2FMW1HO4zVOdmiZcOv6%2BElhprSdHn8sYGIklntcGfs6ToWUU%0Ah824%2BmAUhGpDK24SjE8%3D%0A
+
+- Click the 'Pay Your First Bill' button in the center of the page if this is your first time using Bill Pay, or click the 'Pay New Bill' button in the top right corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1335305126/7729d9f4f55ab73ab4e34bd68032/Screenshot+2025-01-14+at+4_52_54%E2%80%AFPM.png?expires=1763568000&signature=ac6f74cb1baf75bc0d21e5ee1c56bd429bcadfad31b071bf5a01edae2390dbe4&req=dSMkE8p%2BmIBdX%2FMW1HO4zXn5iNu4k0fBdRFPVLa02aKB9bnKVTp0zsVPapVi%0At%2FXHsFbA%2FPZIIiuhVDE%3D%0A
+
+- From here, you can upload a PDF or picture of your bill by clicking the 'Browse Files' button. With this option, Housecall Pro will automatically fill in the details of your bill.
+
+- Alternatively, you can select 'Fill out manually' at the bottom of the page to manually enter your vendor's information.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1253546481/d3e74c2979226b2360107ea858ba/PayBill2.png?expires=1763568000&signature=323c574f530b56c5c4d3b398b7f8f89e6e4101e0e2db416aaaf4a73c916e0942&req=dSIiFcx6m4VXWPMW1HO4zR0bB9R41kBm%2Bko4SOB3i987he25LaxOjb3h5oXZ%0A3amCYrclbc6nTNpzr9M%3D%0A
+
+- Enter and/or confirm the following vendor details: - Vendor name
+- Address
+- City
+- State
+- Zip code
+- Vendor phone number (optional)
+- Vendor email address (optional)
+ - If included, an email will be sent to your vendor to notify them that your payment is on the way.
+- Account information (optional)
+- Vendor Banks Details (Required for bank transfers)
+
+- Click the 'Next: Bill Details' button to proceed with Step 3: Enter and Confirm Bill Details.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1253546486/1ce04951e11450004f86db05681d/Create-2Ba-2Bnew-2Bvendor.png?expires=1763568000&signature=fdb8ece966762f5ffce2501feaf24f9d605f912ae593e5e686a7cf4618e28f06&req=dSIiFcx6m4VXX%2FMW1HO4zV0E9aYfM7q1kmZ2YR%2BxX%2FuPRGug7dxsWFAx1qYB%0AFW9AP9mYIBLp%2Frmb4Fw%3D%0A
+
+---
+
+Step 3: Enter/Confirm Bill Details
+
+After clicking the 'Next: Bill Details' button, enter and/or confirm the following information in the 'Bill details' section:
+
+- Bill description
+- Total amount
+- Invoice number
+- Job number (optional)
+- PO number (optional)
+- Bill due date
+- Attachments (optional)
+- Payment details - Choose to pay your bill now or schedule it for a later date by clicking on the 'Now' or 'Later' toggle. When scheduling your bill payment for a later date, the payment process will begin on the date you've specified.
+
+- Payment method - ACH (bank transfer), mailed check, or 'Let my vendor decide.'
+
+- Check memo (optional) - Check memo details entered will be printed on the check mailed to the vendor. You can include specific invoice numbers or account details in this field if you choose.
+
+- After entering the bill details, you can click the 'Next: Review' button and proceed with Step 4: Submitting Your Bill for Payment.
+
+- If you're not ready to submit your bill for payment yet, you can save the information for later by clicking the 'Save as draft' button in the top right corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1253597893/30b2c7c716790763ce244db2ab17/Bill%2BDetails.png?expires=1763568000&signature=694b60cc1c8752f491e3ad66adfbfd1e4b4c4a8384bc105e03bf1571ad3fae0c&req=dSIiFcx3molWWvMW1HO4zYMCEGuRZmYCqx2dmxtWHYNfxyDwIDcLumy76VhQ%0AMjcEFn41mAnxh6zPkfg%3D%0A
+
+---
+
+Step 4: Submit Your Bill for Payment
+
+After clicking the 'Next: Review' button, review the bill and vendor details to ensure that everything is correct.
+
+- If needed, you can edit the vendor or bill details by clicking 'Edit' in each section.
+
+- When you're ready, click the 'Submit Payment' button. - Depending on your Housecall Pro account settings, you may be prompted to enter a verification code for security purposes.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1253607458/636c0bf67eb4402b9f27fbe2440a/Bill%2Breview.png?expires=1763568000&signature=3e4404c4ababf8af36a8000736bc889207c8c736401650afadb1bd19d339f280&req=dSIiFc9%2BmoVaUfMW1HO4zbXx9kh%2B2Ea4Bn%2Bq7PX26%2BN49BOL2fySSaH4u3yk%0AHxOjGVXyrMeCVVl%2BeHo%3D%0A
+
+- You'll then see a confirmation message that the payment has been submitted or is scheduled for payment. Success! - You'll also receive text and email notifications that your bill has been submitted.
+
+- From the confirmation screen, you'll have the option to pay another bill or return to the Bill Pay overview page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1253607457/a5207e66e9720594338498fc8a8a/Bill%2Bsubmitted.png?expires=1763568000&signature=ca092654a492987f5a80b4d1bb04b8bf04e28324d4e964add9231326ccbfbedd&req=dSIiFc9%2BmoVaXvMW1HO4zdK7%2FDPDNyYipsUEkQ1luW6MzzDvvLZxkd3c%2BDIw%0Ap64iFIWI4bgFA2CvI8A%3D%0A
+
+- Once your bill has been submitted, you can monitor the status of each bill from the Bill Pay Overview page.
+
+[Image] https://downloads.intercomcdn.com/i/o/770309478/4a445e066189fa365f74756e/Overview.png?expires=1763568000&signature=2bba4aea55863cf6daaffe27497d8b9fffc9d1c583d7c9a7f0954cc056401d7b&req=cycnFcl3mYZXFb4f3HP0gAih7PeM9n7aKhB6D%2BXtZ5g9olNZY6HFq6ZErk3w%0AODWWyt94%2FacYn4E2%2BQ%3D%3D%0A
+
+---
+
+---
+
+Let My Vendor Decide with Bill Pay
+
+With Bill Pay, you can pay vendors via a bank transfer (ACH) or a mailed check. If you're unsure which payment method your vendor would prefer, you can choose the 'Let my vendor decide' option when submitting a bill for payment.
+
+By choosing this option, after the bill has been submitted for payment, Housecall Pro will contact your vendor on your behalf to confirm their preferred payment method.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1253647346/207ba34db5df4bc0994a38775e7c/Let-2Bmy-2BVendor-2BDecide-2BModal.png?expires=1763568000&signature=efaf6b5a9545e9c2aa7422f0add47366f581d5d2e743a077722b3a15379a61cf&req=dSIiFc96moJbX%2FMW1HO4zdFFe6RHNGim6WQOlg2canT3s0E9igFDFok5UxDN%0A%2BFMnDBW9789WBrZA8DQ%3D%0A
+
+---
+
+Contacting the Vendor
+
+After the bill has been submitted for payment, Housecall Pro will contact your vendor using the email address provided in their Vendor Profile.
+
+Your vendor will receive an email with your business information and bill details. If they would like to move forward, they can click the 'Accept Payment' button in their email.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1253654890/626a4978876a4390ba592c0b3169/Vendor%2BEmail%2B1.png?expires=1763568000&signature=babc40963cebd145415ae2d61577bd080a5cde4bc65ba083e8f42a61d3865415&req=dSIiFc97mYlWWfMW1HO4zQLYPtIhVXb%2BMe3AVGSu35F3FSUaaT%2BY7Ym4kVDV%0A%2FhyVtKV6Jx09vBXMg1M%3D%0A
+
+---
+
+Let My Vendor Decide: Mailed Check or Bank Transfer (ACH)
+
+After clicking the 'Accept Payment' button in the email sent through Housecall Pro, your vendor will be presented with two payment options to choose from when selecting a Bill Payment Method:
+
+- Mailed check. - This option may take up to 10 business days.
+
+- Bank transfer (ACH). - This option may take 2-3 business days.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1253664732/9f44c5df1d52e5306e049b1aa731/Select-2BPayment-2BMethod.png?expires=1763568000&signature=704bf90b42fe2d906f5c7e382905f88dfc2a146059c3239efc843245d154395f&req=dSIiFc94mYZcW%2FMW1HO4zX5GCKRWV2M6vo13MTk4geix2RmwVpdVDRrfsDe6%0AGq1LT8V3wupJ4e20GoM%3D%0A
+
+If your vendor chooses the 'Bank transfer (ACH)' option, they will be asked to provide the following bank details:
+
+- Account Type ('Checking' should be selected)
+- Account Holder Type ('Business' should be selected)
+- Routing Number
+- Account Number
+
+By clicking the 'Send Details' button, the bank information will be used to provide payment via bank transfer to the submitted and future bills.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1253647344/ff31168b451ec835f71be7fa4461/Provide%2BBank%2BDetails.png?expires=1763568000&signature=b310ae2ac0f83537a83d7b321d7383964254525ee84fbebc1a3a18ff7cda5b56&req=dSIiFc96moJbXfMW1HO4zajMDWAzrW64pXiAHxvZiM5eUT6X7t73ewBn8rTO%0AH8w%2F7mwblrTbMERpPfo%3D%0A
+
+---
+
+---
+
+How to Cancel a Bill Payment
+
+To submit a cancellation request, please use the Blue Chat Bubble in your Housecall Pro account and provide the payment creation date, amount, and vendor information.
+
+You can submit a cancellation request for bill payments that have been submitted but not processed by your vendor.
+
+Once the request has been confirmed and processed please allow 10 business days for the bill payment to be canceled and the money returned to your account.
+
+[Image] https://downloads.intercomcdn.com/i/o/877684263/da198b7834678801b95c7cd0/screencapture-pro-housecallpro-staging-pro-my-money-bill-pay-2023-06-30-11_55_39.png?expires=1763568000&signature=82a7b1f50ad633eef5b428bc507f0e4988cca334294b6ba23d97eb7b9bd7ea9b&req=fCcgEMF6n4dcFb4f3HP0gC%2FWpmKhH7CLIYFAeYchWJPpmAGh1OU%2FqqMyG9me%0AQ3vzjDaCFiyZ7njHAw%3D%3D%0A
+
+---

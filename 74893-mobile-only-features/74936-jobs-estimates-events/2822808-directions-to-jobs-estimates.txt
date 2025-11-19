@@ -1,0 +1,77 @@
+Directions to Jobs/Estimates
+Source: https://help.housecallpro.com/en/articles/2822808-directions-to-jobs-estimates
+Author: Nate H
+Last updated: Updated over 4 months ago
+
+Summary: Learn how to quickly access directions to a job or estimate's service address.
+
+How do I get directions to my job from my iPhone?
+
+- Open any job to view the Job Details page
+
+- Scroll down to the Customer section to see their information
+
+- Locate the customer's address
+
+- Click the Pinpoint icon to the right of their address
+
+- You can select 'open map only' or 'open map and set status to 'on my way'
+
+[Image] https://downloads.intercomcdn.com/i/o/109597263/e4b6ed371b074185ac8e46ad/Screen_Shot_2019-03-18_at_12_36_18_PM-2.png?expires=1763568000&signature=2c0aa60a2f34290c99c47371285a413ce2eae4b1d8050115e8076e9b37921414&req=dSAuE8B5n4dcFb4f3HP0gJIjb2H124DPWf4DCyseT464DfNC1NGxDh3FL8xY%0A0y4PsKVyNJ%2FzExo11g%3D%3D%0A
+
+Your default navigation app will automatically open with the service address set as your destination.
+
+[Image] https://downloads.intercomcdn.com/i/o/109597400/c9394dda108120f024d508e3/JobDirectionsGif.gif?expires=1763568000&signature=c198b63d451cb2f6ec967a5daad0ad7007cef1ba5a56b392b83e95786e55f42b&req=dSAuE8B5mYFfFb4f3HP0gBuSC9iF6VNhdjPe1V1vBbQeo55Pn9c7gjq5rKf%2F%0AAZJF1lDQAiUY2O42HQ%3D%3D%0A
+
+To return to Housecall Pro from the navigation app, simply click on 'Housecall Pro' in the very top left corner.
+
+How do I get directions to my job from my Android?
+
+- Tap on the scheduled job you are going to, then click "On My Way."
+
+[Image] https://downloads.intercomcdn.com/i/o/1146090140/174b9deceb005c8939b3565d/Screenshot+2024-08-14+at+7_57_28%E2%80%AFPM.png?expires=1763568000&signature=771a597d4ed8e80d6c2ac0a2b81458532aaa80122837685db4479d834029ad96&req=dSEjEMl3nYBbWfMW1HO4zTu4VD6KSBF%2B8rXKqwSwYEQmgH1XKzx1XxiPk82m%0AOacfkWWfISC0ohL84po%3D%0A
+
+This will send the customer a notification you are on your way.
+
+[Image] https://downloads.intercomcdn.com/i/o/1146090342/cc33fac06876d963b77e50dc/Screenshot+2024-08-14+at+7_55_47%E2%80%AFPM.png?expires=1763568000&signature=f4a1b3c8c18b8babd74346fa195ce5855411efed53c8a10d9c7348b72344d0f0&req=dSEjEMl3nYJbW%2FMW1HO4zS5bHjHAYP1ULabJs8%2FKGd35xK0MS1sJODBKPvxx%0A2L%2BWv%2B0RQkU9VdsI4cM%3D%0A
+
+After confirming, scroll down to see the Map Icon. The system will always default to Google Maps for directions.
+
+[Image] https://downloads.intercomcdn.com/i/o/111051108/e1ac46a019f172307eed398c/Screenshot_6_26_17__4_09_PM.png?expires=1763568000&signature=a50dc0b194b46032255c67c4449e40894cc63e1506951f3b36bafa7525adc97c&req=dSEmFsx%2FnIFXFb4f3HP0gFJIwu3euOBnwBTMPJKnkaJPyUCL3Ug0h5DGt3G2%0ANpvJeMLdhIbz8Ql%2B1A%3D%3D%0A
+
+The map will automatically open, ready to give you turn-by-turn directions to your next location.
+
+[Image] https://downloads.intercomcdn.com/i/o/111051110/d8ece1b4a5ef2438bf973ef6/Screenshot_6_26_17__4_12_PM.png?expires=1763568000&signature=53e59f54526301452ff5925da9545d1dad9a393c1c6eb0eb25901c533ba3fa76&req=dSEmFsx%2FnIBfFb4f3HP0gCC2oh3uAZNnbSId39JkVJT0Ml6Wv0Qv6vLSnE3D%0AKrfV3wuiWbzbExSS4Q%3D%3D%0A
+
+How do I choose which maps app directs me to my next job?
+
+Choose which navigation app you'd like to be set as the default when heading to a job.
+
+To set or change the default navigation app that Housecall Pro opens up directions in, follow the steps below.
+
+- Open your Housecall Pro mobile app, click 'More' in the bottom right corner
+
+[Image] https://downloads.intercomcdn.com/i/o/111050891/c1bdf89da810a964d3ef20df/_no_subject__-_christina_green_housecallpro_com_-_HouseCall_Mail.png?expires=1763568000&signature=5852aacb90c5fa17bc29be4e49b12a03891ce1c07d64e91c7514b8fe4cfb8343&req=dSEmFsx%2BlYheFb4f3HP0gGTW%2FwJxd3wGpDDU9x6kw4rVudsXlYn0kwmjnFG5%0Avoj7iFsv4tjzxu%2FKvA%3D%3D%0A
+
+Tap 'Preferences'
+
+[Image] https://downloads.intercomcdn.com/i/o/111050893/41290c86cdd0267aec5100e1/_no_subject__-_christina_green_housecallpro_com_-_HouseCall_Mail.png?expires=1763568000&signature=ad13c0df2ebb3756e9d1ea65f18703f67b2c736f9aae6546afec9afc54905387&req=dSEmFsx%2BlYhcFb4f3HP0gMVMlhep0RScSF%2Bk9xjv5MQtzjdqb3hGV7FG3Hv6%0AxtahyTPWG4y8aL%2F8PA%3D%3D%0A
+
+- Select 'Default Navigation App' 
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/111050894/88b4cd5928c926f3bbf5168e/_no_subject__-_christina_green_housecallpro_com_-_HouseCall_Mail.png?expires=1763568000&signature=bd71ef99cf6ca1b0aa1751ab21e9dbf1525cd8ee5ab5e3365fe0f456f1d4893c&req=dSEmFsx%2BlYhbFb4f3HP0gAcDlKPAxJZ%2BA%2Bntfbt6QgsejzNbFcwMEcMa%2Fhzg%0AT8srC769RAwy4qP5KQ%3D%3D%0A
+
+You'll then have the option to choose between the navigation apps you have installed on your phone.
+
+- NOTE: You can only select the app if it's already installed on your mobile device
+- Click the back arrow to save and return 
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/111050895/de573d24698310de3ecca758/_no_subject__-_christina_green_housecallpro_com_-_HouseCall_Mail.png?expires=1763568000&signature=a8927b9565f15eb5079c34787971d72510aac25b7e5296994337753ac7a01ff9&req=dSEmFsx%2BlYhaFb4f3HP0gK98nNLs9MybFoLCfRefXtFTvoSfEpDZf9%2BduR96%0AxeSds4qbnxMKsU3QSQ%3D%3D%0A
+
+---
+
+Having trouble finding what you need?
+
+Use the blue bubble to reach out to our chat team for live customer support. If you’d prefer to talk it out over the phone, call our support number at 858-842-5746.

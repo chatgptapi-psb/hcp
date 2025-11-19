@@ -1,0 +1,88 @@
+How to Search in Your Legacy Report
+Source: https://help.housecallpro.com/en/articles/10556704-how-to-search-in-your-legacy-report
+Author: Jasmine d
+Last updated: Updated over 9 months ago
+
+Searching Within Your Legacy Reports
+
+We've made updates to how to search for items in your Legacy report to deliver more accurate reports and improve your report performance.
+
+---
+
+What Can Be Searched Through Your Legacy Report Search Bar?
+
+You can now search by any search term that exists under the following categories:
+
+- Job #
+- Customer name
+- Customer tag
+- Address
+- Description
+- Amount
+- Job tags
+- Job status
+- Payment
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1398394675/bbad68330f29a915e1d8096d38d8/AD_4nXeOd35ttYSVyREOulCgRRtatLJ8akvP4iopx2-BuHDktNYuRw0p-G655CKfOtuumScAeko8qz_KH2tE9ZhSngZwRpbqostd18cFIKBjGN07O5n6mXAz4thh94aVsv7LrcC0Ls3P_A?expires=1763568000&signature=f9f5ffb0423d8e359ea2dd22bebfc2fbf9eb210079ea70e3900fc34c95271a87&req=dSMuHsp3mYdYXPMW1HO4zUOeqnnenh%2BSKTkRHtZh1V6Tgh%2FnagdDTPccrcSM%0ALlaagLESN1zrLX%2BTlMQ%3D%0A
+
+---
+
+What Terms Cannot Be Searched Through Your Legacy Report Search Bar?
+
+- Created at date
+- Date
+- End time
+- Travel duration
+- On job duration
+- Street
+- Street line 2
+- City
+- State
+- Zip
+- Paid amount
+- Due amount
+- Discount
+- Tax
+- Tax rate
+- Notes
+- Employee
+- Window
+- Attachments
+- Segments
+- HCjob
+- Tip amount
+- Online booking source
+
+---
+
+How to Troubleshoot Your Report
+
+If your report is empty and you previously had a saved search term, try reapplying it by clicking the filter icon next to a column header, entering your search term, and clicking the 'Filter' button.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1398536138/a8f7cc594ea8c23908cd90355b6b/AD_4nXd2ltg23USUwlli4FuDF4ElpIeHsQ9ZiEj7IRJMRPrn44Ihb7DUcbPrp7FuW9SXpvOc8MqX340AJQkKY2n6c0l3I31aM21OtC53kDbFUL7f0AZdyXDqTqn9JkZf9vcE8RfrxaWOiw?expires=1763568000&signature=fd4f2f70a1d55364e2227c200ec84bcdd3c7306369e8e54f9521058b1b4df77a&req=dSMuHsx9m4BcUfMW1HO4zR5xD%2FKD%2BgsTP1RF3m7g5AT%2BcOxhixirq6AawiN%2B%0AbsoGVOJ8DGbAGIkxzA0%3D%0A
+
+---
+
+Frequently Asked Questions
+
+Q: Will this change how I search within reports?
+
+- A: The core functionality remains the same, but the improved logic provides more precise and relevant results.
+
+Q: Who do I contact if I have issues?
+
+- A: Our support team is available to help if you need further support. Please reach out through the blue chat bubble for assistance.
+
+Q: My report is empty, but I previously had a saved search term. What should I do?
+
+- A: If your report appears empty, try reapplying your saved search term within a column filter. Click the filter icon next to a column, enter your search term, and click the filter button to refine your results.
+
+Q: I used to be able to search for terms in my private notes using the search bar. What changed?
+
+- A: To improve the accuracy of your reports, the search bar no longer includes private note search terms. Instead, you can search for private note terms directly in the notes column of your report.
+
+Q: What happens if I use both the search bar and a column filter to search for different terms?
+
+- A: If both search terms are found within a job, your report will filter results based on your selected criteria.
+
+---

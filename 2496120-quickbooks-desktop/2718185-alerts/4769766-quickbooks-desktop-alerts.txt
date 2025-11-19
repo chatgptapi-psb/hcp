@@ -1,0 +1,558 @@
+QuickBooks Desktop: Alerts
+Source: https://help.housecallpro.com/en/articles/4769766-quickbooks-desktop-alerts
+Author: Nate H
+Last updated: Updated over a year ago
+
+Summary: Learn what causes QuickBooks Desktop alerts in Housecall Pro and how to resolve them.
+
+Overview
+
+The following QuickBooks Desktop alerts are the most common we see here at Housecall Pro. In this article, we'll go over each of these alerts so you can learn what causes them and how to resolve them when they occur.
+
+Our goal is to help you navigate these alerts with ease and keep your Housecall Pro and QuickBooks Desktop integration running smoothly.
+
+---
+
+Reprocessing QuickBooks Desktop Alerts
+
+After you have fixed any issues that could cause an alert in your QuickBooks Desktop Alert Center, you may need to reprocess the alert. This is to ensure that the sync between Housecall Pro and QuickBooks Desktop is able to be completed.
+
+To reprocess QuickBooks Desktop Alerts:
+
+- Click on the QuickBooks icon in the top right of your Housecall Pro navigation bar to be directed to the QuickBooks Alert Center.
+
+[Image] https://downloads.intercomcdn.com/i/o/1183338818/59e0ee1a76ff88edf47d296d/QBAlertCenterIcon.png?expires=1763568000&signature=acc3efc591852488cdc61eeec2a6c9019d1840342d4499aeb107b70961a0b5b9&req=dSEvFcp9lYleUfMW1HO4zeq8NwhcTdwnCz6bYdjiB1EaM8r%2F%2F2rgsPoWDKkT%0A974YLGq2XF%2B3tuoLnBY%3D%0A
+
+- Hover your mouse over the alert that you need to reprocess, and two icons will appear on the right side of that alert.
+
+- Click on the Reprocess button. - The Reprocess button is the icon on the left that looks like a circular arrow rotating clockwise.
+
+[Image] https://downloads.intercomcdn.com/i/o/1183338814/7b6712aafa07fb1066861fae/DisplayName2.png?expires=1763568000&signature=4a9883e6b7467caf779829dc534cd6e00ac68d1e94df668db665b2f190850ff1&req=dSEvFcp9lYleXfMW1HO4zeNW5R6re1EEqAbnLAGR0oEt8Kk42IPyRixBXuDW%0Ajax7IULN0ld%2FJiYUszg%3D%0A
+
+- You may be prompted to provide additional information depending on the type of alert you are reprocessing. 
+​
+- Once you have clicked the Reprocess button and dealt with any pop-ups, the alert will disappear from your QuickBooks Alert Center. 
+​
+- Next, open QuickBooks Desktop and run the QuickBooks Web Connector (QWC) to allow the fixes you made in your Housecall Pro account to sync over to QuickBooks Desktop. 
+​ - If this step is not completed, the alert will continue to pop up in your Housecall Pro account. 
+​
+- Once you have finished running the QuickBooks Web Connector, you'll need to go back to Housecall Pro and refresh your screen. 
+​
+- After refreshing, the alert should not pop back up. If it does, the alert was not fully resolved and further action is needed. 
+​
+
+---
+
+Alert: "The Name (Customer Name) of the List Element is Already in Use"
+
+This alert can occur for the following reasons:
+
+- Your QuickBooks Desktop is not in Single-User Mode. 
+​
+- When you attempt to export files from Housecall Pro to QuickBooks Desktop when there are multiple users active in your QuickBooks Desktop company file. 
+​
+- You are attempting to export a customer to QuickBooks Desktop that shares the same name as a vendor, employee, or another customer in your QuickBooks Desktop company file.
+
+[Image] https://downloads.intercomcdn.com/i/o/1159008384/173c6165483e0fc808dea445/Alert+-+List+Element+in+Use+.png?expires=1763568000&signature=76264f608f2d8c7a18b4ebea1860cd2c2d7e66a8fa302e5a58211f085cf0f42c&req=dSEiH8l%2BlYJXXfMW1HO4zReuh30%2BakgA5odMH8OfYKFVyL5sbfKU0ciMt%2Bs7%0AqdY6scLx%2Fd2Z41YMvWw%3D%0A
+
+To resolve this alert:
+
+- Ensure that your QuickBooks Desktop is in Single-User mode. 
+​
+- Verify that the computer accessing QuickBooks Desktop is the main computer that the QuickBooks server is being hosted from. 
+​
+- Check to see if the Customer Profile you are exporting shares a name with either a vendor, an employee, or another customer in your QuickBooks Desktop company file.
+
+Switch QuickBooks Desktop to Single-User Mode
+
+To switch QuickBooks Desktop to Single-User Mode:
+
+- Open your QuickBooks Desktop company file and click 'File' in the toolbar at the top of your screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160031579/57c66701c8d07141d9ef6645/Single-user1.png?expires=1763568000&signature=75c53492d5919f0070538b0b315cb69453a00370aeba04f1a9dd545350cdfdae&req=dSEhFsl9nIRYUPMW1HO4zeuDEqnK5lrjwfNmhQFlak7hx02Z8ZjgqyqnsuMk%0AYSh2kVwRznX9mgL8nD0%3D%0A
+
+- Next, select 'Switch to Single-user Mode' from the drop-down menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160032458/ba3134912744d6e014e57905/4ba46008-c5ab-4397-a689-3b8e2c65834f.png?expires=1763568000&signature=bb3144c23378c45f990a271062ba0dabeca8854f07626e422d714b9a2e384232&req=dSEhFsl9n4VaUfMW1HO4zaLpWastYiUpLm3kwEREE1CRzBzS%2FSTCqevDlKDZ%0AG9jkwUoEIZXi5xYaoMw%3D%0A
+
+- Once QuickBooks Desktop has been successfully placed in Single-User Mode, you can reprocess the alert in the QuickBooks Alert Center within your Housecall Pro account. The alert will then be removed, and the invoice will sync over to your QuickBooks Desktop company file.
+
+- If the problem persists, check to see if the exporting customer shares a name with a vendor, employee, or another customer in your QuickBooks Desktop company file.
+
+Change an Employee's Name in QuickBooks Desktop
+
+To change the name of an employee in QuickBooks Desktop:
+
+- Click on 'Employees' in the toolbar at the top of your QuickBooks Desktop company file, then select 'Employee Center' from the drop-down menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160035236/3cbfe31557843590129785ff/EmployeeName1.png?expires=1763568000&signature=6a868a34179511d9a61a052a585b34cc87f5ed9d6103227329e584e49187352e&req=dSEhFsl9mINcX%2FMW1HO4zf1NI8gBGz4O%2BaeHhaTmB%2F7rRuAeb9LcQITLJLJQ%0AVlnvIaorismVgWJoX%2Fs%3D%0A
+
+- Select the correct employee and click on the pencil icon to the right of "Employee Information" to edit.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160035703/bf6b297cd88897eac479226e/EmployeeName2.png?expires=1763568000&signature=eef6bc6ed8df54b90b260a0e62fb7bb7ec20d82763af69ef8ff7e369dfe01c7a&req=dSEhFsl9mIZfWvMW1HO4zY6v30QT2yIYPBjYN0%2FRtlwkybxrSzgZqVtHsVS8%0AhLGoxRbwVVEBbhcZodc%3D%0A
+
+- Make changes to the "First Name" and/or "Last Name" fields as needed, then click the 'OK' button at the bottom of the "Edit Employee" window.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160036130/3fac273694c3ff6f866e06de/EmployeeName3.png?expires=1763568000&signature=42ab80a927e2d16f4ff0345213e1fef1153235ac8a279513b07023d912117442&req=dSEhFsl9m4BcWfMW1HO4zfFujD0E9a21XbdnlG9QtcYL%2FFI0ufXen9qQYDMQ%0AwlbUGRjul9wW57oj6SQ%3D%0A
+
+Change a Vendor's Name in QuickBooks Desktop
+
+To change the name of a vendor in QuickBooks Desktop:
+
+- Select 'Vendors' from the QuickBooks Navigation Menu on the left side of your screen to access your Vendor List.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160037159/2a6dbd7b71a4e0c4144df6d4/VendorName1.png?expires=1763568000&signature=76f795268503f7503cc8646ffb1afdec41b619336126c4facc5fa3211477a714&req=dSEhFsl9moBaUPMW1HO4zaw6hO0ohGycp6obEieVUTcrawfGLrLVIJpDLxcV%0ANhDHND2%2B9pIjnpqC%2BGo%3D%0A
+
+- From the Vendor List, double-click on the vendor whose name you need to change. This will pull up the "Edit Vendor" window.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160039777/b036782d8898ebb017257573/VendorName2.png?expires=1763568000&signature=1d242ad8be55b21830d41d101ff8242ea0984417159e0a020ac3be51d0e62531&req=dSEhFsl9lIZYXvMW1HO4zfLGGHQI8lQqDHch7i1qOc%2F9agnPOuLHY8ZLEzkP%0A7b%2Bf73W1Rn2z5dn60vs%3D%0A
+
+- Change your vendor's name as needed in the "Vendor Name" field, then click the 'OK' button at the bottom of the window.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160041031/6104bd8d930dd4a4cd733ac9/VendorName3.png?expires=1763568000&signature=76f9d00a47749b4eee10a6b4e78b76cdf0dfc659f8f5769f99335c07c1a14f3f&req=dSEhFsl6nIFcWPMW1HO4zUb9Nu49Yq46qN8VYY4XWIZ2xS2lfa%2BwL%2B8JlOYd%0AmbhlOfTdY827n%2Bwb%2F34%3D%0A
+
+Change the Customer Name in Housecall Pro
+
+To change the name of a customer in Housecall Pro:
+
+- Navigate to your Housecall Pro account and click on 'Customers' from the navigation bar at the top of your screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160049670/498cc925e5cb702103769c8c/CustomerName1.png?expires=1763568000&signature=21d850748a91b6358d54e8693eec9115deda550637746b48ecba720318fbd75d&req=dSEhFsl6lIdYWfMW1HO4zcSrjd41Cqo%2BhKGo4fqm1ZDuh0F04a5rm%2BofXxVr%0A8O7J0HmkZie7SQapCs0%3D%0A
+
+- Use the search bar on the "Customers" page to type in the name of the customer who needs to be modified. 
+​
+- Press enter on your keyboard to search, then click on your customer's name to open their Customer Profile page.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160053167/6f221b023bdc2e63ff36f70d/CustomerName2.png?expires=1763568000&signature=f7616224ec713008dfbc276c9159496174d1fe52caaac9aeeff0184be8dc49e2&req=dSEhFsl7noBZXvMW1HO4zQjXUWVPHG9%2FRQmndcW%2B656pCDYX2uYbyfKKE0X2%0AJYlnuvBDIGpEGYsZBks%3D%0A
+
+- Click on the pencil icon in the "Contact Info" section to edit your customer's information. ​
+
+[Image] https://downloads.intercomcdn.com/i/o/1160062367/9d53647101796b81481d8661/CustomerName3.png?expires=1763568000&signature=3646476030ea014e96f2001ae43e4eecae93de1022b6ad29766c725cdd68bdf2&req=dSEhFsl4n4JZXvMW1HO4zff7okKazXodNUtyNkRo3KLWtm5aWcT66%2FxxPh8Q%0AAA8XfO6f9JKpZvk5V1U%3D%0A
+
+- Type a new name into the 'Display Name' field, then click on the 'Update' button in the bottom right corner of the "Edit contact info" window to save the changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160066141/222029e56658e8cce38e8614/CustomerName4.png?expires=1763568000&signature=d4877139b950ac7227d9c078e563cf499a264af84b61d9c0645e72a10b33fede&req=dSEhFsl4m4BbWPMW1HO4zbF99vtGKdagpmuW4uaMmzK8L9dARkV6kR3VBeg0%0Au5IrHYiEuGEGAT2hu74%3D%0A
+
+---
+
+Alert: "There was an Error when Saving a Customers List, Element... Customer Already Has Job Information"
+
+This alert occurs when the customer profile in QuickBooks Desktop has information stored under the "Job Info" tab.
+
+[Image] https://downloads.intercomcdn.com/i/o/1159027424/743b905410fa583b0f061243/Alert+-+Customer+Already+has+Job+Information.png?expires=1763568000&signature=b1f3bcc20c89f7ee55ad1fcf2c4cbda642ce93747ce40d0e8ab492aca6f0a0ce&req=dSEiH8l8moVdXfMW1HO4zTs4zClsh%2FccxQZciI57JccfWjB%2F1TqLxGrUmm38%0ARRlMlYilzm4PX%2FBa2iY%3D%0A
+
+To resolve this alert:
+
+- Open your QuickBooks Desktop company file and click on 'Customers' from the toolbar at the top. Then, select 'Customer Center' from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/1159029342/7ed969609041fed1f5dc4d58/ecfec078-6918-40c7-80c0-508aac25795f.png?expires=1763568000&signature=79cb8485f37ca1b9676d15fa886526b12c4b7d9727c6b1485f4621b3ea77220b&req=dSEiH8l8lIJbW%2FMW1HO4zZnGvxKDyUEDp2yKiI0qZ5XJL54U7WiHKAG6Q2Ye%0A3%2B9FNL5CZDPUHr5QTdg%3D%0A
+
+- Double-click on the customer's name to open their profile and click on the "Job Info" tab on the left side of the screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/1159029974/beecc7069d4b9c212a389d67/d4231e1a-f098-4333-8682-38171d26087a.png?expires=1763568000&signature=f57c985acdc2a218fb5fd63bcf38b027b36b534d33aa5a3528eaa7ab7ee8de9a&req=dSEiH8l8lIhYXfMW1HO4zfilPM0MUuA9fKyc5E%2Brjhq0g66lYHtRhbDy4dz8%0A%2FGjhZ4RHyv11o4DSJSs%3D%0A
+
+- Clear all fields and ensure that they are empty.
+
+[Image] https://downloads.intercomcdn.com/i/o/1159030194/63a681c960f58d5ef1e2fcac/4a64b536-e3cc-41a9-976e-ac95808748ba.png?expires=1763568000&signature=0875ba5b70ded13a37590ac168ca64eff7f68cc8d88972d662353e5536e50538&req=dSEiH8l9nYBWXfMW1HO4zaQEmUeg374lVuZI2ln%2F%2B%2FtRiKEJepvfJW9f1dGo%0AERFRbjwiU11WDyGVdmo%3D%0A
+
+---
+
+Alert: "Name Already Taken"
+
+This alert occurs because a Customer Profile you created shares the same name in QuickBooks Desktop as another customer, vendor, or employee. 
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/1158944631/4ec1bd0838e1d1b80657e8aa/ebbcfc7b-928f-44c8-bb99-6a38ebba0839.png?expires=1763568000&signature=47fc9b75e8106c4af3fcefac1e13f80bcee70076e6260ba40c0c73fff3f8b80b&req=dSEiHsB6mYdcWPMW1HO4zVqCnUT4MjUWhHV%2B2QXsxt4zPpYXo%2Bkl2e%2FewaxJ%0AhT%2BPMjy2pxx9rwzN9pU%3D%0A
+
+To resolve this alert, you can:
+
+- Change the Display Name of one of the customers.
+- Merge the Customer Profiles (if the alert is for a duplicate customer).
+- Change the name of your Vendor.
+- Change the name of your employee.
+
+Name Shared with Another Customer: Change Customer Display Name
+
+To change a customer's Display Name:
+
+- Select 'Customers' in the navigation bar at the top of your Housecall Pro account.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160080811/07d2edfe131fe555a14078f1/CustomerName1.png?expires=1763568000&signature=dfe7d523447419cef8a2d01fa2051b73c354908def8c21abe6f85c0ede419ac1&req=dSEhFsl2nYleWPMW1HO4zRQ58ec8WU%2Ft4IrE%2FohOT5kKO4kNmXqow3eo2SYl%0AodRfMKALqY3tpxZfD5U%3D%0A
+
+- Use the search bar to type in the name of the customer who needs to be modified, then click on the customer's name to open their Customer Profile.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160082917/69970da15bf2d0fd1a71d2ed/CustomerName2.png?expires=1763568000&signature=87fefb835043513f098c4f391d77bec5d699b73ba792d7ab10854bd764573add&req=dSEhFsl2n4heXvMW1HO4zWf4P8AdP7t%2F%2BCW58y6%2F9rz1PdlRUrTCZP%2BsXd%2Ba%0AF9Dl1kQZGEsej7KUwGQ%3D%0A
+
+- Ensure that you are on the 'Profile' tab and click on the pencil icon next to "Contact info" to edit your customer's information.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160084058/4d27c0f39ec5b98b55889b8c/CustomerName3.png?expires=1763568000&signature=0350de80b834f9ac6f5f3fbe0c5898c939ed8ed93f19afafb4292e866ebcc101&req=dSEhFsl2mYFaUfMW1HO4zcSlUuRf28Df3i3MUqlqfg%2Fi0JoLQGZCgYHTLwnK%0ALvBzCO99SbnLrhnHTGs%3D%0A
+
+- The "Edit contact info" window will pop up, where you can type a new name into the "Display name" field. 
+​
+- Once you have changed your customer's Display Name, click the 'Update' button in the bottom right corner of the window.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160084478/c2f62c65d248a2fe351e1925/CustomerName4.png?expires=1763568000&signature=0725786031d5aceba9128f9c2a285a1c1ab365d8dca7f017b5e5ecd7f1d2165d&req=dSEhFsl2mYVYUfMW1HO4zQPmpPTDPGJ6ehdqfWzmHKRTTh3fKbGPyV18NiFq%0ARwgZHQFe7sxufoQkDvc%3D%0A
+
+Name Shared with Another Customer: Merge Customer Profiles
+
+To merge Customer Profiles:
+
+- Select 'Customers' in the navigation bar at the top of your Housecall Pro account.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160086678/61dd194a71f0da623a820c4e/CustomerName1.png?expires=1763568000&signature=f2d97ce8e5df8411dcdaa080a12a84b006a0b3bab29880fe10a91e78105d5fa3&req=dSEhFsl2m4dYUfMW1HO4zWW7HrGroPImbfCIga9SSYqFrOi8XgIYPhJHpX4c%0A0guhRKz5WoxhpZab6PI%3D%0A
+
+- Ensure that you are on the "Customers" tab and use the search bar to type in the name of the customer who needs to be merged. Then, press enter on your keyboard to search.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160104556/6804106aeddef9b626ef684b/MergeCustomers1.png?expires=1763568000&signature=57672f8ee71adb55d50a821e2f38b5fcf49781ade3c34112c196a0784ff7b2f1&req=dSEhFsh%2BmYRaX%2FMW1HO4zWLl0Ck1UZD0UndlPuo6NIDRdKF19rkZJZtSLrYt%0Av85pi94ooWzZ0rDTpJI%3D%0A
+
+- Check the boxes to the left of the customer Display Names for each duplicate Customer Profile.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160104813/b51a3b7fc108074d3b4bd84b/MergeCustomer2.png?expires=1763568000&signature=7a63e77a3fd0735c06c8b8cfc1fbbe66e97584d8dc10b7255d89ddab4da32d83&req=dSEhFsh%2BmYleWvMW1HO4zTWrEbQ79iemNqOc0zkT7ftUEmYJfLLBpMYxvtDw%0AR7tBxFMVzkpadrVYRUQ%3D%0A
+
+- Click the 'Bulk Actions' button on the right side of the "Customers" page, then select 'Merge customers' from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160105109/74b7602de01545bd9cbd5b4a/MergeCustomers3.png?expires=1763568000&signature=1350a4963ad9c1d5cb924095402fd7f1c8d7815ed6595d5c88f0fb934d538e03&req=dSEhFsh%2BmIBfUPMW1HO4zQt3qAP8nK3%2BqOK2%2BfZF%2B43dkLKdlezD5a3IKrB7%0AzSlX45ERLxrrDzzHT0c%3D%0A
+
+- The "Merge customers" window will pop up for you to confirm the information to be merged. 
+​
+- You can click on the 'Mobile number' and 'Email' fields on this screen to ensure that the correct information is selected for the merged Customer Profile.
+
+- Once confirmed, scroll to the bottom of this window and click on the blue 'Merge Customers' button on the right. 
+​
+- Another window will pop up on your screen to verify the change. This window advises that credit cards attached to active customer Service Plans will not be merged and that customers cannot be unmerged. 
+​
+- To continue with merging the Customer Profiles, click the blue 'Merge Customers' button in the bottom right corner of this window.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160137046/6f91c98d73318d8ca7349e28/MergeCustomersGIF.gif?expires=1763568000&signature=047af11f8728b37f76456c5c9700b6d8055144772383641649e266e09c6de0a1&req=dSEhFsh9moFbX%2FMW1HO4zZevfSVs6vXGYYzN%2BJRYDjGBKOy1iPP4XTVnPlyD%0AOihWiMzjm778CSxP2Xg%3D%0A
+
+​
+
+Name Shared with a Vendor
+
+To change the name of a Vendor in QuickBooks Desktop:
+
+- Open your QuickBooks Desktop company file and select 'Vendors' from the QuickBooks Desktop navigation menu on the left.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160159640/110749b5db350b6ee73a27a0/VendorName1.png?expires=1763568000&signature=e185d5000a20f05dc19250ccdf7b18b5ebccbc820007d171f163a181a773a9df&req=dSEhFsh7lIdbWfMW1HO4ze7oAFC0xUyDe0b7gUktsljN%2F6M5TZ3INO3u2xpb%0AuAKc%2BOfb1eJsLXZjr%2Bc%3D%0A
+
+- From the "Vendors" tab, double-click on the vendor whose name you need to change. This will pull up the "Edit Vendor" window.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160039777/b036782d8898ebb017257573/VendorName2.png?expires=1763568000&signature=1d242ad8be55b21830d41d101ff8242ea0984417159e0a020ac3be51d0e62531&req=dSEhFsl9lIZYXvMW1HO4zfLGGHQI8lQqDHch7i1qOc%2F9agnPOuLHY8ZLEzkP%0A7b%2Bf73W1Rn2z5dn60vs%3D%0A
+
+- Change your vendor's name as needed in the "Vendor Name" field, then click the 'OK' button at the bottom of the window.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160041031/6104bd8d930dd4a4cd733ac9/VendorName3.png?expires=1763568000&signature=76f9d00a47749b4eee10a6b4e78b76cdf0dfc659f8f5769f99335c07c1a14f3f&req=dSEhFsl6nIFcWPMW1HO4zUb9Nu49Yq46qN8VYY4XWIZ2xS2lfa%2BwL%2B8JlOYd%0AmbhlOfTdY827n%2Bwb%2F34%3D%0A
+
+Name Shared with an Employee
+
+To change the name of an employee in QuickBooks Desktop:
+
+- Click on 'Employees' in the toolbar at the top of your QuickBooks Desktop company file, then select 'Employee Center' from the drop-down menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160035236/3cbfe31557843590129785ff/EmployeeName1.png?expires=1763568000&signature=6a868a34179511d9a61a052a585b34cc87f5ed9d6103227329e584e49187352e&req=dSEhFsl9mINcX%2FMW1HO4zf1NI8gBGz4O%2BaeHhaTmB%2F7rRuAeb9LcQITLJLJQ%0AVlnvIaorismVgWJoX%2Fs%3D%0A
+
+- Ensure that the correct employee is selected and click on the pencil icon to the right of "Employee Information" to edit.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160035703/bf6b297cd88897eac479226e/EmployeeName2.png?expires=1763568000&signature=eef6bc6ed8df54b90b260a0e62fb7bb7ec20d82763af69ef8ff7e369dfe01c7a&req=dSEhFsl9mIZfWvMW1HO4zY6v30QT2yIYPBjYN0%2FRtlwkybxrSzgZqVtHsVS8%0AhLGoxRbwVVEBbhcZodc%3D%0A
+
+- Make changes to the "First Name" and/or "Last Name" fields as needed, then click the 'OK' button at the bottom of the "Edit Employee" window.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160036130/3fac273694c3ff6f866e06de/EmployeeName3.png?expires=1763568000&signature=42ab80a927e2d16f4ff0345213e1fef1153235ac8a279513b07023d912117442&req=dSEhFsl9m4BcWfMW1HO4zfFujD0E9a21XbdnlG9QtcYL%2FFI0ufXen9qQYDMQ%0AwlbUGRjul9wW57oj6SQ%3D%0A
+
+- After the necessary changes have been made to either the customer, vendor, or employee, you can reprocess the alerts in the Alert Center of your Housecall Pro account.
+
+- Once the alert has been reprocessed, the customer will sync over and the alert will be resolved.
+​
+
+---
+
+Alert: "Display Name Conflict"
+
+This alert occurs when an invoice is created in Housecall Pro for a duplicate customer and is sent to QuickBooks Desktop.
+
+[Image] https://downloads.intercomcdn.com/i/o/1159031930/0886ebc1b3b1dd9f8824934e/Alert+-+Display+Name+Conflict.png?expires=1763568000&signature=07bd0430a7ac57b2c6f4a815d41b8ff6de621a49f8d07b7d6989fe6fabddbac4&req=dSEiH8l9nIhcWfMW1HO4zcI4xbFVNn8xmwBL0PUk%2BbwdjgwGA1NF%2FGEHzfEB%0AWRmbkYSgyyBQmtyLTok%3D%0A
+
+To resolve this alert, you can either:
+
+- Change the name of the customer whom the invoice was created for, or
+- Merge the Customer Profiles if they are duplicates.
+
+Change the Customer's Name
+
+To resolve this alert by changing the customer's name:
+
+- Select the QuickBooks icon in the top right of your Housecall Pro navigation bar to access the QuickBooks Alert Center.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160433376/23ee4ab7606e1794a6466114/QBAlertCenterIcon.png?expires=1763568000&signature=9a487fd9eada7dd41ef7c412d6526a0de0f46fa1ecdbf2879775dc27e0792f7d&req=dSEhFs19noJYX%2FMW1HO4zTphnNx3zbinA3jqh8Ev9kBPN7A2xJEpSEZtWvJd%0AuLXn5kVnnuM2v%2BAFy60%3D%0A
+
+- Hover your mouse over the alert, and click on the 'Reprocess' button that appears. The 'Reprocess' button icon appears as a circular arrow rotating clockwise.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160173005/b6ce031c3fdf4022ff0d7e91/DisplayName2.png?expires=1763568000&signature=8c6ae4a6dee57d9c13900b57250bea769a03fb0f326b89afeb5400b4b399ee65&req=dSEhFsh5noFfXPMW1HO4zRrmUPwJAFv2Y%2BhCfA77XkG%2BsrHV1WIrT2QvB8Q2%0AodNEbMAWV3EoMUAzl3Q%3D%0A
+
+- Rename the customer in the “Rename customer” field, then click the 'Rename Customer' button.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160173627/1ed1f284d820385276286eed/DisplayName3.png?expires=1763568000&signature=b0e00ef0c8c3ca0a2655ee653f56b12297bfba3c0f24b54ae213668e7c7cd3df&req=dSEhFsh5noddXvMW1HO4zZ3X6gDoNODHiOm6dpUeLDg3zYXkmTFFe4B6LAGK%0A80XzBBVFXSAF2rBbmNg%3D%0A
+
+Merge Duplicate Customer Profiles
+
+To resolve this alert by merging duplicate Customer Profiles:
+
+- Select the QuickBooks icon in the top right corner of your Housecall Pro navigation bar to access the QuickBooks Alert Center.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160341389/1ec743bf78f73728fc903cfb/QBAlertCenterIcon.png?expires=1763568000&signature=cbdf8c8e98fd7ca2c1544a4fe8f2ad12eb0bc42fe05648d6ba88ea95e27a3f2c&req=dSEhFsp6nIJXUPMW1HO4zUZnZug%2BONJ2g1y5PnM53mNlJi4Zr6uyk0JKwKby%0Af1Lrub24ch3RZVZUons%3D%0A
+
+- Hover your mouse over the alert, and click on the 'Reprocess' button that appears. The 'Reprocess' button/icon appears as a circular arrow rotating clockwise.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160176377/f38bb672ac5bc080fb637d69/DisplayName2.png?expires=1763568000&signature=633dcb10e782c4996e9973b1050ca54173d061a9d6ae1b3fb80235d385532505&req=dSEhFsh5m4JYXvMW1HO4zcSxw52OXqzSz1j1dgqszlB%2FpvMiUrzPftNMpxkE%0ANREOvTMJB3oHQysXEMw%3D%0A
+
+- Click on the 'Go to Customers Page to Merge' button.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160183469/dfda3eddffe3491a12893966/DisplayName4.png?expires=1763568000&signature=e2f19893d8bb32e536c4dfe2a41df7d0a8e1d14ac7d97597b8f337b4b7399383&req=dSEhFsh2noVZUPMW1HO4zfPIf0ZquJy3YmIjxF7EoKUtGvy8pT9ORYoGt93v%0AvozqXXpJ3RTQN%2FHXWf4%3D%0A
+
+- Type the name of your customer in the search bar of the "Customers" page and press enter on your keyboard to search.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160347772/fc40db3e786f03c629c8cbbe/MergeCustomers1.png?expires=1763568000&signature=89f48143564e0b3c97c0327fd7614349516bf76711ac404568873cf2a2a6ff9f&req=dSEhFsp6moZYW%2FMW1HO4zQAn%2Ffk%2BITGj6YSafembzGtCiRlfkh5PXgenuFZ%2B%0Ab2yWvnd5W70qTTSOlFk%3D%0A
+
+- After verifying that these are duplicate Customer Profiles, check the boxes to the left of each one.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160348220/d6bfffdcaa6f3a455e55ab31/MergeCustomer2.png?expires=1763568000&signature=5491895e9635e477a4fd2eec3a54db5780534fb597f8170581d77cb26e2e2dae&req=dSEhFsp6lYNdWfMW1HO4zRXGa15pN3FZhO9QY9qhzlzvHiEBZumQulkNBxm7%0AAcoEUJGMSFGjdsknKKU%3D%0A
+
+- Click on the 'Bulk Actions' button on the right side of the page, then select 'Merge Customers' from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160350243/665dd1fbbb071fffb6d69d48/MergeCustomers3.png?expires=1763568000&signature=da03bfe9a0307fa632e7d4e64b376d492bedf471dd07dfc4b43435fd8273ca1c&req=dSEhFsp7nYNbWvMW1HO4zcoE%2Fer%2Fngq07kHe0Kuzj54C0WnsQkdo%2Fhd41A4M%0Am4RwcOjER7RUIJs6LGI%3D%0A
+
+- The "Merge customers" window will pop up for you to confirm the information to be merged. 
+​
+- You can click on the 'Mobile number' and 'Email' fields on this screen to ensure that the correct information is selected for the merged Customer Profile.
+
+- Once confirmed, scroll to the bottom of this window and click on the blue 'Merge Customers' button on the right. 
+​
+- Another window will pop up on your screen to verify the change. This window advises that credit cards attached to active customer Service Plans will not be merged and that customers cannot be unmerged. 
+​
+- To continue with merging the Customer Profiles, click the blue 'Merge Customers' button in the bottom right corner of this window.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160137046/6f91c98d73318d8ca7349e28/MergeCustomersGIF.gif?expires=1763568000&signature=047af11f8728b37f76456c5c9700b6d8055144772383641649e266e09c6de0a1&req=dSEhFsh9moFbX%2FMW1HO4zZevfSVs6vXGYYzN%2BJRYDjGBKOy1iPP4XTVnPlyD%0AOihWiMzjm778CSxP2Xg%3D%0A
+
+---
+
+Alert: "The string (Invoice Number) in the field 'RefNumber' is too long"
+
+This alert occurs when you have created an invoice number in Housecall Pro that exceeds the character limits for that field in QuickBooks.
+
+[Image] https://downloads.intercomcdn.com/i/o/1159038707/b298d625e33edd606457c620/RefNumber+Too+Long.png?expires=1763568000&signature=45518951617e19ee02b6653d29769a7019c983968f8965b4216215c67de352b1&req=dSEiH8l9lYZfXvMW1HO4zbuU2vlxHm37p%2FkwQ%2FVKjsqkedLQFxlkHjxCb6bS%0A%2BHmFYsV9xWz8nZf2mD0%3D%0A
+
+To resolve this alert, you can follow these steps to shorten the invoice number in Housecall Pro so the number fits within the character limits:
+
+- Click on the QuickBooks icon in the top right corner of your Housecall Pro navigation bar to access the QuickBooks Alert Center.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160366043/dad1e91d2ca8b9a05910cadd/QBAlertCenterIcon.png?expires=1763568000&signature=4354d3e70c59b86bf6c400ec6d7d17098e5acdda60025cd3c2ac2d8133eb4069&req=dSEhFsp4m4FbWvMW1HO4zdbSXwZ%2FoB89vEPE7eo8zsorIK3Ix94uYGUiER0D%0AEhRCXbMT8aqwStlPI7w%3D%0A
+
+- Click on the alert to navigate to the invoice.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160366931/e8f1199d01203bcb5a400884/RefNumber2.png?expires=1763568000&signature=306dbddba662feeb1ad92bd987bee4196fd93c9fe6d97ae14cdddb377164c468&req=dSEhFsp4m4hcWPMW1HO4zT40hJxOaNo1znBQQpzSE3B5JbMyfYy%2F5odC4hmg%0AFdXATl7w1cz6hg1e4rA%3D%0A
+
+- Click on the invoice number to open the "Invoice number" window.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160370902/48da0f386a505cacafa8598a/ChangeInvNumber.png?expires=1763568000&signature=36ca096873784d55d1ffaf57567987f426e0ef420ccda596a572806db6276336&req=dSEhFsp5nYhfW%2FMW1HO4zXx1BEr47lQYanvR3uNHRSA5%2BVAC5LzgPLnq6s8h%0AwF%2BC2sqD5EDXbvvtS0A%3D%0A
+
+- Enter the new invoice number in the 'Set Invoice Number' field. The new invoice number should be 11 characters or less to meet QuickBooks character limits. 
+​
+- Once you've made your changes, click 'Save' to finalize.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160371097/9086bbb0f6e551f185c1982e/ChangeInvNumber2.png?expires=1763568000&signature=2cb4d970aa6c30347f83a3c4a40124273f419fe7bbb0b40027c481f28bd57f93&req=dSEhFsp5nIFWXvMW1HO4zRQz%2Bdp%2FOsmdBJsMN61Fr8UYDznLDW1BjTVm9X5T%0Ak%2FAVyTiv7ZvnGtHBs7E%3D%0A
+
+- After the invoice number has been shortened, you can reprocess the alerts in the QuickBooks Alert Center within your Housecall Pro account. 
+​
+- Once the alert has been reprocessed, the customer will sync over and the alert will be resolved.
+
+This chart lists all character limits for each field:
+
+Table:
+Row 1: Field | Maximum characters | Note
+Row 2: Account Name | 31 |
+Row 3: Account Numbers | 7 |
+Row 4: Amount | 20 |
+Row 5: Custom Fields (items) | 30 |
+Row 6: Customer message (Invoices) | 101 |
+Row 7: Customer, Vendor and Other Names | 41 |
+Row 8: Item name | 31 | Item name may contain special characters but it is recommended that the first character not be a special character.
+Row 9: Employee Name (first and last) | 25 |
+Row 10: Item Description (Invoices) | 4095 |
+Row 11: Item Part number | 31 |
+Row 12: Job Description | 99 |
+Row 13: Memo | 4095 | While the Memo field can contain 4095 characters, only 30-60 characters will be displayed on printed checks depending on print settings. 96 characters will be displayed on a Transaction Detail report.
+Row 14: Note Field | 4095 | While the Notes field on the timesheet can contain 4095 characters, only 96 characters will be displayed on the Time by Job Detail report.
+Row 15: Notes in Shipping/Billing Address | 41 |
+Row 16: Username | 29 |
+Row 17: Password | 16 |
+Row 18: Ship to Name | 41 |
+Row 19: Invoice Number Field | 11 |
+Row 20: Lot Numbers | 40 |
+Row 21: Report Company Name | 60 |
+Row 22: Report Title | 60 |
+Row 23: Report Subtitle | 60 |
+Row 24: Report Extra Footer | 60 |
+Row 25: Text Box | 1000 |
+
+---
+
+Alert: "Could not sync because the customer has a ':' in its name"
+
+This alert occurs because there is a colon in either the “First Name”, “Last Name”, “Company” or “Display name” fields.
+
+[Image] https://downloads.intercomcdn.com/i/o/1159049627/727695a8ec1268f0bc9b727b/Alert+-+Could+not+sync+because+customer+has.png?expires=1763568000&signature=9e49c8148de77879b611b4ea1e5f7abef9c8581552ed8d9808b85d573748c218&req=dSEiH8l6lIddXvMW1HO4zfnzOjN8o5ugpSprSjkw48gdXkmQSpQauEyihhBN%0A719mWz3CIwP2wfPhqnQ%3D%0A
+
+To resolve this alert, find and remove the colon from the corresponding fields by following these steps:
+
+- Click 'Customers' in the navigation bar at the top of your Housecall Pro account.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160380597/b83a1feabbf239b1dc3a2ee9/CustomerName1.png?expires=1763568000&signature=5ae23ae5fe4215ee0956a2e08b463b75cb563219c0d424a6ada73baf2b05f79c&req=dSEhFsp2nYRWXvMW1HO4zVY0S1%2BPTL5hkJ1rjPEq2iHJAmOH6hbkV%2F%2F8lnW7%0AkQumSOFAxYASFNgw9oQ%3D%0A
+
+- Use the search bar on the "Customers" page to type in your customer's name. Press 'Enter' on your keyboard to search, then select the correct Customer Profile.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160459406/317fc7863b352f6ad03e7d16/CustomerName2.png?expires=1763568000&signature=cc2c85a8eecb07e1a32cc7adcf824959da257483cadcc3d43f7e855995879577&req=dSEhFs17lIVfX%2FMW1HO4zZQzrlzWTPCubuG7IPITYvdkG%2FRgbQQRvrtChjel%0AaQav81XXP%2FPQ37j7xng%3D%0A
+
+- Next, click on the pencil icon in the “Contact Info” section of the Customer Profile page.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160459844/30fd0d40f0393414b0c286a4/CustomerName3.png?expires=1763568000&signature=f5a2117cb902f4636e1b8f75ba2c8d87ebdbab86f86e9a228a17639b1f9c4ef1&req=dSEhFs17lIlbXfMW1HO4zauy6xuyQUKrMLQLLeIwhCsU4E2vI9%2Fji8SqfBzZ%0AosMOzbkOgJeKD61CAe8%3D%0A
+
+- Identify the field that includes the colon and remove it. Then, click 'Update' to save the changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160462221/802bcb4b36e745a5681355d0/CustomerNameGIF.gif?expires=1763568000&signature=a5ff208390fb3cf9bbb3e4bb5749b1e51f02f43000d4ffb2fedf4328bf88217b&req=dSEhFs14n4NdWPMW1HO4zUzPK7V2ovLfAWwBx2ItVqIKxi8RrLqd29oz5JUS%0Apa8UN8Ss4MzmYbz8LLw%3D%0A
+
+- After the colon has been removed from the customer’s name, you can reprocess the alert in the QuickBooks Alert Center within your Housecall Pro account. 
+​
+- Once reprocessed, the alert will then be removed, and the invoice will sync over to your QuickBooks Desktop company file.
+
+---
+
+Alert: "There is an invalid reference to QuickBooks Item Sales Tax 'No Tax' in the Invoice."
+
+This alert occurs when sales tax is turned off in QuickBooks Desktop.
+
+[Image] https://downloads.intercomcdn.com/i/o/1159053482/6f97ad6bc9d09b162053432d/Alert+-+Sales+Tax+No+Tax.png?expires=1763568000&signature=f4f40b3ba055990f694cb2405c2c6307cbe733ceeeeb7cae36cea02780498b60&req=dSEiH8l7noVXW%2FMW1HO4zVP9Em28ai5%2F%2FMgFFIMHLgE0orsz99%2Ftsmqt03uS%0ARsmIY%2FeZSlzUn3Ot43k%3D%0A
+
+To resolve this alert, turn on sales tax by following these steps:
+
+- In QuickBooks Desktop, click 'Edit' in the toolbar at the top of your screen, then select 'Preferences' from the drop-down menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160389468/71d9f523c93fe153fd4c8f5a/SalesTaxNoTax1.png?expires=1763568000&signature=a8be2c58ee239703f49d75ff291db3347ed12036444fbfc31b840a641f734d1e&req=dSEhFsp2lIVZUfMW1HO4zQFdm6Zvqw9fvg%2B77Du8%2B%2Fn8JUl9gmLl7ZZeUkhD%0AXeGGMH60RtgG4sUm%2Bcc%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/1160390124/6f9789285a2d6a2b4f8a6fe1/SalesTaxNoTax2.png?expires=1763568000&signature=6e326fdd48bcab21bf21e23166ef243e61c690af19ee652be8f233b1f4e66f58&req=dSEhFsp3nYBdXfMW1HO4zRu5safegY3lHVxxj3uy4nqFhZi06txjWaWqFwEk%0ABR03wKMTIr48Hcf5Qb8%3D%0A
+
+- Next, select 'Sales Tax' in the "Preferences" window and click on the "Company Preferences" tab.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160392143/ad0647c25239bf430e1b2bf7/SalesTaxNoTax3.png?expires=1763568000&signature=059f0a9cd192511ef0ed606882a509dec6c9ec982c64d7de9ed8ca70ec7258ba&req=dSEhFsp3n4BbWvMW1HO4zRXBdFrOWJFhxSFRBr8bSG4earcnWtth2%2BD5gVXx%0AQoFGNKZWY7P4E1GmrPI%3D%0A
+
+- Click the radio button to the left of 'Yes' for the “Do you charge sales tax?” prompt.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160393869/9edd65c99eff7b3f9b25df8d/SalesTaxNoTax4.png?expires=1763568000&signature=a0aa8f9be056b37905764d0a265a8569956783d16a0f04f9f815294db7b48578&req=dSEhFsp3nolZUPMW1HO4zXRUowN93qUNd4Fxvih41G7lYMmtAocHhtKYHnh9%0Ax7Yh6baUqGxJ6fhxom0%3D%0A
+
+- In the "Set Up Sales Tax Item" section, click on the drop-down bar under "Your most common sales tax item," then select 'No Tax' from the options provided.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160410934/04b5a54977ada51986767116/2ff7ac2e-8cc0-43dd-84cb-4178a125a871.png?expires=1763568000&signature=7dc449feeb0227d7497442077047769823f2ee7a5c402a129fd3d2ae6ebd2104&req=dSEhFs1%2FnYhcXfMW1HO4zZ51dX4hlHxTmHGp2hEzVBeAzZZUS0Kd0zY2BmbN%0Aag3VKa3eUUQ6JQXu%2F2s%3D%0A
+
+- If you do not have a “No Tax” item in the “Your most common sales tax item” drop-down list, you will have to create one. To do this, you can select the '' option from the dropdown.
+
+- Alternatively, you can click on the 'Add sales tax item...' button in the "Set Up Sales Tax Item" section to create a sales tax item.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160398917/93614896a7f0d10f6663f5f1/SalesTaxNoTax5.png?expires=1763568000&signature=dfcef5aab18e1b0dabc2f3289dff237cbda6a6d8c5a6ca263e69e9ab124310b8&req=dSEhFsp3lYheXvMW1HO4zbKvOnSAMfrEgAnE8j5x2mCQuritIY30TmQRW1EL%0A9sb1t064W%2Fq9ninnzgQ%3D%0A
+
+- In the "New Item" window that pops up after clicking the "Add sales tax item..." button, ensure that the "Type" is set to the "Sales Tax Item" option. 
+​
+- Once verified, type in "No Tax" in the 'Sales Tax Name' field. 
+​
+- Click the 'OK' button on the right to continue.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160400620/1724392236d676225d2c6a74/SalesTaxNoTax6.png?expires=1763568000&signature=01c521586559f449e67bb2a80fab458306ec070037f46bebd78a198a6bdbfbf9&req=dSEhFs1%2BnYddWfMW1HO4zbdk4yqqt4CEy23fTIbx%2BK21sySdIxoOqx%2BoSOJi%0AksR4z9V%2FBGSlZju5bEE%3D%0A
+
+- The "Upcoming Sales Tax" window will then pop up. 
+​
+- Ensure that the boxes are NOT checked for either option: "Make all existing customers taxable," or "Make all existing non-inventory and inventory parts taxable." 
+​
+- Click the 'OK' button in the "Upcoming Sales Tax" window, and your sales tax will be enabled in QuickBooks Desktop.
+
+[Image] https://downloads.intercomcdn.com/i/o/1160408199/7a3a54863e8b62735b585752/29217cef-fc4e-490d-9e67-b7b20cbbc9fa.png?expires=1763568000&signature=5fc4012b8995f03e581aa0fa2a0a37e0265da2a043493f56515aa4b8c2bf76d6&req=dSEhFs1%2BlYBWUPMW1HO4zUNQxCutJ6wlOsqINC1TwVn%2B9WMsNsGjU0f%2BMJHu%0AbQAaVCmedejEVS%2FJVcY%3D%0A
+
+- Once sales tax is turned on, you can reprocess the alerts in the QuickBooks Alert Center within your Housecall Pro account, and your invoice will sync over to your QuickBooks Desktop company file.
+​
+
+---
+
+How to Resolve Tip Reconciliation Issues
+
+If you're experiencing issues with reconciling your tips in QuickBooks Desktop or are receiving an alert that you can't pay more than the specified amount, we recommend dismissing the alert and building the invoice manually in QuickBooks Desktop.
+
+- You can check or make changes to your Housecall Pro/QuickBooks Desktop integration mapping by navigating to “My Apps” and selecting the QuickBooks Desktop app.
+
+- You can see the gratuity account mapping under the “Accounts” section. The account you’ve assigned for the tip line item should match the mapping for your gratuity account.
+
+[Image] https://downloads.intercomcdn.com/i/o/1183354976/76094f7f2f67766600edec41/rec5.png?expires=1763568000&signature=74f50c88f29f81398945252f69d926f7db6471af046c83f0ffd0d42e9bcedfce&req=dSEvFcp7mYhYX%2FMW1HO4zYv6jwRVaB88%2FlFBnkJVvOeVcL045DTiCT7IFskR%0AKyugtc0xBz6gh4Tjt5o%3D%0A
+
+Step 1: Create a Tip Line Item in QuickBooks Online
+
+- First, double-check to confirm you do not already have a Service for tips. If you do have this item already, skip to creating the invoice.
+​
+- Go to “Lists” then select “Item List”
+​
+- From here, right-click on your item list and click “New.”
+​
+- Select 'Service' from the Type drop-down menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/1183342112/0499c7137a7aea19ec5ab98f/rec1.png?expires=1763568000&signature=eb077189b2963790e1df047fc915c2738b35526fbc2ffcd1f54ae84bdf7ee86a&req=dSEvFcp6n4BeW%2FMW1HO4zWklog431hhwVD%2BP1HEZ%2FgVowJmAxdti9NLJIUCM%0ALKLswlWjEINHikjQhDM%3D%0A
+
+- Name the item “Tip”
+
+[Image] https://downloads.intercomcdn.com/i/o/1183342117/35fbdcad2780caa35f7ff5b5/rec2.png?expires=1763568000&signature=6604361a595b8a116502748c15a26f485d45a2cd126db74159041e05c2caee3d&req=dSEvFcp6n4BeXvMW1HO4zfsOhN5Ej6EJ1eCcP7iuPP0w3KdBpeo75V0PmO%2Fv%0Adgf2%2FEhP7ykVv05kqvI%3D%0A
+
+- Assign the item account to “Gratuity” or the account you created or assigned as gratuity when setting up your integration account mapping.
+
+[Image] https://downloads.intercomcdn.com/i/o/1183342122/b13a25583547e98a4492db44/rec3.png?expires=1763568000&signature=d58560caaf69f9af983fad4171dfb443d2ad10a344f40fbf32e381498f977579&req=dSEvFcp6n4BdW%2FMW1HO4zWIuuMdmnelj9dbH%2B7uYX6JFavpWaVz8F%2BL6I4Kr%0A%2BkxYwRifcR9vx89FAc8%3D%0A
+
+Step 2: Create the Invoice in QuickBooks Desktop
+
+- Find the invoice created by Housecall Pro in your QuickBooks Desktop.
+
+- Add Tip as an additional line item.
+
+- Set the amount paid for tip.
+
+[Image] https://downloads.intercomcdn.com/i/o/533651042/77d6aa45f96d9fcf7c0f0941/rec6.png?expires=1763568000&signature=35096f10e3023ca2d8e8d2aa45e293d641227f106e04621415e17d509b77ce23&req=cSMkEMx%2FnYVdFb4f3HP0gNV%2ByQK3sJ3aWPRpfYPqMN1YXlq4wx8DbQkNtEVe%0A3XLJb8OG%2Bc2mpL9Cbw%3D%3D%0A
+
+Step 3: Enter the Payment into QuickBooks Desktop
+
+- On the customer profile, log a new transaction.
+
+- Double-check that you’re creating a new transaction for the correct customer account.
+
+- Enter the total amount paid.
+
+- Document the date payment was taken.
+
+- Select the appropriate payment type.
+
+- Save the payment.
+
+[Image] https://downloads.intercomcdn.com/i/o/1183342116/f9684c1f5d2d71778ecd451a/rec7.png?expires=1763568000&signature=0ba731d97fc455986fa7849cece535c8614bdc2b1315495c1aea05b546a2a2f7&req=dSEvFcp6n4BeX%2FMW1HO4zalsY789o5BIWUky%2BndcLoxkki2TbKhjOy7Zp%2BrX%0AkMzkT0lvA1Q5IyIfzuw%3D%0A
+
+Step 4: Reconcile with the Bank Deposit
+
+- For Credit Card Transactions:
+​ - Generate your deposit. 
+​
+- Make sure you have accounted for the credit card transaction fees in your bank deposit on QuickBooks Desktop. 
+​
+ - You can find the transaction fee amount on the “My Money” page in HouseCall Pro.
+​
+- The deposit total should be reconciled with the amount deposited to your bank.
+
+[Image] https://downloads.intercomcdn.com/i/o/1183342115/890554bc6d620f59b3f031c9/rec8.png?expires=1763568000&signature=96cfd6345944b0ef2c83f16425f2c4fa0e36d0f39087bf1e3b69812a5c638579&req=dSEvFcp6n4BeXPMW1HO4zc7JaXA0GJthEtn%2FhbbU1zD242LsjJdrzsWklhpl%0AC1F6Z9aea6ZYNHekFOQ%3D%0A
+
+- For Cash/Check Transactions:
+​ - Generate your deposit. 
+​
+- Add the payment to your deposit.
+
+[Image] https://downloads.intercomcdn.com/i/o/1183342114/ec576f200cd9138eeb27afeb/rec9.png?expires=1763568000&signature=4e74431e44978fc25bff33269e9363ca289cc56dcb0ee114efb7d5d175f81516&req=dSEvFcp6n4BeXfMW1HO4zY3JMFvaaLhM41S2XtlgRmvDSiNsshZHqlzdaMWN%0AdOaHE9uIGbn2mC7HgI0%3D%0A
+
+---

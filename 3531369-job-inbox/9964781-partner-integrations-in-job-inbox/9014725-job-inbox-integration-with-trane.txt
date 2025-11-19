@@ -1,0 +1,44 @@
+Job Inbox: Integration with Trane
+Source: https://help.housecallpro.com/en/articles/9014725-job-inbox-integration-with-trane
+Author: Mathew H
+Last updated: Updated over a month ago
+
+Summary: Directly integrate Trane leads into your Housecall Pro account.
+
+Trane Integration Overview
+
+Trane is a trusted HVAC brand that connects homeowners with qualified service providers through its leads and marketing program. With the Trane integration in Job inbox, new leads from Trane’s webforms automatically appear in your account, complete with contact details and service requests.
+
+---
+
+---
+
+Enable the Trane Integration in Job Inbox
+
+- Click the My Apps icon (3x3 square) in the top right corner of your HCP account on web, then select the Job inbox app to view your Job inbox settings.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1689521457/96deec8a369c4a1f66eecf80be57/AD_4nXfbS3EOnF1UNrYDtYHZDekQPJlu6sGqAIYchx2cfQZpK57VNA04DyLMNGQgO55AP6ITyAPZrdvyWUjD0i8Dm2o3A5ofoSANNOlaFMUh6LPmAgfL-28jNqTIEZCo8Ivzas-xwe8y8A?expires=1763568000&signature=674b4e5e2e9eaadd919d10e79826375e584d3086300f1d4d0ce070b4f534ae2c&req=dSYvH8x8nIVaXvMW1HO4zXGL7MW0e%2B7hWe6Ruq%2Fb0RSDTchWTC6%2F0Hina5S%2B%0AT8A0dvjmbbt%2FIzu7Qm8%3D%0A
+
+- Toggle on Trane. The toggle will turn blue when enabled and gray when disabled.
+
+- Click the back arrow in the top left corner to exit the App details screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1689521466/0bff2dbd4a7ddee59914d95a3464/AD_4nXfz61oGKq5c-gSbuikw5m1g2tooTz_KiZAVe18bs0yXcrHbbvjtvXAkG220qNui7OFS4OvdTRvCNtDL7kstUktYU2ox0cvPgwSoOIrnFfzH7caCcUH1CL-tW4ES9wCzLLkmAgpj?expires=1763568000&signature=e0db74d603440746f3082d5c881b7f334d567eba6e1d7bc75ee20c4181d9b0b4&req=dSYvH8x8nIVZX%2FMW1HO4zcDcP1cduyQQz5hnlyjT8xgeStaiNjSwWir7NV%2BM%0A6hETat7j7zUf%2Bc9m%2FEg%3D%0A
+
+- Navigate to your Trane inbox by going to Inbox > Job inbox > Trane, then click Sign in.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1689521454/f43035ba89e9451aa2b4e1eddfbe/AD_4nXeFP-xzbjwYN1Nkh293ASvwrEzXeSmSEUZURjgl4ZyWepudWFTHfElwIR4S49QS-I0wUB-E2MRTU9ik4Cck-dZ8uYl0t_QqFl435AsLjUTNGEn11dhPG-Hw_bAmas_u9EsWI85yVA?expires=1763568000&signature=21e672b0989b89c9e0da37f5124e7d6018c5564015185e65a20ea11583c7a8ce&req=dSYvH8x8nIVaXfMW1HO4zTzD2OKMaKOChKc3CmODMTI8sKyuCvIVp1TEqxVI%0ApqcdDXPHJsDRqh3%2ByuI%3D%0A
+
+- You'll be redirected to Trane's website to securely authenticate your account. Follow the provided prompts to enter your Trane login credentials.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1689521456/3500896a9b8b2aa065a0866d58a0/AD_4nXcg6VAiqcszAgxtU81BGpnb0ul5NDyJUnNZR6SurfEixgw1sNWpNSQ0PZFiFkPZZ0pGBV_CyjpQIq2MwIHIDrnLD8gVJdZ9_yszrMiaTmkbhlzq5A07IaH7C-XWZdrt6GmUesaUgA?expires=1763568000&signature=189eefbdcccafa066bf65ac89d65bc86b55335bb5dc8c8a9b451f4d675935263&req=dSYvH8x8nIVaX%2FMW1HO4zbXq78GRoWjtixC2RRh0QNVUIMVmSYY8%2FrtF8C6I%0AvA23GdVqRpxRyxghXk0%3D%0A
+
+---
+
+Getting Trane Leads in Job Inbox
+
+Once the integration is set up, all new leads from Trane will be automatically created as Leads, and you'll be notified of each one by a message in your Job inbox.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1689526701/38737f90f706daeca4ef7d9a61f1/AD_4nXe_aVPP_-cnWLqpcQzQ7VhtL1XKpwLtIZikHe2AHpE2Sh7jyeapPIamftraOqatWLxKXy5NX9CIZAlVFgfp08h5frVbQk7FfJk2yb0e0ghgWli34j4s3ytXkcvLw2FeI6dp-37RPQ?expires=1763568000&signature=7449b6a27682563d4dd388ce2b72a8d1ba6783b1f4ed51dd516b945157c15119&req=dSYvH8x8m4ZfWPMW1HO4zU2XMGi%2BFfIVx7I8h5FM9PMTHqrP7W2Itjd%2FG0B9%0AuOmltsk2xHRMzQcIxf4%3D%0A
+
+---

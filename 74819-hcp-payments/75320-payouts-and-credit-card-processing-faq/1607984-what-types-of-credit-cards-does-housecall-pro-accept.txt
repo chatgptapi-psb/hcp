@@ -1,0 +1,24 @@
+What types of credit cards does Housecall Pro accept?
+Source: https://help.housecallpro.com/en/articles/1607984-what-types-of-credit-cards-does-housecall-pro-accept
+Author: Alyssa Moretti
+Last updated: Updated over a year ago
+
+Summary: Credit cards that can be processed within Housecall Pro.
+
+What types of credit cards does Housecall Pro accept?
+
+Housecall Pro wants to make accepting payments quick and easy for both you and your customer!
+
+- Stripe accepts all major credit and debit cards, and the rates remain the same whether your customer is paying with Visa, MasterCard, or American Express.
+
+---
+
+Does the rate change based on the type of card?
+
+- Whichever rate you held when you signed up with Housecall Pro will continue to be your rate for the lifetime of your uninterrupted plan.
+
+---
+
+Learn how Instapay can typically have your credit card payment in hand in less than 30 minutes.
+
+---

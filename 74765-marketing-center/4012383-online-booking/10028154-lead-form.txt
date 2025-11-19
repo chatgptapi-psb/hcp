@@ -1,0 +1,104 @@
+Lead Form
+Source: https://help.housecallpro.com/en/articles/10028154-lead-form
+Author: Kasia S
+Last updated: Updated over a month ago
+
+Summary: Capture leads directly from your website
+
+Housecall Pro Blueprint to Success Workshop
+
+If you're looking for more advice on how to effectively use Online Booking, along with other great features, register for the Housecall Pro Blueprint to Success Workshop!
+
+[Button] Register Here -> https://docs.google.com/forms/d/e/1FAIpQLScM2b6NgGEvrjkOFAZPunvol2CoR4FIIFiVgR7DmTRqgd3gQg/viewform?usp=pp_url&entry.1047718727=HCP+Help+Article
+
+---
+
+---
+
+Lead Forms Overview
+
+Lead Form allows you to capture leads from your website. This simple form can be customized in Housecall Pro settings and embedded on your website.
+
+The customers visiting your website can fill in this form, and a Lead will be created in Housecall Pro.
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/6p6moxyp38
+
+---
+
+Set Up Your Lead Form
+
+To set up your Lead form, follow these steps:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Booking from the Settings menu on the left.
+
+- Click the Lead form tab in the Booking settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1644172432/41e372ccab334f33a738d9c7482c/image.png?expires=1763568000&signature=d66647e570f03624d61752efb83509c9e3330bd7d1a0d69f6215e6d9114ac119&req=dSYjEsh5n4VcW%2FMW1HO4zeH6AQeKI0pxow6B%2F%2F0C%2FmlG%2FlLN5MpP93IHwK%2FN%0AZyJWOafwrDZNVcEU1Yo%3D%0A
+
+---
+
+Edit Lead Form Text
+
+To change the text displayed in your Lead form:
+
+- In your Lead form settings page, expand the Edit text section by clicking the arrow in the top right corner.
+
+- Click the Edit button.
+
+- When you edit the text, it will get updated in the live preview on the right-hand side.
+
+- Once you are done with the updates, click Save.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1644177438/b983291ff110eeab81387804d033/image.png?expires=1763568000&signature=613a0324ac3cadb7035a3a717d4f391bf6c37bf0e531f49b9cb62445c3b43bcf&req=dSYjEsh5moVcUfMW1HO4zTW32M%2FTBreKCgFVpLbc%2BDcFJQtzKxjqRcmZA7Hh%0AI6x%2BXDA2SvuPvfk6wtE%3D%0A
+
+---
+
+Add Fields to Your Lead Form
+
+You can pick which fields will be displayed in your Lead form.
+
+To add fields to your Lead form:
+
+- In your Lead form settings page, expand the Add field section by clicking the arrow in the top right corner.
+
+- Click the Edit button.
+
+- Click the toggle to the left of the fields you would like to add: - Last name
+- Email
+- Address
+- Service Details
+- How did you hear about us?
+- Frequency
+- Custom question
+
+- Click Save and you're all set! Your Lead form will then be updated.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1644179507/f317fda2f0ebf67caeaf37f25491/image.png?expires=1763568000&signature=a17b460c9039ea2bf65695ed8d6cc98dda58f8b956a3440ec0cfe2c0ba27f3ec&req=dSYjEsh5lIRfXvMW1HO4ze4r7koQDIpQxUBALK8SZYwpKApwOVZCeaIC4hMJ%0A9CnnczHVLqGtTX5Rx%2BQ%3D%0A
+
+---
+
+Publishing the Lead Form on Your Website
+
+To publish the Lead form on your website:
+
+- In your Lead form settings page, expand the Share lead form section by clicking the arrow in the top right corner.
+
+- Copy the embed code by clicking the Copy code button and paste it into the right place in the code of your website.
+
+- If you are not managing your website, copy the Lead form code and send it to the webmaster or the company that runs your website.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1644181444/7317b122fed1c60b330ea3c3eb3a/image.png?expires=1763568000&signature=80801241a0da42e58d594a57955ebb200b66f606e5584cbec9f0ccab11e33d39&req=dSYjEsh2nIVbXfMW1HO4zQLht2tEQ5tGKRfZ94zZTcIMPOE1abOalzflOb0i%0AztBfheu5SMiYLTfUlXk%3D%0A
+
+---
+
+Receiving Leads with the Lead From
+
+- Once a customer fills in the Lead form and submits it on your website, a Lead object will be created in Housecall Pro.
+
+- You will receive a text notification about the new Lead. This lead will also show in the Job Inbox and in your Pipeline under the New Lead column.
+
+- All the info provided in the form by your customer will be visible in the Lead object.
+
+---

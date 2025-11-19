@@ -1,0 +1,66 @@
+Analyst AI Overview
+Source: https://help.housecallpro.com/en/articles/10202074-analyst-ai-overview
+Author: Jasmine d
+Last updated: Updated over 3 months ago
+
+Summary: Clear financial insights, easy-to-read reports, and time-saving tools for data-driven decisions!
+
+What is Analyst AI?
+
+Managing business finances can be complex, but Analyst AI is here to simplify the process. Analyst AI eliminates manual setup, making it easy to generate a report based on your desired criteria.
+
+Simply ask Analyst a question about data within your reporting dashboard in Housecall Pro, and it will handle the rest—returning a ready-made report that can be saved with just a click of a button.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1289318223/9325bd9c5c6e9bee26b93b16383a/Screenshot+2024-07-09+at+12_19_27%E2%80%AFPM.png?expires=1763567100&signature=2285af4c65d73c50d76d81daf5711fa0df5f7ea750af0cbc4b763a48197fc2e4&req=dSIvH8p%2FlYNdWvMW1HO4zUdK04oqNFgtoYPJN9dftjHbxqxGWbOmH4GwRMyW%0ABHfKUBqPHRWm8NkOx0U%3D%0A
+
+By leveraging Analyst AI, you’re able to optimize your business operations, improve profitability, and streamline your expense tracking and revenue forecasting.
+​
+
+Here are just a few examples of the great questions you can ask our Analyst AI team:
+
+- What is my job revenue year to date?
+- How much money did I make last week?
+- What is my gross profit on jobs completed last week?
+- Can you compare my job types in 2024?
+- Which technician had the highest average ticket last month?
+- What is my average job size for November 2024?
+
+---
+
+How to Use Analyst AI
+
+To use Analyst AI:
+
+- When logged into your Housecall Pro account on the web, click the sparkle icon ✨ at the top of the right sidebar to open your AI Team chat threads.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1266585257/7aa497203829d810465f29239964/AD_4nXdMqV9Jaly5PRJasT6f0C0S0RqhMRyF134ZENFn46n_9-8uIWaElkKGcmJnWpFvvpKWl6x0tgtCjE8c5eDwHhq2hQOMuwjFE0S71l6aNmXM9qppwThMrCVJSoYQeCiO3itPohYUiQ?expires=1763567100&signature=87adc2c85853e57bc0ac4d3eaaed36462427551b4f9a872e1885bd11d0694a0c&req=dSIhEMx2mINaXvMW1HO4za1sb6WX5hzibQtN0b9wTbWxNTEtEyk7NvKp4ha7%0AejElpkgAXFsxudMkRKY%3D%0A
+
+- The Analyst AI team member is represented by this avatar.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1649326482/510114349bc5eab3646eb6638712/AD_4nXeS47dbFKPFtpZWxpZsXvvLkqu00LGKf-312YotQohDb4GUElLgnrb5u3gbsmUgYrTq1vhvJy59aFyz0up12J9NUADL0IGoA-UFUXP5QzFxeUSPTtXU1hdhFdfLfttt5Pjq4Xq3?expires=1763567100&signature=0991d42ab5c67109ee8802a36939835d0a35cc245e14568c65f73b4258cf84e2&req=dSYjH8p8m4VXW%2FMW1HO4zcIpWczT6cyaR2BNqvwKDeVzeIKrFSyqjfbpmlD5%0AmVzmdDC5iSecZ%2F06m5Y%3D%0A
+
+- Ask Analyst AI to generate a report using your real business data.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1649328231/a4a0d89258246066c70c320ed936/AD_4nXfvM-UDfJbcAuYGGUntFRpJgaizuSuMb7D57z5nQOaUh57M3sb0AfEA2_7LamWn8BZ2UuUZ2jDyBkLrOkS7hrTW5fIV8swCzw292V82frO9vcFJj0KcfXcWDDmEGVdhwDf-I8yhmg?expires=1763567100&signature=d6f2881c22f1decc17d65049f07c45ca6ad7d0fc67ea82c2f3c03e0185103f0a&req=dSYjH8p8lYNcWPMW1HO4zQYdRBEAnBuwc%2FOFoSIvxHbXpaWNv0HVlrqPtF06%0AG4HIEoR1ZwlezFmRzpA%3D%0A
+
+---
+
+Analyst AI on Reporting Pages
+
+A faster, easier way to get insights, right where you need them.
+
+You’ll now see an "Ask Analyst AI" button across all reporting screens in Housecall Pro. This gives you a quick way to start a conversation with Analyst AI and get instant answers to your data questions, without ever leaving the page.
+
+When clicked, the chat opens in the right sidebar, making it easy to stay focused while getting real-time insights based on your reporting data. You can also save custom reports from the chat directly to your dashboard for fast access later.
+
+What you can expect:
+
+- Faster Reporting Help: Get immediate answers to your reporting questions without needing to contact support.
+
+- Effortless Custom Reports: Ask Analyst AI to build and save reports tailored to your needs, with no manual setup required.
+
+- Integrated Experience: Available right in your reporting tools, so it fits naturally into your workflow.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1667285580/796c9104a0e5eceff6db0a634e97/de81f51e-488a-420d-89b2-a38a99d7bd3f?expires=1763567100&signature=be912a4d486c35f50fad61691d8ff7ef01c28a6f9ee7d943ffc4e882d81bcb73&req=dSYhEct2mIRXWfMW1HO4zbrAHhjX4G6wSm29it0ap5MCbEA8OlkafIuuzD4M%0A%2B2RqHZmJ3Msz7ELH4ac%3D%0A
+
+---

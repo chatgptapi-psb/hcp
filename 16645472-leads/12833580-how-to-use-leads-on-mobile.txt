@@ -1,0 +1,100 @@
+How to Use Leads on Mobile
+Source: https://help.housecallpro.com/en/articles/12833580-how-to-use-leads-on-mobile
+Author: Nate H
+Last updated: Updated this week
+
+The Leads feature in the mobile app helps you track and manage potential jobs before they turn into Estimates or Jobs. This guide walks you through how to find, create, and take action on leads directly from your mobile device.
+
+---
+
+Accessing Leads on Mobile
+
+Where to find your leads
+
+From the Dashboard, you can quickly access and review leads without needing to dig into other menus.
+
+To view your leads:
+
+- Scroll to the bottom of the Dashboard.
+
+- Tap the Leads chart to open the Leads list.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1829289661/6a9dae08e4ae3d4b44d40ed1b846/leads%2Bdashboard%2Bentry%2Bpoint%2B-%2BiOS.PNG?expires=1763568000&signature=98a1288eca9fd7c0abae360e4ec4edf64b6e8f5ce6d3c2906f97d3125b72fe2f&req=dSglH8t2lIdZWPMW1HO4zdE1wynM9LSl6Yci1FqqS%2F59PyF99woOTM90gyJK%0A8gyyHpY3j%2BBZxcQmW8w%3D%0A
+
+---
+
+Understanding the Leads Chart
+
+What the chart shows
+
+The Leads chart gives you a quick overview of your lead pipeline:
+
+- Open Leads are those that have been created but not yet marked as won or lost.
+
+- Won Leads are leads that have been copied to a Job or Estimate. This action automatically updates their status to Won.
+
+- The circle graph shows your Win Rate, which is calculated as: Won leads ÷ Total leads * 100 = % of Leads Won.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1829298839/4be8f3f77739d05ea4383586ebfc/Leads+List+-+iOS.PNG?expires=1763568000&signature=c14bb2361e2eb64b14305826aec398b21f48aaa6f379b2853e78866b24f54183&req=dSglH8t3lYlcUPMW1HO4zT5WahfEn3MPdMMDLype%2B8CT0CXlkbemw2I4CaI3%0Ana2q3KXchA4b35yvFEs%3D%0A
+
+---
+
+Creating a Lead on Mobile
+
+Two ways to create a lead
+
+You can start a new lead from multiple spots within the app:
+
+Option 1: From the Dashboard
+
+- Tap the + icon in the upper-right corner.
+
+- Select Lead from the list.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1829304146/eb1980697c75581a1d4f826aeeaf/leads+dashboard+entry+point+-+iOS.PNG?expires=1763568000&signature=9f6097e671f6b2524d23817c9790c06c08bf4ba671ac5915cd2441c562a9b290&req=dSglH8p%2BmYBbX%2FMW1HO4zXtfX0p%2FlszFhGGS49Wj2XllV5nrkfJBQPOgFp5I%0AhcX3ZTZnPBo7PxHRfNc%3D%0A
+
+Option 2: From the Leads list
+
+- Scroll to the bottom of the Dashboard.
+
+- Tap the Leads chart.
+
+- Tap the + icon in the upper-right corner of the Leads screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1829307687/84663c7566524d0bdc819e3c2bfb/Leads+List+-+iOS.PNG?expires=1763568000&signature=33b78a7b67cc62d8cc832780c661347d65b6a2cccc4c8bfc0bf94cb9644bb994&req=dSglH8p%2BmodXXvMW1HO4zQ8kOxHK1YU5upDB5ShjCHMxwvpRP8BegFvx2bxO%0AD2cd4OURZoUwTwlcll4%3D%0A
+
+Both paths will take you to the New Lead form, where you can enter customer and other key details, such as:
+
+- Lead assignee
+- Private notes
+- Lead tags
+- Line items
+- Lead source
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1829308870/19b5553b6b50e8a043fe2b1e441a/New+lead+form+-+iOS.PNG?expires=1763568000&signature=4a0be0bb7e6aa4067d35e232730d3b2470b4d783d9e87b8744bdf7e86df8497f&req=dSglH8p%2BlYlYWfMW1HO4zfUL5BLG2wxV6o2TEHc2Asl%2BuoV1N0wOo7c3nQoR%0ATV2hkcHJD7Dn5j5XB7M%3D%0A
+
+---
+
+What You Can Do with a Lead
+
+Lead actions
+
+After you create a lead, you’ll see several action options at the top of the screen:
+
+- Copy to Estimate: Create an estimate using the lead’s information. The lead is automatically marked as Won.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1829309880/bebe0084cd5edf54da73217f392a/won+copy+to+estimate+-+iOS.PNG?expires=1763568000&signature=7e1c949e6c525b04c5cb7d2a8710b88604a9576cda8331b4d531c717df5af668&req=dSglH8p%2BlIlXWfMW1HO4zUm5QS4Fft3K4BIHwoXnvXPilDTCYZcUENPo9NXZ%0A9J4Zjuwxx1yq7wXlKd0%3D%0A
+
+- Copy to Job: Create a job using the lead’s information. The lead is automatically marked as Won.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1829310413/75035b793098e1d6e84a3e3922b7/won+copy+to+job+-+Android.jpg?expires=1763568000&signature=47d07e2ef147cb228fd67d830e741f1781af5f4da1a5624ac72a3c351d38a7d0&req=dSglH8p%2FnYVeWvMW1HO4zYoxGxOgQcij9AI%2FOsQjsKDUYVS8OCStc2m0gBpj%0Al%2BTlFvC7qJwcBfnZNSY%3D%0A
+
+- Mark as Lost: Updates the lead’s status to Lost. Useful for tracking outcomes.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1829310965/a8ba35780027a1af2dc3470aa68f/mark+as+lost+-+iOS.PNG?expires=1763568000&signature=9e3c9774f3d2fa23808c0f55e83f86d86fa9047e2c1d6a2c98c9cf6c0e0e222f&req=dSglH8p%2FnYhZXPMW1HO4zSz6n4Cqk1sWaItSQeKi%2FXE4yICbwtjLhqbc45yq%0AiX1G72lOvkXQqc%2FHtsM%3D%0A
+
+- Delete Lead: Removes the lead from your list. This does not delete the associated customer or customer details. Deleted leads are excluded from your Win Rate calculation on the Dashboard.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1829311282/6e6f2f0e5b9040934ea4078aabda/delete+lead+-+Android.jpg?expires=1763568000&signature=761ae8c376d10d8ddbbcd18139b50bca2b1b02f35e8271611f7e8d5c8d9907ea&req=dSglH8p%2FnINXW%2FMW1HO4zUqbQ0or6cpHxjnEpvQU4QQZl4W0Ga%2Bl9j5Kgcm3%0AtpxB4UySRMo0Uko0SAk%3D%0A
+
+---

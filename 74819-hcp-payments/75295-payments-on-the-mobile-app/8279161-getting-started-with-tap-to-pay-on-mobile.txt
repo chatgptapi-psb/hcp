@@ -1,0 +1,183 @@
+Getting Started with Tap to Pay on Mobile
+Source: https://help.housecallpro.com/en/articles/8279161-getting-started-with-tap-to-pay-on-mobile
+Author: Nate H
+Last updated: Updated over 3 months ago
+
+Summary: Learn how to enable and start taking Payments using Tap to Pay on iPhone and Tap to Pay on Android.
+
+Tap to Pay on Mobile Overview
+
+With Tap to Pay in the Housecall Pro mobile app, you can use a mobile device to accept contactless payments in person! This includes physical debit and credit cards that are contactless enabled, Apple Pay, and other digital wallets.
+
+Tap to Pay requires no extra hardware and is a secure and convenient way of accepting payments. Let's get started!
+
+---
+
+Tap to Pay on Mobile Pricing
+
+Tap to Pay on Mobile costs $5 per month for each active Tap to Pay user within that billing cycle. (You will only be charged for a user if they accept one or more payments with Tap to Pay on Mobile within that billing cycle.) Additionally, payments accepted through Tap to Pay on Mobile incur a processing fee of 2.59%, the same processing fee as card readers.
+
+For example, if your team had three active users of Tap to Pay on Mobile in one billing cycle, you would be charged $15 for that billing period, in addition to the processing fees associated with the transactions. If in a different billing period, your team had only two active users of Tap to Pay on Mobile, you would be charged $10 in this billing period.
+
+---
+
+Activating Tap to Pay on Mobile
+
+Tap to Pay on Mobile is now available to all Pros enrolled in HCP Payments.
+
+[Button] Activate Tap to Pay on Mobile for my organization -> https://pro.housecallpro.com/app/apps/tap_to_pay
+
+---
+
+Video Tutorial: Getting Started with Tap to Pay on Mobile
+
+Once you’ve activated Tap to Pay on Mobile for your organization, watch this 2-minute video to get started.
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/9ulfvvgepy
+
+---
+
+---
+
+Tap to Pay on iPhone
+
+To enable Tap to Pay on iPhone for your organization, please make sure you have the latest version of the Housecall Pro app from the Apple Store.
+
+[Button] See Tap to Pay on iPhone in action! -> https://developer.apple.com/tap-to-pay/how-to-accept-payments/
+
+Requirements for Tap to Pay on iPhone
+
+The following requirements must be met to enable Tap to Pay on iPhone:
+
+- Device: iPhone XS or later; running iOS 18.0.1 or later.
+- The HCP Mobile App must be updated to its latest version.
+​
+
+---
+
+How to Activate Tap to Pay on iPhone
+
+The activation process for Tap to Pay on iPhone only needs to be completed once per organization. After you have completed this first activation, Tap to Pay on iPhone will be available on any iPhone in your organization, provided it meets the minimum system (iOS 18.0.1 or later) and device (iPhone XS or later) requirements. If you still don't see the option, ensure that the HCP Mobile App is updated to the latest version on your device.
+
+To activate Tap to Pay on iPhone:
+
+- Select the 'Credit Card' option when taking a payment in the HCP mobile app.
+
+- Make sure that the 'Save card on file' toggle is disabled.
+
+- Then, select the 'Tap to Pay on iPhone' button.
+
+- The Apple onboarding screen will appear. You can continue with the Apple ID associated with your phone or enter a different Apple ID.
+
+- The first time you press "Tap to Pay on iPhone," you will be prompted to accept Apple's terms of service and link your Apple ID. The Apple ID should belong to you or your business. The associated Apple ID can be changed later in the Apple portal.
+
+- Follow the prompts, and the "Account Linked" screen will appear (it may take up to one minute to complete the set-up).
+
+- You are now ready to accept payments via Tap to Pay on iPhone!
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1225307937/84f54e289e5bd54b207c4dff44ee/Tap2Pay1.png?expires=1763568000&signature=155fa0a6c55ec6d8ba74b32d2e3e8821fb0cb584075a5bb530bb44bd1ea47e74&req=dSIlE8p%2BmohcXvMW1HO4zXNNadXSHl7VsmwlATb8qjwHPYB2QcMiJ775iSht%0AMlt8%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1225308209/e076e78a3dcad82566e0803308e3/Tap2Pay2.png?expires=1763568000&signature=8827ac4196433bad927118801d197095218a48467289236a164bb30c9de43563&req=dSIlE8p%2BlYNfUPMW1HO4zRgbNk9rSq6iiu8uRq2aPYXumKWr1e%2BkMzIM3il7%0AcZKe%0A | [Image] https://downloads.intercomcdn.com/i/o/800392867/e1be3fca21705e498d03c553/image.png?expires=1763568000&signature=a52caf1cea3d3e8c0e30427b86dc345e60110eb08ebf05a5f6a8153da32e4064&req=fCAnFcB8lYdYFb4f3HP0gL0RgcMS7%2FvemeCLBa69oEGY4rPL9Gz3yV%2BLhxeS%0AiZM%3D%0A
+
+---
+
+How to Accept Contactless Cards on iPhone
+
+To accept contactless cards on iPhone:
+
+- Select the 'Credit Card' option when taking a payment in the HCP mobile app.
+
+- Make sure that the 'Save card on file' toggle is disabled.
+
+- Then, select the 'Tap to Pay on iPhone' button.
+
+- When you see the "Hold Here to Pay" screen, present your iPhone to the customer.
+
+- Your customer will hold their card horizontally over the contactless symbol at the top of your iPhone.
+
+- When you see the "Done" screen, the transaction is complete!
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1225344181/fc2ad865e16343906db6a694a610/Tap2Pay1.png?expires=1763568000&signature=06ef298b8b92c94f602c5c2c18d35b9547b0b2662cb54144c125b52c1f929115&req=dSIlE8p6mYBXWPMW1HO4zUVGOElBIXsyqrJmPKbuZLKZ7MGmiN0C1nxwZyJh%0AN5RQ%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1225342519/0f0e46a410648becdf57bb5872e6/TTP2.png?expires=1763568000&signature=7bda0682b4f443c6e6a80308b168b0977f6f86c3ff577c0bf5d80a05739544de&req=dSIlE8p6n4ReUPMW1HO4zTb9%2Bvx%2F3jlB0ycjhm91axrNy0goUDK6v9i5HodQ%0AC%2Bkn%0A
+
+---
+
+How to Accept Apple Pay, Google Pay, and Digital Wallets on iPhone
+
+To accept Apple Pay, Google Pay, and digital wallets on your iPhone:
+
+- Select the 'Credit Card' option when taking a payment in the HCP mobile app.
+
+- Make sure that the 'Save card on file' toggle is disabled.
+
+- Then, select the 'Tap to Pay on iPhone' button.
+
+- Present your iPhone to the customer once you see the "Hold Here to Pay" screen.
+
+- Your customer will hold their device over the contactless symbol at the top of your iPhone.
+
+- When you see the "Done" screen, the transaction is complete!
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1225345147/7b117e33d093ad6c333df3121619/Tap2Pay1.png?expires=1763568000&signature=6610aa98e532ddc157ce5527b4e092ca2fea532c8a312af9167a2c8508a705c6&req=dSIlE8p6mIBbXvMW1HO4zb0vFcuAE2%2FgaLJ%2BfYlEURt8TmUX0r5SCdpBDWBK%0A%2B59u%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1225343145/7a3e4a344a44a417a3d6a4ed8c1e/TTP2.png?expires=1763568000&signature=0737d1d624474e70a4b857e57d1fab511b4fe2eab2f9631f24d5c17c593c6b16&req=dSIlE8p6noBbXPMW1HO4zaUOBROUw5DIhDsWD7hfXbgdy1xG%2FbWt4pefStjY%0A8hk1%0A
+
+---
+
+---
+
+Tap to Pay on Android
+
+With Tap to Pay in the Housecall Pro mobile app, you can use an Android phone to accept contactless payments in person! This includes physical debit and credit cards that are contactless enabled, Apple Pay, Google Pay, and other digital wallets. Tap to Pay on Mobile is a secure and convenient way of accepting payments that requires no extra hardware.
+
+Requirements for Tap to Pay on Android
+
+The following requirements must be met to enable Tap to Pay on Android:
+
+- Contains a functioning Near Field Communication (NFC) antenna and chipset. To see if your Android device has NFC toggled on, go to your device’s system settings.
+- Runs a current version of Android (Android 11 or above).
+- Has a stable internet connection.
+- The HCP Mobile App must be updated to its latest version.
+​
+
+---
+
+How to Accept Contactless Cards on Android
+
+To accept contactless cards on Android:
+
+- Select the 'Credit Card' option when taking a payment in the HCP mobile app.
+
+- Make sure that the 'Save card on file' toggle is disabled.
+
+- Then, select the "Tap to Pay on Android" button.
+
+- Present your phone to the customer once you see the "Tap behind device" screen.
+
+- Your customer will need to hold their contactless card horizontally and tap it behind your device.
+
+- When you see the "Done" screen, the transaction is complete!
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1274043845/7fc7315e9df3b2a0bbbf3d2db006/image.png?expires=1763568000&signature=0317374709989c3ccf4b328e404d95879fe77f52cf2d6ac54458333389ae289a&req=dSIgEsl6nolbXPMW1HO4zXACdOtPpH6ISdzYDflVsBDUjxcT0Ar%2FMIVUclDd%0ACBiS%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1226320197/af18b8f736a216d264c1bffac458/Tap2PayAndroid1.png?expires=1763568000&signature=e9a37e9f34d4fe586c0602004cbececee98b16c7ba9fe2c803939e11a35d5031&req=dSIlEMp8nYBWXvMW1HO4zSRWjcuBatOJLkC4htkR4I14Z1ozhlYgjqMpRmLZ%0ABmhF%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1226320342/244b5a9adeba8d14e8618d98d09f/Tap2PayAndroid2.png?expires=1763568000&signature=b5389e7bce5f00c6f2efaa2b277f224a44040d09b070c481b63d81f43d080b0d&req=dSIlEMp8nYJbW%2FMW1HO4zRieMs%2BV2qcXRm2TnOCwE7UkZ4oZcspSZ8V4%2Fkkt%0A7jUD%0A
+
+---
+
+How to Accept Apple Pay, Google Pay, and Digital Wallets on Android
+
+To accept Apple Pay, Google Pay, and digital wallets on your Android, follow these steps:
+
+- Select the 'Credit Card' option when taking a payment in the HCP mobile app.
+
+- Make sure that the 'Save card on file' toggle is disabled.
+
+- Then, select the "Tap to Pay on Android" button.
+
+- Present your phone to the customer once you see the "Tap behind device" screen.
+
+- Your customer will need to hold their device behind your device.
+
+- When you see the "Done" screen, the transaction is complete!
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1274043845/7fc7315e9df3b2a0bbbf3d2db006/image.png?expires=1763568000&signature=0317374709989c3ccf4b328e404d95879fe77f52cf2d6ac54458333389ae289a&req=dSIgEsl6nolbXPMW1HO4zXACdOtPpH6ISdzYDflVsBDUjxcT0Ar%2FMIVUclDd%0ACBiS%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1226320197/af18b8f736a216d264c1bffac458/Tap2PayAndroid1.png?expires=1763568000&signature=e9a37e9f34d4fe586c0602004cbececee98b16c7ba9fe2c803939e11a35d5031&req=dSIlEMp8nYBWXvMW1HO4zSRWjcuBatOJLkC4htkR4I14Z1ozhlYgjqMpRmLZ%0ABmhF%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1226320342/244b5a9adeba8d14e8618d98d09f/Tap2PayAndroid2.png?expires=1763568000&signature=b5389e7bce5f00c6f2efaa2b277f224a44040d09b070c481b63d81f43d080b0d&req=dSIlEMp8nYJbW%2FMW1HO4zRieMs%2BV2qcXRm2TnOCwE7UkZ4oZcspSZ8V4%2Fkkt%0A7jUD%0A
+
+---

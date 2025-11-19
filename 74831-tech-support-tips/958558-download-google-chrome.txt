@@ -1,0 +1,42 @@
+Download Google Chrome
+Source: https://help.housecallpro.com/en/articles/958558-download-google-chrome
+Author: Nate H
+Last updated: Updated over 3 months ago
+
+Summary: Make sure your Housecall Pro account is running as smoothly as possible by using our recommended browser, Google Chrome.
+
+Why We Recommend Google Chrome
+
+Google Chrome is the most widely used browser worldwide, and for good reason. With its powerful feature set, extensive extension library, and reliable mobile apps, Chrome has become the foundation on which most modern websites are built.
+
+At Housecall Pro, Chrome is our preferred browser because it consistently leads the way in adopting the latest web technologies. It is also the only browser that fully supports the advanced features our platform uses.
+
+While our engineering team works hard to provide a seamless experience across all browsers, we have encountered a few issues with alternatives that are difficult to resolve. Because our engineers test and optimize primarily in Chrome, switching to Chrome is often the best first step when troubleshooting unexpected behavior.
+
+That said, we don't require our Pros to use Chrome exclusively. However, if certain new features in Housecall Pro aren't supported by other browsers, we may recommend using Chrome to ensure you get the complete experience.
+
+---
+
+How to Download Google Chrome
+
+Downloading the Google Chrome web browser is a quick and easy way to ensure you don't run into any issues with your account.
+
+[Button] Download Chrome -> https://www.google.com/chrome/?utm_source=intercom&utm_medium=internalpage&utm_campaign=help-center&utm_content=web-portal-how-to-download-chrome&utm_site=web-portal&mc=Content&msc=web-portal-how-to-download-chrome
+
+To download Google Chrome, click the button above or follow these steps:
+
+- Open your current web browser (Microsoft Edge, Safari, Firefox, etc.) and look up Google Chrome using your search bar.
+
+- Click Download Google Chrome or Download Now.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1679733219/960e3394921b0b4c24efaa586bc3/Screenshot+2025-08-20+at+1_24_12%E2%80%AFPM.png?expires=1763568000&signature=7c87410b49fb5ab3336192950e974e4ae7d7256655611898f2866e1a4820c4ee&req=dSYgH859noNeUPMW1HO4zfRUxCYuUEgYuXtxwmbWxtpqxbDCxSuyWcMPJ%2FXf%0AuhLvdNxHOgQmUd60%2Fbg%3D%0A
+
+- You'll then be redirected to the Chrome download page.
+
+- Click Download Chrome to proceed.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1679729469/09aaed74e95834545936c69cc41b/Screenshot+2025-08-20+at+1_24_50%E2%80%AFPM.png?expires=1763568000&signature=98de48303a393db0d9404b3afa38ee935e6cc0c9280360261b29ebbea8d5d936&req=dSYgH858lIVZUPMW1HO4zcMHGtdRXo7wOiWZg7UpklJ1GzlTKDSSA5Gy6Qlz%0A5kJTFj3ZuRVWQ4%2BeBwk%3D%0A
+
+- After the download is complete, you can open Google Chrome and log in to your Housecall Pro account! This will now be your web browser for the Housecall Pro web portal.
+
+---

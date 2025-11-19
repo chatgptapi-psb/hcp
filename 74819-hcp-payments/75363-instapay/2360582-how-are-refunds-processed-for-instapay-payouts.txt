@@ -1,0 +1,19 @@
+How are refunds processed for Instapay payouts?
+Source: https://help.housecallpro.com/en/articles/2360582-how-are-refunds-processed-for-instapay-payouts
+Author: Angel A
+Last updated: Updated over 6 months ago
+
+Summary: What happens when I refund a customer via Instapay -
+
+How Refunds Work with Instapay
+
+Because funds are typically released within 30 minutes of a payment being processed with Instapay, refunds for card and bank (ACH) payments will work a little differently.
+
+- With Standard Payments, when you accept a card from a customer, we deposit the proceeds into your bank account. Likewise, when you refund a customer, we pull the funds from your account because the connection allows us this access.
+
+- When a customer pays, and your default payout speed is Instapay, we send what is known as an unlinked refund to your bank account. Because this doesn't show as a standard deposit in your bank account, we don't have the same link as we would with standard payouts. The system will always pull funds from your standard account.
+
+- If the bank account you have connected for Standard Payments is different than the bank account associated with your Instapay debit card: - The refund will come out of your standard payment account. In this situation, when you accept a card payment from a customer, the funds will be deposited into the bank account associated with your debit card. Upon refund, the funds will be withdrawn from your standard payouts bank account and not the account associated with your debit card (where the funds were initially deposited).
+​
+
+---

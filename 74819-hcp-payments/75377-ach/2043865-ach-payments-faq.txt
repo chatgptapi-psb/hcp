@@ -1,0 +1,99 @@
+ACH Payments FAQ
+Source: https://help.housecallpro.com/en/articles/2043865-ach-payments-faq
+Author: Nate H
+Last updated: Updated over 2 weeks ago
+
+Summary: Learn more about what ACH is, how much it costs, and how to use it in Housecall Pro.
+
+---
+
+What are bank (ACH) payments?
+
+- ACH is an electronic payment network used to transfer funds from one bank account to another without using paper checks, credit card networks, wire transfers, or cash. These types of payments are sometimes called "direct transfers." 
+​
+
+---
+
+Why should I use ACH payments for my business?
+
+- ACH payments are only charged a 1% processing fee, which is significantly less than credit card payments.
+
+- Moreover, ACH payments are faster and more reliable than checks because they’re electronic.
+
+- Most ACH payments take 2 business days to complete. Some ACH payments can have a processing time up to 6-7 business days.
+​
+
+---
+
+How much do ACH payments cost?
+
+- ACH payments are available for a standard 1% fee.
+
+---
+
+How can I be eligible to use ACH?
+
+- You need to have a bank account added and identity verified to be eligible to activate ACH transfers.
+
+---
+
+Is ACH available in Canada?
+
+- Not at this time. ACH is currently only available for businesses based in the U.S.
+​
+
+---
+
+How can I receive ACH payments?
+
+- After you've set up your bank account to receive payouts through Housecall Pro, you'll see the option to accept ACH Payments in both your default invoice settings and on the payment settings when sending invoices.
+
+- When your customer receives the emailed invoice, they can send payments through the two ways below: - Inputting their bank account and routing number
+- Logging in with their online banking credentials.
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/kvjwmhjlog
+
+---
+
+How long before I see money in my bank account?
+
+- Many ACH payments deposit within 2 business days, but ACH payments can sometimes take up to 5-7 business days to pay out, depending on the amount and the customer's bank.
+
+- Payments received before 6 PM ET on weekdays (Monday-Friday) may reach your bank account as soon as the next business day. In rare cases, it could take up to 7 business days. - For example: A payment made on Monday at 3 PM ET could appear in your bank account as early as Wednesday, but no later than the following Tuesday.
+
+- Payments received after 6 PM ET on weekdays (Monday-Friday) will be processed on the following business day. You may then see it in your bank account in one additional business day after processing. It could take up to 7 business days to arrive. - For example: A payment made on Monday after 6 PM ET will initiate on the next business day, and could arrive in your bank account as soon as Thursday, but no later than the following Wednesday.
+
+- Payments received on a weekend (Saturday or Sunday) or federal holiday will be processed on the next business day. You may then see it in your bank account on the next business day. It could take up to 7 business days to arrive. - For example: A payment made on Saturday morning will initiate on the next business day, Monday, and could arrive in your bank account as soon as Wednesday, but no later than the following Tuesday.
+​
+
+---
+
+How Do Refunds Work for ACH Payments?
+
+- ACH refunds must be initiated within 90 days after the original payment. ACH refunds cannot be issued after 90 days from the payment date.
+
+- A refund can only be processed after the payment process has been completed.
+
+- Example: If a refund is initiated immediately after a payment is made, there will be a delay of 4-5 business days for the charge to process first, then another 4-5 business days for the refund transfer process.
+
+---
+
+What will my customers see?
+
+- When you send a text or email with ACH payments enabled, your customers can click on Bank payment and enter their account and routing number to pay.
+
+- They can also log in to their bank online in order to send a payment.
+
+[Image] https://downloads.intercomcdn.com/i/o/65407082/0c80e60123c67f15b5e63970/Screen+Shot+2018-06-28+at+10.26.50+AM.png?expires=1763568000&signature=fdd74255cc99e6b4640ac891604fc48fca0d406306644db1a8d19bfc87751f3c&req=ciUjFs5%2BlYMTWLcX3D%2B5hui8Itu4qHN5mCsjNLSfU4iHfXXquDcPCDwDC7%2Fe%0AVtv1eFfuzaNSd%2Blw%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/65407153/4af74662d59af169b7caeca4/Screen+Shot+2018-06-28+at+10.27.00+AM.png?expires=1763568000&signature=cd92d7ee7b038814b338a772513c941befffdf76bcfdbe6573ce9baa288aff9e&req=ciUjFs5%2FmIITWLcX3D%2B5hjX8l%2Bj16NOrRpg1oODAOFACG0FKiiKVjM1Apq4w%0A0fAh1VITdj7iephX%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/65407216/d0addd076db188544a114df7/Screen+Shot+2018-06-28+at+10.27.23+AM.png?expires=1763568000&signature=2b272dc04496e7c14a7b21d7763695f9f8999007f598fe62715dc31b52e1caa5&req=ciUjFs58nIcTWLcX3D%2B5hl1dXZ0R%2FxY8KxxcVxXsvLBD%2BEv7S2TL8g3TXdWN%0AKXwPhpCiv8C1r%2BEw%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/65407289/fd90d596422b9e8dbea1d3b2/Screen+Shot+2018-06-28+at+10.28.03+AM.png?expires=1763568000&signature=4d4ea587d76b636daf3874b07834e75059ab331397655feebef5bdc6ac2a163d&req=ciUjFs58lYgTWLcX3D%2B5hgKGuIRpp%2B0iCPmehMItKyR9%2FHwvOhUw71cJJ5qd%0AeTbFDZYhNqfU%2F5Dh%0A
+
+---
+
+​Having trouble collecting from your customers? Check out these simple tips!
+
+---

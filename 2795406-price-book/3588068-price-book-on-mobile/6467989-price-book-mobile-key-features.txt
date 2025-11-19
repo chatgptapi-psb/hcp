@@ -1,0 +1,184 @@
+Price Book Mobile - Key Features
+Source: https://help.housecallpro.com/en/articles/6467989-price-book-mobile-key-features
+Author: Michael Storer
+Last updated: Updated over a month ago
+
+Summary: Learn about the key features of Price Book on mobile, including access to viewing and editing materials right from your mobile app.
+
+Key features of Price Book on Mobile
+
+- Ability to view and create your materials on jobs and in Price Book settings
+- Ability to enter the cost for your services and materials within Price Book settings
+- Ability to add a task code to your services
+- Ability to add a part number to your material
+- Ability to add images to your services and materials items saved to your Price Book. Images can be leveraged for Visual Price Book or Online Booking services.
+
+Price Book on Mobile Considerations
+
+Only employees with Admin and Field Techs status with the permission 'Edit Company Info' enabled can navigate to the Price Book in the mobile settings. Please refer to our Price Book Mobile Permissions guide to understand what your employees will have access to depending on their user permissions for more in-depth information.
+
+If you have flat rate-enabled services or materials you will want to continue managing these on the web version of Housecall Pro, to have a full view of your labor hours and markups, etc. Please refer to our Flat Rate Services on Mobile article for more information.
+
+Price Book Settings View on Mobile
+
+To access your Price Book on your mobile app, tap the three horizontal dots icon labeled 'More' located on the right-hand side of your app's bottom navigation bar, and then choose Price Book from the top of the menu.
+
+- Search across your services and materials using the search bar next to the magnifying glass at the top of the screen
+- Clicking into your listed categories in your Price Book will pull up further lists of sub-categories, if you have them
+- Services and materials can be created within selected categories by clicking on the plus icon in the upper right-hand corner of your screen
+- Services and materials can be viewed and updated by clicking into them from Price Book on mobile
+- Images can be included in your pre-existing services and materials, as well as new ones
+
+[Image] https://downloads.intercomcdn.com/i/o/587594117/974f7938bfb59964d0b79fc7/image.png?expires=1763568000&signature=613f6cbec817c768d8d42f888f851e4f295152c08c69bc63e422a2feccb0ecd1&req=cSggE8B6nIBYFb4f3HP0gKlATv7JdGEtNfK9O%2B0%2B1fAfhdsuFdgt%2FGVPxC%2Bk%0A8Rgt9iwzb%2Bst539qxA%3D%3D%0A
+
+How to use Price Book on Mobile
+
+When creating a job or estimate on the mobile app, your employees can easily search for and add services and materials from the Price Book, as well as create and customize brand-new items.
+
+To search for an item when creating a new job, select the gray Service box under Line Items on the New Job form. From here, select + Add Services or + Add Materials to search through the Price book, navigating through categories if you have them.
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/1061430697/546af03a2630392c8cb87832/Screenshot_20240524_145850_Housecall+Pro.jpg?expires=1763568000&signature=7058fd1146fc5bf09e9aa582d4c4c65873dd763481df04c45d2978bbc591cc49&req=dSAhF819nYdWXvMW1HO4zYgq1EGqSO752k7kl0b8YIHkNFpgxzntbXwzs6oE%0A66aYCP0ZoUPPeOSatsc%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/1061429160/f0650278ae165821868f1173/Screenshot_20240524_143424_Housecall+Pro+%281%29.jpg?expires=1763568000&signature=73e1cbc8f2d713efcde2d6b3ad33822f2b68c5a536a3158c87ffb9d72467212f&req=dSAhF818lIBZWfMW1HO4zVRKRLDUU199009fFzfqG0YIldmn5k5bMoVIwx0p%0AVsV7DN94bXW%2BnJF4Gjk%3D%0A
+
+To instead navigate through the Visual Price Book, select Service Price Book in blue located to the right of Services, or Materials Price Book in blue located to the right of Materials.
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/1061427222/715963fdbab95e3a5c67504b/Screenshot_20240524_143424_Housecall+Pro.jpg?expires=1763568000&signature=1165e6f48540009aa20d24ed6950a458823657ccb8e6c151e472549955d733bc&req=dSAhF818moNdW%2FMW1HO4zRSVzlgcaIoTKjBw8jvE1J0KZo0e4mU8u1I4w%2Bh4%0A%2F1BxaPhst4XfjXCGTZc%3D%0A
+
+Using the search bar to find items
+
+The search feature can be used to show your employees both service and material item matches, as well as related categories so that they can refine what they are searching for according to their search preferences.
+
+[Image] https://downloads.intercomcdn.com/i/o/587638570/98a276814e09643de0cb421f/image.png?expires=1763568000&signature=531198ef517cdfa599f5b9acbc5be72b1603c8bcb6ade7735f9d136e6d718b13&req=cSggEMp2mIZfFb4f3HP0gIK%2BMOlBIcVICpw5T7Y5wbxJCgdHLBSVRC0eqQso%0A%2FvHUBaEIKz3Ox%2Fa8eQ%3D%3D%0A
+
+Adding Price Book Services on Android
+
+Log into the app and select the drop-down menu from the left-hand corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140617923/5ef0bb8e206740ca25e67089/Screenshot+2024-08-09+at+5_00_35%E2%80%AFPM.png?expires=1763568000&signature=a8de6fd5cf2d70f7b13698a9f16ac196ec12da3fe7d8166677947fe9f543f664&req=dSEjFs9%2FmohdWvMW1HO4zZRm2%2B6GR3EMAUd1q3d%2F2wfcrcbWxLP89Y8t6SfG%0ACbjeT6jNrugWJycRnqI%3D%0A
+
+- Select the 'Price book' option.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140618159/5fe0ac13e63be076ea6fe4f1/Screenshot+2024-08-09+at+5_05_00%E2%80%AFPM.png?expires=1763568000&signature=f66d41153e9db3351728cc2fe35a708c2f8fd6c997496deea439fad5e124b845&req=dSEjFs9%2FlYBaUPMW1HO4zRr2YnNz0MsCDOaXEGfUAVy5HYKtt72vAls402aQ%0AIx5KnwHZxUlbyQDOpYM%3D%0A
+
+- Select your industry.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140626915/1a787b4f281f62554b4bb1be/Screenshot+2024-08-09+at+5_19_00%E2%80%AFPM.png?expires=1763568000&signature=e65c256ec3e30bfcb6b12833a5c7ca01b4637d95cdb4a4e7fd2b9ac3566db52b&req=dSEjFs98m4heXPMW1HO4zVwqsW3BiofEeHPeQ3x0DtQJdjryx5dymauvGXjt%0AvrFJ1N4QflZIMVwJZa8%3D%0A
+
+​
+
+- Click the bright green '+' icon located on the bottom right-hand corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140627848/132896ad1dafe5967fdacf30/Screenshot+2024-08-09+at+5_23_00%E2%80%AFPM.png?expires=1763568000&signature=16c2b9eb0a8551e45ecb8334ae24ac540be5a5c5a75835a8ee2142386e223723&req=dSEjFs98molbUfMW1HO4zcMShrottS1gUhg9HXWOGzZTqjnaG%2FJ8kA2mSOFA%0Ak0gXDooDjAUJrgUTdnI%3D%0A
+
+- Select 'Create new service'
+
+Enter the applicable information and select the checkmark located in the right-hand corner to save your new service.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140628647/bc88edcb9861eb6257df7f39/Screenshot+2024-08-09+at+5_16_48%E2%80%AFPM.png?expires=1763568000&signature=0a10f322eb774826f0c59751b94d797c0aecb635193cf805e0277a774ee6322c&req=dSEjFs98lYdbXvMW1HO4zV%2FZTmo1Lx9qvm9lG12ipk4Ue9HT1rlNn6BFrIHQ%0AelAAhEoKsP4USUKtW%2Bg%3D%0A
+
+---
+
+How do I save a line item to the Price Book from the mobile app?
+
+To save a line item to the price book, you need to navigate to the invoice/estimates details page.
+​
+From the mobile app's dashboard, there are a few ways to get to the invoice/estimates details page. You can go to the dashboard by selecting it from the navigation bar at the bottom of your screen. (Usually located on the far left).
+​
+You can click the schedule icon on the navigation bar at the bottom of your mobile app. (calendar icon). From there you can go to the date your estimate or job is booked for and click on it.
+​
+Alternatively, on the mobile app's dashboard, you can scroll down and click View My Invoices, or View My Jobs. Invoices bring you to a list of your current invoices, and the jobs bring you to the schedule.
+​
+
+For estimates, you can scroll down and click on View My Estimates. 
+​
+
+Scroll down until you see the 'Line Items' card. Click on the pencil icon in the top right to edit the line items. 
+​
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/1079870024/527f9575b1ce48de3af3a6d5/Giffy.gif?expires=1763568000&signature=b23e1e7a93589bb38113ce3bed88b80c1afd4dbd40afc50849be71a062106251&req=dSAgH8F5nYFdXfMW1HO4zVq85s90QYkLSGm09g4xdv%2BJRlZ1FWxdxl0ZJvEY%0Al94PvpyN03IFRzxbzGk%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/1079877507/ec835d88ce47b4e9c1fe0802/image.png?expires=1763568000&signature=34934c3cc512b8227f7a5011ff082843ac7077002f36987ffb35384ca77ae25d&req=dSAgH8F5moRfXvMW1HO4zcHvl5YIlHpkvHE5XZ5bzT3oAjs7TFMa%2Fg%2FnBvju%0AoOfURxNUK3RhLxTwZI8%3D%0A
+
+Once you are on the job/estimates detail page, scroll down until you see Line Items. Click the pencil icon. This will bring you into edit mode for your line items. On this page, you'll see your existing line items. Below the existing line items, you'll see a + button with Add Services next to it, you'll also see a + button with Add Materials next to it. 
+​
+Click Add Services or Add Materials
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/1079886639/4d48b8d3e1c7008184befbd8/image.png?expires=1763568000&signature=655480ed5fca8040ac2d3830a289e77014869ad631c09b0c493b6c46e043f865&req=dSAgH8F2m4dcUPMW1HO4zWgSX6J72tDkBbfdJomKb9WmHFHCwJDoANQ1%2FhK7%0A0bWvopnZ8%2BeWu11yMeE%3D%0A
+
+After you click Add Services or Add Materials, you'll be taken to your Price Book. While on this page, to create a new line item, click the + icon in the upper right.
+
+[Image] https://downloads.intercomcdn.com/i/o/1079890443/68eccee1059ca8f24adede70/image.png?expires=1763568000&signature=02e8d758212802c68e571775a62e2eccaeda26faa5891c843870b3164733f836&req=dSAgH8F3nYVbWvMW1HO4zeQ80JOnjmvJCegrxsMSKPLy2oXTZ9SoB9jqpbgr%0Abf1%2FupD21x4bhzX9AtU%3D%0A
+
+A screen titled New Service line item or New Material line item will appear based on the option you chose.
+​
+From there you can input the service or material name, description, unit price, unit quantity, mark taxable or not, and finally at the bottom of the list there is a toggle to Save to the price book. 
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/1079898420/32491a86692327d278a6d171/image.png?expires=1763568000&signature=d30e59a5ceb00882551a096300abd9a93d2c9d2f670398d6c3c3bfa64f3ff13a&req=dSAgH8F3lYVdWfMW1HO4zRWp3YbCRQ3hygT9UV4liHE3ieEfDaxA%2Fn%2FJm0EP%0ATfsrc%2BAmld6Yq%2BRnIDg%3D%0A
+
+Once you click save to price book the button will be highlighted to indicate you want to save the item to the price book. 
+​
+You'll also notice two new options below that.
+​
+A line named Category will appear, along with the ability for you to attach an image to this Service or Material item.
+​
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/1079904595/ca98b89252c7e54e3d7d2973/image.png?expires=1763568000&signature=0518f0d7b5568c2349fc351295c552281ecfdf8e984a5f77fa12ef181b294038&req=dSAgH8B%2BmYRWXPMW1HO4zVi0oiffH9hk%2BwMQ3oytTVVpfFo0N0vuGqFY3vUy%0ANlEj8HuqpA%2BRZ5Xc6Yc%3D%0A
+
+A list of existing categories will appear once you click Category, at the bottom of that list you'll see the option to add a New Category. 
+​
+If you opt to use an existing category, simply click on it, then click Done in the upper right. From there you'll be taken back to the line item edit page where you can click Save in the upper right to save all your changes to the line items.
+
+You'll be brought back to the 'New Line Item' page with all of your information entered. To save the item, click the 'add' button in the top right.
+​
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/1079921694/eb50ac09818b20a6b072fa44/New+line+item.gif?expires=1763568000&signature=f231bed3a42d0714fc633fcfe71e5b326cbc4c3d3dcbf736df361b19bb2e9a8a&req=dSAgH8B8nIdWXfMW1HO4zSwgOpuZpu1jDamZCCrDci96sj1RLs4bsBNDzBhj%0AJStXHkztsTvoHGoDV4Y%3D%0A
+
+Alternatively, you can create a new category by clicking the New Category button. From there, you'll be brought to a screen to type input the category's name, then you can press Save in the upper right.
+​
+After that, you can select the category you just created from your list of existing categories.
+
+---
+
+Price Book Mobile Permissions
+
+Use this guide to understand what permissions impact the ability to access settings related to Price Book or view the prices you have set for your services and materials.
+
+Who has access to Price Book on mobile:
+
+- Owner/Admins
+- Office Staff
+- Field Techs
+
+Table:
+Row 1: Employee Type | Permission Set | What can they do?
+Row 2: Admin/Owner | - Any combo of current permissions | - Price Book settings on mobile - Able to view cost and price on Price Book items in settings
+- Able to save and create custom line items on jobs and estimates
+Row 3: Field Tech - 'Update company account info' off | [Image] https://downloads.intercomcdn.com/i/o/585199444/27b88715ebc556b50270008a/image.png?expires=1763568000&signature=8d132ae10fddefc31a00b0eb21527af491570f84d5392607ebe328b8676704a8&req=cSgiF8B3mYVbFb4f3HP0gBXRVSlGm1PlQ%2BabxEES5Rt9wiUuLy7bqExUWtX6%0Amok%3D%0A | Able to: - Create and save custom line items to price book on the job/estimate
+- View and edit prices on services and materials added to job or estimate Not able to: - View and edit Price Book items via settings on mobile
+Row 4: Field Tech - 'Add/Edit Jobs' off | [Image] https://downloads.intercomcdn.com/i/o/585198560/85dba5f554ef126980065a75/image.png?expires=1763568000&signature=951e58d3fb9dd3269775b9c7f53f071461531d3402b0ebb9070e8bdf9f1d4aba&req=cSgiF8B2mIdfFb4f3HP0gOpWbmwh2qX0Q%2BJqZ3NfqAw0fbdsc0B0rx1u7%2Fwl%0AxR4%3D%0A | Able to: - View line items on the job/estimate and total price of job
+- Able to see sub-total and tax on job
+- Able to take approval signature on estimates and jobs Not able to: - Edit the line items on a job/estimate
+ - Price, name, description, etc
+- Create and save new items to Price Book on a job/estimate
+- Edit price, qty, tax
+Row 5: Field Tech - 'Take payment & see prices' is off | [Image] https://downloads.intercomcdn.com/i/o/585197787/2bb8a538a434740cc7c3001d/image.png?expires=1763568000&signature=d0e6476d45c7bc511705250102efd5b612ac261b4b06c4b1e5da9512b0b99fb6&req=cSgiF8B5molYFb4f3HP0gFNYrh%2B5AYWMt9JuBAQsDd5YCZQte2GpGCC5y4eP%0A%2FB8%3D%0A | Able to: - Edit the job or estimate and can modify
+ - Quantity for service and/or material
+ - Set item tax on/off Not able to: - Access Price Book in settings on mobile
+- View price or cost of services and/or materials or job total
+- Can’t take payment or take a before/after work is finished signature
+
+For further permission breakdowns or to get a better understanding of permissions, feel free to chat in via the blue chat bubble.
+
+Are you an HVAC business owner? Learn how to best price your services.
+
+---
+
+---

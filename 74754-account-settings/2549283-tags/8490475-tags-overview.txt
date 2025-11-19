@@ -1,0 +1,272 @@
+Tags Overview
+Source: https://help.housecallpro.com/en/articles/8490475-tags-overview
+Author: Nate H
+Last updated: Updated over 4 months ago
+
+Summary: How to use Customer, Job, and Estimate Tags effectively.
+
+Tags in Housecall Pro can be used as internal identifiers - to help pros distinguish specific Job, Customer, and Estimate details.
+
+---
+
+---
+
+Job Tags
+
+Job Tags help to categorize your jobs and can be used to filter and search within your reports. Service, Maintenance, and Installation are all examples of job tags for the type of job being done. Customers will not be able to see the tags.
+
+---
+
+How to Add a Tag to a Job
+
+To add a Job tag:
+
+- Open a job, then scroll down and click the Job tags + button on the left side of the page.
+
+- To add an existing tag: - Start typing the tag name.
+- Matching results will appear in a drop-down.
+- Click the tag to add it to the job.
+
+- To create a new tag: - Type the desired tag name.
+- Press Enter/Return on your keyboard to save and apply the new tag.
+
+[Video - loom] id=382cc840ff0c4b36aa4dfadf5caf31ee
+
+---
+
+Job Tags and Reporting
+
+Once a Job Tag is assigned in Housecall Pro, you can generate reports based on specific project stages or priority levels. This helps you:
+
+- Quickly identify jobs at different stages
+- Track workflows more effectively
+- Prioritize resources based on job status
+
+Using Job Tags in reports ensures you stay organized and responsive throughout the job lifecycle.
+
+To pull a report using Job Tags:
+
+- Go to Reporting in the top navigation bar in your account.
+
+- Click Jobs under ALL REPORTS in the Reporting menu on the left.
+
+- Select the Job tags report (located under the Type category).
+
+- Apply any desired filters.
+
+- The report will display all jobs with Job Tags that match your selected criteria.
+
+[Video - loom] id=cc8367ce003644239caea147aabd61be
+
+---
+
+---
+
+Customer Tags
+
+Tags can also allow Pros to set conditions for specific customer communication actions like email marketing, following up with Leads and Estimates in Pipeline, and excluding customers from review requests.
+
+---
+
+How to Add a Customer Tag
+
+To add a customer tag:
+
+- Select Customers in the top navigation bar of your HCP account to access your Customer List.
+
+- Select a customer you’d like to add a tag for.
+
+- Click into their profile and click on Customer Tag
+
+- Start typing in the Tag you would like to apply, and the matching results will appear in a drop-down.
+
+- Click on the specific Tag you would like to apply to add it to the customer.
+
+[Video - loom] id=044a4b7ad2184390aed8d1f7aca65c0e
+
+---
+
+Customer Tags for Email Marketing
+
+Customer tags in Email Marketing offer precise audience targeting. Leverage the 'unless tagged with ______' feature to exclude specific customers from receiving automated emails. Alternatively, utilize the 'if tagged with ______' feature to send automated emails to a select group of customers with designated tags. This applies for both ‘Before Job Starts’ and ‘After Job Finishes’ marketing campaigns.
+
+How to exclude specific customers:
+
+- Navigate to My Apps (9 dots) in the top right corner of your HCP account
+
+- Select Email automation
+
+- Select either Before Job Starts or After Job Completes campaign.
+
+- Add in your Content.
+
+- Under Rule, select the second checkbox under Options.
+
+- Make sure you have Unless selected in the drop-down
+
+- Add the Customer Tag that you would like to not receive this email.
+
+[Video - loom] id=4ef897876027497ca9ea76ff6d88252c
+
+How to target specific customers:
+
+- Navigate to My Apps (9 dots) in the top right corner of your HCP account.
+
+- Select Email automation.
+
+- Select either Before Job Starts or After Job Completes campaign.
+
+- Add in your Content.
+
+- Under Rule, select the second checkbox under Options.
+
+- Make sure you have If selected in the drop-down.
+
+- Add the Customer Tag that you would like to receive this email.
+
+[Video - loom] id=685cc7c208324e47be85dd24978570c9
+
+---
+
+Customer Tags for Review Requests
+
+In the event that it is inappropriate or counterproductive to request a review from a customer, simply utilize customer tags to selectively exclude certain individuals from the review request process. This approach ensures a targeted and thoughtful feedback collection, aligning with the nuances of each customer relationship. To exclude customers from receiving review requests with tags, follow these steps:
+
+First, create a tag for excluding Customers from Review Requests:
+
+- Go to your Settings
+
+- Open the Tags section
+
+- Add a new tag called Don’t Send Review
+
+Next, apply the Tag to the Customer Profile before completing the Job:
+
+- Open the customer’s profile
+
+- Add the Don’t Send Review tag
+
+- Make sure this is done before tapping the Finish button on the job
+
+Then, configure your Reviews App to exclude this tag:
+
+- Go to My Apps and select Reviews
+
+- Click the gear icon in the top right corner to open your Review settings.
+
+- From the drop-down menu, select Exclude Specific Tags.
+
+- Add the Don’t Send Review tag to the exclusion list.
+
+[Video - loom] id=b0a05eb280544a9ab1fd760bbcdb3b88
+
+---
+
+---
+
+Estimate Tags
+
+Housecall Pro's Estimate Tags help streamline your workflow by providing a visual representation of project status, priority, or any custom criteria.
+
+---
+
+How to Add an Estimate Tag
+
+To add an estimate tag:
+
+- Select the estimate you would like to tag
+
+- Scroll down to Estimate Tags on the left-hand side
+
+- Start typing in the tag you would like to apply, and the matching results will appear in a drop-down.
+
+- Click on the specific tag you would like to apply to add it to the estimate.
+
+[Video - loom] id=558f7e3c2f464f3f815468592bb7af13
+
+---
+
+Estimate Tags and Reporting
+
+When you assign an Estimate Tag in Housecall Pro, you're able to generate reports customized for specific project stages or priority levels. This functionality enables you to quickly identify and manage estimates at various stages, facilitating efficient workflow tracking and resource prioritization.
+
+How to pull a report using Estimate Tags:
+
+- Navigate to the Reporting tab.
+
+- Click on Estimates.
+
+- Click on Open estimates by employee.
+
+- Select your filters and add Estimate Tags.
+
+[Video - loom] id=45bf49ffb92b4958b948bd203eb533dc
+
+---
+
+Estimate Tags and Pipeline
+
+Estimate Tags streamline workflows in the Pipeline feature, allowing you to categorize projects and set specific follow-up actions for more personalized outreach. Using Tags in Pipeline Automations ensures timely and tailed communication, enhancing workflows and saving you time. This applies to the 'Leads' and 'Jobs' sections in Pipeline as well!
+
+How to search Estimate Tags in Pipeline:
+
+- Navigate to your Pipeline.
+- Click on Estimates.
+- Select your filters and add the Estimate Tag.
+
+[Video - loom] id=43dfb87bc5b245f7adaf4a7540d0e96c
+
+How to use Estimate Tags in Pipeline Automation:
+
+- Navigate to Pipeline
+
+- Click on Automations
+
+- Click on Estimates
+
+- Click the pencil icon next to any automation
+
+- Click Add Condition
+
+- From the drop-down select are or aren't
+
+- Add your tag
+
+[Video - loom] id=95c73959b739431893c9a52e763bf74b
+
+---
+
+Video Tutorial: How to Use Tags Effectively
+
+In this video, we cover ways in which you can use tags more effectively within your Housecall Pro account to gain insights into your business, report on certain metrics, and develop call lists.
+
+Remember that there are countless ways to use tags and in this video, we aim to get you started on the path of success with tangible ideas you can implement and get you thinking about tags and your business.
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/szh1p7hr3i
+
+---
+
+---
+
+System-Automated Tags
+
+---
+
+Campaigns Tag
+
+The Campaigns tag is added as a job tag when both of these criteria are met:
+
+- The campaign was sent within 30 days of the job creation
+- A campaign to that customer was sent, delivered, opened, or clicked.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1423009121/09ac90a6aea4d0714f9cf11ae95d/Campaigns+Tag.png?expires=1763567100&signature=39e45c2c6c82ede306495ac6280f8c10edd83c7260e0e4be6a7cc7ecdc26f974&req=dSQlFcl%2BlIBdWPMW1HO4zf3uLEbVjDJeXIaFrWGSb0l7eoHQ0q%2FKJCX4tj4M%0A5q4SivO5yLLah9J3eT0%3D%0A
+
+---
+
+Pipeline Automation Tag
+
+Pipeline Automation tags are automatically added to jobs, estimates, or leads that have triggered an automation based on your Pipeline automation settings.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1423006112/b9d51f9bf127605419e23498d176/image.png?expires=1763567100&signature=69749256ee0415f09ba6b45ff3d4e69f9320229eff5d8b9c5bed7cf25d386955&req=dSQlFcl%2Bm4BeW%2FMW1HO4zZ5Ct%2BL1WwfVPsKYVfagK0tSMKjEtOM20qk%2B3g3L%0Ah2YKu%2BY0wKWyS4L3%2B5k%3D%0A
+
+---

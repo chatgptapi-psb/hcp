@@ -1,0 +1,65 @@
+Verifying Your Business Name and Mobile Number
+Source: https://help.housecallpro.com/en/articles/7336873-verifying-your-business-name-and-mobile-number
+Author: Olivia R
+Last updated: Updated over 4 months ago
+
+Summary: Ensure your business is properly registered for text messaging.
+
+Overview
+
+It's important to verify your business information so that we may properly register your business for SMS & MMS messaging.
+
+Why is this happening?
+
+- Carriers have implemented requirements towards SMS & MMS messaging in order to prevent spam on their networks. As a result, Twilio has initiated an A2P10DLC registration process that requires every business to be properly registered with carriers to ensure deliverability.
+
+How do I start the process of registering for A2P 10DLC?
+
+- You can begin the registration process by going to Account Settings and selecting 'Text Messages' from the Settings menu on the left. Click the 'Begin registration' button to begin the registration process.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1536673396/27ca7739ef81b95edbb98f49c245/AD_4nXe2KA4u1cFa2aVwC1CLyRl7ZbIiLdIsjQJHRfvVXVMZrKV44mcJEDbKKKuSiqOpGZKs_NFLNwljnXOLdx8v-heXTLjPFaUf62CAFAw_40sAMXWLvFBP22of-lsO1x_GOGCVVgF1EA?expires=1763568000&signature=d16aef9ae2b890d4a5c0e114eec94ba612d8b399512412600e2ab5704306e2d8&req=dSUkEM95noJWX%2FMW1HO4zUPEQLmgVA9BgJGTvkh9468bLVXfAokSVn%2BfWam9%0AK07Uh2mWpzH2OkvWiAw%3D%0A
+
+A banner is prompting me to "Review registration," but the information that I have provided is correct.
+
+- Please confirm that the business information you have entered is the same as what you have on file with the IRS or the equivalent tax authority in other countries. We recommend verifying with your CP-575 letter.
+
+What are some reasons I’m receiving this notice?
+
+- Your business information contains a number in the EIN or Tax ID field that is not a valid EIN or home country company ID number. - Please list your business name and address EXACTLY as it is displayed in your EIN.
+- Your business information contains an invalid website address.
+- Your business information contains an invalid state.
+- Your business information contains an invalid US postal code.
+- You provided a DUNS number instead of an EIN for a US-based company.
+- You used a SSN to register your brand. If you used your SSN to file your taxes, you are a sole proprietor and should await further guidance as this becomes available to us.
+
+I have resubmitted my business information, but am still receiving the prompt to "Review registration." What do I do?
+
+- If you are still receiving the "Review registration" prompt, please ensure the business information you provided is exactly the same as your EIN document (SS4) provided by the IRS.
+
+---
+
+Verify Your Business Information
+
+During the text messaging onboarding process, you’ll be asked to provide important details about your business. This information allows us to register your texting number with your business through Twilio.
+
+- Business Information: - Business name
+- EIN
+- Address (Street, City, State, Zip)
+- Business email
+- Business type
+- Website
+
+- Business Representative Information: - First Name
+- Last Name
+- Email
+- Phone number
+
+---
+
+A2P 10DLC
+
+A2P 10DLC refers to a system in the United States that allows businesses to send Application-to-Person (A2P) type messaging via standard 10-digit long code (10DLC) phone numbers. Carriers in the US consider all Twilio traffic to be A2P. Carriers’ A2P 10DLC offerings provide better delivery quality and lower filtering risk than long code SMS of the past, using the same phone numbers.
+
+---
+
+​

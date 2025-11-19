@@ -1,0 +1,77 @@
+Service Line Items on Jobs Report
+Source: https://help.housecallpro.com/en/articles/11819119-service-line-items-on-jobs-report
+Author: Sienna M
+Last updated: Updated over 4 months ago
+
+Service Line Items on Jobs Report
+
+The Service Line Items on Jobs report gives you a detailed breakdown of every service performed on jobs — not just the first line item. This report provides full visibility into all services sold, including pricing, costs, profit, and revenue metrics for each item.
+
+---
+
+Why Use This Report?
+
+This report is the only way to view a comprehensive list of all service line items on jobs. It’s particularly useful for tracking:
+
+- Total quantity of services sold
+- Profitability per service item
+- Revenue contribution per service item
+- Deleted job entries (which are also visible)
+​
+
+---
+
+How to Access the Report
+
+- Go to Reporting in the top navigation bar of your HCP account.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1631658308/eef87deba8bb2ad27843d5f66078/AD_4nXfjsNgc7PYCgOK8Om4goHHX630IfhvFTB-5n-GYjOZLn8dDcj4GP1_uFjErncYLHg8EZ7aJaHk18P8XQ8TpA9aRQ2LygH0Fxm0EOcwbDuGPBXwdxwsbpUTIamKbP79Hjz4fSg7dBg?expires=1763568000&signature=df913ce3f7426dbb7d23bd90b122cb044f0e13b241999fd0a44287c2ffd244cf&req=dSYkF897lYJfUfMW1HO4zXfJm7cEEqv06T5UqYYnVAN6D%2B%2BRI1AW0XpesQQ5%0Ar98IbgwHb46dpQtvbfY%3D%0A
+
+- Select Jobs under All Reports in the left menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1631658305/74b3ae86e77003034e95498eb657/AD_4nXcK9YUS7A9RUiAYViIUZZUpSaGRkqjKBJwytS2mfNzNhJVyW265K2XjCte1R1Nz3aBwRkzaOpIr7P_CTvIyB6-EjCBhovZrTfDyAMmGjiRuAoy_7giyLJj1XL-_Sokd7vqHEsdMwA?expires=1763568000&signature=937cd2db7c797b9a4855db8612c13df3f472f2f727232d250ca1aa399720f939&req=dSYkF897lYJfXPMW1HO4zXYaGYrKalPZXMz3NCONJvWalMAyXHk%2Fgr92bcf3%0Ak5A4lj3515arEE6itqU%3D%0A
+
+- Scroll to the bottom right under the Services sold category.
+
+- Click Service line items on jobs to open the report.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1631658307/1db941b9e53a95bc6b6f43b0cbbf/AD_4nXcpcmcQJOorjYdceAL3mrakGynHwlLVSrQ6P53V2oScFIxL_vXPwNJA0pKWct7fsQI3C5WxG_YllMv2hw_jniX5Px2gSXKxRZx-vRU0MkK3dYCGgR7tvq0SZiOcHG41Jcyekh8quQ?expires=1763568000&signature=24786f9b3da7cdb596bdd59cd26b3ef95b6c39d9918041cf8803cb20123f42e7&req=dSYkF897lYJfXvMW1HO4zZDgu73U0%2FZRFtjHTkly3JOaarsgp84vYAo1jK%2Bl%0AjMOzjxinCjmWfLOCxek%3D%0A
+
+- Adjust your date range (optional) - You can adjust the date range to view up to the last year of service line items on jobs. Service line items are displayed by completed date on jobs ordered by Job ID.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1631658306/07ae176d975e4c89da52b210a49b/AD_4nXeZfa7zS-cww3efGeknWW4bpbRwa4lBOKg_EWA2SFMCrEdmTlkZybYp9XxBwTVPilOREu-QLCOjVBAz8noz7OM1YyrDESnyK4qKV-NN2BeqIgCWBaUj2IefPQ9BQk090s9pKtPG-g?expires=1763568000&signature=d4cd6715e9425c41461d24a090ff4158219f0eab07ead93f57c90d6676a40dcc&req=dSYkF897lYJfX%2FMW1HO4zeLa7%2FIWMVR%2BANNLfFXgsH%2FpxjQ4GH47E6HC2bPH%0AsEj0AiKloQq3R3Kw9RE%3D%0A
+
+- Set your filters (optional) - Filter by completed date and date range (e.g., Year to Date).
+- Click Filter to apply your selections.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1631658309/4428baff97c764759dc4d83bcaba/AD_4nXf2pP0Q9bqyjoC1veL8OlNNwOnylvFLeTSIwZIiKeRVuCQXCeVXnM4sA-QTdCOnK0D_vYEHdK9uWASo-HTG8VuFvzIXcXXKNOzvnjELQGPoK7m2bXSdZMy7xDqn1NrKxGteElw3hg?expires=1763568000&signature=4e8084fca5b7db3cb3a7853f99ac2d7a755b4e0c6868eb1e7a24acc4df4b57ad&req=dSYkF897lYJfUPMW1HO4zcaVRtoRBR7rJxVTZiMv0Ng3CdhP357rknvgLuCy%0A7d%2BWM30whf9OA2oLMaY%3D%0A
+
+---
+
+Fields in the Report
+
+Each row in the report represents a single service line item sold on a job. The following key fields are calculated:
+
+- Service Item Profit - Service Item Profit = (Unit price - Unit cost) x Quantity
+
+- Service Item Revenue - Service Item Revenue = Unit price x Quantity
+​
+
+---
+
+Customizing Your View
+
+- Click Edit columns to add or remove data fields.
+
+- Use Export to download the report as a CSV for external analysis. Exporting will enable you to sort data by any field in Excel or Google Sheets. 
+​
+
+---
+
+Additional Notes
+
+- Deleted jobs will still appear in this report and are marked with the "Deleted" job status.
+
+- You can identify multiple line items from the same job by checking for duplicate Job # values.
+
+---

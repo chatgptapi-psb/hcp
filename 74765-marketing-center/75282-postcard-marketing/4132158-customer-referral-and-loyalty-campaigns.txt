@@ -1,0 +1,116 @@
+Customer Referral and Loyalty Campaigns
+Source: https://help.housecallpro.com/en/articles/4132158-customer-referral-and-loyalty-campaigns
+Author: Taylor M
+Last updated: Updated over a month ago
+
+Summary: Master Reporting, Customer Tags, & Postcards for a loyalty campaign. Boost engagement with referral postcards & FREE Canva templates!
+
+Housecall Pro Blueprint to Success Workshop
+
+If you're looking for more advice on how to effectively use Campaigns, along with other great features, register for the Housecall Pro Blueprint to Success Workshop!
+
+[Button] Register Here -> https://docs.google.com/forms/d/e/1FAIpQLScM2b6NgGEvrjkOFAZPunvol2CoR4FIIFiVgR7DmTRqgd3gQg/viewform?usp=pp_url&entry.1047718727=HCP+Help+Article
+
+---
+
+---
+
+Referral and Loyalty Campaigns Overview
+
+Boost your customer base and retention with targeted referral and loyalty campaigns. Start by setting SMART goals for your referral campaign, such as acquiring new customers or increasing service calls. Identify and tag your target customers, then design eye-catching postcards using our free Canva templates. Launch your referral campaign through Housecall Pro and track its success to optimize future efforts. For loyalty, choose your top customers, tag them, and run a one-time postcard campaign to show appreciation.
+
+How to Set Up a Customer Referral Campaign
+
+92% of consumers trust suggestions from friends and family more than any other type of advertising. Leverage this trust and the trust you have built with your customers to acquire new customers by utilizing postcards to create a customer referral campaign.
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/rd414fgulb
+
+Step 1: Set Goals
+
+Before you create any marketing campaign you need to set a goal for the campaign. What is the result you are looking to drive? Remember these goals should be SMART (Specific, Measurable, Achievable, Realistic, and Timely)A few ideas to get you started:
+
+- Specific number of new customers over a specific timeframe
+- Specific number of service calls scheduled for new customers over a specific timeframe
+- Specific number of jobs scheduled by existing customers that receive the postcard over a specific timeframe
+
+Step 2: Determine What Customers You Are Targeting
+
+You may not need or want to send this campaign to every customer in your database, so determine which customers you want to send the referral campaign to and tag these customers with a customer tag that is specific to this campaign. For more details on creating and using tags for customers, check out this help article.
+
+PRO TIP: tag customers with the name of your campaign to keep things streamlined
+
+Step 3: Create Your Postcard Design
+
+You can use our postcard template as a starting place to design a custom postcard design that meets the necessary size requirements so that your design prints properly.
+
+Access Your Free Canva Templates:
+
+Design One | Design Two | Design Three
+
+Step 4: Create Your Postcard Campaign and Go Live
+
+Create your Customer Referral Campaign within Housecall Pro and order those postcards! For guidance on setting up postcard campaigns, visit this help article.
+
+Remember, creating your referral campaign is only the first step. You need to track this campaign strategically so that you can determine success and gain insights on how to adjust your campaign to drive the results you are looking for so utilize custom reporting to track your goals and the effectiveness of this campaign.
+
+Click here to create a referral postcard campaign now
+
+---
+
+How to Set Up a Customer Loyalty Campaign
+
+How do you turn customers into lifelong loyal customers who will see you as their go-to brand for themselves and refer you to family and friends? Appreciation is one way to build this loyalty. In this video, we are going to share a strategy for utilizing your Reporting tab, customer tags, and postcards to drive a customer loyalty campaign that you can run biannually or annually.
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/73ul3e9n6a
+
+Step 1: Decide your Cadence
+
+In order to drive a successful customer loyalty campaign you need to decide how often you will run a campaign each year. We recommend once or twice a year.
+
+Step 2: Determine Your Top 20 Customers
+
+Access the Reporting tab by clicking on 'Reporting' in the main navigation bar at the top of your Housecall Pro account.
+
+[Image] https://downloads.intercomcdn.com/i/o/1171600214/a4474a41ebb742f9ac896b8a/image.png?expires=1763568000&signature=4ac3964ec637879344949d54cca0c7e6c5f2d365064d50fa0be1e62ebfe37eb3&req=dSEgF89%2BnYNeXfMW1HO4zSI12Wyjpu1epMUmZc0TTgKzJd74uNY2CnWYYeUn%0AYffBnjKf4fwgqEWfzoU%3D%0A
+
+Once you navigate to your Reporting tab, click 'Jobs' from the left-hand menu under 'All Reports.' On the 'Jobs' dashboard, under the 'Date' header, select 'Job Revenue Earned.'
+
+[Image] https://downloads.intercomcdn.com/i/o/1171602485/54779af4471a3b55a6831adc/Screenshot+2024-09-06+at+4_36_17%E2%80%AFPM.png?expires=1763568000&signature=7eb599b36daaef2f9371daa7ab10552553acd151c23cd6848420290e39eacc18&req=dSEgF89%2Bn4VXXPMW1HO4zdBU9u3bKC790bWg1AO9VJjiDegQa4TU7eUZqmQg%0A9ZAnd2mKS%2BIrWK9fLcs%3D%0A
+
+The page will display job revenue data. Click the 'From' dropdown at the top of the page to set your desired date range.
+
+[Image] https://downloads.intercomcdn.com/i/o/1171603925/8d3e9118589dc2b0b8d47ac3/Screenshot+2024-09-06+at+4_38_26%E2%80%AFPM.png?expires=1763568000&signature=6f58b8835dc8de498723bc88a4b11525b4caffd18bbf1611c7de98d3ba800d28&req=dSEgF89%2BnohdXPMW1HO4zdcuxkT%2FkxGDnkjah95h9%2BNCw4zoGjmMTP%2B28uL4%0AQG9C4mCxF6jEvhimJkM%3D%0A
+
+Next, use the 'By' dropdown to select 'Customer Name.'
+
+[Image] https://downloads.intercomcdn.com/i/o/1171603144/0a0a3988ac117b8aac7466f9/Screenshot+2024-09-06+at+4_37_21%E2%80%AFPM.png?expires=1763568000&signature=0d3b328f305c59cdf2e1253f0f9cf02cb3fd1412b0e6ed26b0ed08212b92fc59&req=dSEgF89%2BnoBbXfMW1HO4zRqOB9cXxCc3n0YsCuLkgrJWWEOKZyOzaTCPFiN8%0AfKXGAPfxNM5b8I%2B0Who%3D%0A
+
+This will generate a report listing customers with the highest revenue for the specified period. Click 'Export' above 'Job Revenue' to download the report.
+
+[Image] https://downloads.intercomcdn.com/i/o/1171611260/c0bb6d576115f40dec72f076/Screenshot+2024-09-06+at+4_46_45%E2%80%AFPM.png?expires=1763568000&signature=8378560ed2539b5549f2b8e88153e4615e2179a8317f2a62076d6ce3f0ab9d27&req=dSEgF89%2FnINZWfMW1HO4zXahcdAzhZC7XdE2ZF8PXucjKB%2BI80bV3xanNEoW%0AIsbVpU%2ByLuZr%2FNALVBw%3D%0A
+
+Step 3: Tag Customers as Top 20
+
+Navigate to your customer list by clicking the 'Customers' tab in the top navigation bar of your Housecall Pro account. Select the customers you want to tag by checking the boxes next to each name listed in your exported report. Then, click the 'Actions' dropdown in the upper-right-hand corner and choose 'Add Tag.' In the pop-up window, enter 'Top 20' as the tag name and click 'Add' in the bottom right corner to apply the tag.
+
+[Image] https://downloads.intercomcdn.com/i/o/1171613903/d92bb006fd561fd362e10b1f/Screenshot+2024-09-06+at+4_48_58%E2%80%AFPM.png?expires=1763568000&signature=48b544102a8c7c7fb785f44a84bd35276eb0c7c8a97cfd7f80176e232f9a7262&req=dSEgF89%2FnohfWvMW1HO4zeRN1QHJmtAZ3n%2BB4roJrMpUX%2FieuECL%2BdrquutE%0A9L3%2FYSZYpCXr54vjA18%3D%0A
+
+Step 4: Create One-Time Postcard Campaign
+
+Navigate to your Postcard tool and create a one-time campaign by following the steps outlined in this help article.
+
+If you need help creating your own postcard design, use the free Canva templates that we have created for you:
+
+Access Your Free Canva Templates
+
+Design 1 | Design 2 | Design 3
+
+In Step 3 (Recipients) filter your customer list by searching for the 'Top 20' tag. Select all the customers tagged with this label who will receive the postcard.
+
+[Image] https://downloads.intercomcdn.com/i/o/217270482/e580389ad7a4995fe6abba3f/image.png?expires=1763568000&signature=d2789743f6ba38d17d3865b076492773e94946aa6ea2729a238a0ea2f1390770&req=diEgFM5%2BmYldFb4f3HP0gGC6tTBL%2BAPBg8kwlod7xRFe9j8N2mjPkZXRhIjt%0A7hmeRcqk%2FpX6uH87jA%3D%3D%0A
+
+Click here to create a customer loyalty postcard campaign now
+
+This article is part of a collection on Postcards
+
+---

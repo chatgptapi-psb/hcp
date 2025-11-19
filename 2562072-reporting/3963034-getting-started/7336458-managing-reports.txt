@@ -1,0 +1,338 @@
+Managing Reports
+Source: https://help.housecallpro.com/en/articles/7336458-managing-reports
+Author: James N
+Last updated: Updated over a month ago
+
+Summary: Create new, filter, share, schedule and save your reports from your dashboard.
+
+Creating a New Report
+
+For quantitative data, our reporting suite allows you to view the most important metrics that run your business. Whether you need to see incoming revenue or your techs' reviews, we have a report to help! You can find up to 40 separate out-of-the-box reports you can use instantly.
+
+Start by figuring out which data set you want to look through (customers, estimates, jobs, etc) and then determine which metric is most important in the report (revenue, average ticket size, conversion), or the best way to view your data (by date, lead source, etc).
+
+To create a report:
+
+- Open your Reporting tab in the top navigation bar of your HCP account.
+
+[Image] https://downloads.intercomcdn.com/i/o/1108075073/7e441aa787f16e5bf86a44b9/Screenshot+2024-07-09+at+12_19_27%E2%80%AFPM.png?expires=1763568000&signature=398b3333a0ffc6c4d8a4740dc48317f5c9d9e8dee5bb163a913b6c857f696f50&req=dSEnHsl5mIFYWvMW1HO4zV%2BF26cfZegEEoeXDVwi901V3TUSYZZ7mnneLg4S%0A1nhgx7L4Tem4eX4L%2BZI%3D%0A
+
+- Use the Reporting menu on the left to select which type of report you want to create: - Jobs
+- Estimates
+- Leads
+- Service plans
+- Payments
+- Custom
+
+[Image] https://downloads.intercomcdn.com/i/o/1108079872/6f70c91e1db74ce1c1d9bcf1/Screenshot+2024-07-09+at+12_25_36%E2%80%AFPM.png?expires=1763568000&signature=0674040f88760fe67372360841a69ed391e693b32a0d23e13459eb49171db734&req=dSEnHsl5lIlYW%2FMW1HO4zfyia9Pvhs%2F8WGefGVuFAme9D6fD538xhEiTlA%2Bx%0AWeA4rQSohJgNRoIBT%2B4%3D%0A
+
+- You can determine which metric is most important in the report (revenue, average ticket size, conversion), or the best way to view your data (by date, lead source, etc). All of these options will be located to the right under 'Jobs'
+
+[Image] https://downloads.intercomcdn.com/i/o/1108080139/12a3dc2655bf9be802ba7d79/Screenshot+2024-07-09+at+12_25_59%E2%80%AFPM.png?expires=1763568000&signature=e86546e3d07e6f63d3a6302e89f28d47d33c729d4f5573900b32b64206257a87&req=dSEnHsl2nYBcUPMW1HO4zf%2Bj2662Gx4SHpkHqtdXVN%2BEulLGQeN6evIbmcZ1%0AaGb9s4BjQtcuieiXAsY%3D%0A
+
+Each of our reports allows you to update date ranges, date type, table columns, and graph type while filtering out the information that's not relevant. Once you have the report you want, you can save it and go back using your Custom folder.
+
+---
+
+---
+
+Using Filters in Reporting
+
+The first step in analysis is making sure we are looking at the right data when we pull up a report. If I want to know which jobs made less than $100 last week, I probably do not want to look at 3 years’ worth of jobs. Changing our report parameters and filters makes data more digestible and analysis more efficient.
+
+Filters can also help us hone in on a specific job characteristic. If we want to see how much we made on water heater replacements, I can filter by job type to weed out jobs I don’t want to see. If I want to see how many incomplete jobs are in the system, I could change the filter to avoid completed jobs. I could take it a step further to see which of those jobs are assigned to me by also filtering which employee I’m looking at.
+
+---
+
+What are report filters?
+
+Filters in reporting answer the question what data do I want to look at? Each filter acts like a removal service, taking out any jobs or estimates that don’t fit the criteria we set.
+
+Start by navigating to any report and selecting the blue Filter button. This will open up your filter menu. Each time you apply any of the filters, you are eliminating a subset of your data from your report.
+
+[Image] https://downloads.intercomcdn.com/i/o/1108092347/fae62e56d24765cb8037c2d2/96231631-a5d2-45ff-af2a-3b4608d4c4aa.png?expires=1763568000&signature=8607a080f9f3885186378c963a8f90f6e9039044c24c479ffaf82287bcabf256&req=dSEnHsl3n4JbXvMW1HO4zbKTu3DgF6ba7mj2ZtGo2z8EaABCffzCYD9Z2H4A%0AA9BaKTMdVdGYlwcB86w%3D%0A
+
+---
+
+Filter Example
+
+- I want to see if any of my completed jobs last week are unpaid
+- First I set my date range to last week
+- Then I make sure my action date is set to completed since I am checking on completed jobs only
+- I use the due amount filter to see if any jobs have a due amount greater than $1
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/pyyavcl7rj
+
+---
+
+---
+
+Changing Report Output
+
+You can also customize the metrics that are included in the report's table.
+
+- To add or remove metrics from a report, click on the Edit columns button under the report graph.
+
+- From there, select or unselect the metrics that you wish to show in your table. Click the blue Save report option in the bottom right of the pop-up to apply the changes to your report.
+
+[Image] https://downloads.intercomcdn.com/i/o/519873311/52928c3cd53f4e40aaae17c0/Edit+columns.gif?expires=1763568000&signature=0d61243b8c0f252ccbd11664739311aaf9a37066655e660832317e0cc8238592&req=cSEuHs59noBeFb4f3HP0gAvzshBvBsFythUbKDNsfDXRBQnYLLIH4mhpAYLQ%0AcanoMywvsXhRTx06ZQ%3D%3D%0A
+
+- You can change how the data is displayed in the table. You can sort data by date (day, week, month, quarter), employee, business unit, job type, job tag or lead source. To change how data is displayed, click on the drop-down next to Displaying jobs at the top of the report graph.
+
+You can now display jobs by selecting the date type from the drop-down options:
+
+- Created
+- Scheduled
+- Completed
+- Paid in Full
+
+[Image] https://downloads.intercomcdn.com/i/o/1148429429/5ddc8f5b20752f09e4f42a78/Screenshot+2024-08-16+at+12_14_59%E2%80%AFPM.png?expires=1763568000&signature=f76ef645970b10b8409ef340b8211b09b87384d9b4be1317f810975459369abd&req=dSEjHs18lIVdUPMW1HO4za8iVV2G2L%2BxDESxXasoCxdLrMAzMtlyqSvrFLYr%0AAhFmV5GjgNTz0Qndnjs%3D%0A
+
+---
+
+Changing Metrics on the Report Display
+
+You can display any of the metrics included in your report on the graph. To change the metric displayed, click on the drop-down menu on the top right of the graph.
+
+[Image] https://downloads.intercomcdn.com/i/o/519875694/a810b941f3130597d9b6deac/Graph+metrics.gif?expires=1763568000&signature=ccfd4e0d4389a8719fb50a6a5fdb723169efe79cf4dc76ea6737eae47d1b9c00&req=cSEuHs57m4hbFb4f3HP0gK8psccRVTPSgRnU9mkHXy4aN%2BMnBUSjNdAbqqIQ%0AE1b5oqFiMHR699XR0Q%3D%3D%0A
+
+---
+
+Drilling Into Job Details
+
+To view any individual job corresponding to a row in the table, click on that row. To view all jobs that meet your report filters, click on the total row in the table.
+
+[Image] https://downloads.intercomcdn.com/i/o/519877236/d6c8f55cde9a4d3884e74f32/drill+down.gif?expires=1763568000&signature=e7c1f5ece57a2228733f751ddbe4f61fb93e521db2fde6795a81f13e95e62dc9&req=cSEuHs55n4JZFb4f3HP0gPbZUgSAgrAxc0%2BcbNvqapWP9QE1E21H0zn%2FZ%2FAc%0AVKpKwis10kFR4SYC6Q%3D%3D%0A
+
+In our reporting table, our top line is always a summation of the data represented in a total line, with our grouped components underneath. In order to see what data makes up either the total or any of the individual groups, we can click to dive deeper.
+
+Let’s say we are looking at a monthly jobs report that is grouped by business unit:
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/713857264/104375a647625f53c1652ad0/6Q1mYUw3K3j4Oov9K6PwbmAHB7Xzw6S2isXGlrPgI_QUMlxOGGlhlYndfufgk3ruM3Ijp6_amnchcghvTevhnzVS9lixMfxVBCoqQTmw4BSqOobETemkmuNOcm1oQTLP4Eaw4Lg8CTem9crCgVgJ-9E?expires=1763568000&signature=a72e180c9edcd69863daf835e79c9e87f50e9ebff4ecf280a22d1f90a852a95f&req=cyEkHsx5n4dbFb4f3HP0gOQEECcOuYWxCnh4NsYRQxBxypSt3%2FVCmbJSZEM6%0AiJnKYlYk3%2BmPB%2FvRvw%3D%3D%0A
+
+- You can click on any row in the reporting table or the report graph to drill into jobs that correspond to a certain business unit
+- Click on the total row to see all jobs in the report
+- Once in the drill down table, you can change the columns that you see, export the data, or click into the job details
+- Coming soon: search and filter in the drill down table
+
+---
+
+Drill Down Example
+
+- Let’s say I want to compare my HVAC vs. Plumbing departments.
+
+- I opened a business unit report, but the margin seems off for Plumbing. I want to see the jobs driving this so I click into Plumbing.
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/jfjxiun6ez
+
+On your main Reporting tab, select Jobs under the all reports section. Select 'Business Unit' under the type of job report. Click on 'Edit Columns' located to the bottom right of the report graph to filter by your desired results. For example, you can select average job size, job cunt, job revenue and profit margin. Select 'Save'. Click into the row of your desired business type. For example, Plumbing, HVAC, etc.
+
+The next screen provides a table that includes information about the job such as:
+
+- Invoice Number
+- Customer
+- Address
+- Billed to
+- Additional Segments
+- Job completion Date
+- Total Travel Time by Employee
+- Paid Amount
+- Job Lead Source
+- Job Type
+- Labor cost and Labor Cost Percentage of Revenue
+- Material Cost and Matrial Cost Percentage of Revenue
+- Profit Margin
+- Job Revenue
+- Job Tags
+
+Note: If you want to add/edit or remove any piece of data from the report, click the 'Edit Columns' option in the upper right hand of the screen and select 'Done'.
+
+You have the option to export your report by clicking the 'Export' option in the upper right hand of the screen next to edit columns. You can also click the job from the report and you will be directed to the jobs detail page to review the line item details further.
+
+---
+
+Saving a Custom Report
+
+If you've customized your report, you can save your changes and return to the same report later. Once you've filtered, sorted, or changed metrics on the table or display, you can save this version to your reporting tab. After a report is saved, it will be added to your reporting tab on the "Custom" page.
+
+To save the report, click on the blue Save report button at the top right of the screen. Name the report and then select the blue Save option to officially save the customer report.
+
+[Image] https://downloads.intercomcdn.com/i/o/519876504/bc5c6154f04846614c798134/save+report.gif?expires=1763568000&signature=3a5377ff3690a44da6ea51436fbfea48fd4367d958ccd3e520ecfd0c0188d530&req=cSEuHs54mIFbFb4f3HP0gLaDBneoV4vqa67FCKd2G8SbH9XJDGZDS3L5oO8F%0Aanu0ZZUI2PxEmn33kQ%3D%3D%0A
+
+---
+
+---
+
+Reporting Date Ranges
+
+How to focus your data using action date and date ranges.
+
+In Housecall Pro, you have the ability to look at your jobs, revenue, performance, and more over any date range. This means you can look at last quarter’s revenue, how many upsells your technicians made this month, or even how many jobs were performed last year. Understanding how dates are assigned and how to update your report parameters makes finding the data you want easy.
+
+---
+
+Understanding Date Range
+
+Whether you are looking at a default or saved report, or any reporting dashboard, you will be able to adjust a date range to focus your data.
+
+Check the top left corner of your report above the report graph, to see the current date range being reported on. Use the drop-down to select a pre-set date range, or set your own using the custom range option.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/713860253/f74c6f7a35dcdfe707074b7b/WUYVXki4SuPY4JTo3u7X2I-3GDvWaZmwyJg7mjjidqOBXxRDFB3fhY9-X8PbS2sZlw0bmCAG-PAh5v9dcCNxN9UbipqJU95pfisotp1q3G63lII2e6kbtsHQ3iLPAf1spLVFOonhQogVUzIDZTjFc1U?expires=1763568000&signature=5ff8695731c62192f02d0848cbede2ca2a9e12f7c1f6aa45d6fc44210364a3cb&req=cyEkHs9%2Bn4RcFb4f3HP0gKIR%2FfuQcnnh3Lp97CYuuNzWIk%2FdMuGZ6aGoGgkP%0Agstguhir3ntixzj%2BWQ%3D%3D%0A
+
+Note: Date ranges are all dynamic and will update based on your current week, month or year (ex. Year to date will always be January 1st of this year through today.)
+
+---
+
+Date Ranges
+
+- Today = any data that is marked with today’s date (ex. Revenue for today’s jobs)
+
+- Week to date = all data from the most recent Monday through today
+
+- YTD = data from Jan 1 to today
+
+- MTD = data from the first of this month to today
+
+- QTD = Quarters are defined as: - Jan-Mar
+- Apr-Jun
+- July-Sep
+- Oct-Dec
+
+- Last week = most current full week (Monday through Sunday)
+
+- Last month = most current full month (the 1st through the last day of the previous month)
+
+---
+
+Setting Custom Ranges
+
+By choosing a custom range, you can set whichever date range you want. You can look at the last several days, forecast using anything already scheduled in the future using the next x amount of days, or just set to and from range using the calendar.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/713860259/7f610dce7bbe6ac27f27b5ab/GBppx7nxGTaQJcjm6KMp36RD_cvcjr89k6oA90JRdcznVU5JQA2i350vo1uU4Qz3bceO2-EXA8V-vm4NKcs6cd-mFQh5UMZw5K6cQMnuzV0GUlqKE1Go7SaXZvM3gbMulHKh6baRc5phHsHTbUHenfA?expires=1763568000&signature=65c604d3e29303d9217efe2c290d7627fb7b6f1197a7a31a737841ea10ac53bf&req=cyEkHs9%2Bn4RWFb4f3HP0gNhATZYnXNhb3OuflxT5MrcSnoEnzAmahKf7rOEC%0Akq4HwRm9TNWFZuJsRQ%3D%3D%0A
+
+---
+
+Action Date
+
+Right beside the date range in most reports, is a drop-down for action date. In Housecall Pro, some data will have a different date depending on the action you are referring to. When was the job scheduled for? When was the estimate created? When was the service ultimately completed?
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/713860267/de9cc3fe834a0565879f7423/axXJP6cYHMVaYlbMNPZ9PEgLdzhIOeJJueRYVYzWxLciLmk2BXWX2fUgSEwYEi2zhdIBGinqAmt_oAqkCYfon3OXYHWxVPD3vUotldQg_W9hthM2J7Rr3-bebjm1Zgdv7NKKy4OprrN523fePF7YqVo?expires=1763568000&signature=4908d95f1c58e0eb82e9dcd407eb40b9bc81aca35a16a578c4dbc367f3a638b8&req=cyEkHs9%2Bn4dYFb4f3HP0gPuUqIsZKyRV0ewT90ZY34a8S8qtZdxFTnD2IUze%0AXd1MvKwIygZwUvAVsw%3D%3D%0A
+
+- Every job or estimate has three dates attached to it - when it was created, which date it appears on the schedule, and when the job was completed.
+
+- Action date allows you to define how you want to see your data - Created = jobs created during the date range
+- Scheduled = jobs scheduled during the date range
+- Completed = jobs created during the date range
+
+- Jobs will not show in your report if the action did not happen during the range you selected.
+
+---
+
+Action Date Example
+
+- I created a job today. My report will use the date of today if I set my action date to Created.
+
+- I schedule the job for next Tuesday. If I run a report with the date range today and set my action date to Scheduled it will not show. I will need to update my date range to include Tuesday for the job to appear on the report. The report will use Tuesday as its date
+
+- If I run a report with completed it won’t show in the report regardless of the date range because the job has no completed date (Completed date = empty)
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/713860273/1363b65fde8054aa310d5a7a/d6RVjWhRLGKUo1YPebnwe5WuwPjenqVf5laAx5B5O-2cmgIVAVBY2-6Sd2PGYHOSTEeavaQnHbqHlHdfgDIZGMJ30frIUSvzIVoHy2OcmUySb7XviMEWAfUKDd79M6YoNHQnuPD6EcdX2I56GpZrY3E?expires=1763568000&signature=7ba08b3dbebefd0bf688f4d07d8b5681de87b6c4ec05dd2d94989fc1ef651d18&req=cyEkHs9%2Bn4ZcFb4f3HP0gPA7Jobyo%2BGi%2FCQiPiC1L5%2F88RqBfinxLKEFcGqt%0AALii7kUjO%2BmBfnZuBg%3D%3D%0A
+
+- I want to see the revenue attached to jobs on the schedule for next week - I go to the reporting tab and open the jobs tab
+- I open the weekly report as I want to see data by week
+
+- I changed the date range to see the next week
+
+- My report is empty! So what’s wrong?
+
+- I need to update my action date from Completed to Scheduled since I want to see the jobs scheduled for next week
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/egehmr502h
+
+---
+
+---
+
+How to Share and Schedule Reports
+
+Schedule reports to run and send whenever it is convenient for you! Share with any of your report-using teammates.
+
+With our new schedule and share functionality in reporting, digging into your data with scheduled reminders and informing others of progress is easier than ever. In reporting you will now be able to schedule your reports to automatically send to your email and/or another peer in your organization when they are truly needed, getting you access to your numbers without having to log into Housecall Pro, or recreate/update reports. Upon the scheduled or sent date, a PDF version of the report will be available, with a quick link to jump back into HCP to see the data first-hand.
+
+---
+
+Accessing the Share and Schedule Menu
+
+- Go to the Reporting tab in the top navigation bar of your Housecall Pro account.
+
+- Select the type of report you'd like to share/schedule from the Reporting menu on the left.
+
+[Image] https://downloads.intercomcdn.com/i/o/764551651/f5d5e6efd324fb968b6f0c5e/image.png?expires=1763568000&signature=8cd63598d7cb36a49b76e983be5eb953e595b6fc2d4abc54b98ed1677cd065dd&req=cyYjE8x%2Fm4ReFb4f3HP0gKA2Wy6cF45tR9GBGVqZ41VQpj69CUv16SvcIDh7%0Aq4a%2FXvWwO8K7S20e9A%3D%3D%0A
+
+- Select a report, then click the blue Share & schedule button to open the menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/764553030/6757f1cec9b2233fbbe8e335/image.png?expires=1763568000&signature=6bc3185ec29e4651d59517187f205c3ed1bd9a1ddfffffa78e01dacdc5b73155&req=cyYjE8x9nYJfFb4f3HP0gJbNeOeDTN9uuseaZhwekP26yjhdGtsRVeiT9jiw%0A6mIXiH8uUMGFLWMmjw%3D%3D%0A
+
+- To save the report, click on the blue Save button at the top right of the screen and follow the prompt.
+
+[Image] https://downloads.intercomcdn.com/i/o/519876504/bc5c6154f04846614c798134/save+report.gif?expires=1763568000&signature=3a5377ff3690a44da6ea51436fbfea48fd4367d958ccd3e520ecfd0c0188d530&req=cSEuHs54mIFbFb4f3HP0gLaDBneoV4vqa67FCKd2G8SbH9XJDGZDS3L5oO8F%0Aanu0ZZUI2PxEmn33kQ%3D%3D%0A
+
+Once the report has been saved, you can either share or schedule the report.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/764555642/55fad3265618855d81e8732a/-iIJMzz4S890ZM-Bc0Uy-DEmXp68V_qSbm_SNGifpTbgARrokbA81CxwXeFdSAVd9w9A5tjqXcPg16u3iwjK3mt9mFu2w2wCkjxpq7AM48IWZCmMuvZ86uEm1boCTNp6Lc4IWPwq4qHJkZwebPPCmA0?expires=1763568000&signature=d0e3cef48450e28a8769bea2193ed173cae474cdda46717d00860170eddf9b25&req=cyYjE8x7m4VdFb4f3HP0gCw6D2QTkEaMBI8rNbYdU%2BD50HD6%2F%2FDVTIQP1ml9%0AGdgl11sLtGQAYgzcqw%3D%3D%0A
+
+If your reports look back at dynamic date ranges like this month or last week, you now have the option to get an alert and a copy of the report as soon as the data is complete for that given range. Scheduling reports allows you to set your own schedule on running reports, and Housecall Pro will automatically send a replication of the report at the designated time. Just like with sharing reports, you will get an email notification with a hyperlink to jump back into Housecall Pro to check your newly generated report.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/764555652/57a2148ffa037e2d577afa30/gTdRQsTrTXGHjxaXOV9LoSX0uDhIcvRc-oGgOTc-WKWYNfDxCEjiaIdi9n2SFUJvK1McAi-c-qWTN4Z7rswKY4ojviZ7TJrKsQZY-OPT0gmilADUFXuMA3Inv7UTOSnsEtw7LB6L-1FatZXRNkIBqFM?expires=1763568000&signature=0bf8439733098edab0cb7c9a75c4dcdc3b20b97de3911194898355421b699eea&req=cyYjE8x7m4RdFb4f3HP0gMGB7gcpakp%2FvXsVPTXB3%2BrIFsDT7EhJ2PqvfPQL%0ANwUJ1kH7v1Zt%2BkaO%2FQ%3D%3D%0A
+
+You will be able to schedule their reports to recur daily, weekly, monthly or a one-time send. If dynamic date ranges are being used, the report will adjust to at the time of send. I.e. if we look at month to date, the report will run from the beginning of the current month through the day the report is scheduled. 
+​
+
+---
+
+---
+
+How to Schedule a Report in HCP
+
+To schedule a report in Housecall Pro, follow these steps:
+
+- Navigate to the Reporting tab: Select the reporting tab, located at the top of your HCP in your navigation bar.
+
+[Image] https://downloads.intercomcdn.com/i/o/1115542790/ee3ca7cf4679a91ddee5feea/Screenshot+2024-07-16+at+11_31_37%E2%80%AFAM.png?expires=1763568000&signature=a9cd59910a3a22b6aa7fbf30a9c7842cf15208e2081e8e345e514e810f6fd86b&req=dSEmE8x6n4ZWWfMW1HO4zVuowSKUAMHVoCgb7SsWzlgfh6C4BhKamNxd8SnO%0AJSiJgp7MhqKHUV8GNmU%3D%0A
+
+- Select a Report: Choose the specific report you want to schedule. Housecall Pro offers various reports related to jobs, finances, customers, etc. Click on the report title to open it.
+
+[Image] https://downloads.intercomcdn.com/i/o/1115780318/4b348bda35e671baec0d0dd2/Screenshot+2024-07-16+at+4_32_49%E2%80%AFPM.png?expires=1763568000&signature=592dcbfd47142ff86e3d9522b583df777a0f51db8dc15c0187b911d43b030a79&req=dSEmE852nYJeUfMW1HO4zUWcHTZYFGFJ%2F9wWlQmLoQQpuuFxVJeNgqH39QGC%0APIZJ1VsezS2XQNVv4pE%3D%0A
+
+- Schedule or Share the Report: Look for the blue Share & schedule drop down in the top right corner of your screen activate the drop down. The drop down will allow you to either "Share" or "Schedule" the report. Select "Schedule"
+
+[Image] https://downloads.intercomcdn.com/i/o/1115781064/4e8b63f20a56dd15cf70db5d/Screenshot+2024-07-16+at+4_33_53%E2%80%AFPM.png?expires=1763568000&signature=aac99ca46e6a9a11776b67322e64d6543a3580d9825f677414fe8ed9684d5081&req=dSEmE852nIFZXfMW1HO4zbcDqVGrgt9rTPQVdD2Y0kWVh3FZxkox5tKVK%2BOa%0ATwhP8DiAFhDqlalH2No%3D%0A
+
+​Set Recipients and Frequency:
+
+- Enter the names of recipients who should receive the report by selecting share in the dropdown menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/1115781291/7576b9b9bffdbc1cc6fe19fe/Screenshot+2024-07-16+at+4_35_08%E2%80%AFPM.png?expires=1763568000&signature=f8e7325cb6b603f2ec875ab9e5a7c54b37caf857758f57d5b0ef4f2d1e11ea60&req=dSEmE852nINWWPMW1HO4zVFRhVJKs%2BRBUw2p%2FuW3%2FnOqKKA5lXqTeOox9K0l%0ANCvDOOsI1x15aiwSdiQ%3D%0A
+
+Select the blue 'SHARE' button at the bottom right to save changes.
+
+- Specify how often you want the report to be sent out by selecting schedule in the dropdown menu. (e.g., daily, weekly, monthly).
+
+[Image] https://downloads.intercomcdn.com/i/o/1115782541/ba3765c313c16d8cd680d5b2/Screenshot+2024-07-16+at+4_37_49%E2%80%AFPM.png?expires=1763568000&signature=fa08e8237c34627445b61e1bf4f6f91e1dab57e13e5f763106ba773a9d6d00dc&req=dSEmE852n4RbWPMW1HO4zSFfeQOiHHKlZ97TS%2BwneqvYAAVHtX5uAtiNiLXM%0AACtI%2BXJbVgiCLK3Y6Ao%3D%0A
+
+Select the blue 'SCHEDULE' button at the bottom right to save changes.
+
+​Save and Confirm: After entering all necessary details (employee names, frequency, etc.), save your settings. Review the information to ensure everything is correct.
+
+By following these steps, you can effectively schedule reports in Housecall Pro, ensuring that you and your team receive important business insights automatically and on a regular basis.
+​
+
+You will be able to send any report that has been generated to employees that have report access. This will add the report to their account followed by a message with a static version of the report to the email listed in Housecall Pro. The employee will be able to view a replicated PDF version of the report right from their email. They will also be able to jump over to Housecall Pro to see the report in real time.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/764555677/42a76f39395ab61a0314be11/5JB7CVv_-z2vqSmqEXSqZmEc3NZm5bCP9DuQUCiCupnXblgan0J5rSL0kVT6JN0xXLwBZndy2P0g7i7_wJAh8_BpWulEGcV6j-0k6AfOmnw2_X6h6MKAUySd2FnAgabrc802LI0oQTUcOcFrfw-dnE4?expires=1763568000&signature=1a38783e09c2de47dfdae92c7307533d0f6cfc2f93fefc360f9772c7c3cf8f9d&req=cyYjE8x7m4ZYFb4f3HP0gIq2qu6ayleP3gCmCtUYLJgr6jt1VzA7sY%2F6Ha%2Bf%0AtQYCEsYqfHN7bAqAlQ%3D%3D%0A
+
+- All scheduled and shared reports will appear in your Custom Report menu.
+
+---
+
+---

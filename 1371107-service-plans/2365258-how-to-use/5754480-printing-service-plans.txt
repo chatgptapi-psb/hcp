@@ -1,0 +1,58 @@
+Printing Service Plans
+Source: https://help.housecallpro.com/en/articles/5754480-printing-service-plans
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: How to print or download a PDF copy of an existing customer service plan.
+
+Overview
+
+Printer-friendly versions of your customer service plans can be accessed from the plan details page. At this time, printing is available only for plans that have been attached to a customer.
+
+Page layout varies based on the status of the customer service plan when it is printed, and includes accepted date information when applicable.
+
+---
+
+Printing a customer service plan from the Service Plans Dashboard
+
+- Open the Service Plans Dashboard from My Apps, then click Service Plans.
+
+[Image] https://downloads.intercomcdn.com/i/o/1019849719/afb04badb4e7bde9d5316887/Screenshot+2024-04-12+at+11_23_34%E2%80%AFAM.png?expires=1763568000&signature=818f3e0701465951e4d5eb2706566b579157ee6876d0b3fdc31d882d4e4dd786&req=dSAmH8F6lIZeUPMW1HO4zSr9Px3srzOauOHefkNdSLwH4fapfwZd3RQEP6EZ%0ATHqP%2FES4DvWddx69gK0%3D%0A
+
+- Click on VIEW ALL to view your plans.
+
+[Image] https://downloads.intercomcdn.com/i/o/1019852645/b956b0da18d0cdbffb416d6b/Screenshot+2024-04-12+at+11_35_46%E2%80%AFAM.png?expires=1763568000&signature=3970bc53e30fb59fe9072e7494452492f8b191e45604ca91a362c200e1095bba&req=dSAmH8F7n4dbXPMW1HO4zfCqzj3Gqo%2FnlkypHCZVJxy1JPHYJbHO6MC0l68J%0AsT7VMUlwVBtnfsmMzSw%3D%0A
+
+- Select a plan by clicking on it.
+
+[Image] https://downloads.intercomcdn.com/i/o/1019856622/584dba51587caf488b57b0ca/Screenshot+2024-04-12+at+11_39_58%E2%80%AFAM.png?expires=1763568000&signature=a806803f9d92c37f4bab626cc860d435141f500158c64bc217528ddd2309d2b1&req=dSAmH8F7m4ddW%2FMW1HO4zRK5P9gBdAOg6ty8viIziYiUyrlp1xedWWDjBLr0%0Ag20jTjKV9gs19kqEL9Q%3D%0A
+
+- Once in the service plan details, click on the 3 vertical dots button in the top right corner. Select Print Service Plan from the dropdown.
+
+[Image] https://downloads.intercomcdn.com/i/o/422855201/1c47adf3f5f33c9448cf822a/image.png?expires=1763568000&signature=9e366f0ac772df49c5cfacca462fade248304f8164682047129a65057abe7062&req=cCIlHsx7n4FeFb4f3HP0gFApGLHtKTNYHt%2FbZo9zp6oynY75Xo4tluicPp02%0AuESYkF15F798EUNnzA%3D%3D%0A
+
+- Select Save as PDF in the Destination drop-down to download, or connect to your local printer to print.
+
+[Image] https://downloads.intercomcdn.com/i/o/422855381/e6e70921caa81a14e2d61231/image.png?expires=1763568000&signature=a75a995c33165a1fc97b3ca0f6e5bef78088495c1f588a354c4b1456022c5428&req=cCIlHsx7noleFb4f3HP0gOlvZb5Pev3hUO1mvBXFK4VLNyWWbloG%2BhumcIJN%0AIjJdZ00qPVdyyTw2qQ%3D%3D%0A
+
+---
+
+Printing a customer service plan from the customer profile
+
+- Go to the Customers tab at the top of your navigation menu, click on the customer's profile, and select the plan you’d like to print.
+
+[Image] https://downloads.intercomcdn.com/i/o/422855976/f38c20258c9795e99af31902/image.png?expires=1763568000&signature=0b39e85de733fdb7815cc06eb9bf36b5a04cf0a6cfe91ae40a621a46e7635896&req=cCIlHsx7lIZZFb4f3HP0gDz7ipeJmI%2FpjEM%2FrLz55AO1GsNi4IKlB8IMKCUf%0A7ZkexD9WbsvM37wMdQ%3D%3D%0A
+
+- Once in the service plan details, click on the 3 vertical dots button in the top right corner. Select Print Service Plan from the dropdown.
+
+[Image] https://downloads.intercomcdn.com/i/o/422855201/1c47adf3f5f33c9448cf822a/image.png?expires=1763568000&signature=9e366f0ac772df49c5cfacca462fade248304f8164682047129a65057abe7062&req=cCIlHsx7n4FeFb4f3HP0gFApGLHtKTNYHt%2FbZo9zp6oynY75Xo4tluicPp02%0AuESYkF15F798EUNnzA%3D%3D%0A
+
+- Select Save as PDF in the Destination drop-down to download, or connect to your local printer to print.
+
+[Image] https://downloads.intercomcdn.com/i/o/422855381/e6e70921caa81a14e2d61231/image.png?expires=1763568000&signature=a75a995c33165a1fc97b3ca0f6e5bef78088495c1f588a354c4b1456022c5428&req=cCIlHsx7noleFb4f3HP0gOlvZb5Pev3hUO1mvBXFK4VLNyWWbloG%2BhumcIJN%0AIjJdZ00qPVdyyTw2qQ%3D%3D%0A
+
+For more information about Service Plans, please see Service Plans FAQs
+
+---
+
+---

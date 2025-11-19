@@ -1,0 +1,175 @@
+What are the different types of disputes?
+Source: https://help.housecallpro.com/en/articles/4671318-what-are-the-different-types-of-disputes
+Author: Taylor M
+Last updated: Updated over a year ago
+
+Summary: Learn the various reasons for disputes, how to prevent them, and what evidence is required for each type of dispute.
+
+Dispute Types & Evidence Required
+
+When your customer disputes a charge to their credit card issuer, the card issuer designates the dispute as belonging to one of 8 dispute categories.
+
+---
+
+Dispute Type: Credit Not Processed
+
+- What does this mean? - Your customer is claiming that the transaction was canceled or the product was returned and they have yet to receive a refund or credit.
+
+- How do I prevent this type of dispute? - Ensure you have a clear return policy that is easy to find and promptly issue refunds/credits to customers when merited.
+
+- What's required to overturn the dispute? - Provide evidence that you have either issued a refund to the customer through other means or that they are not entitled to a refund.
+
+- What if my customer disputes the charge before I have issued a refund? - You cannot issue a refund once the payment is disputed. If you believe the customer is entitled to a refund, you can accept the dispute.
+
+- How do I respond? - You should first contact the customer and try to resolve the dispute. If you are able to resolve this, ask them to withdraw the dispute. 
+- Regardless of whether or not you are able to resolve the issue with your customer, you will need to submit evidence.
+
+Table:
+Row 1: Evidence Required
+Row 2: - Your refund policy, as shown or provided to the customer.
+Row 3: - An explanation of how and when the customer was shown or provided your refund policy prior to purchase.
+Row 4: - Your explanation for why the customer is not entitled to a refund.
+Row 5: - If you were able to resolve the dispute with your customer, you will also need to submit:
+ - Correspondence with the cardholder stating they will withdraw the dispute
+ - A written statement from the customer's card issuer confirming that the dispute has been withdrawn
+
+---
+
+Dispute Type: Duplicate
+
+- What does this mean? - Your customer is claiming that they were charged multiple times for the same product or service.
+
+- How do I prevent this type of dispute? - Ensure that if you accidentally charge a customer more than once, refund the duplicate payment immediately.
+
+- What's required to overturn the dispute? - Demonstrate that each payment was for a separate product or service.
+
+- How do I respond? - You should first determine if your customer was charged incorrectly multiple times. If the payments are duplicates, accept the dispute. If they were not, collect information proving that each charge was a separate payment with receipt copies with an itemized list.
+
+Table:
+Row 1: Evidence Required
+Row 2: - The charge ID for the previous payment that appears to be a duplicate of the one that is disputed. Chat with HCP Blue Chat Bubble and request the charge ID.
+Row 3: - An explanation of the difference between the disputed payment and the prior one that appears to be a duplicate.
+Row 4: - Documentation for the prior payment as well as the disputed payment that can uniquely identify the separate payments (ex. separate receipt or service documentation).
+Row 5: - A copy of a service agreement or documentation for the disputed payment.
+
+---
+
+Dispute Type: Fraudulent
+
+- What does this mean? - Your customer is claiming that they didn't authorize the payment. This happens when a card was lost or stolen and then used to make a fraudulent payment. It can also happen when the customer does not recognize the payment on their billing statement from their card issuer.
+
+- How do I prevent this type of dispute? - Get to know your customers and meet them in person, if possible. Check their ID and make sure it matches their name and card information. Using a card reader will not only save you money but also reduce the risk of fraudulent payments.
+
+- What's required to overturn this dispute? - You will need to provide payment and details so that a legitimate customer recognizes it, or proves to the card issuer that their cardholder authorized the transaction
+
+- How do I respond? - You should first contact the customer since they may not recognize the charge on their billing statement as being from you. If this is the case, ask them to stop disputing the transaction with their card issuer. You will still need to submit evidence even if your customer cancels the dispute.
+​
+- If you believe the payment was actually made using a stolen credit card, you will need to accept the dispute. Credit card networks place liability on the business that accepts fraudulent payments.
+
+Table:
+Row 1: Evidence Required
+Row 2: - Evidence such as photographs or emails proving a link between the person receiving products and the cardholder, or proving that the cardholder disputing the transaction is using the service.
+Row 3: - Evidence that the person who signed for the products was authorized to sign for, or is known by the cardholder.
+Row 4: - Documentation showing proof that a service was provided to the cardholder, including the date that the cardholder received or began receiving the purchased service in a clear human-readable format. This could include a copy of a signed contract, work order, or other form of written agreement.
+Row 5: - Use this for any of the following:
+ - A signed order form for products purchased by mail or phone order.
+ - Evidence that the transaction was completed by a member of the cardholder's family or household.
+ - Evidence of one or more non-disputed payments for the same products
+ - For recurring payments: evidence of a legally binding contract held between your business and the cardholder, that the cardholder is using the products, and of any previous payments not disputed.
+
+---
+
+Dispute Type: General
+
+- What does this mean? - This is an uncategorized dispute, so you should contact the customer for additional details to find out why the payment was disputed.
+
+- How do I respond? - You should first contact the customer to understand the reason for the dispute.
+
+Table:
+Row 1: Evidence Required
+Row 2: - The billing address that was provided by the customer.
+Row 3: - The name and email of the customer.
+Row 4: - A relevant document or contract showing the customer's signature.
+Row 5: - Any communication with the customer that you feel is relevant to your case (e.g., emails proving that they received the product or service, or demonstrating their use of or satisfaction with the product or service).
+Row 6: - Any receipt or message sent to the customer notifying them of the charge.
+Row 7: - A description of the product or service and any relevant details on how this was presented to the customer at the time of purchase.
+
+---
+
+Dispute Type: Product Not Received
+
+- What does this mean? - Your customer is claiming that they didn't receive the products or services purchased.
+
+- What's required to overturn the dispute? - You will need to prove that the customer received the physical product or services and that this occurred prior to the date the dispute was initiated.
+
+- How do I respond? - You should first contact the customer and understand why they filed the dispute.
+
+- How do I prevent this type of dispute? - Maintain access logs or other documentation that tie the service or product back to the customer.
+
+Table:
+Row 1: Evidence Required
+Row 2: - Evidence such as photographs or emails to prove a link between the person receiving products and the cardholder, or proving that the cardholder disputing the transaction is using the service
+Row 3: - Evidence that the person who signed for the products was authorized to sign for, or is known by the cardholder
+Row 4: - Documentation showing proof that a service was provided to the cardholder, including the date that the cardholder received or began receiving the purchased service in a clear human-readable format. This could include a copy of a signed contract, work order, or other form of written agreement.
+Row 5: - Use this for any of the following:
+ - A signed order form for products purchased by mail or phone order.
+ - Evidence that the transaction was completed by a member of the cardholder's family or household.
+ - Evidence of one or more non-disputed payments for the same products.
+ - For recurring payments: evidence of a legally binding contract held between your business and the cardholder, that the cardholder is using the products, and of any previous payments not disputed.
+
+---
+
+Dispute Type: Product Unacceptable
+
+- What does this mean? - Your customer is claiming that the product or service was received but was defective, damaged, or not as described.
+
+- How do I prevent this type of dispute? - Ensure that the description of products or services shown in advertisements, online, and transaction receipts, or used in telephone order-taking scripts are accurate, complete, and not misleading. You should never refer cardholders to the manufacturer in lieu of attempting to resolve the issue directly—the business selling the product or service is liable and must be the point of contact for resolution.
+
+- What's Required to overturn the dispute? - You will need to demonstrate that the product or service was delivered as described at the time of purchase.
+
+- How do I respond? - If the product or service is as described, provide specific information (invoice, contract, etc.) to refute the cardholder’s claims. Quality disputes are where the customer does not agree with the condition of merchandise or service received (e.g., a car repair situation or quality of a hotel room). There may be instances where you will need to obtain a neutral third-party opinion to help corroborate your claim against the cardholder. Provide as much specific information and documentation as possible to refute the cardholder’s claims. It is recommended that you address each point that the cardholder has made. For products that have been repaired or replaced, provide evidence that the cardholder agreed to a repair or replacement, it has been received by the customer, and the repair or replacement has not since been disputed. If the customer no longer disputes the transaction, provide a letter or email from the cardholder stating that they are no longer in dispute.
+
+Table:
+Row 1: Evidence Required
+Row 2: - The date on which the cardholder received or began receiving the purchased service, in a clear human-readable format.
+Row 3: - Documentation showing proof that a service was provided to the cardholder. This could include a copy of a signed contract, work order, or other form of written agreement.
+
+---
+
+Dispute Type: Subscription Canceled
+
+- What does this mean? - Your customer is claiming that you continued to charge them after a subscription was canceled.
+
+- How do I prevent this type of dispute? - Promptly cancel subscriptions upon request and provide your customer with a confirmation of the cancellation. Make it clear on your signup page that your customers are agreeing to a recurring payment and include information about whether or not you plan to notify the customer before each payment. Make sure cancellation procedures are clearly communicated to your customers.
+
+- What's required to overturn the dispute? - You will need to prove that the subscription was still active and that the customer was aware of, and did not follow your cancellation procedure.
+
+- How do I respond? - You should first contact the customer and understand why they filed the dispute and have the opportunity to explain the misunderstanding or make it right.
+
+Table:
+Row 1: Evidence Required
+Row 2: - Your subscription cancellation policy, as shown to the customer.
+Row 3: - An explanation of how and when the customer was shown your cancellation policy prior to purchase.
+Row 4: - A justification for why the customer's subscription was not canceled.
+Row 5: - A notification sent to the customer of a renewal or continuation of the subscription, or an acknowledgment from the customer of their continued use of the product or service after the date they claim they canceled the subscription (if available).
+Row 6: - The date on which the cardholder received or began receiving the purchased service, in a clear human-readable format.
+Row 7: - Documentation showing proof that a service was provided to the cardholder. This could include a copy of a signed contract, work order, or other form of written agreement.
+
+---
+
+Dispute Type: Unrecognized
+
+- What does this mean? - Your customer is claiming that they don't recognize the payment appearing on their card statement
+
+- How do I prevent this type of dispute? - If you are not sending email receipts already, consider sending them to customers to help them remember their purchases.
+
+- What's required to overturn the dispute? - As with fraudulent disputes, get your customers to withdraw the dispute by helping them identify the payment.
+
+- How do I respond? - You should first contact the customer since they may not recognize the charge on their billing statement as being from you. If this is the case, ask them to stop disputing the transaction with their card issuer. You will still need to submit evidence even if your customer cancels the dispute.
+
+Table:
+Row 1: Evidence Required
+Row 2: - The date on which the cardholder received or began receiving the purchased service, in a clear human-readable format
+Row 3: - Documentation showing proof that a service was provided to the cardholder. This could include a copy of a signed contract, work order, or other form of written agreement.
+
+---

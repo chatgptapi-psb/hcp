@@ -1,0 +1,101 @@
+How Employees Can Manage Their Time Off via Web
+Source: https://help.housecallpro.com/en/articles/10438881-how-employees-can-manage-their-time-off-via-web
+Author: Angela G
+Last updated: Updated over 10 months ago
+
+Summary: This guide will walk you through submitting, editing, and deleting time-off requests and managing denied requests.
+
+How Employees Can Manage Their Time Off via Web
+
+Employees can now easily manage their time-off requests by logging into Housecall Pro via the web portal.
+
+---
+
+Submitting a Time Off Request
+
+To submit a Time Off Request:
+
+- Navigate to the Payroll tab: - Log into your Housecall Pro account through the web portal. 
+- Select Payroll in the top navigation bar.
+
+- Access the My Time Off page: - Under Payroll, click on My Time Off.
+
+- Submit a New Request - View your current time-off policy.
+- Select the dates for your time off.
+- Choose the type of time off (e.g., Paid Time Off or Sick).
+- Add any notes if needed.
+- Submit your request for approval.
+
+---
+
+Editing a Time Off Request
+
+To edit a Time Off Request:
+
+- Go to the Payroll Tab: - Log into your Housecall Pro account through the web portal. 
+- Select Payroll in the top navigation bar.
+- Navigate to My Time Off under the Payroll Tab.
+
+- Locate Your Request: - Find the request you want to edit under the "Time Off Requests" list.
+
+- Click Edit Request: - Select the request you want to modify.
+
+- Update Request Details: - Adjust the First Day or Last Day of the request.
+- Change the time-off type (e.g., PTO or Sick).
+- Switch between Full Days and Customized Days (requests less than 8 hours).
+- Add or update any notes.
+
+- Resolve Conflicts (if applicable): - If the updated dates overlap with another active request, a Blocking Alert will appear.
+- Use the View Request button to navigate to the conflicting request and make changes.
+- Adjust dates in the current request to avoid conflicts.
+
+- Save Changes: - Click Save Changes to submit the updated request.
+
+---
+
+Deleting a Time Off Request
+
+To delete a Time Off Request:
+
+- Go to the Payroll Tab: - Log into your Housecall Pro account through the web portal. 
+- Select Payroll in the top navigation bar.
+- Under Payroll, navigate to My Time Off.
+
+- Find the Request to Delete: - Locate the request you want to delete in the list.
+
+- Click Edit Request: - Select the request to open its details.
+
+- Delete the Request - Click the Delete Request button.
+- Confirm the deletion when prompted.
+
+- Request Removed - The request will be deleted from the system.
+
+---
+
+Editing a Denied Time-Off Request
+
+If your request was denied, you can resubmit it with adjustments.
+
+To edit a denied Time Off Request:
+
+- Navigate to My Time Off: - Log into your Housecall Pro account through the web portal. 
+- Select Payroll in the top navigation bar.
+- Under Payroll, navigate to My Time Off.
+
+- Find the Denied Request: - Locate the denied request in the list.
+
+- Click Edit Request: - Open the denied request to review it.
+
+- Review Employer Notes: - Check the denial notes provided for guidance on adjustments.
+
+- Make Necessary Adjustments: - Change the days to Customized Days for requests less than 8 hours.
+- Update the First Day and Last Day if needed.
+- Add any updated notes or comments.
+
+- Submit the Request: - Click Submit Request to resubmit it for approval.
+
+By following these steps, employees can efficiently manage their time off and ensure a smooth approval process.
+
+For further assistance, reach out to your admin or employer for support.
+
+---

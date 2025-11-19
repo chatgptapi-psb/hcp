@@ -1,0 +1,42 @@
+Max Introduction and Account Setup
+Source: https://help.housecallpro.com/en/articles/3916270-max-introduction-and-account-setup
+Author: Taylor M
+Last updated: Updated over a week ago
+
+Summary: This course will go over the basics of getting started with your new Max Plan including account setup
+
+MAX Plan Starter Kit Introduction
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/5bpgpn4p0h
+
+---
+
+Welcome to Housecall Pro!
+
+Welcome aboard! In this guide, we’ll walk you through what we call your Max Starter Kit. Each tutorial will help you set up your account, learn how to schedule and run jobs and estimates, train your team, collect payments, optimize your review strategy, and set up your online booking.
+
+Work through each tutorial step by step, and if you encounter any issues or have questions, use the blue chat bubble in the bottom right corner to reach out. Our team is here to help and can provide answers or give you a call if needed. Let’s get started with your account setup!
+
+---
+
+Account Setup
+
+Let's get the basics set. Your Company profile is going to be where you enter your company info, add Terms and Conditions, and set standard messages that will be seen on all documents.
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/f1knccx6t5
+
+Here’s a detailed look at setting up essential elements in your Housecall Pro account:
+
+- Set Up Company Info: Start by entering your company’s details into Housecall Pro. This includes your business name, address, phone number, logo, and more. This step ensures that all your communications and service records are accurate and reflect your company’s identity.
+
+- Add Employees: Next, add your team members to Housecall Pro. Input their names, roles, contact details, and more. Assign them specific permissions according to their roles in your business. This setup will enable them to manage their schedules, view and update jobs, and handle customer interactions efficiently.
+
+- Add Your Price Book: Create and configure your Price Book to standardize pricing for your services and products. Add detailed descriptions, set prices for different services or items, and categorize them appropriately. This helps in providing consistent quotes to your customers and simplifies billing processes.
+
+- Add Customers: Import or manually add your customer base into Housecall Pro. Include their names, contact information, and any relevant details about their past interactions or service history. This centralizes your customer information and allows for seamless communication and service management.
+
+- Set Up Business Hours: Define your business hours to ensure that your scheduling and customer interactions align with your operating times. Specify your regular hours of operation. This helps in managing appointments effectively and setting accurate expectations for your customers.
+
+By thoroughly setting up these components, you ensure a smooth transition to Housecall Pro and establish a solid foundation for managing your business operations efficiently.
+
+---

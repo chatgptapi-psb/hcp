@@ -1,0 +1,130 @@
+Billing and Payments for Service Plans
+Source: https://help.housecallpro.com/en/articles/4530621-billing-and-payments-for-service-plans
+Author: Taylor M
+Last updated: Updated over a month ago
+
+Summary: Service Plan Overview to view your customer's billing and payment
+
+Customer Service Plan Activity & Billing
+
+Determine if a Service Plan is active, pending, or still a draft, as well as how to check the payment status for a particular plan.
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/xv1gqiiu8n
+
+Tracking a Customer’s Overdue and Failed Service Plan Payments
+
+Easily see any failed or overdue service plan payments from the customer profile and jobs page.
+
+Overview:
+
+Banners on the customer profile let you know when a customer has an overdue service plan payment. Overdue payments are defined as cash, check, or other payments that have not been collected. Failed payments are credit card payments that failed to process. These prompts are designed to help ensure the entirety of your service plan revenue is being collected.
+
+How It Works
+
+When a customer has an outstanding service plan payment, a red banner will appear at the top of their customer profile indicating the total amount due. Selecting the view details button will open up the service plan details page to get more information on the overdue or failed payment. If there is not a view details button present, these outstanding payments represent outstanding payments across multiple service plans. Scroll down the page to see which specific service plans have missing payments. This information will be present until the service plan payment has been completed. The overdue and failed payment banner on the customer profile will appear on web only.
+
+[Image] https://downloads.intercomcdn.com/i/o/518011902/4f5bb48ac5311d2d2ce7a79f/Customer+profile+updates+%282%29.png?expires=1763568000&signature=7ec16cbbcc456f2c065a52e7bebcfe4b8d26ac88e6c12ddcab28d13a6c6dd69f&req=cSEvFsh%2FlIFdFb4f3HP0gMU876YfD5Pt7vmaT2jY%2FpGxxa3A4aNDZuYeiyp5%0A2sJOSi04Q%2FYXW7D3nQ%3D%3D%0A
+
+Overdue Service Plan Payments
+
+Overdue payments will also appear on the Service Plan tile which is located on the jobs page and in the customer profile. This information is available on web and Android. iOS coming soon.
+
+[Image] https://downloads.intercomcdn.com/i/o/518011959/d91f828c697fdc370f4910b9/Screen+Shot+2022-05-20+at+1.54.43+PM.png?expires=1763568000&signature=2f54ab9d2b9fa28695a5082402c056efe95d91430431f0ddb855e7f5db957d80&req=cSEvFsh%2FlIRWFb4f3HP0gC4soMd82Yi8OdDGsdLmmITYvazSngDH8qhiU68u%0AwYYQqjKsQLWd0RwQrQ%3D%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/518011972/f009787403a9a8b4effca5c8/Screen+Shot+2022-05-20+at+12.29.31+PM.png?expires=1763568000&signature=ca52ecedeb306a0990d53cd12bba96995fa188b6117df8fda8129b0a36740e2b&req=cSEvFsh%2FlIZdFb4f3HP0gGDL7PaCkO%2FiuEwGgzmKGuTOdtdfPX6wRXdxOjyJ%0AKa7ArocEpSUGlptcOw%3D%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/518011999/62cbd228a7885937586c87fb/Screen+Shot+2022-05-20+at+12.23.37+PM.png?expires=1763568000&signature=bccceded61a0104de85bffc220f2d6d8ffbf0b02d7d96519e0df98b1d6e0c4cc&req=cSEvFsh%2FlIhWFb4f3HP0gI1KpBQlPTIhVPQUn5RCXeYVlQSlag3A9q%2FUx7XL%0AbggX7n9obCEVeEJ7RQ%3D%3D%0A
+
+Failed Service Plan Payments
+
+In the event that your customer's payment fails for a Service Plan, they will receive an automatic email letting them know their payment failed, the reason for failure (such as expired card), and include a link that customers can click to access their client portal and update their card information.
+
+Note:
+
+- Updating the card on file does not change the billing date
+- If there is an outstanding balance due, all outstanding amounts will be charged to the new card on file at the time of update
+
+[Image] https://downloads.intercomcdn.com/i/o/1160241752/e18ed8f6d8429f500bd2d7d0/Screenshot+2024-08-27+at+1_58_17%E2%80%AFPM.png?expires=1763568000&signature=7e918ef575c54861c541a5dcc39e79ed988c0e4341e8257a046fa5ec9185aae3&req=dSEhFst6nIZaW%2FMW1HO4zfUqeQttTSnmw55zo0a7Vcq9JdMMsZybiwWr78IT%0ARgkmeKWHGo0h1rHngAU%3D%0A
+
+If a credit card payment for a Service Plan has failed you will get an email notification:
+
+[Image] https://downloads.intercomcdn.com/i/o/375673209/6e39055fb1af02ddd2473874/Screen+Shot+2021-08-13+at+12.10.02+PM.png?expires=1763568000&signature=f4db1d1b03f49fb6dd9400e5b5ff5489ace51f9fc244ff939df9902249457b3c&req=dyciEM59n4FWFb4f3HP0gAQ7neuFiO4Ddfnp5bIozCsnp8esFEG6sb5FWS5N%0AJIw895N1gpg7TZxmJQ%3D%3D%0A
+
+To submit a Service Plan payment for your customer, navigate to the Service Plan details page for that customer’s plan and click “Pay” button.
+
+[Image] https://downloads.intercomcdn.com/i/o/518012412/c36b1783d8b83439291e0bbb/Screen+Shot+2022-05-20+at+1.58.17+PM+%281%29.png?expires=1763568000&signature=ed489d464d03cd1cf2b53f7def13ee571949aa413952d7ad33df9f6a51b4afd0&req=cSEvFsh8mYBdFb4f3HP0gBMzE3T8iGZS%2F7yAAbhWaOytPgVua6vBJp0mds%2Fu%0AQPCqtp%2FGfOoOV5g%2BjQ%3D%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/518012467/d62bb93e4fb6c4da486c5570/Screen+Shot+2022-05-20+at+1.59.35+PM.png?expires=1763568000&signature=2c44b87d011df2aef67cc48bcec72539fafdc292848d3c0a42061b079ad35c41&req=cSEvFsh8mYdYFb4f3HP0gP0ZVUqd43a4pquV90bhmESt76PVrzqIjxiMCqhe%0A7chPkmiide8SnhTSfw%3D%3D%0A
+
+Once the credit card has been updated, future Service Plans payments will use the new card information.
+
+Updating a Customer’s Service Plan Credit Card
+
+Service Plan credit cards can be updated by both the Pro and the customer.
+
+How to Update a Customer's Credit Card Information using the Service Details Page
+
+Pros can update a service plan credit card through the Service Plan details page.
+
+- Go to the Customers tab, locate the customer's profile, and select the correct Service Plan.
+- On the Service Plan details page, scroll down to the Payments section, previously called Billing Cycle.
+
+[Image] https://downloads.intercomcdn.com/i/o/518009189/8178c914ee9113a5b59a14f1/Screen+Shot+2022-05-23+at+12.23.59+PM.png?expires=1763568000&signature=70b2853f5662cfe779c86bc38924baa511d4c820de5c1029c04747085e4dfea6&req=cSEvFsl3nIlWFb4f3HP0gJRCf1DpMpE6WHGybztEueQS69LQkXpMYZal3x%2Ft%0A%2FatG8DXXluIudnUNTg%3D%3D%0A
+
+- Select the add or update credit card button. The add button will appear if there is not a credit card currently attached to the service plan. The update button will appear when a credit card is currently attached to the service plan.
+- If the customer’s service plan payments are up to date, simply add or edit the service plan card. The card will be saved for future service plan payments and no charges will occur at this time. When future payments are due, the card will automatically charge.
+
+[Image] https://downloads.intercomcdn.com/i/o/518009654/f782adc9e5d7b4149d124642/Screen+Shot+2022-05-18+at+10.03.59+AM.png?expires=1763568000&signature=f108ce5d01162a6d4916debd8f883a0694a3a57fceccd4edaff3e1fc82ae14c4&req=cSEvFsl3m4RbFb4f3HP0gC58owwRknhjmV5ltbxL9ynrEkkz%2Bl6YtaBIIq0n%0ATmixL0xhPQdeTMyOZA%3D%3D%0A
+
+If there are overdue or failed payments on the service plan, you have two options when adding the new credit card.
+
+- Charge this card for all outstanding payments - Upon saving the card, we will charge the customer immediately for the total amount of all failed or overdue payments on the plan.
+
+[Image] https://downloads.intercomcdn.com/i/o/518009737/df0143a25263d300804f1b84/Payment+dialog+%283%29+%281%29.png?expires=1763568000&signature=40828d58f7f08144b45e8697c7e49b0e8b2bf2be7ea755600d135347fe1d11d4&req=cSEvFsl3moJYFb4f3HP0gOTAhj5UAgchFw5zBg6zg6pi4GUVQMO2kluZWM%2Fs%0AO7GZ0dgSA13ySo8CgQ%3D%3D%0A
+
+- Mark all outstanding payments as paid - The customer’s card will be added to the service plan, and all failed and overdue payments will be marked as paid. The card will be saved for future service plan payments and no charges will occur at this time. When future payments are due, the card will automatically charge.
+
+[Image] https://downloads.intercomcdn.com/i/o/518009916/36032166b522f6dbbb40fa51/Payment+dialog+%284%29+%281%29.png?expires=1763568000&signature=fed6bccfd77cbf68f15eb17b9f1abf4287ed626bdb64d6f125e41c7275f16a40&req=cSEvFsl3lIBZFb4f3HP0gH8QzmlQbGL7VzpXJUsSs0Ac26x0Req6AK81NhB%2B%0AucGbK%2B5F2%2BcCFfZnFA%3D%3D%0A
+
+Please Note: This feature is available on web only.
+
+How to Update a Customer's Credit Card Using the Customer Portal
+
+When a customer is sent a Service Plan to Pay and Accept, they create a login, select a billing frequency, and add their credit card information. If they should need to add/remove/update that information they can do so through the client.housecallpro.com portal. The customer may log into this portal and update their information at anytime.
+
+- Updating the card on file does not change the billing date
+- If there is an outstanding balance due, all outstanding amounts will be charged to the new card on file at the time of update
+
+[Image] https://downloads.intercomcdn.com/i/o/375749795/9955c7f6dfe4229fb2c0e168/HCP+Customer+SP.jpg?expires=1763568000&signature=5a568d8f6bdc7d0d483780645f51c00d4e4c20a5c1c35e7d0283a124a914e54e&req=dyciEc13mohaFb4f3HP0gFxD0vy40c6oCetl3mYqjKviA%2Bekj%2BwFFFbFdZ73%0AlUF1A4QA78tNh5m%2FpQ%3D%3D%0A
+
+Service Plan Refunds
+
+How to refund credit card payments and return cash/check/other payments for Service Plans.
+
+Credit Card Payments
+
+- Go to the Customers tab, locate the customer's profile, and select the appropriate Service Plan.
+
+[Image] https://downloads.intercomcdn.com/i/o/389207521/79184c705216e50f89601422/Screen+Shot+2021-09-14+at+8.45.14+AM.png?expires=1763568000&signature=9e42487f50c2bcd7082a73e6c5ddb21fc10021f1b65216b756b6f9a27ba20396&req=dyguFMl5mINeFb4f3HP0gCcPZv65L3MW%2BRiOhcse0agWGMZA%2BOjHot4HijcW%0AyQ05%2BA3FXL36zSrifA%3D%3D%0A
+
+- On the plan details page scroll down to the Billing Cycle. Hover over the payment to be refunded and click the slashed $ icon.
+
+[Image] https://downloads.intercomcdn.com/i/o/388703059/1368510a25e117b78b1688a3/Screen+Shot+2021-09-13+at+10.24.57+AM.png?expires=1763568000&signature=fef55721207369a8bb54f92aa4ffd21987a374638e0ca1397880c5ed80c5b8ef&req=dygvEcl9nYRWFb4f3HP0gJnz4JwyhYd0r8Dg2vUVVl1Ubmk3XKwpRbYn1kzA%0A8XKBHWExacbJlJeN3A%3D%3D%0A
+
+- In the text box type the amount to be refunded and click ISSUE REFUND. The customer will receive the full amount of the payment returned to their card and a refund receipt to their email.
+
+[Image] https://downloads.intercomcdn.com/i/o/388703194/646cdf5e5d4ac722529ad5ea/Screen+Shot+2021-09-13+at+10.26.40+AM.png?expires=1763568000&signature=e6d05d84f21a7475a0bdb2c95a72996ffc19ca4ce5e893c4a846eb7141c5f4f8&req=dygvEcl9nIhbFb4f3HP0gLkbfTTCKvqzORU%2B4RPN10CXKXRm7Uwbn2X4Mjqz%0AQ%2BIy07iUSg5Udr%2BdcQ%3D%3D%0A
+
+- The refund will be reflected on the Billing Cycle as well as the Service Plan Activity Feed.
+
+[Image] https://downloads.intercomcdn.com/i/o/388899177/f8b203a8a97505f7b1aa92fb/Screen+Shot+2021-09-13+at+10.28.18+AM.png?expires=1763568000&signature=6061c6a390cca13ee472f0e8fd1f823250e0b1c013b51ed5ebaee9a4f7895517&req=dygvHsB3nIZYFb4f3HP0gJUitjs1DqnjIvbXTF6TIHmNgn%2BbMek8HXcxIQ10%0AtTFG7UhJU8CX69wXdg%3D%3D%0A
+
+Cash, Check, or Other Payments
+
+- Cash, check, or Other forms of payment cannot be refunded through the Service Plan itself. If you return a payment of these types to a customer for their Service Plan you will need to cancel their plan. Please see Delete or Cancel a Customer's Service Plan.
+
+Check out how recurring revenue helps your service business grow.
+
+---
+
+---

@@ -1,0 +1,67 @@
+Add A Service Plan Discount
+Source: https://help.housecallpro.com/en/articles/6395181-add-a-service-plan-discount
+Author: Sarah C
+Last updated: Updated over a month ago
+
+Summary: Learn how to add Discounts to Service Plans
+
+Service Plan Discounts
+
+Service Plan discounts allow you to add a discount to the service plan templates you offer and then automatically apply the discount to all future jobs (including segments) and estimates for those customers.
+
+---
+
+Add a Discount to a New Service Plan Template
+
+To add a Discount when creating a new Service Plan Template:
+
+- Click the My Apps icon in your navigation bar and select Service Plans.
+- On your Service Plans dashboard, in the top right-hand corner, click on + SERVICE PLAN.
+
+[Image] https://downloads.intercomcdn.com/i/o/552002462/aeca9349dbfecccac84656ff/image.png?expires=1763568000&signature=f68ee1c359a90c9ce4a354d921062987836314b10ecddf6ba44b268c494d830c&req=cSUlFsl8mYddFb4f3HP0gJDNu9xrNZXYq2R%2BUboDcA%2BNBSAixKI2e5cB4UaK%0AL2DwM2PDD6Uxsqyf1Q%3D%3D%0A
+
+Set up the service plan as outlined in the steps here.
+
+In the discounts section:
+
+- Toggle Apply discount to jobs on.
+- Enter a description
+- Enter a percentage amount
+
+[Image] https://downloads.intercomcdn.com/i/o/552001562/2faba7d46fba8e0a0c4caae0/image.png?expires=1763568000&signature=b061c91628f2f2cc3807e380ca5e744516da3e28ec0eee0a71b09b74a6b1608b&req=cSUlFsl%2FmIddFb4f3HP0gCFamQlaWdyvduVqj%2BuTxIeBY6c%2B7bPWYUVoHLab%0AX5b84CZU9X0T7miWYw%3D%3D%0A
+
+- If you would like to remove or not include a discount, the Apply discount to jobs toggle must be off.
+
+[Image] https://downloads.intercomcdn.com/i/o/552001046/1154cc2a9d8d20bbeef44f3a/image.png?expires=1763568000&signature=ab1542079f3ad231b3f09bb585aed07b626aa47d42ea141e0ade49232c5cd4ab&req=cSUlFsl%2FnYVZFb4f3HP0gINxtISwUwVUqL%2FsZlhAHAe%2Fh%2BAp38b2sHT%2BPShU%0Ay1cACoglAXnuk%2FG56A%3D%3D%0A
+
+- Click Next to finish setting up your Service Plan template, and then select Create plan.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1610018671/5fd016b48c313219accfe6813d19/image.png?expires=1763568000&signature=bcc5ea0e5e2c7f589fc61779980636dbc3877e2760a9b70eea16512ac1c26bad&req=dSYmFsl%2FlYdYWPMW1HO4zZ1rCryoX2DhK3KT20nC6JNg%2Bx%2BgTvTXlVYbQ36F%0AEG48f75a6RtIV%2Bz9zSA%3D%0A
+
+---
+
+Add a Discount to an Existing Service Plan Template
+
+To add a discount to an existing Service Plan template:
+
+- First, navigate to the Service Plan Dashboard.
+
+- Next, under the Plan Templates section, select the service plan template you want to update.
+
+- Then, click the three vertical dots in the top right corner of the template and choose Edit Service Plan.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1610057737/28e413373d3d0de2a35be374bade/image.png?expires=1763568000&signature=7359b500f671a0d5d75ce158e5706113adc5b50e7fb1f2f899d488de20a500d1&req=dSYmFsl7moZcXvMW1HO4zYwialMtAQg4rT917%2FJNkNjZoP1%2FDAF4Ylq64Wo%2B%0AIvdnsB6S8%2F0HWPdWZD4%3D%0A
+
+- Under the Discount section, turn on the toggle to Apply Discount to Jobs.
+
+- Once you've added the discount, click Next in the top right corner to continue, then select Save Plan to confirm your changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1610060485/5fd9f1449bfc14fd2193025f7d75/image.png?expires=1763568000&signature=1b2008d38d51e84ee0988f0bf79ba1b965c93036cb7bb7dfcf6da6fd76b03bbe&req=dSYmFsl4nYVXXPMW1HO4zbq1sEBBUzeDX1iQ92MDbmSzexhMfyfBLPMHV640%0AOXiPua2JoV80imYPTGQ%3D%0A
+
+---
+
+For more information on Service Plans, please see our Service Plans Collection or Service Plans FAQs.
+
+---
+
+---

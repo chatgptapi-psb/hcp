@@ -1,0 +1,22 @@
+Instant Deposits - Transaction Limits and Fees
+Source: https://help.housecallpro.com/en/articles/9354439-instant-deposits-transaction-limits-and-fees
+Author: Roland Ligtenberg
+Last updated: Updated over a year ago
+
+Instant Deposits Transaction Limits and Fees
+
+Use of Housecall Pro Instant Inbound Deposts is subject to certain transaction limits and fees. Note that these limits and fees may be adjusted by Housecall Pro at any time, without any notice to you.
+
+Transaction Limits
+
+Deposits made into your account through the use of Instant Deposits are subject to certain transaction limits. These limits are:
+
+- A deposit made through an Instant Deposit can not exceed your assigned limit, which may vary between $50 and $5,000, depending on business data collected by Housecall Pro through your use of the platform, exclusive of any fees incurred from the transaction.
+
+- A deposit cannot be initiated until repayment for any outstanding prior deposit is collected.
+
+Fees
+
+Instant deposits into your Housecall Pro Money Account made through an Instant Deposit will incur a cost of 1% of the transaction value. The deposit value and the fee will be debited from your Plaid-linked bank account.
+
+---

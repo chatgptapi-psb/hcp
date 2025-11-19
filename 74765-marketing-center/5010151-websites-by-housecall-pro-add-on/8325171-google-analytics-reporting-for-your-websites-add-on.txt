@@ -1,0 +1,55 @@
+Google Analytics Reporting for Your Websites Add-On
+Source: https://help.housecallpro.com/en/articles/8325171-google-analytics-reporting-for-your-websites-add-on
+Author: Roland Ligtenberg
+Last updated: Updated over a month ago
+
+Summary: Unlock website performance reporting through Google Analytics for your new Housecall Pro website
+
+Housecall Pro Blueprint to Success Workshop
+
+If you're looking for more advice on how to effectively use Websites by Housecall Pro, along with other great features, register for the Housecall Pro Blueprint to Success Workshop!
+
+[Button] Register Here -> https://docs.google.com/forms/d/e/1FAIpQLScM2b6NgGEvrjkOFAZPunvol2CoR4FIIFiVgR7DmTRqgd3gQg/viewform
+
+---
+
+---
+
+Tracking website performance using Google Analytics on your new Website add-on
+
+Websites are built for you, by our experts. Your builder will also set up a Google Analytics account for you so that you can track the performance of your new website!
+
+Google Analytics allows you to track critical site performance metrics including:
+
+- Traffic Sources: How and where users are being driven to your website
+- Visitor Information: Specifically geo-location of your website visitors and the type of device they are using
+- Page Popularity: Which pages are your visits landing on and interacting with the most?
+- Bounce Rates: Are your visitors visiting one page and leaving immediately? Or are they exploring your site’s content?
+
+Accessing your Google Analytics Dashboard
+
+Look out for an email from your builder that will let you know you have been added as an Admin for your Google Analytics dashboard. We've set everything up for you!
+
+You will receive an email from noreply-analytics@google.com
+
+Please log in to Analytics by selecting the hyperlink http://analytics.google.com/analytics/web/ to access your account.
+
+You can visit Google's help center for any questions about Google Analytics.
+
+[Image] https://downloads.intercomcdn.com/i/o/821079692/f41dd764eb641fca0f0c5425/ezgif-1-3b61f33e05.gif?expires=1763568000&signature=6e07063a4bc39cbba0bf3546e8b0a044e6e093c4d9ec8bfffafb02d91b6654eb&req=fCImFs53m4hdFb4f3HP0gIRtzxjjBW29neyQ92degzwLJpnK2PL4I%2Fnwe40B%0A2cXiBFHD0PdFAXkX4w%3D%3D%0A
+
+What are the benefits of using Google Analytics to measure your website performance?
+
+- Built with Google's AI - Have AI predict user behavior and deliver actionable insights
+
+- See customer journeys across sites and apps - Gather key data, or easily import your own, for business analytics
+
+- Valuable campaign insights - Discover your best-performing ads and see results in real-time when connected to Google Ads
+
+- Fast, robust reporting - Analyze data quickly and share high-impact reports easily with your team
+
+- Privacy-safe measurement - Measure activity with an event-based model that doesn't exclusively rely on cookies
+
+- Seamless expanded integrations - Connect to other Google solutions and partner products for increased efficiency
+
+---

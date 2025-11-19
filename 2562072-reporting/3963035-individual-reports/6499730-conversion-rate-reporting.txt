@@ -1,0 +1,179 @@
+Conversion Rate Reporting
+Source: https://help.housecallpro.com/en/articles/6499730-conversion-rate-reporting
+Author: James N
+Last updated: Updated today
+
+Summary: Report and take action on the customer leads, calls and estimates
+
+Leads: Conversion Rate Reporting
+
+Lead conversion rate reporting allows you to report and take action on any of the customer leads you are generating through Pipeline. Now you’ll be able to easily see your leads' win rate, which leads are still outstanding, and how many leads were converted by date or employee. You can filter, customize, and export these reports.
+
+Access and Create Lead Reports
+
+- Select the Reporting tab, located at the top of your HCP account in your navigation bar.
+
+[Image] https://downloads.intercomcdn.com/i/o/1115542790/ee3ca7cf4679a91ddee5feea/Screenshot+2024-07-16+at+11_31_37%E2%80%AFAM.png?expires=1763596800&signature=4118ec4dd4fbe141dec5ddce64f0f6ef86daf94601fd21d685d486819fd187e7&req=dSEmE8x6n4ZWWfMW3nq%2BgdEqtg2u49Fmq7xJEgJdRLoe01UtPV0sxYj7wAEH%0AGvoJr4S4njV6jGvJDmgwgWCelg8%3D%0A
+
+- Click Leads on the left sidebar. This will open your Leads Reporting menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/568649848/b3b4419c7b6ce33a0d781050/leadsmov1.gif?expires=1763596800&signature=f383c1b3a9e3c733e7a36e58e4ddd347e1b814834842041235fd83e6f76796a0&req=cSYvEM13lYVXFb4V1XW4gXVxA%2BLfC1YBMMlZj9a77iBDOMFrW%2FWkE16B60m7%0AsIKmXDpN0RuO3%2B0uPbJ2iwpTCA%3D%3D%0A
+
+- On the Leads report page, you'll see several different report options organized by date, type, or employee. Click on any of the report names to pull that specific report. Reports include: - Date: Lead conversion by day, Lead conversion by week, Lead conversion by month.
+- Type: Lead conversion by Lead Source
+- Employee: Lead conversion by employee, Open leads by employee.
+
+[Image] https://downloads.intercomcdn.com/i/o/568650531/f54900dd1ba46d700c6297d1/leadsmov2.gif?expires=1763596800&signature=77023560bda548a9f69585a30f3e6e5395a6d3fee2d55f8708cbf710d26f5b9a&req=cSYvEMx%2BmIJeFb4V1XW4geU31LcJ9dL%2Bo0cSPC%2BOLxV2DyBHyLWoLi6JH3px%0AvwD0VnFGjA8dmh0JpK9v2r2%2FMQ%3D%3D%0A
+
+After selecting a report, you can click on the two date settings buttons on the top left of the leads report chart to change the data being shown. This is the date range you want to view and how you want the report organized. This functionality is the same on every report.
+
+- Date range: Shows any leads that fall within a specific date range. To edit, simply click the current date range dropdown menu at the top of the report, and select the time frame you'd like to view.
+- Created date: This setting, next to the 'Week to Date' field, will currently be the only setting for this field in the leads report and shows leads created within the date range selected. This will show the date the lead was created by your employee.
+
+[Image] https://downloads.intercomcdn.com/i/o/568599708/0d9030f6fda98e473d8b542a/leads1.jpg?expires=1763596800&signature=57e61865765f4e12e998f969478860511908f9ef6434c71666899c1809025b23&req=cSYvE8B3moFXFb4V1XW4gVPbn9rathnuq%2B4lGSA8oWt3m2jn%2FLh15ZXxFqK%2F%0AHcnoaKlPMsfrI5UASA3HxtF1hw%3D%3D%0A
+
+- You can apply any of the following filters to your leads report by clicking on the blue Filter button at the top right of the report and scrolling to view: - Lead tags
+- Employee
+- Lead Source
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1795167070/606249121199ce65afe68cc22a83/image.png?expires=1763596800&signature=09645751b34904d9bee7d8c51a1727ab70ae77fa06018f49ce52b1378198f3c2&req=dScuE8h4moFYWfMW3nq%2BgVGW0SlDTrAfgMcTrYq8bQOaSFZgQvZS3Bj5%2FDqf%0AskOnwqPzmwD6BDdw%2BX7cJWxrtfY%3D%0A
+
+- Customize the metrics in the data table by using the blue Edit columns button located at the bottom right of the report graph. Once in the edit columns menu, you can select or unselect metrics to see in the table.
+
+- You can change how the data is summarized (by date, employee, or lead source) by using the group by drop-down selector in the edit columns menu.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/539492753/afafa283e6e6fe285a468f79/C0R9MmJf_6Mmtpb3ogZ5mgbE-MF6M5stTh9_qSn_qxZ5Lzcda1B88FRtFtAbjoyF4FKfFE_2lBDDB0QrMrLxNJR8w4as1lqeSDZ7eGWHoi5pPd3MrlYXMPDkwQAMA2TvWpwhjpoLukNrZmDkn7g?expires=1763596800&signature=7c87d24102ca57680dfc7e08237f401a58c4d39a39ffb2b51eba21586e26ef8d&req=cSMuEsB8moRcFb4V1XW4gcDcHAWLG5S1eGSr7WjO0mOMg2YdmDT1RQz4oIGE%0Ah1UXN8IxJoSGFUTmVK9R85k0Rg%3D%3D%0A
+
+- Once you have created and customized your report, you can click the blue Export button to the left of the Edit columns to download and export your Lead Report.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1787108008/b11a42e5e1cf573c0029bb8d30e9/image.png?expires=1763596800&signature=f2f5787cddff1f4e2e3c7d8e2fb669e2513c78be43f26479f2f8ebc6693f638a&req=dScvEch%2BlYFfUfMW3nq%2BgdS0f8GSArsBxaMyJufSniyv%2B7FWNnpKTk3VW9rp%0AOGvFUP%2F0FzT0w10i3oSth6UyTgs%3D%0A
+
+Drilling into Leads details (COMING SOON)
+
+To view any individual lead corresponding to a row in the table, click on that row. To view all leads that meet your report filters, click on the total row in the table.
+
+Understanding Leads Metrics
+
+- Open count: Total count of open leads that are still actively being worked within Pipeline.
+- Won count: Total count of leads moved over to won on the Pipeline leads board. A prompt will start estimate or job creation for these leads.
+- Lost count: Total count of leads moved over to lost on the Pipeline leads board.
+- Conversion rate: Percentage of generated leads that have moved over to the won column on the leads board, out of the total leads (won, lost and open).
+- Total Count: Total of all columns combined
+
+---
+
+Call Conversion Rate Reporting
+
+View your call to job conversion on any of the customers calling through Voice
+
+Call conversion rate reporting allows you to accurately see your call to job conversion on any of the customers calling through Voice. Now you’ll be able to easily see all calls coming in, your call conversion rate from your total opportunity calls, and how many estimates or jobs were generated from those calls.
+
+Accessing Voice Reporting
+
+- Select the reporting tab, located at the top of your HCP in your navigation bar. Voice users will now see a menu for Voice reports.
+
+[Image] https://downloads.intercomcdn.com/i/o/1115542790/ee3ca7cf4679a91ddee5feea/Screenshot+2024-07-16+at+11_31_37%E2%80%AFAM.png?expires=1763596800&signature=4118ec4dd4fbe141dec5ddce64f0f6ef86daf94601fd21d685d486819fd187e7&req=dSEmE8x6n4ZWWfMW3nq%2BgdEqtg2u49Fmq7xJEgJdRLoe01UtPV0sxYj7wAEH%0AGvoJr4S4njV6jGvJDmgwgWCelg8%3D%0A
+
+- Select the 'Voice' option located on the left sidebar to open up your reporting menus and click into any report on the right side to view your data.
+
+[Image] https://downloads.intercomcdn.com/i/o/1115545291/a950cf0ed4a57e30ffb33df4/Screenshot+2024-07-16+at+11_33_15%E2%80%AFAM.png?expires=1763596800&signature=dcdcb3cad0846fee757221782c44bb796a2f65d2d92dde2ba7cbb32d17d5a1c0&req=dSEmE8x6mINWWPMW3nq%2BgdO8pp4p21bciya2E%2BizDndBBuOtt3huZFp5WfHb%0AdkIsXkoZjW326%2B%2FsYjXkyUmjNrI%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/613067208/8b04056722b3da70f2e0ade6/image.png?expires=1763596800&signature=522a6b225f472c96ea444a9bf9d3d6d02e229379bc1f3d1baacf9f42bb13c5fe&req=ciEkFs95n4FXFb4V1XW4gRqnXcsB9MfDf1mUKD6XHA16CnmzmdF%2FVGFxiG8X%0AtBYIk4pDQAyReG54lKYV0HcBPQ%3D%3D%0A
+
+Changing report output/filtering your data
+
+You can click on two date settings buttons on the top of the chart to change the data being shown. This functionality is the same on every report.
+
+- Year to Date
+- Call Date
+
+Date range = Shows any leads that fall within a specific date range. To edit, simply click the current date range dropdown menu at the top of the report, and select the time frame you'd like to view.
+
+Created date: This setting next to the 'Week to Date' field will currently be the only setting for this field in the leads report and shows leads created within the date range selected. This will show the date the lead was created by your employee.
+
+[Image] https://downloads.intercomcdn.com/i/o/568599708/0d9030f6fda98e473d8b542a/leads1.jpg?expires=1763596800&signature=57e61865765f4e12e998f969478860511908f9ef6434c71666899c1809025b23&req=cSYvE8B3moFXFb4V1XW4gVPbn9rathnuq%2B4lGSA8oWt3m2jn%2FLh15ZXxFqK%2F%0AHcnoaKlPMsfrI5UASA3HxtF1hw%3D%3D%0A
+
+Apply filters
+
+- Apply filters by clicking on the blue 'MANAGE FILTERS' button located on the bottom left of the report graph.
+
+Adjust the group by metrics
+
+- Customize the metrics in the data table by using the blue 'EDIT COLUMNS' button located at the bottom left of the report graph. Once in the edit columns menu, you can select or unselect metrics to see in the table.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/539492753/afafa283e6e6fe285a468f79/C0R9MmJf_6Mmtpb3ogZ5mgbE-MF6M5stTh9_qSn_qxZ5Lzcda1B88FRtFtAbjoyF4FKfFE_2lBDDB0QrMrLxNJR8w4as1lqeSDZ7eGWHoi5pPd3MrlYXMPDkwQAMA2TvWpwhjpoLukNrZmDkn7g?expires=1763596800&signature=7c87d24102ca57680dfc7e08237f401a58c4d39a39ffb2b51eba21586e26ef8d&req=cSMuEsB8moRcFb4V1XW4gcDcHAWLG5S1eGSr7WjO0mOMg2YdmDT1RQz4oIGE%0Ah1UXN8IxJoSGFUTmVK9R85k0Rg%3D%3D%0A
+
+- From this view you can select the metrics to include in your report, and you can change how the data is summarized (by date, employee, call reason or lead source) by using the group by drop down selector in the edit columns menu. Select the blue 'SAVE' button at the bottom right of the pop up menu to save your column selection.
+
+[Image] https://downloads.intercomcdn.com/i/o/613067814/a69cd0e06503217b3e4a706c/image.png?expires=1763596800&signature=9e32a9610582d8e99dea765551034dc9722a0f4f986ac552a62b05286a964036&req=ciEkFs95lYBbFb4V1XW4gciAsrTR5ZiuXbb88YjKzxi%2B5Kq%2FWWAGnI8Q%2FdRy%0AEtHcdOyy%2BpEeF3M0eN6GlHG7rA%3D%3D%0A
+
+Understanding Call Metrics
+
+- Total Calls: total count of calls received through Voice within the reporting parameters set
+- Opportunity Calls: total count of calls that have the opportunity to turn into jobs - These are your customer calls (i.e. not vendors, spam, etc)
+- The following call reasons count as opportunity calls: lead created, estimate created, job created, pricing inquiry and follow up
+- Estimates created: total count of all estimates created from calls received through Voice
+- Jobs Created: total count of all jobs created from calls received through Voice
+- Conversion rate: percentage of calls that have turned into estimates or jobs
+
+---
+
+Estimate Conversion Rate Reports
+
+Estimate conversion rate reporting allows you to report and take action on the estimates you are providing your customers. Now you’ll be able to easily see your estimate win rate, which estimates are still outstanding and how much revenue was lost to declined estimates.
+
+Accessing Estimate Reporting
+
+- Select the Reporting tab, located at the top of your HCP in your navigation bar.
+
+[Image] https://downloads.intercomcdn.com/i/o/1115542790/ee3ca7cf4679a91ddee5feea/Screenshot+2024-07-16+at+11_31_37%E2%80%AFAM.png?expires=1763596800&signature=4118ec4dd4fbe141dec5ddce64f0f6ef86daf94601fd21d685d486819fd187e7&req=dSEmE8x6n4ZWWfMW3nq%2BgdEqtg2u49Fmq7xJEgJdRLoe01UtPV0sxYj7wAEH%0AGvoJr4S4njV6jGvJDmgwgWCelg8%3D%0A
+
+- After navigating to your report tab, you should see a tab titled 'Estimates' on the left sidebar. Click 'Estimates' to open up your reporting menus.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/539492720/43329044284a133dec26694b/yZXWz5dWQrv9ctscSubB0LQXoEpI5ECLjD6J3Lhbc7Qb0f82JYvpoUb4Dxwcs98jijgAwR0H1Db1Ubi7dXWdV8PH2GTj8R9QBf71nlZsXldkfNZQIamJBqxt42_jG-dlgHfNJ-U-qE84MUPQ-g?expires=1763596800&signature=3df1f9b0698fadf4d1b9140d0dfe74518a4ed49aaa63e62c5dce79b148e0c831&req=cSMuEsB8moNfFb4V1XW4gXdLZOZft2lSeSapBlCHTicAONlbbLDErR6y5bgl%0AYxIGMj6YkvZKPXhFftLL44VX1w%3D%3D%0A
+
+- Click into any report on the right side to view your data.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/539492741/324b8496d4a3beeb7fbeddc5/-0y7XIGGZDkOrQeZqBXbPPSohur9I8f5xcpRpU1YynzIAcr80WwnweiIDK5iJj0a_rjsiTsPibB8isz7bmH2vmURGl1HXW5SCsFsIydfyLS2dnLUy8Vg5ykFI83GcpZPSuyzhHILelHYajm_eaQ?expires=1763596800&signature=3b877839665eb2c6a03e88890ead1827905dc44215ac51849710a6fc1f2eb0c9&req=cSMuEsB8moVeFb4V1XW4gUSm8fjcov0WZZEfzkJDXS7vYg9gj%2F6VAa1JNZRj%0Ag5cNS7lJZLJKYFuvFt2p2OVYOw%3D%3D%0A
+
+Changing report output/filtering your data
+
+You can click on two date settings buttons on the top of the chart to change the data being shown. This functionality is the same on every report.
+
+- Date range = show me any estimates that fall during a date range that I specify
+
+- Created date: This setting, next to the 'Week to Date' field will currently be the only setting for this field in the leads report and shows leads created within the date range selected. This will show the date the lead was created by your employee.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/539492749/935447b7faa223749fac23b9/3Rf3DJr-yyqdFG6p-ZUowKhuXAPXpapcsliOqcfkCiQKzMtwbG_BRTW5OBVn9wwlvDZLiCLyRhsXjmLWogOAZ6_4M8kkybTkJhHIegleOFvo8TtunKN5saWl3bvqdO4al4i6BIEo9tEvvRpak8s?expires=1763596800&signature=12ab7a498c86933e71042dcc0260fdd66e3f4b34d04129a6a1c98f33e24c16b5&req=cSMuEsB8moVWFb4V1XW4gaJgxHDwKXAfPH%2BRyJiQ3z4o0qDZQb0dZkAT%2BDjL%0A5qCC02jGlvli%2F6lXk5UC311lYg%3D%3D%0A
+
+Apply filters
+
+- Apply filters by clicking on the blue 'MANAGE FILTERS' button located at the bottom left of the report graph.
+
+Adjust the group by and metrics
+
+- Customize the metrics in the data table by using the blue 'EDIT COLUMNS' button located at the bottom right of the report graph. Once in the edit columns menu, you can select or unselect metrics to see in the table.
+
+- You can change how the data is summarized (by date, employee or lead source) by using the “group by” drop down selector in the edit columns menu.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/539492753/afafa283e6e6fe285a468f79/C0R9MmJf_6Mmtpb3ogZ5mgbE-MF6M5stTh9_qSn_qxZ5Lzcda1B88FRtFtAbjoyF4FKfFE_2lBDDB0QrMrLxNJR8w4as1lqeSDZ7eGWHoi5pPd3MrlYXMPDkwQAMA2TvWpwhjpoLukNrZmDkn7g?expires=1763596800&signature=7c87d24102ca57680dfc7e08237f401a58c4d39a39ffb2b51eba21586e26ef8d&req=cSMuEsB8moRcFb4V1XW4gcDcHAWLG5S1eGSr7WjO0mOMg2YdmDT1RQz4oIGE%0Ah1UXN8IxJoSGFUTmVK9R85k0Rg%3D%3D%0A
+
+Drilling into Estimate details
+
+- To view any individual estimate corresponding to a row in the table, click on that row. To view all estimates that meet your report filters, click on the total row in the table.
+
+[Image] https://downloads.intercomcdn.com/i/o/1115584079/5f37441c77e6d2e1031fd720/Screenshot+2024-07-16+at+12_10_22%E2%80%AFPM.png?expires=1763596800&signature=b3e9a10a9fe3c50fadcbe9b4caacb0386a72619daa2b3fcae9e4f5667f19e04c&req=dSEmE8x2mYFYUPMW3nq%2BgWs3kk83lTatmehPqJ%2FFX22blNBwLshrtVnJUDLT%0Ava0ToJMf4cfAINpxqnRJA9x32uU%3D%0A
+
+Understanding Estimate Metrics
+
+- Open count: Total count of undecided estimates (For estimates with multiple options, no options are approved and at least one option is open)
+- Won count: Total count of approved estimates. ( Includes copied to job. (For estimates with multiple options, approved counts when one option is approved or copied to a job))
+- Lost count: Total count of declined estimates (For estimates with multiple options, all options were declined)
+- Open value: Total value of undecided estimates (For estimates with multiple options, the maximum value is used)
+- Lost value: Total value of declined estimates (For estimates with multiple options, the maximum value is used)
+- Won value: Total value of approved estimates (Includes copied to job)
+- Conversion rate: Percentage of estimates that were approved, out of the total estimates (won, lost and open).
+
+---
+
+---

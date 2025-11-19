@@ -1,0 +1,67 @@
+Expense Cards: How to Cancel & Replace
+Source: https://help.housecallpro.com/en/articles/5473754-expense-cards-how-to-cancel-replace
+Author: Nate H
+Last updated: Updated over 9 months ago
+
+Summary: Learn how to cancel and replace an Expense Card.
+
+Cancel & Replace a Lost or Stolen Expense Card
+
+If your Expense Card is lost or stolen, it’s important to take immediate action to protect your account and prevent unauthorized transactions.
+
+In this guide, we'll walk you through the simple steps to cancel your lost or stolen expense card and request a replacement. Follow the steps in this Help Article to quickly resolve the issue and get a new card issued so you can continue managing your expenses without disruption.
+
+---
+
+How to Cancel an Expense Card
+
+- Select 'My Money' from the navigation bar at the top of your Housecall Pro account.
+
+- Select 'Expense Cards' from the menu on the left, under HCP Money.
+
+- Click on the three dots icon to the right of the employee whose card you need to replace.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1233040569/21d20d83bee61a7881d555b37b75/CancelExpenseCard.png?expires=1763568000&signature=b6d36b06c1b4c1a9aadf99e84dd3408db8d3012489a558378235ebce5d1b1445&req=dSIkFcl6nYRZUPMW1HO4zVtI1%2BaFl%2FTZQYhN%2BMuIndyYtYKg33maJ3um72dG%0A%2FBAJtimqWF0MmL1LUDo%3D%0A
+
+- Select 'Cancel card' from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1233042377/05501ec74e86bf555e3e85d1d440/CancelEC1.png?expires=1763568000&signature=3b166ba3f6bba1430a536fb4fea4c43c1191f23073267c1b6daf27889c64d4ba&req=dSIkFcl6n4JYXvMW1HO4zWf8y%2B2kEIVHJm%2FngwPnx5E4mT91j6WC0i8Ut8Ic%0AMv72EN5h62BrRESFESQ%3D%0A
+
+- Click the 'Cancel This Card' button in the "Cancel card" confirmation window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1233044257/74e5b215b02700105a8a9a51b06c/CancelEC2.png?expires=1763568000&signature=0d4e0bcf90fbdf50a5ffe33ea420e54851badc1641305e7bd9e6617bae1d6427&req=dSIkFcl6mYNaXvMW1HO4zVmfnNZWBe2J4MzNfaHtuNcLcvbxwUcKlrDxcQ7I%0AOYmVWJDuyF%2BiIzjLPtU%3D%0A
+
+---
+
+How to Replace an Expense Card
+
+To replace an Expense Card:
+
+- Click on the 'My Money' tab in the navigation bar at the top of your Housecall Pro account.
+
+- Select 'Expense Cards' from the menu on the left, under HCP Money.
+
+- Click the 'Add Card' button in the top right corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1232990449/cd1ff05e45ba2b7d5a6120dd44f5/AddExpenseCard.png?expires=1763568000&signature=6b4cb3795587d761693abbcfdbaf09ea04e40f5d7c258ff564858c3cc0e0e9f7&req=dSIkFMB3nYVbUPMW1HO4zZGTK6CketdJYH%2BoDuzB3OqCVQ74pEsBAQ0WeU5J%0ApC9Da0HOUy5Cwg21%2B8E%3D%0A
+
+- Select the 'Physical Card' option.
+
+- Use the 'Cardholder' drop-down to select the employee whose card you need to replace.
+- You can use the 'Spending limit' drop-down and 'Amount' field to set a spending limit for the Expense Card (optional).
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1233049751/6b154bf4000a0e3bd0ab35b092f7/AddEC1.png?expires=1763568000&signature=ddd7e506853bc328f64befb5e725e0a04e649e2336b75536d9397234959d8933&req=dSIkFcl6lIZaWPMW1HO4zWzx7lnZPFxmAgzzi%2FbQUlv5KY7rqzeQIiW37ZME%0A6lm3Nx4No%2Bi2ZKNhVXs%3D%0A
+
+- The 'Send to business address' checkbox will be selected automatically.
+
+- If you would like to send the Expense Card to a different address, uncheck the box, and enter another shipping address.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1233060003/a4574cbc20ae2c1d52a513168166/ECShipping1.png?expires=1763568000&signature=897784593ecc5aaaf506129d9fe3dd69f96599e4f0939ca21423a4517db0072b&req=dSIkFcl4nYFfWvMW1HO4zesR1TDbFskW%2BjrmmOunwugKgKE49DKvhw9sAzjd%0Ak2L%2Fdy3RXiQV%2Bea819Q%3D%0A
+
+- Click the 'Add Card' button to confirm, and your card(s) will be shipped to the address provided - usually within 5-7 business days.
+
+---
+
+Housecall Pro Expense Card is a Visa Commercial Credit Card, powered by Stripe and issued by Celtic Bank and is subject to approval. Housecall Pro partners with Stripe Payments Company for money transmission services and account services with funds held at Fifth Third Bank, member FDIC.
+
+---

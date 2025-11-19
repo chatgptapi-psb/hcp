@@ -1,0 +1,124 @@
+Create Service Descriptions with Marketing AI
+Source: https://help.housecallpro.com/en/articles/9944587-create-service-descriptions-with-marketing-ai
+Author: Champagne M
+Last updated: Updated over 8 months ago
+
+Summary: Our new AI feature simplifies service descriptions, saving you time and enhancing customer communication with clear, detailed content.
+
+[Image] https://downloads.intercomcdn.com/i/o/1200350073/950d13612df3738307fce166/AD_4nXeXLi6UpSsxt9ULId4jkR3cc7np6YMRFVLSPNEivMhGLduGBpR0aRcZ77hjSd1CcLXb11deoo7sFJKjIOxwonBjfLUMxFrJO5_dFXojhxKJHtOVZtJHObvmLK4LWQBXTmhjwrvdJxX10j3ycir7Ro-clLbI?expires=1763568000&signature=9663cb85b5bc36b9c43b37e1e07b51616252f4b417d75d037d02452beb001a5d&req=dSInFsp7nYFYWvMW1HO4zewXstLHm%2FBYXATW9QqM13OEq5WV7Fu9wsAUR%2Byz%0ANrCB1hJQk8BSVDsVu30%3D%0A
+
+How Marketing AI Works
+
+With our new AI feature, creating professional, detailed service descriptions has never been easier! Marketing AI generates clear, customer-friendly descriptions based on the services you offer, helping you save time while improving communication with your customers. Whether you're building out your price book or refining your services, Marketing AI can help you save time and clearly present the value of your work to customers.
+
+Marketing AI generates a description for your service based on its industry and service name. You can further customize these descriptions to match your business style or add more specific details.
+
+---
+
+---
+
+How to Create Service Descriptions with Marketing AI
+
+Step 1: Access Your Price Book
+
+- Log in to your Housecall Pro account.
+
+- Navigate to your Price Book.
+
+- Select the industry you want to write a service description for.
+
+- Open an existing service or create a new one that you'd like to add a description to.
+
+---
+
+Step 2: Generate Service Descriptions
+
+If the Service Name field is pre-filled:
+
+- Above the service description, click on "Write it for me."
+
+- Marketing AI will automatically generate a description based on the service name and industry.
+
+- The AI will factor in the most common industry terms and customer-friendly explanations to produce a description that’s both accurate and easy to understand.
+
+If the Service Name field is empty:
+
+- Above the service description, click on "Write it for me."
+
+- Marketing AI will prompt you to type in the name of your service.
+
+- Once you have entered a prompt, click "Write it."
+
+- The AI will factor in the most common industry terms and customer-friendly explanations to produce a description that’s both accurate and easy to understand.
+
+[Image] https://downloads.intercomcdn.com/i/o/1200408649/19d90d7119d4e861cffec14d/Screenshot2024_10_01_135831.jpg?expires=1763568000&signature=e34dcb73f6516cf6f1357b55f23f80cba231e8619c96134a8f6b8371d11a4551&req=dSInFs1%2BlYdbUPMW1HO4zUDQ%2FZLEd1BDkDcl6U9Fke%2F8FspZzaTH6TwGcNyS%0AozkrB96YVCiLVB4idgc%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/1200409105/d7900a5b5a339840728f2565/Screenshot2024_10_01_135853.jpg?expires=1763568000&signature=03082198221a846215033dbdc75ebc76c27e0f95e68ceb31cd9f259ed76e81f7&req=dSInFs1%2BlIBfXPMW1HO4zdLCrEm%2Fm4T0VDPn%2Fqpt9%2BJEZvWsmt%2BR61DENHz2%0Aq4pFvayX9kdlzPUHXFU%3D%0A
+
+---
+
+Step 3: Review and Edit
+
+- Once the AI generates the description, you can review it to ensure it fits your business needs.
+
+- You can edit the prompt to generate a new description.
+
+- If you’re not satisfied with the first result, click the arrow button to Regenerate to produce a new version.
+
+[Image] https://downloads.intercomcdn.com/i/o/1200411231/72e1eb7644e3ad86de3e1dcc/Screenshot2024_10_01_135907.jpg?expires=1763568000&signature=bce665047658154b979f50b51ca760d9115a1e8c7da2b25be8d81a31df828dee&req=dSInFs1%2FnINcWPMW1HO4zZOP%2F7XrfHKnQ3QiMfOQU0V20iz2AocxePTOER3T%0Ap7ITTHLyjyYss48DJzU%3D%0A
+
+---
+
+Step 4: Save Your Service
+
+- After finalizing the description, click "Use this."
+
+- The updated or newly added service will be copied into the service name description.
+
+- Click "Save" to ensure that all updated content is saved as your new service.
+
+[Image] https://downloads.intercomcdn.com/i/o/1200410813/094c43270971e72499fab8ba/Screenshot2024_10_01_135927.jpg?expires=1763568000&signature=ac071d5d43be139432b8157c90badf1b1d577b467361f450f407fb6e09ff5845&req=dSInFs1%2FnYleWvMW1HO4zfjD9vUteKrxvqluZkNsTqXsjcDE28TpTs3cHMXS%0ABjNH3neiIVLiTyPOqm4%3D%0A
+
+---
+
+Video Tutorial
+
+[Video - loom] id=380fe57ddf6d414ebd6df5dc237116c4
+
+---
+
+---
+
+Best Practices for AI-Generated Service Descriptions
+
+- Customize When Needed: While the AI-generated descriptions are highly effective, we recommend personalizing them where appropriate. This ensures the language aligns with your business’s unique tone and services.
+
+- Add Specific Details: For specialized services, consider adding any unique details or extras that your company offers. For example, if a service includes a free inspection or additional warranty, make sure to include that in the description.
+
+- Test with Different Services: AI descriptions are optimized for a wide range of industries and services. Experiment with multiple types of services to see how the tool performs and adjust as needed.
+
+---
+
+AI Service Description Examples
+
+Table:
+Row 1: Service Title | AI-Generated Description
+Row 2: Air Duct Cleaning | Breathe easier with our professional air duct cleaning service. Over time, dust, allergens, and debris accumulate, reducing air quality and HVAC efficiency. Our expert technicians thoroughly clean your ducts, enhancing airflow, improving system performance, and promoting a healthier home environment. [Image] https://downloads.intercomcdn.com/i/o/1200395602/ccf5e5f88c23b40f9a0a0c73/ab2c440eae1a691cf3fe.png?expires=1763568000&signature=991820487a72746159077a6ef5a1ee04a8d2a2424f1d04b12cb304ed656d4494&req=dSInFsp3mIdfW%2FMW1HO4zUgbpDY%2FJNmAMU%2FlPz8qYkp82EVnlTgJBiUFn3qL%0Aq092%0A
+Row 3: Standard 2BD/2BA Cleaning | Our Standard 2bd/2ba Cleaning service ensures your home is spotless and inviting. Our skilled team tackles dusting, vacuuming, mopping, and disinfecting all key areas. Enjoy a healthier, stress-free environment with our comprehensive cleaning, enhancing your home's comfort and cleanliness. [Image] https://downloads.intercomcdn.com/i/o/1200397688/04538046689115d302683a3f/ab2c440eae1a691cf3fe.png?expires=1763568000&signature=4db128fedbd2e14f0cc707cb7b5d4a5d03ace78a9589447de7569ca781ce7034&req=dSInFsp3modXUfMW1HO4zblCDlt264x6EgvGDbOdmFgv3GP7PwaYc%2BGrrGje%0ACJtJ%0A
+Row 4: Garage Door Spring Set | Ensure smooth and safe operation of your garage door with our Garage Door Spring Set service. Over time, springs can weaken or break, causing difficulty in opening and closing. Our expert technicians install high-quality, durable springs, enhancing door performance and extending its lifespan. [Image] https://downloads.intercomcdn.com/i/o/1200399216/a6aa0bd64b34722448f8147e/ab2c440eae1a691cf3fe.png?expires=1763568000&signature=817d4423b935c5e8de934748eaf55dcb14f315d35037fa762c7113f5aa0a389f&req=dSInFsp3lINeX%2FMW1HO4zY2dd5q0jEBwYdNgi6Zwe6Da%2BNQ901RhjXQvVkq3%0A5F8E%0A
+
+---
+
+---
+
+FAQs
+
+- Can I edit the AI-generated descriptions? - Yes, the AI-generated descriptions are fully customizable. After clicking "Use this" you can modify the description to better fit your service details or business tone.
+
+- How detailed are the descriptions? - Marketing AI creates clear, customer-friendly descriptions that explain the value and scope of your service. You can make them as detailed as you want by adding more information.
+
+- What industries are supported? - Marketing AI supports all industries that are included with Housecall Pro. Select "Add Industry" in your Services Price book to view the options we provide.
+
+- Can I use this for materials or just services? - Currently, AI service descriptions are only available for services, not materials. However, you can manually add material details within the service description if needed.
+
+---

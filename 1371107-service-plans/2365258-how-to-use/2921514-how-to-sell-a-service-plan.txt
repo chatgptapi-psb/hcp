@@ -1,0 +1,179 @@
+How to Sell A Service Plan
+Source: https://help.housecallpro.com/en/articles/2921514-how-to-sell-a-service-plan
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: How to sell & create an active Service Plan for a customers.
+
+Send and Sell Service Plan from the Customer Profile (HCP Web Portal)
+
+To send and sell a Service Plan from the Customer profile using the HCP Web Portal:
+
+- Click the Customers icon in your navigation bar and then click on the customer's name.
+
+- Select the customer & service plan location.
+
+- Click + Service Plan in the top right corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/624981495/4c4eab404d4baf473b464bee/1+-+locate+the+customer.gif?expires=1763568000&signature=cd9d160f65e02547b8c6d4f1a388ebdfb05bea3ab8c792c6c97a982381b903fb&req=ciIjH8F%2FmYhaFb4f3HP0gIu4LPSS8BW7%2FTa0r%2BRg0hMiNP0z%2BctRhSCb1p6p%0AONy76WwLYSid3np4xQ%3D%3D%0A
+
+Set up the plan details:
+
+- Select the service plan template. Based on the template selected, the rest of the form will update accordingly.
+
+- Choose the plan start date.
+
+- Select any add-ons if available.
+
+- The month/year of each included visit will autofill based on the amount of visits in the plan and the start date. If these need to be adjusted click the month/year drop down and select the correct month/year for each visit. - Note: If the first visit has already taken place you can mark that visit as completed or link to an existing invoice.
+
+- After reviewing all the details of your plan click NEXT.
+
+- Choose whether you will send the plan to the customer to accept or if you are accepting the plan on behalf of your customer.
+
+- If a customer has already paid for the plan, accept the plan on behalf of the customer and use the "My customer has already paid for this plan."
+
+[Image] https://downloads.intercomcdn.com/i/o/958758187/dee8f43b8d1abd7bb3efd2fe/new+csa+form.gif?expires=1763568000&signature=537c5635232cc0729110735036781604d943e74f79dd01dd90abbb80e3746e71&req=fSUvEcx2nIlYFb4f3HP0gCaXeJpopC1ZOiQCW7znAMvwDoP8dT1eGDcxQDQp%0A2v65%2BLvh4gNU49hM7Q%3D%3D%0A
+
+Accept the plan & collect payment:
+
+Based on what you chose on the set up plan page you will be prompted to either SEND the plan to the customer or FINISH & PAY.
+
+- Sending the Plan to the Customer to Pay/Approve: - Review the selected plan and press SEND in the top right corner to email the plan to your customer for approval. Your customer will be given the option to enter their credit card to pay/accept the plan. Their credit card information will be stored on file for subsequent payments related to their plan and will be automatically billed at whatever frequency was selected.
+
+[Image] https://downloads.intercomcdn.com/i/o/958758793/db580eca19f3c80522c0c793/accept+plan+for+customer.gif?expires=1763568000&signature=d6c1d325388741a7e32960e7168cfca7867db24d8cb4c6f01440a34f6fb860f8&req=fSUvEcx2mohcFb4f3HP0gCNhPRIylQPPJtsftNjjhfZ3nGurm4B9n%2BEZYwSe%0AYmYp9kVz8ZSCcZJIhA%3D%3D%0A
+
+- Accepting the Plan on Behalf of the Customer - Review the plan and press FINISH & PAY in the top right corner. 
+- You will be automatically dropped to the payment screen. From here you can select and apply whichever form of payment you have taken. If it is a credit card payment, the customer's credit card information will be stored on file for subsequent payments related to their plan and will be automatically billed at whatever frequency was selected.
+
+[Image] https://downloads.intercomcdn.com/i/o/624996148/f3e0bde54d75cf74bcb3d21b/4+-+finish+-+pay.gif?expires=1763568000&signature=c5ae0c5e720c2544eec99c8cfa2b249301c09eeddab8509751b675d22fef6f3a&req=ciIjH8B4nIVXFb4f3HP0gHbO6qUDIvHyntWINvUKMQG%2BnfVHsqL7lVUJ37CE%0AxrOHarO2Rcu8Rq0D4w%3D%3D%0A
+
+---
+
+Send and Sell a Service Plan on a Job (HCP Web Portal)
+
+To send and sell a Service Plan on a Job using the HCP Web Portal:
+
+- Click '+ service plan' below the line items on the job page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1384443397/6a98070579077abd5a2a85b0f4cf/selling%2Bfrom%2Ba%2Bjob.gif?expires=1763568000&signature=f81e55de57763b93d2851943acf1be2251b45fd1f24cb1ba8c33fa21387a78d8&req=dSMvEs16noJWXvMW1HO4zekR9XQAyIg1OgddiqDfHVKmprIfsTT4Fj57KcBy%0Ahr88Jr1bqhD9OplZV0w%3D%0A
+
+- Set up the plan details and send the plan to your customer. - Once the plan is sent to your customer, the service plan discount will be automatically applied to the job.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1384443396/0fde8d8491e2a666f2f6f0bb36d4/new%2Bcsa%2Bform.gif?expires=1763568000&signature=c89fedb0d8409ec1568b730679609c1f78ff537b3a379f7f378ed9b9294f21cf&req=dSMvEs16noJWX%2FMW1HO4zfwzGX%2FriZXEnpBDwjEZDHWBvBvk%2FMpLCd%2FjPfu2%0A%2F0C%2B%2FRASsQ78mhIr7ug%3D%0A
+
+- Pay for the service plan
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1384443399/826fee100a6a5a9e1e76a299f17a/pay%2Bfor%2Bplan.gif?expires=1763568000&signature=bfd86c3fb2178a000b43299548d2aa279f03e7b616a8cc6f16b4c4f86a213273&req=dSMvEs16noJWUPMW1HO4zficS6QYvOO3aE%2FzZrUP200yfIO57i8jF5HVNXmR%0A1M8A7zSLc80eCeD9R50%3D%0A
+
+Video Tutorial
+
+[Image] https://downloads.intercomcdn.com/i/o/958769311/2cbf9fc3dcc3b00b688b7065/selling+from+a+job+full.gif?expires=1763568000&signature=6283407f37a3a29944756160011b06c6ac2bba70390e0218d02b459e27de48b5&req=fSUvEc93noBeFb4f3HP0gA%2FwdjriE4ApXGS1eOeGWhC92GpGHPBLkrW9mvqe%0AIQWvIMg31Vh7oWb%2Ffg%3D%3D%0A
+
+---
+
+What Does My Customer See When I Send Them a Service Plan?
+
+When you add a Service Plan to a customer, you will have the option to Send Plan to Customer to Accept OR Accept Plan For Customer.
+
+[Image] https://downloads.intercomcdn.com/i/o/191049240/0f2da1a12b037a5a958bea4d/image.png?expires=1763568000&signature=a2f3de816ccb135ff6c56d6201538f547cf40fc6bc29b8b9bf7151caa7bae995&req=dSkmFs13n4VfFb4f3HP0gAnWEiCM39lgJ3l2b3rLM7B3DiVsIsNsPekCMIjT%0AnKVnaRhn%2FwTPwuf2rg%3D%3D%0A
+
+---
+
+Send Plan to Customer to Accept
+
+- If you Select "Send Plan to Customer to Accept" you will then need to press "Next" in the top right.
+
+- You'll see the options to either "Save" or "Send."
+
+- If you choose to save now, your customer won't see anything yet.
+
+- If you choose "Send", your customer will receive an email, prompting them them to view their plan and pay for it if they have any payment outstanding.
+
+[Image] https://downloads.intercomcdn.com/i/o/191051003/9d09662a57cd5fd470cb5b44/image.png?expires=1763568000&signature=384ae9e9206aa8c8f1e4600aa5dff03ee9731080e31b44a7ace43b3d6f9444f7&req=dSkmFsx%2FnYFcFb4f3HP0gDHGgl4lmrYTc5VPgLNw%2FsdN6qoyoNXHsknuh2mp%0AwQnVrNm%2BswhUwsNAJg%3D%3D%0A
+
+- Your Customer will receive the following email in the inbox populated with your company logo, company name, and company contact information
+
+[Image] https://downloads.intercomcdn.com/i/o/191049974/79257e81236933274aec3052/image.png?expires=1763568000&signature=23d4fb7e786eb47c9ee07bac6ea6b7c8247edefe3ccd389af1ad9b696ec4684e&req=dSkmFs13lIZbFb4f3HP0gEAR6g7WcUN%2B%2F3kWgvBat%2FePy0d5AmRupKadUd%2FC%0AmX7PvGOby9E0uHnpcg%3D%3D%0A
+
+- When your customer clicks on "View My Agreement" they will see a plan summary, select the billing cycle that they would like to pay if you offer your customers multiple options, and enter their payment information.
+
+- If they will be paying on a recurring basis, they will be asked to save & store their card information by creating a Housecall Client Portal account.
+
+- With this account, they can view the terms of their plan, see their billing schedule, and update their card information.
+
+[Image] https://downloads.intercomcdn.com/i/o/191053663/6d60bf8157db77c3078186fa/image.png?expires=1763568000&signature=19bc5c25de2e01b8fe4755b887058d4d1cae60e678e7c955ceaf3bfb46252277&req=dSkmFsx9m4dcFb4f3HP0gHBDO36uMBmITQI%2BboZfN93qmUg0bQnQJO6o1dzR%0AoJpcTXJwfPsTAFxvMw%3D%3D%0A
+
+---
+
+Accept Plan for Customer
+
+If you "Accept Plan for Customer" you will need to indicate whether or not your customer has already paid for this plan.
+
+[Image] https://downloads.intercomcdn.com/i/o/191054390/9132323f2618493069ba48ae/image.png?expires=1763568000&signature=1a3f29f15ad392a975f9ff084e16e18c436b1f8394cdaa4fb872d18faca69a09&req=dSkmFsx6nohfFb4f3HP0gOxGu%2BqjkZQ0Fhv6Ej2pGxM%2BK6yT%2FtxTH5p%2F00D8%0AIh4Ccxa9Y%2FJzZKuD7g%3D%3D%0A
+
+---
+
+My Customer Has Already Paid for This Plan
+
+If your customer has already paid for the plan, you will be prompted to Accept the plan on behalf of your customer. Your customer does not receive an email.
+
+[Image] https://downloads.intercomcdn.com/i/o/191055701/321b104c90e3cf8c8996cd8d/image.png?expires=1763568000&signature=21d9f93965185a2ff6e4d28bcad2ef67d9610bbabe9f533576929a3448c29502&req=dSkmFsx7moFeFb4f3HP0gIm5wEAsoiEUWT%2BrpGclqOKA2AHbTzhN3D%2BjF4jV%0AzmnuxtvQ3ZslnSSGZg%3D%3D%0A
+
+---
+
+My Customer Has Not Already Paid for This Plan
+
+If your customer has not already paid for the plan, you will be prompted to input the payment information for your customer and authorize the credit card charge.
+
+After you charge your customer for their Service Plan, they will receive an email receipt AND a summary of their new plan.
+
+[Image] https://downloads.intercomcdn.com/i/o/191057351/4bf3bb8ca8bb79e727ba69ba/image.png?expires=1763568000&signature=aa3f033d7af199e79467cfb382cf42f9c36faa7c1b7a69b1752dc85e0780111f&req=dSkmFsx5noReFb4f3HP0gOjmZnHWdxl16zrlRE5HbKlJA7ziLTRxgh2DzYMT%0AKTopc77tdgObLfGyOw%3D%3D%0A
+
+---
+
+Example: Receipt
+
+[Image] https://downloads.intercomcdn.com/i/o/191060606/5a6cc43598fdf50d90838bfc/image.png?expires=1763568000&signature=a26d1792b5bc6b5f8f6bcdecea6959136880245a03515fbed2eda1c2cf1a09c8&req=dSkmFs9%2Bm4FZFb4f3HP0gAf5aGfNXzHkUi0bUVuCr4IvPT20sVnaisr7780k%0AhXvnmVu%2BoKtWcdUSIg%3D%3D%0A
+
+---
+
+Example: Summary of New Plan
+
+[Image] https://downloads.intercomcdn.com/i/o/191061001/4f9d3441c9291c2017f29b9a/image.png?expires=1763568000&signature=710904daecac04239aea9f55d358670a8b0080e2cf1649ee7c99f1bf2f75b4c2&req=dSkmFs9%2FnYFeFb4f3HP0gF7md0CgNXUq%2FvYPSGvZWC5VhKOgWV9qMzZw0w%2F8%0AaP5qTtZDkOqi0zqSsA%3D%3D%0A
+
+---
+
+FAQs
+
+Where is the service plan on the invoice?
+
+- The service plan payment is processed separately from the job. Your customer will receive a receipt for both the job and the service plan, but there is not one singular receipt or invoice with both.
+
+Why can I not see the sold service plan on web?
+
+- In order to see the sold service plan, the user must have the new line items update. Please reference this article to turn that on.
+
+Where is the "this is the first visit" checkbox?
+
+- Linking the service plan visit to this job can be completed once the service plan is active from the service plan tile on your mobile device or completed on web at any time.
+
+What does removing the plan from the job mean?
+
+- Removing the service plan from the job will not delete the service plan. It simply removes the connection between the job and the service plan.
+
+How does the automatic service plan discount work with this?
+
+- If a discount is included on the service plan template, it will automatically apply to the job if the service plan is added to the job page. This happens at the time the draft service plan is created, either when you send the plan to the customer or when you select Finish & Pay while creating the plan.
+
+---
+
+[Button] Send a Service Plan to Your Customer Now -> https://pro.housecall.io/pro/service_agreements/?utm_source=intercom&utm_medium=internalpage&utm_campaign=help-center&utm_content=web-portal-what-,y-customer-sees-recurring-service-plan&utm_site=web-portal&mc=Content&msc=web-portal-what-,y-customer-sees-recurring-service-plan
+
+​Up Next: Schedule Service Plan Visits
+
+---
+
+Check out our tips on how to better connect with your customers.
+
+---

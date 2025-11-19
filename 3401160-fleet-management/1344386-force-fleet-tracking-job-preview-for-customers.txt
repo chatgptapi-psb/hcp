@@ -1,0 +1,19 @@
+Force Fleet Tracking: Job Preview for Customers
+Source: https://help.housecallpro.com/en/articles/1344386-force-fleet-tracking-job-preview-for-customers
+Author: Nate H
+Last updated: Updated over 5 months ago
+
+Summary: Customer text notifications include a link for the customer to view the details of the job.
+
+Customer Job Preview Overview
+
+If you have Vehicle GPS Tracking or Dashcam Video Monitoring powered by Force Fleet Tracking on your account, the On my way customer notification includes a link to a Job Preview that your customer can click on to view the details of the job. This preview includes:
+
+- Service Address
+- Job Status
+- Scheduled time of the job
+- A contact card for the customer to text, call, or email you
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1566889200/a76f6f534845816abbc8ceb32735/FFT-JobPreview.png?expires=1763568000&signature=bbc36ace3209c314aacbc74359d174883235b80fad983ea3df89815ea79d4a4b&req=dSUhEMF2lINfWfMW1HO4zcFfKKtnc8Bc9x57P%2BNvAWW4IEg%2F62wGYqCz19EP%0AYwPEYehtRSfE2i694Vw%3D%0A
+
+---

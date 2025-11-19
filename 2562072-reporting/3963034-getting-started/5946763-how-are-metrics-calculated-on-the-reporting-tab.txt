@@ -1,0 +1,75 @@
+How are metrics calculated on the reporting tab?
+Source: https://help.housecallpro.com/en/articles/5946763-how-are-metrics-calculated-on-the-reporting-tab
+Author: James N
+Last updated: Updated over a month ago
+
+Summary: Learn how metrics on the reporting tab are calculated
+
+Learn how metrics are calculated when using the Reporting tab in HCP.
+
+Job metric calculations:
+
+Table:
+Row 1: Metric | Definition | Notes
+Row 2: Average gross profit | The average gross profit of jobs, or the sum of all gross profit divided by number of jobs |
+Row 3: Average job size | The average revenue of jobs, or the $ sum of all job revenue divided by number of jobs | Zero dollar jobs (callbacks) are included in this metric by default. If you want to exclude, use the callback job field to mark these jobs Use filters menu to deselect these jobs
+Row 4: Avg rating | The average customer rating for any completed jobs | Includes only reviews sent to HCP
+Row 5: Commission cost | Sum of commission cost | When viewing by employee, only shows costs associated with that employee Must be using commissions feature to view this metric
+Row 6: Commission cost % of rev | Commission cost divided by job revenue | Includes all commission cost when viewing by employee Must be using commissions feature to view this metric
+Row 7: Hours per tech per job | The average of on job time (hours) that a technician logged across selected jobs | If time was not tracked on a particular job, that job will be excluded in the average Must be using time tracking to see this metric
+Row 8: Job count | The total number of jobs |
+Row 9: Job revenue | Job subtotal minus discounts (Excludes taxes and tips) |
+Row 10: Job total | The total invoice amount of the job (Includes taxes and tips) |
+Row 11: Labor cost | Sum of labor cost. | When viewing by employee, only shows costs associated with that employee Must be using job costing to view this metric
+Row 12: Labor cost % of rev | Labor cost divided by job revenue | Includes all labor cost when viewing by employee Must be using job costing to view this metric
+Row 13: Material cost | Sum of material cost | Must be using job costing to view this metric
+Row 14: Material cost % of rev | Material cost divided by job revenue | Must be using job costing to view this metric
+Row 15: Miscellaneous cost | Sum of miscellaneous cost | Must be using job costing to view this metric
+Row 16: Miscellaneous cost % of rev | Miscellaneous cost divided by job revenue | Must be using job costing to view this metric
+Row 17: Profit margin | Gross profit divided by job revenue | Must be using job costing to view this metric
+Row 18: Total cost | Sum of labor, material, commission and miscellaneous cost | Includes all labor and commissions costs when viewing by employee. . Must be using job costing to view this metric
+Row 19: Total on job hours | The sum of on job time (hours) that a technician logged across selected jobs | Must be using time tracking to see this metric
+Row 20: Total travel hours | The sum of travel time (hours) that a technician logged across selected jobs | Must be using time tracking to see this metric
+
+You can view your job metrics according to three action dates:
+
+Table:
+Row 1: Action Date | Definition
+Row 2: Job created date | Date and time the job was created in HouseCall Pro
+Row 3: Job scheduled date | Date and time as the job appears on the calendar
+Row 4: Job completed date | Date and time the job was marked finished
+
+Estimate metric calculations:
+
+Table:
+Row 1: Metric | Definition | Notes
+Row 2: Conversion rate | Percentage of estimates that were approved, out of all the estimates (won, lost and open) |
+Row 3: Won value | Total value of approved estimates | Includes copied to job
+Row 4: Won count | Total count of approved estimates | For estimates with multiple options, approved counts when one option is approved or copied to a job Includes copied to job
+Row 5: Lost value | Total value of declined estimates | For estimates with multiple options, the maximum value is used
+Row 6: Lost count | Total count of declined estimates | For estimates with multiple options, all options were declined
+Row 7: Open count | Total count of undecided estimates | For estimates with multiple options, all options are open
+Row 8: Open value | Total value of undecided estimates | For estimates with multiple options, the maximum value is used
+
+Table:
+Row 1: Action Date | Definition
+Row 2: Estimate created date | Date and time the estimate was created in HouseCall Pro
+
+Leads metric calculations:
+
+Leads metrics are only available to Orgs using the Pipeline Feature.
+
+Table:
+Row 1: Metric | Definition | Notes
+Row 2: Conversion rate | Percentage of leads that were approved, out of all leads (won, lost and open) |
+Row 3: Open count | Total count of open leads |
+Row 4: Won count | Total count of approved leads | Includes copied to job or copied to estimate
+Row 5: Lost count | Total count of lost leads |
+
+Table:
+Row 1: Action Date | Definition
+Row 2: Lead created date | Date and time the lead was created in HouseCall Pro
+
+---
+
+---

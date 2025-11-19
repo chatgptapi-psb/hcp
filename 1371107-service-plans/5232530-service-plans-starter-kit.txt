@@ -1,0 +1,129 @@
+Service Plans Starter Kit
+Source: https://help.housecallpro.com/en/articles/5232530-service-plans-starter-kit
+Author: Roland Ligtenberg
+Last updated: Updated over 2 months ago
+
+Summary: Get started with Service Plan memberships to generate recurring revenue, streamline sales, manage service plan visits, and collect payments.
+
+In this guide, we'll walk you through the step-by-step process for setting up Service Plans:
+
+- Step 1: What’s the goal of your service plan program?
+- Step 2: Choose when to get paid for service plans - Pay now plan: get paid before the job is completed
+- Pay later plan: get paid after the job is completed
+- Step 3: Decide when to receive payment for service plans
+- Step 4: Develop a sales strategy for service plans
+- Step 5: Set up service plan reminders and preferences
+- Step 6: Navigate and use the service plan dashboard
+- Step 7: How to manage customer service plans
+
+Want to dive deeper? Watch our Pipeline to Profit webinar to see how Service Plans are built, presented, and sold in the field—template setup, tiered options, and real customer workflows, along with SuperPros explaining how they’ve scaled recurring revenue through plans.
+
+[Video - youtube] https://www.youtube.com/watch?v=fu2zHjfyGfM
+
+---
+
+---
+
+What are Service Plans?
+
+Service Plans, also known as maintenance plans or service agreements, are recurring memberships that keep customers connected to your business. They include routine maintenance, exclusive perks like discounts and priority service, and predictable payment options. These plans ensure customers return regularly while giving you a reliable revenue stream and opportunities to build long-term relationships.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1306628977/7331d114fd92791376a634c320d5/Screenshot+by+Dropbox+Capture.png?expires=1763568000&signature=8023c8fec1b8a34f9748e1ebf8fd2b502c832b51620a1b13361bc9daf0ccc7e2&req=dSMnEM98lYhYXvMW1HO4zQc5iAcVRzyyT4TVlvmnf0pHmg5DVM4b9vhOrJxo%0At2LbUUBPamHUe5bqaj0%3D%0A
+
+---
+
+Step 1: What’s the goal of your service plan program?
+
+Defining what you want to achieve before setting up your Service Plan program is essential. Identifying your primary goal will help you create a plan that aligns with your business objectives and meets your customers’ needs. Here are some common goals for Service Plans:
+
+Table:
+Row 1: Goal | Best Practices
+Row 2: Generate predictable revenue Stabilize cash flow by securing recurring monthly or annual payments, even during slower seasons. | - Offer subscription-based plans with flexible payment options.
+- Include services like routine maintenance to ensure ongoing engagement.
+- Use Service Plans to upsell additional services or premium upgrades.
+Row 3: Build Long-Term Customer Loyalty Turn one-time customers into repeat clients by creating a relationship built on trust and value. | - Offer exclusive benefits such as priority scheduling, discounts, or loyalty rewards.
+- Reward loyalty with perks like free minor repairs or extended warranties.
+- Include preventative maintenance visits to catch issues early.
+- Offer incentives for routine services over emergency repairs.
+Row 4: Improve Operational Efficiency Plan your workload more effectively with predictable scheduling and fewer last-minute calls. | - Use Service Plans to schedule routine visits during slow periods.
+- Automate reminders and billing to reduce administrative overhead.
+
+---
+
+Step 2: Choose when to get paid for service plans
+
+To set up your Service Plan, you'll want to head over to the Service Plan dashboard to start your new plan. For detailed information, you can use this help center article.
+
+---
+
+​
+
+Step 3: Decide when to receive payment for service plans
+
+When setting up your Service Plan, deciding how you’ll get paid is crucial to your business model. The proper payment structure depends on your goals and how you want to manage cash flow and job pricing.
+
+Pay Now Plan: Get Paid Before the Job is Completed
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1306643066/0c3b57a130165be56c26416dbc3f/Screenshot+by+Dropbox+Capture.png?expires=1763568000&signature=bf641f867e92de5db439fc4a9198fbdcafaa7abc3c7ef70516a4b9ec778f1e07&req=dSMnEM96noFZX%2FMW1HO4zUTFz2DVCfEMbAXAALHQebrwzk0BD6%2FWka9G9GQC%0ALYxGNir7cOeEhRuWLo0%3D%0A
+
+This payment option lets you collect revenue upfront, either monthly or annually.
+
+- Predictable Income: You can count on a steady flow of revenue every month or year.
+- Simplified Billing: Customers pay for the plan in advance, making it easy to manage payments.
+- Encourages Loyalty: Upfront payments keep customers committed to your Service Plan.
+
+Best For: Businesses looking to stabilize cash flow and reduce the admin work associated with individual job pricing.
+
+Pay Later Plan: Get Paid After the Job is Completed
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1306646010/f2f814171e576bfea058b4c92bc0/Screenshot+by+Dropbox+Capture.png?expires=1763568000&signature=beb9b50c685a48df221cbfe14f420e657129511c2045ff0af442119b7da6135f&req=dSMnEM96m4FeWfMW1HO4zb3j4pX97LJHMvG2z%2BjcKCD4XCdfizS6RQ0Q9E3p%0AenqXTne6t8YAsc8ODEo%3D%0A
+
+This option allows you to collect payments once the work is done, letting you adjust pricing based on the scope of each job.
+
+- Flexibility: Adjust pricing for jobs that require additional work or materials.
+- Transparent Costs: Customers see exactly what they’re paying for after completing the job.
+- Custom Solutions: Perfect for businesses handling complex or variable projects.
+
+Best For: Businesses focused on pricing flexibility and managing job-specific costs.
+
+---
+
+Step 4: Develop a sales strategy for service plans
+
+Now that your plans are set up in Housecall Pro, it’s time to sell them to your customers. Train your team to communicate the value of service plans effectively. Update your website or create marketing materials to inform customers about this new offering.
+
+---
+
+Step 5: Set up service plan reminders and preferences
+
+Put your service plans on autopilot by enabling scheduling and renewal reminders.
+
+---
+
+Step 6: Navigate and use the service plan dashboard
+
+The service plan dashboard is your central hub for managing your service plans. Here, you can oversee service plan templates, schedule upcoming service visits, track customers due for billing, and much more.
+
+---
+
+Step 7: How to manage customer service plans
+
+The final steps are to learn how to schedule your service plan visit and customer billing.
+
+---
+
+See What Our Pros Have to Say
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/vlbtcw54k2
+
+[Button] Take a Tour -> https://app.storylane.io/share/pj2dyri7viog
+
+---
+
+---
+
+Need help understanding your company's Service Plan strategy?
+
+Enroll in Business Coaching by Housecall Pro's 3-hour Workshop and learn how to identify your lifetime customers.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1405242950/cbe3d6194009383b7027de6129a3/Business+Coaching+by+Housecall+Pro+%28Article+Footer%29.jpg?expires=1763568000&signature=710f5925fb40ff9e144f41c1eabb1d9225ff4d86e4f1e09c7c75ad05a7f8df63&req=dSQnE8t6n4haWfMW1HO4zeRckYrxKdh8LbZq4ORApep9ovtrsI9A5p2Wcw%2Bi%0AdwD6HMOEI72Zr%2Fb1YFs%3D%0A

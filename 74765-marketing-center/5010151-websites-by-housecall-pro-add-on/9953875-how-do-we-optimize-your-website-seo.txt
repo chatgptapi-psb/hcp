@@ -1,0 +1,62 @@
+How do we optimize your Website SEO?
+Source: https://help.housecallpro.com/en/articles/9953875-how-do-we-optimize-your-website-seo
+Author: Danielle S
+Last updated: Updated this week
+
+What is the importance of SEO?
+
+SEO (search engine optimization) is the process of improving the performance, experience, and authority of your website. With optimized SEO, your site will appear higher in search results, so your business can get more visibility.
+
+There are a lot of things you can do to optimize your SEO, and it can be overwhelming to know where to start. Luckily, when you sign up for Websites at Housceall Pro, you’ll get a dedicated team of professional Website builders who will take steps to optimize your SEO.
+
+---
+
+What steps do Housecall Pro website builders take to improve your site SEO?
+
+Optimized Copy
+
+The content itself on your site matters because it helps search engines understand the page content and structure on the site. This helps determine the relevance and credibility to prospective customers when they search for services online.
+
+Here is what our Website builders will do for you when creating your site content:
+
+- Add main keywords throughout the site - we include popular keywords related to your business or industry in order to display higher in search results
+- Maintain an optimal amount of text on each page - we ensure the amount of content on your page is optimized (typically, longer form content is better)
+- Show default fonts initially - we use fonts that are easier to read and perform better
+- Add alt text to all images - we include written image descriptions, which allows search engines to better understand your content
+- Add meta tags, titles, and descriptions for each page - we create titles and summaries for your pages to help search engines understand your content
+- Create SEO friendly URLs - we ensure your URLs are optimized (ex: adding keywords and reducing special characters)
+
+Site Format
+
+It’s not just the content and copy that will impact SEO - the way your site is set up matters.
+
+Here is what our Website builders will do for you when setting up your site:
+
+- SSL certificate - we get your SSL certificate for you, which ensures your site remains secure
+- XML or tailored sitemap - we generate an XML site map for you and create a tailored site map for custom pages to be included on your site
+- Local Business Schema - we set this up for you, which sends structured data about your business to search engines
+- 301 redirects - we ensure that there are automatic redirects in case you delete or replace old web pages
+- Mobile optimized - we ensure your content is optimized for mobile devices so you’re discovered by leads on the go
+- Optimize page load speed - google rewards faster pages, plus viewers get a better experience
+
+Integrations
+
+These embedded solutions on your site allow customers to stay on certain pages longer, which is shown to improve SEO.
+
+- Reviews: We automatically publish new reviews to your site to build more credibility and trust.
+
+- Online Booking: We help you embed an Online Booking form on your site so you can book jobs in your sleep.
+
+- Chat: We help you embed a chat solution on your site so you can easily communicate with your customers.
+
+---
+
+How can I track my SEO?
+
+Your Website builder will set up Google Search Console and Google Analytics accounts for you, so you can track engagement and site performance over time.
+
+Here is a Help Center Article that provides more information about Google Analytics.
+
+Want to build a Website with Housecall Pro? Sign up today!
+
+---

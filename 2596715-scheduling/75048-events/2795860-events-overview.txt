@@ -1,0 +1,223 @@
+Events Overview
+Source: https://help.housecallpro.com/en/articles/2795860-events-overview
+Author: Nate H
+Last updated: Updated this week
+
+Summary: Mark employee vacation time, appointments, meetings, PTO, or other events, in your company calendar.
+
+Events in Housecall Pro
+
+Events are a simple and effective way to block time off on your schedule. Whether you need to schedule a meeting or take time off, Events make it easy to keep track of your and your employees' time.
+
+By following the steps outlined in this article, you can easily schedule and manage Events for you and your employees, making it easier to stay organized and on top of your schedule.
+
+---
+
+---
+
+Creating an Event
+
+There are two ways that you can create and schedule an Event in Housecall Pro. We'll go over both methods in this section.
+
+---
+
+Create an Event by Manually Selecting the Date and Time
+
+The first method we'll go over is how to create an Event by manually selecting the date and time. To do this:
+
+- Click the New button in the top navigation bar of your Housecall Pro account.
+
+- Select Event from the dropdown menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132982052/ba05b8f1b13ae905615b6288/image.png?expires=1763568000&signature=24b45fa102ab871982294455ccd1bb44b5847ba6298c1e3219d3204eaf2189c7&req=dSEkFMB2n4FaW%2FMW1HO4zdIu2W8DL8uB%2FFI%2BY8U7jAg966N4It1n0tDAhUy3%0AsZ%2FPJ73dL2JXuUAx2zs%3D%0A
+
+- On the New event page, you can schedule your Event by clicking into the gray From and To boxes in the Schedule section and selecting the dates/times from the drop-downs.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132987218/2d64cb270a4970879c33c0b6/image.png?expires=1763568000&signature=dd1f965cd919bfd9ce855b00b76d5fa653e7a0242fce08771d45042b30732c71&req=dSEkFMB2moNeUfMW1HO4zb6F72S39JFXjlhv07eKmTt1iDMDwDxooDOrQgLU%0AZ0JA60rtytesLDog9AU%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/1132988500/eb705988853320a770a27596/image.png?expires=1763568000&signature=45455591cba092842a912b519d465252c10394fb590fe2672853e38b32988934&req=dSEkFMB2lYRfWfMW1HO4zf1QOGo90%2B4GHqdhtoBCbhL4SXvaVmv8gwgQ6N7C%0A2ZLI3l2Djukw7jUNyAM%3D%0A
+
+- You can also click on the pencil icon to choose a date and time directly from your calendar.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132977398/de53a80f2d85b31993e3829b/image.png?expires=1763568000&signature=af07f0a3b59957086b43d5c28f797d1edc0555904980e8fa5132b3f759ef400f&req=dSEkFMB5moJWUfMW1HO4zaesmSSMqeZp9Ayry%2Fflx9qu5tVXaVnLS1FHm53Q%0AEY1Y7d%2Fnm20ecwlXBGY%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/1132976541/982c9b0c0c2e90c7553c678b/image.png?expires=1763568000&signature=733caf2f8b19c5fd4d5834663daff6b266e351ab51d3834fc41a663d3047f603&req=dSEkFMB5m4RbWPMW1HO4zZqAazdadNMqm32%2BrDQIKAuvQs2TQQXvHODk5Wbm%0A5OUwpi4Ib6uQaOGLNoE%3D%0A
+
+- Click and drag the Event on your Calendar as needed to adjust the date, time, and duration.
+
+- Click the blue Save button in the top right corner. This will take you back to the New Event page.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132972539/b2a2241745cb272674bc7512/image.png?expires=1763568000&signature=0a4bb09ad0ecfdcf6aa0da4a565044660a3a406a11ce1de644dcc2ef19c20137&req=dSEkFMB5n4RcUPMW1HO4zRBpV4XZdmUBcLjXvHXYtPdu%2BVlMCtGj%2FsdC%2B6No%0AjbYOEEEgwv1J5olwfY0%3D%0A
+
+- You'll need to assign at least one employee to the Event in order to save it. - Note: The Event will be automatically assigned to the account user who is scheduling the Event. You can change this by removing your name from the Dispatch text box and typing/selecting another employee's name.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132984664/cc78aaf8fab28d9d1b10a211/image.png?expires=1763568000&signature=677e7380f8d6a9505aaa18ee57b84ab95abe4bbaccffda06d8c75ce3d718cc27&req=dSEkFMB2mYdZXfMW1HO4zaUIVFfqmzjo6KRhOHX1tAb5%2B1U0mzZV%2B5rTSs2Y%0AoSlt%2By0WuwzAoUzyg6o%3D%0A
+
+- If you'd like, you can also enter a name, note, and location for your Event in the Event details box. 
+​ - If you want to add more details to your Event, you can do so in the 'Note' field. This is a great place to add any notes or reminders for yourself.
+​ - When adding a location, start typing the address or name of the location and select from the drop-down menu (this pulls directly from Google Maps).
+
+[Image] https://downloads.intercomcdn.com/i/o/1133018521/d54bd7b68bce1fc286797e29/image.png?expires=1763568000&signature=b896376ecebfcecbfcb60e4b85775336eaf3f98dcfab6a5a8b33ff8834da860d&req=dSEkFcl%2FlYRdWPMW1HO4zYbsXUdj2g7Fp%2BDlwKTWPubAMS7IIEhuY%2BwOyeyd%0ADJBPoCN4XhlWnc9ci78%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/1133020155/9187d9f61b2f22bd052d2041/image.png?expires=1763568000&signature=fa012612d1e7c9359fdae97b759d567409c0d4897caa05d5f1aca1d744220c12&req=dSEkFcl8nYBaXPMW1HO4zSr2%2BBe0dqj%2B8lNyZVjeXq9Ibi%2B3%2BR7lSazhVfam%0AdkAjDvrorX5TaeOe5HQ%3D%0A
+
+- Finally, click the blue Save Event button in the top right corner of the screen once you have entered all of the necessary details.
+
+[Image] https://downloads.intercomcdn.com/i/o/1133015563/1d1f6fb5dc1085e2cfece8f7/image.png?expires=1763568000&signature=6d4e3ed13d4f896bd7bdc21f441f0106a34663f8ec341f11dc53a6d9fbb7d192&req=dSEkFcl%2FmIRZWvMW1HO4za5Vgn%2FedjKi7L64i0YAU4JXnOw5i0Rq8XwjXy7t%0A55px9Da0wQIpzFSI658%3D%0A
+
+---
+
+Create an Event from the Schedule Page
+
+The next method for creating an Event is directly from the Schedule page. To use this method, follow the steps below:
+
+- Go to Schedule in the top navigation bar of your HCP account on web.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132940861/f7ef2252cae340d4121a6f1a/image.png?expires=1763568000&signature=ebd30e1b8d367bdcb2846fa68e8caa1f680258554129e3f27dce833b87acc22b&req=dSEkFMB6nYlZWPMW1HO4zSCjYGF9uW568GrMATCMbxwc%2Fa6xaTGmJHw2u1Hh%0AGeoWfuOVCI9geElMaug%3D%0A
+
+- Next, click on a space on your calendar and select Event from the menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132945968/b3cf5ac41b3d213fa04f0992/image.png?expires=1763568000&signature=02a53794c7171df430693c6e44aac6832e155fc0383141ed478931a982017636&req=dSEkFMB6mIhZUfMW1HO4zWgHi8yFc7GjDSNzwUR0Natczk17%2FyeFp1psyBpJ%0AQpuN7AgevS2uX9veEN0%3D%0A
+
+- When using this method, the date and time will auto-populate with the date and time you've selected on the calendar.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132963781/44f7a8bf8fae34c9a5a93f6e/image.png?expires=1763568000&signature=d3673b9248f591977fe84697e57285d0d54d10dc541df8df67de9a6a963913be&req=dSEkFMB4noZXWPMW1HO4zS%2BcYF%2BTV69cPBs3FmT6G5Gztiq%2B7fxm9Z0c88aF%0ASo%2BP1LwNLpNr8iAVu9M%3D%0A
+
+- The date and time can be adjusted as needed by clicking on the pencil icon on the New Event page. In this case, select the blue Save button in the top right corner of your screen after adjusting.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132965822/79ae57ef1a8c0b7339eef14b/image.png?expires=1763568000&signature=dd3b639542003bd45cc01503abb1d90b9f5c662b4467202c7555eb587796f74d&req=dSEkFMB4mIldW%2FMW1HO4zZwZa7IH5scNVZ36JiqJzXQJDCfXn4njqKys3T%2Br%0Ac0l0H3LvWy4o5wdhW1E%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1738685057/1bf19a5ad55a222743bf10bfcce0/image.png?expires=1763568000&signature=c37b81b0896ac7453e470a94d73a38dfa73121d7d9fcffaa8a98030a5fb8821a&req=dSckHs92mIFaXvMW1HO4zUHXKSW33EQ8JSYIWee6jX6%2FTpWM0XjzppDhehaJ%0AOo4E142786udCNW6jK8%3D%0A
+
+​
+
+- You'll need to assign at least one employee to the Event in order to save it.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132984664/cc78aaf8fab28d9d1b10a211/image.png?expires=1763568000&signature=677e7380f8d6a9505aaa18ee57b84ab95abe4bbaccffda06d8c75ce3d718cc27&req=dSEkFMB2mYdZXfMW1HO4zaUIVFfqmzjo6KRhOHX1tAb5%2B1U0mzZV%2B5rTSs2Y%0AoSlt%2By0WuwzAoUzyg6o%3D%0A
+
+- If you'd like, you can also enter a name, note, and location for your Event in the Event details box.
+
+- If you want to add more details to your Event, you can do so in the 'Note' field. This is a great place to add any notes or reminders for yourself.​
+
+[Image] https://downloads.intercomcdn.com/i/o/1133018521/d54bd7b68bce1fc286797e29/image.png?expires=1763568000&signature=b896376ecebfcecbfcb60e4b85775336eaf3f98dcfab6a5a8b33ff8834da860d&req=dSEkFcl%2FlYRdWPMW1HO4zYbsXUdj2g7Fp%2BDlwKTWPubAMS7IIEhuY%2BwOyeyd%0ADJBPoCN4XhlWnc9ci78%3D%0A
+
+- When adding a location, start typing the address or name of the location and select from the drop-down menu (this pulls directly from Google Maps).
+
+[Image] https://downloads.intercomcdn.com/i/o/1133020155/9187d9f61b2f22bd052d2041/image.png?expires=1763568000&signature=fa012612d1e7c9359fdae97b759d567409c0d4897caa05d5f1aca1d744220c12&req=dSEkFcl8nYBaXPMW1HO4zSr2%2BBe0dqj%2B8lNyZVjeXq9Ibi%2B3%2BR7lSazhVfam%0AdkAjDvrorX5TaeOe5HQ%3D%0A
+
+​
+
+- Finally, click the blue Save Event button in the top right corner of the screen once you have entered all of the necessary details.
+
+[Image] https://downloads.intercomcdn.com/i/o/1133015563/1d1f6fb5dc1085e2cfece8f7/image.png?expires=1763568000&signature=6d4e3ed13d4f896bd7bdc21f441f0106a34663f8ec341f11dc53a6d9fbb7d192&req=dSEkFcl%2FmIRZWvMW1HO4za5Vgn%2FedjKi7L64i0YAU4JXnOw5i0Rq8XwjXy7t%0A55px9Da0wQIpzFSI658%3D%0A
+
+---
+
+Create a Recurring Event
+
+Setting recurring Events such as weekly meetings, time off, or appointments in your calendar is simple: set it up once and you're good to go! Just follow the steps below.
+
+To create a recurring event:
+
+- Click the New button in your navigation bar and select Event.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132982052/ba05b8f1b13ae905615b6288/image.png?expires=1763568000&signature=24b45fa102ab871982294455ccd1bb44b5847ba6298c1e3219d3204eaf2189c7&req=dSEkFMB2n4FaW%2FMW1HO4zdIu2W8DL8uB%2FFI%2BY8U7jAg966N4It1n0tDAhUy3%0AsZ%2FPJ73dL2JXuUAx2zs%3D%0A
+
+- Input your Event details: date/time and employee (required), event name, notes, and location (optional).
+
+[Image] https://downloads.intercomcdn.com/i/o/1133057031/956ebdbb2a521b74537d2d04/image.png?expires=1763568000&signature=76ba21906a14feb17e118eb3546bba023bcc20e955a34573a32601c5e8e4e0a4&req=dSEkFcl7moFcWPMW1HO4zUg%2FJvG3oIypWda9vm6s9NsgIwSnunchrAXc%2FuRn%0AiAuNWbF0wiaMHlHL8bE%3D%0A
+
+- Click the pencil icon to open your Schedule.
+
+[Image] https://downloads.intercomcdn.com/i/o/1133057879/8b53cb0fdcbf4dbd4ee36ef0/image.png?expires=1763568000&signature=88ea1a3bfb64747bfb214d067e587801bbd0a889721d52cb054ffeda6a0923d4&req=dSEkFcl7molYUPMW1HO4zYIah%2FxjWMptOeZzCBBKRFHNrf8V%2BY2kfUM6cODk%0AieA6KqGFRANFFpvOCkA%3D%0A
+
+- Once on the Schedule, click the Recurrence button.
+
+[Image] https://downloads.intercomcdn.com/i/o/1133059933/f6dcfbd6d192057449467795/image.png?expires=1763568000&signature=22ebd53b8483cfd4748f426af70bb02a0bd50067f443ab22c87517835a7db1a5&req=dSEkFcl7lIhcWvMW1HO4zUCQFcCJWKLAsou3iGywSr44EnUfGU09jLHgX2kY%0AuAoDqdeO9c18o3v1cgA%3D%0A
+
+- In the Event Schedule window, confirm the Start/End dates and times.
+
+- Click the Repeats drop-down and select from the following recurrence options: - Does not repeat
+- Daily
+- Every weekday (Monday to Friday)
+- Weekly
+- Monthly 
+- Yearly 
+- Custom
+
+- For Monthly & Yearly recurrence options, choose a specific date of every month. Be sure to select a date that occurs every month. - For example, the 31st is not available in February, April, June, September, or November.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/1133069578/dba385f0d3b662cdee04f87c/image.png?expires=1763568000&signature=554df0381b315b5111f25f6ee177e5fc13e1be2e3fafd1f27c40b415c7667100&req=dSEkFcl4lIRYUfMW1HO4za7XaQsxdYTDLkPT1CxoMAX3OrQ0AD5vacRWFhwD%0AOyls%0A | [Image] https://downloads.intercomcdn.com/i/o/1133068458/6d3abe166f6d6b698c732fce/image.png?expires=1763568000&signature=69a1eafbbce08adbaebb7b188363d9015681a2dcf933a310647887cd7a72694e&req=dSEkFcl4lYVaUfMW1HO4zWCkBUBRF2eO1rYxxcoCaeW28UTMVLynRqY6XKXc%0Am7PP%0A
+
+- The Custom recurrence option allows you to select how many times during each day, week, month, or year the Event will recur. You can also select which days of the week you'd like the Event to repeat.
+
+[Image] https://downloads.intercomcdn.com/i/o/1133085171/f198d7635e17229c33c5b4fb/image.png?expires=1763568000&signature=6befd75dce68014b61e3cb99247dbb2ce878e7210d6ef84106a7a75dcf2f4f01&req=dSEkFcl2mIBYWPMW1HO4zfz4y7qx7h%2F9mt%2BPoH69jpwd8wQGU2SBuIey45Mk%0Ahxp%2FS0Y8Ez1kNVgEaCI%3D%0A
+
+- Next, set an End Date by either: - Setting a number of occurrences that will take place, or 
+- Selecting a specific date for the recurrence to stop
+
+[Image] https://downloads.intercomcdn.com/i/o/1133082701/fbc8ae6110957346bb2d5a2e/image.png?expires=1763568000&signature=bf9297d9cbe1f14967bff228fb582dec75416048bf1c3c8f3267eb463bd4ea92&req=dSEkFcl2n4ZfWPMW1HO4zcuR2PLbA1kuIzQubaC4mYIQQjAlBG%2FRJohn5pES%0A9HbADHsOnQidpd2606U%3D%0A
+
+- Click Done once you've finished, then click Save in the top right corner of your Schedule page. This will take you back to the New event page.
+
+[Image] https://downloads.intercomcdn.com/i/o/1133088851/fdda1a963a4b53365398d2aa/image.png?expires=1763568000&signature=c0b643b09aab180e28d1d93a592706d589b356e87933eee8008ef56c4b1660e3&req=dSEkFcl2lYlaWPMW1HO4zR3gMH86bng6OQ9%2BTZoi5Bu7ufzDmafGQcFxzhmh%0A7JuBUQ7So68U6r0F5L4%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/1133090606/593156e2a984e7fa7b5c1b9f/image.png?expires=1763568000&signature=a94b75f1e4b8b10aba8d09a26a3df29cfa54b1afa542ddbb7985dc4a4d22c54f&req=dSEkFcl3nYdfX%2FMW1HO4zcwAxqv%2B4e6uwfUe3J4GuJZMG8y1TxGajAmx1vxA%0AowBMh%2BRiuTaEmm69cbk%3D%0A
+
+- Confirm that all of your information is correct, then click Save Event in the top right corner of the screen, and you're all set!
+
+[Image] https://downloads.intercomcdn.com/i/o/1133092756/8221911de6617d40d4df46e9/image.png?expires=1763568000&signature=ac6de7846566011469d76e609b0d37a7b5fd0b169ddcbe54f8a1360fd77dca11&req=dSEkFcl3n4ZaX%2FMW1HO4zbKUQse6Nmi6tq4rlVHxLo41FH8bOa8sGk%2BuzRde%0ArkQufo8dj697UIU5axo%3D%0A
+
+---
+
+View and Edit Events
+
+To view your Events, simply navigate to the Schedule page. Events will show up on your calendar in a lighter shade of the employee's designated color who is assigned to the Event.
+
+[Image] https://downloads.intercomcdn.com/i/o/1133028766/b05dfce53d82274aaeb8b98f/image.png?expires=1763568000&signature=262d684a833254553b8f22d405f9b3d2c5d70e6cb4ef5f7224b44f87f504f011&req=dSEkFcl8lYZZX%2FMW1HO4zfELbKf3is70zuROifChFhX95wj%2FVAYjmvZKe%2BrH%0Axl4pNSgq60UzF6CF%2Fhk%3D%0A
+
+If you need to make changes to an Event, you can do so by clicking on the Event in your calendar. This will take you to the Event details page you used to create the Event, allowing you to make any necessary changes.
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/1133027341/0447e103fdefcdecf52f6cc2/image.png?expires=1763568000&signature=f4576653dc5742035a67ae63e67fdd96bf54cdc5cdf0a1fe8d225a8b6d585df7&req=dSEkFcl8moJbWPMW1HO4zcr4EXLk4CECBD0JloMJ2JV8Cw%2FbWWjKF93BeE4r%0ApzOUZVxz8AfzI%2BASxCo%3D%0A
+
+---
+
+Delete an Event
+
+If you no longer need an Event, you can easily delete it from your calendar by following the steps below:
+
+- Go to your Schedule page and click on the Event you'd like to delete.
+
+[Image] https://downloads.intercomcdn.com/i/o/1133026838/df3361d29965b0edd0a3325d/image.png?expires=1763568000&signature=6f528a850338fd9546cf5ca08e0c81f2968ae06464edc292af53fb5f3026a3e2&req=dSEkFcl8m4lcUfMW1HO4zVBplPsdItK1jzwXgiy0rIzXO4d%2BnsXes3QM0R5n%0Amgigfo0cevSiWT0CoRA%3D%0A
+
+- Next, click the More icon in the top right corner of the Event page, then select Delete Event.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132996992/43fcb56919925b01af7cfd6a/image.png?expires=1763568000&signature=2e153a5d58a790f6635aff202203dd9883c34887c5e2ad1f983f2f2914822097&req=dSEkFMB3m4hWW%2FMW1HO4zaANzS%2B253i2A7rcNf6ybwtGYROkZ%2BEB7JLpxHtI%0ARGTtWekURYOXzW5fcpo%3D%0A
+
+- To confirm, click Delete. This will remove the event from your calendar and free up that time for other activities.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132994753/5a2fc305a68c01d043e8931c/image.png?expires=1763568000&signature=01abb2a5c6ef4cb12b003d3febe7e9ee729cfb93d13946e60bfae22e076c147e&req=dSEkFMB3mYZaWvMW1HO4zW0bW2%2FSkU2JuIowCMA9Nhv2CJWco%2FQPZy9hU7GD%0AnN1bPsH%2Bk6SRUUb8yEk%3D%0A
+
+Now that you know how to use Events, you can start blocking off time for all your important activities. Happy scheduling!
+
+---
+
+Events FAQs
+
+Can I convert an Event into a Job or Estimate?
+
+- Events can't be converted to jobs or estimates at this time.
+
+Do Employees get notified of Events?
+
+- Employees assigned to an Event can view it on their Schedule, including all Event details, but they will not receive notifications for events.
+
+Where can I view deleted Events?
+
+- At this time, Events cannot be viewed or recovered in the system once they have been deleted.
+
+---
+
+---

@@ -1,0 +1,140 @@
+Sales Proposal Tool on Mobile
+Source: https://help.housecallpro.com/en/articles/7834798-sales-proposal-tool-on-mobile
+Author: Roland Ligtenberg
+Last updated: Updated over 7 months ago
+
+Summary: Create proposals quickly and easily on any mobile device with our updated Sales Proposal Tool.
+
+Sales Proposals on the HCP Mobile App
+
+You can customize each proposal to fit any customer's needs to increase your close rates on larger projects. This article provides a detailed guide on how to create proposals using our iOS and Android apps. Click here for information on creating proposals on the web.
+
+---
+
+Accessing the Sales Proposal Tool
+
+The Sales Proposal Tool is built on top of the current estimates feature, bringing the best of proposals and estimates into one product. With this tool, you can take advantage of estimates-specific functionalities like adding attachments, using checklists, or scheduling while also creating visually appealing proposals.
+
+To create a proposal:
+
+- Create an estimate that includes all options you want to offer to your customer.
+
+- Once your options are in place, tap the 'Present' button on the Estimate details page to open the proposal view.
+
+[Image] https://downloads.intercomcdn.com/i/o/729438780/e36b9cae50103119955808d6/mobileproposal1.jpeg?expires=1763568000&signature=613a363d795e93840e245805aeed05a9ca3cdc16f66fd8d4322d1cf19a7f2ecd&req=cyIuEsp2molfFb4f3HP0gBmYMMXoVUw8hf3GQrThMKNnVgZ%2Flf2uPQqAVltA%0AMNFIKOJaUcSESVdycA%3D%3D%0A
+
+---
+
+Side-by-Side View of the Proposal
+
+After tapping the Present button, you'll be taken to a side-by-side view of the proposal that showcases all the options from your estimates horizontally to help your customers easily compare the options and make the decision-making process smoother. You can add as many options as you want and present them as a proposal.
+
+This view is designed to help your customers easily compare the options and make the decision-making process smoother. When you send the proposal via email or text, your customer will also see the same side-by-side view. So make sure you utilize it effectively to create an impactful first impression!
+
+From this view, you can control the visual appeal of your proposal by adding cover images and descriptions to your options. Simply tap on the More icon (three dots) to add them. You can also rename the options from here if needed.
+
+[Image] https://downloads.intercomcdn.com/i/o/729439946/aae123e6ba1b5804e138e252/mobile+proposal+gif+1.gif?expires=1763568000&signature=3ae5ed27c2c558cceb7778d7e946ab4fb52fe1d1f0967b15176cf0b7a058229f&req=cyIuEsp3lIVZFb4f3HP0gCHjSu0aFwGPL%2FQhn7m8YwifyiCy5LaZ7BgIVqyJ%0AX72J7yM39AdtGQwbUA%3D%3D%0A
+
+The side-by-side view will display all your options added to your estimate horizontally (you can swipe right and left to browse them)
+
+Once you added the cover images and description to your options, you can preview the details view of each option separately. This detailed view of a single option will also be accessible to your customers. To enter this view, tap the “view option“ button for a selected option:
+
+[Image] https://downloads.intercomcdn.com/i/o/729440333/527870189c82a572f8123225/proposal+mobile+2.png?expires=1763568000&signature=f5c3fbf324dbb1b292187e5eba8a4e428ca1e060d689aa8a66f025e9f92b5945&req=cyIuEs1%2BnoJcFb4f3HP0gFEF9gk1QXSQCnDmD7n7JyUPqaspt1YgZJJGfYfD%0AsJVvJdl9ah7xVrPqRA%3D%3D%0A
+
+---
+
+Option Details View
+
+The details view of a single option presents all services and materials added to that option, as well as the taxes, discounts, and information about the needed deposits.
+
+It also presents the most important information on your estimate: your company information, the name and address of your customer, the technician’s name, and, if added, expiration and service dates.
+
+[Image] https://downloads.intercomcdn.com/i/o/729440879/322e853852a138003defd78a/proposalimage4.png?expires=1763568000&signature=8937a3783e1936508c0d90ad1ada3aafe9aca828a62d1bd1c9b9f918dd65d737&req=cyIuEs1%2BlYZWFb4f3HP0gBuxaEKsUHAs5BjmnrW%2BTYumR8Ay4GzbZ2nnawth%0APr52OLqOu0YE5uGD9w%3D%3D%0A
+
+---
+
+How to Access Estimate Option Settings
+
+When viewing a specific option's details, you can decide which parts of that option should be visible to your customers and which shouldn’t by using the estimate settings located on the right. Default account estimate settings apply unless you change them. Default account estimate settings apply unless you change them here.
+
+To open the settings for an Estimate Option:
+
+- Open an estimate and tap the More icon (3 dots) and select Edit estimate settings.
+
+[Image] https://downloads.intercomcdn.com/i/o/729441519/53a3aaf0a26d90f4103f6a7c/estimatesettingsmobile.png?expires=1763568000&signature=c47624731a52747776841d8614a31e93f9db5a4671d8397338e031493fb46b8d&req=cyIuEs1%2FmIBWFb4f3HP0gOk2kl9FE8c%2Bvf73Yw3AHUiX1TSvD5PWz%2FKiXsly%0AYDdo%2FX4%2BIgIShkDkBw%3D%3D%0A
+
+---
+
+---
+
+Adding Consumer Financing to Sales Proposal Tool
+
+We are pleased to share that if you are approved for Wisetack, you can offer 'as low as' options within the Sales Proposal Tool!
+
+With this integration, your customers can see the cost of a monthly payment for each option you present, which helps reduce sticker shock and empowers them to take on bigger jobs without breaking the bank.
+
+Applying for financing only involves a quick application on the customer's mobile device, which reduces the need for you to handle sensitive information. The best part? You get paid in full as soon the job is complete, while your customers enjoy the flexibility of paying over time.
+
+---
+
+How to offer Consumer Financing with the Sales Proposal Tool
+
+This feature brings the power of real-time consumer lending right to your fingertips, simplifying the process of offering financing to your customers.
+
+- Step 1: During the estimate option presentation, you'll notice a button labeled "Send invitation to prequalify". - This lets your customer see how much they qualify for if they were to finance the job.
+
+[Image] https://downloads.intercomcdn.com/i/o/748534863/16535603a0896cf9a8969f3d/image.png?expires=1763568000&signature=5b1d452155c8b8dce01623fa04a340cb75ee961722fd795ece8412fc365a330c&req=cyQvE8p6lYdcFb4f3HP0gHHoKdroIJMBQYgpruyHDId0kzDttRaxAbuK7Vp8%0AWZFWOiA0iB3Xz4%2F7rw%3D%3D%0A
+
+- Step 2: Tap on the button. This will bring up a new screen where you can input your customer's mobile phone number.
+
+- Step 3: After entering the customer's mobile phone number, tap on the "Send Invite" button. This action will send an SMS to your customer with a link to prequalify (how much funds a homeowner could qualify for if they chose to finance).
+
+[Image] https://downloads.intercomcdn.com/i/o/748536435/0b1a1e4ab4a464ad9dc1ac13/image.png?expires=1763568000&signature=2f85e797fe785ad44517f0b89d781dd6956c2b4c9cea1b7db5dfe6dcbdd3e73c&req=cyQvE8p4mYJaFb4f3HP0gIjv0zRoiXXzk9UNJ7FOYrxFlqZZ4BQkrrj3urYB%0A%2BkMLMzXT7D7T9shnYQ%3D%3D%0A
+
+- Step 4: To send the actual financing application to your customer, you first need to copy the option chosen on the sales proposal to a job. Only then can your customer actually apply for financing and receive a decision instantly.
+
+[Image] https://downloads.intercomcdn.com/i/o/759687541/3ebaa9cc86d1464dfb0a3a61/image.png?expires=1763568000&signature=b2c5c895c24659de7515490047fc564cb4b0520f79520bc67ac69718ffce68a0&req=cyUuEMF5mIVeFb4f3HP0gA4WVWtq0DgfLoUbrOME1fv3XxzQEZMJrALsUnY5%0AlQUws8Ad5Bfcv9RkCg%3D%3D%0A
+
+---
+
+Benefits of Consumer Financing Powered by Wisetack
+
+- Win more and bigger jobs - win jobs you would've lost otherwise if you hadn't offered financing.
+
+- Easy to use - integrated into Housecall Pro, financing involves fewer apps to juggle and zero paperwork to manage.
+
+- Better customer experience - Delight customers with multiple payment options that have no prepayment penalties, origination fees, late fees, or compounding interest.
+
+Offering integrated consumer financing lets you close more and bigger jobs easily. Customers receive the flexibility to pay over time, while you get paid in full as soon as the job is complete.
+
+---
+
+Sending the Proposal to Your Customer
+
+Once you have added all images and descriptions to your options, and, if needed, you adjusted the visibility of the different parts of an option using the estimate settings, you can send your estimate as a proposal to your customer. To do so, tap the paper airplane icon from the side-by-side view.
+
+[Image] https://downloads.intercomcdn.com/i/o/729441813/5f465bada4a347b22fc7dcbe/envelope+icon.png?expires=1763568000&signature=63e8084d98cb04bfef9d200fa92c2d378120742d043debdddb2b178a9f533e56&req=cyIuEs1%2FlYBcFb4f3HP0gFnYPe%2B6wA6UG73%2FLd0EVBz4ES2YDe6XF8E5w6JQ%0Al8PwgfjbrCpA%2F4ItnQ%3D%3D%0A
+
+You can send your proposal either through email or text message. All options included in your original estimate will be received by the customer by sending the estimate as a proposal using the flow described above.
+
+---
+
+Sending Standard (Non-Proposal) Estimates
+
+It's important to note that the new Sales Proposal Tool attached to your account does not interfere with your ability to provide estimates to customers as you did before.
+
+You can still present and regularly send estimates without the proposal presentation mode. To do so, just tap the paper airplane icon located on the estimate details screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/729442184/5e5c894b788f50f7d9aea846/regularestimatemobile.png?expires=1763568000&signature=74e91f3f2fdc19e13d2ae34d63837805d42065d036ebba4b374c6ca3430f58da&req=cyIuEs18nIlbFb4f3HP0gIbJY03v%2BwBpOZ8EpBBmIH9D4FfOYLWa4FG3xNiN%0AELErBB4Ot0kufKnaVA%3D%3D%0A
+
+---
+
+NEW! Present Sales Proposal Options on a Mobile Device from Pre-Built Templates
+
+You can now use pre-built templates to more efficiently present good, better, best proposal options to your customers on a job site!
+
+Click here to learn how.
+
+[Image] https://downloads.intercomcdn.com/i/o/860675905/e892f5949283dc1e5714fa80/101723-estimate-and-proposal-templates-on-mobile-static-assets_asset-1-460x310.png?expires=1763568000&signature=21af7f9d93b27c31da6fa5bd41d1e4ae8cc565506cb8527346a8a7231cd6331e&req=fCYnEM57lIFaFb4f3HP0gKppieDEonFwN89BAtG2boQWBOmsMJrEL8NncxYS%0AZ6HbE3WBTwazWViKxA%3D%3D%0A
+
+---

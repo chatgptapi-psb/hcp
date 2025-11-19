@@ -1,0 +1,59 @@
+Custom SMS Best Practices
+Source: https://help.housecallpro.com/en/articles/3856316-custom-sms-best-practices
+Author: Nate H
+Last updated: Updated over a month ago
+
+Tips for Custom SMS
+
+The custom SMS feature is a pro’s best friend best friend. This automated feature allows Pros to have a dynamic experience with their customers, keep clients notified of crucial job status information, as well as enable clients to message back from the convenience of their mobile devices. Here are a few guidelines to utilize this feature in the most professional way.
+
+---
+
+Choose the Area Code that Best Represents Your Clientele
+
+- Currently, there's no way to change or assign the custom number that is used for your Custom SMS feature. When you are given the option to choose an area code we recommend choosing one that best represents the majority of your clientele and suits your business needs.
+
+---
+
+Tailor Your Custom SMS Notifications to Fit the Needs of Your Company
+
+- Your custom SMS feature comes standard with 3 automated notifications. Feel free to use the provided templates or customize them to fit your company's brand image.
+
+- Many companies choose to show their tech's name/profile pic within these notifications. If you decide this is not the best fit for you, you can adjust these settings to show only your company name instead which is helpful when techs are frequently switched between jobs.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1649598622/3c9434d69d893da0f346fe2e362d/image.png?expires=1763568000&signature=c8385fae5606fcac12801dc2f3560422ad8f0625eeb637ad286bbb42390988be&req=dSYjH8x3lYddW%2FMW1HO4zXPXzsVIRx7vcC8cOOLXRCOgNDNqCn5ovsHnETDi%0AOTtMgijyib97d70OUvQ%3D%0A
+
+---
+
+​Utilize the Text Invoice/Estimate Feature
+
+- Did you know that almost three-quarters (72.6 percent) of internet users will access the web solely via their smartphones by 2025, equivalent to nearly 3.7 billion people?
+
+- You can utilize the text invoice/estimate feature making it easy for your customers to access and respond to you from the convenience of their mobile device.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1421295404/67d344b2d9ac7857f4eadef52fa1/Screenshot+2025-03-13+at+1_59_32%E2%80%AFPM.png?expires=1763568000&signature=ca7f5ca48898524fbcb92528097a5487d7ebc9b295139e3f81e669fa544cab40&req=dSQlF8t3mIVfXfMW1HO4zQQxUCECLTFnisqmRDn6NrZ4vLgZDoLiZBX%2FlfiO%0AxfnqyqnK3EmHQIN3pVY%3D%0A
+
+---
+
+Assign a POC to Monitor All Inbound Messages from Your Customers
+
+- We recommend designating yourself or one of your users as a POC within your account. This will help to ensure that all communication that is inbound from the customer is monitored frequently.
+
+- Below are details on where inbound customer text messages are sent:
+​ - If the job is In Progress, meaning ‘On My Way’ has been clicked, messages to a Pro’s Custom SMS number will be sent to the technician assigned.
+ 
+ 
+ 
+- If the job is not In Progress (before ‘On My Way’/after it’s marked as ‘Finished’), any message to a Pro’s Custom SMS number will be sent to the Point of Contact in the Pro’s account.
+
+---
+
+Take Custom SMS to the MAX Level
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/3ukhufdsva
+
+---
+
+Click Here to Set Up Custom SMS
+
+---

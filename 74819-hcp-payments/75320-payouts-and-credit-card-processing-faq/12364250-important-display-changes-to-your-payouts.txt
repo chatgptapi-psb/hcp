@@ -1,0 +1,40 @@
+Important Display Changes to Your Payouts
+Source: https://help.housecallpro.com/en/articles/12364250-important-display-changes-to-your-payouts
+Author: Andy F
+Last updated: Updated over a month ago
+
+Summary: Learn about upcoming changes to how your Pending transactions and My payouts tables work. These are visual updates only and will not affect your payout speeds and when the money…
+
+What’s changing in the Payouts page?
+
+Starting October 13, 2025, your transactions will now remain in the Pending transactions table until the day the money deposits into your bank account. On the day of the deposit, your transactions will be moved to My payouts and marked as in_transit. Rest assured, this change is only a display change for standard payouts and has no impact on the timing of when you normally receive your money.
+
+Experience before October 13, 2025:
+
+- Transactions appear in the Pending transactions table on the day you take the payment. Transactions move from the Pending transactions table to the My payouts table and are marked as “In_transit” on the same day payment is taken. Your money deposits into your bank account 2 business days after payment is taken.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1738894712/dde720320b4b605c62ed0f6816d0/edcef6e9-8220-400e-8ac5-de3a6f3d9f52?expires=1763568000&signature=a108f225f39f1f46c873547b146837609a5e29142f4aa1960fc6fe63e86c0c42&req=dSckHsF3mYZeW%2FMW1HO4zVu33T4WnBmBPUp%2BHOZzKW%2F2BvD24RW8aeyMDQ1l%0AlQjq4pli8Se%2F9UbNs8E%3D%0A
+
+Experience on and after October 13, 2025:
+
+- Transactions appear on the Pending transactions table on the day you take the payment. Transactions move from the Pending transactions table to the My payouts table and are marked as “In_transit” 2 business days after payment is taken. Your money deposits into your bank account on the same day they move to My payouts.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1738894715/5c5546c734d5c947ea60159e566f/d019a9cb-1a26-462b-a3f1-34d0060cd25f?expires=1763568000&signature=235a0beb5566ea17dfdb9e879d48e5abe3868cde2474f6aa5c90dfe756b76465&req=dSckHsF3mYZeXPMW1HO4zaaYCG7P4F4nBNFBxsqac69vZMdTZX9EcXV5tv1x%0APgvZIS29a4%2B%2BjtDM%2BIY%3D%0A
+
+Will this impact when I get paid out?
+
+This change will have no impact on your payout speeds or when funds land in your bank account. This is only a change to when your payments appear in the My payouts table from the Pending transactions table, which will be on the same day when you are paid.
+
+Why are the changes happening?
+
+This change is due to an update in how we display transactions provided by our payment processor, which will be displayed as “in transit” on the same day you are paid compared to the previous display where your transactions were displayed on the day you took payment.
+
+When will the changes take effect?
+
+These changes will be rolled out on October 13, 2025. You’ll start to see payments remain in the Pending transactions table a little longer before they are moved to the My payouts table, which will be the day you receive your money.
+
+Which payments are affected?
+
+This will only apply to card and ACH transactions on standard payouts in the My payouts table. Instant payouts, financing, and check deposits will not be affected.
+
+---

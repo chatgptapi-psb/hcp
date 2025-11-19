@@ -1,0 +1,46 @@
+Paying an Invoice via Apple or Google Pay
+Source: https://help.housecallpro.com/en/articles/4800703-paying-an-invoice-via-apple-or-google-pay
+Author: Ian H
+Last updated: Updated over a month ago
+
+Summary: How can your customers pay an invoice via Apple or Google Pay.
+
+Paying Invoices with Apple & Google Pay
+
+The ability to accept Apple & Google Pay is enabled for any account that allows their customers to pay an invoice via credit card. There is no additional cost to process credit cards via Apple or Google Pay.
+​
+
+---
+
+Apple Pay (Mobile)
+
+- If a customer's device is configured to use Apple Pay, they'll see the option to pay via Apple Pay when they open the invoice that you have sent them.
+
+- If your customer chooses to pay using Apple Pay, they'll be guided through the standard checkout process by first double-clicking the side button on their iPhone.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/1200559645/bd916ac2b80c4b7d8d41c024/apple1.jpg?expires=1763568000&signature=9c7bd528f2d9a568ed90313873ac2d8dac5cbbb7060141eeae495b97fd1bfb97&req=dSInFsx7lIdbXPMW1HO4zbhfkQJXbmxAuup0hsgRD%2BrXTszKkLs6zC7QehdA%0AFKvF%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1218433868/c2b8d4f9b92dcf577e5343159c4d/ApplePay1.png?expires=1763568000&signature=140fe1b592362ee3d362a6338139eac52a3afc28170a398b768813a59688cd93&req=dSImHs19nolZUfMW1HO4zSyHJ7kYqZtH%2BhcObFWZlDT1aNuoT%2F1Gohe3lX03%0A5vFx%0A
+
+- After confirmation, the payment will begin to process. Your customer will then see 'Done' and the transaction will be complete - that's it!
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1218429350/75c2c69ee5eb2de57a61c2881abb/ApplePay3.png?expires=1763568000&signature=09a50e8bd4bfc934dbba0428ecec4d908b72470766217e562d7449cbe820df3d&req=dSImHs18lIJaWfMW1HO4zcNT3SqiMLiW94p%2F8XOK4ASJXGtykvfKahlos4Jj%0AVEqr%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1218425383/1b9d10fe49fff08f1a7b14d0041c/ApplePay2.png?expires=1763568000&signature=8c6836bfce79d860a156c0dbf58685b8d90566898839697f3ccf55ad4a4087bb&req=dSImHs18mIJXWvMW1HO4zY4Np%2FzgHaa96gCEM5vHVJT7fjt2jprQ%2Fv7SAYiO%0A6pTW%0A
+
+---
+
+Google Pay (Web Browser)
+
+- If a customer's browser is configured to use Google Pay, they'll see the option to pay when they open the invoice that you have sent them.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1231658087/f971f4547f0550ff6da14b640885/goog1.png?expires=1763568000&signature=deada89077fceed84c6b3ca3b0146e14c3b92da1e5d3c6ee137977a1bd17998a&req=dSIkF897lYFXXvMW1HO4zTLUBHVtz%2B6psHgULYNGMGq4leFPEMQuI75WiPc6%0A%2BKRgOpOqKMPaAYcugcs%3D%0A
+
+- They will then be prompted to go through the standard Google Pay checkout flow.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1231658089/52e7bb7b3255678c0f1773a6b8f2/goog2.png?expires=1763568000&signature=3ff9dc3db9e7ee1a819862a333e6dbe53ed80df672a597e2e1ffcd8281f17080&req=dSIkF897lYFXUPMW1HO4zVMPKTbgSGl79AWn3DdFDk3Ytj4D27J0dnm7Kgyz%0Af3Ynwt%2F3J%2FAhlxZ43%2Bg%3D%0A
+
+- They'll get a confirmation that the charge was successful, and you're all set!
+​
+
+---
+
+---

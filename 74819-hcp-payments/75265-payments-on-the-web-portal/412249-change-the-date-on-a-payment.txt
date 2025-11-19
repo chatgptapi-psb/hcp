@@ -1,0 +1,30 @@
+Change the Date on a Payment
+Source: https://help.housecallpro.com/en/articles/412249-change-the-date-on-a-payment
+Author: Nate H
+Last updated: Updated over a year ago
+
+Summary: Learn how to change the date for Cash, Check, or Other payments.
+
+How to Change the Date/Time of a Payment
+
+To change the date/time of a payment:
+
+- Navigate to the Job Details page and scroll down to the Payment History section.
+
+- Click the clock icon to the left of the payment date.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1229021052/aea76146f5c02113c76eaddcf777/Change.png?expires=1763568000&signature=9b9c097cd231d6571c17818a7597662d79a770f48d9f61207f5166910fd01abb&req=dSIlH8l8nIFaW%2FMW1HO4zZ9hrCTqQwBXbbseZrd37%2FfYZ%2F%2B%2FDd%2BU00rB5tyl%0AlDPw1cBhS0CsiITEzUk%3D%0A
+
+- A window will appear where you can change the transaction date & time.
+
+- Click on each field to edit the information.
+
+- Once you've finished adjusting, click 'Update' in the bottom right corner of the window and you're good to go! The Payment History section of the Job Details page will now reflect the updated date & time.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1229021056/967f59d8d00c08676e063c53bc03/ChangeDate-Time.png?expires=1763568000&signature=466c7ca4283959daaa9102883d17d74d8afa1fdaee4f096843e6a37aa186316d&req=dSIlH8l8nIFaX%2FMW1HO4zQuH8zOZvZGxIX2X0dTi8d99aoEsj1ojGe%2B24NDA%0A8pFO9QyBxB7rUDTa0iY%3D%0A
+
+---
+
+Need help with collecting payments from your customers? Check out these simple tips!
+
+---

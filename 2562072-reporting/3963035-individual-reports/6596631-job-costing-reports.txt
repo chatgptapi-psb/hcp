@@ -1,0 +1,69 @@
+Job Costing Reports
+Source: https://help.housecallpro.com/en/articles/6596631-job-costing-reports
+Author: James N
+Last updated: Updated over 11 months ago
+
+Summary: Understand how our job costing reports work
+
+Job Costing Reports
+
+If you're using our Job Costing feature, you can track job costs and profitability across jobs in reporting.
+
+In order to report and track job profitability, you'll need to be using our job costing feature. To turn on this feature you will first need to head to your settings by selecting the gear icon in the top right corner of your navigation bar.
+
+Once settings are turned on, you can start inputting any costs associated with the job on the job page itself.
+
+---
+
+How to Run a Job Costing Report
+
+After turning on the job costing setting, your job costing reports will be added to the jobs page within reporting.
+
+To run a Job Costing report:
+
+- Click on the Reporting tab in the navigation bar at the top of your account.
+
+- Select Jobs from the menu on the left.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1280034916/f2a90999b4516055db767bb5fc11/Screenshot%2B2024-07-16%2Bat%2B11_31_37-E2-80-AFAM.png?expires=1763568000&signature=1ce8a637cbb9babd363cb081c1e7ba913261984667ff293e93eca1dd3966f7da&req=dSIvFsl9mYheX%2FMW1HO4zb%2FHDLRlNaypnZKv2N3IxvGFbeFn5qkCL%2FdWBpn3%0AQ29FkXZN12qUJ%2FIkoyw%3D%0A
+
+- You should now see the Job Costing card on your Reporting page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1280034919/5f28a9657b60f2e8043cc5876b56/image.png?expires=1763568000&signature=d3b00c2d9c135f21eb8671b0a31f0c2a0120075ce2a126a0afce2ea0da23f92d&req=dSIvFsl9mYheUPMW1HO4zRE%2BxeZU%2BJBncUNKh%2BDP6gDaQlfu1rNAyzBV0qLc%0ASpl2DfBlTgHB0IydTeA%3D%0A
+
+- Click on any of the reports to view your costs and profitability across jobs.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1280034918/02b25d7d711dd2f945de86f7ed35/image.png?expires=1763568000&signature=6b816e9835b3bc4f558486053df4266bac902fb0028cca5d9b00569c1909c91c&req=dSIvFsl9mYheUfMW1HO4zX5Auc6VNWMNwY3LIpoRn%2Fr%2FUVBidDD2vJHLk%2FVl%0AU5rf2vv%2BD8npTZz9oFw%3D%0A
+
+---
+
+Understanding Job Costing Reports
+
+Job Costing reports have the full functionality of our Jobs reports, including the ability to customize, drill down, and save custom versions of the reports.
+
+- Apply filters - Apply filters by clicking on the Filter button located
+
+- Adjust columns by metrics - Customize the metrics in the data table by clicking the blue 'Edit Columns' button located toward the bottom right of the report graph. 
+- Once in the edit columns menu, you can select or unselect metrics to see in the table.
+
+How metrics are calculated in Job Costing reports:
+
+- Job revenue is the subtotal of the job, minus any discounts applied (excluding taxes and tips).
+
+- Labor cost is the sum of the cost of labor across jobs. - When viewing by employee, only the costs associated with that employee will be shown.
+
+- Commission cost is the sum of commission cost. - When viewing by employee, only the costs associated with that employee will be shown.
+
+- Material cost is the sum of all material costs.
+
+- Miscellaneous cost is the sum of all miscellaneous costs.
+
+- Total cost is the sum of labor, materials, commissions, and miscellaneous costs. - Includes all labor and commission costs when viewing by employee.
+
+- Gross profit: job revenue minus labor, material, commission, and miscellaneous costs.
+
+- Profit margin: gross profit divided by job revenue
+
+For more detailed instructions on how to use the reports, reference our reporting help article.
+
+---

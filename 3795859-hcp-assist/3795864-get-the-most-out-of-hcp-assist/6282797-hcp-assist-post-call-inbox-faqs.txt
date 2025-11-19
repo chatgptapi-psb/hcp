@@ -1,0 +1,160 @@
+HCP Assist: Post-Call Inbox FAQs
+Source: https://help.housecallpro.com/en/articles/6282797-hcp-assist-post-call-inbox-faqs
+Author: Roland Ligtenberg
+Last updated: Updated over 2 weeks ago
+
+Summary: Learn more about how you will receive your post-call messages when you are signed up for HCP Assist
+
+HCP Assist: Post-Call Inbox Overview
+
+Your Post-Call Inbox is where you’ll receive follow-up messages from HCP Assist after a call. This inbox helps you and your team stay on top of important updates, next steps, and action items shared by HCP Assist agents. You can access it anytime from your Inbox in Housecall Pro under the Employees section.
+
+In this article, you’ll learn how to access your Post-Call Inbox, manage notifications, adjust who receives post-call messages, and get help if you need assistance with HCP Assist.
+
+---
+
+How do I access my Post-Call Inbox?
+
+You will receive the post-call messages under the employee section in your Housecall Pro Inbox.
+
+To access your post-call inbox and messages:
+
+- Click the Inbox tab in the top navigation bar of your Housecall Pro account. You'll then be redirected to your Inbox page, where you can manage your communications.
+
+- Select Employees from the Inbox menu on the left. This will open up the section of your inbox where you can view and manage messages.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/526070007/7567a84021a0c2336c1866ad/1DlJs6iIVpGxUUTqj42i3vjhXAwOHWg79I8rAPHoUMpW_UzTpEmyLLnXqYjSuV7lxEkIKtTVjDNKb06r8wZHbElIoQLRKTtb5I6GrJagiTDhCv-aLfpTIfmmWEcGu0LPjbr9HoKRlZrGmOG-xg?expires=1763568000&signature=92049f8479bac599308a5afd78778d97a6f5e665892b37ab1c79daf75c3daf58&req=cSIhFs5%2BnYFYFb4f3HP0gFL5f2JRXIBHfpM62OFi3vP626%2B8fja9%2BMCIvbYr%0A8yqAOpeOmNLvXXwX2g%3D%3D%0A
+
+---
+
+How often will I receive messages in my post-call inbox?
+
+You will receive a message at the end of each call that an Assist agent takes. You will also receive an SMS notification if there is an action required from you on a particular call.
+
+---
+
+Who on my team will see post-call inbox and action-required SMS messages?
+
+- Your primary Admin and anyone else you specify will receive both post-call inbox and action-required SMS messages.
+
+How do I make changes to my recipient list?
+
+- Please chat into the blue bubble and request an HCP Assist customer support specialist to add or remove employees.
+
+---
+
+How can I turn web notifications for my post-call inbox on/off?
+
+You will always receive an SMS notification for post-call messages that require an action from you, and you will always see a blue circle next to Inbox when you have unread chats, but if you wish to receive or not receive desktop push notifications when you have a new post-call message, follow these instructions:
+
+To enable or disable desktop notifications:
+
+- Open Chrome on your computer.
+
+- Click the three vertical dots in the top right corner of your screen.
+
+- Select Settings from the drop-down menu.
+
+- Select Privacy and security from the menu on the left.
+
+[Image] https://downloads.intercomcdn.com/i/o/406552751/b7155a8ef475115cb24b67b4/Screen_Shot_2021-10-20_at_9_50_43_AM.png?expires=1763568000&signature=e0be0f36cded6f5dc7db040fa97d05fe7af91200e59f16fe111106ae36cbd8e5&req=cCAhE8x8moReFb4f3HP0gCKI5itPkMMr4bGQMTvg3cZKYori0MSQX7T90K6v%0ApB2qxaR0GdZ%2Fb%2Fzl%2Fg%3D%3D%0A
+
+- Select Site settings, then scroll down and click Notifications.
+
+[Image] https://downloads.intercomcdn.com/i/o/406556286/7df6636f6f6de52544e29458/Screen_Shot_2021-10-20_at_10_05_11_AM.png?expires=1763568000&signature=266ef2133346fe0b359da3480648e4ac353b30929a4ad8f1bce69e0676a7ae0f&req=cCAhE8x4n4lZFb4f3HP0gKpNnIRRrkmzR3QyfJcEZimVCHx%2F2L335wgkxBDk%0AwYxj1lnMBOWWv8%2By4g%3D%3D%0A
+
+- Next, select the option "Sites can ask to send notifications."
+
+[Image] https://downloads.intercomcdn.com/i/o/406559383/f89a6526533fbab996c05194/Screen+Shot+2021-10-20+at+9.54.56+AM.png?expires=1763568000&signature=fb8989f2dda7dc05123af566034eb7756f63b2d13cd1cca58522b2d93a2f38ab&req=cCAhE8x3nolcFb4f3HP0gJX0lXa7tNT8ginT%2BCy4Pd09A7ReJTo5Owmq%2B3yI%0AQ6op98muz%2FcoJSRRUg%3D%3D%0A
+
+- To turn on notifications for Housecall Pro, scroll down to Customized behaviors, click Add, and enter "housecallpro.com".
+
+[Image] https://downloads.intercomcdn.com/i/o/406563268/a0ef7116a3aabd04ac0468c2/Screen_Shot_2021-10-20_at_9_55_12_AM.png?expires=1763568000&signature=6f1bcbdae8734763fca0ef050972a08163ff79fbb33eb85398e50e4fe364fe9d&req=cCAhE899n4dXFb4f3HP0gAVP%2BB3z9I%2F%2Fw50gIJvstG29483MS4XnZOFHGRll%0AS8ScealbClAx9yHoLg%3D%3D%0A
+
+- If you wish to turn off desktop notifications, click the 3 vertical dots next to housecallpro.com and then click Remove.
+
+[Image] https://downloads.intercomcdn.com/i/o/1101860613/67a699d2f9fab0a4892e5c2e/image.png?expires=1763568000&signature=7ecdc2bebb38e941d026ff4e00e484032ef138072bb3203cb5d403929c54f99f&req=dSEnF8F4nYdeWvMW1HO4zbNkFVPZJ4CAMBum1hObAL6lFRDzQ%2FlrLOWGcNu0%0ABTm%2FejgiPz2M675tViA%3D%0A
+
+---
+
+How can I turn mobile notifications for the post-call inbox on/off?
+
+You will always receive an SMS notification for post-call messages that require action from you, and you will always see a blue circle next to Inbox when you have unread chats. If you wish to receive/not receive mobile push notifications when you have a new post-call message, follow the instructions below.
+
+To turn off mobile notifications:
+
+- Go to the Inbox tab in the navigation bar at the bottom of your app.
+
+- On iOS, tap the gear icon in the top right corner of your screen.
+
+- On Android, you will see the settings button in the list of items that appear when you tap inbox on mobile settings. This should be at the bottom of the list.
+
+- Tap Turn chat notifications off to disable chat notifications. Tap Turn chat notifications on to enable chat notifications.
+
+iOS:
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1590311559/1a5d94e8ddb0f2f9d512ae5a345c/Screenshot+2025-06-26+at+3_54_13%E2%80%AFPM.png?expires=1763568000&signature=50cdea2bca165912242d3e9341449e20a544fbc9d906aeb47477c21f75f16cf5&req=dSUuFsp%2FnIRaUPMW1HO4zeWEkFRnGvaCv%2B4UXr5t9PnX6BxRomCjHVKKg38I%0A8yPZ%0A | [Image] https://downloads.intercomcdn.com/i/o/1073965417/616c8d11546610cbed51651d/image.png?expires=1763568000&signature=d11932cb511dcd693002e1799acd1293dcd71be4d045a314f8f53c6593140378&req=dSAgFcB4mIVeXvMW1HO4zeroOI6cQJEavQoBGtuw29y8DRtdRAkHaCvkPQR3%0AysXB%0A
+
+Android:
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1590315555/45b7f7818369d47c92a2ce364747/Screenshot+2025-06-26+at+3_54_38%E2%80%AFPM.png?expires=1763568000&signature=28ff0e4bffc13814c6adab68363a340101d682b49620b0d151d2d4f9fd67ede9&req=dSUuFsp%2FmIRaXPMW1HO4zW%2FcHieJ%2Byg6Sug83QPXj%2Fwv97ofLZE5K4WeIPHk%0ACEaV%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1590315858/3c84ae37f560fefa962ded166966/Screenshot+2025-06-26+at+3_54_41%E2%80%AFPM.png?expires=1763568000&signature=e943e3167b5b7b1326b7bd170e05a8dcc7503cc3f8434ec4edae9691547c7276&req=dSUuFsp%2FmIlaUfMW1HO4zUkEsHsxo9TWmrh2njLr2NsTn81bdgiMeiPS0EUe%0AKmRB%0A
+
+---
+
+There are too many notifications in the web/mobile app. Will I miss messages that require an action from me?
+
+We will send you an SMS notification that you have received a post-call message that requires an action from you so you never miss a time-sensitive message from HCP Assist. SMS notifications can not be toggled off at this time.
+
+---
+
+Can I respond to these messages in my inbox?
+
+Yes, you can respond to post-call messages in your inbox. This can be used for internal communications for the employees who are toggled for the post-call inbox.
+
+To access your post-call inbox and messages:
+
+- Click the Inbox tab in the top navigation bar of your Housecall Pro account. You'll then be redirected to your Inbox page, where you can manage your communications.
+
+- Select Employees from the Inbox menu on the left. This will open up the section of your inbox where you can view and manage messages.
+
+---
+
+Can I reply to a specific post-call message?
+
+This is not yet available in our chat feature, so you cannot reply to one particular post-call message or start a thread. You can instead reply in the chat and reference the specific customer name/number or other identifier when chatting internally.
+
+To access your post-call inbox and messages:
+
+- Go to the Inbox tab in the top navigation bar of your Housecall Pro account. You'll then be redirected to your Inbox page, where you can manage your communications.
+
+- Select Employees from the Inbox menu on the left. This will open up the section of your inbox where you can view and manage messages.
+
+---
+
+Can I @mention other employees in the chat?
+
+Yes, you can! To @mention an employee:
+
+- Go to the Inbox tab in the top navigation bar of your Housecall Pro account. You'll then be redirected to your Inbox page, where you can manage your communications.
+
+- Select Employees from the Inbox menu on the left. This will open up the section of your inbox where you can view and manage messages.
+
+- Click into the desired chat and then type @nameofemployee to mention the employee. You can do this for both normal messages and internal notes. You can distinguish mentions because they will be highlighted.
+
+- To add an internal note, once in the desired chat, click the eyeball and note icon. An internal note will be yellow.
+
+---
+
+How do I get assistance with HCP Assist?
+
+We've got your back! To get assistance with HCP Assist, you have several options:
+
+- Send a reply message via the HCP Assist call log.
+
+- Go to the Blue Chat Bubble > General Support > HCPA Answering Service.
+
+- Call us at (858) 842-5746 Mon-Fri from 8:00 AM-8:00 PM EST, and Sat-Sun from 11:00 AM-7:00 PM EST.
+
+---

@@ -1,0 +1,231 @@
+Housecall Pro Postcard Campaigns: A Complete Guide
+Source: https://help.housecallpro.com/en/articles/11138424-housecall-pro-postcard-campaigns-a-complete-guide
+Author: Elayna P
+Last updated: Updated over a month ago
+
+Summary: Housecall Pro's one-time and automated postcard campaigns make it easy to stay connected with your customers and encourage repeat business.
+
+Set Up a One-Time Postcard Campaign
+
+One-time postcards allow you to send a message to all your customers at once. Follow these steps:
+
+- Go to Campaigns: - Click the Marketing Center tab in the top navigation bar on the Housecall Pro home page. 
+- Select Campaigns in the left navigation bar.
+
+- Start a new campaign: - Click the blue New Campaign button.
+- Select the Postcards one-time card
+
+- Choose your audience: - Here, you’ll select your recipients. 
+- You can either choose an existing customer list or create a new one by clicking New List in the upper right-hand corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1492252564/d734d52ee38ff11f5530d8a716cb/AD_4nXdZ8nWTFrsl1KeHchssybItT0a7XRY4eORQ8PD5nMSvO8NyShmNzGnbo7TgrA9_ElQJDxoIX3jU-TvrzRy9znAz9HbC9ObZ8Qff5RrgEu3cADU_H9820IfOUUnMLl0U7xY1mkTZlw?expires=1763568000&signature=06ed4c60f7884c55e49a985d01a201090413386ce3a8696b61d4300f62b976a2&req=dSQuFMt7n4RZXfMW1HO4zTCDBT00cpJ%2BlBxVtbwBPxw%2FB87N1bHUCAb80kCb%0AeeNEbdp1IKpybpMry%2BY%3D%0A
+
+- If you create a new list, you’ll need to enter a name for this group of target customers. Choose a name that will help you easily identify the type of customer that’s included. For example, "High-value, inactive customers" or "Google ads—residential customers."
+
+- Next, you’ll set conditions to refine your recipient list. Customer conditions are specific criteria that can be applied to target customers. Once set, you can then filter your lists based on specific inputs.
+
+The conditions you can use include:
+
+- Customer tag: You can apply tags to customer profiles to help categorize them based on certain characteristics or interactions. These tags can be used to segment your customers into different groups for targeted postcard campaigns and other functions within your Housecall Pro account.
+
+- Customer type: This condition helps you filter based on whether a customer is Residential, Commercial, or a Contractor. It’s useful when creating campaigns tailored to the specific needs or service types of different customer categories.
+
+- Notification: This identifies customers who have enabled notifications in their profiles. It ensures that your messages reach customers who are set up to receive updates from your business.
+
+- Creation date (included with the paid version of Campaigns): This refers to the date a customer profile was added to your system and is useful for engaging new versus long-term customers.
+
+- Last service date (included with the paid version of Campaigns): This detail is useful for follow-up campaigns, reminders, and targeting customers based on when they last used your services.
+
+- Lead source (included with the paid version of Campaigns): This helps identify where your customers are coming from, allowing you to tailor your postcards based on the initial touchpoint (e.g., website, referral, social media).
+
+- Lifetime value (included with the paid version of Campaigns): This detail allows you to identify your most valuable customers over time and target them with special offers or loyalty rewards.
+
+- Location (included with the paid version of Campaigns): This allows you to filter customers by their city or zip code. It’s helpful for targeting specific regions, planning local promotions, or narrowing your reach to a defined geographic area.
+
+Here’s how to configure each condition:
+
+- Customer tag: From the Select an option dropdown, choose either "is" or "is not," then type the specific tag(s) you want to use and click Enter.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1492252546/4cdfbccfe1c35e985234c41e0106/AD_4nXeuxe3vSvZBKSAfLost7gQodbtoeGygQRRmPQvsCm8z7P6kc5vMHdwN8k2heqvdQyOkskBy-423sHQdwnZy1ukZWp0RaG-B20_WHhQps2Shv7iaZYHG9hDEF4nE_cBQj7cwYyt5Cg?expires=1763568000&signature=5ab79cdf6f2718a2d1955f4fa0e906ae7ae1e180b22c88b37389284f433f5f8a&req=dSQuFMt7n4RbX%2FMW1HO4zRTXXX1%2BKUznSG1wPmXFfj6ql3Ikbrl20VMYswdK%0Az%2BkrJC4TJYOGWXlCdI4%3D%0A
+
+- Customer type: From the "Select an option" dropdown, choose either "is" or "is not," then select Residential, Commercial, or Contractor. By default, "Customer type is not Contractor" is selected, but this can be edited and removed.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1492252552/3f36d0e3a157bfd9e16b402ef30d/AD_4nXfK9cwtnYwAUjkBMTkN0DGDnHIPI-cQaKTyF2AwaCLESEiedCi8m-0BjOM7ebTYhrBi5aIhfWLU12NwS8Opf37U20ZNwMQ5zJRS9jDcgdY0fy81jq4MFVMAVSd9_a3ai0OszlUr1Q?expires=1763568000&signature=36acb8b6fdf81aff5ca938da995a99bfebaa4ba1315429a4e540f03edd06dfc4&req=dSQuFMt7n4RaW%2FMW1HO4zTcqN2HJ72czKNbij8YGQA65gUYdNdECXMmkfdY4%0A7JbEz%2Bch6Xm4wOBbRhw%3D%0A
+
+- Notification: By default, this condition is turned on. However, it can be removed from your list of filters if you don’t want to use it..
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1492252562/68407cd8166bb4a84cae87206449/AD_4nXe8LJI4oa8cv2-LUWlYGlcCiXJlb3X2NYcmEXQhxEsN9dObVQRp82L3p5toYdfh5gDWRTjA1XKAzBBvny-iMQQwHRi3hkigjRs0xu-YUQklI9n-HvUm1f0HFmqHOjR9cseXUgf6SA?expires=1763568000&signature=2bec593644139acec46d1e6d97662e38fe3c4b4e14decda868c008ad137dbe45&req=dSQuFMt7n4RZW%2FMW1HO4zcqEA8LwQnEsHti3bawF%2B4ffAhe1yZSOIjic5Dfc%0ArXlI1vl7dQqc8XLe8NU%3D%0A
+
+- Creation date: From the "Select an option" dropdown, choose either "is before" or "is after" and specify the date. Alternatively, select a time frame such as "Within last 7 days," "Within last 15 days," "Within last 30 days," or "Within last 90 days."
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1492252545/5707a25c6a7c262d0121b7a83bf9/AD_4nXcdq2gDhpWrBygvN7_T4siYXNZHhzqEkaHdaioEDsSCbssOooRuoeqBa3686Wkptz4N119Yw6N8kB5nIJb_XOlmKPcXAyTqpqSgIx-L0WK2jnMpsTFNHpjaB-Db5mtyKE5_mDboHQ?expires=1763568000&signature=1013bb5baf14944078b8ab4743e1e9226d61ba7b23621ddcaf0664569519e516&req=dSQuFMt7n4RbXPMW1HO4zW5w8G2cLAxmPsOJm08O6WjBWwj4t%2F8QpiRpo4YY%0AQSCPdc62tFPeLdV7t%2BE%3D%0A
+
+- Last service date: From the "Select an option" dropdown, choose either "is before" or "is after" and enter a date. You can also choose a time frame such as "Within last 7 days," "Within last 15 days," "Within last 30 days," or "Within last 90 days."
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1492252560/50387adfd92466c5bd360827e56f/AD_4nXdGWnPkXQ6SceW4v-LQo7J3wRlUxhGwhTDEvQI85qLmH0Eawl4_NKrUMTWmUrHBLhxpCFu4RtE_WAyNmg7nq10oSUZckUkrXJj42IXj4Al_MTNx9koQCf9ulRjt3Pyco94NzwQCsg?expires=1763568000&signature=8736e4eefdb09a6b57172c46f7d025e23fd455e52aff7713448c321e0d9a6f25&req=dSQuFMt7n4RZWfMW1HO4zSwR5Fvo%2FyfZuQ6SGxQuugieyzhifspxWpZZAZ1e%0AArQBTS8rd6HNuIJybQk%3D%0A
+
+- Lead source: From the "Select an option" dropdown, choose either "is" or "is not" and select the relevant lead source.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1492252569/ca2eb45c0890f0417a5f9dafbd81/AD_4nXcNQUYBev_bgEwqRzRyAQY8IS9-Xus6bZL_hdk53EpvrvfnDEDXURWjPfuIV-ja0A_2XW_dPJDuamtZ8QclrPEjUIevXpaHMVOQEoWVqNld5xkdF1mQ8w54ZQDT-oOHJLaaILPu?expires=1763568000&signature=7d2f457ea17d7cf2608ac34e48d600276d10ae0aedd6d825b7df58418ad3e18f&req=dSQuFMt7n4RZUPMW1HO4zag1V6HK8VcnzT%2Brt3xJSR6P627bSThTBmexDMa1%0AJ6A8tHgOte9AFigBFN0%3D%0A
+
+- Lifetime value: From the "Select an option" dropdown, choose either "is less than" or "is greater than" and enter the corresponding value.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1492252558/660d07d600742cf522fd37d44be1/AD_4nXfQUDkC9ahsoVbjStJVeNFL59nMm8XxKrd7NaHW1oUmnYfTPvTRsunLg44AVI860ZIcwYPOxx6pt1KBu42C4QrSLDXrsr0G4UZXTVMGN62CZwqLLE-QXPWWA3wOx84R-rEjRZ6S0A?expires=1763568000&signature=2f7d932b386a459116453691580ee817cff24a8d3fe5113f741f5274aba4ed7d&req=dSQuFMt7n4RaUfMW1HO4zXMfWDf7zwPVTZ1ubR6z3S1tyfoXkP3rBOKEMxuc%0AIW3TcvDwm8wlHWgDasc%3D%0A
+
+- Location: From the "Select an option" dropdown, choose either "is in zip code," "is not in zip code," "is in city," or "is not in city." Then, specify the city/cities or zip code(s).
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1492252555/c8d8a79e4d3fb13c4882a4041ed3/AD_4nXe3NSxQYv6_oUofCIsFsp4hAMlJKcqeZDUr9ynNI83w19qPB4nr1aZawxpzIE2RAJo3J0u-A_86XBuDs1GcCZgejJ6TvcVacpHMRnTsehv4WnRRN-HM2WPfzKvPbqzIe17XbNiRRw?expires=1763568000&signature=d187e24bc279e4578434dc3dffe198011b5332c104544f7712f4aa30935867dc&req=dSQuFMt7n4RaXPMW1HO4zfurYCsCMkNHAxuj4UqX%2BadtnvRRvIUNpl2xsbt9%0AIr4rjRoxwHpNE6e71%2Fs%3D%0A
+
+To add multiple conditions, click "+ Add condition." Combine multiple customer conditions to refine your target audience further. For instance, you might target customers tagged with "Residential" who also have "Google Local Services Ads" listed as their lead source. Ensure the conditions you set align with the goals of your campaign for optimal results.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1492252576/ddefb5941e973aa858437e2ea325/AD_4nXcLa2E6nZbT74nSstVvBAU-Y3boGO-hki_IcZv8bCsLYBQmgBeZzRCGhRAniPCysaiZzeYgkitrH39hG1kFQMWgANja9hGc4BiPGxq-4h05XdwVCtEG7F5eGYkDE33anJzV3ztR?expires=1763568000&signature=6cdc939c86a6ecb0d6e950f786fad88a587224db3ba4016fb508ab479d06b0b2&req=dSQuFMt7n4RYX%2FMW1HO4zZA96fQfn173h%2BbVzSNI8maglcD6C8uAEeXUoVf1%0A1UIgd3%2FlyUmFV%2B4e1BU%3D%0A
+
+Best practices for using customer conditions
+
+- Regularly update data: Ensure your customer data is up-to-date to maintain the accuracy of your segments.
+
+- Monitor campaign effectiveness: Refer to the campaign metrics to monitor and track the performance of targeted customer lists. Analyze the results to refine future strategies and achieve better outcomes.
+
+If you’re satisfied with your conditions, click "Save and preview" in the upper right-hand corner to review your target customer list.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1492252553/64a284c698e69accd0300ba440b3/AD_4nXeIXAXC39Id0Vi32ddOACRgF_zlFNC68pe3EKYN0Skt6c9i2-PfB--ELDhvio3rTtK-phQukVgQ5dsLfk5KDUaxCWu7UrC8-I69vZdE8vyVefXcFYWkqRYpacYBZ-G-TUx2jTssXQ?expires=1763568000&signature=a961ced96bc89ab99cdfd59e28cb0c7748c0533088ae27ff0b0b55758a8e85d2&req=dSQuFMt7n4RaWvMW1HO4zbTy3STzv0jNQrl0Nu8Jwe9WqhEABcMGivvoskBD%0AvOw6ITYbTAfz2Ijll9U%3D%0A
+
+This will display the recipients who meet your specified criteria. To find specific customers, use the search bar to search by display name, address, or other details.
+
+If you need to adjust the conditions of your target list or refine further, click “Edit list”, located to the right of the search bar.
+
+If you’re happy with the customers you are targeting, click "Next" in the upper right-hand corner to move to the "Choose a postcard template" page.
+
+Customize your postcard
+
+- Front design: Choose one of Housecall Pro’s templates within the "Quick designs" tab or upload your own (.jpg or .png format) inside the "Your designs" tab. Each time you upload your own design, it will be saved inside the "Your designs" tab for future use.
+​
+- Back message: Once you’ve selected your template for the front of the postcard, you will be able to customize the back and add your messaging. Ensure the text fits within the size of the postcard. If you want to include "or Current Resident" as part of the customer’s address, check that option. Click "Next" once everything is to your liking.
+​
+- Preview and send: Review the "Postcard order summary" section, the "Target customer" section, and the actual view of the postcard to confirm everything is accurate. Once everything looks good, you can click "Send campaign." You’ll see a final confirmation dialogue box. If satisfied, click "Confirm and send." If changes are needed, click "Cancel" and then navigate back to the necessary step and edit what you need by clicking "Back."
+
+---
+
+Set Up an Automated Postcard Campaign
+
+Automated postcards allow you to send postcards automatically based on job activity. This is great for follow-ups and reminders. Follow these steps:
+
+Go to Campaigns:
+
+- Click the Marketing Center tab in the top navigation bar on the Housecall Pro home page.
+
+- Select Campaigns in the left navigation bar.
+
+Start a new campaign:
+
+- Click the blue New Campaign button.
+
+- Select the Automated Postcards card.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1631233172/4c3d4d404715d6622dc47ccf6273/Screenshot+2025-07-21+at+1_22_56%E2%80%AFPM.png?expires=1763568000&signature=5d969647bf7a19eae226bbe5dca5cd6dc50fe6f3f1c4e55226ebd781ac97e8da&req=dSYkF8t9noBYW%2FMW1HO4zSumWvn6B%2BiDl9RGpQWad6ivgDtcNmu%2FthIqxD57%0AN%2FaT9VGFSV9a4VdK9Y0%3D%0A
+
+Choose your audience:
+
+- You can either select an existing customer list or click New List to create a new one.
+
+- After your list is ready, you’ll be able to choose the address type for delivery: - By default, postcards will be sent to the service address.
+- If you prefer to send them to the billing address (when available), check the box labeled Send to Customer Billing Address.
+ - Note: If the billing address is unavailable, postcards will still default to the service address.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1631258034/250106604b934a104f3261f4876c/Screenshot+2025-07-21+at+1_37_21%E2%80%AFPM.png?expires=1763568000&signature=64006a2105a83b5d0578c12fcfd16a81707fd2f098990b4fa2a83d0a8edf5c5d&req=dSYkF8t7lYFcXfMW1HO4zRwNUsH5%2BAXhVgHtPLuC0aTu0%2BauuP5EPZusEFat%0AhQhdKu%2BuVU8rQdkvr7g%3D%0A
+
+Create the automation flow:
+
+- Click Next to begin building your postcard flow.
+
+- After a job is completed, click Add Step.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1631262213/e7662cce819c1fba0eea12b3b63b/Screenshot+2025-07-21+at+1_40_30%E2%80%AFPM.png?expires=1763568000&signature=c04cacb50004edb61533ce18db9a33afdd2ea6f62751ab6997a112a5ef839027&req=dSYkF8t4n4NeWvMW1HO4zXBs9nb9JZenw3QUT0SnT3rvNUnQdc6hIdpzFgod%0A6oM1%2Fj7E%2BANd0ASs4hE%3D%0A
+
+- To add a delay before the postcard is sent, choose Delay, and set a time period in days, weeks, or months.
+
+- Click Save.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1631263608/444601bfeb8704b8e311772fb977/Screenshot+2025-07-21+at+1_41_30%E2%80%AFPM.png?expires=1763568000&signature=fe3a313648c6fce6e81c7a83d9598cefe15ec998006bbeb2a1fff432dcdbae57&req=dSYkF8t4nodfUfMW1HO4zTE7T4CARWTIlN9L87a0sT4r6twCj37exQeyA4Ff%0ApvAwqlas89c4CzOhIdA%3D%0A
+
+Add a postcard to your flow:
+
+- After setting the delay, click Add Step again and choose Postcard.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1631266102/ef36cb69d00f8f6aadb0c3352cb4/Screenshot+2025-07-21+at+1_43_08%E2%80%AFPM.png?expires=1763568000&signature=3f76c10aa89325fc5d8f2e4e374a25a622d524cc38b55baac36ac61332f15e0c&req=dSYkF8t4m4BfW%2FMW1HO4zevLZBdpUaTZEu4dgHqJRB7gtpAf4CQ0o7ImIV7B%0AC5HGfg4lbsJYAmFznP8%3D%0A
+
+- For the postcard front: - Choose from available options in the Quick Designs tab.
+- Or upload your own image from the Your Designs tab (images must be .jpg or .png format).
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1631268729/007d514e187328dfb05da57c1947/Screenshot+2025-07-21+at+1_44_54%E2%80%AFPM.png?expires=1763568000&signature=e091faf0657418e1219e778a37194321256d7b9a9e2644f6e5e1230810d33b0b&req=dSYkF8t4lYZdUPMW1HO4zeJUHcvzQyqiIqLABHL5dCqjN4EREyIneatLfCv%2B%0AYS5A9ugovOtH5GUGdh4%3D%0A
+
+- For the back: - Scroll down to enter your message.
+- If you want the postcard to include “or Current Resident” in the address (to account for recipients who may have moved), check that box.
+
+- Click Save when your design is complete.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1631270005/ab94f6956a3f52bdbfab7f111ffc/Screenshot+2025-07-21+at+1_45_55%E2%80%AFPM.png?expires=1763568000&signature=61c72ff8e05f2a9d0bdc820ce3df7a5120aa4d03de909ccada22b16b462a2bc9&req=dSYkF8t5nYFfXPMW1HO4zf5vZcg5JOO%2BfgqN2ezh9WjnuYjWqdJM7X37aKBw%0Avar31wa9Iw2Pnmzu5f0%3D%0A
+
+Final steps:
+
+- Click Next to go to the Preview and Send page.
+Review the campaign details and make sure everything looks correct.
+
+- Click Start Campaign to activate your automated postcard flow.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1631271043/7e3de6cd3219fcc699319d25df7c/Screenshot+2025-07-21+at+1_46_40%E2%80%AFPM.png?expires=1763568000&signature=23d92bef590335a694758df33e34e24082873182c1a232f378f140b707c2b84b&req=dSYkF8t5nIFbWvMW1HO4zXVvQRexkBJAgUd935KJjUjvgXQY7rnfgXNgPaOq%0AjvHRGa8k%2BSfnryCtK6Q%3D%0A
+
+---
+
+View Existing Postcard Campaigns
+
+Go to the Campaigns home page
+
+- Click the Marketing Center tab in the top navigation bar on the Housecall Pro home page.
+
+- Select "Campaigns" in the left navigation bar.
+
+- You will be able to see all campaigns that have been drafted and sent.
+
+- To view postcard campaigns, look in the Type column, and you will see "Postcard."
+
+Postcard campaign status from the home page: Postcard campaigns from the home page can include any of the following statuses:
+
+- Draft - This status shows whenever you’ve gotten past step 1 in creating a postcard campaign but have not yet sent the campaign.
+
+- Preparing, Pending, or Processing - Each of these statuses represents that your postcards are being prepared for printing and mailing.
+
+- Sending - The status will change to "Sending" once the postcards have left the printing facility and entered the mail stream.
+
+- Sent - The status will change to "Sent" when all of the customers on the recipient list are in a final state (delivered, failed, undelivered, etc.). 
+​
+
+Postcard detailed status: You can click inside a specific campaign to view even more details on the status of the postcards. Statuses can include:
+
+- Scheduled - This postcard is scheduled to send at a future date.
+
+- Pending and Processing - Both of these statuses represent that your postcards are being prepared for printing and mailing.
+
+- Sending - This postcard has been printed and is on its way to the customer.
+
+- Sent - The mail pieces have been scanned by the last postal facility they are set to reach before being given to the mail carrier and sent out for delivery.
+
+- Undelivered - There was an attempt to deliver this postcard, but it could not be delivered and was returned to the post office.
+
+- Not processed - This postcard was not processed because the address is incomplete, outside of the US, or is a duplicate within this campaign. You will not be charged.
+
+---
+
+Billing and Delivery
+
+- How am I charged? Payment is made using the card on file in your billing profile.
+
+- When are postcards mailed? Deliveries typically take 7–10 business days.
+
+---
+
+Need more help?
+
+Contact Housecall Pro support for assistance.
+
+---

@@ -1,0 +1,63 @@
+I am seeing a 'Network Error' message on my app. What do I do?
+Source: https://help.housecallpro.com/en/articles/1543163-i-am-seeing-a-network-error-message-on-my-app-what-do-i-do
+Author: Dyamond W
+Last updated: Updated over a year ago
+
+Summary: Troubleshoot your mobile app to get back into the app quickly.
+
+If a window showing 'Network Error' has popped up on your app, you can solve this issue on your own with ease!
+
+The most common cause of this network error message is that a change was made to your employee information, such as your login email or password. Follow the troubleshooting steps below:
+
+Step 1: Log out of the app and log back in.
+
+To log out on an iOS device, click the 'More' icon in the bottom right and scroll to the bottom of the screen. Click the red 'Log Out' option, located at the bottom of your screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/1050885968/bc090ffc92d79b3c910192e5/IMG_6640.png?expires=1763568000&signature=d028f4c5d450c8b0b615f65456ad79b3718e0c3c03f105c8d09e953c3f05114d&req=dSAiFsF2mIhZUfMW1HO4zUkgtvaSdYip8ZmIRnKjqd38foJHuNhpStOxCIRz%0ABX2JyiSltJYbE6g8l5E%3D%0A
+
+To log out on Android, click the three stacked lines in the top left corner of your app. Select the down arrow next to your email. Click ‘Logout’.
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/1050888108/7227a9d82510e9042707b081/screenshot_20240514-125011_720.png?expires=1763568000&signature=cff4475c628b1bfbde61703b2d847abba7b817a1012df80011f0cd348f2a25f4&req=dSAiFsF2lYBfUfMW1HO4zWpxkkPH2pCecCr6tJbWhFcM%2BCAB%2BsU0aB1kdytg%0AtBoVBX0Npn0maiV%2BpDE%3D%0A
+
+After completing these steps, select your preferred login method and re-enter the correct username and password to log back in!
+
+iOS device:
+
+[Image] https://downloads.intercomcdn.com/i/o/1054625128/9a2e4e432c4480409dcc83d7/img_6708_720.png?expires=1763568000&signature=2854fca6c247429d1d5d3d15e72d9480f6ffd727ceaf14a9a28d98724d58bead&req=dSAiEs98mIBdUfMW1HO4zf8zT12o5%2B2WUo77AmK1YLrPcFuao4AghU5A%2BPbw%0AG41wWXNmXCVsmfq85GU%3D%0A
+
+Android device:
+
+[Image] https://downloads.intercomcdn.com/i/o/1054625318/41fa311450e7245a69470fcf/screenshot_20240517-134958.png?expires=1763568000&signature=e1b43f477761d64e5c74716eb1d76d55868c00e72a725014c6adc8e803d46c0f&req=dSAiEs98mIJeUfMW1HO4zRQmW6zIDpKjW8T3C1VOOzPYXPQy7I0PyAo%2FcagN%0A3uGWpoPXtBv2XmRlYfs%3D%0A
+
+Step 2: Chat in to our Tech Support Team
+
+Chat in to our tech support team by logging in on the web portal and clicking the blue chat button in the bottom right, or by chatting in through the app.
+
+iOS device:
+
+You can reach out to our tech support team via chat in the Housecall Pro mobile app by selecting the 3 dots icon at the bottom right of your screen titled 'More'. You will then see the 'Chat & help center' option at the top of your screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/1054631737/217279dbabb56346817a1317/img_6709.png?expires=1763568000&signature=a420419c0de67720b3aa5a62854db254cca857d33b1771ef6f896c7fc13a15b6&req=dSAiEs99nIZcXvMW1HO4zSTG%2FJD1SSiR3SAEvHoH6K5r1JEl0MyVjEdg0xyH%0ADmq481i64RRY2CYiIAA%3D%0A
+
+Once this page is opened, you can select the 'Send us a message' option.
+
+[Image] https://downloads.intercomcdn.com/i/o/1054632566/147b59d35dbe76e6a096600c/img_6710.png?expires=1763568000&signature=a5e0edd36a6b5fd1f9313f32722e1ce0e2832ea304c2339a34169e9123a193a7&req=dSAiEs99n4RZX%2FMW1HO4zZSd5xJ8UC7cGqOd0HP9QxrpHjyMXNYaTSbavcYE%0AdIW4v8UXoQDzoByCg4A%3D%0A
+
+Android device:
+
+You can reach out to our tech support team via chat in the Housecall Pro mobile app by selecting the 3 lined hamburger icon at the bottom left of your screen. If you scroll down you will then see the 'Chat & help center' option.
+
+[Image] https://downloads.intercomcdn.com/i/o/1055232889/7c43a31deaeaeced150a8631/screenshot_20240517-144607.png?expires=1763568000&signature=07ae1d3e55958cd4457ad7d762f067e63a3a1372c88f9b4f95008788accb7875&req=dSAiE8t9n4lXUPMW1HO4zRVkad2FaSKASAcreBOHfiOxBxG6a71LtxkYmYdt%0AizVX%2B2DbHhGtJ80cgB4%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/1055232928/d02f4a9b5856b607e6e0af1a/screenshot_20240517-144505.png?expires=1763568000&signature=64e3211d146949c3bf945fe3e39eda34177ab50f06fcf6de11ab8e5a93f07d03&req=dSAiE8t9n4hdUfMW1HO4zakJo34Mu0FluHMZ1TQtTlg9WdBiemIBaI05epb4%0AFdYqWDbEN%2FxmawDBEYg%3D%0A
+
+Once this page is opened, you can select the 'Send us a message' option.
+
+[Image] https://downloads.intercomcdn.com/i/o/1055233060/34b1032ad9aaf295dce796b4/screenshot_20240517-144514.png?expires=1763568000&signature=b7d840209b1636f476610f1fb91873faf18c0808f1437e62c698770e5880431f&req=dSAiE8t9noFZWfMW1HO4zbrJ7GiS8ZffABLIYkqMBtSilLgaJHH5ucK9gkI6%0ASWWIMjG9U8Ye%2FaXAyfU%3D%0A
+
+---
+
+Having trouble finding what you need?
+
+Use the blue bubble to reach out to our chat team for live customer support. If you’d prefer to talk it out over the phone, call our support number at 858-842-5746.

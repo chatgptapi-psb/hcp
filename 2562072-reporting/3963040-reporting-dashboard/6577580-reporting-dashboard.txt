@@ -1,0 +1,145 @@
+Reporting Dashboard
+Source: https://help.housecallpro.com/en/articles/6577580-reporting-dashboard
+Author: James N
+Last updated: Updated over a month ago
+
+Summary: Our reporting dashboard brings all of your favorite and most useful reports into one spot.
+
+Reporting Dashboard Overview
+
+The reporting dashboard takes several of the most important reports from all areas of reporting and puts them into one dashboard. The dashboard makes it easier than ever to see vital business metrics and make important business decisions rooted in data.
+
+---
+
+Access your Reporting Dashboard
+
+- To access the reporting dashboard, click on the Reporting tab from your top navigation bar.
+
+[Image] https://downloads.intercomcdn.com/i/o/584398083/82cbbce0c785c6388411402e/image.png?expires=1763568000&signature=65edaa470de711eb23eea948574f4a1e660fc3c829ad40ee761f15a8529ea391&req=cSgjFcB2nYlcFb4f3HP0gKB6xBj%2BRoanDElUqxc1lsdY3kxR1ya0Vo5KlWJU%0A%2BYlfcnsb9emFkmaOAw%3D%3D%0A
+
+- Once inside, you’ll see your default dashboard and any additional dashboards you’ve created.
+
+[Image] https://downloads.intercomcdn.com/i/o/584398744/aac688e70754f9f8afcbbaee/image.png?expires=1763568000&signature=0e0633edffbdf35aefbec3b89192294abe819f637c903058749518ad594d145e&req=cSgjFcB2moVbFb4f3HP0gFbHaGhu3PJMCvSNkjlmbo0Z%2BYV8jiH1IzN9zw%2Bd%0AZbnxkMbZ1hN2oiM9gw%3D%3D%0A
+
+- Click on any card to open the full report and drill down into more details.
+
+---
+
+Updating Dashboard Date Ranges & View
+
+- You can use the Global date range drop-down at the top of your dashboard to update all reports at once.
+
+[Image] https://downloads.intercomcdn.com/i/o/1147391427/5d1eb39bbff13d70824b1c3c/Screenshot+2024-08-15+at+7_05_20%E2%80%AFPM.png?expires=1763568000&signature=a2bf3452b942b1a9b5d0c2e1efbedfc9a02d3f09ae393a0c5df5ecb18f3e7e26&req=dSEjEcp3nIVdXvMW1HO4zaGfB9dWl%2BfTSrCS6GV8v7aghlukQ13LcsM75ScI%0ALUsQjqEUWkoEjO0cQbI%3D%0A
+
+- You can also view your graphs by day, week, month, quarter, or year by selecting the Show by drop-down at the top of your dashboard.
+
+[Image] https://downloads.intercomcdn.com/i/o/584402973/0dc296006d9b5160dd6033fe/reportingsdash2.gif?expires=1763568000&signature=c697d7ef0a141ca71ccd015e0d689a2ef89e1c856d0ad4fe77603aa3ea3adf48&req=cSgjEsl8lIZcFb4f3HP0gH9pdymf41mltFSXd%2BrSsIdq1yai6Lnn424xJgC%2B%0A0D4djGaC3%2Bw8eefB6g%3D%3D%0A
+
+---
+
+Customize Reporting Dashboard
+
+To resize or change the view of a report:
+
+- Click the three dots in the top-right corner of the reporting card.
+- Available options include: - Increase or decrease the width of the reporting card
+- Switch between Bar chart, Line chart, or Table view
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1742070868/2c006da36fbcb5d50818e7404fe1/Screenshot%2B2024-08-15%2Bat%2B2_01_54-E2-80-AFPM.png?expires=1763568000&signature=118d9b8324ba410b540ea243017b74e713b998994f04318ffc06fa93ea9c35d9&req=dScjFMl5nYlZUfMW1HO4zcYHS7i0EiqAUgnz7CR85C97s%2F8OlQKmuUIpo6Xn%0AYJ4Wad3iw6YMHv3u1Yc%3D%0A
+
+To move a reporting card:
+
+- Click the arrow icon in the top-right of the reporting card, then drag it to a new placement.
+
+[Image] https://downloads.intercomcdn.com/i/o/1147088327/68c780cb9d5aca2472314df8/Screenshot+2024-08-15+at+1_46_13%E2%80%AFPM.png?expires=1763568000&signature=30ab6569cbfe818fa2f4fc5345bd71d2c2992ec8e6f4a43b034d4b13fcfd45e8&req=dSEjEcl2lYJdXvMW1HO4zbpdqUdJyqff4kLxfVfiYgMnzEdmUdnM7QiGdGk2%0AVlGpOFMTx%2FSGbA8IVww%3D%0A
+
+---
+
+Adding Dashboard Reports
+
+To add Reports to your Dashboard:
+
+- Click the Add Reports button in the top right of your Reporting dashboard.
+
+- Then, select the reports you'd like to show on this dashboard: - All standard Housecall Pro reports
+- Any custom or saved reports from your account
+
+- Once you've selected the reports, click the blue Add button
+
+- Each dashboard can hold up to 20 reports at a time.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1742087017/e839bbd85d0c5c4cf5daa588b16d/customdashboard.gif?expires=1763568000&signature=2519691495ed56f97170b9a72aa78d41348ae12e803f790be7a65e263f3c07c5&req=dScjFMl2moFeXvMW1HO4zaXLMuMjyqIV4zaEWX4RcGhiQAUBc2v9a3a5MAqH%0AoGwXqbwoLVtbKK1IsTs%3D%0A
+
+---
+
+Presentation Mode
+
+Presentation mode allows users to display up to four reports on an external display. This means you can show a leaderboard or upcoming revenue right in your shop. Presentation mode can be used for any monitor or TV that is hooked up to a computer, or any smart display that can be used to log into HCP.
+
+- Click on the Presentation mode option at the top right of the page and then choose which reports you would like to display.
+
+[Image] https://downloads.intercomcdn.com/i/o/1148823210/0e6a5e30dc71ffa5e6fe7564/Screenshot+2024-08-16+at+6_28_00%E2%80%AFPM.png?expires=1763568000&signature=1d4a05b29c24684a31e134062567d181e12f362e1b1a6e95051d8ff903f3c1d5&req=dSEjHsF8noNeWfMW1HO4zcHcqwkKhjiks98LJO6rd3%2FTxwkZ3mB4xlw4frPI%0AswGYcbGT9jlmKqz92FE%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/584408054/23265c064f9964a160e8d776/presentationgif.gif?expires=1763568000&signature=58f255d3c1c6809bcb8b2e4f2c15db38b8210b59bba8ba9b9fdab5138fec3a5b&req=cSgjEsl2nYRbFb4f3HP0gFH1ALmWPxqVATKKePH9k3prz5OsPp%2FYf8AiPtzN%0ANbcGdRkaWZdsBnhc7Q%3D%3D%0A
+
+---
+
+Creating Reporting Dashboards with Templates
+
+New templates are available in your reporting suite upon reporting dashboard creation
+
+With personalized reporting dashboards, our mission is to make reporting more accessible and useful with premade dashboards, starting with automatically adding an industry dashboard to your account. From there, you can pick and choose additional prefabricated and fully configured dashboards that make sense to your business. Templates will be available for use upon dashboard creation.
+
+To create a Reporting dashboard:
+
+- In the top right-hand corner, click into the three dots to open up your creation menu, then click Create dashboard.
+
+[Image] https://downloads.intercomcdn.com/i/o/674148823/df220227bfd4b29d810b8509/image.png?expires=1763568000&signature=26ebfbfcdf2b408e0dfeb48aad954bad30b6898368b1f74c1980828e83628cb8&req=cicjF812lYNcFb4f3HP0gFnmJe8eMI1NEeFDfNKQT38KehwA3uMhZRTert46%0A%2FNiDu01IvM0MeK8GJQ%3D%3D%0A
+
+- You will now see all available dashboard templates. Click into any template or choose Create your own to start with a blank slate.
+
+[Image] https://downloads.intercomcdn.com/i/o/674149400/1cf68bae418afa76ab72300d/image.png?expires=1763568000&signature=fd508101e1c03a733d0a6c6d58a5b0563a18fc558127c32efb80c8f209b867c4&req=cicjF813mYFfFb4f3HP0gMAyU2pgH1AdNygqBGx9iv2nrjxWpgkJyPcoj2l8%0AsFvsFns%2BpBGBMeoCRg%3D%3D%0A
+
+- Once selected, click Create to start using your new dashboard.
+
+- You can also filter the templates using navigation on the left rail on the dashboard creation page, or search for a template using our search bar.
+
+[Image] https://downloads.intercomcdn.com/i/o/674149996/52b881b2c294a4b5523f3c60/image.png?expires=1763568000&signature=ab8b16d4056a052dd4da7bdac8498551e4ad411f21b89a44cb13462155079aa9&req=cicjF813lIhZFb4f3HP0gAHfN%2FCWH%2B4VKOvdfTnP1WdOAJoVQdZpDcq6zdfF%0AdwYo%2FZWUkjUNpDqUpA%3D%3D%0A
+
+- Once a dashboard has been created, you are able to add additional reports, delete unwanted reports, rename, duplicate, or remove the created dashboard.
+
+---
+
+Available Reporting Dashboard Templates
+
+- Create your own: Create a brand new dashboard from a blank slate. Add any reports, custom or standard, to this dashboard.
+
+- Sales: Dive into the hard work of your sales team.
+
+- Technician performance: Compare the performance metrics and revenue data from individual technicians.
+
+- Call monitoring: Understand your call volume, employee performance, and call to job conversion rates.
+
+- Job profitability: Use job costing data to uncover your business's profitability.
+
+- Administrative: Reports to help run the day-to-day in your business.
+
+- Pipeline: Analyze your sales pipeline with lead and estimate to job reporting
+
+- Business owner: The most important business performance metrics on one dashboard.
+
+- 9-line P&L: Analyze your business from leads to job profitability.
+
+- HVAC: Our starting dashboard catered to HVAC businesses.
+
+- Plumbing: Our starting dashboard catered to plumbing businesses.
+
+- Electrical: Our starting dashboard catered to electrical businesses.
+
+- Cleaning: Our starting dashboard catered to cleaning businesses.
+
+For more information on our reports, how to manage filters or how metrics are calculated, check out the rest of our reporting help center.
+
+---
+
+---

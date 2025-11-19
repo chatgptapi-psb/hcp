@@ -1,0 +1,41 @@
+Consumer Lending - How to hide from commercial customers
+Source: https://help.housecallpro.com/en/articles/5053969-consumer-lending-how-to-hide-from-commercial-customers
+Author: Ian H
+Last updated: Updated over a month ago
+
+Summary: How to only display lending as an option for non-commercial customers.
+
+How to Only Show Lending Options to Non-Commercial Customers
+
+If you'd like to have lending options presented for non-commercial customers only:
+
+- Navigate to the Customer Profile for a commercial customer.
+
+- Click on the pencil icon in the Contact info section to edit their information.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1226861883/29a1f3b74373bc951ecbda0243dd/Customers-HCP-2B-2823-29.png?expires=1763568000&signature=e6ad7b00858ea9896e339a0b973d871a0ec4bd1e54dcb29dfa5f26802066a258&req=dSIlEMF4nIlXWvMW1HO4zSe0eH2OetwL1Hn2cfbl9Q%2F9TTNByQFoNeT%2Fq3wg%0A0FVy9YVi8V1EvjraRMg%3D%0A
+
+- In the Edit contact info window, click the radio button next to Business.
+
+- Click Update in the bottom right corner to save the changes.
+
+- All future invoices sent to that customer will not have lending options presented.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1226861882/7c9f03ebd05c91125c991c019ac1/Customers-HCP-2B-2821-29.png?expires=1763568000&signature=e31c6b66ce0f4dc729a1cd2b32a86ec5512b56cf780f73f83ebe4a9c28395c98&req=dSIlEMF4nIlXW%2FMW1HO4zcd3ANJDUv2CidFib%2FymlQdb4d2ESg2Gd1rZWsis%0AKTv5lA7%2BeiF6fKJIFNs%3D%0A
+
+---
+
+Important Reminders
+
+- Jobs/Estimates must be within the $500-$25,000 range
+- You must first sign up for Wisetack and be approved before you will be able to offer financing to your customers.
+- When your customer fills out the application, it is only a soft pull. There is no impact on their credit score for simply filling out the application.
+​
+
+---
+
+[Button] Click Here to Sign Up for Wisetack -> https://pro.housecallpro.com/pro/apps/details/wisetack?utm_source=intercom&utm_medium=internal-video&utm_campaign=help-center&mc=Content&msc=help-center-wisetack-overview
+
+---
+
+---

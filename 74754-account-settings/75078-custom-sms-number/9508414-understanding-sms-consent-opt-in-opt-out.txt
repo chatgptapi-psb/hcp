@@ -1,0 +1,64 @@
+Understanding SMS Consent (Opt-in / Opt-out)
+Source: https://help.housecallpro.com/en/articles/9508414-understanding-sms-consent-opt-in-opt-out
+Author: Roland Ligtenberg
+Last updated: Updated over 8 months ago
+
+Summary: Understanding Consent requirements and what it means to allow your customers to opt-out of SMS messages.
+
+What is SMS Consent?
+
+- SMS Consent refers to the permission granted by individuals to receive text messages from companies. The Federal Communications Commission (FCC) and mobile carriers have established guidelines to enhance spam protection for end users.
+
+- For instance, when you receive a message from a company that includes a phrase like "Reply STOP to opt out," that's an example of consent in action. If you reply with "STOP," the company will stop sending you messages via SMS. This process ensures that you have control over the communications you receive and can easily opt out when you choose.
+
+---
+
+Why Does the Automatic SMS Consent Message Matter to Me?
+
+- To protect your business's ability to send SMS messages to your customers, we've implemented an automatic Consent Message. This allows new customers to opt out of messages if they choose to do so.
+
+- You don't need to take any additional steps. When you send an SMS to your customers, they will receive an automatic consent text message.
+
+---
+
+What Does The Automatic SMS Consent Message Look Like?
+
+- The automatic SMS consent message your customer will receive states: "You are now opted-in to receive SMS messages. For help, reply HELP. To opt out, reply STOP. Messages and data rates may apply. Message frequency varies."
+
+What the customer will see:
+
+What you will see:
+
+[Image] https://downloads.intercomcdn.com/i/o/1108111927/bf6ebcf8f777c42bec5e4714/Screenshot+2024-06-27+at+4_23_43%E2%80%AFPM.png?expires=1763567100&signature=39ab20d3f935dbde0749cb915686948d016892a4375a4f1eed767530440c99a8&req=dSEnHsh%2FnIhdXvMW1HO4zXEBd3pMQUGQ7qlZnfDInP1tlFr2EgyZdMLeSigd%0AHOeFJRYE5tGfCIW2e44%3D%0A
+
+---
+
+What Happens When a Customer Opts Out of Receiving SMS Messages?
+
+- If a customer replies "STOP," "Cancel," or "Unsubscribe" to your SMS number, you will no longer be able to send SMS messages to that customer. Any attempted messages will be blocked, and the customer will not receive anything.
+
+---
+
+What If a Customer Wants to Opt Back In to receiving SMS Messages?
+
+- If your customer has previously opted out of receiving SMS messages, your customer can reply "Start," "Yes," or "Unstop" to resume receiving SMS messages from your company.
+
+---
+
+How Will I Know If a Customer Has Opted Out of Receiving SMS Messages?
+
+- If a customer has opted out of receiving SMS messages, we will display this as an Activity Event in the chat thread with your customer. You will also see an Activity Event if your customer opts in to receive SMS messages. You can also review your customers' SMS Consent status on their Customer Profile in your account.
+
+- If you have any more questions, please feel free to ask for further assistance via the Blue Chat Bubble.
+
+- Below are images that display where you will see updated consent from your customers.
+
+Activity Events:
+
+[Image] https://downloads.intercomcdn.com/i/o/1110914257/7e0e81b0ff34be8c93cfca22/image.png?expires=1763567100&signature=279af58663517fd32963786ee0b1d99df70f81908b578021a7cb7457b0bf74f0&req=dSEmFsB%2FmYNaXvMW1HO4zVvKJHXyvhNzNP%2FymFdtBiGQN2C8d5xjYHv31VDv%0AIMF2chTBBYb0sQh00hE%3D%0A
+
+Your customer's communication preferences:
+
+[Image] https://downloads.intercomcdn.com/i/o/1089562711/9fedaaf00107a81e37c449ca/image.png?expires=1763567100&signature=8f3db392f5ae18db8cd434b425d15614660af947746a12e1bd22c47b36fba7a1&req=dSAvH8x4n4ZeWPMW1HO4zR4hp%2BcqT2xnAIp2b7vCcHpheTLqUOoCQ8MvOOd9%0ACu32y4hk1Se79zd6tQE%3D%0A
+
+---

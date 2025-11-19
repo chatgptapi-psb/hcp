@@ -1,0 +1,68 @@
+Connect Google Business Profile and Facebook to Reviews
+Source: https://help.housecallpro.com/en/articles/2748926-connect-google-business-profile-and-facebook-to-reviews
+Author: Anna E
+Last updated: Updated over a month ago
+
+Summary: Connect your Facebook page to start getting reviews there as well as Google and Housecall Pro!
+
+Housecall Pro Blueprint to Success Workshop
+
+If you're looking for more advice on how to effectively use Reviews, along with other great features, register for the Housecall Pro Blueprint to Success Workshop!
+
+[Button] Register Here -> https://docs.google.com/forms/d/e/1FAIpQLScM2b6NgGEvrjkOFAZPunvol2CoR4FIIFiVgR7DmTRqgd3gQg/viewform
+
+---
+
+---
+
+Connecting Your Business Profiles to Reviews
+
+Connect your Google Business Profile and/or Facebook Business account to get reviews on Google or Facebook! By default, we will optimize your review requests for you. This means that we will send all of your customers with a Gmail email address straight to Google to leave their reviews (this is because customers need to have a Google account in order to leave a review on your Google Business Profile). The rest of your customers will be split equally between your Facebook page and reviews that you can collect for your website.
+
+If you have Premium Reviews, you can change the distribution of what percentage of review requests you want to go to each platform (Website, Facebook, or Google). Learn more here.
+
+---
+
+How to Connect Your Google Business Profile to Reviews
+
+To connect your Google Business Profile to Reviews:
+
+- Click the Marketing tab in the top navigation bar of your Housecall Pro account.
+
+- Select Reviews from the left menu.
+
+- Navigate to the Google section and click Connect.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1545977764/2af87819dc0ef183e031219fbddd/AD_4nXe3KkcKIZoL5e1-kvtb9q5Fe1PzR44haOuGmLRLlhd7ipTNIi_piAx62oQwS-tq0oVKad4_Ym0oNEUP8uKXeuq3AfbvVSY5p4Ps2kBDLvmf1Q_uJgZaAtjedwzycmJsWg10v-y0Wg?expires=1763568000&signature=b88b48605b43c1b699a508e0e412916e2b1085bb380f9bb16965b2a850fd3ed0&req=dSUjE8B5moZZXfMW1HO4zU6YQI7W46p3bdhJZ4CbMwm6tnpFejnKezPN1Suk%0AW97LAyA7WsAU5%2F85YrQ%3D%0A
+
+- A pop-up will open on your screen to connect your Google Business Profile to Housecall Pro. Follow the steps to get your account set up.
+
+- Once you’re connected, you will see your current average rating on Google in your Reviews Dashboard.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1545977768/378d307d4468642e298a164fccbf/AD_4nXdCEfDRSGESzK-s2Us9VMaHYfTCPSfxJB7KmZKaSVf8-2kI3aTOXHHWROzRI_f2kCcJJiPizf3Q8xJIDuLdy2i35EwBxEs391ZhvmfUtpjZDq17y20hJaqxKYKc-nEz3I9GhM7y5w?expires=1763568000&signature=9f8882566e37541c70a5fb8da90f93477b6358a5a61b4e559b17fda6d563e422&req=dSUjE8B5moZZUfMW1HO4zRQSAR06PFJeWlHR0N5Wlv78djhepbx5T65JqIbO%0ATpDAnk7mUPjdzaZ2yCQ%3D%0A
+
+---
+
+---
+
+How to Connect Your Meta (Facebook) for Business Profile to Reviews
+
+To connect your Meta (Facebook) for Business Profile to Reviews:
+
+- Click the Marketing tab in the top navigation bar of your Housecall Pro account.
+
+- Select Reviews from the left menu.
+
+- Navigate to the Facebook section and click Connect.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1545977761/69a34a292e1e45d3f465b1496372/AD_4nXe6MBqlJcHrvCHbYSRIeIpTK7s7KwWN4xfsGSYGQ83DuZ583UByTKMYotQnXaaKztFyc7lJVJiCyCgLj8Yz96J7yWqMwm2xS0DKkt4YBYmK1ZZxz5TP7_OAGcYWOS0d5HiIwjEg9Q?expires=1763568000&signature=243e9a6d88e48ac198aae81bc510ace5e2bac28c611e7117f508c0c966f13ea2&req=dSUjE8B5moZZWPMW1HO4zUzf5G%2BuXF7GWLtfUCa3r1NNqz%2BXPlrI0bvniT4W%0AGCjyAV6M%2BWRZ81oOXcI%3D%0A
+
+- A pop-up will open on your screen to connect your Meta for Business Profile (formerly called Facebook for Business Profile) to Housecall Pro. Follow the steps to get your account set up.
+
+- Make sure to give Housecall Pro full access to your Meta for Business Profile, or we will not be able to receive reviews.
+
+- Once you’re connected, you will see your current average rating on Facebook in your Reviews Dashboard.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1545977765/095a5b5b2236dc45eb23b64e1c69/AD_4nXcssSbi9wtKYzDNGFm2ddQ2tpKgjJIJktrgoJC9T_JwzRvqDFYg-j5tJEbnvtlcioScbzp8QMIcbuMXyNoitE-JUtrwAIWjtUBk32QED537mPSpojv0tJDYdVl26XI5EbpwgN6z?expires=1763568000&signature=f5e25932421b4dd71d1963f33ff6e6b4806a80d3168853ae2d1c0289a0a4958a&req=dSUjE8B5moZZXPMW1HO4zbS5utNGoiI5zCpXZi68pqHusadMEFfWsCC1psn0%0A18fybkBj8TjWQeFaivI%3D%0A
+
+---

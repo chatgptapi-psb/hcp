@@ -1,0 +1,206 @@
+How to Import & Export Jobs and Customers
+Source: https://help.housecallpro.com/en/articles/6797101-how-to-import-export-jobs-and-customers
+Author: Sienna M
+Last updated: Updated over 2 months ago
+
+Importing Jobs & Customers
+
+You can now bring in your jobs and customers from either an Excel or .CSV file directly into Housecall Pro. If you're coming from another software that is the most up-to-date source for you, or if you do not use QuickBooks, this will be the option for you.
+
+We can bring in information such as customer information, payment and invoice data, job tags and lead sources, scheduled and completion dates, and much more. Our in-product wizard will walk you through the process of matching your column names to our system, will ensure that everything is formatted correctly, and will give you a chance to correct any errors to ensure that you end up with everything you need in Housecall Pro.
+
+---
+
+Preparing your Data for Import
+
+Before starting the in-product import wizard, prepare to bring in your data, by:
+
+- Exporting your data from your previous software system.
+- Verifying that you have all the required fields.
+- Ensuring that your file is in one of the variety of supported file formats including comma- or tab-separated (.csv, .tsv), Excel (.xls, .xlsx), and others (.xml, and .txt).
+
+You can learn more about how to prepare your data for import here. You do not need to modify your data to match a template. Our system will match your fields to the Housecall Pro fields.
+
+---
+
+Prepare Jobs Data for Import
+
+If your Job files require additional formatting prior to the upload (merging sheets, combining multiple fields into a single field, etc.), you can consult our Data Formatting Guide for some tips and tricks.
+
+If your old software system separated jobs and invoices and now you have different files for jobs and invoices, here’s what you can do:
+
+- Choose which file to import: We recommend choosing the file that has the data you want and has accurate balances.
+
+- Open a chat using the Blue Chat Bubble in the bottom right-hand corner of your Housecall Pro account to request guidance on other ways to approach this scenario.
+​
+
+---
+
+Prepare Customer Data for Import
+
+At this time, Housecall Pro only supports importing one level of customers. If you have more than one level of customers (for example parent-child customers for billing), you have two options:
+
+- Continue with the import: Customers (parent accounts) will be imported; sub-customers (child accounts) will not be imported.
+
+- Edit your sub-customer structure in the file: Re-organize the structure of your sub-customers and add them to their own line in the file. Then they can be imported to Housecall Pro and you can set up sub-customers in Housecall Pro.
+​
+
+---
+
+---
+
+How to Import Customer Data
+
+To import your customer data into your Housecall Pro account:
+
+- Select 'Customers' in the top navigation bar of your HCP account.
+
+- Click the 'Actions' button on the upper-right side of the page.
+
+- Select 'Import' from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1231674093/9d2c94b42155240c557bb2c0da13/Screen+Shot+2023-01-04+at+10_29_15+AM.png?expires=1763568000&signature=bd5f2a402510b9c90bdd31ca382c7411ae9ce199243e798ebe20105717287414&req=dSIkF895mYFWWvMW1HO4zTksL%2FDj6K8HXcHuT2TaPZPyiodtqmTwbun8ow56%0A4xnejPMw9S8%2BMmAPFPI%3D%0A
+
+- Follow the in-product wizard and choose the source for importing your data: either from a file or Google Contacts.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1336659337/c6c644872c83dab81015ecda2f8f/image.png?expires=1763568000&signature=5b795dfb444a79dcbead8c89482051e866edbfe5386bd6b815f18bdcba29ae3a&req=dSMkEM97lIJcXvMW1HO4zeGL5B1SHd37CxE6yieA1b3w9lOQO2qj7QyPctaS%0AE9EkDxBPtyPcm5J05z8%3D%0A
+
+- From there, click the 'Select a file' button to select the file you'd like to upload from your computer. You can also choose to manually enter the data.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1336660037/4d8c11267643618e4b706c0de5a3/image.png?expires=1763568000&signature=3be9773e86756e0a501e003cca2f00ab2fb8226bcc3999744098cab2de4adab4&req=dSMkEM94nYFcXvMW1HO4zegMUmrb8VsU88G4JFQMOecJLUlYETVVzPe9lU9Y%0AwDZH%2FJGwWrm9miOXrZo%3D%0A
+
+- If you have multiple sheets in one file, you can select the sheet that you would like to import. (In the image below, the sheet entitled "500" is selected).
+
+- Then, click 'Continue' in the upper-right corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1336661158/b2b7f536d78c67d3a87a09afb0c0/image.png?expires=1763568000&signature=3bb1b90c7417d854de36724da4b1a3c8bf84afb37df4e8a25160df7d9e7bfde6&req=dSMkEM94nIBaUfMW1HO4zVPnHqlVlwpeyDs0mzEYeco5vvdh3vPyo3%2Bhu7KG%0AZcuOatYaSrLfCVRoazM%3D%0A
+
+- You will then be prompted to review our suggested mapping for your list of imported fields. Our system will then try to map the Housecall Pro field name to the column headers in your file.
+
+- If there are any discrepancies (for example, Housecall Pro uses a "Company" field, but your file has an "Organization" field), this is the opportunity for you to make corrections, ensuring the data is imported into the appropriate fields.
+
+- Hovering over each field will display a preview for each column, and fields that are not mapped will be discarded.
+
+- Review each one, and after you're satisfied with each mapping choice, click 'Continue' to preview your data ahead of submitting.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1336664446/9dac7ad7cb311e4ebf2da2d2e058/image.png?expires=1763568000&signature=b54f97f86875cc06ba3761db005202b22e5b6f9c4c0b3b5a47562db563479b98&req=dSMkEM94mYVbX%2FMW1HO4zT62x4ccH8uDWskFauR18Teoq5AtGA9Lr35nOmrF%0AaOSKcns8S6DohS9gC5I%3D%0A
+
+- Finally, our system will validate that the data in your file can be imported. If any rows have errors, they will be highlighted in red.
+
+- You can click on the toggle ​'Invalid' to see all of the rows with errors.
+
+- To see what the error is, hover your cursor over the value, then type the adjustment into the field.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1336678526/586f98a8d388f0baeab14de978af/image.png?expires=1763568000&signature=9a54e6fb1f567205c272eb0a61399d31e9cb9703b474129feda6ea415e3d9224&req=dSMkEM95lYRdX%2FMW1HO4zeqcuKKV1XP8g1aC2oSIpTjTYQQyMDRPpIcQRZhT%0ADnxlFOoPIkLrAyEry8s%3D%0A
+
+- After you have corrected any errors, confirm that you are ready to upload the file by clicking 'Submit' in the upper-right corner.
+
+- You will receive an email notification once the import is complete. You can navigate elsewhere in the software and continue to use Housecall Pro.
+
+- Please do not take action on any of the data you have imported to Housecall Pro until the transfer is complete and you have verified that you are satisfied with the results.
+
+---
+
+---
+
+How to Import Jobs Data
+
+To import your Jobs data:
+
+- Select 'Customers' in the navigation bar at the top of your HCP account.
+
+- Select 'Jobs' from the menu on the left.
+
+- Click the 'Actions' button on the upper-right side of the page.
+
+- Select 'Import' from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1232903513/c8bf1f2c647072a1b2afea413b24/Screenshot+2024-10-29+at+9_23_43%E2%80%AFAM.png?expires=1763568000&signature=0df1b55d1c4b593ca9a2587679681b4a90547149bce94cbca22c89a22da78df9&req=dSIkFMB%2BnoReWvMW1HO4zVBA9ZWmnBSxnzLqRdwM9fnAv5RTzcJi7pS28I2l%0AT7Gt502spSGEd5qPZ%2B8%3D%0A
+
+- Next, choose the file you'd like to upload from your computer by clicking on the 'Upload file' button, or manually enter data.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1336685138/1be56e30c2e14f26f9ee23c11a13/image.png?expires=1763568000&signature=33eda94bd28c863dd481aedd30326c010d130a3184a07f5386f1431c073ee2a8&req=dSMkEM92mIBcUfMW1HO4zecjf1tVVPAkR94htOocFIsrqBr1qJxjuqGoIUNg%0Al2tC1XlJigkP%2FtSmbUI%3D%0A
+
+- If you have multiple sheets in one file, you can select the sheet that you would like to import. (In the example below, the sheet entitled "500" is selected).
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1336687292/d79b249e788d8c9a2df5f0f47ce6/image.png?expires=1763568000&signature=e852f28a7fde8663b8af460d5b48ada2fcaebb1c0d147f27b4191ff41ae1ae19&req=dSMkEM92moNWW%2FMW1HO4zXuW8PBsm%2BfUDG3R4eUeHDaSMRLXaKEXkwmsMJ%2Fj%0AsX6N5gjHfIHIMeKxhRg%3D%0A
+
+- You will then be prompted to review our suggested mapping for your list of imported fields. Our system will then try to map the Housecall Pro field name to the column headers in your file.
+
+- If there are any discrepancies (for example, Housecall Pro uses a "Company" field, but your file has an "Organization" field), this is the opportunity for you to make any corrections, ensuring the data is imported into the appropriate fields.
+
+- Hovering over each field will display a preview for each column, and fields that are not mapped will be discarded.
+
+- Review each one, and after you're satisfied with each mapping choice, click 'Continue' to preview your data ahead of submitting.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1336693935/f0382069d7c267544d9eccb78e5d/image.png?expires=1763568000&signature=d6d4e3ee699ab0588d7915180eae03d98004759d4e823838ba64b9a06cdd48af&req=dSMkEM93nohcXPMW1HO4zW%2BJmtRdOHN53%2FmxiL5Rdw9YQwIsSgkQXFtLriMn%0A%2FCN82lqD4Nn%2BTfRGQbU%3D%0A
+
+- Finally, our system will validate that the data in your file can be imported. If any rows have errors, they will be highlighted in red.
+
+- You can click on the toggle 'Invalid' to see all of the rows with errors.
+
+- To see what the error is, hover your cursor over the value, then type the adjustment into the field.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1336699879/e01f391c45ccaed8aa498d4b7510/image.png?expires=1763568000&signature=71461a7439ded8752bfb8ceb9eff308dbe44c3a926e09805f1106b63949d4fb0&req=dSMkEM93lIlYUPMW1HO4zS%2FwlD9lGtP%2BA%2FkUubd8Ww9ZghK0SVhYVM%2FNtYQ9%0AVkkaCX7oi3RKoBqH5nw%3D%0A
+
+- After you have corrected any errors, confirm that you are ready to upload the file by clicking 'Submit' in the upper-right corner.
+
+- You will receive an email notification once the import is complete. You can navigate elsewhere in the software and continue to use Housecall Pro.
+
+- Please do not take action on any of the data you have imported to Housecall Pro until the transfer is complete and you have verified that you are satisfied with the results.
+
+---
+
+---
+
+Exporting Customers & Jobs
+
+In the following sections, we cover how to export your Customers and Jobs list to an Excel or Google Sheets file.
+
+---
+
+Export Customers
+
+To export your Customers from Housecall Pro:
+
+- Select Customers in the navigation bar at the top of your HCP account.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1232959665/503216ed766d748bea2d762546ea/CL_photo_1.png?expires=1763568000&signature=ebdfeac0b97da5648bca00a8e26b27dce91d29fe0980f77d806568915e33ce56&req=dSIkFMB7lIdZXPMW1HO4zUvOAsmWbJJG65VcOCmHMEpi4xMkAZEhm6ke0vNY%0AeD1Xmvcq55AEXyXub%2FY%3D%0A
+
+- Click the Actions button on the right side of your screen.
+
+- Select Export from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1232959667/219461bb5d9763a1d8192e24bdc6/CL_photo_2.png?expires=1763568000&signature=481396ff31cfbf8a73d132448ddfcd5a657304a07d8ca293030ecc7c9bb67d35&req=dSIkFMB7lIdZXvMW1HO4zTuXp81MczRcd3kxpPkk4T72N%2Fw3uCkikNnF4Btu%0A77RNFr3Df3VlOJxOagU%3D%0A
+
+- Next, confirm the email address and click the blue Send file button in the export customer list window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1737838211/7700e17415a5907ec843882e752b/image.png?expires=1763568000&signature=8beef12c3acc84fc2e60c75734105f0e187250e1385e5ba6297009fc4c17965b&req=dSckEcF9lYNeWPMW1HO4zZfiA9x1wpnyi0f6J3cSCxJS9zv1p%2BgwWWX9UpiP%0AIJGNYcqJwnXpWKnT9hE%3D%0A
+
+- You will then receive an email notification from notifications@housecallpro.com shortly after with the CSV file of your customer list.
+
+---
+
+Export Jobs
+
+To export jobs from your Housecall Pro account:
+
+- Select 'Customers' in the navigation bar at the top of your HCP account.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1232959668/018f11bf4c64e99f945476db585d/Screenshot%2B2024-10-28%2Bat%2B12_26_21-E2-80-AFPM.png?expires=1763568000&signature=f73a1e3efc15ace9bbb6571926a9f098fa555ef7465c2a2238bd11cf2b4946fc&req=dSIkFMB7lIdZUfMW1HO4zTMHwIDK3l05afL9vRf74QEZ679q7kTF7nUxVUiM%0AoFMcLESMW%2B8D934sJ%2F4%3D%0A
+
+- Select 'Jobs' from the menu on the left.
+
+- Click the 'Actions' button on the right side of your screen.
+
+- Select 'Export' from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1232959674/b2f4e4fa6f2810a2fb700c537e79/Screenshot%2B2024-10-28%2Bat%2B12_23_02-E2-80-AFPM.png?expires=1763568000&signature=0aeaee31735c7e6c4780d5fa6a42712419da968c83e7eb4c5579ff1f2dd684e7&req=dSIkFMB7lIdYXfMW1HO4zUAHBwXrP9j5wvkHRkruL3Drr7A%2BIk3xq1%2BsOvbE%0AS6NFDUHRDD1cPgbgL%2BQ%3D%0A
+
+- Next, verify the email address and click Send File in the "Export your jobs data" window.
+
+- You will then receive an email notification from notifications@housecallpro.com shortly after with the CSV file of your Jobs list.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1232959664/f0f8c276c7920cbc1058cfe4948a/Screenshot%2B2024-10-28%2Bat%2B12_32_08-E2-80-AFPM.png?expires=1763568000&signature=5329fcf5a3f17e65f55e4140d00806a9ea52b09d9ed1d25e18db8277325adf8b&req=dSIkFMB7lIdZXfMW1HO4zXMo%2BnMWubbT8kB90yxuFMdFNT9i%2FINRTcL83%2BkZ%0Ap9m0hxkcPI6BibMlo8k%3D%0A
+
+---

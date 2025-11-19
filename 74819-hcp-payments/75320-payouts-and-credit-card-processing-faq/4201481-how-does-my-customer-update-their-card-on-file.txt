@@ -1,0 +1,39 @@
+How Does my Customer Update Their Card on File?
+Source: https://help.housecallpro.com/en/articles/4201481-how-does-my-customer-update-their-card-on-file
+Author: Taylor M
+Last updated: Updated over a month ago
+
+Summary: Learn how your customer can update their card on file for their recurring service plans or maintenance agreements.
+
+Step 1: Customer needs to login at https://client.housecallpro.com/
+
+[Image] https://downloads.intercomcdn.com/i/o/221789572/0080c5ec218a208bc6d3c0b6/image.png?expires=1763568000&signature=7106eb5eba4124eb6ba4f40b7f5ec2b088c28128fdd736f55acef71998bf5883&req=diImEcF3mIZdFb4f3HP0gG7SEGqU4nu7GeNJIAbapLeT30TD6yJ%2FpxT6Rp3g%0A27P3XJ1XBCZAkHLLlg%3D%3D%0A
+
+If they don't remember their password they can always press Forgot Password?
+
+Step 2: Once logged in, your customer will need to update the card on file
+
+[Image] https://downloads.intercomcdn.com/i/o/389522210/7795a292c3b5b43ca9127cd3/cardonfile.png?expires=1763568000&signature=ee07d34cd4a16f96c78f25fa17507bfb02272aa2f35bda2c040ea0fc82c98c82&req=dyguE8t8n4BfFb4f3HP0gD%2BbbxxkAsokSMs9bWts1FEj%2F2QnxJjsIF%2B7Xu2K%0AThO78jg8HBG2MIDfFg%3D%3D%0A
+
+Your customer will see their Card on File (along with their Service Agreements and accepted date, duration, and billing terms for the agreement)
+
+Step 3: They can click Update Card in the upper right to update their card on file
+
+[Image] https://downloads.intercomcdn.com/i/o/389516525/05841abb2927d3d7070bd955/updatecard1.png?expires=1763568000&signature=422036feedeb29e54d78004287cfa919ff61c5c79977098fd524b32c1e9cc196&req=dyguE8h4mINaFb4f3HP0gL923pgfOHIf%2FXf0VcLmBnEeMBL%2FC82OAX1DFImg%0ATiwHWPPmG9GwidVIJA%3D%3D%0A
+
+Then, the customer can enter the correct card information.
+
+[Image] https://downloads.intercomcdn.com/i/o/389526076/3f770da5085cdf1f25d4a515/Screen+Shot+2021-09-14+at+5.54.46+PM.png?expires=1763568000&signature=5e4b0ef498a9f49a7cf9c908952dcc3fd2357cf10ab4deb685f55e6ae1f0269e&req=dyguE8t4nYZZFb4f3HP0gMy3sLwb0d%2F1xcZKkhLe%2B5MkhDFTU6AC8TuEssAn%0Az6GDuV6KrXFjkPMK0g%3D%3D%0A
+
+​
+
+After updating their credit card, customer will see the confirmation at the bottom of the screen:
+
+[Image] https://downloads.intercomcdn.com/i/o/389520029/32c0b04e0b90dd0577bb0f2e/cardupdateconfirm.png?expires=1763568000&signature=00c5e14bca3077eb75a0576a0832b4e18f29f2a4e95ef5fce53ceb408774ac85&req=dyguE8t%2BnYNWFb4f3HP0gCjjGSAoMykCHEnj5Vd1PIYMkIglyHvjj%2B5%2B2%2FP0%0AEpbhTse6I2nKoXIeng%3D%3D%0A
+
+Remember:
+
+- Updating the card on file does not change the billing date
+- If there is an outstanding balance due, all outstanding amounts will be charged to the new card on file at the time of update
+
+---

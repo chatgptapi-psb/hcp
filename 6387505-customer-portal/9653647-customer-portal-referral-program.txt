@@ -1,0 +1,92 @@
+Customer Portal Referral Program
+Source: https://help.housecallpro.com/en/articles/9653647-customer-portal-referral-program
+Author: Taylor L
+Last updated: Updated over a month ago
+
+What is the Customer Portal?
+
+- The Customer Portal is a self-service tool for your customers to view past and upcoming appointments, pay invoices, view past invoices, and send a message to communicate any appointment changes. This gives your customers independence and saves you time with admin while elevating your brand.
+
+- For more information, please see this article.
+
+---
+
+What is the referral program?
+
+- The referral program in Customer Portal enables your customers to share a unique referral link with their friends and family. Upon following this link, the referred customer will be directed to your online booking page. After booking a job, this referral relationship will be surfaced on the Customer Profile under a Referred by section.
+
+[Image] https://downloads.intercomcdn.com/i/o/1168500915/a54aafe5cac37d073c966220/image.png?expires=1763568000&signature=d6c4b24eb6ca1227639c0f9b4209fd5ccf2d037774e2ef7fa395d5d17fae72ca&req=dSEhHsx%2BnYheXPMW1HO4zeeQf%2FJu8a4n52QZbr31VEiOZ9K%2BngiiqRM4nsC3%0AsYiOJplhPWiATQDIYMc%3D%0A
+
+---
+
+How can I set up the referral program?
+
+- If you have online booking enabled, the referral program will automatically appear to customers using your Customer Portal. If you have not enabled online booking, you will need to do so in order for the program to display.
+
+---
+
+Can I preview what customers see inside their Customer Portal referral program?
+
+- Yes, you can preview what your customers see and customize the referral message displayed. Customizing the message displayed allows you to incentivize customers to share their referral link.
+
+- You can also use the Write it for me feature to quickly generate or update your referral message. This tool helps you craft compelling, personalized messages that resonate with your customers and encourage referrals with minimal effort.
+
+- Please note, you will not be able to preview the actual referral link, as these links are generated individually for each customer.
+
+---
+
+How do I customize the Referral Message?
+
+You can personalize the message your customers see above the referral link in their customer portal.
+
+To customize this message:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Click the Customer Portal from the left-hand menu, then select the Referral Program tab.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1627199074/236a20f618c314b885fa671da312/image.png?expires=1763568000&signature=bbb3aa3a1921499d42ac16ecb9fc6690541445dd119699172bd1a86bf8b3a393&req=dSYlEch3lIFYXfMW1HO4zep7bu39UJt%2FMMi783PBIOEFVmq7%2Bsfhdz6DAzqN%0A2CTiQce9wOwgsBdBjhc%3D%0A
+
+- Click the pencil icon to open the Personalize referral card window
+
+- Under the Body message section, use the Add variable dropdown to insert fields like Company name, Customer first name, Customer last name, or Company phone.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1627220947/6b8feae85d4a46aa6c9054126e74/image.png?expires=1763568000&signature=896798e903fa0db4fd15c0baca86b542e75d0a318b907f762ee5af0c738c1d77&req=dSYlEct8nYhbXvMW1HO4zcmdvbUOvuHIjOtM1Z8hbyGihio95XefMwhmJTsO%0AxF9gheCnP0aItF%2BvQbk%3D%0A
+
+- Type your custom message in the text field, or click Write it for me to have a message generated for you.
+
+- Click the blue Save button to confirm your changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1627222453/841501462a8a0b2a0dc3043d5d3e/image.png?expires=1763568000&signature=ad3503ded2082ad5fc56ce9384cff24897cfacd04e9783180da6d6d8927c7a26&req=dSYlEct8n4VaWvMW1HO4zX38zmZU%2BL%2BYpvheTBvdFGJts85maaeeBLsBIaV6%0AqingKt4TLpsSW6ZVcEc%3D%0A
+
+---
+
+Can I turn off the Referral program?
+
+Yes, you can choose to disable the referral program within your Customer Portal at any time.
+
+To turn off the Referral Program:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Click the Customer Portal from the left-hand menu, then select the Referral Program tab.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1627181006/2d3bd2ce06237d8b70f903478c71/image.png?expires=1763568000&signature=7f31efcd97f2853b70da02cd72e7f19df0de35297cab4a5c80906284645d7736&req=dSYlEch2nIFfX%2FMW1HO4zcV8k7SHKGUV8hz8zo8q7TvJIO9UK3iZKoJU9VE5%0AAplOHPUSDZFKKqfjctY%3D%0A
+
+- Click the toggle off to disable the referral program for all customers using the Customer Portal.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1627191163/45d31522efdb0056db9dd38ff8d5/image.png?expires=1763568000&signature=ed5559b1cfea0af5e1918d8f62c9852b2fe00c11beb29c65829e73a9165df41b&req=dSYlEch3nIBZWvMW1HO4zTjd1vBQo50N2dZ%2FJDPzdgVxfQuSW9WcpVvDzNCN%0AxtzKWEyRduk%2Fw%2BGpZxs%3D%0A
+
+---
+
+Can I offer referred customers discounts?
+
+- Currently, we do not have a way of automatically offering referred customers discounts, but this is a capability we will be adding in the future.
+
+---
+
+Can I display referral relationships on my customer list?
+
+- No, but this is a feature we are exploring.
+
+---

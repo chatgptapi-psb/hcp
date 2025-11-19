@@ -1,0 +1,48 @@
+Instant Deposits to Expense Account
+Source: https://help.housecallpro.com/en/articles/9493609-instant-deposits-to-expense-account
+Author: Charlie H
+Last updated: Updated over 3 months ago
+
+Summary: Learn how to instantly deposit funds to your Expense account to create expense card transactions and pay bills.
+
+Use instant deposits to fund your Expense account to get funds added to your account instantly. While normal transfers can take between 1-3 business days for the funds to be available in your account, instant deposits are truly instant.
+
+There is a 1% fee to use this feature, so, for example, a $500 instant deposit will result in a total of $505 debited from your external bank account. At this time, the maximum amount of funds that can be instantly transferred is $1,000, but pending eligibility, this limit may be increased in the near future.
+
+---
+
+How to Create an Instant Deposit
+
+- To get started, log in to your account and go to My Money.
+
+- Select Expenses > Overview and click the blue Add funds button in the top right corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694005003/425c700cbbef4d524454c693cc27/image.png?expires=1763568000&signature=fef69ac3d640d2d132b396678ff8289e432230d4ff48e5dc016954292bf778a0&req=dSYuEsl%2BmIFfWvMW1HO4zR6%2Fk59DlZO8Yo3tfznnvXocsoY1aDoitQNIzt4Y%0A2YvxcPDH15bVW9%2FHcHI%3D%0A
+
+- You will be prompted to enter a two-factor authentication code to keep your account secure.
+
+- On the next screen, select that you would like to fund your Expense account using your bank account.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1086049940/fffe0dd24e54521ff0e34c63/AD_4nXdYjgVowt8QB3BXbkK87Jk-qdIS-qG3tj4gTjDkCpmhlXsmHpXAOmscDbr5Hk1KhxQ80hA4VGi-62NL6qb4L1Mz3sBW2E7oxk2rwcFllxINkV8Gt9DvZvw1Jq2O7BbethfFQn2GLWSGm5LCeITYu_s1DseT?expires=1763568000&signature=bc8bec8200f791ea85e42db4f595f2809c9a24fb59b987dced7fbed7b790882c&req=dSAvEMl6lIhbWfMW1HO4zc822UrjjmEy9Tq9sdWXcg6L435JfkuRoDSYetT3%0ATCW788iEAWb9LYFu3js%3D%0A
+
+- On the following screen, you will have the option to select a Standard transfer or an Instant transfer. - If you select an instant transfer, you will have a maximum transfer limit of your assigned limit, which may vary between $50 and $5,000, depending on business data collected by Housecall Pro through your use of the platform.
+
+- Upon confirming this screen and agreeing to the terms and conditions, you will have $1,000 instantly added to your Expense account balance for use to pay bills or use for expense card transactions.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694538259/dc9bb835db101382973756bf35e9/ExpenseMgmt2.png?expires=1763568000&signature=108574d994b4233518fc191fd9c5e62a08f52111737386d425a41c96cf73d2eb&req=dSYuEsx9lYNaUPMW1HO4zajNbekj7GgqtnhboaFPTUfrS7BWerCqbDiCbz5b%0AmNKWgiNVmZbKW%2Fnn8fo%3D%0A
+
+---
+
+Additional Information
+
+- You can find additional information about the fees associated with instant deposits at this link.
+
+- You will be unable to perform a second instant deposit until the original deposit has successfully been charged to your connected bank account, which can take up to 3 business days.
+
+- An email receipt will be sent to the admin email on file notifying them that the instant deposit has been created successfully.
+
+---
+
+Housecall Pro Expense Card is a Visa Commercial Credit Card, powered by Stripe and issued by Celtic Bank and is subject to approval. Housecall Pro partners with Stripe Payments Company for money transmission services and account services with funds held at Fifth Third Bank, member FDIC.
+
+---

@@ -1,0 +1,30 @@
+Connecting Housecall Pro and Swell
+Source: https://help.housecallpro.com/en/articles/6041259-connecting-housecall-pro-and-swell
+Author: Nate H
+Last updated: Updated over 2 months ago
+
+Summary: How to connect Housecall Pro to Swell and what the integration does.
+
+How the Integration Works
+
+Swell is a customer experience platform that helps local businesses attract and keep more customers while spending less time doing it.
+
+With the integration, you'll be able to automate texting when you mark a job as “Finished” and provide an easy way for your customers to leave reviews.
+
+- Swell sends out automatic text and email messaging based off job statuses in Housecall Pro such as Job Start Time, Job End Time and Job Completed.
+
+- These triggers will send customer messages such as: Appointment reminders, Review Invites, etc.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/476960876/013e25a6c7705705e763b3ee/Screen+Shot+2022-03-08+at+11.56.03+AM.png?expires=1763567100&signature=9aeeaade7ed9d2cd1adb05fd9ce56d3a4d9badfbcee479e72a47220d6f7d5aef&req=cCchH89%2BlYZZFb4f3HP0gNDIlbqHDfipTEfuu%2Flm%2B%2F0CurohH4uGGXdB5DUi%0AsV8%3D%0A Once a Status Update occurs on a job, it will trigger a corresponding automatic message from Swell. | [Image] https://downloads.intercomcdn.com/i/o/476961726/80ce4ec537efda59e1a246b4/Screen+Shot+2022-03-08+at+11.55.55+AM.png?expires=1763567100&signature=89656d0bfb84d9c1cebff85613120c3e26edfbef97c7dda078f001cedbf3aee6&req=cCchH89%2FmoNZFb4f3HP0gNSRdWM45CPxOVLC6IQk5qj%2F%2B59vjiGmQuYIAk73%0A4OI%3D%0A
+
+How to Connect the Integration
+
+- Log into your Swell Account and Click on the profile icon in the top right corner [Image] https://downloads.intercomcdn.com/i/o/476969155/619be9e685e1fb55df4698f0/1.png?expires=1763567100&signature=4dc5cc289df9fac5888fe4d4d4dfc94fa003cb908c8373c6a223d2fae3d99700&req=cCchH893nIRaFb4f3HP0gNf3caAe%2BEroQoli%2FDmWgo3sxUT6%2BatT8%2FlgJgY1%0ArDM%3D%0A
+- Toggle on the Housecall Pro button [Image] https://downloads.intercomcdn.com/i/o/476969207/38fc5d5d08011669aecb04c0/2.png?expires=1763567100&signature=8ea4eebe5a314e4c2241eba951cce319fab21024a736b8274d0c034e2425cb56&req=cCchH893n4FYFb4f3HP0gGcI%2FRj2s3iRTjjUrqQqUQv3l2CnwrB8Q5VIfWsC%0AFNg%3D%0A
+
+From there, you can formulate your custom messages for Responses and Reviews or use Swell Templates!
+
+For any questions, reach out to the Swell team chat bubble within your Swell account.
+
+---

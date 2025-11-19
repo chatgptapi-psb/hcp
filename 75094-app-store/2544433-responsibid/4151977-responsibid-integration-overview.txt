@@ -1,0 +1,70 @@
+ResponsiBid Integration Overview
+Source: https://help.housecallpro.com/en/articles/4151977-responsibid-integration-overview
+Author: Ian H
+Last updated: Updated over 2 months ago
+
+Summary: How to schedule bids in ResponsiBid that will show up in Housecall Pro
+
+How the integration works
+
+ResponsiBid is a sales acceleration tool for window cleaning, pressure washing, carpet cleaning, and other home service companies that specialize in cleaning. Custom modules can be built for all service type industries.
+
+ResponsiBid is an online quoting, follow-up and self-scheduling tool that creates bids automatically from the inputs so the customer gets an instant bid. When a bid is scheduled in ResponsiBid, a job within Housecall Pro will be created.
+
+When the job is scheduled in ResponsiBid, you can click on ‘View Job in Housecall Pro’ and you will be brought to your Housecall Pro Portal.
+
+[Image] https://downloads.intercomcdn.com/i/o/369831337/bcf6e55a605bced40791e271/Screen+Shot+2021-07-12+at+12.49.57+PM.png?expires=1763567100&signature=a5ea388dd3379f412a07de9c1fb1d437c1e98fea61141c38a9e7ad80afc1ec9e&req=dyYuHsp%2FnoJYFb4f3HP0gKuN9jTyz0KKXYzti3pkn9DGiGr5Jx4gw2vAYHza%0AqcjLNspFspxlJVZiBw%3D%3D%0A
+
+*IMPORTANT: After the job is scheduled in ResponsiBid, that job info will transfer over. However, if there are changes that occur in either ResponsiBid or Housecall Pro, the new information will not reflect on the corresponding app. If changes do occur, it’s best to delete that job in Housecall Pro and reschedule it from the ResponsiBid side, so that the information is accurate on both ends.
+
+How to give a bid
+
+[Image] https://downloads.intercomcdn.com/i/o/217082140/4dfe98fe2742264cc3540caf/Screen+Shot+2020-06-10+at+7.50.26+PM.png?expires=1763567100&signature=1e3adc7a9b8860daa317b13d6f7ff29920b62647f559d1787355361ef8231924&req=diEgFsF8nIVfFb4f3HP0gOcq5yfPLOa5kUiiKVZ%2BWNUNSBYkHUpHWOfci5JC%0ABUUjEsv461d4%2BS4xZQ%3D%3D%0A
+
+How to schedule a job for Housecall Pro in Responsibid
+
+[Image] https://downloads.intercomcdn.com/i/o/217082242/84d6564a64109380f2bdd011/Screen+Shot+2020-06-10+at+7.50.32+PM.png?expires=1763567100&signature=cd79c4878edbbcc94a9ed39d7c7ef21b2b4c4d7dc7965351bdca0175e71517e2&req=diEgFsF8n4VdFb4f3HP0gMWdFtQpb2EPBcfhbwNAUgMVtAVI2prmz21vs7jy%0AVI7jNjLYZevan3P7ng%3D%3D%0A
+
+---
+
+Connecting Housecall Pro and RespondiBid
+
+You can connect your ResponsiBid account to Housecall Pro in order to automatically add scheduled bids to Housecall Pro.
+
+You must have a ResponsiBid account in order to utilize this integration. During the connection process you can either connect to an existing account or create a new one. You can learn more about ResponsiBid and their pricing plans here
+
+[Image] https://downloads.intercomcdn.com/i/o/195622002/4895495401f6c176456f4f80/Breaker.png?expires=1763567100&signature=6cce51173247ec7c227e10a65532f451e51f5ac82e8580293d966e734b89d4f6&req=dSkiEMt8nYFdFb4f3HP0gDvpe1keSn6JwWCsqluofBuAMegByYTCj%2BBeDwMQ%0AYE8bhgb7BXXPZJpRrw%3D%3D%0A
+
+How to turn on the integration
+
+From your Housecall Pro account, go to the ResponsiBid app within your app store
+
+[Image] https://downloads.intercomcdn.com/i/o/217355274/e4e466df5b7cfb3da1275074/Screen+Shot+2020-06-11+at+12.27.31+PM.png?expires=1763567100&signature=537d31c5acf70ae0979ebc8504562badd2d5a1bc1e92e51ba5008835f437c444&req=diEgFcx7n4ZbFb4f3HP0gAS50NGg4q6xen%2F1xh2rXzMXlLxP4NWYFWrmOs1F%0AbklgHhgwD4C9ZOrM9A%3D%3D%0A
+
+Choose 'CONNECT' in the upper right-hand corner of the app page
+
+[Image] https://downloads.intercomcdn.com/i/o/217355197/dd5510be99b183bd6def5267/Screen+Shot+2020-06-11+at+12.28.08+PM.png?expires=1763567100&signature=e45bbc9fcc5bc9b7226c55c6cb068f3655b0308528b1d3a13f812601018ea338&req=diEgFcx7nIhYFb4f3HP0gDf0dD7C5%2F7%2FQK0LqO1AvmufwBQSNdEXOQV0hiZP%0A2hZRdifXBQiwFwp8WQ%3D%3D%0A
+
+Click 'CONNECT ACCOUNT'. This will take you to the ResponsiBid website. From there you can either login to an existing ResponsiBid account or create a new one.
+
+[Image] https://downloads.intercomcdn.com/i/o/217355327/55359c5879433223dbeb37a1/Screen+Shot+2020-06-11+at+12.28.12+PM.png?expires=1763567100&signature=6dd9a634fcd2175425e58b6dec7656af28eee73eff56c18b98d3cdcc327f8d9c&req=diEgFcx7noNYFb4f3HP0gOg2kaivSeGp8mSK9PWXnAHx0T%2F%2FWTtj6V6EtuW4%0ANiN4Dic7Fe9fxKLrdA%3D%3D%0A
+
+Once you're logged into your ResponsiBid account, click the 'Settings' dropdown in the upper righthand corner and choose 'Connections'
+
+[Image] https://downloads.intercomcdn.com/i/o/216902053/3e38d8b7b639f6be14e076b2/Screen+Shot+2020-06-09+at+4.19.45+PM+2.png?expires=1763567100&signature=04c846f4c05b16b31f83cfb7fe476291fbbfed05ffa8433d196cb5ea26f89e98&req=diEhH8l8nYRcFb4f3HP0gGBz7q8d5rrjVB7pjE0hLKOxmnfXKZAwDV%2BScAEH%0APJ98dItNIszXMhpbRw%3D%3D%0A
+
+On the Connections page, open up the Housecall Pro section and click 'Connect with Housecall Pro'.
+
+[Image] https://downloads.intercomcdn.com/i/o/217046120/60ae7dd9db00dccf7eddcd19/Screen+Shot+2020-06-09+at+4.19.09+PM+2.png?expires=1763567100&signature=42e2404bbba859b34dd629acaeb1f0ba923eee7656f14555a11a550895c0eac4&req=diEgFs14nINfFb4f3HP0gPw1qp4Zm8PsNp9o7x3kX8pRk8cNojz6rWuV1fHL%0A4TYGQhPY%2B47WtI18KA%3D%3D%0A
+
+You will then authorize access for ResponsiBid to access your Housecall Pro account (you may need to log into your Housecall Pro account first if you are not already logged in)
+
+[Image] https://downloads.intercomcdn.com/i/o/217049826/94b392da1fc17159596d4e26/Screen+Shot+2020-06-10+at+2.36.22+PM.png?expires=1763567100&signature=1e1ba85c5fd9e466f01b5181b4bc268b7d15309f001bc8ed403c257ad27c227c&req=diEgFs13lYNZFb4f3HP0gAsgDp3qY%2BVgzulmx90fbT1M8jUnjZUqmSanUp%2Fs%0AQufHll3dETDcXGYcTA%3D%3D%0A
+
+Once you're logged in, you'll be able to see the Housecall Pro connection is now open and the settings are available within ResponsiBid
+
+[Image] https://downloads.intercomcdn.com/i/o/217050554/67124dacc31205f188c5006f/Screen+Shot+2020-06-10+at+4.06.20+PM.png?expires=1763567100&signature=5e53e833526f3e08d659c43b112deb8403f77c3d656ffba94d6d783cc6320615&req=diEgFsx%2BmIRbFb4f3HP0gJwAgGN8wst9PMM6lChCP6qCnyS22iPsj8MmDzLJ%0AfUqdQv5Cw3afvd954w%3D%3D%0A
+
+You'll see on the Housecall Pro side that the app is enabled once you have created that connection from ResponsiBid
+
+---

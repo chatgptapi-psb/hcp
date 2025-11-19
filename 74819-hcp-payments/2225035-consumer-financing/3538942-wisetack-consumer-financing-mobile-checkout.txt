@@ -1,0 +1,45 @@
+Wisetack consumer financing - mobile checkout
+Source: https://help.housecallpro.com/en/articles/3538942-wisetack-consumer-financing-mobile-checkout
+Author: Nate H
+Last updated: Updated over 4 months ago
+
+Mobile Checkout with Wisetack Consumer Financing
+
+With Housecall Pro’s consumer financing option, your employees will be able to offer financing while in the field with their mobile devices.
+
+You now will also have the ability to easily send your customer an application to finance their job with Wisetack directly from your job details page on the mobile app.
+
+---
+
+How to Checkout with Wisetack (HCP Mobile App)
+
+To checkout with Wisetack from the HCP Mobile App:
+
+- Navigate to the Job Details page for your customer's job and tap 'Pay' from the menu at the top.
+
+- If the total cost of your job falls within the consumer financing range, the option for your customer to check out with financing options will appear.
+
+- To initiate the financing process, tap the 'Qualify Now' button.
+
+- You can also tap the ‘View Details’ hyperlink to show the customer more information on their financing options.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/1187735242/fd892ccfd42f9ea386bf1310/Pay+Mobile.png?expires=1763568000&signature=ca725de5c820a24928a11aee1e10ab1ad7bd121a40bc6e8208d470894dd94372&req=dSEvEc59mINbW%2FMW1HO4zav7XySjcIlT3VtKVOi4g6B%2FFMOp4E5K8kiF7PFL%0AcuGn%0A | [Image] https://downloads.intercomcdn.com/i/o/1187736272/615083a12c4df1dae3271c74/Qualify+Now+Mobile.png?expires=1763568000&signature=5871ec9e9fb5bfff40398c2ec33ab5d212ab17c08a5b356341172abaa4d7935a&req=dSEvEc59m4NYW%2FMW1HO4zRPhEYKEvq40JTc36QDn9dDgp1wGap2cDW4tCiNb%0Ar2jA%0A
+
+- You'll then be directed to the "See if you qualify" screen, where your customer's phone number will automatically populate.
+
+- Confirm the phone number, then tap 'Send Financing Options' to send your customer a text message with a unique application link to apply for financing through Wisetack via their mobile phone.
+
+- From here, your customer will need to fill out the application on their own device using the link they were provided.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1231673030/bc57624c997203e8038cfc9fca83/Screenshot%2B2024-10-23%2Bat%2B3_49_50-E2-80-AFPM.png?expires=1763568000&signature=df8e3e443b498d7705e46905fd33ae5f8f7417f1f3b2a2bec16d9cfec9b452fd&req=dSIkF895noFcWfMW1HO4zfNP1fvDcIvIjNAP2Rxs8o9DOCeR9pNXrTIZHIW%2F%0A465elVlePpd5%2BVd%2FrMs%3D%0A
+
+- Your checkout screen will let you know when your application was sent and if it was approved or denied.
+​
+- If approved, the purchase amount will be applied to the job total and reflected in the Activity Feed on the Job Details page. 
+​
+- You will receive the payment for the job after the job’s completion on the specified service date.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1231673028/70c2df48fcb86f5514242d5f4dfe/Screenshot%2B2024-10-23%2Bat%2B3_58_01-E2-80-AFPM.png?expires=1763568000&signature=6ab8cfaca330d37c2ee8acd73876a64cf4d55c567d60bb4a3f135d2799cb199a&req=dSIkF895noFdUfMW1HO4zSr%2FsE87RtTJlg86PIKMbtwYIOlvtXf4fQX7Xx34%0AcN4K%2BAlC2w3GJKoGSTU%3D%0A
+
+---

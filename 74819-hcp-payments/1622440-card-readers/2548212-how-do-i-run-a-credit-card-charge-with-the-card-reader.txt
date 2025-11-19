@@ -1,0 +1,42 @@
+How do I run a credit card charge with the card reader?
+Source: https://help.housecallpro.com/en/articles/2548212-how-do-i-run-a-credit-card-charge-with-the-card-reader
+Author: Nate H
+Last updated: Updated over a year ago
+
+Summary: Learn how to take payments with your card reader when you're in the field.
+
+How to Take Payments with Your Card Reader
+
+Using our card reader is fast and simple. There are many benefits, including an enhanced customer experience and ease of mind knowing their account information is secure. You will also be protected from disputes reported as fraudulent activity.
+
+To take a payment with your card reader:
+
+- Turn on the card reader by pressing the power button. The first LED will turn on, indicating that the card reader is ready for payment.
+
+- Select a job on your Housecall Pro mobile app.
+
+- Tap the 'Pay' icon at the top of your screen, then tap 'Next' on the Checkout screen and select 'Credit Card' as the payment type.
+
+- Tap the 'Card Reader' button, and your device will automatically pair with your card reader. 
+​ - If have already updated your card reader's firmware and connected it to your device, your device should pair with the card reader right away.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1235748859/c92a603d4630a88885a4271496bf/image.png?expires=1763568000&signature=3acbe2dae1c5c11dbda81909488950c3ee9e1ba8eef902abfbe4f32df03db1dc&req=dSIkE856lYlaUPMW1HO4zWSYA6mz8lTHTAT6Db9VsYl6EhIIrzp6680GKW7O%0An7Dm24pCi7IAxVTWkvs%3D%0A
+
+- You'll then be prompted to swipe, tap, or insert the card using the card reader.
+​ - If your customer would like to pay using a digital wallet (i.e. Apple Pay, Chase Pay, etc.), have them hold their phone close to the reader and their payment app should pop up and allow them to proceed with that payment method. 
+​
+- If you've inserted the card into the card reader, wait to remove the card until the app prompts you to do so.
+
+- If the payment is successful, you'll see the payment confirmation screen letting you know that the payment is complete, and you're all set! The invoice will now be marked as Paid in your Housecall Pro account.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1235757510/141808079b77125d02afbfa3affb/image.png?expires=1763568000&signature=b34c71b3541355475af3c71003073bb259a336d8c9f6e9c888987814987cab19&req=dSIkE857moReWfMW1HO4zXrQakSvQAAWD2fjWYaNKhJLl7G%2BvQvB%2FYZkfOi7%0A88s9MYabq%2FA5ASZ%2Boc0%3D%0A
+
+---
+
+---
+
+Learn how Instapay can typically have your credit card payment in hand in
+
+less than 30 minutes!
+
+---

@@ -1,0 +1,86 @@
+Setup payment processing from your mobile device
+Source: https://help.housecallpro.com/en/articles/4045051-setup-payment-processing-from-your-mobile-device
+Author: Nate H
+Last updated: Updated over 2 months ago
+
+Summary: How to connect your bank account and verify identity to deposit your earnings when using our credit card processor via mobile device
+
+Set Up Payments from the HCP Mobile App
+
+Before credit card or ACH funds can be deposited from our processor to your bank account, you'll need to connect your bank account to Housecall Pro by entering your bank deposit information and providing verification details about the business, the business owner/representative, and any additional business owners.
+
+Once you've set up your bank account to take credit card payments through our processor, your customers will have the option to quickly and conveniently pay their balance online through email or text.
+​
+
+---
+
+How to Connect Your Bank Account (HCP Mobile App)
+
+To connect your bank account from the HCP mobile app:
+
+- Tap the 'More' icon at the bottom of your screen, then tap the 'Company setup' option.
+
+- Choose 'Banking Information' under the "Company" section at the top.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1239619039/ca34b538dd358b7c0e520af847dd/Mobile1.png?expires=1763568000&signature=bbabedbaa7882d6c3c4d8d4a0e74b029519d51306737d9a1d2d75e642dec4709&req=dSIkH89%2FlIFcUPMW1HO4zRHenrATMC852WuxaMwsfTeX4qpwZq%2BXbdMPiY%2F5%0Aesr3%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1239620581/e957699c583230d02cec38d53c7d/Mobile2.png?expires=1763568000&signature=81f1ee75a99daff12a9272fbede976254ae5b95fb41cf9821a07129ebf2a1f75&req=dSIkH898nYRXWPMW1HO4zToZweOge%2FYLRjQYAZwevUPE9UE5gbg%2FxOGXV5TV%0A9V8d%0A
+
+- Next, tap the 'Connect my bank' button and the Plaid screen will appear.
+
+- Tap the 'Continue' button on the Plaid screen to get started.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1239623440/b5730fcff8ec6e8fa63e3d129599/Mobile3.png?expires=1763568000&signature=b5a2a85d88e984033ac7e6cbb3e787f940aa6490df1a52ffc7773f039816aa0c&req=dSIkH898noVbWfMW1HO4zcS72VXOqxR2PbS0nHQIpCrX9%2Bw7wfejTxqr9rcv%0AWPq1%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1239625481/4fbdc3c61ae397d22c6bce4353da/Mobile4.png?expires=1763568000&signature=6a95a495c3c3bdbbb9b9ff23380e1ade58696cd4102f877e2b2d147fcd18db2c&req=dSIkH898mIVXWPMW1HO4zfSUpI3zkjFBed%2BRMOyT4mVTTRxzQE54qQfcGW%2FC%0Au0Y%2F%0A
+
+- From here, you can enter your phone number to log in or sign up with Plaid.
+​ - After entering your phone number, a verification code will be sent to your phone. Once the code has been entered, you'll be taken to the "Select your institution" screen to select your bank.
+
+- Alternatively, you can select the 'Continue as guest' option.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1239628620/74ea1643c4247ff0dc462dbc13e5/Mobile5.png?expires=1763568000&signature=a79d514a86a469cdcbbf3709b0cb30580956e5341d83d0fa9c51023002c3b9cf&req=dSIkH898lYddWfMW1HO4zUN1UakS6WEBVPtawlg38LWUJ8f5xB4xWiGnOuDa%0At1DV%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1239629083/1e1a95ae1fc91358be3426de1222/Mobile6.png?expires=1763568000&signature=7005b7df686ea12d160880732d827087176044e71fea8a2138974b54ba56e579&req=dSIkH898lIFXWvMW1HO4zZs5hV1dzxvChUg3i3uOACWL7w1qhqfzWBnjU92J%0ACgRR%0A
+
+- Once on the "Select your institution" screen, you can search for and select your bank.
+
+- You'll then be prompted to log into your bank account.
+
+- Tap 'Continue to login' to proceed.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1239631553/cae229c3a4de09331e2a8c3f7f6b/Mobile7.png?expires=1763568000&signature=a843599115187414ed38b6e4d25e74e9021b13ad5fd3cabe7399807511784214&req=dSIkH899nIRaWvMW1HO4zUp7mjWWeZJmMnt8P0Yl9Y427YG5Ux82PlnTJTZE%0AnvWR%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1239681484/fe1bdc064663588f2566751375af/BankLogIn-png-605%C3%971010--11-04-2024_05_08_PM.png?expires=1763568000&signature=433916558d7bdceb3b70c20b95938dce87116025e9415f03aa4b68ff269370f6&req=dSIkH892nIVXXfMW1HO4zcInkKr2SvQcsF5FbwxyekLXsnAZDguo5GjRwIoL%0AaXTj%0A
+
+- From here, you'll be taken to a secure page where you can enter your banking login credentials.
+
+- Your bank will prompt you to request an authorization code to ensure that your account is secure.
+
+- Once the code has been submitted, review the Information-sharing Terms and Conditions. To proceed, tap the 'Share my data' button.
+
+- You'll then be redirected to the Plaid window, and your bank account(s) will be displayed. Select your bank account, then tap the 'Continue' button.
+
+- If you'd like, you can choose to enter your phone number to save your banking information with Plaid or finish without saving.
+
+- Your bank account will then be connected, and you'll be directed to the "Verify identify" screen to proceed with setting up your Housecall Pro account for payments.
+
+- On the "Verify identity" screen, select whether or not you have business with a Tax ID or an EIN (Employee Identification Number).
+
+- Then, enter your business details and personal information.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/209274818/ef633911edcc17a1874ef132/IMG_3845.PNG?expires=1763568000&signature=885579670cf4f4e9686ea790b8ca007c24d89c6d98ebcc33104b8bbd928b47ad&req=diAuFM56lYBXFb4f3HP0gEXXoF%2Ft5HhcoHtIbUxpCzcH1yUSKXy%2Bu2vbiI0Y%0AqDU%3D%0A | [Image] https://downloads.intercomcdn.com/i/o/209275003/ca3283ba9959acd8f20ce414/IMG_3847.PNG?expires=1763568000&signature=0d3e4f959e6d0e1f2641a1232327cef59b8637c639abb7ea5e1eee0296af3707&req=diAuFM57nYFcFb4f3HP0gPBoZEfm1b7qUo%2Fy%2BRquPS2Kve1fNxw8RdF9MFam%0AZnA%3D%0A
+
+- Once all information associated with the business and the business owner has been entered, you'll be prompted to upload a photo of a valid ID (Driver's License or passport) to complete your identity verification.
+
+[Image] https://downloads.intercomcdn.com/i/o/209275121/a3296f2b8f1f53ace5fcdfa7/IMG_3848.PNG?expires=1763568000&signature=ae09ad2c801d9527c307394479862a5e44fb16bb46eddb6ad756fbe4c86cec43&req=diAuFM57nINeFb4f3HP0gJLhaMouOu8UGri073WMo7vdGCKsDg%2F5cqjeD5EU%0AsSS%2FWoJiGnF3m13I9g%3D%3D%0A
+
+- After uploading a picture of your ID, the information entered is encrypted and sent to our credit card processor, Stripe. Your bank account will then be verified and connected to Housecall Pro for payments.
+
+---
+
+Learn how Instapay can typically get your card or bank (ACH) payments deposited in your bank account in under 30 minutes!
+​
+
+---
+
+​
+
+​

@@ -1,0 +1,187 @@
+Setting up Discounts in Price Book
+Source: https://help.housecallpro.com/en/articles/12621694-setting-up-discounts-in-price-book
+Author: Champagne M
+Last updated: Updated over 3 weeks ago
+
+Discounts in Price Book
+
+Housecall Pro allows you to create and manage discounts directly in your Price Book. Discounts can only be created on the web version of Housecall Pro and applied to Estimates and Jobs once set up.
+
+Release timeline:
+
+- Standard Discounts — released in October 2025.
+
+- Recurring Discounts — releasing in mid-November 2025.
+
+Use discounts to reward loyal customers, run seasonal promotions, or automate savings for recurring jobs.
+
+What Are Discounts & Why Use Them?
+
+Discounts let you offer price adjustments directly in estimates and jobs—whether it’s a one-time special, a customer loyalty reward, or a recurring discount tied to job frequency.
+
+Using discounts consistently helps maintain healthy margins while providing transparent, professional pricing for customers.
+
+---
+
+Discount Types: Standard vs. Recurring
+
+Standard Discounts
+
+Standard discounts are one-off or saved discounts you can apply manually to any estimate or invoice. You create them once and select them whenever needed.
+
+Use standard discounts for scenarios like:
+
+- Seasonal promotions (e.g., “10% off summer special”)
+
+- Customer service gestures (e.g., a one-time adjustment)
+
+- Loyalty rewards.
+
+Recurring Discounts
+
+Recurring discounts automatically apply at a set frequency—such as “10% off every weekly cleaning.” Once created, they’ll be applied automatically according to your set schedule. Use recurring discounts when:
+
+- You offer recurring services (weekly, biweekly, monthly, etc.)
+
+- You want to incentivize customers to book regularly.
+
+- You want to remove manual work for your team.
+
+---
+
+How to Create a Standard Discount
+
+Discounts can only be created on the web version of Housecall Pro. Once created, they can be applied from both the web and mobile.
+
+To create a standard discount:
+
+- From your main navigation, click the Price Book tab.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1787397600/47fb9901e70b140471be072bd5ba/image.png?expires=1763568000&signature=0e4f33409343aaf793d5ad9426e2044a87c132dac20faade1559980c5ba5d293&req=dScvEcp3modfWfMW1HO4zcJQFt6vSVebpAFODbwv9oNbQojTcrfzHiw6AD81%0AGwpUhlLonhtb3XGFx6o%3D%0A
+
+- In the left-hand menu inside the Price Book, select Discounts.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1787547540/84fe4957b636ed8a00099f1631dc/image.png?expires=1763568000&signature=577155ad2d8dbd2bdf355a3ec8991e813307288f8111286c89822902048b43d2&req=dScvEcx6moRbWfMW1HO4zXp4kcPm70043pbeQeHdXTdg1TQYjprfRGYFZhR8%0A8DicSFVqUyBaISjjMfs%3D%0A
+
+- Click the + Standard discount button. A pop-up form will appear to create a new discount.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1787552389/8fda0f7500ce757054656ebabd84/image.png?expires=1763568000&signature=b66a4c865208af5848bcc242abf801587445c5208235a0895fb06c2bf65c8c59&req=dScvEcx7n4JXUPMW1HO4zTD%2FDhpAiawMbjuoruomuxU%2Bag5LnXNLYjLEHh43%0A8eA%2FJH1Xagr81XA%2BjRM%3D%0A
+
+- Then, enter the discount details: - Description: e.g., “First Time Customer”
+- Type: Choose Percentage (%) or Fixed Amount ($)
+- Value: Enter the numeric discount (e.g., “10” for 10%, or “25” for $25 off)
+
+- Finally, click the blue Save button to finalize. The discount will now appear in your Discounts list.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1787555775/beeb2e9045078af5e8691233cdab/1ddf860e-5622-44a4-a867-89fac63bd795?expires=1763568000&signature=164155b868810c6a7713ca20cdf84dec0c9a6407fa1872d6d632eac26e84b96b&req=dScvEcx7mIZYXPMW1HO4zdeY05X3NZdtitLvjVrxQJIaKE5y3rUvpoxTrBun%0AqzPb2SefnJoUODU2FFc%3D%0A
+
+---
+
+How It Appears When Applying
+
+When creating or editing a Job/Estimate or Invoice:
+
+- Under the Add Discount dropdown in the line items section, you’ll see your saved discounts listed.
+
+- Select the Standard discount, and it will apply automatically to the total.
+
+- You can override or remove a discount if needed.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1787567094/d0f47cae31eb3d382ed1ae8c768c/image.png?expires=1763568000&signature=ca07de1980f7b17c4cc48e5a4f4b564db632bffa612596e9f5f1eab331d21c94&req=dScvEcx4moFWXfMW1HO4zRiBJa6XdLbXGSersLqzK7AcAOxyfzzfCm%2FmC2Tc%0AoWXxDOiUr5388nH5ja4%3D%0A
+
+---
+
+Editing or Deleting a Standard Discount
+
+After a discount is created, you can easily update or remove it.
+
+To edit or delete a Standard Discount:
+
+- Go to the Price Book → Discounts.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1787649964/96c0bd712ebeeb7ee2a307c8c390/b9181187-ec10-43ee-a625-ec9bd6c3c599?expires=1763568000&signature=7c37f721d52c25cb7ef8afbbfd2c9736e7b4db3559382b611097b942a6a7b8af&req=dScvEc96lIhZXfMW1HO4zY1FDzrKixzFkFlvA%2BuA1gdwjhXKtlXqXC1B27qk%0AsDYG6uAcmRHiZc%2FiOhI%3D%0A
+
+- Click the pencil icon next to the discount you want to update.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1787652270/cf37edf8fb20ef9a99e5cc3a8a2d/image.png?expires=1763568000&signature=41e0e0b66ea79b4644c8a4e4b33fd378aaaf05118394a93abeb333e77a7d208b&req=dScvEc97n4NYWfMW1HO4zf0vma4Y8uUAiLKVXDpcJe7itsXDP9EJQGLcEGbm%0AgMS2Vw4B%2FwEtHheZx3c%3D%0A
+
+- Edit the details: - Update the Description (discount name)
+- Change the Type (percentage or fixed amount)
+- Adjust the Amount (e.g., change 20% → 15%)
+
+- Click the blue Save button to update the discount. To delete the discount, click Delete from this same screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1787655862/e4a41b4400cb06a19c095bbd0e14/image.png?expires=1763568000&signature=a8f0debbe1bbe65b270dacf5da0929e8b47db4cc6a0a210aac9e0b43ed74e5b6&req=dScvEc97mIlZW%2FMW1HO4zS0%2BblyR8qy9KOLZkbL51ayHBXaiaTzCLJ3DdloG%0ALWcBBahnzrNeyAt1G7Y%3D%0A
+
+---
+
+How to Create a Recurring Discount
+
+- Go to Price Book → Discounts.
+
+- Under Recurring Discounts, click + Recurring Discount.
+
+- In the form, configure: - Name
+- Type (percentage or fixed amount)
+- Value
+- Recurrence schedule (e.g., weekly, every 2 weeks, every 4 weeks)
+
+- Click Save.
+
+---
+
+Additional Features & Tips
+
+Combining Discounts
+
+- Only one percentage (%) discount can be applied to a job or estimate.
+
+- You can apply multiple fixed amounts ($) discounts if needed.
+
+Visibility & Permissions
+
+- Only Admin roles or Office Staff with the permission “Update company account info” can create or edit discounts.
+
+- Once created, any team member with access to add or edit jobs/estimates can apply discounts.
+
+---
+
+FAQs
+
+Can I create discounts on mobile?
+
+- No. Discounts must be created on the web. Once created, they can be applied on both web and mobile.
+
+Can I delete the entire discount at the job level?
+
+- You can remove the discount as a line item on a job or estimate, but to permanently delete the discount, it must be deleted from the Discounts page in your Price Book.
+
+Can I add multiple discounts to one job or estimate?
+
+- Yes. You can add multiple fixed amounts ($) discounts, and they can be a mix of Standard, Recurring, Service Plan, or New Discounts. However, only one percentage (%) discount can be applied to a job or estimate.
+
+How many Standard Discounts can I create?
+
+- You can create up to 25 Standard Discounts.
+
+Can I edit or delete Recurring Discounts?
+
+- You can edit the type of discount (percentage or fixed amount), but Recurring Discounts cannot be deleted once created.
+
+Can I edit a Standard Discount after creation?
+
+- Yes. Use the pencil icon in the Discounts list to make updates.
+
+Can I delete a Standard Discount?
+
+- Yes. Click the pencil icon next to the discount, then select Delete.
+
+What’s the difference between a Standard and a Recurring Discount?
+
+- Standard Discounts are applied manually to a single estimate or invoice.
+
+- Recurring Discounts are applied automatically on a recurring schedule.
+
+---
+
+---

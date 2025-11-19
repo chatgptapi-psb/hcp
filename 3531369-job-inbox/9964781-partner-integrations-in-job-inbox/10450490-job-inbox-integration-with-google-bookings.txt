@@ -1,0 +1,123 @@
+Job Inbox: Integration with Google Bookings
+Source: https://help.housecallpro.com/en/articles/10450490-job-inbox-integration-with-google-bookings
+Author: AJ M
+Last updated: Updated over 2 months ago
+
+Summary: Google Local Services Ads (LSA) and Organic Reserve with Google Bookings
+
+Google Local Services Ads (LSA) and Reserve with Google are how you connect with new customers and manage bookings directly from Google search results. This article will guide you through what these tools are, how to connect them to your Housecall Pro account, and the key changes you need to know about managing Google bookings.
+
+Housecall Pro makes it easier to manage your online bookings in one place, giving you a unified view and streamlined customer experience right in your Job inbox. Let’s dive into how you can set up and make the most of these integrations.
+
+---
+
+Changes to Google Bookings
+
+As part of Google’s updates, there are key changes to how bookings from Local Services Ads and Reserve with Google are handled in Housecall Pro:
+
+- One Google inbox within Job Inbox: Instead of having separate inboxes for LSA and Reserve with Google, all Google-generated bookings will appear in a single channel called "Google".
+
+- New booking screen for your customers: When customers click the "Book Online" button on Local Services Ads or Reserve with Google, they will be directed to the Housecall Pro Online Booking flow instead of Google’s own booking flow.
+
+- Simplified Google Price book: Previously, Google required a dedicated “Google” price book item to activate integrations. This is no longer necessary. Your existing price book items remain unchanged and unaffected by this update.
+
+---
+
+What is Google Local Services Ads (LSA)?
+
+Google Local Services Ads (LSA) is a paid online advertisement that allows Pros to appear at the top of Google search results when customers are searching for local services such as “electrician near me”. These ads are designed to help customers quickly find and book trusted professionals in their area.
+
+When you sign up for LSA, your business will need to register for a "Google Guaranteed" badge, which helps build trust with potential customers. Customers can contact you directly through the ad or book your services online. This feature ensures that your business is visible to the right audience at the right time, driving more leads and bookings to your Housecall Pro account.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1353971310/be3da8396022a269b1efc62d0c00/AD_4nXfsD1vTxsrS7UjXzTIfHpGW2_Y98ui3J3YeYm8Tx9rw8qWcaeNeC5HdLf__C3z2F_cgQrxVWppnK8AySLpvthjlYGb0RtiNomYFtKPNzp1BFNMPp96qdurzFQqgFIQPTqm4ZfGypQ?expires=1763568000&signature=699485dfd3e7283d3ec5d7d712adbda7e6a9fe2616821b8b7a9f7fc5db4fb8e3&req=dSMiFcB5nIJeWfMW1HO4zSpiS366TPrt%2BBRsdgC2X%2B%2F%2B0wNn%2BSuGkculzvQ%2F%0AMYOrBBT5EwTbv9qsJqE%3D%0A
+
+---
+
+What is Reserve with Google?
+
+Reserve with Google is a free service that lets customers book your services through Google Search and Google Maps. Unlike LSA, Reserve with Google doesn’t require payment to Google.
+
+By enabling Reserve with Google, bookings go directly through your Google Business Profile, making it simple for customers to schedule services while boosting your appointments in Housecall Pro.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1349316255/3204832123edbb86c1587ca214df/AD_4nXfrlyy2F7sJbeMsgZgTYlwmGYhF2qeUJjsWqdWt3bfzDUk609--D8-uDOy6xQIXPrVvM4jm_d3g-YOAoNGAu76EAN1HGdBAlsqxqep0NntVrI5fF2giQdhB1J_YVK6weWuIO2az?expires=1763568000&signature=aece921126a4ffb65707cf98fe991c105bd7bacb1d8d978cba02e8bf44221629&req=dSMjH8p%2Fm4NaXPMW1HO4zc0c094bZhHFf%2BLMYM6JYODX6uCDRPyMLrj%2FFldr%0AtX6Gi7Fyf0qpqgnhXMY%3D%0A
+
+---
+
+Difference Between Reserve with Google and Google Local Services Ads (LSA)
+
+There are two ways customers can find and book you on Google, and both are integrated with Housecall Pro.
+
+Reserve with Google is:
+
+- Completely FREE.
+- Naturally captures the customers searching for your services.
+- Links to your Google Business Profile.
+- Invites customers to schedule an appointment with you directly.
+- Powered by your Housecall Pro Online Booking.
+
+Google Local Service Ads (LSA) requires you to:
+
+- Sign up, complete a background check, and become Google Guaranteed.
+- Put a credit card on file.
+- Pay fees for phone calls, messaging, and booking leads that come through Local Services Ads.
+- Choose Ads that can be phone calls, messages, or bookings powered by your Housecall Pro Online Booking.
+
+---
+
+Why Should I Connect Google Bookings to My Housecall Pro Account?
+
+Connecting your Google bookings to Housecall Pro offers several benefits:
+
+- Unified Booking View: See all your Google-generated bookings in one place with the "Google" channel in Job inbox, eliminating the need to manage multiple platforms.
+- Streamlined Customer Management: Automatically sync bookings with your calendar, job details, and customer information, reducing manual work and keeping everything organized.
+- Improved Business Efficiency: Manage all aspects of your bookings from scheduling to payment directly within Housecall Pro, saving time and effort.
+
+---
+
+Where Do I See My Bookings from Google?
+
+All bookings from Google Local Services Ads and Reserve with Google will appear in the "Google" channel within your Job inbox in Housecall Pro (Inbox > Job inbox > Google). This unified channel provides a single location to view and manage all Google-generated bookings, simplifying your workflow.
+
+Please note that while bookings from Local Services Ads and Reserve with Google appear together in this channel, they are not differentiated. To identify booking details, such as type, you can log into your Google Local Services Ads account to view specific stats and analytics.
+
+---
+
+Resources & Support
+
+If you have additional questions or need more assistance, here are some resources and support options available to you:
+
+- What happens if I’m not Google Guaranteed? - To receive bookings through Google Local Services Ads, being "Google Guaranteed" is mandatory. Visit Google’s Google Guaranteed Program to learn more about the qualification process and requirements.
+
+- How do I enable the new online booking in Housecall Pro? - Ensure your account is upgraded to the latest version of online booking for compatibility with Google integrations. Check our step-by-step guide on Housecall Pro Online Booking Setup.
+
+- Who can I contact for support? - If you encounter issues or have questions about connecting Google Local Services Ads or Reserve with Google, reach out to:
+ - Housecall Pro Support: Contact Chat Support via the Blue Chat Bubble in your Housecall Pro account or call 1 (877) 944-9010.
+ - Google Support.
+
+- What if I was using LSA previously, but I’m no longer getting bookings? - Verify your Google Business Profile is active and properly verified. Bookings will not work without an active profile.
+- Check if your business still qualifies as Google Guaranteed. Reapply if your badge has expired or has been revoked.
+- Ensure Online Booking leads are enabled in your Google Local Services Ads account. Go to your LSA settings and confirm this option is turned on.
+- Confirm your Housecall Pro Online Booking is active and correctly set up to receive bookings.
+- If none of the above resolves the issue, contact Google Support or Housecall Pro Support for further assistance.
+
+---
+
+Google LSA January 2025 Update: What This Means for You
+
+- Unified Google Inbox: All bookings from both Local Services Ads (LSA) and Reserve with Google will now appear together in the "Google" channel within your Job inbox, simplifying your workflow.
+
+- Google Business Profile Requirement: A verified and active Google Business Profile is now mandatory to maintain your Google Local Services Ads account. Without it, your LSA integration will not work.
+
+- Updated Customer Booking Experience: The LSA booking flow will match the Reserve with Google flow, providing a consistent and simplified experience for your customers booking online.
+
+---
+
+Got questions about your Google Business Page?
+
+We’re here to help!
+
+- Book a call with us: Intro Call
+- Email: rwgsupport@housecallpro.com
+- Chat: Use the Blue Chat Bubble and ask for the Reserve with Google Team
+
+---

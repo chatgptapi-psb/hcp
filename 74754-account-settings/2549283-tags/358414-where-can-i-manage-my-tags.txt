@@ -1,0 +1,108 @@
+Where can I manage my Tags?
+Source: https://help.housecallpro.com/en/articles/358414-where-can-i-manage-my-tags
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: Learn how to add, merge, rename, and delete Tags
+
+Managing Tags
+
+You can now add, merge, rename, and delete tags!
+
+To access your Tags:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Tags from the left menu, under Tags & Tools.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1683499190/a7840160de3095998a5c59dfb84c/image.png?expires=1763567100&signature=2374af1a604c3f1c93cc713eb90261875a255dc950ca3abcdc32eaa04ae1a7ce&req=dSYvFc13lIBWWfMW1HO4zQ8zEZffEp5je%2B4GuNJcRnTKeqO9rLMl7OhqBo%2B2%0AgR8V9xdT5V2%2Fn2LsZe4%3D%0A
+
+---
+
+Add a Tag
+
+To add a Tag:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Tags from the left menu, under Tags & Tools.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1683500358/9b29136c10d6ce0d02f6995c69c8/image.png?expires=1763567100&signature=fb9446e3c242af4ecef60d64db186916f5d80e79b9e8b2e5aee88b111e95eef4&req=dSYvFcx%2BnYJaUfMW1HO4ze4y%2FB1Ax3GlfHiWzrecMpyOnGI6eC0XtKXF5%2FCV%0Aeylm78gPpsYYRCNVRlY%3D%0A
+
+- Click the Add tag button on the right side of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1621889366/b22a8039c7c07a022bcfa5a02de4/image.png?expires=1763567100&signature=65d5396fed088821ac2db48fa7d88119599ea5fa58c804e3291f6a75d9756a6b&req=dSYlF8F2lIJZX%2FMW1HO4zSctg6q0fgulJCru6SO5RX5OMQmWytmLrfwhz0TE%0AdVLTOYm8ufVDRVHc%2B5g%3D%0A
+
+- The Add new tag window will appear, where you can type in your new tag name.
+
+- Click the Create tag button in the bottom right corner of the window to save.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1439023007/2d126a20338a5684b11eb5d72c39/Screenshot+2025-03-24+at+5_36_47%E2%80%AFPM.png?expires=1763567100&signature=0ed270c91187b6a1ebf9e6012d506babd97141094a945eefd08496c96b92053a&req=dSQkH8l8noFfXvMW1HO4zc7TsQwsr4%2Fk82oNaYo2lV4li88wrrFZJ4ZbOUA4%0ARTdHlKMsiD6ontFHhOo%3D%0A
+
+---
+
+Merge Tags
+
+To merge Tags:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Tags from the left menu, under Tags & Tools.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1683501146/47043069deddead921b9c47d39db/image.png?expires=1763567100&signature=a93b346070d6f0813be69cab41143a1c197ebc45aa973ac768bc5263de2b4a40&req=dSYvFcx%2BnIBbX%2FMW1HO4zbXAeBk%2BDpzp7CGrsWo33lBSqSfZgTh1Kry80e6k%0AtjySVy9yQ8GLO7Vb2ug%3D%0A
+
+- Select the tags you'd like to merge by clicking the checkboxes directly to the left of each tag.
+
+- Once selected, click the Merge tag button in the top right corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1621899760/f8e4126bdc711a07f95b2b14fb15/image.png?expires=1763567100&signature=ce3f808901cc5aa37961c6a571dd8fb03e9c5f9ca9dac1431700ec32f365311a&req=dSYlF8F3lIZZWfMW1HO4zRB%2BuXhFDjnFFacmN4bUJtysEnX%2BWFVRmCShRTSi%0ADpz8BBxaSClgDBQ54MY%3D%0A
+
+- The Merge tag window will appear to confirm the change and the tags being merged.
+
+- Enter the new tag name, then click the Merge tag button.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1621902749/f55e62304ebb157cf635e0fc3b75/image.png?expires=1763567100&signature=5bc6f5df0fa51797d74ec0fb60d6123865145bf99b993914b63e703396648c54&req=dSYlF8B%2Bn4ZbUPMW1HO4za9mMznLtlQ0QPil1gQ9YkdcwFTC6llyXu6OTH0O%0AMiqTiaaW5JA%2Bej9YQbU%3D%0A
+
+---
+
+Edit a Tag
+
+To edit a Tag:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Tags from the left menu, under Tags & Tools.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1683501751/ba352459d4d4032f21fa41087a45/image.png?expires=1763567100&signature=208b9db4394197d4f19b389531691c72e0fc3d5377f13079dbba878a94d4f531&req=dSYvFcx%2BnIZaWPMW1HO4zSW63kczJSJowqw3fPJkGp0ET8%2B7FQM77Yhyj1V8%0AJE6UwJZ%2BPvT9XU1Zssk%3D%0A
+
+- Hover over the tag you would like to edit and click the pencil icon that appears to the right of the tag.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1621920223/26b877a205d98a8185b5407a0a54/image.png?expires=1763567100&signature=a23a9bbc99dd41e9d50761693968950fdf3cea0bf92e3a32e9c3a32a50152d76&req=dSYlF8B8nYNdWvMW1HO4zfyKK%2FhRcFWGIA5ghfsAklO2U5idJZn%2FQgxLVWdS%0AGojLAC3OGChHu94R30s%3D%0A
+
+- Enter the tag name in the Edit tag window, then click the Save changes button.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1438999170/20ac75c3193fcbb7b10f21c4796f/Screenshot+2025-03-24+at+5_17_30%E2%80%AFPM.png?expires=1763567100&signature=c8f5eaebebd8c9e54325198b72206d28b59f8effa7b91360ab895bd5682a2f1c&req=dSQkHsB3lIBYWfMW1HO4zVVTVgYDmuHQelYMhZ1znYwG2zRrq%2FHzfn9ZnoWW%0AwlInPn%2B9vgRSS%2F888rk%3D%0A
+
+---
+
+Delete a Tag
+
+To delete a Tag:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Tags from the left menu, under Tags & Tools.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1683502527/45f62b49619bffd59816f21cf3f1/image.png?expires=1763567100&signature=66e3677e0b6a84ecd2ef25a2826035c7e69117618c6ccbd6ede304e2010d7def&req=dSYvFcx%2Bn4RdXvMW1HO4zeH44dC3i5WfBsWAXn%2BdIrjSk38%2F6f%2FcVojn5l%2BD%0AIJy4f%2FA1hLvwvy7Nw2g%3D%0A
+
+- Hover over the tag you would like to edit and click the trashcan icon that appears to the right of the tag.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1621961457/06e47f1556a09cee7ed37a7d1509/image.png?expires=1763567100&signature=7d7afaa1cc4f119c41598cf477d95053210318cc57daf0a1922c8c045639850f&req=dSYlF8B4nIVaXvMW1HO4zVi0XKKCwhe7MrlShhHcy3p6NW8NImnoqc06zMap%0AWr3tV6EdWdg3BWC1OTQ%3D%0A
+
+- In the Delete tag window, click Delete tag to confirm.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1438990859/b60a71ef85d12f33dfca183eea44/Screenshot+2025-03-24+at+5_11_16%E2%80%AFPM.png?expires=1763567100&signature=d12a0241ee5203bebfd47b302417c4611e35639ebdd32d546f6d213e6c152aa0&req=dSQkHsB3nYlaUPMW1HO4zTegKUTpxrvOe8QGAvg2AWiK5Ghy4qfTmD3i6yde%0AKELYV3DTcIVVCPMn%2FUk%3D%0A
+
+---
+
+---

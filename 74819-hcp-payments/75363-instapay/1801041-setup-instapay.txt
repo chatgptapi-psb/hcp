@@ -1,0 +1,86 @@
+Setup Instapay
+Source: https://help.housecallpro.com/en/articles/1801041-setup-instapay
+Author: Nate H
+Last updated: Updated over 7 months ago
+
+Summary: Learn how to set up Instapay so you can get paid faster.
+
+How to Set Up Instapay
+
+Setting up Instapay is a breeze! In just a few quick steps, you'll be able to get your account set up so you can start getting paid faster.
+
+Depending on whether your bank supports Real-time Payments, follow the setup instructions below.
+
+---
+
+Setting up Instapay with a Bank that Supports Real-time Payments
+
+To set up Instapay with a bank that supports Real-time Payments:
+
+- Click on the 'My Money' tab in your Housecall Pro navigation bar.
+
+- Select 'Settings' > 'Payout settings' from the menu on the left. This will pull up your Payout Settings panel.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1323691847/2fc6a7f8b3cee49445a3f140b83f/Screenshot+2025-01-06+at+6_00_06%E2%80%AFPM.png?expires=1763568000&signature=d6e69b63157527ec63240fae8262330cb7672ecd16b6048ff12da62bfd44695a&req=dSMlFc93nIlbXvMW1HO4zZU6SH%2BzL7rZJdyMwqSU%2F2DVeFZtO9Cl%2BrenNrcI%0ARWWlEs69qmWlygiEz0M%3D%0A
+
+- In the Instant Payouts section, click the 'Enable instant payouts' toggle to turn Instapay on. The toggle should move to the right, indicating that it is now on.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1351013746/8ece74e6a222d804f48119ee5264/image.png?expires=1763568000&signature=04b4cde2a5d1ea75bd19748f515778d7dfe3fdcd4150ff475f49f32de64269b8&req=dSMiF8l%2FnoZbX%2FMW1HO4za0uc7%2FXR%2FQHLMY449FgGM%2BppEmGqCOqd2tw%2BhUv%0AYpPdv0pvgvvv%2ByUDd%2F8%3D%0A
+
+- All of your future card and bank (ACH) transactions will be paid out with Instapay. Moments after taking a card or bank (ACH) payment, you'll be able to see your instant payouts in the 'My payouts' section of the My Money page.
+
+---
+
+Setting up Instapay with a Bank that Doesn’t Support Real-time Payments
+
+To set up Instapay with a bank that doesn't support Real-time Payments:
+
+- Click on the 'My Money' tab in your Housecall Pro navigation bar.
+
+- Select 'Settings' > 'Payout settings' from the menu on the left. This will pull up your Payout Settings panel.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1323692795/c0fe9cdc4f831b90889cb6404426/Screenshot%2B2025-01-06%2Bat%2B6_00_06-E2-80-AFPM.png?expires=1763568000&signature=4477719e1f3143c3391616e4964d1be6ef2820822970130e79fba70512d5196b&req=dSMlFc93n4ZWXPMW1HO4zQCjjSkdCvXqq1Wum22fxWGhH5XKTIdjYwGjMX7t%0AJsosoAhfkbAsAl93qM8%3D%0A
+
+- In the Instant Payouts section, click 'ADD DEBIT CARD.'
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1320743500/54315f2f84784d8ec2328e6e26a6/AddDebitCard.png?expires=1763568000&signature=543adcc8480f77c3c89169fb1c08b3abad31657228253bb3e46a6dc01aca388f&req=dSMlFs56noRfWfMW1HO4zX6iTC%2Ffn6Mj8eAPCLxPBx8mxY76JGwkbHODI4uo%0AtDvBiPSTbdSkucojRaQ%3D%0A
+
+- Next, input your debit card information, then click 'ADD CARD' to save the card to your Housecall Pro account.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1320744193/79ba56d2a39551efcb5b1c08ae43/Screen%2BShot%2B2018-04-13%2Bat%2B3_18_26%2BPM.png?expires=1763568000&signature=28ee8222b6e377a6ec7aa9d31214519dbeec00219536ec1a0178ca0bdebb39ca&req=dSMlFs56mYBWWvMW1HO4zYQq9EQtYJUxUhncRunrm5UVJFjbr7u0iHxrpByz%0Aw6KK1JAx37iEKx49lno%3D%0A
+
+- Afterward, instant payouts will automatically be enabled for you, and all of your future card and bank (ACH) transactions will be paid out with Instapay. - You can verify this via the 'Enable instant payouts' toggle which is moved to the right, indicating that Instapay is now on.
+
+- After taking a card or bank (ACH) payment, you'll be able to see your instant payouts in the ‘My payouts’ section of the My Money page.
+​
+
+---
+
+How to Disable Instapay
+
+To disable Instapay and switch to Standard Payouts:
+
+- Click the My Money tab in your Housecall Pro navigation bar.
+
+- Select 'Settings' > 'Payout settings' from the menu on the left. This will pull up your Payout Settings panel.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1324983334/c1b43e4a57f613c6142d1d70a2da/Screenshot-2B2025-01-06-2Bat-2B6_00_06-E2-80-AFPM.png?expires=1763568000&signature=c03837fdbbf4a0d7dad2956b98621e48c8bbd121d4d2ee1da39f3fce8de1a42e&req=dSMlEsB2noJcXfMW1HO4zeNBeRrMMXBEO9kdR%2Fd8u1FjHOzg1vOMEQuCnrbB%0ACGDP3sCoQqXG0%2FP4YJc%3D%0A
+
+- In the "Instapay payouts" section, click the toggle next to the 'Enable instant payouts' option to disable it. The toggle should move to the left, indicating that it is now off.
+
+- Card or bank (ACH) payments taken after disabling Instapay will be paid out with the Standard Payout method.
+
+- You'll see these transactions in the "Pending transactions" section of the My Money page until they are deposited into your bank account (minimum transit time of 2 business days).
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1500131691/e4b55d91d86cf9a3181254c6874f/AD_4nXd5yhGemhb5zKTiu2yjsuY3o_fR6Z7xDreMw5ULnvZMhOu9lfOZ3M0jHij3KkRYV2HwXN6gPX6mswZ4diM2_fCRyAI8LszSMPSR6ypM157atpZDWTXAh2_8ZPVYIowTB6tBlFgV?expires=1763568000&signature=d1630d8c7a997c8702b3be4d0a92200953e20efe75503913702418c965041c76&req=dSUnFsh9nIdWWPMW1HO4zQo22lof22J5UcHEwbfwOHy0Xh4PsWsaAlBs9Nit%0Aeasy2aO6i6s%2BxYPawp8%3D%0A
+
+---
+
+---
+
+Need help understanding your business numbers?
+​
+
+Enroll in Business Coaching by Housecall Pro Foundations, and our certified Advisors will teach you the Business Coaching by Housecall Pro coaching playbook. Are you curious about what coaching program fits you? Learn more here.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1405107910/ccd7e01d20d161ea06dfe2278ee9/Business+Coaching+by+Housecall+Pro+%28Article+Footer%29.jpg?expires=1763568000&signature=e4078e9f51b94ee8fa7ab8b6017b552bb7d1febbdb35b8dacd42360d805b4137&req=dSQnE8h%2BmoheWfMW1HO4zcBdyaYSIY2j7NiGYnUm%2BnfttQEp2bXKURe0%2BThj%0Ae%2B8KZjdM5fWghIrRYSo%3D%0A

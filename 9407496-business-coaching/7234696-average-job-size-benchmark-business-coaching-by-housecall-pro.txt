@@ -1,0 +1,32 @@
+Average Job Size Benchmark - Business Coaching by Housecall Pro
+Source: https://help.housecallpro.com/en/articles/7234696-average-job-size-benchmark-business-coaching-by-housecall-pro
+Author: Ian H
+Last updated: Updated over a month ago
+
+Summary: How we determine benchmarking data for Business Coaching Alpha
+
+Average Job Size Benchmark
+
+We are launching our newest pilot - in-product coaching from Business Coaching by Housecall Pro. With this pilot, we are engaging you, the Pro, with several tasks to help build up business knowledge while giving tips and strategies on how to engage with Housecall Pro in a meaningful way. To launch this product, we shared some benchmarking data around average job size.
+
+How We Calculated Average Job Size
+
+In order to get this benchmarking data, we took the total earned revenue from our Pros over a year (March 22 - March 23) and divided by their total jobs throughout that time period. To get an average, we took all of this data and took the average after splitting it up into more useful categories.
+
+Your benchmark data is the average among Pros within:
+
+- Your industry
+
+- A similar number of employees
+
+- Your state
+
+If you feel this benchmarking number isn't accurate for your organization, there are a couple of things to consider:
+
+- We did not have enough data in each industry to split by rural or urban areas, so larger cities or smaller towns in your state might make this benchmarking number seem too low or too high.
+
+- Our employee split might put your organization on the upper or lower end of this range
+
+- Your organization might be specialized within your industry, and your average job size might account for that.
+
+---

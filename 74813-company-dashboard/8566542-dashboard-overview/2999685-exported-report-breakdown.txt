@@ -1,0 +1,148 @@
+Exported Report Breakdown
+Source: https://help.housecallpro.com/en/articles/2999685-exported-report-breakdown
+Author: Nate H
+Last updated: Updated over 4 months ago
+
+Summary: All fields and descriptions of information that appears in an exported report.
+
+Exported Dashboard Report Breakdown
+
+There are a handful of items not displayed within Housecall Pro's report dashboard that appear once the report has been exported and opened in Excel or Numbers.
+
+The information shown on an exported report includes:
+
+- Customer - email address, first & last name (not just display), company, mobile & home phone numbers.
+
+- Invoice - line items, payment history (including methods), credit card fees, taxable amount, finished time, and the times and dates the invoice was sent
+
+---
+
+Scheduling Information
+
+- A.) Invoice Number - The invoice number that is tied to the job, including segments (which include a '-' between invoice and segment number).
+
+- B.) HCP ID - This is an internal identifier for our Engineers.
+
+- C.) Created At - The date a job was created within Housecall Pro.
+
+- D.) Date - Time/Date the job is scheduled to start.
+
+- E.) End Time - Time/Date the job is scheduled to be completed.
+
+- F.) Travel Duration - The number of minutes between 'On My Way' and 'Start.'
+
+- G.) On Job Duration - The number of minutes between 'Start' and 'Finish.'
+
+- H.) Total Duration - The number of minutes between 'On My Way' and 'Finish' 
+- Travel Duration & On Job duration combined.
+
+---
+
+Customer Profile Information
+
+- I.) Customer - Customer's Display Name.
+
+- J.) First Name - Customer's first name.
+
+- K.) Last Name - Customer's last name.
+
+- L.) Email - Customer's email address.
+
+- M.) Company - Customer's company name.
+
+- N.) Mobile Phone - Customer's mobile phone number.
+
+- O.) Home Phone - Customer's home phone number.
+
+- P.) Customer Tags - Any tags on the customer's profile.
+
+---
+
+Invoice Details
+
+- Q.) Address - The service address (broken down in columns R, S, T, U, and, V).
+
+- R.) Street
+
+- S.) Street Line 2
+
+- T.) City
+
+- U.) State
+
+- V.) Zip
+
+- W.) Description - The first service item of the invoice (if multiple).
+
+- X.) Line Items - All service line items included in the invoice along with the price per item.
+
+- Y.) Amount - Total amount due for the invoice.
+
+- Z.) Labor - The total amount for services/line items minus any discounts. 
+- This does not include any materials listed on the invoice.
+
+- AA.) Materials - The total amount for all materials listed within the materials section.
+
+- AB.) Subtotal - Total due before taxes and/or discounts.
+
+- AC.) Payment History - Time, date, payment method, payment notes, and amount of payments made
+- Includes all partial payments.
+
+- AD.) Credit Card Fee - If paid by credit card, this shows the fee pulled from that amount.
+
+- AE.) Paid Amount - Total amount paid by the customer.
+
+- AF.) Due - The unpaid, remaining balance of the invoice (if any).
+
+- AG.) Discount - The discounted amount in terms of dollars (even if originally input as a percentage).
+
+- AH.) Tax - The total amount of tax added to the invoice.
+
+- AI.) Taxable Amount - The sum of services and materials that were marked as taxable on the invoice.
+
+- AJ.) Tax rate - The name and percentage of the tax rate applied to the invoice.
+
+- AK.) Job Tags - Any and all job tags that were added to the invoice.
+
+- AL.) Notes - Any 'Private notes' that were included of the job itself.
+
+- AM.) Employee - The employee(s) that were assigned/dispatched to the job.
+
+- AN.) Job Status - In Progress = If 'On My Way' or 'Start' has been clicked but 'Finish' has not. 
+- Unscheduled = If the job has been created but not assigned to a time/date. 
+- Scheduled = If the job has been scheduled.
+- Done = If 'Finish' has been marked.
+
+- AO.) Finished - When 'Finish' was clicked on the invoice.
+
+- AP.) Payment - Due = The remaining amount due on the invoice. 
+- Paid = The entire amount has been paid. 
+- Partial Refund = A partial refund was made on the invoice, does not mean there is a remaining balance. 
+- Payment Failed = The payment failed and is awaiting to be paid.
+- Processing Payment = payment has been taken and is currently being processed.
+- Refund Failed = The refund was not successfully issued to the customer.
+- Refund in Progress = A refund was initiated but has not yet been issued.
+- Refunded = The refund was successfully issued to the customer.
+- Sent to Customer = The invoice has been sent to the customer without any option to pay online.
+- Sign off Sent = The invoice has been sent with the option to pay online.
+
+- AQ.) Invoice Sent - Timestamps for each individual time the invoice was sent to the customer.
+
+- AR.) Window - The arrival window that was set for the invoice.
+
+- AS.) Attachments - The number of attachments that were sent to the customer with the invoice.
+- Does not display the actual attachments sent.
+
+- AT.) Segments - The number of segments the invoice has. 
+- All invoices will show at least 1 segment (the original reads as its own segment).
+
+- AU.) HC Job - If the job was booked through the HCP Consumer app or not.
+- Y = Yes, booked through the consumer app.
+
+- AV.) Tip Amount - The tip amount if a customer included a tip when paying with a credit card.
+
+- AW.) Online Booking Source - What site the invoice was booked through if it came from an online booking.
+- Includes: My Website, Housecall Marketplace, and Housecall App.
+​
+
+---

@@ -1,0 +1,182 @@
+How to Run Payroll Using the Time Tracking tab
+Source: https://help.housecallpro.com/en/articles/8594391-how-to-run-payroll-using-the-time-tracking-tab
+Author: Nela T
+Last updated: Updated over a month ago
+
+Running Payroll from the Time Tracking tab
+
+With Payroll Advanced, you can now integrate your Housecall Pro Timesheets app into your regular payroll workflows. We have streamlined the process to make running payroll as easy as possible for Pros who have employees who regularly fill out timesheets.
+
+To get started, follow these steps to navigate to the Time Tracking tab:
+
+- Log into your Housecall Pro account and click the 'Payroll' tab in the navigation bar at the top of your screen.
+
+- Next, select the 'Time Tracking' tab from the menu on the left.
+
+[Image] https://downloads.intercomcdn.com/i/o/924222935/48cd3657e5288bcb2d7c93e2/image.png?expires=1763568000&signature=c236646bb8dce48431d6b68b5f1440d20fc4131c7a880082aa43830e87e04fb4&req=fSIjFMt8lIJaFb4f3HP0gIViNX5Be0rzyrrIysiLmDaoK%2FT4hfXQjhyBsDgW%0AmpTuJSzKM4e6%2FTxQ8Q%3D%3D%0A
+
+- Choose the preferred pay schedule and pay period from the dropdown menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/884958146/04e9fbec584617d781c079e8/2.png?expires=1763568000&signature=3927a84d13958c5e520bd64ca4a28ae211109af20bd454b89fb08c4679739cf9&req=fCgjH8x2nIVZFb4f3HP0gGcpslUd5XfncSVjdqCITJ%2BpVLem07VKo4OWKlrY%0AJdJPQaeCbcTJfThS%2FA%3D%3D%0A
+
+- Review individual employee time cards – these hours are directly imported from the existing Timesheet app where employees log their work hours.
+
+[Image] https://downloads.intercomcdn.com/i/o/884958195/1e7883d682d6bd38cf843048/3.png?expires=1763568000&signature=6bd04e1c18764d808a493dc9ac3885e76b56560b241a1df11016b176c32706cf&req=fCgjH8x2nIhaFb4f3HP0gHHU%2F4DyoM12jVehMg4WtfKiLmpxxlMADWzCogRb%0APCELYZ3KwB%2BNipgq0Q%3D%3D%0A
+
+- You can modify the employee’s Timesheet entry by utilizing the 'Review' and 'Edit' buttons to facilitate required changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/884958564/5d756cc886d15864560ebb73/4.png?expires=1763568000&signature=1ca9b50f5171f7b019a4c918a318534aaf1e15159e9143b3a56afb35eb197c8d&req=fCgjH8x2mIdbFb4f3HP0gD5FiQov0tY8lJ4eL%2BM2fNn91JnBWvABV2X%2FGx7D%0Aq2jNlZk%2BmZVXcKXjbA%3D%3D%0A
+
+- Click 'Done' in the bottom right corner of the screen to save your changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/884958624/d75d47c396b54cfb005d46e0/5.png?expires=1763568000&signature=7e5a12b680663bb6796b51458b509ad8a723f406dbc452d0a84604785adadd22&req=fCgjH8x2m4NbFb4f3HP0gP8Rkp1zZS6eAR5lya0UUmLzu%2BLKRFgn2nJFlDyu%0AIV79yV1RDcG2hPN0gg%3D%3D%0A
+
+- Select the desired employees by using the 'Select Team' button or individual checkboxes for each employee.
+
+[Image] https://downloads.intercomcdn.com/i/o/884958690/7b56865ff65c61b5c2eb011d/6.png?expires=1763568000&signature=2017496410bc93b12abe612d5c1ee9921b5e54c0a4fd571e23f8c2428fdf5be6&req=fCgjH8x2m4hfFb4f3HP0gGdCx2STRmquJLTJ%2BN8Svwe2xUj9jeQjTFl%2Fc%2BfR%0AD0Jkdq6FGq9QQyeDzQ%3D%3D%0A
+
+- Click on the 'Submit Employee Time' button to provide the additional details needed to finalize payroll.
+
+[Image] https://downloads.intercomcdn.com/i/o/884958760/2c14182c6556884036787393/7.png?expires=1763568000&signature=45c242d4932b95a8e01deefd4f474578ff40ba6633e5383b1085d32fb3fa2c02&req=fCgjH8x2modfFb4f3HP0gIHXH8LaNEiU55cr%2FxkoXqoUFmK%2FQXD4zdekPQJD%0A9DdF%2BE1cWoTppCRqHA%3D%3D%0A
+
+- Assign a Workplace and Earning Rate for each employee.
+
+[Image] https://downloads.intercomcdn.com/i/o/884958801/6e0a3c0df27265a6285eebc1/8.png?expires=1763568000&signature=f738cd4ef79a43a3ef9a6a1409ab2c2ac2ff0441b09c5a049e47f88aef1bc917&req=fCgjH8x2lYFeFb4f3HP0gOtPxJtcik%2Bz5CRXwQ0ju1r5X6ZE2StYo1oqEQ8v%0AXcwpgzirM09jOnWQ1w%3D%3D%0A
+
+- Conclude the process by previewing and submitting payroll through the 'Preview Payroll' and 'Submit Payroll' buttons in the upper right corner of your screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/884958887/8232b0fe40099f79e008df28/9.png?expires=1763568000&signature=22a8315f3c6a033b58c7d2f149dbc10a46e03dbcf77fa3368c5e881910965939&req=fCgjH8x2lYlYFb4f3HP0gGCE10OkSHcmcJiBXRb93kafn0PG0JYcImvo9Vys%0AAN2%2FotyoB%2Fjhvtvryw%3D%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/884959031/c50718d529d0a167770fb402/10.png?expires=1763568000&signature=d5185bd42943a7c8791ff3d4c40f6e2e9dc9939e299b49e9b329f8d82c008705&req=fCgjH8x3nYJeFb4f3HP0gJQ1Rp%2FfDC%2BCLpzeOWMyNinQ0dfrtpuRj88UjIS1%0AO2KJNxnGtGX00QV4hQ%3D%3D%0A
+
+---
+
+How to Set Up Overtime Rules for Payroll Time Tracking
+
+Congratulations on completing your payroll onboarding process! As you embark on this journey of efficient payroll management, let's explore how you can further streamline your experience with time tracking and overtime rules.
+
+Payroll Advance now allows you to automate your overtime rules under a new Settings page located on the Time Tracking tab.
+
+Use this step-by-step guide to learn how to set up your overtime rules.
+
+---
+
+To set up overtime rules for Payroll time tracking:
+
+- Log into your Housecall Pro account and click the 'Payroll' tab located in the navigation bar at the top of your screen.
+
+- Select 'Time Tracking' from the left menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/969800924/9a13ce608c6b472fb788b3b3/image.png?expires=1763568000&signature=200be040f4bcdc398d9fd3df1e7c66d4898e023f48b9d03af575af0fdcf5fbe8&req=fSYuHsl%2BlINbFb4f3HP0gGwdhDl72Xj0WcBKRb9WkWAmgqnDjKR14qwfIiGL%0AwMusDHb%2BQnMX1x0e%2Fg%3D%3D%0A
+
+- Select the 'Settings' option located in the blue notification bar in the Time tracking bar to find several options to customize your overtime rules
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1070543767/03cec4233186b71ba8ec7c22/AD_4nXd04e9G72kfxRzLZgLftyzMskP2u1poJgjG_c6j4ai6ltyFn10cm0zgGFtdUj-PgztpY_ErgGmZWgiIr5H1rSoEOg23X7bq-IyvsXfTG4KIaxJo3W8y-Jy5JdCCAGrFldSq7eYrunUeNyDA_5R4QDXi9YjM?expires=1763568000&signature=96edc5cb102b58111040c56b1ed7e30a29707db39f38efcef2bee4efb141ddb2&req=dSAgFsx6noZZXvMW1HO4zSTmnLemDz6e7f3c1lMBkDuS9W%2B5HCtYc%2BsXoDyO%0AAN0YUdzqD2sIBmmPXdI%3D%0A
+
+- Click on the gear icon next to the Export button.
+
+[Image] https://downloads.intercomcdn.com/i/o/969802096/cbef92777d1aa10e8b4b8585/image.png?expires=1763568000&signature=23c2440e58da7cf43db4a8c9aaac1be4f062a403bf1df900cee02d75fd5ac317&req=fSYuHsl8nYhZFb4f3HP0gNSd4Vneh3rAMC7hPygcajF1C59eN%2FYKACfm5PAS%0A8tVyJye0nIgoTH2oNg%3D%3D%0A
+
+- Start by toggling your Overtime rules ON in the top right corner
+
+[Image] https://downloads.intercomcdn.com/i/o/969804659/a18a66beedfb403cc95e4c9b/image.png?expires=1763568000&signature=bfd10d2f849bc83c4bdef1e25cc0cf70e1bc7c8d8078fedafdb14e6ea6bfc0ad&req=fSYuHsl6m4RWFb4f3HP0gGkzzyMZVD8b4RaCjn5070iVKi%2FueTKNDx3dSems%0A%2BU5awbDbIemlJC1H5w%3D%3D%0A
+
+- Adjust your overtime rules applicable to your company’s policy.
+
+[Image] https://downloads.intercomcdn.com/i/o/969805223/310a579ca6d152a02723f0fe/image.png?expires=1763568000&signature=9db4e090da11d6d0cd6d9f8647a382e13a8187d3ae2760181946f6fe4ab6c4fe&req=fSYuHsl7n4NcFb4f3HP0gEsX%2FuxvVeY%2BkdWX7cKcD42wZu4tuMZ0oWl5JYJa%0APpmFzyJyBW5kCW26%2Bg%3D%3D%0A
+
+---
+
+Scenarios for Multiple Rules Turned On at Once
+
+To help you plan for your own overtime rules, let’s review a few scenarios on how they could be set up:
+
+- Start of work week: Monday
+- Weekly overtime: 40 hours
+- Daily overtime: 8 hours
+- Daily double time: 12 hours
+- 7th consecutive day overtime: ON
+
+If the daily overtime and weekly overtime rules are turned on at the same time, daily overtime hours are counted first. Then, if any overtime hours remain unaccounted for, those hours will be attributed to weekly overtime. If the 7th consecutive days overtime rule is ON, the first 8 hours are overtime, anything over 8 hours is double time, regardless of the hours worked that week.
+
+---
+
+Scenario 1
+
+Let’s consider a new employee, Ben, who has worked the following schedule:
+
+- MON – 14 hours
+- TUE – 10 hours
+- WED – 10 hours
+- THR – 10 hours
+- FRI – 10 hours
+- SAT – 10 hours
+- SUN – 0 hours
+
+In this scenario, here is how our rules will break down the hours Ben worked into the regular and overtime buckets:
+
+Table:
+Row 1: Day | Regular Hours | Overtime | Double time
+Row 2: Monday | 8 | 4 | 2
+Row 3: Tuesday | 8 | 2 | 0
+Row 4: Wednesday | 8 | 2 | 0
+Row 5: Thursday | 8 | 2 | 0
+Row 6: Friday | 8 | 2 | 0
+Row 7: Saturday | 0 | 10 | 0
+Row 8: Sunday | 0 | 0 | 0
+
+---
+
+Scenario 2
+
+Let’s consider Ben, who worked the following schedule:
+
+- MON – 5 hours
+- TUE – 5 hours
+- WED – 5 hours
+- THR – 5 hours
+- FRI – 5 hours
+- SAT – 5 hours
+- SUN – 10 hours
+
+In this scenario, here is how our rules will break down the hours Ben worked into the regular and overtime buckets:
+
+Table:
+Row 1: Day | Regular Hours | Overtime | Double time
+Row 2: Monday | 5 | 0 | 0
+Row 3: Tuesday | 5 | 0 | 0
+Row 4: Wednesday | 5 | 0 | 0
+Row 5: Thursday | 5 | 0 | 0
+Row 6: Friday | 5 | 0 | 0
+Row 7: Saturday | 5 | 0 | 0
+Row 8: Sunday | 0 | 8 | 2
+
+---
+
+Modifying Hours When Overtime Rules are ON/OFF
+
+OT Rules are turned OFF
+
+When you make adjustments to Time Tracking when the Overtime rules are off, you can adjust the following fields:
+
+- Regular hours
+- Overtime
+- Double-time
+- PTO
+
+OT Rules are turned ON
+
+When you make adjustments to Time Tracking when the Overtime rules are on, you can adjust the following fields:
+
+- Hours worked
+- PTO
+
+The Hours worked will consist of regular, overtime and double time hours. The breakdown will automatically be calculated based on the rules you have set.
+
+Save Your Settings: Once you've configured your overtime rules according to your requirements, remember to click on the blue "Save" button in the upper right-hand corner of your screen to apply the changes.
+
+With your setup complete, you're now equipped to efficiently manage time tracking and overtime calculations within your payroll system!
+
+---
+
+---

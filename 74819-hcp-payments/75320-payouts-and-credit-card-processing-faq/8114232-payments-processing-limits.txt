@@ -1,0 +1,58 @@
+Payments Processing Limits
+Source: https://help.housecallpro.com/en/articles/8114232-payments-processing-limits
+Author: Charlie H
+Last updated: Updated over a year ago
+
+Summary: Learn what Payment Processing Limits are and how they affect your business.
+
+---
+
+---
+
+Payment Processing Limit FAQs
+
+---
+
+---
+
+What is a Processing Limit?
+
+- A processing limit is an upper cap on your ability to process card and bank transfer (ACH) transactions through your Housecall Pro account. This limit applies on a monthly basis and resets at the start of each month. If a transaction exceeds your total transaction processing limit for the month, the transaction will be blocked, and you should accept payment via other methods or wait until your limit resets.
+​
+
+---
+
+Why does my account have a processing limit?
+
+- Housecall Pro does not put processing limits in place lightly because we know it affects your ability to bring in business and take payments easily. Ultimately, we’re trying to prevent both your business and Housecall Pro from losing money in disputes or other risky scenarios.
+
+- You may have a limit on your account for a number of different scenarios that include but are not limited to: - Your business is new or has limited history and reviews.
+- You’re new to Housecall Pro.
+- You have a high rate of disputes.
+- Your payment processing activity is erratic.
+- Your business is in a riskier industry.
+- Housecall Pro deems that a processing limit is appropriate.
+​
+
+---
+
+How do I know if my account has a processing limit?
+
+- You will be notified via email whenever a processing limit is applied to your account, or when an existing limit is changed or removed. You’ll also receive an email when you process 50% and 75% of your monthly limit.
+​
+
+---
+
+What does a processing limit look like for my customers?
+
+- We are dedicated to making the checkout process with your customers as professional and seamless as possible. That’s why if a transaction were to be blocked because you went past your processing limit, your customer would not see that the transaction was blocked because of a processing limit on your account. In an instance like this, simply ask your customer to pay via another method or wait until your limit resets.
+​
+
+---
+
+What does a processing limit look like for me?
+
+- Transactions that are under your limit will be processed normally. If a transaction were to exceed your processing limit, it would be blocked, and you would need to collect payment another way. 
+​
+
+---

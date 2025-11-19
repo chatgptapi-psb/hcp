@@ -1,0 +1,45 @@
+Broadly Integration Overview
+Source: https://help.housecallpro.com/en/articles/5452040-broadly-integration-overview
+Author: Ian H
+Last updated: Updated over 2 months ago
+
+Summary: Learn how the integration between Housecall Pro and Broadly works.
+
+How the integration works
+
+Broadly is a marketing tool that helps you get quality reviews and actively promotes your business on review platforms.
+
+Broadly focuses on Home Service Professionals in the area of Life Time Marketing. This means providing meaningful customer experiences to keep the customer coming back.
+
+When a New Completed Job (Moved from "Start" to "Finish Job") is triggered in Housecall Pro, this automates a review message from Broadly’s side. The information that is transferred over to Broadly includes the customer contact info as well as the tech who worked on the job.
+
+[Image] https://downloads.intercomcdn.com/i/o/369390672/ccbb02b6279f0efe54b0fe01/Screen+Shot+2021-07-02+at+4.25.35+PM.png?expires=1763567100&signature=af4dad2404af7dd969bde6fd66ce4205f8e2148854778c360e420c63fc43b234&req=dyYuFcB%2Bm4ZdFb4f3HP0gEJYLn0Cm8oZkXhKmcBwTOSk92yUEiSukQKWbC6x%0A%2BfnCuSkMRlFQ02TpqA%3D%3D%0A
+
+---
+
+How to initiate a feedback request
+
+In order for Broadly to send a feedback request to a customer, the job must be finished on the Housecall Pro job portal.
+
+From here, this customer's info will be uploaded to Broadly and you will be able to contact that customer at any time from your Broadly inbox.
+
+[Image] https://downloads.intercomcdn.com/i/o/369404761/5a90be86de071aa3f29065b5/Screen+Shot+2021-07-02+at+4.31.02+PM.png?expires=1763567100&signature=5c88e7406e32954ac494b106c77414c92332d70543ff8306c7d17dbd0ba17358&req=dyYuEsl6modeFb4f3HP0gLNwIH4psjH54FA4PeoqDSSsVlvsYWf6NL6%2Bnumc%0A%2B5n5UAMLBAf6%2B3kFCg%3D%3D%0A
+
+---
+
+Connecting Housecall Pro and Broadly
+
+Broadly is a marketing tool that helps you get quality reviews and actively promotes your business on a variety of review platforms. Broadly has the tools to help Pros easily attract leads and keep them. This is done by monitoring which ads, keywords, and campaigns bring valuable leads over the phone and on the web.
+
+To Connect the Integration:
+
+If you don't already have a Broadly account, you will first set one up through them.
+
+Once you have an account and are in the Broadly app, follow these instructions:
+
+- Your Broadly app admin should navigate to Preferences in the left-hand menu bar
+- Select on Data Sources
+- Choose Add Data Source
+- Click on Select ... and choose Housecall Pro and you will be prompted to sign back into HCP.
+
+---

@@ -1,0 +1,194 @@
+HCP Assist: Call Log Overview
+Source: https://help.housecallpro.com/en/articles/8150011-hcp-assist-call-log-overview
+Author: Andre O
+Last updated: Updated over 5 months ago
+
+Summary: Discover the benefits of the HCP Assist call log: easily manage all your calls in one place with detailed insights
+
+Using the HCP Assist Call Log on the Web
+
+The HCP Assist call log provides you with easy access to all of your calls in one central location. Through our new support channel integration, you can quickly reach out for help regarding your HCP Assist calls.
+
+---
+
+Access Your HCP Assist Call Log (Web)
+
+To access your HCP Assist call log:
+
+- Click the Inbox tab in the top navigation of your account.
+
+- Select Call Log under HCP Assist.
+
+[Image] https://downloads.intercomcdn.com/i/o/813160215/0a5d30e2c7f822d2903ee857/Call_Log.png?expires=1763568000&signature=07f5430762d5724bd5b2dc506beeae893f68dd8f18e46046a5d5008580e85bc7&req=fCEkF89%2Bn4BaFb4f3HP0gP63t5hoTYssV5hpeeS8F0745zTEIh%2FW3lv0B4NE%0A%2BvUWMfcyy8493XO%2FRw%3D%3D%0A
+
+---
+
+Filtering on the Call Log (Web)
+
+To filter your HCP Assist Call Log:
+
+- Click the Inbox tab in the top navigation of your account.
+
+- Select Call Log under HCP Assist.
+
+- Click the blue Filter button.
+
+- The system will allow you to filter by: - Call Date 
+- Status (Action Required, To Do, In Progress, Reviewed, etc.)
+- Caller (Name or phone number)
+- Caller Type (Existing customer, New customer, etc.)
+- Call Reason (Estimate created, Billing question, etc.)
+
+[Image] https://downloads.intercomcdn.com/i/o/1094636122/9b06a4f11496631977830504/image.png?expires=1763568000&signature=daf6cf7b9c2a9738c5dc59e6cff3cb634fb040ae9a2d080b5a119b3de8fba577&req=dSAuEs99m4BdW%2FMW1HO4zcFfyht0beKUzgrTmC%2BVWzG5y5tBXhEUoHBPfXzV%0Aqmx%2BNAHtdlkJjevz%2BA8%3D%0A
+
+---
+
+How to View More Call Details (Web)
+
+To see more details about your HCP Assist calls:
+
+- Click the Inbox tab in the top navigation of your account.
+
+- Select Call Log under HCP Assist.
+
+- Select a call to view the Call details.
+
+- The Call details window provides the following information about the call: - Customer's contact information
+- Call status
+- Caller type
+- Call reason
+- Lead source
+- Call details
+- Notes
+- Call info
+- Billable minutes
+
+[Image] https://downloads.intercomcdn.com/i/o/804058675/5e377d0378cdea3b316b8e0e/image.png?expires=1763568000&signature=99278ac8b8fdfe42c16c9e645227b1dab143e168f323bafc6f0b8ec4e4e87652&req=fCAjFsx2m4ZaFb4f3HP0gOZIazDyNgTkjoO2cUImgPskGlK2bDKfGsuXvhmB%0AguqpYWamplwfVhl3DQ%3D%3D%0A
+
+- For callers who are linked to existing customers, you can navigate to their profile from this detailed view by clicking on the View Profile hyperlink.
+
+- You can also reach out to your customer directly from the Call Details view by clicking the Chat or Call boxes under the customer's name and contact information. *You must have our Voice Solution to leverage this feature.
+
+---
+
+Call Log Status Feature (Web)
+
+To view or edit a call's status:
+
+- Click the Inbox tab in the top navigation of your account.
+
+- Select Call Log under HCP Assist.
+
+- Select a call to view the Call details.
+
+- When an HCP Assist agent marks your calls as Action Required, you will see that status on the respective call under the Status column.
+
+- You can also manage your internal workflows by using a pre-defined list of statuses we provide.
+
+- For example, you could select Action Required status on your own if you want someone on your team to take action on that call, or you could select In Progress when you (or someone in your company) are already following up with the customer
+
+- You can edit the statuses via a drop-down in the Call details view.
+
+[Image] https://downloads.intercomcdn.com/i/o/813123498/f6183f452fbba87d09c2371e/Call_Log_Edit_Status.png?expires=1763568000&signature=eea466e3cee012aa0d1c8859936d5d362c004689ecf87aaff3cbb60e44e66001&req=fCEkF8t9mYhXFb4f3HP0gFPOik4Uf%2BfTE%2FlRQiHUvv99vHVTehrJpUeg9zR%2B%0A0onuOaqDbu4YWyAKIQ%3D%3D%0A
+
+---
+
+How to Request Support with HCP Assist (Web)
+
+To request dedicated support on specific calls:
+
+- Click the Inbox tab in the top navigation of your account.
+
+- Select Call Log under HCP Assist.
+
+- Select a call to view the Call details.
+
+- Dedicated support can be requested by clicking the I NEED HELP WITH THIS CALL link at the bottom of the Call details view.
+
+[Image] https://downloads.intercomcdn.com/i/o/813125519/5016009079ba1b99516c0eb5/Call_Log_Edit_Status.png?expires=1763568000&signature=3a2ff363aea1365e16bd9a3004d09a50c9b29bd6ab6a1dd3695d1c3a1ce88148&req=fCEkF8t7mIBWFb4f3HP0gOtZ%2FIlkkuXbx5EuHiQjOvYNiwkfp4EfsJuBfiAl%0A0SmbR%2FbYAhBMs4ipqA%3D%3D%0A
+
+---
+
+---
+
+Using the HCP Assist Call Log on Mobile
+
+Explore the HCP Assist Call Log on Mobile:
+
+- Easily stay on top of all your calls with the HCP Assist call log—your central hub for managing call activity on the go.
+
+- View detailed call information in one convenient place and get quick access to support whenever you need it, thanks to our new support channel integration.
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/1109095672/b11c8d83baf55f841cfda56d/hcpa_call_log_gif.gif?expires=1763568000&signature=ce60e6d112aca01b77d3a46b19ab48f63b59d80f29c06aa341719715f8436b98&req=dSEnH8l3mIdYW%2FMW1HO4zdVHB9BtLX7CL10fRuKb4DkjqYiLwUMbqULi9kN8%0AbnOzBUT86LkxUxGKdB0%3D%0A
+
+---
+
+Access Your HCP Assist Call Log (Mobile)
+
+To access your HCP Assist Call Log on the mobile app:
+
+- Go to the Inbox tab in the bottom navigation bar.
+
+- Select Call log under HCP Assist.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/1109076823/71bea0a274a6661adcac596c/call_log_inbox.png?expires=1763568000&signature=086d653e8ac3a78a92e0156a53acee9484a7967b3588b0db27993e382b69f8c2&req=dSEnH8l5m4ldWvMW1HO4zf04Q%2FYa8HcrhdQAFcSmyCX%2Bjqk4rhDzuGVePpxm%0AjVWd%0A | [Image] https://downloads.intercomcdn.com/i/o/1109077515/3daaa3f54895bcc275f0f537/call_list.png?expires=1763568000&signature=aa3d450dfd6bdaee0e34479a9c1174467e547d5b94460d4da06d077e9c30b64a&req=dSEnH8l5moReXPMW1HO4zR0ZWXNfJl90NUvBKjgyZNwXfFqZhe%2B4eIrfKYTG%0Aib%2Fi%0A
+
+---
+
+View More Call Details (Mobile)
+
+To view more details about your HCP Assist calls on the mobile app:
+
+- Go to the Inbox tab in the bottom navigation bar.
+
+- Select Call log under HCP Assist.
+
+- Select a call, and a detailed view will appear.
+
+- For callers who are linked to existing customers, you can navigate to their profile from this view by clicking on the View profile link.
+
+- You can also reach out to your customer directly from the Call Details view by utilizing the Chat or Call icons.
+
+[Image] https://downloads.intercomcdn.com/i/o/1109081694/84ec61feb88ec2b13f43c7b7/call_log_detailed.png?expires=1763568000&signature=b02a4149a7d27b9cf529f95882aabf1c70c22d7643a45b62d6ba8a5f6870ac0b&req=dSEnH8l2nIdWXfMW1HO4zUP6%2FSoMFvOLQ9ZF5FmTdhfF0I4vmqp%2BFFstBX1N%0AJr5zVCZpeSzgi2vQodw%3D%0A
+
+---
+
+View and Edit Call Statuses (Mobile)
+
+When an HCP Assist agent marks your calls as Action Required, you will see that status on the respective call under the Customer name or number in the call list and on the left side as little circle icons.
+
+You can also manage your internal workflows by using a pre-defined list of statuses we provide.
+
+For example, you could select the Action Required status on your own if you want someone on your team to take action on that call, or you could select In Progress when you (or someone in your company) are already following up with the customer.
+
+To edit a call status:
+
+- Go to the Inbox tab in the bottom navigation bar.
+
+- Select Call log under HCP Assist.
+
+- Select a call to view the Call details page.
+
+- Tap the Call status drop-down to edit the status of the call.
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/4ck4plh8lg
+
+---
+
+Request Support with HCP Assist (Mobile)
+
+To request dedicated support on specific calls:
+
+- Go to the Inbox tab in the bottom navigation bar.
+
+- Select Call log under HCP Assist.
+
+- Select a call to view the Call details page.
+
+- Tap the I NEED HELP WITH THIS CALL link at the bottom of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/1109083080/17038f8defb2fad1cb51d260/call_log_help.png?expires=1763568000&signature=4f44525d0ee256dca2c5855c7e6d313108700a0a22d5f0a3e5ae1bed5f2415c9&req=dSEnH8l2noFXWfMW1HO4zY6WcDwA%2Bg68gWjKb8M14S1hSGFCbsDawtNCruRf%0A2j0GyjDyfyD5iwb5HDI%3D%0A
+
+---

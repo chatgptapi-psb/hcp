@@ -1,0 +1,49 @@
+QuickBooks Desktop: Downloading a New QWC File
+Source: https://help.housecallpro.com/en/articles/5452812-quickbooks-desktop-downloading-a-new-qwc-file
+Author: Tomas W
+Last updated: Updated over a month ago
+
+Summary: Download a new QuickBooks Web Connector (QWC) file for QuickBooks Desktop.
+
+QuickBooks Web Connector (QWC) File Explanation
+
+Simply put, the QuickBooks Web Connector (QWC) file is the key to the entire integration between Housecall Pro and QuickBooks Desktop.
+
+It plays a critical role in allowing the software to send information back and forth, and our connection to QuickBooks Desktop simply can not function without it.
+
+You might require a new QWC file in the following situations:
+
+- The computer or server hosting QuickBooks Desktop crashed, and: - You’ve replaced it with a new machine, or
+- You managed to salvage the old machine but lost data on the hard drive, including the original QWC file.
+​
+
+---
+
+How to Download a New QWC File
+
+To download a new QWC file for your QuickBooks Desktop integration:
+
+- Navigate to 'My Apps' by clicking the 3x3 square icon in the top right corner of your Housecall Pro account. Then, click on the QuickBooks Desktop app icon.
+
+[Image] https://downloads.intercomcdn.com/i/o/1153617048/af7ecfa68939acc0a3d24af4/Home+%2814%29.png?expires=1763568000&signature=fe5d6b0e7eec79659ad0755c09e9160a05b82f5d8dceded8ce03720c7259dc72&req=dSEiFc9%2FmoFbUfMW1HO4zUQgU%2BQEaJL%2F8omZrFxA3018WGvm4klczF1SHX61%0AY023CGJzxxDYqmFxQzo%3D%0A
+
+- Click the back arrow until you are on the "Let's get started" screen. You may need to click the back arrow multiple times.
+
+[Image] https://downloads.intercomcdn.com/i/o/369414252/bdfe7f8d9a34ff3f9e7fb40a/image-20210729-180455.png?expires=1763568000&signature=21b6e756fb3ee66ed13109f24132a56940d1eb16edd96f3afb6883fbcf590c92&req=dyYuEsh6n4RdFb4f3HP0gJnLH6%2BzBrIkb%2Bgm8VsSBW05%2BkEbVldUXtuLAap2%0AiFS4EqwGvCifU1G%2BbQ%3D%3D%0A
+
+- When you reach the "Let's get started" screen, click 'Download Authentication' to download your QWC authentication file.
+
+[Image] https://downloads.intercomcdn.com/i/o/1153623946/28800e9314ea111c55f552ba/image.png?expires=1763568000&signature=9567937088220f184686affae9e2e0136f684c9e1ea71e973bfca59c87225674&req=dSEiFc98nohbX%2FMW1HO4zRVmHfpUh9RheIzwBbYJo00gIoAEl6vsnEV2dsp8%0AillTOaYZ7WJUc0nRygM%3D%0A
+
+Once the file has been downloaded:
+
+- You can install your new QuickBooks Web Connector and resume syncing Housecall Pro information into QuickBooks Desktop. 
+​
+- You will go through the same process of re-installing your web connector as you did when you first set up your integration. 
+​
+- Simply click the blue 'Next' button and follow the instructions in the video tutorial, or check out our "QuickBooks Desktop: Integration Onboarding Guide" Help Article.
+​
+
+---
+
+---

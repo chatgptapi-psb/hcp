@@ -1,0 +1,58 @@
+Protect Your Account with Two-Factor Authentication
+Source: https://help.housecallpro.com/en/articles/8536911-protect-your-account-with-two-factor-authentication
+Author: Allison L
+Last updated: Updated over a month ago
+
+Summary: How to enable two-factor authentication for your account.
+
+Add an extra layer of security to your account by requiring an additional step to log in to Housecall Pro. If you opt an employee into two-factor authentication, they'll enter a verification code sent by text.
+
+What is Two-Factor Authentication (2FA)?
+
+Two-factor authentication (also referred to as 2FA, multi-factor authentication, or MFA) is an extra layer of security for your Housecall Pro account. Instead of just entering your username and password at login, you are prompted to also enter a one-time password (OTP) sent via text to the mobile device registered on your account.
+
+[Image] https://downloads.intercomcdn.com/i/o/870645359/7efcebc69e8fdd88cb1983b4/image.png?expires=1763567100&signature=c2708d0ee37512f88ee6d2f2a919cc343466758f9aa72997c6a29db0990f5a7e&req=fCcnEM17noRWFb4f3HP0gFoNohQnQVTnY9H9mLDslg1VnzEv5YUiW%2Fi1jC1k%0AT%2FTIXF%2BetLnCun46Ug%3D%3D%0A
+
+---
+
+Why do you need 2FA?
+
+2FA is an added layer of security on top of the use of a strong and unique password. With 2FA in place, an unauthorized user would need access to your device or the code sent to your device in order to successfully log in.
+
+---
+
+How to Enable 2FA
+
+To enable 2FA:
+
+- Click the gear icon in the top right corner of your account to access your Settings.
+
+- Select Team & Permissions from the left menu.
+
+- Click the Login Authentication tab at the top of the page.
+
+- Click the toggle to the right to enable two-factor authentication for team members.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1634706482/03fc004e25116139ea64662308fc/Screenshot+2025-07-23+at+11_34_14%E2%80%AFAM.png?expires=1763567100&signature=e0befdb67e4a8fd17d47daafef9152b88452d890d4f7eff9efef1409090579e1&req=dSYkEs5%2Bm4VXW%2FMW1HO4zVlD6nQGqgc0dCWFlQPlJSAYX%2BL3F6ed88RQHGY8%0ALMO%2Bs%2FjEm82xSAQXJl4%3D%0A
+
+---
+
+How does 2FA at HCP work?
+
+A few things to keep in mind:
+
+- Only users with the role of Admin/Owner or who have the Update Company Information permission can turn 2FA on for themselves and others.
+
+- When 2FA is enabled for an employee, it will fire every time the employee logs in.
+
+- If enabled, 2FA will work on any platform (web, iOS app, or Android app) being used to log in.
+
+- Users should be upgraded to the latest version of the mobile app they are using to see 2FA on login.
+
+---
+
+Having trouble with 2FA?
+
+Please chat in through the Blue Chat Bubble. We route 2FA-related help through a secure support process to ensure that no unauthorized users are attempting to access your account.
+
+---

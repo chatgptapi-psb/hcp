@@ -1,0 +1,526 @@
+Pipeline FAQs
+Source: https://help.housecallpro.com/en/articles/6185346-pipeline-faqs
+Author: Katie H
+Last updated: Updated over a month ago
+
+Summary: Explore Housecall Pro's Pipeline FAQs for managing jobs, estimates, and leads.
+
+Overview
+
+Discover how to use Housecall Pro's Pipeline to manage your Leads, Estimates, and Jobs more effectively. This FAQ guide provides simple answers to common questions, helping you understand key features and how to customize your board for a better workflow. Whether you’re on your phone or using a computer, this guide will help you streamline your tasks and boost your productivity.
+
+---
+
+---
+
+Customizing Boards in Pipeline FAQ
+
+---
+
+How do I access the Pipeline board customization settings?
+
+Follow the steps below:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Pipeline from the Settings menu on the left.
+
+- Click the Customize boards tab on the Pipeline settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1641755909/39135ba80f73a928ad000ace439c/image.png?expires=1763568000&signature=fd0df330042a1854ace8f138f3f491d1c85fe6aed44d2a1fc2d7df3473bb7423&req=dSYjF857mIhfUPMW1HO4zT%2FTY7LYRIaAjNj%2BnAy1oJUUFXr7rwxubqqTOfie%0A5aQTj9UW3CxgiDdGaX0%3D%0A
+
+- Alternatively, you can access your Pipeline customization settings by clicking Pipeline in the top navigation bar.
+
+- Then, from the menu on the left side of the screen, click Customize boards to open your Pipeline board customization settings.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1641765316/58a424c06a90247c4f2b35fbec14/image.png?expires=1763568000&signature=d5c27a7554bc8026ff9b5c4a9e2df21e71ad4d1561165b632bdd3cc118bc9eca&req=dSYjF854mIJeX%2FMW1HO4zWxex5IpLm5HpN5vwH6SjZg3BDIXM8BzYbMQmbyz%0At2yFvgeDt%2FQbyDh3WCY%3D%0A
+
+---
+
+How can I customize existing columns and statuses?
+
+To customize existing columns and statuses:
+
+- Go to Pipeline in the top navigation bar of your Housecall Pro account on web.
+
+- From the menu on the left side of the screen, click Customize boards to open your Pipeline board customization settings.
+
+- You can select the board you want to customize by clicking Leads, Estimates, or Jobs at the top of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1641780554/e979d273edc101b3edc68973339f/image.png?expires=1763568000&signature=b5b2e78d6b37ac224d4b92c79b0f9b9598850791ae16653443271c2212870e20&req=dSYjF852nYRaXfMW1HO4zau9U0JhVUV4gwqDBMWYgFj29wN7UdjgtQ6aYf41%0AK95DeiRtZeDp%2FdQ0rac%3D%0A
+
+- Once you've selected the board you want to customize, you'll see all the available columns for that board.
+
+- Each column will be labeled at the top as either VISIBLE COLUMN or HIDDEN COLUMN.
+
+- Use the on/off toggle next to the name of each column to switch its visibility. Turning the toggle on will make the column VISIBLE, while turning the toggle off will make the column HIDDEN.
+
+[Image] https://downloads.intercomcdn.com/i/o/647664750/2984e5b19283420ec4e0d4d7/Screen+Recording+2023-01-06+at+2.33.15+PM.gif?expires=1763568000&signature=a017e9f73371ce6cccbc77fe018745de2712ba5b5962f8ce5a25bd58d59caf16&req=ciQgEM96moRfFb4f3HP0gCQB5JITSb21CNEqx9wcnt6%2FtqJAND5rg%2FFP2Gj4%0AQT2qlMtoCBM7hDbrbg%3D%3D%0A
+
+---
+
+How can I create custom columns?
+
+To create a custom column:
+
+- Go to Pipeline in the top navigation bar of your Housecall Pro account on web.
+
+- Select Customize boards from the left menu to open your Pipeline board customization settings.
+
+- On the customization screen, select the board you want to add a custom column to (Leads, Estimates, or Jobs) by clicking the respective tab at the top of the page.
+
+- Click the Add Column button in the upper-right section of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1590004590/010ceb30f685518abccdb3253cce/Customize+boards.png?expires=1763568000&signature=c606d9d320922b7ab0ede910bcb5182a748353e401163cbfdf3d43cca1411f25&req=dSUuFsl%2BmYRWWfMW1HO4zdZ08SJeVVeBhXkemVeUMCs%2BW36ZGztY1SVAc7d6%0AQd8MaRQAXIdP8peh1To%3D%0A
+
+- Enter a name for your custom column.
+
+- Choose where you'd like to place the new column, either to the left or right of an existing column.
+
+- Use the Select a column dropdown to pick which existing column your new column will be positioned next to.
+
+- Once you've made your selections, click Add, and your new column will appear on the customization screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1590011350/82eb5f7c32a5734d2f3345d481de/Add+column.png?expires=1763568000&signature=391f95b27dcdda0e5d0576b1db0530c43bc663170de306229cf41cd130ef0503&req=dSUuFsl%2FnIJaWfMW1HO4zaj6KBLBHTBZO%2BmLLKNjj4TXd3cbMgzGU8fevyws%0A9dehue%2BsM5yY3v3WlRU%3D%0A
+
+---
+
+How do I update or delete a custom column?
+
+To update or delete a custom column:
+
+- Go to Pipeline in the top navigation bar of your Housecall Pro account on web.
+
+- Select Customize boards from the left menu to open your Pipeline board customization settings.
+
+- On the customization screen, select the board you want to add a custom column to (Leads, Estimates, or Jobs) by clicking the respective tab at the top of the page.
+
+- Click the More icon (3 dots) in the top right corner of the column you'd like to edit or delete.
+
+- Select either Edit Column or Delete Column from the drop-down menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/700598678/fbd2109c2e7343c3096c7025/image.png?expires=1763568000&signature=120bf65a699b03e7f5a0f86e81cc9aea477a0f4626b5645ba4194cf29f2a765a&req=cyAnE8B2m4ZXFb4f3HP0gERnqrNUp8W%2FWqE%2F4MfRwteL0Hs5rnOHGQCdB%2BsM%0ADcEbNUzunx%2FoEa70DQ%3D%3D%0A
+
+- By selecting Edit Column, you can change the column's name, which will also update the status name.
+
+- Click Update on the status card to save your changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/1147253850/faa0e3e9d5092a2d953f73da/Screenshot+2024-08-15+at+4_07_02%E2%80%AFPM.png?expires=1763568000&signature=a0476334e8fb1824b0cd19e03945025a8f6327a1b5d38a88847d5efc3ecc7662&req=dSEjEct7nolaWfMW1HO4za4fCwbPexiyg8MAzG%2BzGjnQUtrhtnjtTPSncwsJ%0AG3WlMlMZh%2B7HW5RUTWE%3D%0A
+
+- If you choose Delete Column, a message will appear: - "By deleting this column, all the statuses inside of it will be removed as well. Are you sure you want to delete the column and contained child statuses?"
+
+- Click Yes, delete it to confirm the deletion.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1590086266/f9c7c520658c12a0d2fdbda6d93d/Screenshot+2025-06-26+at+12_50_04%E2%80%AFPM.png?expires=1763568000&signature=410793d13d842c14d3f12b88db4dcb38123b56352383e1a34ab9dfbc872acc25&req=dSUuFsl2m4NZX%2FMW1HO4zfCjhxAGLKRBl7OSUQPb%2BDO5Uo4V6YnPieznphGE%0AUvHetFfW%2BfiPWKvA62s%3D%0A
+
+- You can also move custom columns and their statuses by clicking the drag icon (four arrows) next to the on/off toggle in the status card.
+
+- Then, drag and drop to reposition entire columns, rearrange statuses within a column, or move statuses to a different column.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1642117034/f08d3abcb51a2b9c8a3ac7623f2c/ScreenRecording2025-07-28at11_27_25AM-ezgif_com-video-to-gif-converter.gif?expires=1763568000&signature=10658145f42deb8299aa1b6644b682818c82c3328e7d45053206eb04567bce9d&req=dSYjFMh%2FmoFcXfMW1HO4zSC8W9UbBBSJUFteMPmJY%2BcNAQDdtzyIepq7DJ2O%0AkfQvv5p0NDzZHLS0XQM%3D%0A
+
+---
+
+How can I create custom statuses?
+
+To create a custom status:
+
+- Go to Pipeline in the top navigation bar of your Housecall Pro account on web.
+
+- Select Customize boards from the left menu to open your Pipeline board customization settings.
+
+- On the customization screen, select the board you want to add a custom column to (Leads, Estimates, or Jobs) by clicking the respective tab at the top of the page.
+
+- To add a status to a column, click the + Add a status button at the bottom of the column where you want to add the status.
+
+- A new status field will appear. Enter the name of the status and then click Create.
+
+[Image] https://downloads.intercomcdn.com/i/o/970258065/4df3d7e1b2542fba348e19e7/image.png?expires=1763568000&signature=aacc63cf8c3b195c50940f1fe3aa532b213176b6dde390203d36e75da4111e45&req=fScnFMx2nYdaFb4f3HP0gIE6HZ2zpxeaJ0n3b4hPpqGwWiI9uP9MFMfVDbR5%0ARH%2Bv0Lx7o7qFn%2Fo9AQ%3D%3D%0A
+
+- Adding multiple statuses within a column allows you to track different stages or categories of progress more effectively.
+
+---
+
+How do I update or delete custom statuses?
+
+To update or delete a custom status:
+
+- Go to Pipeline in the top navigation bar of your Housecall Pro account on web.
+
+- Select Customize boards from the left menu to open your Pipeline board customization settings.
+
+- On the customization screen, select the board you want to add a custom column to (Leads, Estimates, or Jobs) by clicking the respective tab at the top of the page.
+
+- On the status you want to edit, click Edit custom status next to the pencil icon.
+
+- Here, you will have the option to rename or delete the status.
+
+- To rename, update the name field, and click Update.
+
+- To delete the status, click Delete.
+
+[Image] https://downloads.intercomcdn.com/i/o/970258622/7f5b9e997a1984e87de08282/image.png?expires=1763568000&signature=2b5b9daddda174d2c9415afa742095f95aef2a3cd60bc138e6840436bcc81a6d&req=fScnFMx2m4NdFb4f3HP0gFmTXFcTGLMwiyMInzZkUb%2FR3u9mPiPGRoqW9Dwc%0AOQDh9qtceF6ZoDVIIA%3D%3D%0A
+
+- When deleting, a message will appear: - "Are you sure you would like to delete this status?"
+
+- Click Yes, delete it to confirm.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1589988625/d488a788dac9390e2182dcc89290/Delete+status.png?expires=1763568000&signature=f6679396835a854415c1897a88c76b2823c2677849592db2f1260324248d6faf&req=dSUvH8B2lYddXPMW1HO4zRHa8pMieGcPCfK8jkyW22fseuNAWrECeyrTNFDc%0ArCIeKnRh49%2B5o5mXneU%3D%0A
+
+- If there is only one custom status in the custom column, you'll receive a message: - "This status is the only one in the column. By deleting this status, the column will be deleted as well. Do you want to delete both?"
+
+- Click Yes, delete it to delete both the custom status and the custom column.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1589990239/f5c8ce83987a776f4e80311b9c39/Confirm+deleting+column+and+status.png?expires=1763568000&signature=b60ee8a14f83f4c35872cf3856f5442fe10de54109fb89ad091446235cc4345b&req=dSUvH8B3nYNcUPMW1HO4zevXskMjR1tUR%2Bz05jbSdc0vd1suaSy9%2BYBEyvXZ%0AUGx9%2B%2B%2FLng8jmGH9ong%3D%0A
+
+---
+
+How do I turn off a status that is currently in use?
+
+To turn off a status that is currently in use:
+
+- Go to Pipeline in the top navigation bar of your Housecall Pro account on web.
+
+- Select Customize boards from the left menu to open your Pipeline board customization settings.
+
+- On the customization screen, select the board you want to add a custom column to (Leads, Estimates, or Jobs) by clicking the respective tab at the top of the page.
+
+- Start by navigating to the board containing the status you want to disable.
+
+- Click the Go to board button. This will take you directly to the chosen board in the Pipeline.
+- If the status you want to turn off displays the message: “To turn this status off, remove all cards and automations from it,” you will need to clear out any cards and disable related automations first.
+
+- To remove cards, click the Go to board button in the top right corner of the page, and either drag and drop the cards into a different status or use the status dropdown on each card to reassign them.
+
+- To turn off automations, go to Automations from the Pipeline tab or through Account Settings. Then, select the relevant board (Leads, Estimates, or Jobs) and review your list of automations. Use the toggle to disable any automations tied to the status you want to turn off.
+- Your changes will be saved automatically. After making these updates, return to the Customize boards page, select the board, and use the toggle next to the status to turn it off.
+
+---
+
+Video Guide: Customizing Boards with Preset Options
+
+[Video - loom] id=ae9bf8838c8f4f6cb19b25cde32f9bee
+
+---
+
+---
+
+Pipeline Boards FAQs
+
+---
+
+Does the Pipeline board automatically update when someone updates the Lead, Estimate, or Job details page?
+
+- Yes, the Pipeline board is synced with any actions that are taken on the Lead, Estimate, or Job itself.
+
+---
+
+Why aren't all of my Estimates and Jobs showing up on the Pipeline board?
+
+- We pre-populate any Estimates and Jobs that were created in the last 180 days.
+
+---
+
+What if a Job has more than one Segment?
+
+- Each Segment will show up as an individual card on the Pipeline Jobs Board and will move independently of the related segments.
+
+---
+
+What does the dollar amount on the Estimate card mean?
+
+- If the Estimate includes only one option, the number shown will reflect the total for that Estimate. If there are multiple options, it will display a range, from the lowest to the highest total.
+
+---
+
+What does the dollar amount on the Job card mean?
+
+- This is the total amount for that job or job segment.
+
+---
+
+What does the dollar amount at the top of the column mean?
+
+- This is the sum of all the dollar amounts in that column.
+
+---
+
+---
+
+Pipeline Automations FAQs
+
+Most automations are enabled by default and are designed to help keep your customers informed. They’ll trigger for any Leads, Estimates, or Jobs that meet the set conditions, but you can customize these defaults to better suit your workflow. To learn more about Pipeline Automations, check out Getting Started with Pipeline.
+
+---
+
+When does an Estimate go to the Archived list?
+
+Estimates are automatically sent to the Archived Items list under the following conditions:
+
+- The Estimate has been approved and copied to a Job.
+
+- The Estimate has been approved for 7 or more days (by default)
+
+- The Estimate has been declined for 7 or more days (by default)
+
+When does a job go to the Archived list?
+
+- By default, if a Job has been paid in full for 7 or more days.
+
+---
+
+How do I specify the timeframe for an automation if I want to use hours, weeks, or months?
+
+- To set the timeframe in hours, convert the hours into decimal form. For example, if you want a 6-hour delay, enter it as 0.25 days. If you're working with weeks or months, first convert them into days. For instance, 2 weeks should be entered as 14 days, and 3 months should be entered as approximately 90 days. For guidance on editing automations, please visit our help article here.
+
+---
+
+Will Pipeline send automation messages to customers who have notifications turned off?
+
+- When editing individual automation rules, you can check the box to Send to customer with notifications turned off. This setting applies across the board and cannot be customized for individual customers. For guidance on editing automations, please visit our help article here.
+
+---
+
+Why are the automations I have set up not going out for some Leads, Estimates, or Jobs?
+
+- The Job or Estimate will need to fall within the automation cadence you currently have set in order for the automation rules to be triggered.
+
+- For example, suppose you have two estimates—one sent out for the first time yesterday and the other three weeks ago. - If you set up a rule today to automatically resend estimates and move them to first follow-up two days after they are sent, this rule will only apply to the estimate sent yesterday. 
+- The estimate from three weeks ago is outside the rule’s timeframe, so the automation won’t apply to it. You would need to manually resend the older estimate.
+
+---
+
+Will the automated follow-ups be sent as SMS or email notifications?
+
+- The follow-up message will be sent as either an email or a text, depending on how the estimate was originally delivered.
+
+- If the estimate was sent with both text and email originally, then the follow-up message will get sent based on what was last sent out - if it was last sent as a text, the automation will send a text and vice versa.
+
+---
+
+---
+
+Mobile FAQ
+
+---
+
+Is Pipeline available on the Housecall Pro mobile app?
+
+- Yes, Pipeline is available on the Housecall Pro mobile app!
+
+To access Pipeline from the HCP mobile app on iOS:
+
+- Click More in the navigation bar at the bottom of your screen.
+
+- Select Pipeline from the menu.
+
+- You can then choose from your Leads, Estimates, or Jobs board.
+
+[Image] https://downloads.intercomcdn.com/i/o/683831929/a7cd1ac2179636403c3404ca/IMG_2539.png?expires=1763568000&signature=b132138534f5ee1012e61c2c3cfabb30726e4f44f442014eb7de93616ac7c68e&req=cigkHsp%2FlINWFb4f3HP0gGKUAuYgXodwCZwgAwpBU1Vdv7CYlQVUZThDDH3y%0AOHy%2BWpx3Oi8s3FeJ3g%3D%3D%0A
+
+To access Pipeline on an Android device:
+
+- Select Pipeline in the navigation bar at the bottom of your screen.
+
+- Select Leads, Estimates, or Jobs board.
+
+[Image] https://downloads.intercomcdn.com/i/o/660350946/7f76c3dabc5f79d530de4ab5/Screenshot_20230126-091826_HCP+Staging.jpg?expires=1763568000&signature=01fcbd5bef7fd2cfe262eb93f23fc8762d5196a5832072fe9c2ba2c9eab4f559&req=ciYnFcx%2BlIVZFb4f3HP0gGkS%2BhOzd0g8xdYylP7NJbvYfz9UIm6d4Y6l7Sqy%0AUM9jPyG8W13tt1DUUg%3D%3D%0A
+
+---
+
+Is Pipeline on Mobile similar to the web version?
+
+Yes, Pipeline on mobile is similar to the web version. Pipeline Mobile brings your Lead, Estimate, and Job boards to you wherever you are! You can view all boards just as you can on the web portal.
+
+In Pipeline on Mobile, you can:
+
+- Drag and drop Lead, Estimate, or Job cards to update their status.
+- Use the status dropdown on each card to change its status.
+- Swipe left or right to navigate between columns on your Lead, Estimate, or Job board.
+- Tap on a card to view its details.
+- Create new Leads, Estimates, or Jobs directly from their Pipeline board.
+
+Am I able to view my Archived items on Mobile?
+
+- At this time, archived items are only visible on the web portal. If you'd like to see an archived job or estimate, you can visit Pipeline on the web from your mobile browser or your computer. For more guidance on viewing archived items, please view our help article here.
+
+---
+
+Why can't my Field Techs see the Pipeline Board in their app?
+
+- Currently, Pipeline is only available for employees with Admin and Office Staff roles.
+
+---
+
+Can Field Techs change the Pipeline Board Status?
+
+- Field Techs do not have access to the Pipeline Board like Admins and Office Staff. However, actions taken from the Job or Estimate details pages in the mobile app will automatically update the Pipeline status.
+
+- While Field Techs can’t manually update the Pipeline status directly, their work on the mobile app still ensures that the Pipeline Board reflects the most up-to-date progress.
+
+---
+
+How do I update Leads, Jobs, and Estimates on mobile?
+
+Similar to the web version, you can drag or use the drop-down menu to update a status on Pipeline.
+
+To update Leads, Estimates, and Jobs on Mobile:
+
+- To drag, go to the Pipeline page on your mobile device using the steps here, choose the board you wish to update, and then hold your finger on the card you'd like to move. Drag your finger along the screen until you reach the appropriate column and then release.
+- To use the drop-down option, go to the Pipeline page on your mobile device using the steps here, navigate to the board you wish to update, and then click on the drop-down menu from the column you wish to update. Next, you can choose the correct status from the drop-down options. You should then see the card move to the corresponding column.
+
+---
+
+How do I create a Lead on Mobile?
+
+There are two options for creating a lead on Pipeline Mobile:
+
+- First, go to the Pipeline page on your mobile device using the steps here, and then you can click on the + button in the upper-right-hand corner of the Pipeline menu. This will navigate you to the create a new lead page.
+- Additionally, you can go to the Pipeline page on your mobile device using the steps here, and then click the + sign in the upper-right-hand corner of the leads board. This will navigate you directly to the create a new lead page.
+
+---
+
+Can I update my Automation settings on Mobile?
+
+- Currently, Automation settings can only be accessed via the web portal. The Pipeline automations are not available on the mobile app. For guidance on editing automations, please visit our help article here.
+
+---
+
+Can I personalize my columns and statuses on mobile?
+
+- You can only customize your columns and statuses via the web portal at this time. The Pipeline settings are not available on the mobile app. For more guidance on customizing columns and statuses, please view our help article here.
+
+---
+
+I'm having issues with the Pipeline on my mobile device, what do I do?
+
+- Please make sure you are using the most recent version of the Housecall Pro mobile app (turn on auto-updates to get new versions pushed to your phone). If you are on the latest version and still having issues, please chat with customer support via the Blue Chat Bubble with specific details on the issues you are having.
+
+---
+
+How do I provide feedback?
+
+- If you have feedback for other features you'd like to see on Pipeline Mobile, please chat into the blue bubble and ask to submit a 'Pro Vote'. Additionally, you can click the 'Give us Feedback' button on the main Pipeline menu.
+
+---
+
+---
+
+Other Pipeline FAQs
+
+---
+
+Does Pipeline integrate with other tools?
+
+- Job Inbox - leads from Job Inbox would get added to Pipeline once a lead, estimate, or job is created in Housecall Pro for them. Learn more about Job Inbox and their partners here.
+
+---
+
+What happens when a Lead is assigned to somebody within Pipeline? Does the assignee have a way to view their leads on the app?
+
+- The lead is visible in the pipeline and that list can be filtered down to the specific employee.
+
+---
+
+Can I create new Pipeline columns or rename existing columns?
+
+- Yes, you can create new columns as well as rename existing columns! Learn more about Pipeline Board Customization here.
+
+---
+
+How does HCP Assist interact with Pipeline?
+
+- Pipeline will work with HCP Assist with no conflicts, but note that while HCP Assist Agents can save leads, estimates, and jobs to Pipeline, the HCPA agent won’t be able to access Pipeline.
+
+---
+
+Is a Proposal sent from the Sales Proposal tool tied to the Pipeline?
+
+- Yes, that proposal will show up as an estimate in the sent column of the Pipeline. When a proposal gets sent it creates an estimate (not a Pipeline thing, this happens regardless of if they have Pipeline or not)
+
+---
+
+If a Pro has invoice reminders on and sends the invoice from the pipeline, will this still trigger the cadence for invoice reminders?
+
+- Yes, sending an invoice from the Pipeline will prompt those reminders to go out.
+
+---
+
+If a Pro calls a customer using Voice to follow up, does the Pipeline know to update the status of that job, lead, or estimate?
+
+- At the moment, the two features don’t communicate in that way. The pro would want to let the automation rules make changes to the job, lead or estimate, or make those changes manually when using Voice to follow up.
+
+---
+
+How can I add Pipeline to my account?
+
+- If you'd like to add Pipeline to your account, ensure that you're logged in to your Housecall Pro account, then follow this link to book a free demo: 
+​
+​https://www.housecallpro.com/features/pipeline/
+​
+
+---
+
+---
+
+Pipeline: Bulk Archive
+
+Learn how to quickly clean up messy data with the Bulk Archive feature in Pipeline!
+
+Managing your workflow efficiently is crucial for your productivity and customer satisfaction. To enhance your experience with our Pipeline feature, we are excited to introduce the new Bulk Archive functionality. This feature allows you to archive multiple items simultaneously within the table view, streamlining what has traditionally been a time-consuming part of managing your jobs, estimates, and leads.
+
+The Bulk Archive feature is part of our ongoing commitment to improving the functionality and usability of our Pipeline tool. By allowing you to efficiently manage your data, we hope to help you optimize your workflow, enhance your productivity, and ultimately drive greater satisfaction for you and your customers.
+
+---
+
+Benefits of Using Bulk Archive
+
+The Bulk Archive feature is designed to save you time and reduce the manual effort involved in managing your data. By enabling you to clean up your workspace quickly, you can focus more on high-value activities that drive your business forward. Here’s how Bulk Archive can enhance your workflow:
+
+- Reduce Clutter: Quickly clear out completed or outdated items from your list.
+- Increase Efficiency: Spend less time on administrative tasks and more on customer engagement and service.
+- Improve Organization: Maintain a cleaner and more organized table view, making it easier to focus on current priorities.
+
+---
+
+How to Access and Use Bulk Archive
+
+Using the Bulk Archive feature is simple. Here’s a step-by-step guide to help you get started:
+
+- Access the Table View: Navigate to the Pipeline feature in your Housecall Pro dashboard and switch to the Table View, where your items are displayed.
+
+[Image] https://downloads.intercomcdn.com/i/o/1167773303/aeda85fa529daed61dc0eccf/Bulk+Archive+1.gif?expires=1763568000&signature=f20d6573bb51eaea642997fedfe6f504125c326e1b15c07b37467153d894cdfe&req=dSEhEc55noJfWvMW1HO4zVxhCHtUMkgmbnf8yfw2JPjMaEPu1eAnMnkFT60w%0A5gGYz5Yv%2FiGGbSqR1RI%3D%0A
+
+- Select Items: Check the boxes next to the items you want to archive. You can select as many items as you need.
+
+[Image] https://downloads.intercomcdn.com/i/o/1167777572/10c9d066ec5725228e6b4b1d/Bulk+Archive+2.gif?expires=1763568000&signature=ca79757543ad2e648e422471b9df18db6fd3f21b41fc85a3803bff9c43d17c58&req=dSEhEc55moRYW%2FMW1HO4zUyMkCQLAxq6Kmy5j0qVOfGBD18dg5B0TYrV5xno%0ADQ5df%2B5laNEZjIxVYB8%3D%0A
+
+- Initiate Bulk Archive: Look for the 'Bulk Actions' menu at the top of the list. Click on it and select 'Archive' from the dropdown options. You will be prompted to confirm your action. Once you confirm, all selected items will be moved to the archive.
+
+[Image] https://downloads.intercomcdn.com/i/o/1167779975/290610e430ebced88d697ae4/Bulk+Archive+3.gif?expires=1763568000&signature=a2001db816d5ff413abf93c40153cd40baa765c76a67572687aeceab1f24a9c1&req=dSEhEc55lIhYXPMW1HO4zVnYqEuTksw3fcV0ebp%2F0yicpfHdiURhGpEPy0iK%0AOR7TGJZ%2FvDUlY0Zpr5s%3D%0A
+
+- Review Archived Items: If you need to review archived items, you can access them by selecting the 'Archived items' view on the left hand side of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/1167784529/ee3f6cd73ed3dbf9c732cd1b/Bulk+Archive+4.gif?expires=1763568000&signature=f44e1027dfbb9ca8f147d023e874765d1960db86f84f6850cbe486ff3c3a9481&req=dSEhEc52mYRdUPMW1HO4zRx9UGN3ZHVVXXoxBqLt1uUqPajRM%2BfCeGxwOYOt%0AfkPjdd%2FRuq4VE3XZUrs%3D%0A
+
+---
+
+Best Practices
+
+To make the most out of the Bulk Archive feature, consider the following tips:
+
+- Regular Cleanup: Schedule regular times to review and archive completed or inactive items to keep your list manageable.
+
+- Archive in Batches: Group related items (e.g., completed jobs, old leads) and archive them together to maintain continuity and organization.
+
+- Use Filters: Utilize filters to sort items before archiving to ensure that no active or necessary items are accidentally archived.
+
+---
+
+Pipeline to Profit Webinar
+
+Want to master this feature? Watch our Pipeline to Profit webinar for an in-depth demo of Pipeline in action—including boards, automations, reporting, and reactivation strategies—with SuperPros showing exactly how they manage estimates and keep work moving forward.
+
+[Video - youtube] https://www.youtube.com/watch?v=dwIcs6V2J4M
+
+---

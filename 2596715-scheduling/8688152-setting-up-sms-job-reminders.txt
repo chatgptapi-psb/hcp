@@ -1,0 +1,135 @@
+Setting Up SMS Job Reminders
+Source: https://help.housecallpro.com/en/articles/8688152-setting-up-sms-job-reminders
+Author: Nate H
+Last updated: Updated over 3 weeks ago
+
+Summary: Set up and customize automated text messages to remind customers of their upcoming job.
+
+Enable SMS Job Reminders
+
+To enable SMS job reminders, follow the steps below:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Jobs from the Settings menu on the left.
+
+- Click the General tab on the Jobs settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1636595380/c8e12b6a33b97c6e79d7cfc6178b/image.png?expires=1763568000&signature=b5d98ef2aaea125217437aa5bc6cfe8a55a2c57e76a486b8f56e4d0ae3d2bce8&req=dSYkEMx3mIJXWfMW1HO4zavBehoblwflPjuEDQa3AJmusiW2wxFR860OQDF0%0AjioQ1FYhgEDrKIXrKcw%3D%0A
+
+- SMS job reminders will be toggled off by default.
+
+- Click the gray toggle under Set SMS reminders to enable job reminders. The toggle will turn blue when enabled.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1636616601/53c831b2b49f232de715364d349e/image.png?expires=1763568000&signature=673441f05ec974baebf9cde1a9d3b4e8d491ca976ad3356acb8b123a3c067237&req=dSYkEM9%2Fm4dfWPMW1HO4zYKI3n58HkraRVd7raLKQ1WPmfl%2BtGRvCafDmeJO%0Atj8wukisHYC5w0GN%2FO8%3D%0A
+
+---
+
+Customize When SMS Job Reminders Are Sent
+
+By default, SMS reminders are set to send at 9:00 AM, 1 day before the job. You can change this at any time by following the steps below!
+
+To adjust when SMS job reminders are sent to your customers:
+
+- Navigate to the SMS reminders settings page.
+
+- Click the pencil icon to the right of the Set SMS reminders section.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1744588222/037f6fd86a693f51193f4e355438/Screenshot+2025-09-25+at+12_58_51%E2%80%AFPM.png?expires=1763568000&signature=d8d8f51e7d579b3b3623e0524500c2f51ab8751c0d29bfb2576d3aa8b8cf060b&req=dScjEsx2lYNdW%2FMW1HO4zT1bWiRmpvkl0QxSiBiF4SFpLsUSm1fjB9QLO2dn%0AHC0sW2kPsflmSDv8Pvo%3D%0A
+
+- Under Time before appointment, choose how many days before the job you'd like the reminder to be sent.
+
+- Under Time to send, select the time the reminder should be sent.
+
+- Click Save, and that's it!
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1744586978/7df7e756f6fcca2e0c0e308101a8/Screenshot+2025-09-25+at+1_00_46%E2%80%AFPM.png?expires=1763568000&signature=1d45e6f2b09ef855d97c85410f00d129f7be41c351fa68d01dc54cbad73217cb&req=dScjEsx2m4hYUfMW1HO4za1cdD8wSNyDNlit6ynmDfEkpjgF16oepG1HUbwP%0AOeX%2BT96LqU4L2mJdqsU%3D%0A
+
+---
+
+Customize Your SMS Job Reminder Message
+
+Customizing your Job reminder SMS message allows you to tailor the information according to which aspects of the upcoming job you wish to show or hide.
+
+The default message format is set up as:
+
+- "Hi [Customer first name], [Tech first name] [Tech last name] from [Company name] is scheduled to arrive [Job date] at [Job time]."
+
+To customize your SMS Job Reminders:
+
+- Navigate to the SMS reminders settings page.
+
+- Click the pencil icon to the right of the SMS preview section within the Job Reminders settings.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1636620588/a22d06a0ec772639c5667a3f9552/image.png?expires=1763568000&signature=fdc36646ddb20c9663208a4bcc60ebbce29e69f4a8411f57f455c1726f713af0&req=dSYkEM98nYRXUfMW1HO4zRKMdOs5pdEvaKf1yexF4HOk%2BuUqCA7o%2Bq1HJizT%0AmFVVuPGuSm75XfvL6%2Fw%3D%0A
+
+- Here you will see your default SMS settings with pre-formatted variables, which you can either keep or remove from the message by clicking the X icon next to the variable.
+
+- To add variables, click the Add variable drop-down in the Edit SMS window and select the variables you wish to include in your job reminder.
+
+- Variables available to add or remove: - Company name
+- Customer first name
+- Invoice number
+- Job date
+- Job time
+- Tech first name
+- Tech last name 
+- Service address
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1803409475/091858e99fc02ba22af401e3ec54/image.png?expires=1763568000&signature=f9ef277f3a0ad89419da8612b47ca7e8a48216bd42469c25327dd50258db9d13&req=dSgnFc1%2BlIVYXPMW1HO4zVl7I3zyRhaUrWFidryhUBliY0x8ZCx%2BIriSit1c%0A2gP9BquF2vDmqBEIA4M%3D%0A
+
+- You also have the option to edit the text surrounding the variables. For example, you may wish to start the message with "Hello" instead of "Hi."
+​ - To do this, simply delete the text you want to remove and type in the text you would like to be displayed in your SMS job reminders. 
+​
+- When you have proofread your job reminder message and you are happy with how it will look, click the blue Save button.
+
+---
+
+Preview Your SMS Job Reminder Message
+
+To preview your SMS Job Reminder message:
+
+- Navigate to your SMS reminder settings.
+
+- Click Preview under the Set SMS reminders section, to the left of the SMS job reminder toggle.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1636707794/e242cea17a5e4b28483ccc34e575/image.png?expires=1763568000&signature=4d311e740a127c06e14ea6a3609fc1c461c5086f178582cc7020ebe7f0fe6a24&req=dSYkEM5%2BmoZWXfMW1HO4zdWLHPwy1la%2F84vXqfDv0NS1agSi9xBDx196QrlI%0AGP5jYd2NAzAK%2B0z85RY%3D%0A
+
+- The SMS job reminder preview window will then appear on your screen.
+
+- To close the window, click Close.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1636709226/130f4925fd99b22b29ed16f49eee/image.png?expires=1763568000&signature=9ce452feaf322044f049e5d9ce80467b6e7935200802b2070dd7334c5db014a6&req=dSYkEM5%2BlINdX%2FMW1HO4zVmQ0LkmiP7yR7YQbu%2Bmpn9kjy402%2BDvSsYtCq0F%0ACfMQz6NxX98RFUBd%2BvU%3D%0A
+
+---
+
+SMS Job Reminder FAQs
+
+Are these reminders sent for estimates as well?
+
+- No, the SMS job reminders are currently only sent for jobs at this time. 
+​
+
+What happens when 'Send to customers with notifications off' is toggled on?
+
+- Even if specific customers have turned off their notifications, when the toggle is on, this will override that setting, and the SMS job reminder will still go out.
+
+- Learn more about turning customer notifications off here.
+
+I am not currently approved to send SMS. What does that mean?
+
+- Each organization must have a custom number in order to send SMS messages to customers. This includes SMS job reminders. Additionally, there is a registration process that all organizations must go through before choosing a custom SMS number.
+
+- Learn more about setting up your Texting Number.
+​
+
+I have all the settings turned on, and my customer is still not receiving their reminders.
+
+- Customers have the option to opt out of SMS communications, so if a customer is not receiving job reminders and your SMS job reminder setting is toggled on, the customer may have opted out of SMS communications. They can always respond to the original message with START to be able to receive messages from you again. 
+​
+
+How do I send email reminders?
+
+- Email reminders can be set up through the Email Automations app in Housecall Pro.
+
+---

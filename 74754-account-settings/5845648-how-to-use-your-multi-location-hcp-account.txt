@@ -1,0 +1,196 @@
+How to Use Your Multi-Location HCP Account
+Source: https://help.housecallpro.com/en/articles/5845648-how-to-use-your-multi-location-hcp-account
+Author: Alyssa Moretti
+Last updated: Updated over a month ago
+
+Summary: Learn how to set up your employees and account information in both Parent and Child companies within your multi-location HCP account.
+
+Multi-Location Accounts
+
+If you are using or thinking about using a multi-location HCP account then chances are you have multiple​​ divisions that operate under one business (think: locations or independently run departments) or you own or work for a corporate franchise. As the business owner, having a multi-location account makes it easier to navigate between divisions to set up employees, schedule & dispatch jobs, or run reports. This article will go over the basic setup and information needed to successfully run your multi-location account.
+
+---
+
+Basic Navigation
+
+Within each multi-location account, there exists one parent account, with multiple child accounts under that umbrella. As an admin on the parent account, I might need to quickly navigate between companies.
+
+- First, click into your company icon at the top of your HCP screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/562295184/c337e450f8cd4c4c58ea37b3/22445F83-582E-4DEE-A52A-6016A95812C5.jpeg?expires=1763567100&signature=f894123b07a1bfd98b5a62a9172862ad11464d5df0c8cb8fb082ae77e19ed7c3&req=cSYlFMB7nIlbFb4f3HP0gBy%2BRJWEd%2BomMENiH44QWsFzA6rULeyLX9CtPJDq%0ADIhOBM3JrRsk9462Lw%3D%3D%0A
+
+- This will open up a dropdown menu of your parent account with any attached child accounts.
+
+- Simply click into any of the accounts to be brought to that company’s individual HCP account. Now, any scheduling, account setup, or changes will only happen within this child account.
+
+[Image] https://downloads.intercomcdn.com/i/o/562280219/e5e39768c4f5830bb7fc2112/1B54A8FD-BFD4-4504-97A3-04F3DB16DF80.jpeg?expires=1763567100&signature=9d62b531fbfeb29f56f8d32e94d6bb900be8cb5041e390bd19b96b2b9c6cd707&req=cSYlFMF%2Bn4BWFb4f3HP0gH2T4MRCdbGW%2B0wmCjKqyqh2v0AW6HtIFQehuZAp%0AdxYG6Mkmb19HuRHrIA%3D%3D%0A
+
+---
+
+Adding Employees
+
+In any multi-location setup, there are two options for adding employees. Admin Employees added at the parent account level will have access to ALL child accounts, while employees added at the child account will only have access to that specific HCP organization. If you are brand new to employee setup, check out this article:
+
+Parent account employees
+
+When adding an employee who needs access to ALL companies in HCP, first make sure you are in the parent account. Use the steps above to navigate to the parent page (this might be named “franchise,” “corporate headquarters,” “parent” or “admin”)
+
+All employees must be added as an Admin/Owner in order to perform functions in the child accounts.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/440485086/27b7958709ac292c2b8a1f45/EWVJuHw2R4U8L9RVNuYRbz4oSHbko9FW7FbwBs4L8LtFOfLirgaDcKxWg-HIjL-9yj43EUARlJmynp8Ec9VD95fRlb6Rf1Po8RhYS5L2VmHtQHW7nj2-r5DXQv0aFlALpxqMTWMx?expires=1763567100&signature=a02654d7864cb9548f265eb654af02abf5578f18214d3289016112e884b241e0&req=cCQnEsF7nYlZFb4f3HP0gLphWNssuOJ2QVSttFT9Lf4SkeWFCfED8DvCwtMX%0AgunHBxHeQfjjfO%2BotA%3D%3D%0A
+
+If an employee was set up at this level, and still do not see child companies or data within those companies, use the blue chat bubble to reach out to HCP Support so we can relink the employee record.
+
+Child account employees
+
+Again, to add an employee within a specific account, first navigate to that child account. Employees added this way will only see information from their specific location and will not be able to navigate to other accounts. This includes any admins set up at the child level.
+
+If a tech needs to perform jobs at multiple locations, or another employee needs access to more than one location, they will need to be added as employees in EACH child account.
+
+Every login needs a unique email address, so if an employee needs access to multiple companies, and they aren’t set up at a parent level, they will need to use a unique email address at each location.
+
+If the employee uses a gmail address, they can simply add +1, +2, etc before the @ symbol. Example: if my email address was “allstarplumber@plumbing.com” I could use “allstarplumber+1@plumbing.com” as a separate login to another company (all password reset information and additional emails be sent to the primary email address).
+
+[Image] https://downloads.intercomcdn.com/i/o/562290879/6e1646923408b2a7668dcf0b/4A18CD1A-C15F-4631-8848-EAC7B2A1746C.jpeg?expires=1763567100&signature=c05ad4969fc40b6088f6d3854716e4264f3726d98a7d25d7e8047a65a7b8960f&req=cSYlFMB%2BlYZWFb4f3HP0gAB%2FGB38LF2YUYGewbAG%2BaxzAVTEVjx2yKXKePQ5%0AkQI22gHv6IFA26jBsQ%3D%3D%0A
+
+---
+
+My Money and Pricebook
+
+Each child account behaves like any other HCP account, meaning, pricebook and banking information will need to be set up in each account. Child accounts will not be able to pull services or materials set up in a different child location or the parent account. However, pricebooks can be identical in each account, and the same banking information can be used in multiple or all accounts.
+
+Consumer Financing will also be set up within each individual child account. However, if a child account is approved for financing, so will each of the other child accounts. If data is integrated with Quickbooks, each child account will need to have a unique Quickbooks Online or Desktop Account.
+
+For more information on setting up your child accounts, check out these article:
+
+My Money Overview
+
+Wisetack Consumer Financing
+
+QuickBooks Online Integration Overview
+
+---
+
+Scheduling, Estimates and Jobs
+
+Much like with Pricebook and My Money, any customer, job and scheduling information will be unique to each child account. Any admin set up in a parent account will need to navigate to the specific child account in order to retrieve job information or utilize the schedule.
+
+For any employee set up at a child account level, scheduling or creating new estimates and jobs will be identical to any other HCP account. For more information click here.
+
+Online Booking will also be a unique link and setup for each child company. Click here for online booking setup help.
+
+---
+
+Service Area for Franchises (Multi-Location Accounts)
+
+The Account Look Up by Zip Code feature is now available for all Franchise organizations. This feature allows Pros to quickly find the right franchisee by entering the relevant zip code.
+
+Set up the Service Area
+
+To make the franchise searchable by zip code, the service area for each child/ franchisee account must be configured from the settings of each account. 
+​
+Only account Admins can add service area zip codes to the company settings.
+
+- From your Housecall Pro account on the Desktop, navigate to the franchise you wish to add a service area to by clicking into the company logo in the top left of the screen, followed by the applicable franchise account.
+
+- Click the gear icon located in the top right corner of your HCP account on web.
+
+- Your Company settings will appear in the menu on the left-hand side of the screen. Select the Service area tab at the top of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1766366124/e3d3b362db58ae410897bf0f7c0b/Screenshot+2025-10-07+at+2_26_37%E2%80%AFPM.png?expires=1763567100&signature=db6d032b23dd91e724b4171cdbde7ef7e994a31dbe104c2ac9995fbc2c488584&req=dSchEMp4m4BdXfMW1HO4zSx18itDt%2F6cCoeasJZURP3%2BVRQM34nI6flbFZbj%0A3VHLt8k2IwlJuDbNUAg%3D%0A
+
+- Click the Add service zone button on the right side of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1766369104/d8cf940550158ce2b96c00244eaa/Screenshot+2025-10-07+at+2_28_27%E2%80%AFPM.png?expires=1763567100&signature=1ef549d6b6a0443b2257f710e227a6e7cbfada06f13f14e01ca8ac02a76d687e&req=dSchEMp4lIBfXfMW1HO4zZ0936qFex0AbLExZzvmjyaMwe7U%2BYNHIdmpJfyM%0AvY8MheXWRsY2TGPhnCI%3D%0A
+
+- Enter a Service area name and type the applicable zip codes into the Customize by zip codes and city field on the Service Area settings page. - Include any zip codes within the operational area of the franchise account you are working in. To add multiple zip codes in one go, ensure they are separated by commas before hitting Enter on your keyboard.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1766379724/e64bb21511a5181b8b4253bdc965/Screenshot+2025-10-07+at+2_33_08%E2%80%AFPM.png?expires=1763567100&signature=a0152ef62c283a1e862aef23a57a901c5bfb8b873c27e15d5c9476e066f7a347&req=dSchEMp5lIZdXfMW1HO4zRrNC5SbovQmvrhYGO9E3QlpCUGGKBkGsuaRKAX%2B%0AxU5kfYASh65oSXJStzY%3D%0A
+
+Account Lookup by Zip Code
+
+Once the zip codes are set up for each franchise account, you can start using the Account Lookup by zip code feature on the parent account right away.
+
+- From your parent account on the Desktop, select the company logo in the top left of the screen, followed by Filter Franchises, located at the top of the drop-down menu.
+​
+- Filtering will provide two methods of searching for the right franchise, by franchise name, or by service area zip code. To search by service area zip code, simply enter the zip code into the search box, and it will display the franchisee account that matches that zip code.
+
+[Image] https://downloads.intercomcdn.com/i/o/809764032/319af2939e12957a1f11f7de/image.png?expires=1763567100&signature=3388f4e6d45bb4fdad2e21b464200642659d46f1eadafd35aba0b5ccda6d1104&req=fCAuEc96nYJdFb4f3HP0gAHpA9ytpTKZbSKw1VS4Lm4DlXaJR89ah%2FjRsoY%2F%0AgD6MYIKjwESJX7TpeA%3D%3D%0A
+
+---
+
+Multi-location/Franchise Reporting
+
+Report across all of your child locations
+
+Franchisors or Housecall Pro Admins with child locations have access to data across all of their franchisees (child locations) on the reporting tab. All estimates and jobs reports reflect aggregated metrics across locations, allow for filtering by location, and show the location name in the drill-down tables.
+
+Getting started
+
+Select the Reporting tab, located at the top of your HCP in your navigation bar.
+
+[Image] https://downloads.intercomcdn.com/i/o/1115542790/ee3ca7cf4679a91ddee5feea/Screenshot+2024-07-16+at+11_31_37%E2%80%AFAM.png?expires=1763567100&signature=9d4f06ae1f23d50efe734f254c667723a53771b4bf94821a15eaca0f5d3333e9&req=dSEmE8x6n4ZWWfMW1HO4zVuowSKUAM7UoCgb7SsWzliXFwfcCm1Dzt2kq4mf%0AXmtkFpTZk5AOhiK%2FFlg%3D%0A
+
+Open any jobs or estimates report located on the right sidebar within the reporting tab menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/1115758228/d86a5e93ebf298d53bbe5fec/Screenshot+2024-07-16+at+3_50_01%E2%80%AFPM.png?expires=1763567100&signature=90ad813b0f7e43e14d0bd4ae43ef500539c97a2255f58854518d41611aba12b4&req=dSEmE857lYNdUfMW1HO4zZmBZA0xyb2D7l%2BgYoPFPHmn%2BjUcZv12m9E%2BaMT7%0Abbhc6CM4H5MPGbkA4Rs%3D%0A
+
+The report metrics are now updated to consider data across all your child organizations. Any metrics that you view in a jobs or estimates report will show these aggregate metrics until you apply a filter to update the data.
+
+Filter by Location Name
+
+If you'd like to see data for a subset of your locations, you can apply a location-based filter.
+
+Apply filters by clicking on the blue MANAGE FILTERS button located at the bottom left of the report graph. Use the Location(s) drop-down at the top of the pop-up menu on the right to select the location(s) you want to consider in the report. Your report will update to show data only for the selected locations.
+
+[Image] https://downloads.intercomcdn.com/i/o/607899316/227272f5f064b413b485f23f/franchise+filter.gif?expires=1763567100&signature=2ee56eda2612f96913d83005ec218b89d9200e6c89e87b89f8b7da722b4c5310&req=ciAgHsB3noBZFb4f3HP0gEq30bX86wxlgXCAr1Q6ALMV%2FkHDygl9MamhZ3a4%0Ays1jRfnLbTg8%2FVmQ2A%3D%3D%0A
+
+Group by Location Name
+
+Any jobs or estimates report can be grouped by location name to see metrics summarized by location.
+
+To group a report by location name, click on the blue EDIT COLUMNS button located at the bottom right of the report graph and select Location name in the group by drop-down menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/607901341/2c54a89f43a94369a25c054f/franchise+group+by.gif?expires=1763567100&signature=45727fb7ad50ae2811a4fc192af2343e8e04b15f5732eec17980419535fb4e1c&req=ciAgH8l%2FnoVeFb4f3HP0gBf68mCdWXnZaF46jcxkNDYtG1avD1%2BR%2BMrQSkyG%0ABnF80mKfluFZa0kOXA%3D%3D%0A
+
+Drill down to see location name by job or estimate and export
+
+You can click on any row in a job or estimates report to drill down into the details. Once on the drill-down page, you can view the location name associated with each job or estimate by adding the Location name as a column in the drill-down table.
+
+To add location name as a column in the drill-down table, click on the blue EDIT COLUMNS button located at the bottom right of the report graph and select Location name as a column.
+
+To export the list of jobs or estimates with location name, click on the blue EXPORT option at the top right and the file will be emailed to you.
+
+[Image] https://downloads.intercomcdn.com/i/o/607910712/9c403a22f4ca0f1cdeecd4b0/drill+down.gif?expires=1763567100&signature=e1df77506aac386eb40f70db12d5539666dcbb5933995d3b45468eb1839c1c72&req=ciAgH8h%2BmoBdFb4f3HP0gIN03t1q78FH4xaho62cfX0TtClZH%2FspRPTP2lkF%0Av7UMtPOVMNUJneiKMg%3D%3D%0A
+
+---
+
+Multi-location/Franchise Customer List
+
+Franchise & Multi-location organizations can now see all of their child accounts' customers from the parent account, eliminating the need to log into each child account individually. You will now see a single list that includes customers from all child accounts that are related to the parent account.
+
+How to access the rolled-up customer list:
+
+- Log in to your parent (headquarters) account.
+- Click on Customers from the main navigation.
+
+How to view customer locations:
+
+- Each customer in the list includes a Location column that shows which child account they belong to.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/h6f82l2e/1513274983/d93af686709d731f156e5904b2d5/AD_4nXef1eth7SrITJPYLi8vFtZ5j6ifn6OfS3d5fpoFXohrAmnKk03PrymCGYWXqf2Oz0IecAiaG6bF5ohGYyNcRG4oxVCSZeelvi8PgKqDQ6N90EdspbLkFevU1VpSum7ioimV2WyMVg?expires=1763567100&signature=9ffef20b5aca2cc8d51a0c469d5631ebde3ca83452bd62af21eb95edc5e2fdf6&req=dSUmFct5mYhXWvMW1HO4zXq36hRLKyKjkU7x7mj08NrDjk1hDKTOjh5YyzO7%0ARcAVaQGRaWWfHsOZa1k%3D%0A
+
+How to filter by location:
+
+- Click on Filter at the top of the customer list.
+- Use the Location(s) dropdown to select one or more specific locations.
+
+---
+
+Set Up a Multi-Location Account
+
+Interested in setting up a Mutli-location account?
+
+Chat with Support to speak with one of our Success Advisors!
+
+---

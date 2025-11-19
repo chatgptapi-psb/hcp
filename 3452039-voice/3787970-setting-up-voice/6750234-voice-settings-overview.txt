@@ -1,0 +1,735 @@
+Voice Settings Overview
+Source: https://help.housecallpro.com/en/articles/6750234-voice-settings-overview
+Author: Roland Ligtenberg
+Last updated: Updated over 3 weeks ago
+
+Summary: Deep dive into the Voice settings page
+
+Access Your Voice Settings
+
+To access your Voice settings, follow these steps:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Communications from the Settings menu on the left.
+
+- Click the tabs at the top of the Communications settings page to open different Voice settings.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1652962435/7055bb782c098df55e57e3cdea9c/image.png?expires=1763568000&signature=83610ea0c7e72840930ced1543ced37e3f73d04fc5f39199ef5b571967f00524&req=dSYiFMB4n4VcXPMW1HO4zRzhax6bHxsZxKUgo23DeoWojWqc34xD79ANsJw5%0Akm7A3r%2B20fzcsL1N%2FpY%3D%0A
+
+---
+
+---
+
+Phone Numbers
+
+Your Phone numbers settings page allows you to set up, view, and manage all of your phone numbers, including your Main Business Line.
+
+---
+
+Purchasing Your Main Business Line
+
+- When starting your onboarding to Voice, you have the option to purchase a business line for your business.
+
+[Image] https://downloads.intercomcdn.com/i/o/1186418274/833a3f74e0fc0bfd5f4180cc/image.png?expires=1763568000&signature=665b39f77227deb71641accab600294762407c43b6ae9c7dc9e5fc418fe43a69&req=dSEvEM1%2FlYNYXfMW1HO4zfNOiadFvpE1ZO8n%2BqMzD%2FjTkHkI7yyBaSu4y18r%0AJGNEDBrO1BYt%2FQe2A1k%3D%0A
+
+- If you choose to purchase a business line, you will be prompted to enter your desired area code and select a phone number.
+
+[Image] https://downloads.intercomcdn.com/i/o/1186420925/27712e5d2d0824bd748b2f11/image.png?expires=1763568000&signature=0de54989a7dc04751b9ec220fe494deff8308bbfd1905ba0f938d54cdadd9906&req=dSEvEM18nYhdXPMW1HO4zb55uWbq8x2i5giORAxciETls5mvINxUhsNVuwmr%0AiIl3oh5pbBiL5eHoO%2BE%3D%0A
+
+- Your Main Business Line will then be available to add to your call flows and begin making and receiving calls.
+
+[Image] https://downloads.intercomcdn.com/i/o/1186422840/a4f44f6af3fc9f28eeed48c5/image.png?expires=1763568000&signature=22b9a1f2f77214cede523a889d135be881b6fea8c9a334c7356a669ed839edf7&req=dSEvEM18n4lbWfMW1HO4zdSXHV5cWSXlM5ZrjS4Px%2BQW%2BYI0jz3%2Bho4bfcKE%0AwlttyrA%2F4Gnoelu0SmE%3D%0A
+
+---
+
+Porting Your Main Business Line
+
+- If you already have a business line you'd like to bring into your HCP account, you can do so by selecting the Yes option for the question, "Do you have an existing business number, and/or tracking numbers?" when onboarding to Voice.
+
+[Image] https://downloads.intercomcdn.com/i/o/1186409658/862d511081f46ac17581b77d/image.png?expires=1763568000&signature=83907fcdafc332409ef67a418db7666e8c53ea93db2af0766a85f1916ff6525d&req=dSEvEM1%2BlIdaUfMW1HO4zcfT7WXO5HVLo5ijkAk0C0XHT81Ag9KGLtOiN68o%0A%2BdkTRt%2F4mdKXrhda2jc%3D%0A
+
+- If you choose to port your existing business phone number, you will be prompted to fill out and submit a Letter of Authorization (LOA) as well as upload your phone bill.
+
+[Image] https://downloads.intercomcdn.com/i/o/1186412373/6d93136fe4a574700b7631d1/image.png?expires=1763568000&signature=fe035a9c614eaf30eeea66015ea625575be8f38befc29a6af87b3fd134f05b84&req=dSEvEM1%2Fn4JYWvMW1HO4zUpjfTEV0YLt4xEbP4YIdwP7xez%2FVDoemeYkqdBK%0Aep9XVUjDzzmHMmjcz%2FM%3D%0A
+
+- Once porting is complete, the number identified as your Main Business Line on the LOA will automatically be set as your Main Business Line.
+
+- You will then be able to add your business line to a call flow and start making and receiving calls in Housecall Pro!
+
+---
+
+Primary Number Onboarding
+
+- During the Get started phase of onboarding to Voice, you will be prompted to select a Primary Number.
+
+[Image] https://downloads.intercomcdn.com/i/o/1185027750/a69efc125191132b7f27f725/image.png?expires=1763568000&signature=b2f96a33530e9737fde031594247666c59dc63f1dfa976b60ef2951bb43ea41c&req=dSEvE8l8moZaWfMW1HO4zeh7efG1F4mWDmx9IKYOfZ6p1F%2FNgsRhdTDjz5GT%0AKcHRX2P7P5cxCYqN6WE%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/1185028883/55a0a2e8a01fa6b39b0fc881/image.png?expires=1763568000&signature=70333f7517d97daa38d4b6dac9d3eec5e4c41e50466623867148cb70a8629927&req=dSEvE8l8lYlXWvMW1HO4zcbbNu9c%2BzoiclOvyFN%2FgmyjDktcAZg0okUtHJuH%0AdzCbSvE6A5mvmCgmgHM%3D%0A
+
+- Once your onboarding is complete, you will find your Primary Number on your phone number settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1665199960/ba5c3490e78557312977092d2450/image.png?expires=1763568000&signature=220ad60af00b0d30ed456c4787faa2c4f0b9bc550d19204bf476a3ba3c34fa11&req=dSYhE8h3lIhZWfMW1HO4zRcYaI1XO9EQUlamLxPlzABOd%2B%2BBWm8j%2BqM2Igw%2F%0AoFLD01q4qzI7COk6hcg%3D%0A
+
+---
+
+How We Use Your Primary Number
+
+- Your primary number will be used for all calls and texts! This includes your automated texts like invoices and estimates, as well as your SMS campaigns through the Marketing Center product.
+
+---
+
+Porting Your Primary Number
+
+- After you complete your onboarding to the Voice feature, you will have the opportunity to port any existing business numbers.
+
+- Once porting is complete, the phone number you initially selected will become a Call Tracking Number, and the number identified in your LOA as primary will become your Primary Number.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1652972588/e3ee319b817f6ef8b8e66fb5de62/image.png?expires=1763568000&signature=23f55c9432f5071350a040174eb843d159dc2495334169cf97fe8abd5a057ec4&req=dSYiFMB5n4RXUfMW1HO4za4QkURfKt5iNhKcvTSL8fC21Agaj0R0pgdR8QQS%0ANZ9bRKa7gsUburpG85I%3D%0A
+
+---
+
+Get a New Call Tracking Number
+
+To get a new call tracking number, follow these steps:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Communications from the Settings menu on the left.
+
+- Click the Phone Numbers tab in the Communications settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1652981804/b31b0e996a669bcf22c099beb495/image.png?expires=1763568000&signature=75af8fbbdc7369f56bab6e16751873ecb35bfe8d0f858720f2b7e7807222c999&req=dSYiFMB2nIlfXfMW1HO4zXZsspSC7h2TmdwaX0F0d60T4OqJd3oEFauP0lnu%0AYtL9PJbWw6JlN77LNoQ%3D%0A
+
+In your Phone Numbers settings:
+
+- Click the Get New Number button at the top of the Phone numbers settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1652997803/8197f2d4d511e6c78f2ca5b4b22f/image.png?expires=1763568000&signature=95f861294be8aaa42505d60c6e4d99638f5ef457883c1841f159df5cb49ab651&req=dSYiFMB3molfWvMW1HO4zT8AxKlbMPbyqAKUlrDRDMRdJ3pt3ZvqgwWY2l1M%0AEjq0PN9Wk4wY0itTt6s%3D%0A
+
+- From there, please choose a lead source from the drop-down, or create a new one.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653002308/c0aba76ee1e6fa40b76f84c16689/image.png?expires=1763568000&signature=945024e6ec9492683293d6fbbc4fedf121329a3c087617a6cd3d7524d50f71da&req=dSYiFcl%2Bn4JfUfMW1HO4zcyrOVnnuJfe1ji0%2FuiHpyisWtawrZH8WZU%2FDfJQ%0Ac2i%2Frs00HGS3Q2BFhCc%3D%0A
+
+- Lastly, you will choose your destination number. - Your destination number is the number you want to ring when someone calls your tracking number. We are essentially forwarding calls from the tracking number to this destination number. Using the area code from your destination number, we will search the phone number database and show you available tracking numbers.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653004512/ce0a44c85fde64724ac3dc1c43d6/image.png?expires=1763568000&signature=ce8f4fe26fe90d6bf3a26301e2863a0737035f9cca926fbdfb0fcf12763e1949&req=dSYiFcl%2BmYReW%2FMW1HO4zcbvy2Db9F9Zo15sB7Dyo2IXw45ZS4gb9Pf9YE0v%0ARb2qbEWi90uKytML8h8%3D%0A
+
+- Once you have selected a number, click Save in the bottom right corner of the window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653007699/13f5c2a5b29d51f44caac26fd641/image.png?expires=1763568000&signature=345bba448f14d2bd863ce81a0dafba73a4799957080c3f2976a76678438344f8&req=dSYiFcl%2BmodWUPMW1HO4zU%2FdgbypFba47VyuL2tbgqf4DVm3YgrGRHHGEYOj%0AwVscrB8GgpUAtMoVfCY%3D%0A
+
+- From there, you will be prompted with a dialog box that provides instructions for adding your tracking number to your advertising source.
+
+- You will now be all set up to use your call tracking number! You can test it by calling that number to verify it goes to the destination number.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653009217/da263fd6bd6d6d263ab759bc2da1/image.png?expires=1763568000&signature=f863d5455ec17b2229545ab21f098fea7e0cadf47bb96e2dc420e7afb27d0eb0&req=dSYiFcl%2BlINeXvMW1HO4zU0UWCkK0P3OsV%2B13xSlzeGymrlwvTOOvytwQUr%2F%0AYgsT0QIdujR0kYkJrx4%3D%0A
+
+---
+
+Delete a Call Tracking Number
+
+To delete your call tracking number:
+
+- Navigate to your Phone Numbers settings page.
+
+- Click on the More icon (three dots) to the right of the number you would like to delete.
+
+- Select Delete call tracking number from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653012066/9325e06d763c60fb6c91da452519/image.png?expires=1763568000&signature=1515bb73a9dda3b0c988aebc474e2da86a8c80dab2d3648d66127053c31537b6&req=dSYiFcl%2Fn4FZX%2FMW1HO4zbgkSAP85W%2BsK1TGty1uHEwJ05zV1zen10L2cG7Y%0AwXV%2FbruvO0tt%2FaJ0EjE%3D%0A
+
+- From there, a dialog box will appear and prompt you to type Delete to confirm that you actually want to delete this call tracking number.
+
+- Next, click the Delete button in the bottom right corner of the window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653015208/d8d5d3b92529ef2a49fcd4ca1ee3/image.png?expires=1763568000&signature=b13de4ab6087262df04aa1d6c5d2933e91dbf187454b997e30abe4b0d022ebf6&req=dSYiFcl%2FmINfUfMW1HO4zUhVCJ8%2BlmZB91K7ymEGJF4dnJRZTkv%2BAp8re67w%0Aa%2B9me0vnU4XZ3ufD02g%3D%0A
+
+---
+
+Edit Destination Number or Lead Source
+
+To edit your call tracking number:
+
+- Navigate to your Phone Numbers settings page.
+
+- Next, click on the three vertical dots icon to the right of the phone number you would like to edit, then select Edit destination or lead source from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653019758/38517a3348ab1ecbf8a016739245/image.png?expires=1763568000&signature=84b74ee2e828c3c70d32ff83438d7e39d6f6b471bcef4265ef43f581842e88dd&req=dSYiFcl%2FlIZaUfMW1HO4zSKSGddvkv6mV6%2FWR8W3FfxAQfQdGacvzGJrSL3b%0AkP8TZ3UzDPhNZXXslzI%3D%0A
+
+- From there, you will be prompted with a dialog box to make changes to the lead source or destination number. Make your changes and click Save in the bottom right corner of the window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653020921/96a0514f79be79a52a5085aeff2a/image.png?expires=1763568000&signature=96792b4a65e292b8546ac05595b4b12f6453bdf8c22153d49f45dd6c0e2c6c24&req=dSYiFcl8nYhdWPMW1HO4zcK6afOUJ0Ra5ZBrfDGT9SUcNSF%2Fn2BBTd%2B9sycu%0Aa23ag3zGC4PkHOM%2FTNw%3D%0A
+
+---
+
+---
+
+Add Call Tracking Numbers to Your Advertising Sources
+
+We have provided a set of instructions for adding your call tracking numbers to the most popular lead generation platforms so that you can easily get your tracking numbers set up properly:
+
+- Google My Business
+- Facebook
+- HomeAdvisor
+- Angi's
+- Yelp
+- Thumbtack
+
+---
+
+Google Business Profile
+
+- First, log in to your Google Business Profile.
+
+- Next, click on Info from the menu on the left.
+
+- From there, under your company info, you will see a phone icon. Click on the pencil icon to the right of the phone to make edits.
+
+[Image] https://downloads.intercomcdn.com/i/o/500392386/382be6d743a63d3beb67f377/7c7ceabb-2f9e-4eb0-a72d-3eac57372aad.png?expires=1763568000&signature=eb4fb63f4bbde313b114bd9962a2e22737f601ab44230a95263ef74647662719&req=cSAnFcB8nolZFb4f3HP0gFN9bxXAY9MIoeyyBvobTMpWYHj4MLKolYYoaPPa%0A07U8SzVV83hI7pgrxw%3D%3D%0A
+
+- Next, add your tracking number as your primary business phone number. You can still have your company phone number as a secondary number.
+
+- Lastly, Click Apply.
+
+---
+
+Facebook Business
+
+- First, log in to your Facebook Business account.
+
+- Next, navigate to Business Tools and go to Business Settings.
+
+[Image] https://downloads.intercomcdn.com/i/o/500392688/10e87232578551e8274d958b/7e5d9977-8f41-4f16-a385-63e2d0613212.png?expires=1763568000&signature=abc55e8bbf6bb6333ce6ba75e7783a55e37c9c9f6ffaa1fab6a8ef3402e95030&req=cSAnFcB8m4lXFb4f3HP0gPu%2BdojfsgpwBs6GJxmef9fyOFf9GTAGwTZM%2BzCE%0AM9jLqaORVrgEdwtU%2BA%3D%3D%0A
+
+- Next, on the left menu, click on Business Info.
+
+- From there, under Business Details, click Edit and add your tracking number as your business phone number.
+
+[Image] https://downloads.intercomcdn.com/i/o/500392853/c2a98a125be65c7cf9037b3c/fefa1f13-8111-4841-ac4a-419146013a46.png?expires=1763568000&signature=957a72b5f005085f456093fda107ea849d0d21778506a7df0b29d7d2b90fa30b&req=cSAnFcB8lYRcFb4f3HP0gCIYmkYXLaZ%2Fa%2BUG662CtTS8eF3jHyfrwpTDF8mE%0ATclN0kJOTpFmRiI0WA%3D%3D%0A
+
+---
+
+Facebook Page
+
+- Start by navigating to your Pages and opening up your page.
+
+- Next, go to About.
+
+[Image] https://downloads.intercomcdn.com/i/o/500393097/5edd23b5c630356f6358888b/db3c2346-8b34-4f3a-8a04-43fdb952ae3f.png?expires=1763568000&signature=4f9f8e53b2b71166d16a811a28ee59ecba415e0e0276ca0292c7018097b88d20&req=cSAnFcB9nYhYFb4f3HP0gNVWz4w8nd%2Bhh%2BYZohF15pLqi4cYV%2Fg3AdWnTr8Q%0AFX01FqGgestT6p6hGg%3D%3D%0A
+
+- Then go to Contact and Basic Info on the left menu.
+
+- Next, click Add Phone.
+
+- Lastly, add your tracking number and click Save.
+
+---
+
+HomeAdvisor
+
+- Start by logging into HomeAdvisor Pro.
+
+- Next, go to Account and then Communication Preferences.
+
+- From there, go to edit Business Phone and add your tracking number, and click Save.
+
+---
+
+Angi’s (formerly Angie’s List)
+
+- First, go to your Profile and under My Business, click on Contact Information.
+
+- Next, update your phone number with your tracking phone number and click Save.
+
+---
+
+Yelp
+
+- First, go to the Business Information tab in the left menu.
+
+- Then click Add or Edit next to Business info.
+
+- Next, add your tracking phone number and click Save changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/500394169/bcf6ac22fa113ae427f9e039/7d6329ba-ce12-446a-97e2-2d8923470080.png?expires=1763568000&signature=7e59cb42004643fa3a650450ddc07e2a581ff985359f89ad926c6d4c1aca1f69&req=cSAnFcB6nIdWFb4f3HP0gLIh3ZlIvyZ3EHFBpqrN7PtRM4NkDGOUNzSlkqqp%0AzqHvn3NkPxSoh3UMMQ%3D%3D%0A
+
+---
+
+Thumbtack
+
+- First, log in to your Thumbtack account.
+
+- Next, open your profile by selecting the Profile tab at the top of the webpage.
+
+- Then click the View as customer button to see a preview of your profile.
+
+- Lastly, click Edit and add your tracking phone number.
+
+[Image] https://downloads.intercomcdn.com/i/o/500394528/bf39814ad191a50a7374a707/899cef29-5922-4959-af39-cb250f84103a.png?expires=1763568000&signature=ad7d2ea14d86b20fc15ea776ef6b4856ceb5630d05861b88284fef7d42a960aa&req=cSAnFcB6mINXFb4f3HP0gMBLcSDD3AJVFeR4%2FTy1sjuMuY8wnjkHfM7GI%2BqX%0AX09IJT1GgmjwhdWWCw%3D%3D%0A
+
+---
+
+---
+
+Call Flows
+
+Here's how you set up your VoIP call flow, which will dictate how your calls go through the system.
+
+---
+
+Create Call Flows
+
+Call flows allow you to forward calls based on hours, configure how you want your calls to ring on the HCP web, and which audio file you want to be played for your voicemail.
+
+To create a call flow, follow the steps below:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Communications from the Settings menu on the left.
+
+- Click the Voice tab in the Communications settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653028861/296d8667c34cc2d90d09bc45a6a9/image.png?expires=1763568000&signature=33eed0770db14a8083f45796690af94f3113978414317a1309322b7a818b4bab&req=dSYiFcl8lYlZWPMW1HO4zXBp%2FkP4p5lROBbf7QDJWgQdlz4e3ZRR54WJ3%2B6a%0ApUIwaTlpvmGQGi00f3s%3D%0A
+
+In your Call flow settings:
+
+- Next, to create a call flow, click on the Create call flow button.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653045348/41c51c3f2a033cd6f6d7ae13084d/image.png?expires=1763568000&signature=43de47ceb72d8d3283c4be83f07cd087913570e8e80d4b161fba308bc97374d0&req=dSYiFcl6mIJbUfMW1HO4zdzzLaKYcm5oaFqZ6BQZj6K9%2Bir6nMQYwNz1ocXx%0AcIpeL96kYONWrp8kN6U%3D%0A
+
+- From here, we provide a template to help get you started.
+
+- Click the blue Next button in the upper right-hand corner to configure how the call goes through the system.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1203371690/715a3d2f6530308f15eb921f7404/image.png?expires=1763568000&signature=122c02aaf3d310dcae981e1391749ab4fee69289178f7f57704e52d7ee246af7&req=dSInFcp5nIdWWfMW1HO4zUIHH7DXUtzyoJr2d1I3Qhk40BzVAotCoP8urGV6%0Ax4f5oAFD8FzXDlO6Rtw%3D%0A
+
+---
+
+Editing Call Flows
+
+- To begin editing a call flow, click the More icon (three dots) to the right of your call flow row and select Edit call flow.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653055984/fa22a92f519d969bc5fa21ca2d3d/image.png?expires=1763568000&signature=38dfbe32609410f06f5cc252144a2b485a13a808f9e4da4251369d37a86685cf&req=dSYiFcl7mIhXXfMW1HO4zWQ28ioXcOCQXi8V9NVd2o3mERHClWDcwAIw7h3B%0AbQOFiTfJOH%2Bu3O3qCcc%3D%0A
+
+- From there, you will be able to rename your call flow by clicking the pencil icon to the right of Default call flow.
+
+- You can also update the widgets in each call flow by selecting the widget, and then a right panel will open to allow you to make edits.
+
+[Image] https://downloads.intercomcdn.com/i/o/658835958/5d36db62afafed2f9a84f463/image.png?expires=1763568000&signature=451166eb5ec5bbca9c11b2bf2ec77cfd4bae49cbc855fa1614e4f4747143a0f5&req=ciUvHsp7lIRXFb4f3HP0gIh9xDcHCwrmcuRhU9zvkQyCJOkltZqcqxJEkquP%0AeYC4kVVDN2m%2Bsnr9HQ%3D%3D%0A
+
+---
+
+---
+
+Configuring Widgets
+
+---
+
+Incoming Call Widget
+
+- The incoming call widget lets you decide which lead sources should be assigned to this call flow. You cannot remove a number from a call flow, but instead can assign it to a new call flow through that incoming widget.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1203371692/a4c8fb4d2958b3bf27ce6c1f2b92/image.png?expires=1763568000&signature=eb27371649bbe855a2c0d4fdf6b2abc9599c2f0ddcf2469324e40cc471bff2a6&req=dSInFcp5nIdWW%2FMW1HO4zZdtMJRwrSmWzC%2BRx4wYLwVFdP6NkOjXvqKCLXhG%0AvyW2ntZpj41d%2Fz1pWYE%3D%0A
+
+---
+
+Call Hours Widget
+
+You can choose one of three options in the Call Hours widget:
+
+- Available 24/7: This will route all calls 24/7 to the next step in the call flow.
+
+- Use business hours from company profile: Based on the hours set in your company profile business hours settings, we will route calls if you are open or closed to the next step in the call flow.
+
+- Use customized hours for calls: This option will let you choose which hours you are open or closed and route calls to the next step based on that.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1203371693/1c08a9af04300d28622f51c54ff6/image.png?expires=1763568000&signature=49bde9206b873e7f1776e6e3cb03f3cbfa269f0bdb2d56172a713a67fbbd10e9&req=dSInFcp5nIdWWvMW1HO4zU7yf8d2RfOBrHdt0jBjKezjK9pr9%2Bz6U0NYlRrV%0AYX9tuur7WvAHaBjGhig%3D%0A
+
+---
+
+Simul-Ring Widget
+
+- The simul-ring widget will let you configure who gets rung. You can choose all available web phones, a specific employee, or a ring group. For more details about ring groups, click here.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1203371694/5a6cd2df32fceffaabdabd1d8333/image.png?expires=1763568000&signature=c06acce91169668e6714d45d1ba980bab710ae83fdf343e7ebee1514b80c14be&req=dSInFcp5nIdWXfMW1HO4zUYvXObxqSy30sZGMcbbPAF9IX9THbgwy0zgE%2FHt%0AyBkqtatz4sAKU5MRl%2F4%3D%0A
+
+---
+
+Send to Voicemail Widget
+
+- The send to voicemail widget will send the customer to a voicemail. You can select whether the caller hears the audio file you select or a text-to-speech message, which you can configure. For more info on setting up your voicemail library, click here.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1203371697/235f11b4ec1b5a32f9445c4c2b96/image.png?expires=1763568000&signature=57bae7bc290c56393d9e40156f0e66b85733f4a73a240e0dae9fe4bd87db9197&req=dSInFcp5nIdWXvMW1HO4zWVexHFrSzt6wjMVzaoucMJ39C3DvWLwWesvozP4%0AleP4%2BziXTc1LzkRvBuI%3D%0A
+
+---
+
+Forward Call Widget
+
+- The forward widget lets you forward your calls to an employee or to an external number. This will allow you to do rollover forwarding, so if you don't answer when it rings on HCP Web, you can forward it to another number.
+
+- If you have HCP Assist, we suggest you set up rollover forwarding so that you can forward the call to your answering service. If you don't have HCP Assist and want to learn more, check out this link.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1203371699/136833e0918d1bd4bf4d431de368/image.png?expires=1763568000&signature=a3b9ba012b0583151dc537b351042577c92065bfc32741ae1d16659ec3b2eb8c&req=dSInFcp5nIdWUPMW1HO4zQ%2Fd8fNFjLlBACf1TRCxua7lOtC5%2FQze4j%2BdgCNF%0ATQOXBjpoaFjzfs4kDyI%3D%0A
+
+---
+
+Play a Greeting Widget
+
+- The play a greeting widget will play a message to the customer at the beginning of the call. You can select whether the caller hears the audio file you select or a text-to-speech message, which you can configure. For more info on setting up your audio library, click here.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1203371698/2d8b95b226a2bff492bb4e2b68be/image.png?expires=1763568000&signature=ed071b8f03f03d7fdcb237d6157d12b484e0e66a8760df0548a1d3fc87827fb9&req=dSInFcp5nIdWUfMW1HO4zaoET4x6%2BhldZUU3OmDkycK3%2Bw5D%2BZwHJ0j9sE%2BT%0AWoPoSwPOJUFBmJxlEKA%3D%0A
+
+---
+
+Call Menu Widget
+
+- The call menu widget allows your customers to navigate to the right department by simply pressing an assigned number. It can be used to help reduce spam calls and get your customers routed to the right places.
+
+Choosing a Call Menu Template:
+
+- When you add the call menu widget, you will have a few different Call Menu templates to pick from to help you get started: - Spam reduction 
+- Basic
+- Basic + voicemail
+
+- You will only be able to add one call menu on each side of your call flow (one for open hours and one for closed hours).
+
+- You will then be guided to configure your Call Menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1226876830/65a8f52bc5d91116cf31050e0c4e/image.png?expires=1763568000&signature=98fe9045d677be1a1712719e4a4f24bcddb48eef96f330ab3101d14af136b618&req=dSIlEMF5m4lcWfMW1HO4zRDt8c61kgufIN%2BjEey5e26Qigl0J8%2F7UMxsBcKD%0Aj%2FwFtBFMbwrFxOTe%2BiM%3D%0A
+
+Configuring Your Call Menu:
+
+- You must have a message played to the customer so they know what options they have to pick from. You can do this in the Call menu by selecting one of the following options:
+​ - Audio file to upload a recording.
+- Text to speech to type your message and have it read to customers by the system.
+
+- As an example, your message might say, "Thank you for calling ABC Plumbing. To hear our business hours, press 1. If it's an emergency, please press 2 to be connected with our on-call technician. If you need to schedule an appointment, please press 3 to be connected with our office. If you want to leave a voicemail and have us call you back, please press 4."
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1226877117/a12ab526071a14ca903756bcb0d5/CallerWillHear.png?expires=1763568000&signature=703756b488665f1e076937e32b05ad3e73b32ed579357c395bb3b0b4f42a2dcb&req=dSIlEMF5moBeXvMW1HO4zYjTOUxfIX%2FLR2VEFYVIqHpTn1S4DPFBUjt3jbsv%0Av5Eca%2FEav%2BBtMu0DGR4%3D%0A
+
+- Your message will repeat two times if no number or an invalid number is selected.
+
+- Under the "If no number or invalid number selected" section of configuring the Call Menu, you can select:
+​ - Disconnect the call
+- Send to voicemail
+ - The voicemail message will be a default recording: "Thank you for calling. We are unable to take your call right now. At the tone, please record your message. When you've finished recording, you may hang up."
+
+- The call will be disconnected, or your customer will be sent to voicemail after your message has been repeated.
+
+- Click the blue Save button after making your selections to continue setting up your Call Menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1226877398/84a4aef548267195a1a82e99f69d/InvalidNumber.png?expires=1763568000&signature=3fb2dde149065fd7a1478a6531127ef65a1d017a7508a1fdc81eb7e8a7ba2ccf&req=dSIlEMF5moJWUfMW1HO4zd1HiXR7wHkaJ9%2FVN%2BgBgxi9tDK12e2JtEiFnNaw%0A85AcnOq7d3%2BNX0Svppk%3D%0A
+
+- From there, you can configure a call menu of a maximum of five options.
+
+- You can add widgets into each option so that you have sub-call flows or paths that the customer can go down based on the options they select. 
+​ - Referencing the example above, we can have the "Press 1" option play a greeting that captures the business hours and then send the customer to voicemail. For the second option, you can have the call ring to your on-call technician and then fall back to voicemail.
+
+- Once you have configured your call menu, you can verify it by calling your phone number and testing it out.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1226877613/6958b6be5060fcf5d47520a9690f/image.png?expires=1763568000&signature=867d46b6f0d4a367be810e7731f1f7a051444037f55e61224b718d8dc381fa68&req=dSIlEMF5modeWvMW1HO4zdwNQkA3oNs8Oi0NxdlF4sNB7jKeqb39d90l6f%2FC%0Az9VSSJA7X4STnlCY0jw%3D%0A
+
+---
+
+Call Queue Widget
+
+- You can add a call queue widget to your call flow. This means that the call will enter the queue and be in a “waiting” state for you to answer the call.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1203371700/dcb8176c5f4047dd06edcf2e5647/_xCTbglMnjalWJ8ohUyNeToFi5JqYzga1Kw_Wk-TTFPDk7rpgWiza76CmZ_K_EX58iOVIF7khr46qOOZUkqGBYhD643z7H5iphIeu2PGS17KcfvL4fVlgtnLaWoYIgSO2dw3c-N-1Qy5iSeBsLyP8pw?expires=1763568000&signature=827df096e32b5942e0bf956532c33e2f37150c4ef7a14635c3006e637404cc0a&req=dSInFcp5nIZfWfMW1HO4zeg5DWxR%2BI5DsH5iiAloz%2F4RwuJQ5O7GtcqCB4vo%0A4XWgxEgjHJffsO2eYmA%3D%0A
+
+Table:
+Row 1: - The first option in the call queue widget is for what the caller will hear. You can choose what the customer will hear when they enter the queue. | [Image] https://downloads.intercomcdn.com/i/o/1199243816/26033f5db3ff9084e0aea2ce/Screenshot%2B2024-09-30%2Bat%2B4_18_10-E2-80-AFPM.png?expires=1763568000&signature=2f96b12547ec655449dc3db8454f8a7f503a8c8720315da11dd9658d5dd9c584&req=dSEuH8t6noleX%2FMW1HO4zXudnVSpdr4fzed9%2B48Xpgo0CJUBb7DbPwouFNHO%0Ar07s%0A
+Row 2: - The second option is to set how long the customer stays in the call queue before moving to the next step in the call flow. | [Image] https://downloads.intercomcdn.com/i/o/1199243319/de344745c27b878fda03db64/Screenshot+2024-09-30+at+4_44_48%E2%80%AFPM.png?expires=1763568000&signature=eb6ed78191c46f1d5392f2499f3495ac43451a9e285f144175a1a33fe16aa668&req=dSEuH8t6noJeUPMW1HO4zRpG%2F6jsE9F38QMjsK32fFQbdtMh2xbeE8ezHUqk%0AHJo%2B%0A
+Row 3: - Lastly, the third option is for if you want the customer to be able to leave the call queue, you can select yes under the question "Allow callers to leave a voicemail instead of holding" and we will play an audio message to the caller to let them know that they can press 1 to exit the queue and leave a voicemail. If you Configure the "Caller will hear" section with an audio file or text to speech then we will use that as the voicemail message for the caller to leave a voicemail. - Please Note: To use Text to Speech, the Call Queue and/or Call Menu features must be added to your Call Flow. | [Image] https://downloads.intercomcdn.com/i/o/1199243656/7d25d3267788ab67156ddcce/Screenshot%2B2024-09-30%2Bat%2B4_15_04-E2-80-AFPM.png?expires=1763568000&signature=d0d8857681f22b60ed74ef7583286c92324379ddd2acf62637b1599dcdd7b7ee&req=dSEuH8t6nodaX%2FMW1HO4zRKSvDB2d5XVNXFApUb5HjjhmFwKDmblRe7dm3aR%0AipT7%0A
+
+---
+
+Add & Remove Steps to Your Call Flow
+
+- In your call flow, you can add or remove steps to your call flow. There are buttons on the call flow that let you add a step. This will open up a right menu to let you choose which widget to add.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1203371696/9a00c59abcfa80172318b18d637d/image.png?expires=1763568000&signature=8a0d798097fbae2e345b2e1fc1d3c7c992ed29e6cb1c6ec087670d4370bea54c&req=dSInFcp5nIdWX%2FMW1HO4zU%2BXIufVNwHHcgja6H0Lk1T%2BXcCRitxFKsx9wonj%0A09i%2FSjNYlu1U%2BcUhfSQ%3D%0A
+
+- You can also remove widgets by clicking the X in the right-hand corner of the widget.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1203371702/e95715fcb266da75f37e0f8e5632/image.png?expires=1763568000&signature=cce8a5d2dbce070732941e6364e4f056d839699fb80816117f89d33146036321&req=dSInFcp5nIZfW%2FMW1HO4zTGVYRyojqdtEucIxP0X6%2FiciAZmBvlhU9GjgG%2Bt%0AjO7jmFWQupjENyu7YnI%3D%0A
+
+- Alternatively, you can remove a widget by clicking on the widget and selecting remove step.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1203371701/dd2f76061143f456bfd5f9666f4d/image.png?expires=1763568000&signature=7161c7ec10e14cc7e6af7241c94ee691c79210009d3b2f1101d86a1762437649&req=dSInFcp5nIZfWPMW1HO4zZIS1oTEBO%2Fyiw3699wbpqkmA52qSH1CSyE%2Bgoec%0ABvW6i%2BD%2FaOEkcXMGP8o%3D%0A
+
+---
+
+Saving Your Call Flow
+
+- You can update (save) the call flow by clicking the blue button in the top right corner called Update Call Flow.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1203371695/53784e580ee2dac485e6379ef4d4/image.png?expires=1763568000&signature=6f37f8e6f29bc22fa12c5efe329a1a8256a2cd7374fb8ae73c8ddf1cdf8fe73b&req=dSInFcp5nIdWXPMW1HO4zbV3A9YlEmH4nlukocNtS5gF0pDCtopSR9vfKmTM%0AliXDfgec6Lzh2jXhNds%3D%0A
+
+---
+
+---
+
+Audio Library
+
+The process below will walk you through how to upload your audio files so that you can create an experience for your customers that is custom to your business. The Audio library is where you'll add professional phone greetings and voicemails, which you can then use in your call flows.
+
+---
+
+Accessing Your Audio Library
+
+To access your audio library:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Communications from the Settings menu on the left.
+
+- Click the Voice tab in the Communications settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653065838/b0b0efd9ce035ade7956ef5a9258/image.png?expires=1763568000&signature=d44f189459805d1951e6be370566c60f7a20ce448bfea37af30be9d49fdfe749&req=dSYiFcl4mIlcUfMW1HO4zSJSGZXJY1y%2FQJ7JZlrVG%2B5CDjgqiujg0E11wkUr%0AxidV1uJA19wwKZZFsCk%3D%0A
+
+---
+
+Upload New Audio File
+
+- To get started, click on the Upload Audio File button, and you will be prompted with a dialog box to name your audio file and attach the file.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653088150/67ae2755fc3f511ac875df3b2ba1/image.png?expires=1763568000&signature=005217eb8a675b098ba2b9e94dc697cdad6937a4b2ef39fd91d2d701df9c985f&req=dSYiFcl2lYBaWfMW1HO4zTQ9mZZvAFAr7rhG1nFCSqmkySvglfkWdp%2FSIafG%0ApMs7FGj%2BIEBDiSo0tcM%3D%0A
+
+- After you have uploaded a file, click Save to continue.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653091077/ae2f8e7cb098eafc048ee1a6fe7b/image.png?expires=1763568000&signature=f2d83c1b5ec8e17272a05ba7dd0581ab3cf44ee6c3638f3a0a132b04d3e555c3&req=dSYiFcl3nIFYXvMW1HO4zf%2B%2BQh5xHaqD4wgZRNsdgH36va39sz5X4OtWPRT%2F%0AQnbcg6BEuVRApSWq6U4%3D%0A
+
+---
+
+Edit Audio File
+
+- If you have an audio file uploaded, you can edit it by clicking the three vertical dots to the right of the file name and selecting Edit audio file.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653092438/0360113b1fe73f6b51d21eb7c8ea/image.png?expires=1763568000&signature=7b9f88212c2dab5bca6113e1e5221d1b4285773633787e822019068160d498a2&req=dSYiFcl3n4VcUfMW1HO4zTU90NkBe7uLmAa6NFYTWjQgQG0JdHJdULMVJvQ8%0ANFlhsy%2B%2F74Bo6wiG6Hs%3D%0A
+
+- From there, you will be able to update the name or upload a new file. Once you've done this, click the Save button.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653094139/bca3f3cdf156bf16f29ed2998a1f/image.png?expires=1763568000&signature=8f700f1cac1924873c7e173a8daa3a63ded182189b08fe4c280f8f808740a694&req=dSYiFcl3mYBcUPMW1HO4zZOplF3hJVsSH%2F7AM%2BhvjBrhg9TrMo0w95Flk0zn%0AGHXsaZIMGnSskfBczmk%3D%0A
+
+---
+
+Delete Audio File
+
+- To delete an audio file, click on the 3 vertical dots to the right of the file name and click on Delete audio file.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653095398/75d5c73ea37ed5b5b7ebbce05543/image.png?expires=1763568000&signature=be86ac675aa31cbdd6e065635915db93f34c5d8d1aaf8174d8f635bd33937a6a&req=dSYiFcl3mIJWUfMW1HO4zb61hXGBzzk9qMof9i822LiPohAk4MFpdOWspx6h%0APOKbTWXNhmnyizQRu2M%3D%0A
+
+---
+
+---
+
+Ring Groups
+
+Here's how you can create your Ring Group, which will dictate who rings when a call comes through the system.
+
+---
+
+Create a Ring Group
+
+To create a ring group:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Communications from the Settings menu on the left.
+
+- Click the Voice tab in the Communications settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653099640/c38b4a1e5c9432d391316abeafd8/image.png?expires=1763568000&signature=023df01daeee83f907e0f098517273bdfb9a62a91ec484cf50fef6cc795c1163&req=dSYiFcl3lIdbWfMW1HO4zYaP5GEl6B3J2ICDvEi9AmRTFxRyumNahhMlv7n%2F%0AGVpccUFa3IYjzg6eczw%3D%0A
+
+- Click the New Ring Group button located at the top of the webpage.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653106252/e7def16466acc04f7aeca17741dc/image.png?expires=1763568000&signature=a3288568f4858fcfb83411aa54421a01828a364717a9f54a78a6dd811a8911cb&req=dSYiFch%2Bm4NaW%2FMW1HO4zbBIBk37iU6T%2BfXhY1QcqdN%2F70HO6B2%2BD2I%2FuXFg%0ADtKoYoHYdgPn0Zof0yg%3D%0A
+
+- From there, add a group name for your ring group and select the employees you wish to be part of your group. Your ring group can contain a maximum of 10 destinations.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1203478231/88b9133ba8673d8a925d2217b93a/image.png?expires=1763568000&signature=c91ecb3a00def0d1d29ba97953b6bb1f9bdab4c207a15d63e6eb856162104247&req=dSInFc15lYNcWPMW1HO4zYU3BpfdIHoMsgUnXmVvIfZLO4svASiBBGXe5hCg%0AGF5SnY0EN3GgQiErbQk%3D%0A
+
+- Next, click the blue Create Ring Group button in the top right corner of your screen.
+
+- You can then add this ring group to your call flow!
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1203478235/6645ba40a4e5a6d6a069f7c76411/image.png?expires=1763568000&signature=91c083d35d02391c7ba7dd3a5facb9770fd464e89e80005010261a3caddb68e2&req=dSInFc15lYNcXPMW1HO4zVLF0t8pQSQtK%2BPMQR%2F%2FNuSaO%2BFpkWMH6R12gZan%0AV2t1S96RSpeWUwpaZhs%3D%0A
+
+---
+
+Edit Ring Group
+
+- To edit your ring group, select the three vertical dots in the table row and then select Edit ring group from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653108751/cf8313872f512a6b17533ae244bb/image.png?expires=1763568000&signature=476a63d8fddc6731ebc36f7e95cc98dc62ba5cd2a4fd209d2f6ebaddc8650057&req=dSYiFch%2BlYZaWPMW1HO4zRjDweqa%2FoUFVuo%2FkQKCmwlYus%2Fku4LLKuRsNvnw%0A3eOioAYNoNxIPGdRihc%3D%0A
+
+- From there, you can make changes to the name of the group or edit its members. When you're done making your edits, click the blue Save button on the right-hand side of your screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1203478234/388170cc8bdfe3475c0a09f2fb4d/image.png?expires=1763568000&signature=670fc4694b0181d8d59c532f39a214589dde76b845a4e516e919d5043d3dc0f3&req=dSInFc15lYNcXfMW1HO4zZzFAH7h9m%2FQN69VzX3tkuiD8LrGqObrylCpicmf%0Ar4fi%2FAbL7rieIfoHNcA%3D%0A
+
+---
+
+Delete Ring Group
+
+- To delete your ring group, select the three vertical dots in the table row and then select Delete ring group from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653111230/2d1b2449e7a0d235a2b58076f4dd/image.png?expires=1763568000&signature=8f2779cde995c611a590cff60f98a1abece9ca487db124f448f86417bdcefc1f&req=dSYiFch%2FnINcWfMW1HO4zUAO5QNGVJQocd8FRMV4O9k9pROJayLzbOsbmB2g%0A5JP%2BREPD4YIOAw%2Bkw1g%3D%0A
+
+- Once you click delete, you will see a confirmation dialog box. Please note that your action cannot be undone.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653112411/386e0ba1fd255bef577331fcf454/image.png?expires=1763568000&signature=2f468018f137b3e2b75d8c6ce74a34ecaec9b8a1a04348806f3f6a2cec37facb&req=dSYiFch%2Fn4VeWPMW1HO4zQertWQnqbXPIkohNWvL5M4PIvlLPh6ey6nARU%2Fq%0A0j7CEamn6Y8uQCTj4YI%3D%0A
+
+---
+
+Set up Missed Call Automation
+
+In your Voice Settings, you are able to set up an automation to send a text message to your customers when you miss a call. You have two options:
+
+- Based on business hours
+
+- Custom date range
+
+You can toggle the automation on or off and edit the message.
+
+To set up the Missed Call automation:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Communications from the Settings menu on the left, then click the Voice tab in the Communications settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1795088894/49ed75570b54dc12f0edb6144401/image.png?expires=1763568000&signature=3df432a4fad0a46e38c96180f907cdedc26f9c4e85c4c5c99a3947b21d35e229&req=dScuE8l2lYlWXfMW1HO4zeDW8vOOo0ulkajBQiFEIGnElzoM8PXy%2FsgfNXqa%0AMEVBnXTu4MjoT7XxL%2FM%3D%0A
+
+- In the missed call automation section, toggle on or off the following automations or click the pencil icon to edit them.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1742365945/61a5fb2c4a24c64e7250b79f2d1f/bf1734f5-02c5-4928-b539-b19fd6485352?expires=1763568000&signature=4f38dc9984186a4d40622b5c4826db073498d0924fd1d78b437ff69a412aa8a4&req=dScjFMp4mIhbXPMW1HO4zW74fI4PuX6CvOIKdxKO1TKzAoiVO3czp4ZHBF59%0ATAe0YTrrxcrTGWmHyc4%3D%0A
+
+- Once you click Edit, you can select the type of business hours: - During business hours
+- Outside business hours
+- Any time of day
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1742365943/90922981658e779cd83b6b147dc7/2e7930ae-44bf-42dc-8380-3dc665d610ef?expires=1763568000&signature=3fc78ce498fb319ce59135b3a1ce027f36e67e15f1a7d98dfa72c4cd79382f2d&req=dScjFMp4mIhbWvMW1HO4zY4zwWK7Stc3vxU2hbR%2FhXv0Cu71tyMJHbXbLgrx%0AedZybwX1FY0LFoyV9ig%3D%0A
+
+- You are able to edit the text message that is sent by selecting the Customize message button and clicking the Add variable dropdown to choose what variables to include in your message. If you have Online Booking, you can add your booking link. You must add your company name to any text message to disclose to the customer who is texting.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1742365947/3fc53eaba9fa21d3799c98829d35/22c33029-e17c-4c96-88af-6dc09077b7b6?expires=1763568000&signature=6a28df86b7c941caf1149406c832a5dd738420310b5c39365b66feae42a05da1&req=dScjFMp4mIhbXvMW1HO4zYma81hBKT2BTscmsZvkCwRz3%2FNoT4pJeODnOGBz%0AbufZYBs4j5nV0uwL058%3D%0A
+
+---
+
+---
+
+Set up Call Recording
+
+Here's how to set up call recording so that all calls, inbound and outbound, get recorded.
+
+---
+
+Toggle On Call Recording
+
+To enable call recording:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Communications from the Settings menu on the left.
+
+- Click the Voice tab in the Communications settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653118710/760d92026c7f84c5380bc168b8c6/image.png?expires=1763568000&signature=8add815ba186c75ce5f74d75ed2f2563bebac8a0486c60dba5a214a5a9209d19&req=dSYiFch%2FlYZeWfMW1HO4zS821N2klNlduCC24jtWB%2FKjK%2FPbdcLexSoL0B3b%0ASbQNcJdbeJxWpMiwsx8%3D%0A
+
+- Then toggle on Inbound call recording and/or Outbound call recording. This toggle ensures that all of your inbound and/or outbound calls get recorded. Both inbound and outbound call recording will be defaulted to off.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653127873/e05bf41726a98213b681e28c28a8/image.png?expires=1763568000&signature=562d1e051a87ecb2ad4bab5146f1c37024e45ac3beeb889f8215dbe6b11141fd&req=dSYiFch8molYWvMW1HO4zQRNOf0H5qofCY8Uv0jYlII1TE4n5aBkOQxSIGxJ%0AIfNjmbSo2emO43SbTcM%3D%0A
+
+---
+
+Call Recording Notice
+
+- Once you toggle on call recording for either inbound or outbound calls, you will see a box with an option to play our call recording notice.
+
+- If the play call recording notice is turned on, then the caller will hear: "This call may be recorded for quality assurance purposes" before the call is connected.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653130988/e553b2e5f0794d635fa3951d6b04/image.png?expires=1763568000&signature=0f306200e25bb8bbe6dc35daea59ec33ef7046177021319f233a47fd672e6db4&req=dSYiFch9nYhXUfMW1HO4zTOMzjyBx69uo3sbFHKCiN1DdExxPWmON7RUMKIa%0ApWPe4cnF2W1QUs%2FQzQE%3D%0A
+
+- If you wish to turn off that call recording notice, you may toggle it off, and a legal disclosure window will open, which will inform you about recording laws. You will need to check the box to agree to accept responsibility for compliance with these recording laws.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653132200/2c32ad0558a9159f4bb38157d239/image.png?expires=1763568000&signature=a835e8c8fcc8c18192bd5603345225f797b71c240e5bc50567901a8e17b20320&req=dSYiFch9n4NfWfMW1HO4zSqvjfbygPh4RcBgee5FX%2FiEo8D8mqTpF0fGkGIv%0AwTjmrSc2Szx%2FxKy3%2FLA%3D%0A
+
+- Once turned off, we will not play the call whisper before connecting the call. It will be your responsibility to inform the caller that the call is being recorded.
+
+- Lastly, these recordings will be accessible through your call log, which can be found in your Inbox.
+
+---
+
+Download Call Recordings
+
+To download your call recordings:
+
+- Access your call log by clicking the Inbox tab in your HCP navigation bar. Then, select Call log from the menu on the left.
+
+- From there, click on a call to open the quick view window, then click the three vertical dots to the right of the recording.
+
+- Next, select Download from the menu that appears, and the call recording will be downloaded to your computer.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1210422399/36c1bb82e936a50a09aeb76dc85e/image.png?expires=1763568000&signature=a2ea254a0e07c54ef43043d075b46e669110650dca2b16c634b3c1a01f6ecba3&req=dSImFs18n4JWUPMW1HO4zZ%2BR7iTdaPvgvfZLLHEJ7DiCMoZi5g76DXlkrLAx%0AaG12%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1210422405/c6445cd176fcbb5185c08133d467/Screenshot%2B2024-10-02%2Bat%2B5_28_52-E2-80-AFPM.png?expires=1763568000&signature=f64554a21b7de29a3f888621a7cbd910906725a980c73f5f4dbdf4f0629d100e&req=dSImFs18n4VfXPMW1HO4zdeENoSg427Roiswwx%2F4nKClSsX4jB4O7ulttra9%0AtiI3%0A
+
+---
+
+---
+
+Block phone numbers
+
+When you receive spam calls, you can now block those numbers so you no longer receive calls from those spam numbers. When you block a number, any calls from that number will not appear on your call log or use your minutes.
+
+---
+
+Add a Phone Number to Your Block List
+
+To add a phone number to your Block List:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Communications from the Settings menu on the left.
+
+- Click the Phone Numbers tab in the Communications settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653138798/1d7f3543e8a9b5b026f9ff74b78d/image.png?expires=1763568000&signature=fed412edd10f1403235a9c5a36d440d089ba547216d97c340870733c6f0928c4&req=dSYiFch9lYZWUfMW1HO4zXSuQH2glyIOO4Q8oj7fqxEVGHaxjBN7tu7FMIYs%0A6D5ykP%2FfAVTJrjPTfB4%3D%0A
+
+- Click the Add Number button at the top of the Block list page and add the number you wish to block, and click Save.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653148787/34357b852ee7213406d6b5c03f5d/image.png?expires=1763568000&signature=15d507f580d7b988e5b50e4a82462191aadf92be0fdd5e41af5089e1be1b3545&req=dSYiFch6lYZXXvMW1HO4zaDFa549FuHkOdA9oSwG49X6kw2xA9OUNAhRxVx2%0AvVcXRT31xwT3L2sk2lg%3D%0A
+
+---
+
+Remove Phone Number from Your Block List
+
+- To remove a number from the block list, click the remove button to the right of the phone number and click Remove Number to confirm.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653150567/2eb46527c8d3f5928f4eab1b7bb8/image.png?expires=1763568000&signature=1f66d5172ad50ff5c9b491213a7a06568f971a33eee943bc6dd7750a9e704706&req=dSYiFch7nYRZXvMW1HO4zTqecBTDATnNEb2qjs%2BsgPl9jagB15JYTXMPWdEA%0AHtPFAjVDgTscRMfQBp4%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653152625/09db584634b7c76c4e593b82df00/image.png?expires=1763568000&signature=f62f3b0f66ab98130c70baa8eb01449c99b6b947e5552714e8b08b079400c655&req=dSYiFch7n4ddXPMW1HO4zdWUcrU1ayMGa5uhRoVPofr8jr2O6f9SmY%2FdZKOg%0AgT8jaiSrZhjlgJIb0kw%3D%0A
+
+For more information on how to block callers from the intake form or call log, please check out these help articles.
+
+---
+
+---
+
+Track Your Call Usage
+
+The Plan Usage page shows how many minutes you’ve used, how many remain, and how many days are left in your billing cycle. You’ll also see your package name, plan cost, and next billing date. If you’ve used overage minutes, this page will display the additional minutes and costs. If you're nearing your limit or have gone over, a warning or error message will appear to let you know you're at risk or exceeding your plan.
+
+To view your Voice plan usage, follow these steps:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Billing from the Settings menu on the left.
+
+- Click the Plans & Payments tab in the Billing settings page.
+
+- Next to Voice, select the Manage button and then Plan usage in the pop-up window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653191132/4a3af6f479a8601a1dd67acb48c6/image.png?expires=1763568000&signature=44a4d61bb7e1e7d858c08a4c287d79922e2ea1114385cf867b7b4c517242a29f&req=dSYiFch3nIBcW%2FMW1HO4zVZWRtAZ5lnDanFEG4X4xUHG8EHM2dC6pAaXwqIw%0AsXSF7hEW2vsf6SNOCgc%3D%0A
+
+---

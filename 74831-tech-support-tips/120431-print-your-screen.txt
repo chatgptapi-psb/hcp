@@ -1,0 +1,83 @@
+Print Your Screen
+Source: https://help.housecallpro.com/en/articles/120431-print-your-screen
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: Follow these steps to print a screen that does not have a print link.
+
+In some cases, you might need to print a screen that doesn't have a direct print link or icon. This article provides a step-by-step guide on how to capture and print your screen effectively.
+
+Please Note: Some HCP web pages do not allow information to be captured when using the 'Print' option directly from your browser.
+
+Add the GoFullPage Screenshot Extension
+
+As some HCP webpages don't allow information to be captured when using the 'Print' option directly from your browser, you'll first need to add a screenshot extension.
+
+Please Note: Our recommended browser is Google Chrome. For the purposes of this Help Article, we will be going over how to add an extension to Google Chrome.
+
+For printing your screen, we recommend using the GoFullPage extension. To add this extension, follow the steps below:
+
+- First, go to the Chrome Web Store and search for the GoFullPage extension. - Chrome Web Store URL: https://chromewebstore.google.com/
+
+[Image] https://downloads.intercomcdn.com/i/o/1137844625/c2585e904fe9a4ceabd6ff6e/image.png?expires=1763568000&signature=d47708a468539b38c328fc66a704a01454b2893c410838d8f897f66b1e051696&req=dSEkEcF6mYddXPMW1HO4zTkrB0jTkkGjhA9HtgS7gjqnJhRQR1ZAfWTD7lqe%0A3OgEu3M%2BeoTmsnwakII%3D%0A
+
+- On the GoFullPage extension page, click the blue 'Add to Chrome' button in the top right corner of your screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/1137854867/ee3da89cea01515ae268bab4/image.png?expires=1763568000&signature=fe09401cb82e9ab116dc0acbdd26c2d3e92491a282fc871c88d7fe820630c1b7&req=dSEkEcF7mYlZXvMW1HO4zXMHgRX44Frp6oUQ3BC6wH%2BFdp9wUgHdMfGVPQM9%0AFS4RMbqYwoEUACXRl8w%3D%0A
+
+- A window will pop up to confirm whether you'd like to add this extension. To add, click the 'Add Extension' button on the right. To cancel, click the 'Cancel' button on the left.
+
+[Image] https://downloads.intercomcdn.com/i/o/1137858558/386f9361a8987ecb8efd5f4d/image.png?expires=1763568000&signature=0348ebdbabb7b04949284fe3ee4e07d4e464fbcc477426ac0eddf368c9c06367&req=dSEkEcF7lYRaUfMW1HO4zRvLGKYVrahJ3yuyYhOrCAkVyX7Br5HRLn%2Bi3EPF%0AjZGWbMxinhpKtbxdQIY%3D%0A
+
+- After you click the 'Add Extension' button, you should see a gray camera icon in the top right corner of your browser.
+
+[Image] https://downloads.intercomcdn.com/i/o/1137859684/3a7e18a48aae633001015357/image.png?expires=1763568000&signature=092d2f9a9c8f73de00b173bd4cefd4913edf1b8cf5bb2d532857ed00f3cd8116&req=dSEkEcF7lIdXXfMW1HO4zW8mZ64MDu3%2FScd3sItSzV8xc6XdeJziM0QOSlBa%0AcYjhXbicuOEE8a2gDtQ%3D%0A
+
+- You will also be directed to the 'Welcome to GoFullPage' screen, which provides instructions for using the extension. [Image] https://downloads.intercomcdn.com/i/o/1137865110/3d702a62f8b539150936498a/image.png?expires=1763568000&signature=2e5593ad39525620bf613bc5134d1c8d80e8167dedd9cacf4a5d783b91bda6d8&req=dSEkEcF4mIBeWfMW1HO4zXV7QBsfu3K9WtY0yJI3JcG3ARsEGhNs4K4%2BlylQ%0AlEeB%0A
+
+- The instructions listed are as follows:
+
+Table:
+Row 1: Take a screenshot of an entire web page in just one click of the extension’s icon in the top right of Chrome | [Image] https://downloads.intercomcdn.com/i/o/1137905880/179bada2cff785d7865a96a2/image.png?expires=1763568000&signature=7fdc924e638555913514817f24baf2206b2270fc52e121c52ab252b0157cff11&req=dSEkEcB%2BmIlXWfMW1HO4zRPl2AH6tgj6CFF070agV7bXQq%2FnDWRxGdppsTaC%0AOhvc%0A
+Row 2: If you don’t see the camera icon, then click the 'Extensions' puzzle icon in the top right of your browser |
+Row 3: Click the pin next to “GoFullPage” so it turns blue | [Image] https://downloads.intercomcdn.com/i/o/1137898793/5764aa754f9aab73a0150c7a/image.png?expires=1763568000&signature=e576d342eabacb7cc5b9444b8c1a65d898495aef2c09d4d8016c297e956c3524&req=dSEkEcF3lYZWWvMW1HO4zVbn7fRW1lic1FHWSY2UZGznDvwA0dLCHFjeSpGf%0AhA0%2F%0A [Image] https://downloads.intercomcdn.com/i/o/1137907354/ed5011e77afa6e6e4a48ec09/image.png?expires=1763568000&signature=e439a3e3f35192f3e1759975ef362dfd72eb1039796aa9b77ba752f5703c2afd&req=dSEkEcB%2BmoJaXfMW1HO4zcrjw%2BiIjXCvUVFKhQQC77BryjRTzdZKvr3doz%2FA%0APkMJ%0A
+
+- You can now close out of the Welcome to GoFullPage screen and navigate back to your Housecall Pro account.
+
+---
+
+Take a Screenshot and Print
+
+Now that the GoFullPage extension has been added to your Google Chrome browser, you can take screenshots and print them as needed.
+
+To do this in your Housecall Pro account:
+
+- Navigate to a page that you'd like to print and click on the gray camera icon in the top right corner of your browser. You'll see a small window in the top right corner showing that the screen capture is in progress.
+
+[Image] https://downloads.intercomcdn.com/i/o/1137916800/474a08829b00fd55143645b2/image.png?expires=1763568000&signature=0e09e64a785dfd2d00e7d37f340961bc245a9c347a9b64f7d5b5341f7f57a5a7&req=dSEkEcB%2Fm4lfWfMW1HO4zRPlabsJk4Bt7tPW%2FOnw3RUeNenvY1iKTx1rrNtC%0AdjC5%2BEenxx%2FjYdZGHI0%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/1137917851/f1b21dca15371a5c436f4727/image.png?expires=1763568000&signature=5ba41d0b12473c1bd04464adc5f5978563ce37762d35c057bc05a08dc1a7255d&req=dSEkEcB%2FmolaWPMW1HO4zdVGbEB%2BtsoMRFlHlFbcD1u4w%2FzFHrCcQpb%2BSpfe%0AXoeih4vYnDr7WRN2VGk%3D%0A
+
+- After the screenshot has been captured, you'll be directed to the screenshot page.
+
+[Image] https://downloads.intercomcdn.com/i/o/1137922006/15c11acf0f6bd5e8e5748ffe/image.png?expires=1763568000&signature=377077b21a280a74a245c07524f52a72f6f8751b9128cbe799bd2b3c6b388c46&req=dSEkEcB8n4FfX%2FMW1HO4zcNg%2BLkuxU9Ef4hQxJryh0nD7HKhDbWPdgjNOwn2%0AqHvGXy4GFlIkYz4H6q4%3D%0A
+
+- You can now click on the 3 vertical dots in the top right corner of your Google Chrome browser and select 'Print...' from the dropdown menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/1137930348/9f1b36f1cc1f5525703de41d/image.png?expires=1763568000&signature=88076ea1ffda1bb5547d632eaed772d75fa530ac6fa74172124775e07038fe77&req=dSEkEcB9nYJbUfMW1HO4zbCR4HkgU6VQpQl7Xr6rdD4ZdXUoSJOP7I6H4MNk%0AKlsi4wywpFDwLm4q3PQ%3D%0A
+
+- After selecting the 'Print...' option from the dropdown menu, the Print window will appear.
+
+[Image] https://downloads.intercomcdn.com/i/o/1137939467/fc4b4b78d3a127c580edcf6f/image.png?expires=1763568000&signature=d5236d23a879fc95a78704113094d1723073adca5fe3238208d4d40aa36c3869&req=dSEkEcB9lIVZXvMW1HO4zYJaPAHh9rn5ccnKJmZYga%2FDEUzTm%2FSiIPs8ioAJ%0AS1mLd561LktzCbhMpgI%3D%0A
+
+- In the 'Destination' dropdown, you can select a printer or select 'Save as PDF.'
+
+[Image] https://downloads.intercomcdn.com/i/o/1137934359/2a34a7d2f985a90c51b72373/image.png?expires=1763568000&signature=4854493b305d0de09ebe544a508dfb4097ff365500c29b1211e76649d92994da&req=dSEkEcB9mYJaUPMW1HO4zUu5I2yGLuoteYdnAUPPWW9MKHJwqSqt7WWbc4XS%0AsMY2jxNjNiWP4ugLxKc%3D%0A
+
+- Once you've made your selection, click the blue 'Print' (for printing) or 'Save' (for PDFs) button, and you’re all set!
+
+[Image] https://downloads.intercomcdn.com/i/o/1137938230/c45bd07415add7acfe86631e/image.png?expires=1763568000&signature=62a149cdaa99994ee0f6da8f699aa6b89708f91b041a8cf64dc7b7e73e00b668&req=dSEkEcB9lYNcWfMW1HO4zR%2F8QcXMOnCont2xvZJOs%2FFepO0MUhmcBq7d2OY6%0Ab%2BkaPfZ3J0a9YAvZI%2B4%3D%0A
+
+---
+
+---

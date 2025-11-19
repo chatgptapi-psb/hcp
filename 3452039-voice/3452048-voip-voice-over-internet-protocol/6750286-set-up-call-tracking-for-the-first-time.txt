@@ -1,0 +1,301 @@
+Set Up Call Tracking for the First Time
+Source: https://help.housecallpro.com/en/articles/6750286-set-up-call-tracking-for-the-first-time
+Author: Roland Ligtenberg
+Last updated: Updated over a month ago
+
+Summary: Call Tracking first time set up walkthrough
+
+Call Tracking
+
+Call tracking is an add-on feature that allows you to track your best-performing marketing channels.
+
+You are able to purchase a call tracking number and add that number to a unique advertising source. When a customer calls in, you will know exactly where they found you because that call tracking number will be tied to your lead source.
+
+You are still answering calls through your existing phone system because we forward calls from your call tracking number to your destination number.
+
+Below we have included a demo video of call tracking and how to make an inbound and outbound call.
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/w89trq2fr9
+
+---
+
+---
+
+First Time Setup
+
+Get a New Call Tracking Number
+
+To get a new call tracking number, follow the steps outlined below:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Communications from the Settings menu on the left.
+
+- Click the Phone Numbers tab in the Communications settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653235663/69d4fde30ca906ce06d5ec359e7c/image.png?expires=1763568000&signature=46013cde237b40543a36b4c2a68b13e872258c22ff1307f07bf233c6cc922520&req=dSYiFct9mIdZWvMW1HO4zX4AyaIXzK4by9%2Bod2Hatm8ia%2BY18U4EMb8KUztN%0AZEu5ZFwN8DLH%2FWhokvc%3D%0A
+
+- On the Phone Numbers page, click the Get New Number button at the top.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653274748/03e8cb818aa3445922edacd5ba28/image.png?expires=1763568000&signature=d1d7d412191fc08d81b2c2d523d367147fe70c1ba7d2906a64867e416e19195f&req=dSYiFct5mYZbUfMW1HO4zb3ZUiOluuUMEsXNKLlr4SfC0ojSd8tPZnCvB6mB%0Al44TimsCfjW%2BMUFrZhU%3D%0A
+
+- From here, you can choose a lead source from the drop-down or create a new one.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1592063099/1458f95f0546040e7d72374b3cf7/%28720%29+605-4040.png?expires=1763568000&signature=49a797a82e3a693c653df98bf6af025ed03d19d37564c8317d2ce3ddbd00dec3&req=dSUuFMl4noFWUPMW1HO4zcchKNikiPPpdfvtt1wJCJFsZ09iRtBteCngqdGt%0ACV3aylYhL%2BGxnm%2B6l7g%3D%0A
+
+- Next, enter your Destination number. This is the number you want to ring when someone calls your tracking number. We are essentially forwarding calls from the tracking number to this destination number.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1592065132/289518e251f8b6d0b3e778c55cc0/New+call+tracking+number.png?expires=1763568000&signature=24610e291d23cfce81f28ee88bde538db67c5bf27e42ac21ed205f23dbcfec3d&req=dSUuFMl4mIBcW%2FMW1HO4zUuZZDfthFNitqtxsFyAkvRs%2FWwEV0hAHifxuZ87%0ALrXM16L9VH9t9RnNTOA%3D%0A
+
+- Using the area code from your Destination number, we will search the phone number database and show you available tracking numbers.
+
+- Once you have selected a New call tracking number, click Save in the bottom right corner of the window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1592066360/1c9feaa7d19930b02f5089728e48/image.png?expires=1763568000&signature=e0f34671265450b842f01b0752ef9c05e57ec3dffbec4e9a573ac1ebbd66e3a8&req=dSUuFMl4m4JZWfMW1HO4zdQNCAzZk9FmqgKOLMPKf520GP%2BfAs%2BgHa95Zevu%0ABv4lUUKmh6Y8W7WV4OA%3D%0A
+
+- A dialog box will display instructions for adding your tracking number to your advertising source.
+
+- You can test it by calling the number to verify that it goes to the Destination number.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1592068177/2c58d2bb8f6e6c11c99559292e85/image.png?expires=1763568000&signature=52e18acbb8469303d1b31009771c76835e75abc62f07b0bd2d8e66ffb088f29b&req=dSUuFMl4lYBYXvMW1HO4zf0YTcyeJFIJxqUAXMFkQZX9oqsSdwbVlbzmOAKy%0Avm6kBen1aq%2BXME122os%3D%0A
+
+---
+
+Delete a Call Tracking Number
+
+To delete your call tracking number, follow the steps outlined below:
+
+- Navigate to your Phone Numbers Settings page.
+
+- Click on the three vertical dots icon to the right of the number you would like to delete and select Delete call tracking number from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653276123/324c672f9f0941e9abd85bf1002e/image.png?expires=1763568000&signature=8efcde0256d1a0b80d03243aa22495dc13f905c8b91dde0ab5652d9a59c956f9&req=dSYiFct5m4BdWvMW1HO4zXST6aKzida3xfe539kpV4DAk6jT5R25%2ByBVMn7e%0A9HiCaUs26SqxOm%2BYx94%3D%0A
+
+- A dialog box will appear and prompt you to type Delete to confirm that you actually want to delete this call tracking number.
+
+- Select Delete in the bottom right corner of the window to confirm the deletion.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1592077622/92170c2420cfea5823f6b8f363dc/image.png?expires=1763568000&signature=615f7428ffa748d880197a8d31d61f51cfbd9a60e2ea3f341a8739cb7fd50ca2&req=dSUuFMl5moddW%2FMW1HO4zcpcmojl%2F%2F0%2FocCyLtk%2BDiMwrkjlKf3FIwoGzMvW%0AYSl6HFjWDSovHBVTtzM%3D%0A
+
+---
+
+Edit Destination Number or Lead Source
+
+To edit your call tracking number, follow these steps:
+
+- Start by navigating to your Phone numbers Settings page.
+
+- Next, click on the three vertical dots icon to the right of the phone number you would like to edit, then select Edit destination or Lead source from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653277209/970fe2458b9527df8d964abd72a1/image.png?expires=1763568000&signature=203986608bb697bf6657e6e72cffcd6960c06d4c920c04dfff5f1a39c2378296&req=dSYiFct5moNfUPMW1HO4zQgP32Iv5wsY%2BtTJ9aL%2B99GXriP49ZmQMwHfY3yH%0ASsobqzIce3TysNp6zNY%3D%0A
+
+- From there, you will be prompted with a dialog box to make changes to the lead source or destination number. Make your changes and click Save in the bottom right corner of the window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653277851/42a653e6d693d0c7dd16d0799bbe/image.png?expires=1763568000&signature=1b61fe25d2115c11a4e257c180d42cf9d7d77c08068ca751327d1164e31a9676&req=dSYiFct5molaWPMW1HO4zTtwR9j84o7zBS1ykUox4r5idudvp%2Ffj2eM0hL5J%0ACGXG8us%2FpYqteHhGv4Y%3D%0A
+
+---
+
+---
+
+Add Call Tracking Numbers to Your Advertising Sources
+
+We have provided a set of instructions for adding your call tracking numbers to the most popular lead generation platforms so that you can easily get your tracking numbers set up properly:
+
+- Google Business Profile
+- Facebook Business
+- Facebook Page
+- HomeAdvisor
+- Angi's
+- Yelp
+- Thumbtack
+
+---
+
+Google Business Profile
+
+- Log in to your Google Business Profile.
+
+- Click on Info from the menu on the left.
+
+- From there, under your company info, you will see a phone icon. Click on the pencil icon to the right of the phone to make edits.
+
+[Image] https://downloads.intercomcdn.com/i/o/500392386/382be6d743a63d3beb67f377/7c7ceabb-2f9e-4eb0-a72d-3eac57372aad.png?expires=1763568000&signature=eb4fb63f4bbde313b114bd9962a2e22737f601ab44230a95263ef74647662719&req=cSAnFcB8nolZFb4f3HP0gFN9bxXAY9MIoeyyBvobTMpWYHj4MLKolYYoaPPa%0A07U8SzVV83hI7pgrxw%3D%3D%0A
+
+- Next, add your tracking number as your primary business phone number. You can still have your company phone number as a secondary number.
+
+- Select Apply.
+
+---
+
+Facebook Business
+
+- First, log in to your Facebook Business account.
+
+- Next, navigate to Business Tools and go to Business Settings.
+
+[Image] https://downloads.intercomcdn.com/i/o/500392688/10e87232578551e8274d958b/7e5d9977-8f41-4f16-a385-63e2d0613212.png?expires=1763568000&signature=abc55e8bbf6bb6333ce6ba75e7783a55e37c9c9f6ffaa1fab6a8ef3402e95030&req=cSAnFcB8m4lXFb4f3HP0gPu%2BdojfsgpwBs6GJxmef9fyOFf9GTAGwTZM%2BzCE%0AM9jLqaORVrgEdwtU%2BA%3D%3D%0A
+
+- Next, in the left menu, click on Business Info.
+
+- From there, under Business Details, click Edit and add your tracking number as your business phone number.
+
+[Image] https://downloads.intercomcdn.com/i/o/500392853/c2a98a125be65c7cf9037b3c/fefa1f13-8111-4841-ac4a-419146013a46.png?expires=1763568000&signature=957a72b5f005085f456093fda107ea849d0d21778506a7df0b29d7d2b90fa30b&req=cSAnFcB8lYRcFb4f3HP0gCIYmkYXLaZ%2Fa%2BUG662CtTS8eF3jHyfrwpTDF8mE%0ATclN0kJOTpFmRiI0WA%3D%3D%0A
+
+---
+
+Facebook Page
+
+- Start by navigating to your Pages and opening up your Facebook page.
+
+- Next, go to About.
+
+[Image] https://downloads.intercomcdn.com/i/o/500393097/5edd23b5c630356f6358888b/db3c2346-8b34-4f3a-8a04-43fdb952ae3f.png?expires=1763568000&signature=4f9f8e53b2b71166d16a811a28ee59ecba415e0e0276ca0292c7018097b88d20&req=cSAnFcB9nYhYFb4f3HP0gNVWz4w8nd%2Bhh%2BYZohF15pLqi4cYV%2Fg3AdWnTr8Q%0AFX01FqGgestT6p6hGg%3D%3D%0A
+
+- Then go to Contact and Basic Info from the left menu.
+
+- Next, click Add Phone.
+
+- Lastly, add your tracking number and click Save.
+
+---
+
+HomeAdvisor
+
+- Start by logging into HomeAdvisor Pro.
+
+- Next, go to Account and then Communication Preferences.
+
+- From there, go to edit Business Phone and add your tracking number, and click Save.
+
+---
+
+Angi’s (formerly Angie’s List)
+
+- First, go to your Profile and under My Business, click on Contact Information.
+
+- Next, update your phone number with your tracking phone number and click Save.
+
+---
+
+Yelp
+
+- First, go to the Business Information tab on the left-hand menu.
+
+- Then click Add or Edit next to Business info.
+
+- Next, add your tracking phone number and click Save changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/500394169/bcf6ac22fa113ae427f9e039/7d6329ba-ce12-446a-97e2-2d8923470080.png?expires=1763568000&signature=7e59cb42004643fa3a650450ddc07e2a581ff985359f89ad926c6d4c1aca1f69&req=cSAnFcB6nIdWFb4f3HP0gLIh3ZlIvyZ3EHFBpqrN7PtRM4NkDGOUNzSlkqqp%0AzqHvn3NkPxSoh3UMMQ%3D%3D%0A
+
+---
+
+Thumbtack
+
+- First, log in to your Thumbtack account.
+
+- Next, open your profile by selecting the Profile tab at the top of the webpage.
+
+- Then click the View as customer button to see a preview of your profile.
+
+- Lastly, click Edit and add your tracking phone number.
+
+[Image] https://downloads.intercomcdn.com/i/o/500394528/bf39814ad191a50a7374a707/899cef29-5922-4959-af39-cb250f84103a.png?expires=1763568000&signature=ad7d2ea14d86b20fc15ea776ef6b4856ceb5630d05861b88284fef7d42a960aa&req=cSAnFcB6mINXFb4f3HP0gMBLcSDD3AJVFeR4%2FTy1sjuMuY8wnjkHfM7GI%2BqX%0AX09IJT1GgmjwhdWWCw%3D%3D%0A
+
+---
+
+---
+
+Verify Your Identity for Voice
+
+It's important to verify your identity so that we may properly register your phone numbers. This ensures two things:
+
+- Your calls don't show up as spam to your customers
+- Your calls show your company name to your customer
+
+We do this by registering your phone numbers, on your behalf, for SHAKEN/STIR and CNAM.
+
+---
+
+Verify Your Identity
+
+- When you onboard with Voice, we will show you this dialog box to ask for more information about your business.
+
+- This data allows us to register your phone numbers with your business through Twilio.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1217241360/d34e36c47f2a22459eefe98d0084/Dialog.png?expires=1763568000&signature=379eeceee9e08e8698f018b5d22b557eda05e72f6ff4d77ef5cbda794692bdce&req=dSImEct6nIJZWfMW1HO4ze%2FRNL%2FzEnN4vtLEbacekzJFFnlq8DErXFP6kC6G%0AzqM4EV64Ns3E8G818K8%3D%0A
+
+---
+
+SHAKEN/STIR
+
+- SHAKEN/STIR is a protocol by the FCC to address unwanted robocalls and unlawful spoofing. It is a caller authentication framework where we register your phone numbers under your business information. Once your business is registered, it will increase the chances of your calls getting answered because they won't show as spam to your end customers. For more details, please visit Twilio's documentation.
+
+---
+
+CNAM
+
+- Caller ID Name or CNAM is a service that provides the name of the calling party. This must be a 15-character name. When you verify your identity through onboarding, we will also register your phone number with the CNAM lookup so that it shows your business name to the customer. For more details, please visit Twilio's documentation.
+
+---
+
+---
+
+Employee Permissions for Voice
+
+There are certain permissions necessary for employees to have so that you can configure the Voice solution to best meet your needs.
+
+These permissions are as follows:
+
+- Allow user to chat with customers
+- Configure voice settings
+- View Call Logs
+- Listen to Call Recordings on Web and Mobile
+
+---
+
+Allow User to Chat with Customers
+
+The permission Allow User to Chat with Customers allows you to configure which employees are able to receive and reply to messages received from customers who use the Housecall Pro consumer app.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1217368685/34330fff65b0b29779ceccb4651b/Screenshot-2B2024-10-10-2Bat-2B1_52_50-E2-80-AFPM.png?expires=1763568000&signature=01749deb8c5eeeddbbed5574ee7060c625a8f49fcc59f4dfc04cb05435550fd0&req=dSImEcp4lYdXXPMW1HO4zePziytKqvZZPz3fSzpB3HHkS637wOh%2Fjt7zkpZG%0Agq2j31RVY9JAb6zOCmc%3D%0A
+
+---
+
+Configure Voice Settings
+
+The permission, Configure Voice Settings, allows you to configure who will have access to Voice Settings so that you can limit who can make changes to your phone numbers, recording or masking settings, and voicemail.
+
+As an example, you may have office staff who you do not want to access your settings for communications, so you may toggle this off for them.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1217368683/f82d874545a454da89d8b1bb3435/Screenshot-2B2024-10-10-2Bat-2B1_54_00-E2-80-AFPM.png?expires=1763568000&signature=3b95f8098f8ddb3bb49af46356087b9ae0ee99c348b7794d8a93d013d0e3f749&req=dSImEcp4lYdXWvMW1HO4zdOQOt%2FfDajPNaDeCQr1p7wmyHznHlqrn8HZSQVA%0Al53gzd%2BhQ2UcC1dyHcU%3D%0A
+
+---
+
+View Call Logs
+
+The permission, View Call Logs, allows Employees to view the global and customer call logs on web and mobile.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1217368684/c09aa9db1e95d2a6930a8054676d/Screenshot%2B2024-10-11%2Bat%2B1_51_47-E2-80-AFPM.png?expires=1763568000&signature=839b4c1e0ffdfda9629d0881569fb92c1abe9d3a8ffa2967a58f376c39670ae5&req=dSImEcp4lYdXXfMW1HO4zeuQbNqsPSiom4s%2BnDAyJYkJP7AecSAQQx4ju%2F0o%0ABqEwLgV14EPXHuMlrpM%3D%0A
+
+---
+
+Listen to Call Recordings on Web and Mobile
+
+The permission, Listen to Call Recordings on Web and Mobile, allows Employees to be able to listen to call recordings on web and mobile.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1217368686/0eb20b8b1c72ce1d79b79d71f392/Screenshot-2B2024-10-10-2Bat-2B2_19_45-E2-80-AFPM.png?expires=1763568000&signature=757642b50327592e360344de782a04e64c06d3ef0dfc054c07472fb743d63740&req=dSImEcp4lYdXX%2FMW1HO4zeygbwelCUz0s2S1Qdj1GLtpvkGeFjToWtuZqmjX%0Av821wvQZ3Zy5S5VgssE%3D%0A
+
+---
+
+---
+
+Set Up Your VoIP Features
+
+Now that you have gone through the first-time setup, you will want to configure your VoIP solution so it works best for your business. We have provided links below to a few of our other articles to help with this process.
+
+- Navigate to your Voice settings.
+- Configure call recording.
+- Setup call masking for your technicians.
+- Learn how to Track your Call Usage.
+
+---

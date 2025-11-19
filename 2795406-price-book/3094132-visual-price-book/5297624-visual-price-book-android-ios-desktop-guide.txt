@@ -1,0 +1,267 @@
+Visual Price Book: Android, iOS, & Desktop Guide
+Source: https://help.housecallpro.com/en/articles/5297624-visual-price-book-android-ios-desktop-guide
+Author: Layla K
+Last updated: Updated over a month ago
+
+Summary: Learn how to use Visual Price Book with an Estimate or Job
+
+Accessing the Visual Price Book
+
+Note: If you need to still set up your Price Book, you can get started in our collection of Price Book articles.
+
+With the Visual Price Book, you can enhance your sales process by showcasing both services and materials in a clear and engaging manner. This feature includes two distinct Visual Price Books: one for services and one for materials. Each Price Book is designed to build trust with customers and streamline the job process for your employees.
+
+Additionally, both the Service Price Book and the Material Price Book include a search bar, allowing you to quickly find specific services or materials, making it easier to add items to your estimate or job.
+
+---
+
+Table of Contents
+
+Table:
+Row 1: Accessing the Visual Service Price Book on Desktop | Video Tutorial for the Visual Service Price Book on the Desktop:
+Row 2: Accessing the Visual Material Price Book on Desktop | Video Tutorial for the Visual Material Price Book on the Desktop:
+Row 3: Accessing the Visual Service Price Book on iOS Apple Devices | Video Tutorial for the Visual Service Price Book on IOS Apple Devices:
+Row 4: Accessing the Visual Material Price Book on iOS Apple Devices |
+Row 5: Accessing the Visual Services Price Book on Android Devices |
+Row 6: Accessing the Visual Material Price Book on Android Devices |
+
+---
+
+Accessing the Visual Service Price Book on Desktop
+
+To add items from the Visual Price Book to your estimate or job, start by creating a new job or estimate, or by accessing the existing job or estimate you are currently working on.
+
+In the 'Line Items' section, you will find two distinct Visual Price Books: the Service Price Book and the Material Price Book.
+
+[Image] https://downloads.intercomcdn.com/i/o/1126075059/273ecfe276a2a52c3e8e83f5/Screenshot+2024-07-26+at+3_55_42%E2%80%AFPM.png?expires=1763568000&signature=26587ad6c85a313139946f9cdd317adcbe736b04d549d9e3c9cc1fa6e43af305&req=dSElEMl5mIFaUPMW1HO4zXiVMRsi4WcqUslRSmP4cMCUDzAd7moVwtWQrXR0%0A1R7goWCw6voer7gVYe0%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/1126025813/5c544bd4cad2d5077b0d7af4/image.png?expires=1763568000&signature=996d9bbd1cb654614a146cb7998381dd0d74d7b5e3791c1691ae16596067eec5&req=dSElEMl8mIleWvMW1HO4zdGYc5zqh3S41lFcVSf03x9BsiGp%2FHSTY6q%2FliYl%0Ahxpihil9kzw9z0neJEQ%3D%0A
+
+To add services from the Visual Service Price Book, click the blue 'Service Price Book' icon in the top right corner of the 'Services' section within 'Line Items.' This will open the Visual Service Price Book interface.
+
+[Image] https://downloads.intercomcdn.com/i/o/344601592/d1e33d4f4d52f7a5082e303a/Screen+Shot+2021-06-01+at+12.34.23+PM.png?expires=1763568000&signature=522a3089907121b06905e1e9d45dddaab838ed4f55f6d014f4661e7740beff77&req=dyQjEMl%2FmIhdFb4f3HP0gIAmSrSYSLZG5KQTpsmqiYIdm2ifL6xlBeLR1VHD%0AfWvL9fWojkVB3b2xzw%3D%3D%0A
+
+Next, select your industry from the list of available options.
+
+[Image] https://downloads.intercomcdn.com/i/o/344602540/b7afc9dae1d2c215e79bda26/Screen+Shot+2021-06-01+at+12.34.45+PM.png?expires=1763568000&signature=e96d3103139c66efaa368ea6bd0ee5dbf8c32123f68bf4da310e77ce261d412e&req=dyQjEMl8mIVfFb4f3HP0gL7ER%2F24351f6xDKjxr%2FImuc42jg0oQ7zob3uqfC%0AChLFi8nJRZh5iI3%2BRw%3D%3D%0A
+
+After choosing your industry, proceed to select the appropriate category for the service you want to add.
+
+[Image] https://downloads.intercomcdn.com/i/o/1126112287/b21db80edfeadb3398b8d5c3/image.png?expires=1763568000&signature=67fb97c3153af29bd0317701f434c16fd006f2cc1c0848098ae74ad208d0d8bc&req=dSElEMh%2Fn4NXXvMW1HO4zazVJvs2J05YCIXeGb8X4yNCiC7K013%2FsZsAakUS%0AzjlJ5rEWqSup8DNvXBk%3D%0A
+
+Browse through the available services in the chosen category and select the one you wish to include.
+
+Click 'Add Item' to add multiple items at once. To track how many unique services or materials have been added, refer to the counter indicated by a wrench icon in the top right-hand corner. You can adjust the quantity of each item by typing the number manually or using the '+' and '-' signs.
+
+Once you’ve added all your items, click the 'x' in the top right-hand corner to return to viewing your job or estimate.
+
+​Important notes:
+
+- The multi-add view of this feature is only available on web at the current moment.
+- To remove an item you added, exit out of the Visual Price Book and click the 'x' on the line item on the invoice or estimate
+
+[Image] https://downloads.intercomcdn.com/i/o/344603161/5ad0f0b33aac669a7274dae0/Screen+Shot+2021-06-01+at+12.34.59+PM.png?expires=1763568000&signature=c66049a029561650d623e3a9a963696fcf67b68c05af9930cb1c2435ded6373e&req=dyQjEMl9nIdeFb4f3HP0gN4UsHAvmY96KvyWq9%2FNrd6%2Bs1YrfSIvZYHT11AY%0Ac%2Fr9vaOnc6wmrvwbIQ%3D%3D%0A
+
+Additionally, you can click 'View Details' under the item and then click 'Add to Job' to add the selected service to your estimate or invoice.
+
+[Image] https://downloads.intercomcdn.com/i/o/344603983/4646d5d9baacda283be73b6a/Screen+Shot+2021-06-01+at+12.35.22+PM.png?expires=1763568000&signature=a2ea8a2e400f49ba2503723f10290944766c0d2572faee8843de864fe0fa4be3&req=dyQjEMl9lIlcFb4f3HP0gN2jx16uVHIwgjblvj0VAlNQ%2B9TDgwKa4xnm%2FEgA%0As9D6Zv5hVqQ8kf4Vdg%3D%3D%0A
+
+You will be returned to your estimate or invoice, where the newly added item will now be visible. Items added from the Visual Price Book will appear in the services section of the invoice.
+
+Video Tutorial for the Visual Service Price Book on the Desktop:
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/cglsdj2uy7
+
+---
+
+Accessing the Visual Material Price Book on Desktop
+
+To add items from the Visual Price Book to your estimate or job, start by creating a new job or estimate, or by accessing the existing job or estimate you are currently working on.
+
+To add materials from the Visual Material Price Book, click '+ Materials Item' and then the blue 'Material Price Book' icon in the top right corner of the 'Materials' section within the 'Line Items' section. This will open the Visual Material Price Book interface.
+
+[Image] https://downloads.intercomcdn.com/i/o/1126090612/1dd65ab4c99352fa02e2d054/image.png?expires=1763568000&signature=4328e58b84d40f49398caee3cb2ec20eb1021951f676fbbe9f01adeed0406b0f&req=dSElEMl3nYdeW%2FMW1HO4zV19pZAO%2FwuNVohiNpKU3Kgfmm3FVdgdAMdE6c%2Bk%0ArXUoHAevjeRBI1lGSkE%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/1126091457/7d072312292648ff64fd690a/Screenshot+2024-07-26+at+4_16_14%E2%80%AFPM.png?expires=1763568000&signature=f287f7e26bace2c616649d8e8d2b0d0af09c474b8be515a83a12235290532006&req=dSElEMl3nIVaXvMW1HO4zSfKMY4Q9t9kR1mmwoyV5EWogvAMZULchgufuULx%0AwlUk%2BAF5WH%2BVFbhrOpg%3D%0A
+
+Unlike the Service Price Book, you do not need to select an industry. Instead, you will see a list of categories for materials.
+
+[Image] https://downloads.intercomcdn.com/i/o/1126077085/07bae97a4fd231a304b93c8a/image.png?expires=1763568000&signature=46d4e65bb7d6320dce6ae08c9b9e453abde0d776203d0cd42ecd13d32dc6154a&req=dSElEMl5moFXXPMW1HO4zXG12HFaU7Gf2UiWJuzfTd4XbhK%2FPnAMcAkCLB63%0AuRcHaxDkGBz9rfolTP8%3D%0A
+
+Browse through the available materials in the chosen category and select the one you wish to include.
+
+Click 'Add Item' to add multiple items at once. To track how many unique services or materials have been added, refer to the counter indicated by a wrench icon in the top right-hand corner. You can adjust the quantity of each item by typing the number manually or using the '+' and '-' signs.
+
+Once you’ve added all your items, click the 'x' in the top right-hand corner to return to viewing your job or estimate.
+
+​Important notes:
+
+- The multi-add view of this feature is only available on web at the current moment.
+- To remove an item you added, exit out of the Visual Price Book and click the 'x' on the line item on the invoice or estimate
+
+[Image] https://downloads.intercomcdn.com/i/o/1126077372/59799645bef750b3524be6c9/image.png?expires=1763568000&signature=a66c82bfb922429c1d6536358664781734dfe76d2424d83650e506edf3c0e5e4&req=dSElEMl5moJYW%2FMW1HO4zdUU4mMvHgnLH%2FfBwpwiyUFWz2LXqXYC%2FRlhes7a%0AGvwdcCyfNRxkaHnW52Y%3D%0A
+
+Additionally, you can click 'View Details' under the item and then click 'Add to Job' to add the selected service to your estimate or invoice.
+
+[Image] https://downloads.intercomcdn.com/i/o/1126077813/a953c2590549a945cab01d6a/Screenshot+2024-07-26+at+3_59_08%E2%80%AFPM.png?expires=1763568000&signature=fb08238b257c447ae4dfda90bf412e5556245325f228bfb8f9daa09bf2fa1661&req=dSElEMl5moleWvMW1HO4zaAVqXFhVRW%2Boas%2B6BOP1hatk4tN4Co2%2Bu%2BvrpcV%0A6misEIEsW586J2wBQPU%3D%0A
+
+You will then return to your estimate or invoice, where the newly added material will now be visible. Items added from the Visual Material Price Book will appear in the materials section of the invoice.
+
+[Image] https://downloads.intercomcdn.com/i/o/1126114676/e6383b49d4f261eba2f77e05/image.png?expires=1763568000&signature=259337ececd7264f0eba51128d830bf26c649bc4b88c1ad468ab02b596eae31d&req=dSElEMh%2FmYdYX%2FMW1HO4zYSmpkEkzKb2kBydXPWWoMjtHzWMBJMu3h39f4d7%0AjtA8XFRN5zjq%2F4TB5wo%3D%0A
+
+Video Tutorial for the Visual Material Price Book on the Desktop:
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/99nmfmddtq
+
+---
+
+Accessing the Visual Service Price Book on iOS Apple Devices
+
+To access the Visual Service Price Book on iOS devices such as an iPhone or iPad, start by opening the Housecall Pro app.
+
+Then, either create a new estimate or job by tapping the + icon and selecting 'Job' or 'Estimate,' or find an existing job or estimate by tapping the 'Schedule' icon at the bottom of the navigation bar.
+
+[Image] https://downloads.intercomcdn.com/i/o/1126014429/b89e2839a927a8899ef97a31/IMG_3046.jpg?expires=1763568000&signature=5d781133f1c4600257922ed5a9de1253dad2236cc60a2f99cb19963129ef6d71&req=dSElEMl%2FmYVdUPMW1HO4zVnUNg5%2BGt%2BBEGRORgkTxCCcKTgTdiQKFzWZHYzl%0AjQCTAMTDTwhk%2F3Tdef0%3D%0A
+
+Next, select the edit pencil icon next to the line item within the estimate or job.
+
+[Image] https://downloads.intercomcdn.com/i/o/1126119351/dad739d10c77c0983370d451/image.png?expires=1763568000&signature=f1adc213c45aee105a33dd3bdba8ebda2d632c8974b6aefe271ca295374a4644&req=dSElEMh%2FlIJaWPMW1HO4zUne8KyILe1crJTeizJrp5pENKhFdnHYHNwAGkAJ%0AesFJqRwb%2FcF4XrI5goQ%3D%0A
+
+Look for the blue Service Price Book icon in the top right corner of the screen and tap it to open the Visual Price Book.
+
+[Image] https://downloads.intercomcdn.com/i/o/1126119657/a3645e68af73da5bc8329991/image.png?expires=1763568000&signature=75d8c2bac199b57fc83e460db6e53c45d6ee07eebbd22263fbc58337a0472aab&req=dSElEMh%2FlIdaXvMW1HO4zVQNjl%2BK25l7LsMqnDlB3LBpe9Al5%2BBEMbYvfr3z%0ASjNZ8dk3UwD7jG6Px1Q%3D%0A
+
+You will now see the Visual Price Book, where you can select the industry, category, and service. Begin by clicking on the industry.
+
+[Image] https://downloads.intercomcdn.com/i/o/1126119950/927973230994c6b04a15df43/image.png?expires=1763568000&signature=396d80c491e830fa8eb2dc6b2dc4f26ec89f3d532fe9045c9d9eef0aac951096&req=dSElEMh%2FlIhaWfMW1HO4zRGyYnW5OIVkrh%2BwUXNEx%2BeTqEPOBq%2FNfO3yXiFh%0Ao7lb%2BSdDNioSfc7Bt0w%3D%0A
+
+Select the appropriate category and then choose the service you wish to add.
+
+[Image] https://downloads.intercomcdn.com/i/o/1126120729/8fb27d6acc250565fb5ed863/image.png?expires=1763568000&signature=1975a1fae1744c04d262062f3f5d5a921f919b81017c06d2cbac776bf3cac066&req=dSElEMh8nYZdUPMW1HO4zZ%2F1hWvlb7JlKfUzCGr%2FMFajjJ0pGRFU%2BRxDdpej%0AKAwQX5%2F9DAy8XssJfP8%3D%0A
+
+Once your service is selected, click 'Add to Job,' and then confirm your selection.
+
+[Image] https://downloads.intercomcdn.com/i/o/1126120325/a5ad076967f08986fbf3b63b/image.png?expires=1763568000&signature=2878530906ec943bff03f5808681771c5f95862d156dd9ec5f0b12e33a0b9fa3&req=dSElEMh8nYJdXPMW1HO4zeOE8OKUvVUpq%2Bbb90Wc8k62SrUeqILZ0Xmm1lm8%0Afa%2FizwtkdDpAA20sNa8%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/1126120471/9d46c00c8f87e672afac1de1/image.png?expires=1763568000&signature=96105019b24d59673f5834efc7328a6f898fb1c2fb15e79d18f371b6a7e861ba&req=dSElEMh8nYVYWPMW1HO4zf9ODaTdPp%2Fq1Yb4%2FvIA%2F0XltQQdJ6n0KCdVy%2BXL%0AsYJWMWp6Mj3ky7i%2FIds%3D%0A
+
+You will be returned to the estimate or job with the newly added service now visible.
+
+[Image] https://downloads.intercomcdn.com/i/o/1126121279/1ec510a40af90c02d56e1554/image.png?expires=1763568000&signature=8141c59c70282555a29f33ce4bcb8556f04c8224791233afd2af8a42a7f2e166&req=dSElEMh8nINYUPMW1HO4zViLB3CR10PA4ISk9lhnlu%2B7XB0Rb%2FjrO2JQR%2B2g%0A91MUAnF%2F6J6bi%2BYEZXs%3D%0A
+
+Video Tutorial for the Visual Service Price Book on IOS Apple Devices:
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/c6w3aulofs
+
+---
+
+Accessing the Visual Material Price Book on iOS Apple Devices
+
+To access the Visual Material Price Book on iOS devices such as an iPhone or iPad, start by opening the Housecall Pro app.
+
+Then, either create a new estimate or job by tapping the + icon and selecting 'Job' or 'Estimate,' or find an existing job or estimate by tapping the 'Schedule' icon at the bottom of the navigation bar.
+
+[Image] https://downloads.intercomcdn.com/i/o/1126014429/b89e2839a927a8899ef97a31/IMG_3046.jpg?expires=1763568000&signature=5d781133f1c4600257922ed5a9de1253dad2236cc60a2f99cb19963129ef6d71&req=dSElEMl%2FmYVdUPMW1HO4zVnUNg5%2BGt%2BBEGRORgkTxCCcKTgTdiQKFzWZHYzl%0AjQCTAMTDTwhk%2F3Tdef0%3D%0A
+
+Next, select the edit pencil icon next to the line item within the estimate or job.
+
+[Image] https://downloads.intercomcdn.com/i/o/1126119351/dad739d10c77c0983370d451/image.png?expires=1763568000&signature=f1adc213c45aee105a33dd3bdba8ebda2d632c8974b6aefe271ca295374a4644&req=dSElEMh%2FlIJaWPMW1HO4zUne8KyILe1crJTeizJrp5pENKhFdnHYHNwAGkAJ%0AesFJqRwb%2FcF4XrI5goQ%3D%0A
+
+Look for the blue Material Price Book icon in the top right corner of the 'Materials' section within the 'Line Items' section and tap it to open the Visual Price Book.
+
+[Image] https://downloads.intercomcdn.com/i/o/1126125816/1bf301947fac6e2db47fdf14/IMG_3050.jpg?expires=1763568000&signature=77fcf0687a9d65d93043fa246464cfcf92b0eb7172079b8f0168959aae293f19&req=dSElEMh8mIleX%2FMW1HO4zah9DHdhbDMNUhLkKjRxHXQm1iucygeeO0QXzY6q%0Ant9VkuxAwX7s6fsq0LI%3D%0A
+
+You will now see the Visual Price Book, where you can choose the category and material.
+
+[Image] https://downloads.intercomcdn.com/i/o/1126126462/afe87497865ca7f35380f33b/IMG_3056.jpg?expires=1763568000&signature=27cb12a194e0e5fed7cbb2e9947f16ee3a1bb508f3d95ae8b41ede7526d11d25&req=dSElEMh8m4VZW%2FMW1HO4zZXAmt0YGwhgGx7%2Bl6HAzkYR1p6e32pFEs6Rq5Jz%0AV5mDsakkA2rbWTCXoX4%3D%0A
+
+Select the appropriate category and choose the material you wish to add.
+
+[Image] https://downloads.intercomcdn.com/i/o/1126126615/30a557e5ca7b36f47f3b3a48/image.png?expires=1763568000&signature=74ae1eb9a9a84e0002791bf7aace9883c7fe525ee781efcccafd706ff6374227&req=dSElEMh8m4deXPMW1HO4zZWoS9a14SFAgixPB0vs5MNjzZVIWLQuM%2FgXHZld%0AaC9JV0W%2BcEFYA22HGQI%3D%0A
+
+Once your material is selected, click 'Add to Job,' and then confirm your selection.
+
+[Image] https://downloads.intercomcdn.com/i/o/1126126772/34e3565b4541a962a4ce0e18/IMG_3058.jpg?expires=1763568000&signature=16f2ca95cc13033f89fdf9a54340e12f32f7a1b5c69b5db6e54c5dd703fcaba4&req=dSElEMh8m4ZYW%2FMW1HO4zbZCX4OmFwUo2VWJ8Q9jjW%2BNcDhs1LfG984DHHth%0AWd9aT99wOnqC1LFws%2F4%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/1126126882/15555ca024b2765332e81f8b/IMG_3059.jpg?expires=1763568000&signature=ee42a736bdc30b0248e3608bab2b1e1e2f67f2b4dc8df6a03a561fa1c24420bb&req=dSElEMh8m4lXW%2FMW1HO4zUvwLklAaFoX%2FyE3Pk7wtm%2B%2BCVTXfgEs9bDdBf7u%0AqyHO8Ss8keK03IY%2BH1A%3D%0A
+
+You will be returned to the estimate or job with the newly added material now visible.
+
+[Image] https://downloads.intercomcdn.com/i/o/1126126999/3ccbef97672791313047478b/IMG_3060.PNG?expires=1763568000&signature=929aa8120fdd9de8d2be37ab5bdbe2599061be0617ba4199feb0fbffdda590e0&req=dSElEMh8m4hWUPMW1HO4zQy%2Fr6qD8izblc%2BlVLYvHGvnUjG6IZBaQvmJKLnf%0AO726gBVT0qGTsvRMwE0%3D%0A
+
+---
+
+Accessing the Visual Service Price Book on Android Devices
+
+To access the Visual Service Price Book, start on the job or estimate page. You can either open an existing job or estimate or create a new one by clicking the green + icon in the bottom right corner and then selecting 'New Job' or 'New Estimate.'
+
+[Image] https://downloads.intercomcdn.com/i/o/111051008/e61a729cc2bd5ea49c0c8817/_no_subject__-_christina_green_housecallpro_com_-_HouseCall_Mail.png?expires=1763568000&signature=9ed3471b6916e13c5af228f67b2e4c364b1a083c90421df8e5c4146a7f40599e&req=dSEmFsx%2FnYFXFb4f3HP0gIeAEA%2FHI2Cuyv%2FjKx02QEVl73t5owb1e%2FPnUrAq%0Aoj5Y4Hl49bvCzEBdaA%3D%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/159963130/cbabd0e9a4ff60dd9372afab/image.png?expires=1763568000&signature=8f1a80487edad9a23ed50aea22d9a322e0c31dd0f8bee4b0dd60999c78706625&req=dSUuH899nIJfFb4f3HP0gBIBbr16Qjzl3q6TgP%2BOuH7CPMqCyF%2BwhkAKq2uB%0A%2FdXgtsZdAfABoEoGhQ%3D%3D%0A
+
+Navigate to the 'Line Items' section and click into the line item area to add a new service.
+
+[Image] https://downloads.intercomcdn.com/i/o/384401604/caf89d801b290aa45592e7a0/image.png?expires=1763568000&signature=86136ba8f278307467142fbf5620e52fe05789b2de3dfbb9f71447db30f5cfa1&req=dygjEsl%2Fm4FbFb4f3HP0gK3WNqcvp0HmuteD4HhbeN0q7i1V%2BbKpFUwmoY84%0A74tfFBvm%2FuqghstXzQ%3D%3D%0A
+
+Once in the 'Services' section, click the blue 'Service Price Book' icon in the top right corner to open the Visual Price Book.
+
+[Image] https://downloads.intercomcdn.com/i/o/1126137772/9263ab59e4d60204c2725cef/Screenshot+2024-07-26+at+5_22_22%E2%80%AFPM.png?expires=1763568000&signature=d8a1b0b03731ce59bfc15afbf00f23a05ce0ee362a73b3fdd3e3079078928405&req=dSElEMh9moZYW%2FMW1HO4zb7dtb%2BRUSgdDY%2B8L4PN1XZ%2F93XZYVl7vFy%2FcBzz%0A4RXHeXOOJXr3G%2BXHfSw%3D%0A
+
+You will now see the Visual Price Book, where you can select the industry, category, and service. Begin by clicking on the industry.
+
+[Image] https://downloads.intercomcdn.com/i/o/1126146999/8cac786a874c2b3d5691bc55/image.png?expires=1763568000&signature=73ca70f4b32b2de061c3a38ff2ef84eb1d4995bb1e9bf259c7df673080f8f1a7&req=dSElEMh6m4hWUPMW1HO4zXr36RQn4R6BwWTQIXBdnqrgkAluDtzGMQ64%2FGW2%0ASznkwVGtWzMydwiXe%2BU%3D%0A
+
+Next, choose the appropriate category and then select the service you wish to add.
+
+[Image] https://downloads.intercomcdn.com/i/o/1126147557/e04e442670910df69b9a87fa/Screenshot+2024-07-26+at+5_40_29%E2%80%AFPM.png?expires=1763568000&signature=41b126d1188bbe2ba28216a714de5b1dd8e5448caae2c436f8c5ba64d9162c73&req=dSElEMh6moRaXvMW1HO4zYgorZsK9Ei1y0QiUg3pw0Pn7aCXdBKSgosI1F%2BV%0AkBQ%2F%2FSdoslrIbbYUJcQ%3D%0A
+
+Once you have selected your service, click 'Add to Job,' and then confirm your choice.
+
+[Image] https://downloads.intercomcdn.com/i/o/1126147840/703116db323a191221a79c18/image.png?expires=1763568000&signature=4f24b7aacb8830f9a3c0199e2e6ac450e91ae6cf1795dcba29bfa03562ddb3df&req=dSElEMh6molbWfMW1HO4ze9dZ9jaAHgKw%2B2w262ZYNIV14Ko9N%2Bi7QK7Jfs5%0AEFGTpLaR7DiVfsu7jdQ%3D%0A
+
+You will be returned to the estimate or job, where the newly added service will be visible.
+
+[Image] https://downloads.intercomcdn.com/i/o/1126150635/f452caf5eca54d0189bb92ec/image.png?expires=1763568000&signature=123fdd2c910008a620d2ebbd26ec149da6cbe4ab6426245e4f9544d7215a4feb&req=dSElEMh7nYdcXPMW1HO4zeIIn23WRmU4r3GFceGG4cf06BopCXZzIhsGSud4%0A5h0cbpew0QctLQzh2Vs%3D%0A
+
+​Note: If you serve across multiple industries, those industries will be listed independently. If you only have one industry in your price book, then you will be taken directly to the categories you have created. 
+​
+
+---
+
+Accessing the Visual Material Price Book on Android Devices
+
+To access the Visual Material Price Book, start on the job or estimate page. You can either open an existing job or estimate or create a new one by clicking the green + icon in the bottom right corner and then selecting 'New Job' or 'New Estimate.'
+
+[Image] https://downloads.intercomcdn.com/i/o/111051008/e61a729cc2bd5ea49c0c8817/_no_subject__-_christina_green_housecallpro_com_-_HouseCall_Mail.png?expires=1763568000&signature=9ed3471b6916e13c5af228f67b2e4c364b1a083c90421df8e5c4146a7f40599e&req=dSEmFsx%2FnYFXFb4f3HP0gIeAEA%2FHI2Cuyv%2FjKx02QEVl73t5owb1e%2FPnUrAq%0Aoj5Y4Hl49bvCzEBdaA%3D%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/159963130/cbabd0e9a4ff60dd9372afab/image.png?expires=1763568000&signature=8f1a80487edad9a23ed50aea22d9a322e0c31dd0f8bee4b0dd60999c78706625&req=dSUuH899nIJfFb4f3HP0gBIBbr16Qjzl3q6TgP%2BOuH7CPMqCyF%2BwhkAKq2uB%0A%2FdXgtsZdAfABoEoGhQ%3D%3D%0A
+
+Navigate to the 'Line Items' section and click into the line item area to add a new service.
+
+[Image] https://downloads.intercomcdn.com/i/o/384401604/caf89d801b290aa45592e7a0/image.png?expires=1763568000&signature=86136ba8f278307467142fbf5620e52fe05789b2de3dfbb9f71447db30f5cfa1&req=dygjEsl%2Fm4FbFb4f3HP0gK3WNqcvp0HmuteD4HhbeN0q7i1V%2BbKpFUwmoY84%0A74tfFBvm%2FuqghstXzQ%3D%3D%0A
+
+Once in the 'Materials' section, click the blue 'Material Price Book' icon in the top right corner to open the Visual Price Book.
+
+[Image] https://downloads.intercomcdn.com/i/o/1126149514/57abb687a6ea0989ccf16993/Screenshot+2024-07-26+at+5_43_41%E2%80%AFPM.png?expires=1763568000&signature=7044c7f86b988df72b8991713dcd0d4f8731b6e704b0d28a3e5d909dadcdef54&req=dSElEMh6lIReXfMW1HO4zYsSjkbj5XAwNqMNiV04IuzjVOlvxpc6gDLU2r8m%0AXaXZf0aJdk1gxH8I1DY%3D%0A
+
+You will now see the Visual Price Book, where you can select the category and service. Begin by clicking on the industry.
+
+[Image] https://downloads.intercomcdn.com/i/o/1126149991/b24628df6096e137ed215577/image.png?expires=1763568000&signature=83b45e706dbda61ecd8ade9c1b9e16497b9e2d294f72a10cb518d12bda8b1746&req=dSElEMh6lIhWWPMW1HO4zQF7o5sKNbBh2XzbQyIB34%2Bbnv%2FnAvaMT3mvUOKL%0A2j995CoZvL27kyiNCbg%3D%0A
+
+Select the appropriate category and choose the material you wish to add.
+
+[Image] https://downloads.intercomcdn.com/i/o/1126150174/9b3d54ef7d5531bb5aff75c6/image.png?expires=1763568000&signature=0969c4fb392a43ed33771b615b0bed453fe7a587e5e1b004611d321f80c9fe39&req=dSElEMh7nYBYXfMW1HO4zYbDbQ1NauRhjt0iJjGNhAD2e17ba3QqBr%2B0Phu8%0A%2BJK0DYnDD1GZIQxXiYU%3D%0A
+
+Once you have selected your material, click 'Add to Job,' and then confirm your choice.
+
+[Image] https://downloads.intercomcdn.com/i/o/1126150395/b682ee27fca5c81a4106ac30/image.png?expires=1763568000&signature=ef6cbeffc986a26622a72e73eedacd03699473330464b126d878e0ee5736aa50&req=dSElEMh7nYJWXPMW1HO4zQPZXsqjll%2Fds9J0T9ph6UaLGs5SPsTWhaMN3KPp%0AEOXutItOcw0WNNERjWw%3D%0A
+
+You will be returned to the estimate or job, where the newly added service will be visible.
+
+[Image] https://downloads.intercomcdn.com/i/o/1126150635/f452caf5eca54d0189bb92ec/image.png?expires=1763568000&signature=123fdd2c910008a620d2ebbd26ec149da6cbe4ab6426245e4f9544d7215a4feb&req=dSElEMh7nYdcXPMW1HO4zeIIn23WRmU4r3GFceGG4cf06BopCXZzIhsGSud4%0A5h0cbpew0QctLQzh2Vs%3D%0A
+
+​
+
+---
+
+---

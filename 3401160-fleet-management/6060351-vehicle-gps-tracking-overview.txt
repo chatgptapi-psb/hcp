@@ -1,0 +1,122 @@
+Vehicle GPS Tracking: Overview
+Source: https://help.housecallpro.com/en/articles/6060351-vehicle-gps-tracking-overview
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: Learn how to use Vehicle GPS Tracking and Fleet Management powered by Force Fleet Tracking
+
+Easily monitor where your vehicles are on the Housecall Pro map, utilizing GPS hardware that plugs right into your trucks.
+
+You can purchase GPS Tracking devices in your Housecall Pro account at $20 per vehicle per month with no contracts. For more information on setting up this feature, check out this article.
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/4iis1tudg9
+
+Check out Dashcams!
+
+---
+
+Live Map
+
+Get a complete understanding of where your techs are so you can optimize your schedule, book more jobs, and increase revenue.
+
+To access your map, log into Housecall Pro and click on the Map icon in the top right-hand corner of your screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/480813490/2d29555325ff5dd89abbd086/livemap.png?expires=1763568000&signature=515ca1e85fa7e5cb9f568ec281f7954339c6ca3cbd10b0589fffe2fe12c2233b&req=cCgnHsh9mYhfFb4f3HP0gO4z62h9xk8INxSBbQY8PAImvsEjTF6WlZ%2BMoGEI%0ABM8a9OjYzW%2F2onK%2FJQ%3D%3D%0A
+
+Locations are updated in real time and you can easily see where all of your employees are located. The Live map will provide information on the type of vehicle your employees are driving, the current status of their vehicle, as well as their last known locations when you click the Employee icon. 
+​
+
+Note: Vehicle data will update in real-time, but employee data may not update as fast. So, don't be alarmed if you see your tech and truck in different places on the map!
+
+Drivers will appear on your map in three different states:
+
+- Offline
+- Parked
+- En Route
+
+---
+
+On My Way Link
+
+The Customer On My Way text message now has a link to view the driver's location. The text will also include the vehicle and license number as well as the name of the employee(s) assigned to the job. Another great feature of the On My Way link is that it provides the job stats, the schedule, and the option for your customers to contact your business directly!
+
+The pro who clicks On My Way in the app will be the one whose picture and information are displayed in the text received by the customer. If multiple pros are assigned to a job, all pros will be displayed in the job details link.
+
+Make sure to add your license plate numbers to your Force Fleet Tracking account.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/629612982/db98d403681554daf4dd501e/Screen+Shot+2022-12-05+at+3.36.38+PM.png?expires=1763568000&signature=23c5ab8fa9cc8606fe0bfe3a15006e814e28c18bc61d541a0d89a97283a0707c&req=ciIuEMh8lIldFb4f3HP0gIPzZ2l9GEWJRDlocELhbbi8h%2Beu87QAPKBxeaoi%0Ak6c%3D%0A | [Image] https://downloads.intercomcdn.com/i/o/629613044/5bf4bd1390a6969135a7674b/Screen+Shot+2022-12-05+at+3.36.49+PM.png?expires=1763568000&signature=25bd6474e2b1c7844826fd95004c7e79c1a6d6bc3edc54597312da0b8257a684&req=ciIuEMh9nYVbFb4f3HP0gAXUrjfkx4ZlaMchEZPRW6%2FZqMjqMCSAMWmiobWR%0AjL0%3D%0A
+
+The customer map link will expire after you or your tech pushes Start, Finish, Invoice/Pay, or after 2 hours (whichever comes first).
+
+If you dispatch trucks that are not assigned to a Force device, those customer links will not include vehicle data.
+
+Note: We suggest changing the default On My Way text to say “track your tech here:“ Check out this help article to learn how!
+
+NOTE: You can toggle this feature on or off depending on if you'd like your On My Way texts to include vehicle data.
+
+To do so, login to Housecall Pro, and click on My Apps at the top banner of the screen, followed by "Go to App Store". Locate the Vehicle GPS Tracking app card and toggle off the "Share location with customer" setting.
+
+[Image] https://downloads.intercomcdn.com/i/o/492237575/8f0493f0508e2504bd9d9091/image.png?expires=1763568000&signature=5fe50b4f3b55545e3ca239287d224ccb77c93892fcf64ff08a70812ef1ad1243&req=cCklFMp5mIZaFb4f3HP0gKf%2FYcHAcWBktZLjsv7guqKLF8EtO6M6JlAWGD7v%0AC8xJiDqUe%2F2e9Rxcpw%3D%3D%0A
+
+---
+
+Force Fleet Tracking Dashboard
+
+You will be able to access your Force Fleet Tracking account through the magic link in Housecall Pro. To do so, log in to Housecall Pro, and click on My Apps at the top banner in the right-hand side of your screen, followed by "Go to App Store". Locate the Vehicle GPS Tracking app card and click Learn More. From there, log in to Force.
+
+Within your Force account, you'll also be able to access:
+
+- Trip history reporting for every job
+- Driver scores and Vehicle safety
+- Vehicle Status and Maintenance
+- Geofences - alerts if a vehicle leaves after hours, arrives at the office, or gets to a job site
+- Reports
+
+[Image] https://downloads.intercomcdn.com/i/o/480824243/5665149fd0d69d2853b7e170/trip+history+.png?expires=1763568000&signature=1000710e9e18c66902583bc7f6ad66729753825833c95dbf19defc7f63e0bb56&req=cCgnHst6n4VcFb4f3HP0gIFrukiJIDaK%2B5ukOo%2Fte49XWVj8nsJjzDE7l9H0%0Ar%2FloCwO4KVPRvg3ZTw%3D%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/480811800/28535105977187c347a5bd57/dashboard.png?expires=1763568000&signature=a951376d231d1f6b657d26c88f089a5134c7f200a0f13044dd861d8229e4fa27&req=cCgnHsh%2FlYFfFb4f3HP0gObb46fOCbdEGSvg%2BPrI1v7eHjBKIJp7od9BbX3A%0APXFKoUf0WpRrTlwXSw%3D%3D%0A
+
+Downloading the Force Fleet Tracking App
+
+- Download the Force Fleet Tracking app on your phone - Android 
+- iPhone
+- Open the app and click "Reset Password"
+- Enter the email address associated with your Housecall Pro account
+- Follow the prompts to set a new password and access your Force Fleet Tracking account
+
+---
+
+FAQs
+
+How reliable is the Force Fleet Tracking tracking?
+
+- Force Fleet Tracking is an exceptionally reliable and proven service. Over the years, Force Fleet Tracking has connected more than one million trucks, vans, and cars to their platform. They meet and exceed the stringent reliability requirements of partners like T-Mobile.
+
+Is the location-sharing functionality a manual process or an automated process?
+
+- Once your Force account is set up with Housecall Pro, anytime you send an “On My Way” text to your customer, it will automatically include a map with the tech’s location.
+
+Can techs easily unplug the devices?
+
+- Force Fleet Tracking will alert you that a device is offline.
+
+Do you have Dashcams?
+
+- Dashcams through Force Fleet Tracking will be available very soon! Click here to learn more and add yourself to the waitlist.
+
+How often does the map refresh?
+
+- The HCP map will appear in real-time for admins; it will refresh every 10 seconds for customer text messages.
+
+Where can I see truck locations?
+
+- Seeing your techs in real-time is available on the main Map feature in HCP - not on the individual job details maps. You can also see your tech’s live locations in your Force Fleet Tracking dashboard.
+
+---
+
+Support
+
+For set-up support, contact the Force Fleet Tracking support team at customerservice@forcefleettracking.com or call them at 1-806-855-8255
+
+---

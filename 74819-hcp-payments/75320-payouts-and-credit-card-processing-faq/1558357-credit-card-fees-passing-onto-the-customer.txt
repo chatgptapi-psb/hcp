@@ -1,0 +1,25 @@
+Credit Card Fees - Passing onto the customer
+Source: https://help.housecallpro.com/en/articles/1558357-credit-card-fees-passing-onto-the-customer
+Author: Jil O.
+Last updated: Updated over 8 months ago
+
+Summary: How to add credit card processing fees to invoices.
+
+How do I pass credit card processing fees to my customers so they can cover the cost of processing?
+
+- You can pass the credit card processing fees to customers, but there are many things to consider. Most of what we can do involving credit and debit cards is governed by contracts with the card companies. However, there are States, namely California, Colorado, Connecticut, Florida, Kansas, Maine, Massachusetts, New York, Oklahoma, and Puerto Rico that have laws that prohibit merchants from charging consumers with surcharges on credit card transactions.
+
+- On the other hand, some states such as Maryland, Nevada, Washington, Wisconsin, and Wyoming have laws that allow merchants to give discounts to encourage consumers to use forms of payment other than credit or debit cards.
+
+- If you'd like to charge the credit card processing fee to your customers, you'll have to include it on their invoices manually as there is no automated process we can offer at this time. To do this, add a processing fee service item to your products and services list, then add that item to the second line of the invoice. 
+​
+
+---
+
+---
+
+Need help understanding your business numbers?
+
+Enroll in Business Coaching by Housecall Pro Coaching Foundations, and our certified Advisors will teach you the Business Coaching by Housecall Pro coaching playbook. Are you curious about what coaching program fits you? Learn more here.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1405154215/048d14a01dfe52a6f8b98bbefa4f/Business+Coaching+by+Housecall+Pro+%28Article+Footer%29.jpg?expires=1763568000&signature=9e125a714eab4c4db1b5404c05de93c4af147d8344aecc173658610e48c8945e&req=dSQnE8h7mYNeXPMW1HO4zVfE22ETs8rgOT1arBERhWhLGoixsxBSujKPmyT%2B%0AqoyqvC9kt1An4xsMLNI%3D%0A

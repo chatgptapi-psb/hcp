@@ -1,0 +1,77 @@
+API Leads in Job Inbox
+Source: https://help.housecallpro.com/en/articles/12062219-api-leads-in-job-inbox
+Author: AJ M
+Last updated: Updated over a month ago
+
+How API Leads Works
+
+API Leads lets you send customer requests (or "leads") from your third-party lead tools directly into your Job inbox. This means every new lead from your connected system will automatically appear in Job inbox, ready to be scheduled or followed up on.
+
+After connecting your third-party leads to Job inbox:
+
+- All leads from the API show in the API Leads channel in Job inbox.
+- You can treat these just like any other Job inbox message: - Respond to customers
+- Convert to a job or estimate
+- Track the lead source for reporting
+
+---
+
+How to Enable API Leads in Job Inbox
+
+Step 1: Enable API Leads in Housecall Pro
+
+- Click the My Apps icon (3x3 square) in the top right corner of your Housecall Pro account.
+
+- Select the Job inbox app to access your Job inbox settings.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1681938755/b33afee44e8b21a1cce7da370ebd/AD_4nXdANdQHnnSAr9xI3YRXVkWKRbnteExexOA3n2_FBgJhQUe3ectY5iq3cMzfnlO4TDWLeWbwl7q75OwuhwXRL73iaVMyWH5X_0r6oTI0JX1ESNqghWrQQwYYsV435V7oexH3Nv63gw?expires=1763568000&signature=08bba6b96f19a478f07b7fdbbb7d86432d64051f7e192ee2556ae3894e8219e3&req=dSYvF8B9lYZaXPMW1HO4zZuZ2xTW8Qs7hv%2B3zOkjovGwJAsCk%2B5CfwdFlrWy%0AUMSbPA4cVrIboaiudrg%3D%0A
+
+- Toggle on API Leads.
+
+- Once enabled, the API Leads channel will appear in Job inbox.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1681938756/6d08c1fb6c39b4fa7b9460faad91/AD_4nXfl4SMcpDPSXnhK2dYiJfQ-dghwhS0Juq2CA1Sxxu0n7vuC_r5tX9QhFygJhCy9pRwyGOfJtzNUiqpKcZtNRU4ShCiDV-ISlVZLCXwTMmSDxci8_RznNcTF8Yh3M1r5_T950GO9?expires=1763568000&signature=db40ed49b304e740d9a61ec8505a4d2930c732636e9e92b6bdda19aa9d3493b9&req=dSYvF8B9lYZaX%2FMW1HO4zXOKx3FifUS%2BO384K4pXJquh1TpdHMG5XWDlNpsi%0AdOA%2Bbymvv2vx%2F7PYTGg%3D%0A
+
+Step 2: Get Access to the Public API
+
+To connect your system, you’ll first need access to Housecall Pro’s Public API.
+
+- If you’re a Pro who isn’t technical, don’t worry, just share this link with your developer or the person who manages your website: API Authentication Guide.
+
+- This guide shows them how to "log in" to the API securely so your system can talk to Housecall Pro.
+
+- Think of this step as giving your website or tool a key so it can drop new leads into your Job inbox.
+
+Step 3: Send Leads into Job Inbox
+
+Once your system has access, the next step is actually sending the customer info into Housecall Pro.
+
+- Your developer will use something called the Create Lead connection in the API: Create Lead Guide.
+
+- This is what takes the information from your third-party integration (when a customer provides their name and phone number) and automatically places it into the API Leads channel in Job inbox.
+
+- After setup, every time a lead is created with your connected third-party tool, the customer’s details will appear in Job inbox, just like other integrated lead partners.
+
+---
+
+FAQs
+
+Do I need a developer to set this up?
+
+- If you’re comfortable working with APIs, you can do it yourself. Otherwise, share the API Docs with your web developer or integration partner.
+
+Can I test before going live?
+
+- Yes. The API Docs provide guidance for testing connections before sending live leads.
+
+Will I see API Leads mixed in with other Job inbox leads?
+
+- API Leads will appear in their own dedicated API Leads channel.
+
+---
+
+Need Help?
+
+Check out the Housecall Pro Public API Docs, or contact Housecall Pro Support via the Blue Chat Bubble in your account for assistance.
+
+---

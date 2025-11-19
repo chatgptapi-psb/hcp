@@ -1,0 +1,43 @@
+What steps do we take to make your Website accessible?
+Source: https://help.housecallpro.com/en/articles/10073748-what-steps-do-we-take-to-make-your-website-accessible
+Author: Danielle S
+Last updated: Updated over a month ago
+
+Housecall Pro Blueprint to Success Workshop
+
+If you're looking for more advice on how to effectively use Websites by Housecall Pro, along with other great features, register for the Housecall Pro Blueprint to Success Workshop!
+
+[Button] Register Here -> https://docs.google.com/forms/d/e/1FAIpQLScM2b6NgGEvrjkOFAZPunvol2CoR4FIIFiVgR7DmTRqgd3gQg/viewform?usp=pp_url&entry.1047718727=HCP+Help+Article
+
+---
+
+---
+
+Why is accessibility important?
+
+Having an accessible website means creating it intentionally to ensure it’s understandable and operable for anyone including those with disabilities such as sight and hearing impairments, cognitive disabilities, and physical disabilities.
+
+The Americans with Disabilities Act (ADA) Standards for Accessible Design requires this by law. If your Website is not in compliance, you may be faced with an accessibility lawsuit.
+
+It’s important to ensure you take the proper steps to ensure your website is accessible - luckily, when you build a website through Housecall Pro, our professional website builders take steps to help make your website more accessible*.
+
+What steps do Housecall Pro Website builders take?
+
+When you get a website through Housecall Pro, you will work with professional website builders who will check the following when setting up your site.
+
+Site structure and layout
+
+- Adjust content order - the content order is structured so that it’s readable from left to right, and top to bottom. A clear content order helps assistive technology read and navigate content in a logical order (We test our site pages using the following assistive technology: Apple’s VoiceOver tool, Tab Through navigation).
+- Add headers - HTML headers, or heading tags, are used to outline headers and subheaders on your page. This is important to help visitors understand the content of your page at a glance.
+
+Images
+
+- Ensure quality - we ensure images we use on our sites are high quality, meaning high resolution images so visitors can see and interpret the images clearly, no matter what size, screen, or zoom level.
+- Add alt text - we use alternative text, or alt text, on all images used. This ensures that visitors using screen readers can understand the visual aspectson your site.
+- Proper contrast ratio - we ensure that there is enough contrast between the brightest shade and the darkest shade between our background and text on our sites so that it is readable (we ensure a contrast ratio of at least 4.5:1).
+
+What other steps can I take?
+
+*It’s important to note that while our builders at Housecall Pro take steps to make your website more accessible, we do not guarantee that your site will be ADA-compliant with these steps alone. Please keep up to date with the latest regulations at sites like ADA.gov.
+
+---

@@ -1,0 +1,141 @@
+Company Dashboard: Card Upgrades (2024)
+Source: https://help.housecallpro.com/en/articles/9011596-company-dashboard-card-upgrades-2024
+Author: James N
+Last updated: Updated over 7 months ago
+
+Company Dashboard Changes - Feature Cards Overview
+
+Welcome to the upgraded reporting cards – your business metrics command center! Now, you can customize your cards to present the key metrics that matter most to you, whether job tags or invoices. Swiftly transform business data into business insights, catapulting your work and allowing you to make better business decisions.
+
+As of 2024, these cards received updated functionality:
+
+- Job tags card
+- Sales leaderboard card
+- Invoice cards
+- Service plan cards
+- Estimates cards
+- Jobs cards
+
+If you have any questions or need assistance updating your reporting cards, please contact us using the Blue Chat Bubble in your Housecall Pro account.
+
+---
+
+How to Use the New Reporting Cards on the Dashboard
+
+- Your data, your way. Our new reporting business cards allow you to fine-tune your card, allowing you to refine your filters, set date ranges, and change the card presentation.
+
+---
+
+How can I change the card display settings?
+
+- You can change the display settings by clicking on the three dots in the top right corner of the card.
+
+- Once selected, your card will display these settings when you return to your dashboard.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/977103988/4bd1473fe261d46012755521/HnylWwqxXxAfyvVthQuRZy0KQHmQhld3wqln56drrwV0Li2OhbDmKsT3UfC87O99er24PCfGU-FHdoLwGn8FC-7wKtJyVjm-FcTGDFy7zTj9-ToPMz67x84pKbS37rcLq9mMrCaxoXp8Aovh9iovszs?expires=1763568000&signature=563978928c1b533abd09ab5c11050fd440dba4a2985cf9f7c8c08810cb702ad8&req=fScgF8l9lIlXFb4f3HP0gBA%2BQM0I3IsHDg7PRb9np%2Bmvg5ZsOhySsUCzG2CX%0AM7pF6LAXF7t3VlVUkw%3D%3D%0A
+
+---
+
+How can I access more detailed information within the card?
+
+- You can click the eye symbol or anywhere on the graph to view additional information about the report.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/977104006/31b997d5935f1d90271f6d5d/RaNvpWumU_mO5PgILMPN-Y1JRCRWindCLmZMADits0EyPbtBnOFNl42CJDUjonLOe9JCJYbJRyjAK8IOK1XpsSWoHXn21qObty2rjkpzMCHMd4m5Vg2xlsGPw1KjbR49_0B_L4O2UxbKRI3dobeJKbc?expires=1763568000&signature=52cc052501fb317674be3844d4d7798cd3f0a250161a375ce96ce311f1a61949&req=fScgF8l6nYFZFb4f3HP0gNjEVUnggxeWfcX9wymZuUEA%2BxmscXp7dGkajFnm%0ABAWNjIvP4%2FSkhGWcDA%3D%3D%0A
+
+- After diving deeper, you'll have full access to the report, including the ability to change filters, add metrics, or see results on a list view by selecting any data row within the report.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/977104012/62f80d9c286a27a952e3599d/MliwGDQ9L8EiKa-sxNqjeFNtX0ncZ37laxG-k9mibnj56witn6EJn_d4nZnMpOLzPG6jS4PiawP69dqrr5QcG278yUJmxkb01B8Qm_1RjWYKyw7YPAEgdB-86_H1FxCRqCT4LYsI4BajYXn0xw8oxt8?expires=1763568000&signature=c752f9624c04415bfdb1036fac406f5696b0f58d63f6481510cd942966efe7a2&req=fScgF8l6nYBdFb4f3HP0gDK6EvHxe6yEASbvuZFAE1hUurGw1PRf%2BFXUp5BB%0AWuaUlC%2F2ziYFKrjpKw%3D%3D%0A
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/977104019/bef1697b7e9c2d4c2865b293/PwBV8Mf_uPxAwdM85u0C9ZrmXQybl7uHMBuy0LJlkzbjc7DoQoZhttwnIaQJL0EYmg18l3YU0tQyKZCNhAcQzlLTGWsEIhFg9TF4aD1r8anyhE4dARlgJ2WgFTani9yBWZVYcvtD3vbx-yKlTlwcWVQ?expires=1763568000&signature=8d0a94ab3df58c2d210592f5c3f91cec032233dc60ecff390c079b69b2ef2f29&req=fScgF8l6nYBWFb4f3HP0gMpCIcoc7R8v2Q7WTn42mxFLBmLomLYvrT7gQuK9%0AByMAwEwxmXVFv1nN%2Bg%3D%3D%0A
+
+---
+
+How do I change the filters or date range?
+
+- To change the report filters, date range, or metrics in the report drill down into the card. After drilling down into the card, you’ll be on the full report page and can change the report settings.
+
+---
+
+Can I save the changes back to my dashboard?
+
+- Yes. After you drill down and make any changes to the report, you can save the settings back to your dashboard by clicking on “save” in the report view.
+
+- You can also change the name of the report and this will update your dashboard card.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/977104025/cb96a9e55a1add38fc575a78/oUywptf0Oc6A7ux2b9n-W-0SHg19D4DIW97xAVFdMPRngxkCf6rXkG1W0wDeL986kidtpNiw-c3jM1ovZgDbqueY730uNa9efGp7EZ6QaxhMe8-H5sxev1D9UZlkb8lSw4rTXlo_RR2D9yHfoXOfZos?expires=1763568000&signature=d890eab90aa541ebbfd3f3ec2827d9899f7184e7f8bdd3f0600525d78f316244&req=fScgF8l6nYNaFb4f3HP0gC8kpwxQrSya2rX4qBNnESEKcSXqLM%2FVaYJ42AUN%0AoNhX%2Ft1rgq35UX3OsA%3D%3D%0A
+
+---
+
+---
+
+Job Tags Card Upgrade
+
+What is the Legacy Job by Tags Card?
+
+- The Job by tags card on the Dashboard displays the job count and total invoice amount by job tag for jobs created, scheduled, or completed over the last 365 days.
+
+- It's a snapshot view of jobs by tag to gain insights into which Job tags you use most. It cannot be customized in any way.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1350669434/f4956d290a4f54321f7b4269d314/XIqZWpTkIH04u91WKUfE9RvluHN51flgwMe4bUVNveFkoGMi5juml7ht9tyBYnFb8PKuyhm3UWOQqPe7spEreNoGyncx7RTuqJ-QJq6Gww24oI5GAWWUyluvCra4cbirVf_y9G5W4qvF7BhCHawm4mY?expires=1763568000&signature=e5defe24add22704424f68cf7874b48b8704485eec94ebb79fdd5fe7fb2ff502&req=dSMiFs94lIVcXfMW1HO4zUg1yYpm44gbcW3q%2FrO305YL0y5xIX%2Bzlaue2ZV4%0AChM8nCOVfzTFpR9mnFw%3D%0A
+
+What changed?
+
+The Jobs by Tags card was replaced with the Job Tags report, which has been upgraded with our new reporting infrastructure:
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1350669437/47af1b15509545b7d08a4d653b06/tS6G4Vox6zbrgTSWACKgxJgwxtCt6X6lPQJrJzViD09lQQpVjF5PM2yzBn2RxHsKcww0CKHSENnaKq1C0Y7ho8sH7mdTA_Lj0qp45C-t70xeYn72VVmksNDpaMeLZ5YAOg_6MMej0_DgoofRjrtuQEc?expires=1763568000&signature=c13d741b5bb2363b0186a0e023fd1ca979ec1c1cebf4c38aa7801c5af16617f8&req=dSMiFs94lIVcXvMW1HO4zfeBRkhMC1BozvJlx7B1GPMgMKyd7CVaPWilq%2Fhf%0AejqHtK6MuLBZT2jie1M%3D%0A
+
+Which jobs are included in the Job Tags card?
+
+- All jobs completed in the last 45 days with at least one job tag applied are included in the card.
+​
+
+How is job revenue calculated?
+
+- Job revenue is calculated as the sum of the invoice amount, less taxes and tips.
+
+- As a reminder, the Job Tags card is set to only show completed jobs by default.
+​
+
+Can I customize the filters and card settings?
+
+- Yes. Follow the instructions here to customize the report and save the settings back to your Dashboard.
+
+---
+
+---
+
+Sales Leaderboard Card Upgrade
+
+This feature has been migrated as of March 2024.
+
+What is the legacy Sales Leaderboard card?
+
+- The current Sales Leaderboard card displays the total invoice amount and job count by assigned employee for jobs created, scheduled, or completed for all time. - When multiple employees are assigned a job, each employee gets full credit for that job.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1350671008/8c72cbb3f64127042f39a0a14a9c/Z2tbTkhgM605L3Uv6HCV63wCpEsvgiTABL0GQPh0f-00bXuOmwA7r5_nxBR_NzKaERwPm_U-3FMitJpGRRzXlcsDyYJywlH93Dbb1EWrTDiP_JOfFBQvKFSdGkcdIpsHu1no8PwJm_b3Ai7aF1yzyqo?expires=1763568000&signature=7e3cea531e424fd6f263aea0c48ab4d8ea0c4fe305ecd5874f33e7236e49cd23&req=dSMiFs95nIFfUfMW1HO4zWkauCT0gydFBRehIilnCWTYW68y%2FSmMn%2BpUD0UW%0ABhd7qdv2r3MmGJ5abtM%3D%0A
+
+What changed?
+
+- The Sales Leaderboard card has been replaced with an upgraded report using our new reporting infrastructure:
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1350671006/c594d374fd23aaea254353390bd1/9m_jqOgwnqkkWXrJ2IL6MO-PXWUHjyOi9sTPGbCa2L7wrCBGbfRstok-PsPkDOVx7wmRRXFoGmdnyLEuN0O4HkRkhWUL5NazIzqWXXrWHMgi1Ely10ffwSMmeTDGoCpPq0HpF0iu3n7rnwaZNejExbo?expires=1763568000&signature=b32dc053416b6be45ae6cf1a898aa1db115b1ddb5f74756ddb0f1285fdd1011b&req=dSMiFs95nIFfX%2FMW1HO4zZeaCC%2BFOTSHrBrtRDrby%2BYPwPhAIrol3lYbD10p%0A%2FetxdXWe%2FZULxvVbwgI%3D%0A
+
+What jobs are included in the card?
+
+- All jobs completed in the last 45 days that have at least one employee assigned will appear on this card.
+
+How is job revenue calculated?
+
+- Job revenue is calculated as the sum of the invoice amount, less taxes and tips. As a reminder, by default, the card is set to only show completed jobs.
+
+What if two employees are assigned to the same job?
+
+- When two employees are assigned to the same job, each employee will get full credit for the job.
+
+- If you’d like to adjust this, you can (1) start tracking employee sales using our Sold by Employee feature, or (2) drill down and filter out helper employees from the report and save it (see details above on how to use the card).
+
+Can I customize the filters and card settings?
+
+- Yes. Follow the instructions here to customize the report and save the settings back to your Dashboard.
+
+---

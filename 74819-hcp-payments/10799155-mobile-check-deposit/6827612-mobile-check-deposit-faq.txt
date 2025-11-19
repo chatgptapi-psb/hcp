@@ -1,0 +1,139 @@
+Mobile Check Deposit FAQ
+Source: https://help.housecallpro.com/en/articles/6827612-mobile-check-deposit-faq
+Author: Nate H
+Last updated: Updated this week
+
+Summary: Frequently asked questions about Mobile Check Deposit.
+
+How Does Mobile Check Deposit Work?
+
+There are 5 simple steps to using Mobile Check Deposit:
+
+- Step 1: Verify the accuracy of the check details (amount, name on the check, date).
+
+- Step 2: On the back of the check, write the business’s name and the phrase “For Mobile Deposit Only”.
+
+- Step 3: On the mobile app, select the "CHECK" option when selecting a payment method.
+
+- Step 4: Take photos of the front and back of the check.
+
+- Step 5: Submit the check for deposit, and keep the check for at least 14 days.
+
+---
+
+How Do I Prepare a Check for a Mobile Deposit?
+
+To properly prepare the check you’ll want to make sure the following information is presented clearly:
+
+- Ensure the front of the check is signed by the customer.
+
+- The date and check amount are accurate.
+
+- The endorsement on the back of the check includes the business’s name and “For Mobile Deposit Only.”
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/1182092746/81418451b80170bcbfa393fb/091124-mobile-check-deposit-V2_ANATOMY.png?expires=1763568000&signature=ae6c0b834ea0709abbf4a083ee5f01d2cf3ac121e064cd8766dd8a156c445ddb&req=dSEvFMl3n4ZbX%2FMW1HO4zaemeC2ogSpFBWYGedA4cPjRa43v1LhkRe26f4iN%0A12PZp%2FV%2FiEDQbWSG6HU%3D%0A
+
+---
+
+Mobile Check Deposit FAQs
+
+How do I start using Mobile Check Deposit?
+
+- If you are already using HCP Payments, go to your My Money page to find the banner at the top of the page inviting you to “Activate Mobile Check Deposit”. Take a minute to confirm some information, and then you’ll be all set to go.
+- If you have not signed up for HCP Payments, go to your My Money page and click “Set up payments” — once you’ve connected your bank account and answered a few questions about your business, you’ll be ready to activate Mobile Check Deposit.
+
+Are there any fees associated with Mobile Check Deposit?
+
+- No, there are no fees incurred when depositing checks through Housecall Pro. Mobile Check Deposit is a free service. 
+​
+
+Who on my team can use Mobile Check Deposit?
+
+- Field techs with permission enabled to “Take payments and see prices” will automatically be able to use Mobile Check Deposit once it’s activated for your organization. - Field techs using Mobile Check Deposit won’t see bank account information, and they don’t need to sign the back of the check.
+
+- Field techs without permission enabled to “Take payments and see prices” won’t be able to deposit checks. To enable Mobile Check Deposit for a field tech, make sure both of the following permissions are checked: - Take payments and see prices.
+- Allow user to deposit checks with Mobile Check Deposit.
+
+How can I disable Mobile Check Deposit?
+
+- To turn off Mobile Check Deposit for a field tech, go to their employee permissions and uncheck “Allow user to deposit checks with Mobile Check Deposit.”
+
+What needs to be included on the back of the check to use Mobile Check Deposit?
+
+- To deposit a check with Mobile Check Deposit, the back of the check must include the business’s name and the phrase “For Mobile Deposit Only”. While we don't require back-of-check signatures, we do recommend that business owners and authorized admins sign the back of the check.
+​
+
+The directions in the app tell me to sign the back of the check and write “For Mobile Deposit Only”, but they don’t mention writing the company name on the back of the check. What should I do?
+
+- We are in the process of updating the in-app directions for what to write on the back of the check. As we work on this update, you may follow the in-app directions or the directions in our help resources for what to write on the back of the check.
+​
+
+How will I know when a check is deposited using Mobile Check Deposit?
+
+- When a check is deposited using Mobile Check Deposit, admins will receive an email with the following information: the check amount, the customer’s name, the job invoice number, the date of the deposit, and the name of the employee who deposited the check. 
+​
+
+Can I use Mobile Check Deposit to accept a deposit or other partial payment on a job?
+
+- Yes, Mobile Check Deposit allows for deposits and partial payments.
+
+Does Mobile Check Deposit work with cashier's checks or money orders?
+
+- Cashier's checks can be used with Mobile Check Deposit. Money orders cannot be used. 
+​
+
+Can I batch pay with Mobile Check Deposit?
+
+- No, you cannot do batch pay with Mobile Check Deposit, and the check amount cannot exceed the job amount. 
+​
+
+Can I use an iPad or tablet?
+
+- Yes, Mobile Check Deposit is available on iPads and tablets.
+​
+
+Where do my funds go after they are deposited?
+
+- When your submitted check has been reviewed, your funds will be posted directly to your bank account as set in your payout settings. If you have a minimum balance set on your HCP Money account, we’ll calculate the transfer amount; a portion of your check deposit may remain in your Housecall Pro Money account until your set minimum balance is reached. 
+​
+
+Do check deposits fund the HCP Money account?
+
+- Yes, if you have a minimum balance set on your HCP Money account, checks deposited through Mobile Check Deposits will fund your HCP Money account.
+​
+
+Once I’ve activated Mobile Check Deposit, can I still deposit a check through my bank instead?
+
+- Yes, after you select “CHECK” when choosing a payment method on the mobile app, select “Record and deposit at the bank instead” at the bottom of the screen. 
+​
+
+What happens if a check bounces?
+
+- If a check deposit bounces, the amount owed will not be deposited into your account. We recommend contacting the customer to collect payment with a different method (credit/debit card, cash, etc.)
+​
+
+What happens if a customer disputes the charge?
+
+- If a customer disputes a check, the funds will be returned to the customer’s account. If your account can’t cover the return, then you will be responsible for the negative balance on the account. Please note, not all disputes will result in the funds being returned to the customer’s account.
+​
+
+What happens if a Mobile check deposit is rejected after it was submitted?
+
+- If a mobile check deposit is unable to be deposited due to insufficient funds or the quality of the check images, you will receive an email notifying you that the check failed. The job will be updated as unpaid, and you will need to collect a new payment for your invoice.
+​
+
+Are there any limits to the check deposits?
+
+- No, there are currently no limits on the number of checks or the dollar amount that you can deposit with Mobile Check Deposit. For more information, see our Terms of Service.
+​
+
+I live in Canada, will I be able to use Mobile Check Deposit?
+
+- Mobile Check Deposit is not currently available in Canada.
+
+---
+
+Mobile Check Deposit service is provided by Stripe Payments Company with funds held at Fifth Third Bank, member FDIC. Mobile Check Deposit is subject to limits and holds at Housecall Pro’s sole discretion. For more information, see our Terms of Service.
+
+---

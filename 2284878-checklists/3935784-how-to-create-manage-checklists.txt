@@ -1,0 +1,218 @@
+How to Create & Manage Checklists
+Source: https://help.housecallpro.com/en/articles/3935784-how-to-create-manage-checklists
+Author: Dyamond W
+Last updated: Updated over 2 months ago
+
+Summary: Learn how to create checklist templates so that your employees can use this checklist while on the job
+
+Housecall Pro Blueprint to Success Workshop
+
+If you're looking for more advice on how to effectively use checklists, along with other great features, register for the Housecall Pro Blueprint to Success Workshop!
+
+[Button] Register Here -> https://docs.google.com/forms/d/e/1FAIpQLScM2b6NgGEvrjkOFAZPunvol2CoR4FIIFiVgR7DmTRqgd3gQg/viewform?usp=pp_url&entry.1047718727=HCP+Help+Article
+
+---
+
+---
+
+Create & Manage Checklists
+
+You may not be at every job with your employees, but you can make sure every job goes as well as it would if you were by creating custom checklists for each type of job or service call you run.
+
+[Image] https://downloads.intercomcdn.com/i/o/1044321319/8310d44bbe2c9ba8ab6f9a81/RPReplay_Final1715102123-ezgif_com-video-to-gif-converter.gif?expires=1763568000&signature=a6992145d380190f3ff1ed6774a1f20a1bc451ab388243a3df4c863475c3d18e&req=dSAjEsp8nIJeUPMW1HO4ze4AsAwlTrwdgY3Ev1%2B9sBMzOTVNuU1%2Bnfdlu43N%0A7O1g94eKOl9HAOLhK5U%3D%0A
+
+---
+
+How to Create a Checklist
+
+To create a new checklist:
+
+- Click the My Apps icon (3x3 square) in the top right corner of your account and select the Checklists app.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1446614452/d6684a92f39eae58d697418deb97/Screenshot+2025-03-28+at+11_30_08%E2%80%AFAM.png?expires=1763568000&signature=585d63cd44991cd95163bf6290b20ddc81fc784e648da0a3857d16165e2cd615&req=dSQjEM9%2FmYVaW%2FMW1HO4zcoIpeNdsLo%2BfP5ezlEGheOeP6Krfsm9T0WyCKFZ%0A8IaKxHLstSkqXz77EEo%3D%0A
+
+- If this is your first time creating a checklist, you will select the prompt to Create A Checklist. For returning users, click + Checklist in the top right corner. - If you'd like to edit an existing checklist, hover over it and click the pencil icon to the right to make any necessary changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1446630938/ea1da2aa45fcaa3f584b8e1af4e4/IMAGE%2B2.png?expires=1763568000&signature=eb49cf752ce9f6dd391d50ee2e1b804cc37354e43bd81a5739c116e956164123&req=dSQjEM99nYhcUfMW1HO4za4AvfUSX5xc9svz9kRcUvTkkgZ5mjpNe%2B49vkHY%0Ah1Hj4HfBnw53X4hAdas%3D%0A
+
+- Name your Checklist and add checklist items by clicking + Checklist item.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1446630942/9cb35c805f78c290aa3783dbd15f/IMAGE%2B3.png?expires=1763568000&signature=8e4c1821009638b8eb026fc2f01eeceda6d5b53e6fcbfbb0ed12bc27392ea726&req=dSQjEM99nYhbW%2FMW1HO4zV1yyMEx59%2B9a7ihF1SHhCL2U7UrdM9xIoEoWmVv%0AY5pexR%2BwIyKx6H%2BHfII%3D%0A
+
+- Click the Type drop-down to choose from the following checklist item types: - Checkbox: Easily check off completed items.
+- Text: Document notes, readings, findings, or any other written information.
+- Pass/Flag/Fail: Indicate the status of a component with a green, yellow, or red indicator.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1446630945/bd26ef76f497cd0242d6c556a377/IMAGE%2B3.png?expires=1763568000&signature=cc52a317f1e503daf263817c6988e6c445e930251854b4fd59958bf754074e18&req=dSQjEM99nYhbXPMW1HO4zWT7y88kv%2F7owcCwMZtSXnamiuV%2BWYUEIl5nIURT%0AAJrD%2BzwH8dijpPrT7YI%3D%0A
+
+- Once you are finished creating your checklist items, press the blue Next button in the top right corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1446630959/91153a2b48cdf18a767a2273ec9a/IMAGE%2B4.png?expires=1763568000&signature=f4a47bc12bbb20da5fe7f7108367829c82c2bea71558f29cc323b6452cb1e9f0&req=dSQjEM99nYhaUPMW1HO4zV6h8YFzRC6%2F8WF%2FMEXeIzsSoVfQ5b6R2YddYuhI%0Af58E4pk0Tmns7aiBDyg%3D%0A
+
+- You can prevent an employee from being able to finish a job if they have not completed a checklist by turning the first toggle ON.
+
+- You can also choose to automatically add the checklist to new jobs by turning the second toggle ON. - Note that when a new recurring job is created, checklists with this setting ON will be added to all recurrences.
+- Checklists with this setting ON will also be added to jobs converted from approved estimates
+
+- Click Save in the top right corner of your screen when you're ready, and you're all set! Your checklist can now be added to jobs and estimates.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1446665197/6ad87a6d0fb2277fe62c6c11ccc3/Screen%2BShot%2B2022-11-14%2Bat%2B4_13_29%2BPM.png?expires=1763568000&signature=c7560eb142f76a2ad03f3d4b30706099cb8db195cf9e6c8fd2e53ccf3e499f95&req=dSQjEM94mIBWXvMW1HO4zRfvlcXocQN7MdvBapDgCO9aQQNcFsHa1xb6NAVY%0A0ZGzY4Bmt6t51Yfz1Kg%3D%0A
+
+---
+
+How To Create a Checklist (Beta)
+
+To create a new checklist:
+
+- Click the My Apps icon (3x3 square) in the top right corner of your account and select the Checklists app.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1647671366/5e6da1e989bea037328e6306ea6e/image.png?expires=1763568000&signature=5334e4c1fe1b881a5d44c7e1cd47e99f538410ad6142b7ae3d9a7fdf34c14cfc&req=dSYjEc95nIJZX%2FMW1HO4zYRnZEKg%2Bx8I9GeJ5PI5yBdN5%2BnNZCBqXC8620Fq%0AP7ePbQ6aQp7%2FNBnK6LI%3D%0A
+
+- Alternatively, go to your Account Settings by clicking the gear icon in the top right corner of your HCP account, then select Checklists from the menu on the left.
+
+- Click the + Checklist template button on the right side of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1647670717/e23d38dcdfa77c84583d2182305b/image.png?expires=1763568000&signature=974258cee3cbac3279fb3cba13ea02edd09a318e6a8e3a03bf98a36393034aff&req=dSYjEc95nYZeXvMW1HO4zbvfahK4iSJd2VZxmlA5ciIeN3F4nUbqXSySxoDb%0AJgdtFaTS1wHgEpmJOjs%3D%0A
+
+- The following options are available on the Create Checklist page: - Checklist name
+ - Provide a name for your checklist (required).
+- Automatically add to new jobs (toggle)
+ - Enable this to add the checklist automatically to new jobs.
+- Section name
+ - Define a name for the section.
+- Reorder sections
+ - Click the ↑ and ↓ icons beside the section name to reorder it.
+- Type (drop-down)
+ - Select the type of checklist item from the following options:
+ - Checkbox: Check off completed items.
+ - Multi-select: Select multiple items. (Advanced feature only)
+ - Pass/Flag/Fail: Mark status with a green, yellow, or red indicator.
+ - Photo upload: Upload photos. (Advanced feature only)
+ - Single select: Select one option. (Advanced feature only)
+ - Text: Add text to document notes or findings.
+- Required (toggle)
+ - Enable this toggle to prevent users from finishing the job if this item is incomplete. 
+- Item name
+ - Provide a name for the checklist item (required).
+- + Checklist item (button)
+ - Click this button to add an item to the checklist.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1368962814/a25876382ec280ddd342ab295089/Screenshot+2025-02-06+at+4_15_22%E2%80%AFPM.png?expires=1763568000&signature=4e9f5c617b3771d7aa29dbd4049c306dd6a70c94ddd0b8778db9b3d612341a42&req=dSMhHsB4n4leXfMW1HO4zUaeE%2Fhkbrqmc1xqIbNXcUMEOjS2BbmkggrlxF5a%0A1qcK2gVc7JUUtIHRk8U%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1368964694/a2fd69739970db54d652140c0ebe/Screenshot+2025-02-06+at+4_17_51%E2%80%AFPM.png?expires=1763568000&signature=87a0bdd75e84254315d5fbf703e5898e3e1d540941c064eec07780bff39b841a&req=dSMhHsB4mYdWXfMW1HO4zRLdky5%2FqMfMSe%2BtHNzpRRA5RQiNQn5zvzw%2Fq4sB%0Aw6P4Apr9M4N%2FcB3FVnU%3D%0A
+
+- When you've completed your checklist, click the blue Save button in the top right corner of your screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1368983245/640cafa85b23ae9ea12ddafa05e7/Screenshot+2025-02-06+at+4_31_23%E2%80%AFPM.png?expires=1763568000&signature=1449cd74e4a4b220e23359a42c0d81a5d44a43a5a47f37c17c64dd25f7fad3a4&req=dSMhHsB2noNbXPMW1HO4zYINAxU1agaxv%2FA4yN%2FNgcnhONZwWjK5aVkvaWx5%0ALa1sXVSwV5AV75NJLTo%3D%0A
+
+---
+
+Add Checklists to Invoices
+
+- To add a checklist to an invoice, open any job to view the job details page. Select the INVOICE option located at the top of your job details page to send an invoice.
+
+[Image] https://downloads.intercomcdn.com/i/o/223158649/22dc1083e4b77b132fd491f1/image.png?expires=1763568000&signature=d788c49400bdf173e332096551a17156578bde93d9315961cc14862fa2fdef5c&req=diIkF8x2m4VWFb4f3HP0gCk9AfdeK4W%2F14ktGacGfxJdgevJiZoqpY8hA7YE%0AF55d944klMBdDnNV0A%3D%3D%0A
+
+- Click on the pencil icon located to the right of the word Attachments on the right side of the screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/1115646775/e87582f661d13cd299e300ed/Screenshot_2024-07-16_at_16_14_58.png?expires=1763568000&signature=f387c90b9a719a09360dc04b3bb16b3623a54655730c49e4a0b20651157ab6d9&req=dSEmE896m4ZYXPMW1HO4zdajvhRo1GTy502H0Oskmd4I%2FoGUnRfjyDhheQbo%0AK6dVOHKmp1SOb%2Fkgw0g%3D%0A
+
+- Select CHECKLISTS option at the top right then select the checklist you wish to attach to the invoice below.
+
+[Image] https://downloads.intercomcdn.com/i/o/223160832/6f0cce223a119670b851b7d0/image.png?expires=1763568000&signature=b72a6d907c3085ac414276642d07d27722ea05b380394b4d62e8c4dd9f3c435e&req=diIkF89%2BlYJdFb4f3HP0gEh8nSExF0hxK5vSiDYQ12y5GVhEdHEbxbKMp6SY%0Atg0R610aeg5kdTGysA%3D%3D%0A
+
+- Click on the blue SAVE option at the bottom right.
+
+[Image] https://downloads.intercomcdn.com/i/o/1115649044/59056825ccbbddd827a12b01/Cursor_and_Housecall_Pro.png?expires=1763568000&signature=6d97882b7c676ee7982a7152758deedee6cd5ba52c035d72c2503b00d6a17765&req=dSEmE896lIFbXfMW1HO4zdegnndnN4tAgaHRZ9JOd%2F7I71HFnl22a%2FEU%2F5dn%0AO4wonXzlTfD9evKgst4%3D%0A
+
+- Continue to send the invoice like you normally would by selecting the blue NEXT option in the top right corner and then the blue SEND option in the top right corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/1115651329/d4f757f687e0ed824e397327/Cursor_and_Housecall_Pro.png?expires=1763568000&signature=b6c63dfb5382b91a7c3ee960255121d90c26faf4ed10ee8ed07212f1eaf5b556&req=dSEmE897nIJdUPMW1HO4zTuUbYsr8RENf9SdHLj2Wr25JvKDIfdK%2F%2BVOBGP0%0APSAcEvu7x%2BAbXzstlR0%3D%0A
+
+---
+
+Add Checklists to Jobs
+
+To add a checklist to a job:
+
+- Open a job.
+
+- Click Checklists + below the map on the left side of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/406491548/320a464a960342aabc36f4a8/Screen+Shot+2021-10-20+at+11.18.46+AM.png?expires=1763568000&signature=fe86f5b9a7c9ac20b5a3514b1f978feeefdbe9ce9490a79d2ce9860bfd4c862f&req=cCAhEsB%2FmIVXFb4f3HP0gPG%2BxqDinK45MxGS9pLUPB9tcNwEpkpga%2B0T%2Bt87%0Ak9uBv%2FyfimnoDLtlXQ%3D%3D%0A
+
+- Select the checklist(s) you'd like to add to the Job.
+
+- Click Add Selected in the top right.
+
+[Image] https://downloads.intercomcdn.com/i/o/1090935012/bf758ed9b53509a6bf7e178b/Screenshot+2024-06-23+at+1_25_58%E2%80%AFPM.png?expires=1763568000&signature=c3a73a5a7e382c4f8314e63fb11fb0a311f8f0a02727922ff7385e1fd6a52974&req=dSAuFsB9mIFeW%2FMW1HO4zbES2LN91uwf8PI1x%2BvTYx9R2qUEqywnsO587GMh%0APjtrm6QGu8XaEC4x0p4%3D%0A
+
+- You will be taken back to the job, where you will see the checklist has been added below the Checklist + space. If it is a required checklist, the attention symbol will appear to the left of the checklist until completed.
+
+[Image] https://downloads.intercomcdn.com/i/o/406494395/40b47e60d63525df3875bce4/Screen+Shot+2021-10-20+at+11.21.26+AM.png?expires=1763568000&signature=3cfc8c9881912066799edabf461c57a88ee0b8cb0099c8b3f80287dca458765e&req=cCAhEsB6nohaFb4f3HP0gCMgQtSj0LqUo9QGl6DwhXc5cuHH8poKpI%2FCBRiE%0A9WSseKoHR7PlZ8OiYQ%3D%3D%0A
+
+---
+
+Add Checklists to Estimates
+
+To add a checklist to an estimate:
+
+- Open any estimate.
+
+- Scroll down and click the Checklists + card on the left below the map.
+
+[Image] https://downloads.intercomcdn.com/i/o/406495908/68268fdb32165625f1cec4e6/Screen+Shot+2021-10-20+at+10.55.06+AM.png?expires=1763568000&signature=a15e500732f6f2a0ec893ca08af6980523d0ed710dc87cb5d9fd6d4f7434a607&req=cCAhEsB7lIFXFb4f3HP0gCRrVNMKPINwVg8f5HB0rRMhghCYV9jDNb%2Fu%2BA1w%0A6yVxK1DWnWKeTBOKwA%3D%3D%0A
+
+- Select the Checklist(s) you wish to add to the estimate, then click Add Selected in the top right.
+
+[Image] https://downloads.intercomcdn.com/i/o/1090943884/44cab7723e15417b77e7b762/Screenshot+2024-06-23+at+1_41_07%E2%80%AFPM.png?expires=1763568000&signature=62a12db947607c19628b7f136038b77528405cbb17a360325973d56c24fb334d&req=dSAuFsB6nolXXfMW1HO4zTDW6dO272ZBn3czJ%2BJN6UR1PYUSozuB9oF4hUcP%0Ai6qLUgGywEj2L%2F4IyNM%3D%0A
+
+- The checklist will then be added to the estimate. If it is a required Checklist, the attention symbol will appear to the left of the checklist until completed.
+
+[Image] https://downloads.intercomcdn.com/i/o/1090944632/eb7e2cf4c3815039581dfa52/Screenshot+2024-06-23+at+1_41_30%E2%80%AFPM.png?expires=1763568000&signature=b634d0d715d2820d0a6c9d09fb9dcf7e0f6f5be69940e4d823e528104004220b&req=dSAuFsB6mYdcW%2FMW1HO4zeWy5JICapAKg%2FOPSyjdqVv9j%2FI%2FtMRReJyst16W%0ACXtIhKxEJKCMivs5n%2F8%3D%0A
+
+---
+
+Video Tutorial: How to Attach a Checklist to an Invoice, Job, or Estimate
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/ugpe8ek6eq
+
+---
+
+Delete a Checklist from Your Account
+
+To delete a checklist from your HCP account:
+
+- Go to your Account Settings by clicking the gear icon in the top right corner of your HCP account, then select Checklists from the menu on the left.
+
+- Alternatively, click the My Apps icon (3x3 square) in the top right corner of your account and select the Checklists app.
+
+- Click the 3 dots to the far right of the checklist you'd like to delete.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643847782/2ab01f4734d1851f7efcaadcad88/image.png?expires=1763568000&signature=0ccacfe9574617bb751eb1e5d889db174a68d4a5ec7bb5032e0c2d2703b3c2f6&req=dSYjFcF6moZXW%2FMW1HO4zfqaMYaPAAwPKbULJigzF6osMSfU3mLv%2FYOjjWTH%0AVHJlvnjI08GDhak1WsE%3D%0A
+
+- Select Delete in the selection menu that appears.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355195129/646a496391a42479cad1bc667c4f/Screenshot+2025-01-28+at+12_45_15%E2%80%AFPM.png?expires=1763568000&signature=9bc98470c1df73f28424e8d01d5bf937ffc4aec31759b2aef128edd2f4ea87bc&req=dSMiE8h3mIBdUPMW1HO4zXfMb7wIxMkwlFhorg%2FR%2BnI8u77X5tJj%2BbF6K%2Byj%0A0Qo2Wc%2BS99%2F5cWPwmEk%3D%0A
+
+- Click Delete in the confirmation window, and the checklist will be removed from your Housecall Pro account.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355195305/15fec7788422603cbb0aeab62486/Screenshot+2025-01-28+at+12_41_57%E2%80%AFPM.png?expires=1763568000&signature=1b6987d93c04320a910e830326f2559c8e48ff6dfdc6075a85cd44752934d931&req=dSMiE8h3mIJfXPMW1HO4zbsc%2B3YvZsEQ5f3%2BuDgDbkHitMad4B7wxCAc7FKo%0A3%2B8qMVUXyzfY3wzx%2BZQ%3D%0A
+
+---
+
+Remove a Checklist from a Job or Estimate (HCP Web Portal)
+
+To remove a checklist from a job or estimate:
+
+- Open a job (in any status) or an estimate and scroll down on the page until you locate the Checklists section on the left.
+
+- Select the Checklist you would like to remove. The checklist can be completed or incomplete.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1446634943/a1e6eb2b9fcb357970d84fc49aa8/Screenshot-2B2025-01-22-2Bat-2B1_05_23-E2-80-AFPM.png?expires=1763568000&signature=810a65bb3ead78b0ebc9e2f6b7e46073d364c7eed0d91282445bd8c33fc64925&req=dSQjEM99mYhbWvMW1HO4zfjH79sv6lwRZYb7PM03IaD2t7vKa%2BmWinTUdLs6%0AX5Eno0gq4mZ1snT5zT0%3D%0A
+
+- Click the trashcan icon at the top of the Checklist window that appears, then click "Remove" in the confirmation window and the checklist will be removed from your job or estimate.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1446634947/b65378d4f946765f43aaac7befc8/DeleteChecklist.gif?expires=1763568000&signature=95f06fc55f5260d21d87b8050b2c3b03d7b7ab466042905712e4cb70721e8981&req=dSQjEM99mYhbXvMW1HO4zTYRW5b5cTb%2B5PecmHQs7dOeT55lRLSYfhMuIY9u%0AyMHBvngTtVi3YxRAOoA%3D%0A
+
+---

@@ -1,0 +1,20 @@
+Housecall Pro's Alexa Skill Overview
+Source: https://help.housecallpro.com/en/articles/4793331-housecall-pro-s-alexa-skill-overview
+Author: Taylor M
+Last updated: Updated over 2 months ago
+
+Summary: Learn how you can use Alexa with Housecall Pro
+
+How to use Amazon Alexa with Housecall Pro
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/yol56c1kr5
+
+Housecall Pro has released a new way for you to manage jobs on the go. Using Amazon’s Alexa app or any Alexa-enabled device you can:
+
+- Hear the details of your next job, such as the time, customer name, and address.
+- Text your customers to let them know you’re on the way with a single voice command.
+- Get directions to your next job without taking your hands off the wheel.
+
+Click here to enable Alexa in your HCP account
+
+---

@@ -1,0 +1,80 @@
+CSR AI Best Practices and FAQs
+Source: https://help.housecallpro.com/en/articles/12001958-csr-ai-best-practices-and-faqs
+Author: Mathew H
+Last updated: Updated over 3 months ago
+
+Summary: Looking to best set up your CSR AI for success? Learn quick tips, best practices, and answers to frequently asked questions.
+
+This guide walks you through proven best practices to get the most out of your Customer Service Representative (CSR) AI. You'll find tips on how to increase your conversion rate and create a better experience for your customers. To make it even easier, we’ve included a helpful FAQ section to address common setup and troubleshooting questions.
+
+---
+
+---
+
+Setting Up Services for CSR AI
+
+In this guide, you’ll learn how to best configure your line items for CSR AI to accurately book jobs and estimates.
+
+---
+
+Service Description and Pricing Tips
+
+CSR AI will check the descriptions and prices of your available services (the services you have enabled for Online Booking) to give the caller more details about the service you offer.
+
+Follow these tips to ensure CSR AI can give the details you want your customers to know:
+
+- Keep it short. Aim for no more than a few sentences. CSR AI may not read the entire description if it’s too long, so focus on key points you want customers to know. - ❌ Don’t write a step-by-step of how your technician will replace an air conditioner filter.
+- ❌ Don’t leave no, or minimal, details in the description: "A/C Service."
+- ✅ Do write a brief overview: "One of our expert technicians will come out and replace your air conditioner's filter."
+- Include pricing details. CSR AI can share what’s included in the service price if you add it to the description. Avoid listing the price itself in the line item description; CSR AI will reference the set price from your available services. - ❌ Don't include vague pricing in the description: "This service costs $100."
+- ✅ Do include clear pricing details in the description: "This service includes our expert technician coming out, replacing your air conditioner's filter, and providing a complimentary inspection for any additional issues."
+- If you have $0 priced line items available, make sure to include details in the description in case the caller asks about the price. - ✅ Do include a reason why pricing details cannot be shared
+ - For example, if you offer a free in home estimate, your description might look something like: "We provide a free estimate for this service. One of our technicians will come to you and provide you with an estimated price before doing any work."
+
+---
+
+Line Item Names
+
+To book appointments for your customers, CSR AI needs to find a corresponding line item from your price book. These tips will help ensure CSR AI can successfully find the correct line item to get the caller booked for the service they need.
+
+- If you want CSR AI to book generic service calls, be specific with your service call names. CSR AI matches customer requests to the line item name (and, if applicable, the industry in your price book). Whether you have one industry or many, avoid generic names. Include the industry or specific service in the name. - ❌ Don’t name it "Service Call"
+- ✅ Do name it/them "Electrical Service Call," "Plumbing Service Call," "Heater/Furnace Service Call," "Breaker Box Service Call," etc.
+- CSR AI is better at finding line items if there are less, but if you must add more, make the names crystal clear, especially if your line items would be very similar. For example, if you repair and install different types of appliances, specify both the action and the appliance in the name. - ❌ Don’t name it "Repair"
+- ✅ Do name them "Repair - Dishwasher," "Repair - Refrigerator," "Install - Dishwasher," "Install - Refrigerator," etc.
+
+---
+
+---
+
+Frequently Asked Questions
+
+---
+
+I followed all of the tips in this article, but CSR AI still made a mistake. Why?
+
+Even with the best setup, AI can occasionally make mistakes. CSR AI uses patterns, rules, and the information you’ve provided to make decisions, but much like humans, AI isn't perfect. If you notice an error, you can try making some tweaks to your setup, but no setup will guarantee 100% perfection.
+
+---
+
+Why does CSR AI disclose it is AI and that the call is being recorded? Can I turn that off?
+
+CSR AI provides this disclosure to ensure transparency and consistency in all interactions. It’s part of our standard approach and helps set clear expectations for your customers. At this time, the disclosure is a required feature and cannot be turned off.
+
+---
+
+CSR AI isn’t booking jobs and estimates for me. Why?
+
+There are a few reasons why CSR AI may not be creating jobs/estimates in your account:
+
+- First, check that you have CSR AI enabled to book jobs/estimates in your settings. You can find full instructions on how to enable that here.
+
+- If CSR AI is enabled to book jobs/estimates, make sure your Online Booking is set up with services enabled and booking windows available for CSR AI to schedule. - Check out our Online Booking help article for more information on how to set all of this up.
+- Make sure to follow the tips outlined here so CSR AI can locate the right services for your customers.
+
+- CSR AI may not be able to book because there may be no availability on your schedule. If all of the slots on your schedule are booked, CSR AI won’t be able to schedule anything.
+
+- Lastly, AI can occasionally make mistakes. Rarely, even with everything set up properly, CSR AI may not successfully schedule a job/estimate.
+
+- If you’ve checked all of these things and CSR AI is still consistently not scheduling jobs/estimates for you, reach out to our support team at the Blue Chat Bubble for further support.
+
+---

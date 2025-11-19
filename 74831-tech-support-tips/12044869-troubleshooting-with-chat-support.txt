@@ -1,0 +1,367 @@
+Troubleshooting with Chat Support
+Source: https://help.housecallpro.com/en/articles/12044869-troubleshooting-with-chat-support
+Author: Taylor L
+Last updated: Updated over a month ago
+
+Summary: This article goes over what to expect when troubleshooting through the BCB.
+
+Troubleshooting Overview
+
+When you reach out through the Blue Chat Bubble (BCB), we may guide you through a few quick troubleshooting steps. This helps us gather the right details to understand what’s going on and, if needed, escalate it to our Tech Support Team so we can resolve the issue as quickly as possible!
+
+Here are the key steps we’ll ask you to do during troubleshooting:
+
+1. Describe the issue - Tell us what you were trying to do, what went wrong, and the steps you took before the issue.
+2. Give us the details - Share the customer profile, job, invoice, or estimate number connected to the issue.
+3. Confirm your Browser or App is up to date - Let us know if you’re on the web or mobile app, and make sure your browser or app is refreshed and updated.
+4. Show us what you see - Provide screenshots or screen recordings of the issue directly in the BCB.
+
+---
+
+---
+
+Step 1: Describe the issue
+
+Describing the issue gives us a clear picture of the situation and helps us troubleshoot more effectively.
+
+To help us understand your situation clearly, please share:
+
+- What were you trying to do when the issue came up?
+
+- What problem are you running into? (what you expected vs. what happened)
+
+- Any steps you took right before the issue appeared?
+
+- Is the issue affecting all users, or only specific users? If only specific users, please provide the Team member's name and role (Admin, Office Staff, or Field Tech).
+
+---
+
+Step 2: Give us the details
+
+Providing details helps us understand exactly where to look, so we can resolve things faster for you.
+
+To help us track down the problem quickly, please share details connected to the issue (if applicable):
+
+- The customer’s profile name.
+
+- Job number.
+
+- Invoice number.
+
+- Estimate number.
+
+---
+
+Step 3: Confirm your Browser or App is up to date
+
+It’s important for us to know whether the issue is happening on the HCP mobile app or on the web version. Once we know that, we can guide you through the right steps.
+
+Often, clearing cache, updating your app/browser, or using an incognito window fixes issues by removing saved data that may be causing glitches.
+
+Clear Cache/Update Web Version of HCP
+
+If you’re using Housecall Pro on the web:
+
+- Browser: Confirm you’re using Google Chrome (this is the browser we support)
+
+Clear cache/cookies:
+
+- Click the three dots in the upper-right corner of Chrome.
+
+- Select Delete Browsing Data from the drop-down menu.
+
+- Select All time from the Time range drop-down.
+
+- Select the types of information you want to remove. (Uncheck Passwords and Passkeys)
+
+- Click Delete data.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1679288844/845ab1956365c929962bbe475522/image.png?expires=1763568000&signature=1df9d91f0b01c7804bae6868d72892457916cd65ff3b6fe75ddc8437cdc5c4cb&req=dSYgH8t2lYlbXfMW1HO4zUlEsLCQ5DO2pGvMG3pN4WaLTaW2Ny9DyUw%2FN7ys%0AfLK3%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1679289136/20f23d78ad0bbd25cdf3999c785e/image.png?expires=1763568000&signature=d7a522b9a330bfca14f0a1687660f67913f4b3e9b4fe3581df60dec95cedbe90&req=dSYgH8t2lIBcX%2FMW1HO4zVRLZqjCZx6t65rQo8%2Fzpi0Mu4hgbTUtXiTi6qYu%0APuYT%0A
+
+Check or update Chrome:
+
+- On your computer, open Google Chrome.
+
+- Click the three dots in the upper-right corner of Chrome.
+
+- In the dropdown menu, hover your mouse over Help. A submenu will appear where you can select the About Google Chrome button.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1679320842/756c07442bb36de80f6eb2490296/0dad70ba-0b51-48c1-9781-c8118ca89a48?expires=1763568000&signature=0b91e9bad610507b9f30775251279897dbd852e0c7924966065b4ecc8f90743c&req=dSYgH8p8nYlbW%2FMW1HO4zbcuJ0MG0U876JCu81PEUYp4JVOFfMfMZYeK%2B%2Fgw%0ARTvyW4qwyYxvQ%2BhbbfA%3D%0A
+
+- A new tab will open displaying the About Chrome page. Under the Google Chrome heading, you will see the current version number of your browser. Chrome will automatically start checking for updates on this page.
+
+- If an update is available, you will see a button that says Update Google Chrome or Relaunch.
+
+- Click Update Google Chrome. Once the update is downloaded and ready, the button will change to Relaunch.
+
+- Click Relaunch to restart Chrome and apply the update. Your open tabs and windows will usually be reopened automatically.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1679319965/4babf128d73393b2657897f538bf/image.png?expires=1763568000&signature=b79346890e6ad7c5c2f79f606843755eaabb2fc28c41012fa2849342866cafb0&req=dSYgH8p%2FlIhZXPMW1HO4zYfA7HygeoTN0VKPqWT51fmFXHazE9j8JuGDGOYo%0AmSUPfjQ69sR5I%2FQZ2XI%3D%0A
+
+- If you don't see the Update Google Chrome button, it means your Chrome browser is already up to date!
+
+- Once updated, take a quick screenshot of the Chrome version page and share it in the BCB.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1678075052/5b31cc6ef70df7df8f1d76c50589/image.png?expires=1763568000&signature=060153c061a0b91f518cf3b0388e8ea3180153b6725ad49a6e2393c18764a7c7&req=dSYgHsl5mIFaW%2FMW1HO4zXN22etVWMdfeyz3Fa13W385dWlGqm7aa7wifuoi%0AktcLM2tZl8aqDKupdKI%3D%0A
+
+---
+
+Incognito Window
+
+An incognito tab (also known as a private browsing session) acts as a fresh start for your browser. It allows you to browse without your usual cached data, cookies, or extensions, helping to determine if an issue is related to those elements.
+
+Open an Incognito window:
+
+- In the top-right corner of your Google Chrome browser, click the three-dot menu.
+
+- Select New Incognito window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1707139153/3b009be42841f65b1fcabbd7dfb9/image.png?expires=1763568000&signature=fe1f0d30aa0f3b079534cc199784eb9b6b0e0954f4f58203265487406e03ecf7&req=dScnEch9lIBaWvMW1HO4zSrCZnVwRF92tF2qif2%2B72o%2FxV5HCizw7HsHxToS%0ACIca%2FM5mNcZdkJACJd8%3D%0A
+
+---
+
+Clear Cache/Update the HCP Mobile App on iPhone (iOS)
+
+Refresh the HCP App:
+
+- Open your iPhone Settings.
+
+- Tap General.
+
+- Tap iPhone Storage.
+
+- Scroll down and select Housecall Pro.
+
+- Tap Offload App.
+
+- Tap the HCP app icon on your home screen to re-download it.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1679350928/fa845a1f706ca59f5715dbe93194/ezgif_com-video-to-gif-converter.gif?expires=1763568000&signature=e3a8753bc0b470f6375fb550ff7c0acb4a62e7b403b20d3e73c7409e5c00e6ef&req=dSYgH8p7nYhdUfMW1HO4zawEr2kH%2FTx2HrhGEn1nSMiaRvVls0cP31Ds9sAM%0AY3JFAIij5R%2FN%2FyfKQ40%3D%0A
+
+Update the HCP App:
+
+- Open the App Store.
+
+- Tap the Search tab at the bottom and type Housecall Pro into the search bar field.
+
+- On the HCP app’s page, check the button on the right: - If it says Update, the app has a newer version.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1697971670/a8e93c1e3d99a738504149e91420/image.png?expires=1763568000&signature=0402874e0938056f98b631705190e323da5c6490782777945d9e817db561b3d6&req=dSYuEcB5nIdYWfMW1HO4zX7H8UCu9yRw2yxh5UxpsPk%2BAb19XrAQXVjfnPtr%0AfohtaAKDDdzG%2BA814rY%3D%0A
+
+Check your HCP App version:
+
+- In the HCP app, tap More (bottom right corner).
+
+- Scroll down to the bottom of the page to find your app version.
+
+- Take a quick screenshot of your app version and provide it to our team through the BCB to help us confirm you’re up to date.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1697973378/9ed3248cbca6865129de40643eb3/image.png?expires=1763568000&signature=f20cc374585d4cea95ebca91c27673f176ac3df0fbe92abf59b2a30c45fce126&req=dSYuEcB5noJYUfMW1HO4zfZXP7YkxbiX6sL1bGPyXeJVp6PTmlJU1D4J51Qu%0AWEilVHL%2FWXlB8eD8AhE%3D%0A
+
+---
+
+Clear Cache/Update the HCP Mobile App on Android
+
+Refresh the HCP App:
+
+- Open the Settings app on your device.
+
+- Scroll down and tap Apps.
+
+- Find and select the Housecall Pro app.
+
+- Tap Storage and then tap Clear Cache.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1683717329/5284c23dd9ac5310720d332ea947/screen-20250822-132200-ezgif_com-video-to-gif-converter.gif?expires=1763568000&signature=623dce37cbde1683351325fa16b8e061c3fe943e653de67259f8e95274b7156a&req=dSYvFc5%2FmoJdUPMW1HO4zQNjTcAmGsHcza7KJFIqJmLlERxEdJzIf%2BSoitrg%0Ay8lkEEhecn08hPC%2FFUQ%3D%0A
+
+Update the HCP App:
+
+- Open the Google Play Store.
+
+- Search for the Housecall Pro app and open the app page.
+
+- In the app page, tap Update.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1683737101/0f13635f7359e31ffcd0d210cfd3/image.png?expires=1763568000&signature=41ca94c5dde5efab712f46d467f36d74d2b044218fc782f37a37aea135f02045&req=dSYvFc59moBfWPMW1HO4zf7znytTtlcDJls72XULgcGMSCgjUHSDt08cWb%2B%2B%0AhWyh8rCwrW8t8iO6m8Q%3D%0A
+
+Check your HCP App version:
+
+- Open the HCP mobile app and select the menu button in the top right corner, then select About.
+
+- Take a quick screenshot of your app version and provide it to our team through the BCB to help us confirm you’re up to date.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1683697011/0a132511e6c984a0b5ee5d313bf5/image.png?expires=1763568000&signature=55c3a795e9d16a1c94220edf07d9b5a28e29dd21fb2f6fd724c932becf0727ee&req=dSYvFc93moFeWPMW1HO4zb6UJheJMQk6lQWJ5yx9UrcBhPyMlzJN3nSpjUN0%0Azc1i%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1683697722/0e4294691ae6efd285f5b6548b55/image.png?expires=1763568000&signature=6f80fb1aeabe27f5256ffa0bac4e250f9366c0d3c1c61c293ee887af21c45ed4&req=dSYvFc93moZdW%2FMW1HO4zYwm8BjaCabqxMEq3ZSMdXqMNpdcRO77Cc5DyIzg%0AecSS%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1683697384/778d188460b73af0be13d12d328e/image.png?expires=1763568000&signature=b944a47ea8b38180622800de0b2b013c7edbd2fa7a3ee0446c116122c377a0be&req=dSYvFc93moJXXfMW1HO4zV00YtJXckmwvGhaiEERsDC3OWPggWNfXW0jHlK%2F%0A01Mb%0A
+
+---
+
+Step 4: Show us what you’re seeing
+
+Screenshots or screen recordings give our team a clear picture of the issue. This helps us confirm what’s happening, speed up troubleshooting, and make sure we find the right fix for you.
+
+Capturing Screenshots - Web
+
+Capturing screenshots on Windows:
+
+- Press Windows key + Shift + S to open the Snipping Tool, then drag to select the area you want to capture.
+
+- A small window will then pop up in the bottom-right corner. Click it to open, edit, or save the screenshot.
+
+- Once saved, you can attach the screenshot in the BCB to provide to our team.
+
+Capturing screenshots on Mac:
+
+- Press Command + Shift + 3 to capture the entire screen.
+
+- Press Command + Shift + 4 to capture a selected area (your cursor will turn into crosshairs so you can drag to select).
+
+- Once you've captured the screenshot, you can provide it to our team through the BCB.
+
+---
+
+Capturing Screen Recordings – Web
+
+Capturing Screen recordings on Windows:
+
+- Go to the Loom Chrome Extension and click Add to Chrome. - You can use this link to open and add the Loom extension.
+
+- Click the purple Loom icon in the top-right of Chrome.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1696155216/ae2e71f581cdf3e759cf5b90d917/image.png?expires=1763568000&signature=504f1d16d403ee92977759c01f5d59f0519b83a5c87b2a8b23fe033963e5a697&req=dSYuEMh7mINeX%2FMW1HO4zSCPeYW5k4SWAz%2BG7xtntpsBzraOM4Zzi62Yl%2FJs%0A4Q9G%2FO7OcSJopiuLp94%3D%0A
+
+- Choose Full Screen, Window, or Current tab, then click Start Recording.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1696171036/929bc9497f3489e201f480543f1f/image.png?expires=1763568000&signature=7a28b4443c06c45a278313fa29ba7857035542d043e477f784b6f7f2db873479&req=dSYuEMh5nIFcX%2FMW1HO4zdqz5YJ7YNCpveFviHdicGMRgxD2%2FcfJGOOAGvAQ%0A1t1msvTaDIUDZmV%2Fk3c%3D%0A
+
+- When finished, click Stop.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1696176749/0480dd6d10bcf9131521932d6592/image.png?expires=1763568000&signature=67cd7243a7b8d166a16ea00497640ad098264cb41291d156579244e479d84c30&req=dSYuEMh5m4ZbUPMW1HO4zcylgLpajD6PlhGJv8ArUZEmvNaQd%2B2VaMgVKS4a%0AmKexZgCF%2FCdfCgWJ0vM%3D%0A
+
+- Then, copy the shareable Loom link to provide for our team in the BCB.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1696181665/f3a7a31f4b3e1d2af9efe55a4f92/image.png?expires=1763568000&signature=0313068b7674d576cb4048ac53073e7095d6d7dee6d96d98a3c67f26121454db&req=dSYuEMh2nIdZXPMW1HO4zfauXvtVq%2B7bs02Ft2%2BZ4P0qZu2GBLCEtCMhxEU0%0Akk0eaih%2BykNr1Qo8yO4%3D%0A
+
+Capturing Screen Recordings on Mac:
+
+- Press Command + Shift + 5 to open the Screenshot toolbar.
+
+- At the bottom of the screen, select either: - Record Entire Screen (left recording icon)
+- Record Selected Portion (right recording icon, lets you drag and resize a box)
+
+- Click Record to start.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1696126755/ea1fa8273a51be64cba6ae171343/image.png?expires=1763568000&signature=8d8381d52fd8857b528de8f280bd5b20035fbb327bde2b768103caadb12b670d&req=dSYuEMh8m4ZaXPMW1HO4zVbk3ORdgoX3RJLqFQVLejxl9dbW8l7%2FcBfw6gpt%0AT0ijLUsGgLAfAKxpnLI%3D%0A
+
+- When finished, click the Stop button (a small square) in the top menu bar. The recording will automatically save to your desktop, which you can then provide to our team in the BCB.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1696144886/a64bad6b88384bb9b36754c46750/image.png?expires=1763568000&signature=a0f2a26960f6fec43265a395188562632316cb25f251fc9cf743de50b25ec177&req=dSYuEMh6mYlXX%2FMW1HO4zTR870Fa4gQoOgAuvjtLMn1sRcqhDYkS8zpIZ7Rr%0AujlyYtpbiuaBaDHyqEs%3D%0A
+
+---
+
+Capturing Screenshots – Mobile
+
+Capturing Screenshots on iPhone:
+
+- Press the Side button + Volume Up at the same time.
+
+Capturing Screenshots on Android (most devices):
+
+- Press the Power button + Volume Down at the same time.
+
+Table:
+Row 1: iPhone | Android (Most devices)
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1681165467/3138b5f853c2ea957bba77077ce7/image.png?expires=1763568000&signature=d78ee0721cb079f4435390a325fd325996284ee9ed2da887a8238d0268f7ce88&req=dSYvF8h4mIVZXvMW1HO4zTB9FieGHUtooFmYjTBTAXu25cPSjHosGKnaa41M%0A6lHI%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1681164874/d88b57b566a1d5c39c665a155cec/image.png?expires=1763568000&signature=088d4f42d2d6e59869934c4dd915ee6b56e089411988f29c911630380cac25b7&req=dSYvF8h4mYlYXfMW1HO4zTmta21EZkJKzaU5J40P%2BXcFYlJQKmXAuGg8q4zi%0AVlCj%0A
+
+---
+
+Capturing Screen Recordings – Mobile
+
+Capturing Screen Recordings on iPhone:
+
+- Open Control Center (swipe down from the top-right corner of your screen)
+
+- Tap the Record button (circle within a circle). It will count down from 3, then start recording.
+
+- To stop, open Control Center again and tap the Record button.
+
+- Once you've captured the screen recording, you can provide it to our team through the BCB.
+
+Capturing Screen Recordings on Android (most devices):
+
+- Swipe down from the top of your screen to open Quick Settings.
+
+- Look for Screen Recorder (you may need to swipe left to find it).
+
+- Tap Start Recording.
+
+- To stop, pull down Quick Settings again and tap the Stop button.
+
+- Once you've captured the screen recording, you can provide it to our team through the BCB.
+
+Table:
+Row 1: iPhone | Android (Most devices)
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1681178935/5dcf8959a87b06638f3d88798732/image.png?expires=1763568000&signature=e1bf35c6c6daafa761cae73d27d1e4f1d2f767fb88cef1adadb16b0e2f228e73&req=dSYvF8h5lYhcXPMW1HO4zQ1WaTw7DulXcv1y7rCRts2PHGbRIdnvoTkodhNR%0A9bJ3%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1683741690/365009634a3862612e0dee9cc162/image.png?expires=1763568000&signature=4567a5d92dd389d5e2d49ab3ef107a2be5428139b81f680cd006598baf40ef68&req=dSYvFc56nIdWWfMW1HO4zSI440pcSa7mRMg%2Fz83z3YoESVv9ia8lFRpo4KE2%0ACmT9%0A
+
+---
+
+Attaching Screenshots & Screen Recordings in the BCB
+
+HCP Web Version
+
+To attach screenshots/screen recordings in the BCB using the web version of HCP:
+
+- First, click on the BCB located in the bottom right corner of your HCP account
+
+- Then, you can select Send us a message to start a new chat or click Messages to get back to any previous open conversation.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1709252732/c37c99ebae2a01639b9fe6ba1ddc/image.png?expires=1763568000&signature=a2d24d107388951ba40780d931caa13fe7316eca8a81fa52bc79e1dfc711b6b2&req=dScnH8t7n4ZcW%2FMW1HO4zeM%2Bd2%2FUwlk2c4bN%2BeObc2bSipCev6zKevJik4a8%0AB5tJbDP%2B4OnvaF1szgw%3D%0A
+
+- At the bottom of the chat window, select the paperclip icon to open your computer’s file explorer, where you can select the screenshots or screen recordings you would like to send in the BCB.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1709255888/a058c492b0d16fdc8d01a8e8b17e/image.png?expires=1763568000&signature=9afa0751a7f331833aa8b297dbe094e49951328fae123cdcfaef8f019ad68901&req=dScnH8t7mIlXUfMW1HO4zR5wsc9Nuwwv71UZgrYr5cc%2FxRpR%2F6l2zrc4lwKd%0ABZFBb7EnOyBdzE4u1Wg%3D%0A
+
+---
+
+HCP Mobile App - iPhone
+
+To attach screenshots/screen recordings in the BCB using the HCP Mobile app on iOS:
+
+- First, select the More icon in the bottom right corner of the HCP app and then tap Chat & help center.
+
+- Here, you can tap Send us a message to start a new chat or tap Messages to get back to any previous open conversation.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1709278190/8ab1796ee9171ed2c8917cdaad4c/image.png?expires=1763568000&signature=2eadb363f0398d666e8f5946776966463f1b3ec4964592a338be7dd172e06043&req=dScnH8t5lYBWWfMW1HO4zatPQYqGzuPX2JgDTf%2F11WDjyhphGqD8o2%2BvqmrB%0Aqi0I%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1709278360/62ec07f309b64a639f046e7d117f/image.png?expires=1763568000&signature=aac976090f307e00019f65c696b8055957efd8800b07fe834164f5b42213f4e2&req=dScnH8t5lYJZWfMW1HO4zTXpp84VPu4866mw%2FEs82G21cTt2BTdq4mmzXm%2B8%0AzsTp%0A
+
+- At the bottom of the chat window, tap the plus button (+) and then select any of the following options to send your screenshots and screen recordings in the BCB: - Camera
+- Photo and Video Library
+- Add file
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1709397021/56fb522d8fb189dcc25aa8cae75c/image.png?expires=1763568000&signature=b47ce0be4b3f010a17dacadb45cc32fb738e1128458227ad5776ac6f2a350df4&req=dScnH8p3moFdWPMW1HO4zSHpC5TWELbsFX5dISk38LhaXQPs%2FfwYaqTMN8%2Fy%0AQsfs%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1709398530/9b6aab74d052e93b0c02fe999b7d/image.png?expires=1763568000&signature=ea34bc94846f34f8921786126e1f349ab91f2e8296860121d11b1042d4ee9f81&req=dScnH8p3lYRcWfMW1HO4zdXxPHZhRQW22v%2FT8MVdcc7ltloZq%2Fnr1NBF6OpA%0APmTl%0A
+
+---
+
+HCP Mobile App - Android
+
+To attach screenshots/screen recordings in the BCB using the HCP Mobile app on Android:
+
+- First, select the menu icon in the top left corner of the HCP mobile app, then select Chat & help center.
+
+- Here, you can tap Send us a message to start a new chat or tap Messages to get back to any previous open conversation.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1709420193/fbdf44e99116b41cf752f7257f6f/image.png?expires=1763568000&signature=069e1029b0a146508396bb29e294a803dd1b2fb44188e42a8be3e219ff267385&req=dScnH818nYBWWvMW1HO4zfYdgQs9bNHC9Lv6PKo5YA49ygIFVZahBG7sJgEL%0AKSpl%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1709422664/1f1e02bd521e25d8e654c669aa77/image.png?expires=1763568000&signature=a0ead2d7be56f38408919ab23b35163348bf9e06d497839ac5e4346ebc8fc70f&req=dScnH818n4dZXfMW1HO4zfTgU7TiqGq6xhxfiM%2BhWTXhyfsHX%2BZQm0TJCB07%0Apd4c%0A
+
+- At the bottom of the chat window, tap the plus button (+) and then select any of the following options to send your screenshots and screen recordings in the BCB: - Take a Photo
+- Record a video
+- Gallery
+- Select files
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1709446674/b90a5f2df346d1aca1077351812d/image.png?expires=1763568000&signature=e54cf52143607e760e3ab69355d13fe0a8e3d5c377ed2bfcd5c1888b2427d21c&req=dScnH816m4dYXfMW1HO4zR4eFvor5Yw3Ph8q1pDBiWSOisj44VDmQilxw96v%0Ai90z%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1709447006/e1404f81cd7100333d084b27b6e8/image.png?expires=1763568000&signature=3fd596e83ab80fdb95b4eb9a9647cd3855fff70d268378ad5566b26b20d38d06&req=dScnH816moFfX%2FMW1HO4zX3WNyjGjxYqav3opFHqrR9MdradHCMh2xdiNU6R%0AbgYV%0A
+
+---
+
+---

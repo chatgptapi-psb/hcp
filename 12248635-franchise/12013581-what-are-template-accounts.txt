@@ -1,0 +1,46 @@
+What are Template Accounts?
+Source: https://help.housecallpro.com/en/articles/12013581-what-are-template-accounts
+Author: Nate H
+Last updated: Updated over a month ago
+
+Template Accounts
+
+Template Accounts are standard HCP accounts, designed to help Franchisors maintain consistency and control across their franchise network. They're used in more of a set-and-forget type of manner, and act as a source of truth for your Brand's Playbook - meaning you can configure the account's settings to match your Brand's requirements. After configuring your Template Account's settings, you can have your Account Manager clone new accounts from it to quickly enroll new Franchisees/Locations.
+
+Template Accounts are primarily used to:
+
+- Configure account settings to match your Brand's Playbook.
+
+- Clone new Franchisee accounts from this template for quick enrollment.
+
+- Act as a source of truth for settings.
+
+- Utilize Franchisor Specific Settings like Command & Control.
+
+---
+
+Franchise-Specific Settings (Command & Control)
+
+Template Accounts are also responsible for hosting Franchise-specific settings, such as Command & Control.
+
+Command & Control is used to help enforce brand standards and operational consistencies across your Franchise network by limiting your Franchisee’s ability to create, update, and delete specific settings while maintaining the Template Account’s values for those same settings.
+
+Once an account is cloned from a Template Account, those two accounts will automatically be linked together. If you need to link a franchisee’s account to a different template, please reach out to your Account Manager.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1670965206/7bf838d0a69449110cc838f22506/TemplateAccount1.png?expires=1763568000&signature=31a5d5ceb8ab867aa8fdb43440e730ccfbc40d76cb8cda09cc9a0d273ac583bc&req=dSYgFsB4mINfX%2FMW1HO4zf9Vt%2FK7X5ZQHVImWa0tafKCkNIioNkie1FSknCC%0AFrtvOT4fzsQmD%2BiMr88%3D%0A
+
+---
+
+Template Settings & Linked Accounts
+
+Template Accounts will also display new options in the settings page. These new pages are called Template Settings and Linked Accounts.
+
+- The Template Settings page displays settings that can be Commanded & Controlled.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1670966621/be330e1e6f096c79ca00aed6924f/TemplateAccount2.png?expires=1763568000&signature=09e13042adff69cb2c7fa25b9301b00a7582aea2556c9376a13736e4fdcd2daa&req=dSYgFsB4m4ddWPMW1HO4zW9bHCPTwn4Eui4pd%2BYwX1iXtzB%2FZgy%2FmdvV7w9Q%0A4%2BbYa6q6MxU6uSHGYdg%3D%0A
+
+- Linked Accounts displays the Franchisee/Child Accounts that are connected to the Template Account you are currently in.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1670967286/8ed3514d5cc5ab828db6e5494016/TemplateAccount3.png?expires=1763568000&signature=8ca28b64bc9a2d0c0e9183854b464e0f1145c2c0942244221aa9781645bc6a79&req=dSYgFsB4moNXX%2FMW1HO4ze9UZzrcSh4jFprcJFgp8fHOmAiqBiNO40gqyqKR%0AzyuDqPgc%2BFweFe6OkK4%3D%0A
+
+---

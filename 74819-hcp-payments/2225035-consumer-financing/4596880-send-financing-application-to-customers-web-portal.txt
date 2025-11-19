@@ -1,0 +1,26 @@
+Send financing application to customers - web portal
+Source: https://help.housecallpro.com/en/articles/4596880-send-financing-application-to-customers-web-portal
+Author: Ian H
+Last updated: Updated over a month ago
+
+Summary: Learn how to send the Wisetack Consumer Financing application to customers from the HCP Web Portal.
+
+Send Financing Applications to Customers (Web)
+
+If your job falls within the approved lending range with Wisetack*, you will see a banner on the Job Details page alerting you of the potential monthly payment, with the option to send a financing application to your customer.
+
+To send your customer a financing application:
+
+- Open a job and click the Send financing application button.
+
+- You'll then be directed to a page to confirm the customer details before sending them an SMS message with a link to apply.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1227764417/2e9adffe95b5c95e0b85653657fa/Screen-2BShot-2B2020-11-02-2Bat-2B10_45_46-2BAM.png?expires=1763568000&signature=df28fcee330ebbc1b328e69d89f2584aa3542a04fb7960061f262ce79e779164&req=dSIlEc54mYVeXvMW1HO4zVTP3Q6uxzCERk4jy46UlIl%2FerH7lN%2FCPyFk1iQN%0AgiSMWh2D%2FJ%2FNA66fmjU%3D%0A
+
+- Your customer's phone number information will be automatically populated in the "Send application for financing" prompt. You can confirm the phone number or change it before sending.
+
+- Once the information is confirmed, click Send Text to send the customer a link to apply for financing through Wisetack via their mobile phone.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1227764419/c2d497c7fdb10658df8165d9622a/Screen-2BShot-2B2020-10-21-2Bat-2B3_14_50-2BPM.png?expires=1763568000&signature=ff27737ef7daf017b6faf24a5d856a90d326e28655c5c44360cafc978bfedd59&req=dSIlEc54mYVeUPMW1HO4zQPCpMPEOH5DfTPBGI9DjHmrFKoS256Ve54zFbrQ%0AItwtooag1gDVxK1LqWQ%3D%0A
+
+---

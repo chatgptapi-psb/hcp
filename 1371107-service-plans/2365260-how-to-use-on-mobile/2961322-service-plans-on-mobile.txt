@@ -1,0 +1,91 @@
+Service Plans on Mobile
+Source: https://help.housecallpro.com/en/articles/2961322-service-plans-on-mobile
+Author: Ian H
+Last updated: Updated over a month ago
+
+Summary: Frequently asked questions about using the Service Plans feature on the Housecall Pro mobile application.
+
+Send and Sell Service Plans on Mobile
+
+To send and sell a Service Plan using the HCP mobile app:
+
+- First, open a Job page and then select Add Service Plan from the service plans tile.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1757640170/f6cd53de285f394c6fe841929576/IMG_9632.PNG?expires=1763568000&signature=3749b1fb2659d4cb040cbbc308d8ead8d9c8727b47b1ccee228512c84e42a4c7&req=dSciEc96nYBYWfMW1HO4zfn3hOoLPA%2F2dXaobt3Tks2e3LOybww8kBthrzxF%0A7Rebn1JAUvN%2FUxSDH3A%3D%0A
+
+- Select your Service Plan template. - If there is a discount applied to that template, you will see the potential savings the customer will receive on the job.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1757640172/5e04308277e1e32b54253f8bdb74/image.png?expires=1763568000&signature=029acbf04fb1a0de3c7c14ce3d6d9464ee14b93fd6a1817e63431de6bdc9be7c&req=dSciEc96nYBYW%2FMW1HO4zYcY%2FtGrTwE7sU8yEuvxW3GakR17sjaovDqHAu8h%0A4xeSrF6ZSIr4fCOVvbs%3D%0A
+
+- Select the details of your Service Plan: start date, add-ons, billing frequency, and tax. - Please note that marking this as the first visit can be completed once the service plan is active from mobile or from web.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1757640169/e25d035bd1fa53e17fb6ba6a35c9/image.png?expires=1763568000&signature=6fa302adad6c7437b603f89c974f3d0dfc9fb38b3abccb63f177b94eff895667&req=dSciEc96nYBZUPMW1HO4zXvGRMf0VFh3LT2Yp77rD80%2FbjXodqHW7pOTKTRF%0AlAlIGI7KLYQK%2FI6E7iw%3D%0A
+
+- Once setup is complete, a draft plan has been created. From here, you can select Send to customer, Save as draft, or Pay for plan.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1757640167/5eb3f2a93b8c378e0bd2aee658fd/image.png?expires=1763568000&signature=c8728ed5f9518545aa3e6a6ac6b4a265f18999f15dbac013a4bfcd55a910916f&req=dSciEc96nYBZXvMW1HO4zcdY3idKleMsttY%2B0vQ2t3KwurvRlMNXER%2FfCklE%0AsV7Fux5c6I26%2FSYDxzg%3D%0A
+
+- To pay for the service plan, navigate to the pay icon and through the checkout steps.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1757640168/d0529f0bf87848f984a22dea6547/image.png?expires=1763568000&signature=21952613d08bb925fbccd0b958b8102ac5c2bf07e22f2ced2ec21e9593b6e3bc&req=dSciEc96nYBZUfMW1HO4zVjzuxOQXaVDboqMx%2BCnxqZZCQfPKDExfGgzBhZy%0AD7FTI3C0L3H4ekpsbHk%3D%0A
+
+- Once payment is successful, the plan is active and your customer will receive two emails - confirmation of their plan details and a receipt.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1757640166/5da93d941ff20cd67aa7bd7ed4b5/image.png?expires=1763568000&signature=6881988278fa0b03cd2031acacb82d9dff7fbb4fac3cbf49aee6b0a489d3ac42&req=dSciEc96nYBZX%2FMW1HO4zV5wk5apAYTXubXar9mvWpbnSzPlUbtO%2FpfA4fr%2B%0AQlee3Cxm3p2IxeaQ53w%3D%0A
+
+- Once the plan is active, it will be accessible from the job page and from the customer profile on both mobile & web.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1757640171/0fea0fd5f7a63f39add4b9a430df/image.png?expires=1763568000&signature=16dbd95d7953e6462c5a7a8e4ccf96a35487e227b969da3858195323e7a69e45&req=dSciEc96nYBYWPMW1HO4zWDrlFxsxM0VGs5tWCQ2HHXLfsowG7MLhCDg%2ByT8%0AW2SikiJZjAr4sEG%2FTj8%3D%0A
+
+Video Tutorial
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/f5fi0rjj4v
+
+---
+
+FAQ's
+
+Can I create or edit the Service Plans we offer from the mobile app?
+
+- No, these tasks can only be completed through the web portal.
+
+How do I add a Service Plan to a customer from the mobile app?
+
+- On the mobile app, this is done from the payment screen on any given job. Once on this screen you will see a + Service Plan option that will allow the tech to follow the same steps used to Add a Service Plan to a Customer. NOTE: The technician must be allowed to See Prices/Take Payments in their employee profile in order to use this function.
+
+- When adding a service plan to a job on mobile, the first payment for that plan will be charged to the customer at that time by default. NOTE: This is different than adding a plan to a customer on the web portal. If a plan is added to a customer on the web portal and accepted on the customer's behalf, you will be given the option to charge for the first visit now OR charge for the first visit on the start date of that plan. If a plan is sent to a customer to be accepted on the web portal, the customer will be charged on the start date of that service plan by default. 
+​
+
+Does a customer have to have an email address to buy a Service Plan?
+
+- Yes. At checkout there is a prompt to confirm the email address of the customer even if they have one on their customer profile already. They will be sent a confirmation of their new plan to the email address.
+
+If the customer pays by credit card, will this card become the one on file for them?
+
+- Yes. If a customer pays by credit card this card will be charged for any future payments of this plan on the predetermined billing cycle.
+
+Can a customer pay by cash/check/other on the mobile app?
+
+- Yes, provided that this plan has been created with the ability to be paid by cash/check/other. NOTE: If you accept cash, check, or other forms of payment and do not collect for the full price of the plan upfront, it will be up to you to collect on payments when they are due. You will see these plans in the Due for Billing section of your Service Plans Dashboard when they are due. Because of this, it is recommended that if you are not collecting for the full price of any given plan upfront that the customer should pay by credit card.
+
+Can I use a card reader to run a payment for a Service Plan?
+
+- No, to collect payment for a Service Plan, you must manually enter the credit card details, as card readers are not supported for these transactions.
+
+Can a plan date be set in the past from the mobile app?
+
+- No, this is only possible from the web portal. If the current visit is the first of this plan you may connect the invoice to the plan by tapping the check box on the Schedule step of adding the plan to mark 'This is the first visit'.
+
+Can I view a customer's plan details from the mobile app?
+
+- Partially, the full details are only viewable from the web portal. Under the customer's profile on mobile you can see plan names and the plan dates when you tap on the address.
+
+---
+
+For more information about Service Plans please see Service Plans FAQs.
+
+Check out how recurring revenue helps your service business grow.
+
+---
+
+---

@@ -1,0 +1,136 @@
+Preparing For Year-End Payroll (Checklist)
+Source: https://help.housecallpro.com/en/articles/10258014-preparing-for-year-end-payroll-checklist
+Author: Shelby S
+Last updated: Updated over 5 months ago
+
+What to Expect & How to Prepare for Year-End Payroll
+
+Year-End (YE) in Payroll is the process of finalizing your payroll records for the year to ensure everything is accurate, compliant, and submitted to the correct tax authorities. This includes completing necessary filings, providing employee tax forms, and making any adjustments needed to prepare for the new tax year.
+
+As the year comes to a close, there are key payroll steps you’ll need to take to ensure everything is filed correctly and on time. Being mindful of important deadlines and making the right adjustments will help you stay compliant.
+
+This guide outlines the critical dates, tasks, and adjustments needed to successfully close out your payroll for the year.
+
+---
+
+Key Year-End Payroll Tasks
+
+To complete Year-End payroll, these key filings are required:
+
+- W-2 Forms for employees.
+- 1099 Forms for contractors.
+- Annual Returns (such as Forms 940, 943, and W-3) at both state and federal levels.
+
+Additional adjustments may also be necessary, including:
+
+- Manual payments made outside of the payroll system.
+- Imputed income from certain benefits (such as Group Term Life insurance or company-provided property).
+- Final bonuses or stock payouts issued before the year-end.
+
+---
+
+Year-End Critical Dates
+
+To ensure a smooth and compliant Year-End payroll process, please note the following important dates:
+
+- December 3rd: - Submit any corrections to payroll for earnings outside of our system or corrected payrolls to ensure they are resolved before December 31st. This allows us the most time to make corrections before Year-End. For Q4 corrections after this date, we will process them as quickly as possible but cannot guarantee they will be included in the original filings by December 31st.
+
+- December 31st: - Final Payday of 2024: Submit any last-minute payrolls or voids by this date to ensure they are included in the original 2024 filings. Note that corrections are still subject to a 20-business day SLA, so we can’t guarantee that any correction submitted after January 1st will be part of the original filings, though we will do our best.
+- Final Date for Electronic Delivery Consent: Ensure consent for electronic delivery of W-2s and 1099s is set by this date. If not, workers may receive a printed and mailed copy of their W-2s.
+
+- January 20th: - W-2s and 1099s will be available for download in HCP.
+
+- January 31st: - Deadline to Distribute W-2s to Employees: Ensure W-2s are received by employees by this date to remain compliant.
+- Final Day for Year-End Filing: This marks the last day to complete all Year-End payroll filings.
+
+---
+
+How to Prepare for Year-End Payroll
+
+- Step 1: Review All Payroll Records. - Ensure all payroll entries, including manual payments and bonuses, are accurate and properly recorded in your payroll system. This will help avoid any discrepancies when preparing for year-end processing.
+
+- Step 2:Take Note of Filing Deadlines. - Keep track of key dates and deadlines for filing. Create a timeline to ensure each Year-End task is completed on time to avoid delays.
+
+- Step 3: Reach Out for Support. If you have any questions or need assistance with adjustments before the year-end deadlines, our team is available to support you every step of the way.
+
+- Step 4: Complete Year-End Payroll Checklist - Due by December 30, 2024. - You can find the checklist in the HCP Payroll area of our website.
+
+---
+
+---
+
+Year-End Payroll Checklist
+
+To help streamline your Year-End payroll process, we’ve created a checklist to ensure all tasks and deadlines are met. This guide provides clear steps for filing requirements, special adjustments, and system resets.
+
+By following this checklist, you’ll stay on track and minimize the risk of errors or missed deadlines.
+
+---
+
+How to Access the Year-End Payroll Checklist (w/ Video Tutorial)
+
+Access the Year-End payroll checklist by following the steps below:
+
+- Log in to your HCP account.
+- Navigate to the Payroll tab and click Get Started on the Overview page.
+- Click Fix Now next to "Review company tax information."
+- Click Go next to each step: - Review company tax information
+- Preview employee W-2 filings
+- Reminders
+- Click Finished in the top-right corner of the page.
+- You'll then be redirected to the Payroll Overview page, where you can review your tax filings by clicking the Check Tax Filings button.
+
+[Video - loom] id=e4cbe7df1d6945928a5d46241e391686
+
+---
+
+Tax ID Verification
+
+Purpose: Ensure all tax IDs are accurate for smooth year-end processing and filing.
+
+- Review Tax IDs: Confirm all federal, state, and local tax IDs in your payroll system are correct.
+
+- Update or Verify Changes: If your business has moved or changed entity types, verify any new tax IDs.
+
+---
+
+Year-to-Date (YTD) Payroll Review
+
+Purpose: Verify payroll accuracy, including earnings, tax withholdings, and deductions.
+
+- Verify YTD Entries: Ensure all payroll data for the year, including manual adjustments, is accurate.
+- Download Reports: Download the “Payroll Summary" from the payroll portal.
+- Check for Discrepancies: Compare YTD totals with previous records. Take note of any discrepancies promptly and reach out to us for assistance.
+
+---
+
+W-2/1099: Employees & Contractors Data Review
+
+Purpose: Allow employees/workers to opt for electronic or physical W-2/1099 delivery and verify their address to ensure accuracy.
+
+- Electronic W-2/1099 Opt-In: Remind employees to opt in for electronic delivery of their W-2 forms by the specified deadline. Electronic delivery ensures faster and secure access to W-2 forms, reducing delays and improving data security.
+
+- Physical Copy W-2/1099 Address Review: Encourage employees to log in to the employee portal to confirm or update their address. Ensures that forms are mailed to the correct address.
+
+---
+
+W-2 Retrieval and Electronic Delivery Guide
+
+---
+
+---
+
+Preparing for a Successful Payroll Year Ahead in 2025
+
+- Step 1: Collect 2025 SUI Rates. - Monitor for updates on state unemployment insurance (SUI) rates, which may come via mail or state notifications. 
+ - Update your records by sending us the new rates for your company. 
+- In addition, starting January 1, 2025, the system will withhold SUI taxes based on each employee’s primary workplace state, in accordance with the Department of Labor’s Localization of Work guidelines.
+ - Kindly verify that employees’ primary workplace states are correctly set for 2025, particularly if you have staff working across multiple states, to ensure accurate SUI tax withholdings.
+
+- Step 2: Update Benefit Contributions or Deductions for 2025. - Apply any changes to benefit contributions, such as health insurance, retirement plans, or other employee benefits, for the upcoming year.
+
+- Step 3: Employee Withholding Allocations. - Remind employees to review and update their federal (W-4) and state withholding forms to reflect any personal or financial changes for accurate tax deductions.
+
+- Step 4: Reset Sick and PTO Balances if needed. - Reset sick leave and PTO balances in HCP under the Time Off page to start the new year with the correct amounts.
+
+---

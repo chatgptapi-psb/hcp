@@ -1,0 +1,40 @@
+Wisetack Consumer Financing - Disable
+Source: https://help.housecallpro.com/en/articles/4800606-wisetack-consumer-financing-disable
+Author: Nate H
+Last updated: Updated over 4 months ago
+
+Summary: How to remove the ability for your customers to finance jobs via Wisetack from your account.
+
+How to Disable Wisetack
+
+If you'd like to remove Wisetack from your account, follow the directions below:
+
+- Click 'My money' in your Housecall Pro navigation bar.
+
+- Select the 'Consumer financing' tab from the menu on the left, then click on the 'Manage' button in the top right corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1226834111/e6c6b101ca87db1a1152b719c55d/image.png?expires=1763568000&signature=3db2dad6ac62c1c64b79751dfd99e071162158ca648bc13d49f1a0c06058e753&req=dSIlEMF9mYBeWPMW1HO4zUlPgetUxucE8kKzBjDJFFMu4A2Y8vDlZYRbGDQf%0AYp%2FB3UyHYFgeyPyRC1o%3D%0A
+
+- Click the toggle next to "Offer financing on invoices and estimates" in the Manage window (the toggle will turn gray), then click 'Save' in the bottom right corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1226834114/30d4311650e02df2afd9c1d824b5/image.png?expires=1763568000&signature=edc5c83506b5604670051e01e5d2e85da277d9d9a4b498072e60dcee1b25f354&req=dSIlEMF9mYBeXfMW1HO4zYz%2F4X4VMWUynG9IzyoBX0j%2BBjBl5ROE11NUJ0Vz%0AgidgvJeaWTn95imomsw%3D%0A
+
+---
+
+How to Re-Enable the Wisetack Integration
+
+To re-enable the Wisetack integration:
+
+- Click 'My money' in your Housecall Pro navigation bar.
+
+- Select the 'Consumer financing' tab from the menu on the left, then click on the 'Manage' button in the top right corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1226834112/fae1a738514b4274ad93d649994c/image.png?expires=1763568000&signature=dbc4763015f541ef0f335f291831ed7ebbe9ce780c266ddb1c48f9bca0149ae3&req=dSIlEMF9mYBeW%2FMW1HO4zSNJ3BZNrbK15Ho%2BqVjgesFC8uJmbCd9DEE1XQVo%0AMwZxQJMiiSQYurAfHpQ%3D%0A
+
+- Click the toggle next to "Offer financing on invoices and estimates" in the Manage window (the toggle will turn blue), then click 'Save' in the bottom right corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1226834113/42ebb03330f2e6921453b3c8b647/image.png?expires=1763568000&signature=e88539427138a24832907d59d7accb071647020a59cbeff363dc191c91901aae&req=dSIlEMF9mYBeWvMW1HO4zYmMU4Gdb5dTbiKJy3iGmwc8hkMbP7C8M3j70Swk%0AZ3j33N8OitAIUDgQsbo%3D%0A
+
+---
+
+---

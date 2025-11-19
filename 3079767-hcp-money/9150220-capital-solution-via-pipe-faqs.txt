@@ -1,0 +1,95 @@
+Capital Solution (via Pipe) FAQs
+Source: https://help.housecallpro.com/en/articles/9150220-capital-solution-via-pipe-faqs
+Author: Nate H
+Last updated: Updated over 4 months ago
+
+Capital Solution (via Pipe) FAQs
+
+Pipe offers are limited to a select group of Pros at this time. If you do not have an offer but are interested in capital for your business visit the business financing page in your Housecall Pro account for more information on Fundbox and/or Stripe Capital.
+
+---
+
+How does Pipe work?
+
+- Based on your business’s performance, you’ve been pre-approved to access capital through Housecall Pro and Pipe! You can choose to access as much or as little of your offer as needed, with payments tied to a percentage of your revenue and debited from your linked bank account. You’ll be automatically evaluated for additional offers, so you can rely on continued access to capital. 
+​
+
+---
+
+Who is Pipe? Why did we partner with them?
+
+- Pipe has helped over 23,000 business owners connect to capital based purely on secure live data from their businesses. Housecall Pro partnered with Pipe to offer more fast and flexible ways to secure capital for your business. By using only a business’s data to pre-approve them for capital, Pipe eliminates the friction and bias of traditional capital, connecting business builders to quick, easy capital, and helping Pros like you.
+
+How do I apply? What information do I need to provide?
+
+- Your business is being continuously reviewed for an offer! Once you receive an offer you’ll just need to connect your business bank account through our secure integration and verify your business and ownership details. No need for financial statements or credit checks, just fast access to capital to grow your business on your terms.
+​
+
+---
+
+How much capital can I access?
+
+- The amount you can access depends on several factors, including your business's historical revenue data and revenue projections. As your business scales and you build payment history, the amount of capital you can access will automatically grow with you. You’ll be notified of additional capital offers as you receive them, so you don’t even need to apply for additional capital. 
+​
+
+---
+
+Is there a credit check or do I need to provide personal collateral for the advance?
+
+- No, unlike traditional capital options, there are no credit checks and no personal guarantees involved with Pipe. This allows you to access the working capital you need without risking your personal assets or finances. 
+​
+
+---
+
+What are the costs and fees of using Pipe?
+
+- Your cost of capital will be a single flat fee that you pay back over time as a percentage of your future revenue. There are no compounding interest charges, requirements for personal collateral, or penalties for late payments when sales are slow.
+- The fee you pay is a percentage of the total capital you advance and is determined based on factors such as your historical transactions, projected revenue, and payment processing volume.
+- Transparency and simplicity are pillars of the pricing structure so you know exactly what to expect. No surprises.
+
+---
+
+​What are the payment terms?
+
+- You’ll pay your advance as a percentage of your revenue. The exact payment amount will fluctuate based on your business's revenue, ensuring greater flexibility and aligning payments with your cash flow. Your payment details will be up-front and transparent when you review your offer, with no hidden fees or restrictions. Your payments will be debited from your Plaid-linked bank account. 
+​
+
+---
+
+Do I have to use my whole offer at once?
+
+- You can choose to advance as much or as little of your offer as you want until the offer expires, similar to a line of credit. This makes it easy to just use what you need, when you need it, and only pay for the amount that you advance.
+
+- If you only used part of your limit and later want to advance more while your offer is still active, the terms will adjust accordingly. For example, if you have a $100k limit and a 10% payment rate, you can choose to only use $50k and your payment rate will update to 5%, with your fee fluctuating as well. If you advance another $20k, your payment rate will increase to 7% (2% increase).
+​
+
+---
+
+What are the benefits of using Pipe?
+
+- Our capital solution provides businesses with capital in exchange for a percentage of their future revenue. It offers a transparent and convenient way to access working capital in just a few clicks and without the frustrations of traditional financing.
+
+- Here’s why businesses are choosing Pipe: 
+​ - Unbiased capital: Offers are based purely on your revenue, not your credit score. 
+- Simple, streamlined access: Once your business receives a pre-approved offer, you can access your offer in a few clicks and have capital deposited in your account in 48 hours or less after approval. 
+- Flexible Payments: Your payments are a percentage of your revenue so you’re never left in a tight spot when sales are slow. 
+- Dedicated support: Pipe’s team of experienced Revenue Managers is here to help with anything you might need. Reach out here, and they’ll be in touch soon.
+​
+
+---
+
+What if I don’t see an offer?
+
+- As soon as your business has an offer available we’ll reach out to let you know. We typically look for 4 months of transaction history, and ensuring all of your revenue is flowing through Housecall Pro can help increase your chances of qualifying. 
+​
+
+---
+
+Can I request another advance?
+
+- You’re continuously being evaluated for additional offers! We’ll reach out to let you know as soon as one is available. If you have any remaining limit left from your current offer, you can also use it at any time, until the offer expires. Your up-to-date limit can be found at the top of your dashboard. 
+​
+
+---
+
+---

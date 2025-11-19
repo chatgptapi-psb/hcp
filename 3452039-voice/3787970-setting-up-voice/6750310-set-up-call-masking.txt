@@ -1,0 +1,57 @@
+Set Up Call Masking
+Source: https://help.housecallpro.com/en/articles/6750310-set-up-call-masking
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: Archive Learn how to mask your calls on mobile
+
+Masking Calls with Voice
+
+Customers are often hesitant to answer unknown numbers. With our Voice solution, the option to mask your calls allows you to display your primary number on the customer's Caller ID, no matter which employee is making the call. This helps build trust, increases the chance that your calls are answered, and protects your team's personal phone numbers by keeping them private.
+
+---
+
+How Call Masking Works
+
+Once call masking is enabled in your Housecall Pro account:
+
+- Make an outbound call to a customer by opening their Customer Profile on the mobile app and tapping the phone icon to the right of their phone number.
+
+- The system will then inform you that we will first call your number (saved in your Employee Profile) and then connect you to the customer.
+
+- Select the option to call your number. - Example: "Call (720) 819-5314."
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1531149827/364ef9a318ff3c7663ed8b6cea2c/image.png?expires=1763568000&signature=dd103601edef4579493ecd8774334bd7c55dd4250ed77ee7d01a518190f339c4&req=dSUkF8h6lIldXvMW1HO4zabrWUhR7kd9bEQ8a57FHr7dDlYdVyh%2B3YoHeqZn%0AVcDa%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1531149826/96a34b3df5f3424a74728aa39d40/IMG_C81FC6850B16-1.jpeg?expires=1763568000&signature=4480aca4d61795b2feac5cb353215aa00fc5e409db711dd4b997e177d57d90bc&req=dSUkF8h6lIldX%2FMW1HO4zYSztWgqR3BKQQtPvN5E1yYQVGMXLohJthXk9w%2Fc%0AvatK%0A
+
+- You'll then receive an incoming call on your phone. After accepting the call, you will be asked to confirm that you want to call the customer.
+
+- If you wish to continue placing the call, press 1 on the keypad - and that's it!
+
+- Your outbound call will then be placed, and your primary number will be displayed on your customer's Caller ID.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1531219447/fe0624341fed265f983600966476/IMG_5299.PNG?expires=1763568000&signature=1bd2bd6b77731a3d82258d12c23fd0c8125a26af299f173e6e5a1afae6380ea1&req=dSUkF8t%2FlIVbXvMW1HO4zVecfNVt2pxE0ftKBWJXlgInB39QIwy%2Fttp7LnIx%0AoSZMYE19PNJvrPKcyKw%3D%0A
+
+---
+
+How to Set Up Call Masking
+
+To set up call masking, follow these steps:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Communications from the Settings menu on the left.
+
+- Click the Voice tab in the Communications settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1652939398/f248c3bdd64490136c0f107fda5d/image.png?expires=1763568000&signature=91761376144660eb6c37b442f3e5d8b06d0ee7c3ccde4068201f86f9056e4e59&req=dSYiFMB9lIJWUfMW1HO4zbzDQ%2BtXUbUsXi1USwI4XYEOdEZd3OJzqILHX0Gg%0ARQdRAsDWUgxxGlnSyiE%3D%0A
+
+- Click the toggle to the right of the setting, Mask mobile calls with my primary number.
+
+- Once enabled, anytime a call is made through the mobile app to your customer, the customer will see your primary number on their caller ID.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1652944715/1e039676d3e091785f371bddf37e/image.png?expires=1763568000&signature=f1543c3c6238759ab784bf9a519c0098f134833fa4ae707d506f9e991b6c9c94&req=dSYiFMB6mYZeXPMW1HO4zUqYR5WCcFAm5tfEUuE055Pbofz2gXZumVxxtCJ6%0AVZ4d77y5kJRXMLxeDzw%3D%0A
+
+---
+
+​

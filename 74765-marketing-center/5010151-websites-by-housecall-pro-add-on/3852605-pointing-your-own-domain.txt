@@ -1,0 +1,80 @@
+Pointing Your Own Domain
+Source: https://help.housecallpro.com/en/articles/3852605-pointing-your-own-domain
+Author: Ian H
+Last updated: Updated over a month ago
+
+Summary: If you'd like to keep your own domain with its current registrar and point it in order to use a Housecall Pro Website Builder site
+
+Housecall Pro Blueprint to Success Workshop
+
+If you're looking for more advice on how to effectively use Websites by Housecall Pro, along with other great features, register for the Housecall Pro Blueprint to Success Workshop!
+
+[Button] Register Here -> https://docs.google.com/forms/d/e/1FAIpQLScM2b6NgGEvrjkOFAZPunvol2CoR4FIIFiVgR7DmTRqgd3gQg/viewform?usp=pp_url&entry.1047718727=HCP+Help+Article
+
+---
+
+---
+
+Pointing Your Domain into Housecall Pro
+
+If you currently own your domain through another registrar and would like to keep the domain there while still utilizing the Websites by Housecall Pro add-on, you can point your domain to us!
+
+To point your domain in, you'll need to access your domain's DNS settings. This process can vary depending on where your domain is hosted, so you may need to contact your domain provider for assistance.
+
+If you own your domain through Housecall Pro's registrar services and would like to keep it here, but want to use the domain on an External website, you can request that we point the domain to your new website host! Please reach out to the Blue Chat Bubble to be connected with our Website experts for assistance with this process.
+
+DNS Record Configuration
+
+Before you begin, make sure you take a screenshot or write down what your current DNS settings are in case you ever want to change them back. Then you can make changes to your DNS records so they include the following:
+
+Record Types & Information
+
+- CNAME Record: - Host: www
+- Points to: s.multiscreensite.com
+- TTL: Choose the lowest setting
+- A Records: - First A Record:
+ - Host/Alias: @
+ - Target/Destination: 35.172.94.1
+ - TTL: Choose the lowest setting
+- Second A Record:
+ - Host/Alias: @
+ - Target/Destination: 100.24.208.97
+ - TTL: Choose the lowest setting
+
+When you've completed your repointing, please chat in so we can finish the process of getting your website set up for you!
+
+Example Configurations
+
+These changes will look different depending on your host. Below is what the settings will look like in some common domain registrars.
+
+- Google Domains:
+
+The following is an example from Google Domains, in which they use one A record with two IP addresses:
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1207813483/f98c808371efa437082862bf1855/AD_4nXe0DV4cthD4iFwhyibJgcfWFiv8OXMm66mC-EHaK4sqygJwg8HNXda3XOzN-RRazxKGHv-6e5mBChhfwxJo3kDApmBTxjqrlmCEbf4vq8S8lVnuL7EckiWNEcVgxRQnEAZ_w_MnrdYu8KF4syRuTr0vFKRH?expires=1763568000&signature=7cb9d511bbb2011e3369e5c8471d40812ec4a80aee4fb85c164b1a791ccc6282&req=dSInEcF%2FnoVXWvMW1HO4zRIAqTGvzWCkxRKZDbOJU8B%2FAzPOlJjC1O9REV5Z%0AIndCPVi4prkpYkDdA5c%3D%0A
+
+- GoDaddy:
+
+The following is an example from GoDaddy, in which they use two A records (one for each IP):
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1207813482/693587ff7581f4c6889fa965cbc1/AD_4nXc3ERNlK3Rek1VFxJEStQ7ziXRbL6wC0zS8d5qfNY166OUifU5GRoS0XfActCafBzRqUWeEt8ak1r6AOsIchIwl48iK6j7gRAObXACuY4E8Mps6RHoZ_RO_SgsJrw2djj50GrpVlgAjRryL5rsM0yCleRY?expires=1763568000&signature=e481d4f492f6f85114a4ee992de742d005032550d4d37dd12189aa80ae3b7d50&req=dSInEcF%2FnoVXW%2FMW1HO4zYhVogeryJc%2Bb8N4QP7wjKrKAboQ0ri07%2FJMaHnr%0AlzJtkG2%2BD%2FpLlzclNNo%3D%0A
+
+Common Domain Hosts & Setup Guides
+
+Below are links to DNS setup instructions for common domain hosts:
+
+Table:
+Row 1: Domain Host | Support Links |
+Row 2: GoDaddy | CNAME | A Records
+Row 3: NameCheap | CNAME | A Records
+Row 4: HostGator | CNAME and A Records |
+Row 5: Squarespace Domains | CNAME | A Records
+Row 6: Register.com | CNAME and A Records |
+Row 7: Network Solutions | CNAME and A Records |
+Row 8: Cloudflare
+​Note: Make sure the proxy option is turned off to avoid potential connection and SSL issues. | CNAME and A Records |
+Row 9: Bluehost | CNAME | A Records
+Row 10: IONOS | CNAME | A Records
+Row 11: Azure | CNAME and A Records |
+
+---

@@ -1,0 +1,150 @@
+Payments Export
+Source: https://help.housecallpro.com/en/articles/8028448-payments-export
+Author: James N
+Last updated: Updated over a week ago
+
+Summary: Export a list of all payments on jobs.
+
+How to Create and Export a Payments Report
+
+The Payments Report in Housecall Pro provides a comprehensive summary of all payments received across your jobs, organized by payment date and type. It includes transactions made by credit card, debit card, cash, mobile check deposit, bank transfer (ACH), and consumer financing.
+
+You can easily export the report from the Reporting tab to view payment totals and detailed transaction data. This report helps you track incoming payments, reconcile transactions, and better understand your business’s payment activity.
+
+To export your payments report:
+
+- Go to the Reporting tab in your top navigation bar.
+
+- Select Payments on the left menu of the page.
+
+- Choose the date range for the report.
+
+- Click Generate report.
+
+[Image] https://downloads.intercomcdn.com/i/o/1110686717/5e772be3fac336c197764e80/Screenshot+2023-07-11+at+10_09_40+AM.png?expires=1763568000&signature=8f64d20e8e68f7ffc8c9a78adfbbaf8116905f97b3b796cef675c0385a304087&req=dSEmFs92m4ZeXvMW1HO4zVg%2BsQXAprbc9xvZOkZaBw62aA0gY3JTuojsQ1uR%0Am7kz4IVTrL3ugExDs0Y%3D%0A
+
+---
+
+Viewing the Report Output
+
+After you select GENERATE REPORT located under the select date range, an export of the data will be sent via email to the email address associated with the account viewing the report.
+
+The email will include two files:
+
+- Summary File
+- Payment Details File
+
+Summary File
+
+The summary file displays the sum of payments received by payment type.
+
+Fields in the summary file:
+
+- Payment type: the method of payment used.
+- Revenue: sum of the payment value associated with the payment type.
+- Invoice count: count of the invoices associated with the payment type.
+
+[Image] https://downloads.intercomcdn.com/i/o/782861146/651fc139e8f4eaed21a8bc0e/Screenshot+2023-07-11+at+10.11.46+AM.png?expires=1763568000&signature=df473b6962bf5fbc02042f152be3abccdaebb48154823edc0998e076ff004bb0&req=cyglHs9%2FnIVZFb4f3HP0gBEWTQqbSFBcCR%2FoID1EZUldGCPXkkPzCYQviMza%0AwnNXmEsRtUqqF0JQsQ%3D%3D%0A
+
+Payment Details File
+
+The payment details file displays each of the payments received for the time period specified. This file allows you to view all of the details behind the summary file.
+
+[Image] https://downloads.intercomcdn.com/i/o/782862486/d70553eb39899cffd66f9739/Screenshot+2023-07-11+at+10.13.21+AM.png?expires=1763568000&signature=795984194c112e9cc44ae584e642275526cae8ae89aefbb46243373e660c5447&req=cyglHs98mYlZFb4f3HP0gEcy9Kiu75DZ8zCfSqM4hxrdC1wgr7bHYnWj8KsQ%0AoKDGiRfOGmNif7OdEw%3D%3D%0A
+
+Fields in the Details File:
+
+- Job ID: The unique ID associated with the job that payment was collected against. Note that the same Job ID may be repeated in the file if multiple payments were collected on the job.
+
+- Payment Received Date: The date and time that the payment was received by the child organization.
+
+- Job Created Date: The date and time that the job was created that payment was collected against.
+
+- Job Completed Date: The date and time that the job was completed that payment was collected against. If the job hasn't been completed yet, this field will be blank.
+
+- Customer ID: The unique ID associated with the customer that made the payment.
+
+- Customer Name: The name of the customer that made the payment.
+
+- Invoice Number: The invoice number associated with the payment collected. Note that the same invoice number may be repeated in the file if multiple payments were collected on the job.
+
+- Job Duration: The total job time (from on my way to finish) of the job. Will be blank if no time was tracked on the job.
+
+- Job Description: The description of the first line item on the job.
+
+- Invoice Payment: The status of the total invoice balance. If the invoice is completely paid, it will show as paid.
+
+- Assigned Employee Name: Name of the employee assigned to the job. If multiple employees are assigned, the first will show.
+
+- Job Status: The status of the job that is associated with the payment.
+
+- Payment Amount: The total amount of the payment received. Includes taxes and tips. If the payment is a refund, it will show as a negative value.
+
+- Payment Type: The type of payment method that was used.
+
+- Job Location Longitude: Longitude associated with the address of the job.
+
+- Job Location Latitude: Latitude associated with the address of the job.
+
+- Job Location Zip Code: Zip code associated with the address of the job.
+
+- Fee Amount: The exact amount deducted as a payment processing fee
+
+- Fee Type: Specifies the type of fee applied to the payment
+
+---
+
+Payment Processing Fees Added to Payments Report
+
+What's New in Payments Export?
+
+We've added clear visibility into specific payment fees within the Payments Export report. Payment fees refer to the expenses incurred by using Housecall Pro payment solutions, including:
+
+- Credit and Debit Card Fees: Charges associated with processing credit and debit card payments.
+
+- Bank (ACH) Fees: Costs related to processing Automated Clearing House (ACH) bank transfers.
+
+- Merchant Discount Fees: Fees deducted by payment processors as part of handling transactions.
+
+How to Access Payment Fees Reporting
+
+- Navigate to your Reporting tab within Housecall Pro and select the Payments report from the menu on the left side of the page.
+
+- Easily view two new columns: Fee Amount and Fee Type, which will provide you with insight into your payment fees, detailing card, bank (ACH), and merchant discount fees associated with any transaction.
+
+- Use these insights to manage costs effectively and gain insight into additional overhead expenses.
+
+Fee Types
+
+When you pull your payments export, you’ll now see a fee type column added to the export. Here’s how the fee types align with different payment methods and how they appear in an export:
+
+- Card-Present Payment (when a customer pays by a card that is swiped, tapped, or chipped through a card reader): - Fee type will be "Card Present."
+
+- Card-Not-Present Payment (when card details are manually entered or scanned): - Fee type will be "Card Not Present."
+
+- Invoice Percent Payment (when the customer pays online via an emailed invoice): - Fee type will be "Invoice Percent Payment."
+
+- Bank (ACH) Payment (when payment is made via a bank transfer): - Fee type will be "ACH Payment."
+
+- Instant Payout Fee (if you’re utilizing the Instant Payout feature, this fee type may be applied to any of the above payment types): - Fee type will be "Instant Payout Fee."
+- This fee can be applied in addition to the regular payment fees and will show under the fee type.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1454827003/f57d2f3537ea416240b4c4ac7b32/AD_4nXfcWJR1JtuTAM1bojsOJeUZWVecZbFiMWH4oISHbyhgVPj1AWup5VO-aP0hEzGmf-iOwQGVCpSEfSyJeyY_TXLSI2FsVSbIKLqlEkEwpXIpr5HT5ySw7BzG_Jrp_0yodhjnJpN5Pg?expires=1763568000&signature=5481f5c10e3b86ff0569d8b30c7963410e89a6ccd495b30d7db765017403c632&req=dSQiEsF8moFfWvMW1HO4zZUu%2FCPFQLsBZdmic7Xb3tfNztnXCd5udVo%2Fud3q%0ARvo9BzCYE6IaxKKO6QQ%3D%0A
+
+How Fees Are Recorded for Batch Payments
+
+If you’ve processed a batch payment (a single payment covering multiple jobs), the way fees appear in your export is designed to keep things clear and accurate:
+
+- The payment fee amount is recorded only on the first job in the batch.
+
+- The fee type for the first job will be labeled as "Batch Payment," followed by the applicable Fee types (e.g., "Card Present," "Card Not Present," "Invoice Payment," etc.).
+
+- The fee type for any subsequent jobs will simply be labeled as Batch Payment.
+
+- All other jobs included in the batch will not show a fee amount.
+
+- This ensures that the total processing fee is only recorded once and avoids duplicate fees appearing across multiple jobs.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1454827009/8d8e4a510842d9f46bea54818b58/AD_4nXfL6lhrYCR2sS5VNerXve-s5HG5E8ayRiJ1glK4TQHjYEQz_nqySL19nmZUj3QHktBaQNTc0DRCT6MHa4EEVybnfgKUzjLOHNdwbHTK9LCNIw6yI5dFi5DTagkyN6lPuf9OMB_-dQ?expires=1763568000&signature=41eedb93c9ee433f82f6b4ed2db117cfff097c30593172fc285258bca3aa1344&req=dSQiEsF8moFfUPMW1HO4zTw2G1jHDWSQMysYiiW1pemQjk%2BtYT%2BPOpaizOyO%0APnu%2FlVvs1K3dwqeesR0%3D%0A
+
+---

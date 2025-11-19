@@ -1,0 +1,96 @@
+Message on Invoices, Receipts, and Estimates
+Source: https://help.housecallpro.com/en/articles/2856479-message-on-invoices-receipts-and-estimates
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: Set up your default message to customers on all invoices, receipts, and estimates, and edit individual invoice messages.
+
+Overview
+
+The Message On Invoice, Receipt, and Estimate feature is the note that shows up on the bottom of your invoices, receipts, and estimates. This message is visible to you and your customers.
+
+We recommend using this section to either thank your customers for their business, remind them of recommendations after their service, etc.
+
+In this article, we'll go over how to set up your default Message on Invoices, Receipts, and Estimates, as well as edit the message on individual jobs or estimates.
+
+---
+
+Set Your Default Message on Invoices, Receipts, and Estimates
+
+To set up your default message that appears at the bottom of ALL invoices, receipts, and estimates, follow the steps below.
+
+To set up your default message:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Company from the left menu, under Global Settings.
+
+- Click the Profile tab on the Company settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1645313461/4ecdaf90c650fe0ca7bc144a013a/image.png?expires=1763567100&signature=c872afa2eaf4300f7949d426e072cac6f941d5cae9681e61875c671ceb437209&req=dSYjE8p%2FnoVZWPMW1HO4zZE1%2B8Vgagavwe3I46owg4F%2BZG9oBkDrRI1CAS4e%0AI38jr0HHqKK%2BTFlslHM%3D%0A
+
+- Scroll down to Message on invoice, receipt, and estimate, and click on the blue Edit button to the right.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1621253974/87902912cd53aa3816c9073eddbc/image.png?expires=1763567100&signature=f0fadb0844194989ff0a588856cbb655e59971d43898ad8e42f593e09c9ec036&req=dSYlF8t7nohYXfMW1HO4zSxU5g%2BnjSHyAsqnXu0ruKR20bk3rUDyB%2FYdAGKV%0A3jS7F0vPV3btDdaz7ew%3D%0A
+
+- A new window will pop up where you can type in your message.
+
+- Then, click Save when you're done.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1625417070/7714636336313f22d45a7b60f341/image.png?expires=1763567100&signature=a793918e6b5a097abc533d3dd570c448dcce32df84af33c7b64cef15b8f0cf80&req=dSYlE81%2FmoFYWfMW1HO4zWvCfRi%2FonFPwx%2BG%2BUH78bfA3LSQlOroRFs0%2FClQ%0AFJlqNipFELXq9uX2So0%3D%0A
+
+---
+
+Edit Your Message on Individual Invoices
+
+To edit your Message on individual Invoices, follow these steps:
+
+- Click the Customers tab in the navigation bar at the top of your HCP account and select Jobs from the menu on the left.
+
+- Select a job to open the Job Details page.
+
+[Image] https://downloads.intercomcdn.com/i/o/1135745621/1851e535bb78800de82377c2/image.png?expires=1763567100&signature=6fe87a87708ed77f33791a65cf8de3f82b253f6b38e722a270460dd4b1a002e5&req=dSEkE856mIddWPMW1HO4zaDZ62NgddI31BIga9k3Wbca1ID7P0tb9V%2FVeosb%0AqeTZXYMj7n0mNp9xn74%3D%0A
+
+- Click the Invoice button (paper airplane icon) at the top of the job details page to open the invoice preview.
+
+[Image] https://downloads.intercomcdn.com/i/o/1135749450/87876b1c52f3cea9bf9be822/image.png?expires=1763567100&signature=ea5e52660b8f53f29339e4ac64f3a340b448ba8d40900894369cbc862432c30b&req=dSEkE856lIVaWfMW1HO4zb7K8oPrN9urh%2Bg4Bhvkus%2Brij4MM3s7VQpHhMPZ%0Ag%2FTWGpAtctJ7PJPQWac%3D%0A
+
+- Click the pencil icon to the right of the Invoice message box to edit it.
+
+[Image] https://downloads.intercomcdn.com/i/o/1135755213/0eb0bd58592ca6ad4a41aa2b/image.png?expires=1763567100&signature=4835a2d9ae282c2b519be0dfb73b09b935f7c17d0fe6e0f1f262a45074a723ac&req=dSEkE857mINeWvMW1HO4zeB1ZW69YUvDc3Uq9BcSGPaduZ361PpYj%2B4WoKBe%0A479O5cqmapeerua6xmM%3D%0A
+
+- The Invoice message text box will pop up, where you can edit the invoice message for this individual invoice.
+
+- Once you're done, click Save on the bottom right of the text box window, or click Cancel to disregard any changes made.
+
+- After clicking Save, your changes will be applied to that specific invoice, and you're all set!
+
+[Image] https://downloads.intercomcdn.com/i/o/1135761192/353e20f2ee763e2256f40d8a/image.png?expires=1763567100&signature=1628f63468e66b352eb08a874c17f7cecce20b33e072f1e4f995342a6840c6c4&req=dSEkE854nIBWW%2FMW1HO4zR8UFZ%2F0BSKxfBQ182LG2dVcbJdPyQVh1GPKBy66%0AdDxPcSvBidgkZfm6to4%3D%0A
+
+---
+
+Edit Your Message on Individual Estimates
+
+To edit your Message on individual Estimates, follow these steps:
+
+- Click the Customers tab in the navigation bar at the top of your HCP account and select Estimates from the menu on the left.
+
+- Select an Estimate to open the Estimate Details page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1645338415/330f938c60c5cf333a4c942361b1/image.png?expires=1763567100&signature=d812bf4b1c5f87b2d1c7cc0189837d2b32049716e5422ed867bba1467476391b&req=dSYjE8p9lYVeXPMW1HO4zbMq2dQRW5RWYAO%2B%2FIaJSaWeqN2u8FcR3kfO9j3Y%0ABYCtZra1oHJdDxxOppE%3D%0A
+
+- Click the Send icon at the top of the Estimate details page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1645343123/d887a382688b11863830736e4c69/image.png?expires=1763567100&signature=fd4098e6ec34b5810439c19ec992f432928bc246380ceba8370d7238aa810d86&req=dSYjE8p6noBdWvMW1HO4zVC4AmrNbbrLSj2uzJ7%2Bnohd%2BWhPmyuQfMECJjbv%0Ajwk4dA3EOkzsetCum5I%3D%0A
+
+- At the bottom of the Estimate preview page, click the pencil icon to edit the estimate message.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1645374659/419baefcaef2186d546829c0c82c/image.png?expires=1763567100&signature=6385e4163b8130ee969c8cea941daa79df44ac10998b1e9a46c102bd68982d79&req=dSYjE8p5mYdaUPMW1HO4zeKKcfLpOrg62m9XSxqWEkKtd1VxnyxGt87qkTEt%0A6oKOdv7tFUKPqDE5t%2Bw%3D%0A
+
+- The estimate message window will open, where you can edit the message for this individual estimate.
+
+- Once you've finished, click the Save changes button to confirm.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1645363819/2d019705c1f41a81920ec5eedae4/image.png?expires=1763567100&signature=a856a5f32636c245ba9376be40745d061bc830b06ea777cfcbbeb54a055624b1&req=dSYjE8p4noleUPMW1HO4zbe6H4oj%2BigfeUKAREqHMi9D70vALVfcHCX4srwD%0AZuSREy8H%2FyakjnOlVTU%3D%0A
+
+---

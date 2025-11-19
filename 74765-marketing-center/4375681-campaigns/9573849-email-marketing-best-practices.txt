@@ -1,0 +1,64 @@
+Email Marketing Best Practices
+Source: https://help.housecallpro.com/en/articles/9573849-email-marketing-best-practices
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: Email Marketing strategies to improve customer trust and campaign effectiveness.
+
+Housecall Pro Blueprint to Success Workshop
+
+If you're looking for more advice on how to effectively use Campaigns, along with other great features, register for the Housecall Pro Blueprint to Success Workshop!
+
+[Button] Register Here -> https://docs.google.com/forms/d/e/1FAIpQLScM2b6NgGEvrjkOFAZPunvol2CoR4FIIFiVgR7DmTRqgd3gQg/viewform
+
+---
+
+---
+
+Introduction to Effective Email Marketing
+
+To help ensure effective communication with your customers, we’re sharing some of our top email marketing strategies. These strategies aim to improve customer trust and the effectiveness of your campaigns, ensuring your emails reach your customers’ inboxes rather than getting lost in spam folders or bounced back.
+
+---
+
+Background
+
+Previously, customers were automatically added to email campaigns whenever a Pro included them in a customer list. This practice can lead to an increase in spam complaints, which negatively impacts a business’s Sender Reputation Score and hinders campaigns from reaching customers. To address this, we are sharing three tips to help Pros improve email deliverability with each send.
+
+---
+
+Manage your email lists
+
+Managing your customer base, and the emails they want to receive, is crucial to sending effective emails. This can help improve email deliverability and build trust with your customers.
+
+- Segment your email lists: Build email lists based on demographics, interests, or past interactions to deliver more relevant content to recipients.
+
+- Ensure customers opt in to email campaigns: Obtain consent from recipients before adding them to your email lists to ensure they want to receive your marketing emails.
+
+- Develop targeted campaigns: Send targeted campaigns to specific segments of your audience to improve engagement and deliverability.
+
+---
+
+Provide value and optimize your subject lines
+
+Ever wonder if your campaigns actually reach your customers? Ensure your emails land in customer inboxes by following these tips:
+
+- Align email content with segmented lists: Make sure your emails provide value to recipients and are not overly promotional or spammy in nature.
+
+- Avoid spam words in subject lines: Steer clear of words and phrases commonly associated with spam, such as “free,” “discount,” and “urgent.”
+
+---
+
+Monitor engagement metrics
+
+Regularly reviewing your engagement numbers can help you understand how customers respond to your email marketing efforts. Additionally, by monitoring email metrics, you can begin to track which campaigns were the most successful and leverage previous insights toward future campaigns.
+
+- Track open and click rates: Monitor key metrics to gauge recipient engagement with your emails. Higher engagement rates can improve deliverability.
+
+- Address inactive subscribers: Consider sending re-engagement campaigns or removing inactive subscribers from email lists to maintain a healthy engagement rate.
+
+Implementing these strategies and consistently monitoring your email deliverability metrics can improve the likelihood that your emails will reach recipients’ inboxes. Get started today and achieve your communication goals more effectively!
+
+[Button] GET STARTED -> https://pro.housecallpro.com/app/marketing/campaigns
+
+---

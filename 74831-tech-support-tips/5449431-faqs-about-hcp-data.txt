@@ -1,0 +1,34 @@
+FAQs about HCP Data
+Source: https://help.housecallpro.com/en/articles/5449431-faqs-about-hcp-data
+Author: Ben B
+Last updated: Updated over a month ago
+
+Summary: Additional information on how your data is protected
+
+HCP Data FAQ
+
+We get frequent questions regarding how data through Housecall Pro is managed and tested. Here are the most common.
+​
+​Where is our data housed?
+​
+Our system is hosted in the cloud on Amazon Web Services. So, it is always on the latest version, continuously updated, fully encrypted, and continuously backed up.
+​
+​Do you have any data penetration test results or certifications?
+​
+We integrate with large tech providers (both Google and Intuit), and we have had regular penetration tests from those companies which have passed integration standards. Those results are not publicly available.
+​
+​Where can we see a history of your uptime?
+​
+Pros can look at status.housecallpro.com for a history of our uptime.
+​
+​Do you have an open API?
+​
+At this time only our MAX (formerly XL) pros have access to our API Key with limited access.
+​
+​NOTE: This is different than the API key you use when integrating with one of our third-party apps. For more information on those integrations follow this link.
+
+View our Privacy Policy for additional information.
+
+---
+
+---

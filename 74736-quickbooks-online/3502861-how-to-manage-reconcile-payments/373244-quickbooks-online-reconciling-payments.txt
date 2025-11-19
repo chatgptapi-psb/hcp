@@ -1,0 +1,200 @@
+QuickBooks Online: Reconciling Payments
+Source: https://help.housecallpro.com/en/articles/373244-quickbooks-online-reconciling-payments
+Author: Nate H
+Last updated: Updated over a year ago
+
+Summary: Learn how automatic reconciliation works for credit card payments, how to manually reconcile payments, and how to match deposits.
+
+Overview
+
+In this article, we'll go over how to reconcile payments in QuickBooks Online when they are entered into Housecall Pro.
+
+Payments that are automatically reconciled and deposited:
+
+- Credit Card payments
+- Credit Card tips
+- Instapay payments
+- Mobile Check Deposits
+
+Payments that will need to be manually reconciled and deposited:
+
+- Cash
+- Check
+- Other​
+
+Please keep in mind that the QuickBooks Online integration will need to be set up and connected before payments will sync from Housecall Pro to QBO.
+
+---
+
+Automatic Payment Reconciliation
+
+With the QuickBooks Online integration, any new Credit Card, Credit Card Tips, Instapay, or Mobile Check Deposit payments entered into Housecall Pro will automatically be sent to QuickBooks Online with the payment amount, type, and date when a job is marked as finished or paid in Housecall Pro.
+
+These payments will be grouped together and placed in your Undeposited Funds account in QuickBooks Online:
+
+- Credit Card payments will be deposited into your bank account, less any credit card processing fees within 2-5 business days.
+
+- Tips added to Credit Card payments in Housecall Pro are automatically added to line items on invoices and sent as an Income Account called "Housecall Pro Tips" in QuickBooks Online. You'll see this Income Account under the 'Income' category of your reports.
+
+[Image] https://downloads.intercomcdn.com/i/o/1178226265/71da30af68ca397614bc364e/HCPTips.png?expires=1763568000&signature=e148e8d23bc15c6859a7fd4efa2031e59299697bf71acea388b6d431954a8cc2&req=dSEgHst8m4NZXPMW1HO4zS6pMaMyVuVdqcOqJ7U81jb2Kv99ONu4CQnAOfxO%0AYOONTAjrZ5bsneiqlzk%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/537561376/3996aa017ee05e1f873ba052/Screen+Shot+2022-06-28+at+10.30.22+AM.png?expires=1763568000&signature=a2bfe4b638601847a30c7680b4dfe207eff5f0aebd77666436ab549901502a37&req=cSMgE89%2FnoZZFb4f3HP0gJtOszAySdsb4qZ58UDz0RjvySqFbYXsTz%2FE6fs6%0AIlDD8jODZccGIfuJIQ%3D%3D%0A
+
+- Mobile Check Deposit payments will be automatically reconciled and attributed to the connected bank account once the check clears.
+
+[Image] https://downloads.intercomcdn.com/i/o/896472251/b2de7872ae13eb4c4aa8b09e/image+%282%29.png?expires=1763568000&signature=e27554a577767f35c8fa37f5030769e6a66978a95ec2dcdbd1ebec884d47c6eb&req=fCkhEs58n4ReFb4f3HP0gIT3DyZm5p%2FdqFNt1N%2BhNTLBIipBZCRwhyKf8Sw2%0Ajy1kzYaYNkA1LD2z9g%3D%3D%0A
+
+---
+
+View Your Undeposited Funds Account in QuickBooks Online
+
+To view your Undeposited Funds account in QuickBooks Online:
+
+- Click on 'Transactions' from the menu on the left side of your QuickBooks Online account, then select 'Chart of accounts' from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/1177000330/95c5a509ba2c1b8eec8397c9/QBOCoA1.png?expires=1763568000&signature=4f98ed789f0818a44389292d341665570a05d3012ea8c8bd60231afaa5ad5f5a&req=dSEgEcl%2BnYJcWfMW1HO4zS85IeLr7q2MTNZBIZ7zktv%2Fuke9q39dAe2PjjfP%0A3Z%2F03b0zIV2D0HQf4vg%3D%0A
+
+- Use the search bar on the Chart of accounts tab and search "Undeposited Funds."
+​
+- Click on 'View register' under the Action column on the right side of your screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/1177003308/ed8c8c98fc7b9c5ff08465b4/QBOCoA2.png?expires=1763568000&signature=cc8df8859c0fa0eb33bf23ade4aeb23eabcb269be3b60edb1f88df28cfecb3bc&req=dSEgEcl%2BnoJfUfMW1HO4zUb1YsyUxeW9dyjTI3fSs7fgBDQB7tFlrpq5lhIv%0ALLXtP2%2B8MlpJCqZXfvc%3D%0A
+
+- From here, you will be able to view all payments that have been or need to be reconciled.
+
+[Image] https://downloads.intercomcdn.com/i/o/1177052571/395b0141ef694f9cf24dfd8f/QBOCoA3.png?expires=1763568000&signature=a61121388ed7c68710b713c2b0dc72409d6cf17fef033f5cd4343e9ef0d1c56f&req=dSEgEcl7n4RYWPMW1HO4zW3n6YKvJglkYhdTQzbZ%2BnhvSMlLetpDqFiKSa6b%0A4GyjcGTWQLnVTkNNLi8%3D%0A
+
+---
+
+Match Deposits in QBO to Payouts in HCP
+
+To verify that the deposits in your bank statement match your payouts in HCP when you receive them:
+
+- Navigate to the My money page by clicking 'My money' in the navigation bar at the top of your Housecall Pro account.
+
+- From there, scroll down to the "My payouts" section and click on each transaction to expand the details.
+
+- This will show the date, method, and amount for each payout in that deposit, as well as any processing fees associated with the transactions.
+
+[Image] https://downloads.intercomcdn.com/i/o/89343893/72a1feda8a08a350c8a2673c/Housecall_Pro.png?expires=1763568000&signature=b5ddc0984a5531e063d28c1ed24c883db91d4fde080f9c67237f36058fb025cf&req=fCkkEsp2lIITWLcX3D%2B5hpEZylPy5baIGEFm386PbeqcbkEbAA9LHHA4c91H%0AP9NNe%2BuJqk7riuRe%0A
+
+When the deposit is made to your bank:
+
+- Housecall Pro creates a transaction in QuickBooks Online that groups together your payments and subtracts any credit card transaction fees.
+
+- It then moves the funds from your Undeposited Funds account to your Checking account within 2-5 business days.
+
+- When you go to Transactions > Bank Transactions in your QuickBooks Online account, the payments received should match your bank deposit.
+
+[Image] https://downloads.intercomcdn.com/i/o/89344002/9de6a7b176b5b0516794738c/57a4b7657cc4f_qbo-create-bank-deposit.png?expires=1763568000&signature=3fd5bb89ce812bb609068ae41c9d1a433c0c4ba0e402c32d1778bcb286e1ba7c&req=fCkkEs1%2BnYMTWLcX3D%2B5huKfRFBHYHNej2CzurB25HTGVA0nKZv2QwJSoUzx%0AyCYZIUF93ZbPMA50%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/1176918093/de29b84649a05756b6927bce/P-LQBO.png?expires=1763568000&signature=ff582990ff5402141ecc4a6cbf27c767eec25ce9cc3e0818b751ffbd9c03a195&req=dSEgEMB%2FlYFWWvMW1HO4zXD2tX8oXgaFUxW3qLqL1d1yPYEw7lup2ZbAuqmD%0AJfg%2FpJzXZa50x7d7hSQ%3D%0A
+
+- From here, all you'll need to do is match your payments in QuickBooks Online with your bank deposits. All of the other steps are completed automatically.
+
+[Image] https://downloads.intercomcdn.com/i/o/242289150/d88c8c91d19bd7598254fb0b/image.png?expires=1763568000&signature=a822fe845cbf56e44b76bfa04ad9371b3f4c2a7188652f674c600d75fefde08e&req=diQlFMF3nIRfFb4f3HP0gPQaV%2BxI8hft24WfvaiCEHbG4iYeZcIpx3FF8w2n%0AgawZ%2BMFMS%2BHhchHq1g%3D%3D%0A
+
+---
+
+How to Change Your QuickBooks Online Reconciliation Account
+
+If needed, you can change which bank account your credit card transactions will reconcile to in Quickbooks Online.
+
+To update your QuickBooks Online credit card reconciliation account:
+
+- Click on the QuickBooks icon in the top right corner of your Housecall Pro Navigation bar.
+
+- Scroll down on the Settings menu on the left and select the 'Banking' option from the "QuickBooks Online" drop-down.
+
+- On the Banking settings page, click the drop-down box under "Banking information" to view the bank accounts available in QuickBooks Online.
+
+- By selecting one of these accounts, your credit card and mobile check deposits will automatically reconcile to this account in QuickBooks Online.
+
+[Image] https://downloads.intercomcdn.com/i/o/780588397/351d578ba190091c0ccda50f/Screenshot+2023-07-07+at+12.45.20+PM.png?expires=1763568000&signature=b68490e54a072f1ec079a456b1bad5736bf1ab3874944fa5266e9053bd300182&req=cygnE8F2nohYFb4f3HP0gHJURNvG63LLHAEbe6pH0RmfPDF9kZQ2b%2BryYSU1%0AUPzghzYg6QkHLq6GTw%3D%3D%0A
+
+---
+
+Manually Reconcile Cash, Check, and Other Payments in QuickBooks Online
+
+Cash, Check, and Other payments are not automatically reconciled from your Undeposited Funds account to your asset account in QuickBooks Online. You’ll need to reconcile these payments manually.
+
+To manually reconcile Cash, Check, or Other payments in QuickBooks Online:
+
+- Click on the '+ New' button in the top left corner of your QuickBooks Online account, then select 'Bank deposit' under the "Other" category in the menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/538932389/19ed6640b1594d4dfce6e14b/cash7.png?expires=1763568000&signature=2b52c44e256f9ebd11868234d2c3aec1641292b189f4c0b09ce7ec9d77c41fcb&req=cSMvH8p8nolWFb4f3HP0gOf7zU2T0UTRKcwWK%2BjaxcjXcQzUMvBk2eYJOdvU%0AAG12LiN7zJrU1MjqaA%3D%3D%0A
+
+- Select the payment(s) being deposited and confirm that the dates match the actual deposit dates.
+
+[Image] https://downloads.intercomcdn.com/i/o/538932970/34c3ea0f64a8cb750e09b8c9/cash8.png?expires=1763568000&signature=e65915181c7834da3639eb11c3320447e4d9042ef7c5772def1c5190944b8526&req=cSMvH8p8lIZfFb4f3HP0gNfp%2BN1Fd7XtWd813gUmRMdqDJo7OrJ42CGjW%2FEH%0AuqCZgj7Sse1kXM4xzg%3D%3D%0A
+
+- Next, click on the green 'Save and new' or 'Save and close' button in the bottom right corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/538933039/6f90c169eb73e546bd0e0afc/cash9.png?expires=1763568000&signature=92b52c0aeac151102a5aac361b5e01915de65d31236c15f6f54a689e04c86c8c&req=cSMvH8p9nYJWFb4f3HP0gLWcFX3T9zsQRo2rlcpvJtKAD6bpj6l4X6gxGxeF%0AMf5PabTL85SAv89h6A%3D%3D%0A
+
+- You will then need to match the payments you record to the transactions that pull from your bank feed. This essentially matches the payment you log to the deposit recorded in your bank feed.
+
+[Image] https://downloads.intercomcdn.com/i/o/242289150/d88c8c91d19bd7598254fb0b/image.png?expires=1763568000&signature=a822fe845cbf56e44b76bfa04ad9371b3f4c2a7188652f674c600d75fefde08e&req=diQlFMF3nIRfFb4f3HP0gPQaV%2BxI8hft24WfvaiCEHbG4iYeZcIpx3FF8w2n%0AgawZ%2BMFMS%2BHhchHq1g%3D%3D%0A
+
+---
+
+How to Manually Reconcile Credit Card Payments
+
+In the event that a Credit Card payment from Housecall Pro did not auto-reconcile in QuickBooks Online, you can follow these steps to manually reconcile the payment:
+
+- First, click the '+ New' button in the upper left corner of your QuickBooks Online account and select 'Bank deposit' from the menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/538932389/19ed6640b1594d4dfce6e14b/cash7.png?expires=1763568000&signature=2b52c44e256f9ebd11868234d2c3aec1641292b189f4c0b09ce7ec9d77c41fcb&req=cSMvH8p8nolWFb4f3HP0gOf7zU2T0UTRKcwWK%2BjaxcjXcQzUMvBk2eYJOdvU%0AAG12LiN7zJrU1MjqaA%3D%3D%0A
+
+- Next, use the Account drop-down box to select the bank account that you want to move these payments to.
+
+- Select the invoices that you need to add to the deposit by checking the box next to the customer name.
+
+[Image] https://downloads.intercomcdn.com/i/o/56899122/313e72c20cd6678a6678a0ac/cc_rec_1.jpg?expires=1763568000&signature=47d82f359ecc5183a0f323125099a5e0bb6944b9d25778c3cbbd2a6ecc59d342&req=cSYvH8B%2Fn4MTWLcX3D%2B5hl6%2Fn12tbTiCjnpF%2BEcFJKsmiEjkeS0ely5QsQcs%0ABMccJqy4rHZr6pdK%0A
+
+- From here, add the Credit Card processing fees at the bottom of the deposit, in the 'Add funds to this deposit' section.
+
+- Select 'Housecall Pro' for the vendor under the "Received From" column.
+
+- Select the 'Housecall Pro Credit Card Processing Fee' expense account from the drop-down in the Account column, then input the Credit Card processing fees as a negative dollar amount. (You can find these fees broken down on the Payouts screen in HCP, under Settings.)
+
+- Confirm that the 'Other Funds Total' matches the total of the Credit Card processing fees and that the deposit total now matches the amount that was deposited into your bank.
+
+[Image] https://downloads.intercomcdn.com/i/o/56899464/8c0b68081f1d35d836b65c9c/cc_rec2.jpg?expires=1763568000&signature=b3641819ace13f45427d82a5ee5c62b1b67125549864c862a27f6eaf5e01b35a&req=cSYvH8B6m4UTWLcX3D%2B5hu0AoKnhcTjeIZ8yzfDLuT%2BurLqS3tMJgOxRPEC%2B%0AI5FOeXYkC79oshRt%0A
+
+- Finally, the green 'Save and new' (or 'Save and close') button in the bottom right corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/538933039/6f90c169eb73e546bd0e0afc/cash9.png?expires=1763568000&signature=92b52c0aeac151102a5aac361b5e01915de65d31236c15f6f54a689e04c86c8c&req=cSMvH8p9nYJWFb4f3HP0gLWcFX3T9zsQRo2rlcpvJtKAD6bpj6l4X6gxGxeF%0AMf5PabTL85SAv89h6A%3D%3D%0A
+
+---
+
+Payment Reconciliation Reference Guide
+
+When a payment is recorded on a job in Housecall Pro and pushed to QuickBooks Online, the fields in HCP correlate to a related field in QBO.
+
+This reference guide explains how each field in the 'Payment history' section of HCP corresponds to the fields on the 'Receive Payment' screen in QBO when manually reconciling payments.
+
+- "Type" field in HCP = "Payment method" field in QBO. 
+​
+- "Amount" field in HCP = "Amount Received" field in QBO. 
+​
+- "Date" field in HCP (the date that the payment was entered/created) = "Payment Date" field in QBO.
+
+- Invoice number and "Note" field in HCP = "Reference no." field in QBO.
+
+Table:
+Row 1: HCP Field Name | QBO Field Name
+Row 2: Type [Image] https://downloads.intercomcdn.com/i/o/538911601/14962b19327b4fe776a2c326/check11.png?expires=1763568000&signature=7f00329d8ee401c140a701141f6c13d55701a9312769fca6de6ad1623e3e332c&req=cSMvH8h%2Fm4FeFb4f3HP0gM1YOXz7lJ4Sa1ctST5XjZntENHZ9gBSYqQgAO5W%0Amlk%3D%0A | Payment Method [Image] https://downloads.intercomcdn.com/i/o/538911896/785bd3fc0552efffd5deb6c4/check12.png?expires=1763568000&signature=08d3ac6cea714f9d8abb9d1a55185bf9a27b994789e59b2b8fcda49d7bb6eb6f&req=cSMvH8h%2FlYhZFb4f3HP0gJeM3X2UFuDeoxxwTFwGKNA1T24%2FI5gJto3nsya4%0AqFQ%3D%0A
+Row 3: Amount [Image] https://downloads.intercomcdn.com/i/o/538911646/2ae7a7179f81cacce697c115/check13.png?expires=1763568000&signature=c9ebb24c88a3d7cac03f30230690cfcc0e044c1bccac8bce73b45ead314cdab0&req=cSMvH8h%2Fm4VZFb4f3HP0gLrnx0CvGA8%2Fy9W3ivL1Ui45cxAAJES5bdOJKjSZ%0AjAs%3D%0A | Amount Received [Image] https://downloads.intercomcdn.com/i/o/538911957/3505c3ebcd51dfacc91e5eca/check14.png?expires=1763568000&signature=56f2e0703070a96e0df129939f553bf1a12eac80545c11753bbd8902a0f1f6fd&req=cSMvH8h%2FlIRYFb4f3HP0gP%2Bx9Eggs1%2BBK5lC6627ETLIAf%2B%2FZA3%2FaQOtn4tA%0AjJs%3D%0A
+Row 4: Date [Image] https://downloads.intercomcdn.com/i/o/538911715/cdb35c59d2ff4278ae68bfc4/check15.png?expires=1763568000&signature=e15e53d00ac211a9584f066319c459ab68eae5df165fc81f8fa25c33bd646752&req=cSMvH8h%2FmoBaFb4f3HP0gLilkSxAqgslvKJdLA0C4c8gkQPi%2BJKyeQTBx6u6%0AG68%3D%0A | Payment Date [Image] https://downloads.intercomcdn.com/i/o/538912018/b904a5555d32a4240648b608/check16.png?expires=1763568000&signature=c4bee38b063d0d7dfd47178dbb20765ec863f4302e78a03d9864ed91d1780a85&req=cSMvH8h8nYBXFb4f3HP0gIa%2BUwBvQmYOt1Ocnuy5ypBspGozAeU%2FKKtCc%2FCB%0Aw00%3D%0A
+Row 5: Note [Image] https://downloads.intercomcdn.com/i/o/538911784/3654c0fc5409f45082336d54/check17.png?expires=1763568000&signature=1fe64eb7ab026354b393dd4c81cf44711ae0e2c5093a926bb44ac8681c41ea00&req=cSMvH8h%2FmolbFb4f3HP0gM2kRgB3uIB4QsH%2Fk1BHzQ34JqQrRkOggrmIj4el%0AEmU%3D%0A | Reference No. [Image] https://downloads.intercomcdn.com/i/o/538912092/f033f6e4b1fda8912c3e1c6b/check18.png?expires=1763568000&signature=b1a475ba92b54f3ffcad6a6edd668b14a60657fbf53826e57c2b20e623428e71&req=cSMvH8h8nYhdFb4f3HP0gBBMUENVltvaZ7YgiDrxTzfSCTQh9FjvNc9TcfRx%0Aqu8%3D%0A
+
+---
+
+Video Tutorial
+
+Housecall Pro Payments in QuickBooks Online:
+
+[Video - youtube] https://www.youtube.com/watch?v=CO1VBCCMkdU
+
+---

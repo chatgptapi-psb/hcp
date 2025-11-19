@@ -1,0 +1,52 @@
+Expense Cards: QuickBooks Online Integration
+Source: https://help.housecallpro.com/en/articles/5724788-expense-cards-quickbooks-online-integration
+Author: Nate H
+Last updated: Updated over 3 months ago
+
+Summary: Find out how purchases and fund transfers get automatically recorded with your QuickBooks Online Integration.
+
+How Expense Cards Work with QuickBooks Online
+
+If you’re new to Housecall Pro Expense Cards, or if you're thinking about ordering an Expense Card for your business, you may be wondering how transactions integrate with QuickBooks Online. Using HCP's API, we make recording your accounting information seamless and easy!
+
+Expense Card Accounts in QuickBooks Online
+
+As soon as you complete your first deposit into your Expense account, we will automatically create two new accounts in QuickBooks Online:
+
+- Housecall Pro Balance Account - This account will correspond to any transfer fund activity in the Expenses section. When you create a transfer into your Expense account, a line item will be added to this account in QuickBooks Online, so all of your balance transfers are shown.
+
+- Housecall Pro Expense Card Account - This account will reflect any purchases made from any of your Expense Cards. Each transaction will be automatically reconciled in QuickBooks Online, so don’t forget to review your activity to make sure purchases are allocated appropriately while updating expense categories if needed.
+
+---
+
+Minimum Balance Funding and QuickBooks Online
+
+Housecall Pro makes using additional funds easy by offering minimum balance funding.
+
+Since minimum balance funding works by reallocating customer payments into your Expense account, there is no need to transfer money from your bank account. Instead, funds deposited to your Expense account are available instantly.
+
+Path of Funds
+
+The steps below outline the path of funds through your QuickBooks Online chart of accounts, in the case of minimum balance funding:
+
+- Step 1: Credit Card Payments are received from customers after jobs are completed. - For all credit card payments made through Housecall Pro, funds are held in Undeposited Funds until they are processed.
+
+- Step 2: You, the Pro, allow us to allocate funds to reimburse the Expense account balance.
+
+- Step 3: Payments from Undeposited Funds in QuickBooks Online will be associated with one of three accounts. - First, QuickBooks Online will push any credit card processing fees into a separate COGS account. This step will happen automatically, regardless of whether or not additional funds were requested for an Expense account.
+- Then, QuickBooks Online will associate some of your received payment from the undeposited funds with your Housecall Pro Balance account. You will see the available funds populate on the Overview or Transactions pages in Expenses, within Housecall Pro. 
+- Any remaining amount will be added to your bank account.
+
+---
+
+Expense Card Receipts in QuickBooks Online
+
+Expense Card receipts will now transfer to your QuickBooks® Online account automatically. Just upload your receipts through the HCP Web Portal or Mobile App and we'll take care of the rest!
+​
+To view the receipt in your QuickBooks account, go to the Expense Cards transaction and it will be in the 'Attachments' section.
+
+---
+
+Housecall Pro Expense Card is a Visa Commercial Credit Card, powered by Stripe and issued by Celtic Bank and is subject to approval. Housecall Pro partners with Stripe Payments Company for money transmission services and account services with funds held at Fifth Third Bank, member FDIC.
+
+---

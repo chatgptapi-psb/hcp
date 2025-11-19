@@ -1,0 +1,269 @@
+Voice: Overview Page & Call Log Guide
+Source: https://help.housecallpro.com/en/articles/8345671-voice-overview-page-call-log-guide
+Author: Roland Ligtenberg
+Last updated: Updated over 3 weeks ago
+
+Summary: Learn how to navigate and use the Call Log and Voice Overview page.
+
+Voice Overview Page
+
+The Voice Overview page in your Housecall Pro Inbox is a powerful tool designed to help you efficiently monitor your calls and team. With a quick glance, you can stay on top of your communications and ensure everything is running smoothly by toggling between these three tabs:
+
+- Queued Calls
+- Active Calls
+- Agent Management
+
+These tabs make it easy to manage multiple calls, monitor your team’s status, and stay informed on who is actively on a call with a customer.
+
+---
+
+Plan Requirements
+
+Pros must be on Voice plans VCTQ - Med or VCTQ - High to access the Voice Overview page.
+
+---
+
+How to Access & Navigate Voice Overview Page
+
+To access and navigate the Voice Overview page:
+
+- Click the 'Inbox' tab in the navigation bar at the top of your Housecall Pro account.
+
+- If Voice is enabled on your Housecall Pro account, you'll automatically be directed to the Voice Overview page.
+
+- From here, you can toggle between the Queued Calls, Active Calls, and Agent Management tabs.
+
+- The Queued Calls tab displays all calls waiting in your queue, along with the duration each call has been in the queue. - To connect to a call, simply click 'Connect' on the far right of the call entry.
+ - Note: The dialer will need to be open in order to connect to the call.
+- This tab mirrors the calls in your dialer’s call queue, so you'll see the same list of waiting calls.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1213039073/18d71a1099b46c4dfdc839e86f1e/Screenshot+2024-10-11+at+10_20_16%E2%80%AFAM.png?expires=1763568000&signature=8652bf6b0d4fa4559dcb185531eea104582eedb6cbdf3e97b8817ea8203e0f38&req=dSImFcl9lIFYWvMW1HO4zRknuqNpiNLc%2FTvGisIuSxwZQfJqLOwojKxF9PX4%0AbGnJxMYaMF4dMwGKlWs%3D%0A
+
+- The Active Calls tab shows which employees are currently on a call, along with the call duration and caller information.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1213040135/b1a112dd3a07671fc6fa04419eef/Screenshot+2024-10-11+at+10_21_12%E2%80%AFAM.png?expires=1763568000&signature=b5a3a28f30c469e8b1d529564056aec9595c4da7b174bccd26a9447d7c2303bb&req=dSImFcl6nYBcXPMW1HO4zWhYWuvXAoINh8MivwKl6Vy87nUIM9OBKDjJcYGr%0AW4XkGAqXFBn6Ee83xI4%3D%0A
+
+- The Agent Management tab displays the call status of each of your employees: - Available (green) - On a call (yellow)
+- Unavailable (gray)
+
+- If needed, you can quickly call or message an employee by clicking the blue phone or chat icons to the right of their status.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1213041560/bffaef5b5bf256290a2e259639da/Screenshot+2024-10-11+at+10_22_23%E2%80%AFAM.png?expires=1763568000&signature=7b1dc51eaf7314c891cb788e1e5d516b3bfbbbc21dd7f5f0cea7d1e6e408ae9c&req=dSImFcl6nIRZWfMW1HO4zagQJseLk9FKcQxvh2Q138TGfPr8IZXwvJlv9zCP%0AehMYtCe7HU6A3nBSfzA%3D%0A
+
+---
+
+---
+
+Navigating the Call Log
+
+The Call Log is your central hub for tracking and reviewing all incoming and outgoing calls in Housecall Pro. Whether you're looking to follow up on past interactions, monitor call performance, or quickly identify key details of a call, the Call Log provides an organized, easy-to-navigate record of every call.
+
+In this section, we'll walk you through how to effectively use the Call Log to streamline your workflow and ensure no important call is missed.
+
+---
+
+How to Access the Call Log
+
+To access the Call Log:
+
+- Click the 'Inbox' tab in the navigation bar at the top of your Housecall Pro account.
+
+- Select 'Call log' from the menu on the left side of your screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1273884549/24218090ad01199e8b4b4aa13c61/image.png?expires=1763568000&signature=f8e737c5bea5e86da8cff05f0e83af1ff48d0ddad3454b6c326dbd06c67ddff1&req=dSIgFcF2mYRbUPMW1HO4zcjV1PjFZsN6%2BTRPXoNfXqzC1UfwTRysQgTZMRk9%0Adfcgq9YICnH3wgeygqI%3D%0A
+
+---
+
+Badging on the Call Log
+
+When there are missed calls or new voicemails, the call log will display a blue badge with the total number of missed calls and voicemails.
+
+To remove or decrease badging:
+
+- For missed calls, select the call and view the call details.
+
+- For voicemails, select the call and play the voicemail recording.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1211782172/737bacbf8a369eca2da919ba2dad/image.png?expires=1763568000&signature=7d898d7b1d90d724dc98f5c7441c222eabdb60021f07945e45ea1f0e5216c02c&req=dSImF852n4BYW%2FMW1HO4zXLTijVOD3TzqFfayHcdrjaayhsEkTFIBe2%2F8xmQ%0AhueblQKnQAsKzDyWsOg%3D%0A
+
+---
+
+How to View Call Details
+
+To view the details of a call, follow these steps:
+
+- Click the 'Inbox' tab in the navigation bar at the top of your Housecall Pro account.
+
+- Select 'Call log' from the menu on the left.
+
+- Click on a call in the call log to open the Quick View and view the call details.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1211782160/cd83c5a6a2bea2130baf57504b99/image.png?expires=1763568000&signature=fa8fd315b036525da4c8909a4a123739d9926aee284f22443530c1d234826962&req=dSImF852n4BZWfMW1HO4zVsHJWgZ00gc6NlPnehWGeaYoJHEvEJWAn1dFUXu%0AqMk3WXceSwqQvVJmVr4%3D%0A
+
+---
+
+How to Listen to Recordings & Voicemails on the Call Log
+
+All call recordings and voicemails will appear on the call log Quick View.
+
+To listen to recordings on the Call Log, follow these steps:
+
+- Click 'Inbox' in the navigation bar at the top of your Housecall Pro account.
+
+- Select 'Call log' from the menu on the left.
+
+- Select a call and click the play button under "Recording."
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1280476794/3f621c2e4f82a00149dc1763dbd7/CallLog4.png?expires=1763568000&signature=dd70416d538667ae35e7f8a2d23535403e76100b296486f625bca8d5c088a94e&req=dSIvFs15m4ZWXfMW1HO4zXKqphzDQh2%2BT5RI1d8Q1%2BgDxTdWNLd%2BozSIXbaC%0AYYXObE7UlKZAQ2cbVWE%3D%0A
+
+- Alternatively, you can play recordings directly from the call log by selecting the 'Voicemails' tab and clicking the play button on the far right.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1273888124/08faf2e61974ae7789fa36299b4d/Screenshot-2B2024-10-02-2Bat-2B2_24_40-E2-80-AFPM.png?expires=1763568000&signature=46ec819ddf38e3fe18dc6f1f96f15ecda1e3bd7e2e8e5dfc6bb82857027ba3aa&req=dSIgFcF2lYBdXfMW1HO4zU9l8FNS4g6XJUAByxl9qWxwMthRnpTpCKbs71EQ%0AcLTHvxo5EiXg2u%2Bxzlc%3D%0A
+
+---
+
+How to Download Calls and Adjust the Playback Speed
+
+To download calls and adjust their playback speed:
+
+- Click 'Inbox' in the navigation bar at the top of your Housecall Pro account.
+
+- Select 'Call log' from the menu on the left.
+
+- Select a call and click the 3 vertical dots under "Recording," to the right of the volume button.
+
+- From here, you can download calls and adjust the playback speed directly from the Call Log Quick View.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1280477763/1e02b7672de00542da3f53529ec4/CallLog3.png?expires=1763568000&signature=ac0a0858f30bc2edb44e9b3b6f2dff3f744e76cd9a1b013277d2da763848da3c&req=dSIvFs15moZZWvMW1HO4zTgIxPKsutUL3Myu%2FqPeP1wUg9gKom08DFfgZhn7%0At1xjQpzhih0bkGlB2HA%3D%0A
+
+---
+
+Do Not Service on the Call Log
+
+This feature is currently in Alpha and is only available to select Pros.
+​
+
+If you have calls with a customer that has the Do Not Service label, you can see it on the call log
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1547138695/aa5f05c1ca92931343fdd7f4586e/AD_4nXfb4pjotOwI8BkgFopQJ3aRHsZalBpB6gtFZiIGrz6SclJQIKkQdlhmmGA5Ec8L4SaPvMj9YNC2pB8gRY7xusBcqcguDLI32YvQikPB7C0jFYV_9ExWWRpcD0dVteZpkQ9Lq0A5fA?expires=1763568000&signature=953816468e64878ee911319fd0379c378cbe94e9b25a7d88ed06a1d2c901030c&req=dSUjEch9lYdWXPMW1HO4zbH2xtd6mOr9aKCdaW%2BlrInTUN9Jv4M22eNjkbTT%0AlHgORCDnTAN42%2Bpxjdc%3D%0A
+
+---
+
+How to Filter the Call Log
+
+To filter the call log:
+
+- Click the 'Inbox' tab in the navigation bar at the top of your Housecall Pro account.
+
+- Next, select 'Call log' from the menu on the left.
+
+- From there, you can toggle between these tabs to filter the call log: - All (all calls)
+- Missed (missed inbound calls only)
+- Inbound (answered inbound calls only)
+- Outbound (all outbound calls)
+- Voicemails (all calls with a voicemail)
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1211782163/aea538adbecad6e0d6950f28810b/Screenshot-2B2024-10-02-2Bat-2B3_32_57-E2-80-AFPM.png?expires=1763568000&signature=d7b6051e392c2b4bd9e048422c3cadbd05a5b160b7a948ef935b257f515b5b1f&req=dSImF852n4BZWvMW1HO4zQPNjh11ByR3AZRbrvi0Bb8LBmfGKnPZE8VeiPjj%0AbH82JzRjvuNVELA9YbY%3D%0A
+
+- You can also use the 'Filter' button on the call log to filter calls by: - Caller
+- Call date
+- Call duration
+- Lead Source
+- Call reason
+- Object created
+- Employee
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1211782164/9ce24ad7d3e7cce4cd9f756b3839/Screenshot-2B2024-10-02-2Bat-2B3_31_08-E2-80-AFPM.png?expires=1763568000&signature=72d8c064deeceefacd0d20825516b1064c9f3caefa6e8151818a29d4d08060fb&req=dSImF852n4BZXfMW1HO4zRhFKkOUqwoWG%2FzxaumP0tzSZKP3tENIPHkG6ZRU%0ApYueaFqAjOdSZUOzQO4%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1799064967/4c1eee2c60c145c2bed97c0014d6/9c0ee858-db5f-4459-8ae7-dc09598236c1?expires=1763568000&signature=20478036842f507bb7703d434bf4915a930f5273ec357563ae06fd1bc543cf0d&req=dScuH8l4mYhZXvMW1HO4zeNeI9WNvnZXbHNRTNGuVsgXDd7soEUO6HD4%2BSmm%0AvVejZvkGp7fnUoeFuyA%3D%0A
+
+---
+
+How to Export the Call Log
+
+When exporting the call log, the data will be based on the current view, including any applied filters, and you'll receive a CSV file of your call log via email.
+
+Table:
+Row 1: Please note that a maximum of 5,000 calls can be exported.
+
+To export the call log, follow these steps:
+
+- Click 'Inbox' in the navigation bar at the top of your Housecall Pro account.
+
+- Select 'Call log' from the menu on the left.
+
+- Click the 'Export' button in the top right corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1211782171/1fdaba11e3fa55b8e4a3ef34df51/image.png?expires=1763568000&signature=acb5f8492c3ba6486430afbf54f406cf770566996998f22093a780b8fb628dd4&req=dSImF852n4BYWPMW1HO4zRrmu2JcKSageQa4sE%2BvXC%2BSiVEoSZyphtp%2BFTlo%0AikGPEJAImpswymsxslE%3D%0A
+
+---
+
+Edit Columns in the Call Log
+
+To edit the columns in your Call Log, follow these steps:
+
+- Click 'Inbox' in the navigation bar at the top of your Housecall Pro account.
+
+- Select 'Call log' from the menu on the left.
+
+- Click the 'Edit Columns' button in the top right corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1211782167/5de916853e8fbed74abdc4280b4f/image.png?expires=1763568000&signature=a38bf7dcafaa5bb9afeb9a34173040cb5bd0912499bc407191184b3354b9bcd0&req=dSImF852n4BZXvMW1HO4zTQ3qduNqBPNaCUtUh4bxU%2F4TWomFWEqXmst8ZP8%0A1HqZzd7g5mAVyi92nA8%3D%0A
+
+- Select the columns to be displayed or hidden in the call log to view only the information relevant to you.
+
+- Click 'Save' to confirm the changes, and you're all set!
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1280420606/6fe467b207272760acd4abca6239/CallLog1.png?expires=1763568000&signature=a06389578a8dc416730f70469459bcd3d233bd2d7b6a49e50bebfc4a3afedec6&req=dSIvFs18nYdfX%2FMW1HO4zaEIir7CRlwKtlHyVka6JmoBI%2F4CgJ%2BhGlCK5vLo%0ANimYztEj1nhIDIpT1t4%3D%0A
+
+---
+
+Mark All Calls as Read in the Call Log
+
+To mark all calls as "read" in the call log, follow these steps:
+
+- Click 'Inbox' in the navigation bar at the top of your Housecall Pro account.
+
+- Select 'Call log' from the menu on the left.
+
+- Click on the 'Mark All As Read' button in the top right corner of the page to remove all unread badges on the call log.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1211782169/ef31de1b05e79be19234e5810d2c/image.png?expires=1763568000&signature=e48dfca9ffe8930f2ee74239356e0fd9634a42b01ee6d014a15a6a62235230dd&req=dSImF852n4BZUPMW1HO4zV8tKspzQzwYw4CNTXIaKokYAZtJ2PpUVhIoesAa%0A7XMfDzXGI5Qnz8RVRFg%3D%0A
+
+---
+
+Edit Callers on the Call Log
+
+To edit a caller in the Call Log, follow these steps:
+
+- Click 'Inbox' in the navigation bar at the top of your Housecall Pro account.
+
+- Select 'Call log' from the menu on the left.
+
+- Select a call and click 'Edit caller' in the Quick View.
+
+- Use the search bar to find an existing customer and assign the call to their profile.
+
+- If you need to assign a call to a new customer, you can quickly create their customer profile by clicking the '+ Create New Customer' button.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1211782158/87ca85c91c19115cdab4d59c1ef0/image.png?expires=1763568000&signature=f29ed0d676b28959c7ee169018d280ba9829c306e24e30a8c37db7a507fae357&req=dSImF852n4BaUfMW1HO4zbhSkUXvV3ZtdjewJJI9%2Bz27eXF1i3ACBBKjBHAv%0A07uc%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1211782166/625aee2fbe16b34be54be6464965/image.png?expires=1763568000&signature=8fcfd6ea72b1c5c728f38ef477dd1d31bb683c96bdd35f456d71843534849356&req=dSImF852n4BZX%2FMW1HO4zYk3T0EzanUaiwjjcX9G0z8Ic3eSDsTPPJOVT2A2%0AiBgY%0A
+
+---
+
+Create or Edit Call Notes on the Call Log
+
+To create or edit call notes, follow these steps:
+
+- Click 'Inbox' in the navigation bar at the top of your Housecall Pro account.
+
+- Select 'Call log' from the menu on the left.
+
+- Select a call you want to edit notes for, then click the 'View and Edit Notes' button.
+
+- From there, you can use the 'Call notes' field to create or edit the call notes.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1211782161/1274d24a7541520af61ada3f8ccf/image.png?expires=1763568000&signature=a6e83073a82d5266ab3686bec7d3ffb9c5124c643c2d421dc5fb15de6346ab01&req=dSImF852n4BZWPMW1HO4zedcys%2BzsxQugr0EoifycHfu4hNtQ6uA7bvb0mFa%0A6OQr%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1211782159/d15200a9931bca88f47c39a88d2d/image.png?expires=1763568000&signature=43fa53406572bb76477993ae275a379bef8486db891b4f576f2fc23f4b0b2b5c&req=dSImF852n4BaUPMW1HO4zdk9kJ7wl0Q5XeEAGwEUI78NR20RtjwLK9VpOG7J%0AsbeP%0A
+
+---

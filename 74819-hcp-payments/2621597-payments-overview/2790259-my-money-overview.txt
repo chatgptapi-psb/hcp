@@ -1,0 +1,149 @@
+My Money - Overview
+Source: https://help.housecallpro.com/en/articles/2790259-my-money-overview
+Author: Nate H
+Last updated: Updated this week
+
+Summary: How to read your deposit history and pending transactions, and manage your card readers in the My Money section of your account.
+
+Navigating the My Money Page
+
+The My Money page is where all future payments taken through Housecall Pro will appear, along with other financial solutions for your business.
+
+In order to access many of these features, you must first connect an external bank account to receive payouts.
+
+---
+
+---
+
+Payouts
+
+The Payouts screen is the first page you'll see after clicking the My money tab in the Housecall Pro navigation bar at the top of your account. This screen provides insight into your credit card transactions taken through Housecall Pro.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1217370546/5b927786d44e3ce36c63162ccca2/MyMoneyPage1.png?expires=1763568000&signature=b0b6598d6878aff150f1a5834d5ec0bf88c6f16055f0e6f89793407382ea298f&req=dSImEcp5nYRbX%2FMW1HO4zRjpzdKna6All151LDRYWh4S9Ogc%2BlRj%2BM7U6yvq%0AHp%2BoLWLY1aqNFnKThNI%3D%0A
+
+---
+
+Payouts Section
+
+The Payouts section of the Payouts screen provides an overview of all payouts to be deposited for the day and the total of all current pending transactions.
+
+- Total depositing today - The amount that will be deposited into your account by the end of the day. 
+ - This can take until 12:00 AM.
+
+- Pending transactions - The total amount that our processor is preparing to send to your bank.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1210569470/5b3095f692d5ee2bfca9fd7b1393/Payouts-Payouts.png?expires=1763568000&signature=627cb516f671c372388cea12cf9f510cc8eee6f25f16c5f1c45b180979853d31&req=dSImFsx4lIVYWfMW1HO4za2KH7iLKVnpyms2TW3Y4QronXddzzkG6fYXP3sE%0AMTSYczUQtNWA9FlUOIk%3D%0A
+
+---
+
+Pending Transactions Section
+
+The Pending transactions section of the Payouts screen shows the funds for the payouts that are being processed by our credit card processor, Stripe.
+
+All of your pending transactions are listed here and include the following information for each transaction:
+
+- Charge date (the date that the payment was taken).
+- Payment method
+- Job number
+- Customer
+- Payment amount (the total amount paid by your customer).
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1215945443/168a5c0fbf5c3cb8d140b25fd4d4/PendingTxns.png?expires=1763568000&signature=523800c0ba240b735d162e98b0901d4cec76409e740cf75fb4bfe794bdc1fcc2&req=dSImE8B6mIVbWvMW1HO4zQyrFPHDfa79brZvXGM9qpIOVX1kMIR9EGWOfns7%0A1qMDdhhbaw23dFs3Q4k%3D%0A
+
+---
+
+My Payouts Section
+
+The My Payouts section of the Payouts screen contains all Standard, Instant, and (if applicable) Mobile Check Deposit payout information, including the deposit date, total payout amount, and payment status.
+
+- Payment Statuses: - In Transit - the funds have been processed and are en route from our processor to your bank.
+- Paid - the funds have been deposited into your bank account.
+- Failed - the funds could not be processed or deposited into your bank account.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1216870838/44e204c869da62f9ceedd018c55c/MyPayouts.png?expires=1763568000&signature=a56911d40dc63543d0d070ee3e4ce07fc6a59a2179b6e2846fe5f54a393a154f&req=dSImEMF5nYlcUfMW1HO4zV7%2FuTFx%2FlDvJukGxwxr5euSVq%2Btr8jc59WZVNuX%0ARyV13xRwiaXPmSnqJco%3D%0A
+
+- Toggle between Standard payouts, Instant payouts, and Check deposit* to view the transactions associated with each payout method.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1216878762/e1c47737c2b5648d3285138393b2/Standard-Instant.png?expires=1763568000&signature=8bfa3f85872c105da82dc57d5e7c9572c9b85b335ff16895a8f32f43924c2dd1&req=dSImEMF5lYZZW%2FMW1HO4zeBElhHtvGDChzp3S5Wsxig1jDvPD2iveuERk1Rq%0AZGKLs5eTwRBu0jBa6Hg%3D%0A
+
+- Click on each deposit transaction to expand the payout details further. - This will provide a breakdown of the following information for each payment included in that deposit:
+ - Charge date
+ - Payment method
+ - Gross (total) payment amount
+ - Fees associated with the payment
+ - Payout total (after fees)
+ - Job number
+ - Customer name
+
+- To view your payout history, click the See All button. You can also click on each transaction in your to expand the payout details here. - Click on the left and right arrows in the bottom right corner of the page to navigate through your payout history.
+
+---
+
+---
+
+Other My Money Page Features
+
+---
+
+---
+
+Card Readers
+
+- Card readers are a great solution for taking payments in the field, allowing you to swipe, tap, or insert your customers' cards. They also give your customers the option to pay with digital wallets like Apple Pay!
+
+- Card Readers can be purchased through Housecall Pro by clicking on the Card reader tab of the My Money page. 
+​
+
+---
+
+Consumer Financing
+
+- Consumer financing provides more flexibility and opportunities for you and your customers by allowing you to offer customers multiple payment options, with interest rates as low as 0% APR for up to 24 months!
+
+- If you haven't signed up for Wisetack Consumer Financing through Housecall Pro yet, you can do so by navigating to the My Money page and selecting Consumer financing from the menu on the left. 
+​
+
+---
+
+Business Financing
+
+- Housecall Pro offers Business Financing via Fundbox so you can easily access funding options for your business directly through your Housecall Pro account. 
+​
+- You can apply for business financing on the My Money page by selecting Line of Credit from the menu on the left, under the "Business Financing" section. Once you're there, click the blue Apply Now button to get started! 
+​
+
+---
+
+Expense Management
+
+- Expense Management is a suite of solutions and your destination for all things money. It offers simple, practical tools to help you and your team get even more done in the office and the field.
+
+- Pros using Expense Management have access to: - Expense Cards
+- Bill Pay
+- Mobile Check Deposit
+
+- If you haven't enrolled in Expense Management yet, you can do so on the My Money page by selecting Expenses > Overview from the left menu and clicking the Access expense cards button. 
+​
+
+---
+
+Payroll & Benefits
+
+- Housecall Pro offers Payroll so you can pay your W-2 and 1099 employees, offer employee benefits, and manage your business all within your Housecall Pro account, eliminating the need to switch from one application to another.
+
+- If you haven't signed up for Payroll through Housecall Pro yet, you can select 'Overview' from the menu on the left of the My Money page to learn more about the features and choose your Payroll plan!
+​
+
+---
+
+Pro Power Hour: My Money
+
+Get a complete overview of all products and features within the My Money page in this on-demand Product webinar below!
+
+[Video - youtube] https://www.youtube.com/watch?v=azK4GXRUB4U
+
+---
+
+Check out these simple tips on collecting payments from your customers!
+
+---

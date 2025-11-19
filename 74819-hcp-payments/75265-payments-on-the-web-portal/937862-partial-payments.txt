@@ -1,0 +1,59 @@
+Partial Payments
+Source: https://help.housecallpro.com/en/articles/937862-partial-payments
+Author: Nate H
+Last updated: Updated over a year ago
+
+Summary: How to take partial payments or break up payments for larger jobs.
+
+How to Take Partial Payments on the HCP Web Portal
+
+When you're taking a payment in Housecall Pro, the full amount does not need to be accepted at one time. You can change the amount that you're collecting on the payment screen.
+
+To take a partial payment on the HCP web portal:
+
+- Navigate to the Job Details page associated with the invoice you need to collect payment for.
+
+- Click the 'Pay' button in the action bar at the top of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1235478818/0fa89a39fd9ddd0e588e6dd20105/Pay%2BButton.png?expires=1763568000&signature=4aaa5dd704b7041164d581e9aee37c6c6c6c33c62bd2f46c91b08bea689a2ef1&req=dSIkE815lYleUfMW1HO4zdxnXtWYIEVvPIqOEa7KnD5PDcwNIhn7M5OToO8f%0AHGQlhBrPWFzMZCMJWE0%3D%0A
+
+- To take a partial payment, click on the 'Amount' field and adjust the payment amount. (The total amount due will be populated automatically).
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1235478822/d1ba27b1e323a4fb63fb48ea9dd4/PaymentAmount1.png?expires=1763568000&signature=e1f9a20325fcfca02ed6c569708726a2fd9d6506e48dc71d40a0e9f092cf8829&req=dSIkE815lYldW%2FMW1HO4zXid70KD9IZddLRl%2F%2B8UKyFG2WuImA6QQAndb0Ga%0AQvnlUnhDhvEjipsKZDk%3D%0A
+
+- To send your customer a receipt of their payment, confirm their email address in the 'Email receipt' field and ensure that the 'Notify customer' box is checked.
+
+- Uncheck the 'Notify customer' box if you don't want to send a receipt to your customer.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1235478815/f9587318749adc3ea5eb9f346c33/ReceiptPayment.png?expires=1763568000&signature=3b9b2d05fbfa7c1dad2ca9a69d810099273160cd964f8a3da93cf27d7839a718&req=dSIkE815lYleXPMW1HO4zYpofIT9FS3kK7REiqnpdHFKYl4OOA6UUl4L9AUn%0AS1CyhCHYwSuoDPjYXuk%3D%0A
+
+- Select the 'Credit' payment method when taking a card payment with Housecall Pro's payment processor.
+
+- Confirm the name on the card, billing address, and postal code associated with the card. (These fields are automatically populated with your customer's information on their Customer Profile).
+
+- Input the card number, expiration date, and CVC.
+
+- Click 'Charge Card' in the bottom right corner of the Payment window to process the payment.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1235478819/ccd5666fbaef1364b3d3b1c5e888/CreditPayment2.png?expires=1763568000&signature=e6eeb5d462d1c303706be73197ee02a11b161ca3acf5e08ee95b145fce548c05&req=dSIkE815lYleUPMW1HO4zY82yBXnbRUQTEPvcoD%2BJJIjHbeXEV7hcnlaOhdm%0AVjmsuvidSRkB%2BkXgFKM%3D%0A
+
+- If you are using a different payment processor (not through HCP), choose 'Other' as the payment method.
+
+- You can then click the 'Other credit card processor' option and select your credit card processor from the list that appears.
+
+- Enter any payment notes (optional), then click 'Pay - Other' in the bottom right corner of the Payment window to process the payment.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1235478820/96f4a4d65f26ffca717f95c56a2b/PaidOther.png?expires=1763568000&signature=109ee92b50d8a2ac2976bef10cab1fe5ae7b2a9c929e50615a4a09172a9e3791&req=dSIkE815lYldWfMW1HO4zem2FIH%2B5yS0DmKAo3n%2BKVzXb1uE%2Bu71Y02eCVW7%0AIDqpKlwTBzhNZ%2FHlqYo%3D%0A
+
+- If your customer is paying with cash or check, select those options, then click 'Paid - Cash' or 'Paid - Check' and you'll be good to go!
+
+- After processing the payment, a receipt will be emailed to your company's support email address and to your customer if the 'Notify customer' option was selected.
+
+- If you have the Text Messaging feature on your account (and your customer has a phone number in the mobile field of their Customer Profile), your customer will also receive their receipt via SMS.
+​
+
+---
+
+Check out these simple tips on collecting from your customers!
+
+---

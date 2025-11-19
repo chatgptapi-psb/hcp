@@ -1,0 +1,82 @@
+Card Payments in Online Booking
+Source: https://help.housecallpro.com/en/articles/9298389-card-payments-in-online-booking
+Author: Kasia S
+Last updated: Updated over a month ago
+
+You can now accept payments directly within the Online Booking flow.
+
+Housecall Pro Blueprint to Success Workshop
+
+If you're looking for more advice on how to effectively use Online Booking, along with other great features, register for the Housecall Pro Blueprint to Success Workshop!
+
+[Button] Register Here -> https://docs.google.com/forms/d/e/1FAIpQLScM2b6NgGEvrjkOFAZPunvol2CoR4FIIFiVgR7DmTRqgd3gQg/viewform?usp=pp_url&entry.1047718727=HCP+Help+Article
+
+---
+
+---
+
+Why Accept Payments Upfront?
+
+- Secure your bookings - Minimize no-shows and last-minute cancellations.
+
+- Get paid faster - Eliminate unpaid invoices and improve cash flow.
+
+- Simplify your payment process - Say goodbye to preparing and chasing down invoices.
+
+- Impress your customers - Deliver a seamless, professional booking experience.
+
+---
+
+How to Enable Payments for Online Booking
+
+To enable payments in your online booking flow, follow these steps:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Booking from the Settings menu on the left.
+
+- Click the Online Booking tab in the Booking settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1644138502/01f610f40c1c1bf0c0e87565328a/image.png?expires=1763568000&signature=ba6504edaffcddbfd99ee0d6cf303bdfda288bc103231b1192f397ab58559492&req=dSYjEsh9lYRfW%2FMW1HO4zY4avTQZMoI3t1UrrzBFRfVkMJJV0sXkECEv%2FtWk%0AqkXtZd8xRwpA%2FVi3oiM%3D%0A
+
+Once your bank account is connected, you will see the options to Require full payments and Require deposits.
+
+- If you toggle on Require full payments, then your customers will be asked to pay the total amount of the booking upfront at the time of booking.
+
+- If you toggle on Require deposits, you will set the fixed amount (ex: $20 out of the $100 total cost) or percentage deposits (ex, 50% of the total cost) that you want your customers to pay upfront at the time of booking.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1644142322/3d6b618499885c260388495cdd7b/image.png?expires=1763568000&signature=8137b61377b9c20be389156588f9bc7596eefbb3896c61f6c7a4c0977b6ba785&req=dSYjEsh6n4JdW%2FMW1HO4zRuSAHng6DNC6Q35KJcL3Iqyh2ePokJG0nZwWkRx%0AngaM%2B%2Fd1zjgzDPFpkPs%3D%0A
+
+---
+
+Edit Your Online Booking Payment Options
+
+To edit your payment options for Online Booking:
+
+- Navigate to your online booking Payment options settings.
+
+- Click Edit in the bottom right corner of the Payments & deposits section.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1644145485/f41d5b2990e496f72473188d2acd/image.png?expires=1763568000&signature=f74847880b212bf4cd7dc03b8e2cbe03d0a4c7c3535e274329d5c89dd764d146&req=dSYjEsh6mIVXXPMW1HO4zdjX7g0UicBIbdA8CksWt4dFNAg5NsrrQQmwYjgA%0ANtGS%2BFtXchACEM2gMWk%3D%0A
+
+- Select your payment option: - Require full payments
+- Require deposits
+- No payment required
+
+- Click Save in the bottom right corner of the window to confirm.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1554403218/ab106b234731105bfa23d71fbc1d/Screenshot+2025-06-03+at+2_42_56%E2%80%AFPM.png?expires=1763568000&signature=befda045f3001049ab94c37b43e915855bfe32e71b475413aa122040d0afe5f2&req=dSUiEs1%2BnoNeUfMW1HO4za4VCBWx6Mta5NjOHj2poFtgDpNS2Q9Xs2fIj36g%0A3jsgmjJzzlofzln3QEU%3D%0A
+
+---
+
+Customer View
+
+- Once you update your settings, you can preview your booking flow here.
+
+- Customers will see the payment step to input a dollar amount or percentage (depending on your configuration) after selecting their service and date.
+
+- If the payment is successful, the customer will receive an email with a receipt.
+
+[Image] https://downloads.intercomcdn.com/i/o/1063199572/6846de1b96764fe513f699d6/image.png?expires=1763568000&signature=10200da51d0cf3f9d4fd45efadd426fb103dbf97928efbd293dbbdcc5200612f&req=dSAhFch3lIRYW%2FMW1HO4zRuXJ7zCZlH1ZxlDXs4oHRPnwMOB1CxQdRS%2Fk8ac%0Ay7BrEMpYMz0HAcivvAw%3D%0A
+
+---

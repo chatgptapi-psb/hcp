@@ -1,0 +1,20 @@
+What is Plaid?
+Source: https://help.housecallpro.com/en/articles/4378734-what-is-plaid
+Author: Taylor M
+Last updated: Updated over a month ago
+
+Summary: Learn about our partnership with Plaid to ensure a secure connection with your bank for payments.
+
+What is Plaid?
+
+Plaid is a third-party technology company, recently acquired by Visa, that allows you to easily and safely connect your bank account to an app.
+
+Plaid’s partnership with Housecall Pro creates a secure and verified connection with your bank account so you can receive payouts from your customers.
+
+Mint, QuickBooks, Venmo, and student loan servicers all use Plaid since it is the industry standard to safely and securely connect bank accounts. They are not a household name, despite being acquired by Visa, because they are an infrastructure platform in the financial technology services space. If you have connected your bank account to an app like Venmo or Mint, you have most likely used Plaid without realizing it.
+
+Why is my account checked periodically?
+
+In the case of a refund or dispute, your account is checked periodically to confirm that you have enough funds available to cover the refund to your customer. We utilize Plaid to confirm your balance will cover the refund.
+
+---

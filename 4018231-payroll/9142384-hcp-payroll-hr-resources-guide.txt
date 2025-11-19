@@ -1,0 +1,113 @@
+HCP Payroll: HR Resources Guide
+Source: https://help.housecallpro.com/en/articles/9142384-hcp-payroll-hr-resources-guide
+Author: Angela G
+Last updated: Updated over 11 months ago
+
+Summary: Payroll HR resources is available as a part of your Payroll Advanced plan.
+
+HR Resources with HCP Payroll
+
+Housecall Pro has partnered with Mineral, an HR platform, to give you all the tools you need to keep your employees happy and grow your team. Access a compliance-ready HR hub, an employee handbook builder, hiring and onboarding templates, custom courses, and personalized compliance alerts—all in one place!
+
+Table:
+Row 1: Please Note: HR resources are available with our Payroll Advanced plan.
+
+---
+
+How to Activate HR Resources
+
+To activate your HR Resources:
+
+- Click the 'Payroll' tab in the navigation bar at the top of your Housecall Pro account. - Depending on the size of your browser window, you may need to click 'More' and then select 'Payroll' from the drop-down.
+
+- Select 'HR resources' from the menu on the left.
+
+- Click the blue 'Activate' button.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1225027151/a2026e8fdf5484fecdb8ea622271/Screenshot+2024-10-22+at+12_47_48%E2%80%AFPM.png?expires=1763568000&signature=b7a882e0b028bd0fef7098a9e3181dbc15e64416b6ae09bd5ea28e771dbdf401&req=dSIlE8l8moBaWPMW1HO4zbqIRvKZQXNTHL5kcvccr6B6EIptuxo%2FC5TBOWir%0AcYGJR9agPeHQbWK1%2FVI%3D%0A
+
+- After activating your account, you can easily access your HR resources & tools from the HR Resources page.
+
+- Click the tiles to be redirected to Mineral's website, where you can create employee handbooks, access training resources, HR templates, and law alerts, and stay up-to-date with compliance.
+
+[Image] https://downloads.intercomcdn.com/i/o/1008642338/7758885b2b09b9578865feeb/Screenshot+2024-04-01+at+2_56_06%E2%80%AFPM.png?expires=1763568000&signature=d98f9ec45705342eb9c57266cd82a636e7507242d74b0356317a8f80d95f32fb&req=dSAnHs96n4JcUfMW1HO4zSQfeerxvwjrmEiDWF3smjqelNpa%2B7W%2FA5ndG1KM%0AiDQvDR5EL1G965glqr8%3D%0A
+
+---
+
+---
+
+Setting Up HR Resources for Team Members
+
+To provide your team with access to HR resources, you'll need to begin by creating their Mineral accounts. Once created, your team members will be able to access your employee handbook, training materials, and other helpful tools.
+
+Table:
+Row 1: Please Note: Payroll Admins are automatically designated as HR admins, and their accounts are pre-configured.
+
+---
+
+How to Create Mineral Accounts for Employees/Contractors
+
+To create Mineral accounts for your team members:
+
+- Click 'Payroll' in the navigation bar at the top of your Housecall Pro account. - Depending on the size of your browser window, you may need to click 'More' and then select 'Payroll' from the drop-down.
+
+- Select 'HR resources' from the menu on the left.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1275582340/ba0b0e3678e30a26e4e71ca52aa0/Payroll21.png?expires=1763568000&signature=34628102640314d0d1c667423e03f22d38c98c0537944271b5b5b6afcde22d13&req=dSIgE8x2n4JbWfMW1HO4zQ7CxBCzFlAdfBbia55FGRepCb6Nee99NQ4t5sgF%0AUgNStVTqvBy0EWNdVI8%3D%0A
+
+- In the "Manage Team Member Access" section, you'll see all active employees and contractors on your payroll.
+
+- Click on the 'Employees & Contractors' link in the blue notification banner to update their details if needed.
+
+- Select the checkboxes next to each team member you'd like to grant access to HR resources. - You can add team members to HR resources in bulk or individually.
+
+- Click the 'Create Accounts' button.
+
+- Each team member will receive an onboarding link via email from Mineral once their account is successfully created.
+
+[Image] https://downloads.intercomcdn.com/i/o/1008643128/5f9c65608066f4e6f3a69328/Screenshot+2024-04-01+at+2_57_10%E2%80%AFPM.png?expires=1763568000&signature=fe9422f7622a7b6653797cf74d19b1eed8b05f2d911b1346e6d1d0041904de2c&req=dSAnHs96noBdUfMW1HO4zdd%2Fn7KX3ZZGS%2FnXaAHw48cGpXmkXBAXiINNROLS%0ARsjCMncx4ugV7uLpOso%3D%0A
+
+---
+
+Remove Team Member Access to HR Resources through Mineral
+
+To revoke a team member's access to HR resources, you will need to toggle off HR resources. When you do this, your employee will no longer be able to utilize their credentials to access Mineral.
+
+Table:
+Row 1: Please Note: Admin access cannot be disabled for HR resources.
+
+To remove team member access to HR resources:
+
+- Click 'Payroll' in the navigation bar at the top of your Housecall Pro account. - Depending on the size of your browser window, you may need to click 'More' and then select 'Payroll' from the drop-down.
+
+- Select 'HR Resources' from the menu on the left.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1275581683/9207aba94b8d768ef76509829215/Payroll21.png?expires=1763568000&signature=c4856f5dd10eb3a4cbf33e7f4b2b2e7e58e7381a94aa8b8279993b27092be26b&req=dSIgE8x2nIdXWvMW1HO4zSeifTQDAsl4fB8SKJD2d%2BKIPZ69f2l06GCs%2B%2Btt%0ALzC177xszC1pSHVCAJk%3D%0A
+
+- In the 'Manage Team Member Access' section, click the toggle next to each team member you’d like to remove from HR resource access. - The toggle will turn gray once disabled.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1275581296/40d6d9445afa909917970161813e/Payroll22.png?expires=1763568000&signature=03d93651780ac0f4bef25010ad8a9dc30a904d740cc77e75f5ab007e267b74b7&req=dSIgE8x2nINWX%2FMW1HO4zX47tOvTA8D%2FvGKpYGmLQ3dp7iCLViuUKYgj1y3f%0AWcWx2p%2F%2FEG6glu%2FwbWI%3D%0A
+
+---
+
+Restore Team Member Access to HR Resources through Mineral
+
+To restore team member access to HR resources:
+
+- Click 'Payroll' in the navigation bar at the top of your Housecall Pro account. - Depending on the size of your browser window, you may need to click 'More' and then select 'Payroll' from the drop-down.
+
+- Select 'HR Resources' from the menu on the left.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1275581926/38b010438b28ab7e0281323e51ce/Payroll21.png?expires=1763568000&signature=f5c5e646f1023507de98eb63f75db19d68b2d596a8944e992a410a1814d7e7d3&req=dSIgE8x2nIhdX%2FMW1HO4zc8iI1hOBKeBOY08ljLPQucUV0c%2BSDckZu4z1M1%2B%0AAnBs73%2F4W7Mt%2BoK9b4c%3D%0A
+
+- In the 'Manage Team Member Access' section, click the toggle next to each team member you’d like to restore HR resource access to. - The toggle will turn blue once re-enabled.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1275581474/ff178b43fe35ae9738286052de43/Payroll22.png?expires=1763568000&signature=c2508083d7ef821a28816f2a583a41df41e3b1bc64e17b194657374638b62d6b&req=dSIgE8x2nIVYXfMW1HO4zQu5P4BC5%2F6qU1ZPEeUF9rcKjG2XS9IzMu4DZ6mf%0A%2BPK8bjy8M%2BxhQ3LYY4k%3D%0A
+
+---
+
+HR Resources Video Tutorial
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/hwsgcotv8p
+
+---

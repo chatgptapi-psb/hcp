@@ -1,0 +1,415 @@
+Price Book: Services Guide
+Source: https://help.housecallpro.com/en/articles/5090568-price-book-services-guide
+Author: Layla K
+Last updated: Updated over a month ago
+
+Summary: Keep your Price Book accurate and current by mastering how to add and update industries, categories, and services for effective management.
+
+Getting Started with Your Price Book
+
+Effectively managing your Price Book is crucial for maintaining a well-organized and efficient business. By keeping your industries, categories, and services up-to-date and accurately priced, you streamline the process of generating invoices and estimates. This not only helps reduce errors and save time, but also ensures you provide clear and precise quotes to your customers.
+
+A well-maintained Price Book supports smoother daily operations and enhances your ability to adapt quickly to changes in your service offerings or pricing. This article will guide you through manually adding and managing services.
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/8jn5kkhvte
+
+---
+
+---
+
+Industries
+
+Industries help you organize your Price Book by grouping related categories. Each industry contains categories, and each category includes specific services. This setup makes it easier to manage and find your services, keeping everything neatly organized.
+
+---
+
+Add an Industry
+
+To add an industry to your Price Book:
+
+- Click the Price Book tab in the top navigation bar of your Housecall Pro account. - If you have a lot of features in the top navigation bar, your Price Book may be nested under the More drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/876682846/566d222766cb53b675613f0a/Screenshot+2023-11-06+at+3.43.09+PM.png?expires=1763568000&signature=e5e4982480c6c3382982426c2b7dfdfe4a47877cd87c791ce7b637623744af3d&req=fCchEMF8lYVZFb4f3HP0gBxxQH%2BwFl%2BgfmJxK2dzMK8Wg0DES9EDF8LkaMv1%0ACvjSz3Zlqp7BqvW%2F7g%3D%3D%0A
+
+- Select Services from the menu on the left.
+
+- Click the + Industry button in the top right corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1642280965/a5b2356a42a7d3f507220e54ca9e/image.png?expires=1763568000&signature=b9ffc8761412af97bec3771fef3609e2eb6c8f400c437eb932c1e001aca7dcd9&req=dSYjFMt2nYhZXPMW1HO4zQ0%2BrtlFArgsZuvZgQNg9kCkqIGhZ7fjy0tL2diU%0AdCmPq9XBPSQtDayRexw%3D%0A
+
+- Click the drop-down in the window that appears to select an industry from the list of Housecall Pro-defined industries. - Select the industry that best describes your business. Industries outside of the pre-defined list cannot be added at this time.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1642282491/86a51df75087551eaf34840e5fd8/image.png?expires=1763568000&signature=90b38c311d8699d2e62ae18e855bf8c528b6d7fe2e904c9b4eff376a36c0d569&req=dSYjFMt2n4VWWPMW1HO4zTud1plugP1G3eHH2H1jWhgqJDs6%2Bpp6P8mT%2Fei0%0A2HpRIAl68KesL4I981w%3D%0A
+
+- Click Add image in the center of the pop-up window if you'd like to add an image to represent the selected industry. Select a file from your device and then click Open. If you prefer, you can add an image later at any time!
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1642284557/470fec7fd27900ff51dc818151d9/image.png?expires=1763568000&signature=67340577be3533600caed51dca3ef1f101c50aa1fb06930b23c8446e6838098f&req=dSYjFMt2mYRaXvMW1HO4zeVg1zfm%2FAbHQtUW3%2Bi%2B97ggWGyo6NoxhBegWR3N%0AzOuyfftGxISZq20Ppkc%3D%0A
+
+---
+
+Edit an Industry
+
+To edit an industry in your Price Book:
+
+- Click the Price Book tab in the top navigation bar of your Housecall Pro account. - If you have a lot of features in the top navigation bar, your Price Book may be nested under the More drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/876682846/566d222766cb53b675613f0a/Screenshot+2023-11-06+at+3.43.09+PM.png?expires=1763568000&signature=e5e4982480c6c3382982426c2b7dfdfe4a47877cd87c791ce7b637623744af3d&req=fCchEMF8lYVZFb4f3HP0gBxxQH%2BwFl%2BgfmJxK2dzMK8Wg0DES9EDF8LkaMv1%0ACvjSz3Zlqp7BqvW%2F7g%3D%3D%0A
+
+- Ensure that Services is selected from the Price Book menu on the left. You will see all your industries presented here in a grid format.
+
+- Click the More icon (three dots) in the bottom right corner of the industry and select Edit from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/1129763066/47329f6fa875637c4f143b98/Screenshot+2024-07-30+at+6_21_57%E2%80%AFPM.png?expires=1763568000&signature=b308bf7fb328884a95158d6aacbcdec308ab12bca5248883dd78376b7d2fb9f2&req=dSElH854noFZX%2FMW1HO4zUqAtdYAkb9OGPerVX4lRR6RpOSfyjSlDBfdpeCf%0A%2B%2BbjFkGInTR5HeXqRLw%3D%0A
+
+- A pop-up window will appear on the screen.
+
+- Once an industry is selected, its name cannot be changed. However, you can update the industry image.
+
+---
+
+Delete an Industry
+
+To delete an industry from your Price Book:
+
+- Click the Price Book tab in the top navigation bar of your Housecall Pro account. - If you have a lot of features in the top navigation bar, your Price Book may be nested under the More drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1642289216/23a73d97af7dd3dcc3e8258c6d58/Screenshot%2B2023-11-06%2Bat%2B3_43_09%2BPM.png?expires=1763568000&signature=06e99e2e56da8b76e7ed57463e79a53e9afc47d86bd48dd06e9740287f7de70f&req=dSYjFMt2lINeX%2FMW1HO4zaD9y174SGnFyJGs2dC%2BSpIJ8wmh%2FhDADktx5ARH%0Akztfx%2FPAoYYOJuO6ado%3D%0A
+
+- Ensure that Services is selected from the left-hand menu of your Price Book, located directly beneath the Price Book heading. - You will see all your industries presented here in a grid format.
+
+- Click the More icon (three dots) in the bottom right corner of the industry you want to delete.
+
+[Image] https://downloads.intercomcdn.com/i/o/1129763066/47329f6fa875637c4f143b98/Screenshot+2024-07-30+at+6_21_57%E2%80%AFPM.png?expires=1763568000&signature=b308bf7fb328884a95158d6aacbcdec308ab12bca5248883dd78376b7d2fb9f2&req=dSElH854noFZX%2FMW1HO4zUqAtdYAkb9OGPerVX4lRR6RpOSfyjSlDBfdpeCf%0A%2B%2BbjFkGInTR5HeXqRLw%3D%0A
+
+- Select Delete from the dropdown.
+
+[Image] https://downloads.intercomcdn.com/i/o/1129793527/4d5be3e646de864fe1041ee2/Screenshot+2024-07-30+at+7_22_25%E2%80%AFPM.png?expires=1763568000&signature=a648a75369672d7a9db5785b128f22497610f02e016d54733e9e68c32dd1af09&req=dSElH853noRdXvMW1HO4zdLsvp%2FAJmjKx%2F%2FG3zZirNmG%2F4lNeS0C3lhScYXo%0A%2BD2U6cMpRXLQ4lKdVsQ%3D%0A
+
+- When you choose to delete an industry, a pop-up will appear with this message: “Are you sure you want to delete this industry? Please note that this will also remove all associated sub-categories and services.”
+
+- Click Delete in the window to confirm.
+
+---
+
+---
+
+Service Categories
+
+Categories break down your services into smaller, related groups within each industry. This makes it easier to manage and find specific services by organizing them into clear, distinct groups.
+
+Categories help you keep your Price Book well-structured and efficient, ensuring you can quickly locate and update the services you offer.
+
+---
+
+Add a Category
+
+To add a category to your Price Book:
+
+- Click the Price Book tab in the top navigation bar of your Housecall Pro account. - If you have a lot of features in the top navigation bar, your Price Book may be nested under the More drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/876682846/566d222766cb53b675613f0a/Screenshot+2023-11-06+at+3.43.09+PM.png?expires=1763568000&signature=e5e4982480c6c3382982426c2b7dfdfe4a47877cd87c791ce7b637623744af3d&req=fCchEMF8lYVZFb4f3HP0gBxxQH%2BwFl%2BgfmJxK2dzMK8Wg0DES9EDF8LkaMv1%0ACvjSz3Zlqp7BqvW%2F7g%3D%3D%0A
+
+- Once you have navigated to your price book, ensure that Services is selected from the left-hand menu, located directly beneath the Price Book heading.
+
+- Next, click on the industry where you’d like to add a new category.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130650495/c579d754f85b33bfa30791c8/Screenshot+2024-07-31+at+12_08_34%E2%80%AFPM.png?expires=1763568000&signature=5c6386772cd2d49c1c935e4f10ed1da84718d25a65f668f293addfe3639ff7a4&req=dSEkFs97nYVWXPMW1HO4zRGNg01x2wGEMqwgeX3xLVM6iDR4kv012DZMHiX5%0A3nkB4ZGprZ2vwFYQq8s%3D%0A
+
+- If you haven’t added any categories yet, you will see a prompt that says Get Started with options to sync from QuickBooks, import your price book from a file, or start from scratch. Click Start from Scratch and then click Next.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130623195/66e4b4cb60bc3c2bece0365d/image.png?expires=1763568000&signature=7fc6b842bbef78fca76e1fbba11bad8692c855ec643e827c7a59c336fb3e79fc&req=dSEkFs98noBWXPMW1HO4zRC%2F4RohW7cb0fLdSyIcnZWshG6Bx%2FH1M5GhfTnH%0Ai5XteawSIe9h3kaW1pA%3D%0A
+
+- You will now see a sub-header labeled Add Categories.
+
+- Click the Add Category button.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130624824/367667171ae943b6edfe0a30/Screenshot+2024-07-31+at+12_09_53%E2%80%AFPM.png?expires=1763568000&signature=d69f4133f9cfb7ace1331a9535021913e82b0567288e8231caf4ba98aef1efe1&req=dSEkFs98mYldXfMW1HO4zeuBJGwwVufCkN29dUnlCTocqWSamWeT0Ie6RloF%0ADvjn6Q4XP%2B%2BPBooZfgY%3D%0A
+
+- If you have previously added categories, you can create additional categories by clicking Add Category in the upper right-hand corner of the Categories page.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136874437/85cc23584764f987a191d956/Screenshot+2024-08-06+at+2_26_41%E2%80%AFPM.png?expires=1763568000&signature=c85ce91a6f4416645478c007308cf706e4c1df7e930f41272a87fa95033a9aaf&req=dSEkEMF5mYVcXvMW1HO4zV00e7ImeFgMM%2FWcAUYX5aGMtdV97RWHXU7GWQVe%0AX3%2F6U9kN4U2ecGG6hAY%3D%0A
+
+- A pop-up window will appear with a field for the category name. Enter the name of your category.
+
+- You can also add an image to represent the category. If you prefer, you can add an image later.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130657210/d9fba4742e7049c5ae0bcf89/image.png?expires=1763568000&signature=cc9e9e3505012f3778ed5d1439daa08d09e78d8d5fc992d1699de93021a0709e&req=dSEkFs97moNeWfMW1HO4zfTef8Rw93WxgZ1nYYgURP4D395BjQcLvLp%2BveOR%0AKBtkOfAMTMMD6XvC0bc%3D%0A
+
+---
+
+Add a Sub-Category
+
+Sub-categories help you organize services more effectively, allowing for better management and clearer differentiation. For example, you might create sub-categories such as 'Weekly Maintenance' and 'Monthly Deep Clean' to classify services based on frequency, making it easier to manage and track different types of offerings within your Price Book.
+
+Keep in mind that once you add a service to a category, you will no longer be able to add sub-categories to that category. To maintain better organization and structure, consider adding sub-categories before you add any services.
+
+To add a sub-category to your Price Book:
+
+- Click the Price book tab in the top navigation bar of your Housecall Pro account. - If you have a lot of features in the top navigation bar, your Price Book may be nested under the More drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/876682846/566d222766cb53b675613f0a/Screenshot+2023-11-06+at+3.43.09+PM.png?expires=1763568000&signature=e5e4982480c6c3382982426c2b7dfdfe4a47877cd87c791ce7b637623744af3d&req=fCchEMF8lYVZFb4f3HP0gBxxQH%2BwFl%2BgfmJxK2dzMK8Wg0DES9EDF8LkaMv1%0ACvjSz3Zlqp7BqvW%2F7g%3D%3D%0A
+
+- Once you have navigated to your price book, ensure that Services is selected from the left-hand menu, located directly beneath the Price Book heading.
+
+- Next, click on the category where you’d like to add a new sub-category.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130862181/d4d32171e52ba71da2085533/Screenshot+2024-07-31+at+3_39_40%E2%80%AFPM.png?expires=1763568000&signature=c7788e891358822f414abac51d09dbf2989d822f5532a91cc944c2d86ca0edf0&req=dSEkFsF4n4BXWPMW1HO4zeJ0u%2BOHvRbXQz63R6KIVFrfKFKEuHJFUq2K6Jj%2B%0A37Pd7k8MQc1d6JWQIIQ%3D%0A
+
+- If there are no services listed under that category, you will see options to either Add Service or Add Category.
+
+- To create a new sub-category, click Add Category.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130897460/a9d8feb94f7bc743f4b383b7/Screenshot+2024-07-31+at+4_15_46%E2%80%AFPM.png?expires=1763568000&signature=3a8058aef7ec63b2251b1c4f652b3dfc022b305f25ffff5c05b8f1ddf6ea7ccc&req=dSEkFsF3moVZWfMW1HO4zUQSQr8oPUMxZTHwwfOJcQx%2FI7d7TgzgEEs7VIZM%0AE7hD5af7frQJtieMM7A%3D%0A
+
+- A pop-up window will appear with a field for the sub-category's name. Enter the name of your sub-category.
+
+- You can also add an image to represent the sub-category. If you prefer, you can add an image later.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130903747/173a52e8b87427cbeafdcb1f/Screenshot+2024-07-31+at+4_23_12%E2%80%AFPM.png?expires=1763568000&signature=52ef9dec653e55a0b7f77a449de32c048f47376e65ed23deec7dc15833c7a63c&req=dSEkFsB%2BnoZbXvMW1HO4zVaeEJIrAu93uq49jR38KOGjy30k5Oi%2FZCtaivu2%0AEwm5L8hVqby3JxTevm8%3D%0A
+
+- If you choose to add an image now, click Add Image in the center of the pop-up window.
+
+- Select the file from your device and then click Open.
+
+---
+
+Edit a Category
+
+To edit a category in your Price Book:
+
+- Click the Price book tab in the top navigation bar of your Housecall Pro account. - If you have a lot of features in the top navigation bar, your Price Book may be nested under the More drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/876682846/566d222766cb53b675613f0a/Screenshot+2023-11-06+at+3.43.09+PM.png?expires=1763568000&signature=e5e4982480c6c3382982426c2b7dfdfe4a47877cd87c791ce7b637623744af3d&req=fCchEMF8lYVZFb4f3HP0gBxxQH%2BwFl%2BgfmJxK2dzMK8Wg0DES9EDF8LkaMv1%0ACvjSz3Zlqp7BqvW%2F7g%3D%3D%0A
+
+- Select Services from the left menu.
+
+- Click on the Industry that contains the category you want to edit.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130650495/c579d754f85b33bfa30791c8/Screenshot+2024-07-31+at+12_08_34%E2%80%AFPM.png?expires=1763568000&signature=5c6386772cd2d49c1c935e4f10ed1da84718d25a65f668f293addfe3639ff7a4&req=dSEkFs97nYVWXPMW1HO4zRGNg01x2wGEMqwgeX3xLVM6iDR4kv012DZMHiX5%0A3nkB4ZGprZ2vwFYQq8s%3D%0A
+
+- Locate the category you need to modify and click the More icon (three dots) in the lower right corner of that category.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130668421/97cc0ad584207b21ee7dd734/Screenshot+2024-07-31+at+12_43_32%E2%80%AFPM.png?expires=1763568000&signature=3cdf1d12452824714a5b95778f396d8dd72aa14c3b0d5a415af5a5a00d1a1f62&req=dSEkFs94lYVdWPMW1HO4zZ2%2FH245jTUYcgPz06ZQyT26sqfiAc%2BRm6iOIbx0%0AN5KDumtNyu2ZfdvK5a8%3D%0A
+
+- Select Edit from the dropdown.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130669322/bfe1e4fb894daac34483e4fb/Screenshot+2024-07-31+at+12_44_49%E2%80%AFPM.png?expires=1763568000&signature=9895ed4088b8dcab95254b985f7efb0b0d714ff47c561c0435a60d0dc7d131ae&req=dSEkFs94lIJdW%2FMW1HO4zbdmBgYnGdXI3XyBnkCmJNb%2Fn700NABdU09hE8TG%0AFyRaxpoDrCe69VBdhWU%3D%0A
+
+- In the edit window, you can update both the category name and the image.
+
+- To update the category name, simply modify the text field as needed.
+
+- Once you’ve made the necessary changes, click Save in the lower right corner of the edit window to apply your updates.
+
+---
+
+Delete a Category
+
+To delete a category from your Price Book:
+
+- Click the Price book tab in the top navigation bar of your Housecall Pro account. - If you have a lot of features in the top navigation bar, your Price Book may be nested under the More drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/876682846/566d222766cb53b675613f0a/Screenshot+2023-11-06+at+3.43.09+PM.png?expires=1763568000&signature=e5e4982480c6c3382982426c2b7dfdfe4a47877cd87c791ce7b637623744af3d&req=fCchEMF8lYVZFb4f3HP0gBxxQH%2BwFl%2BgfmJxK2dzMK8Wg0DES9EDF8LkaMv1%0ACvjSz3Zlqp7BqvW%2F7g%3D%3D%0A
+
+- Select Services from the left menu.
+
+- Click on the industry that contains the category you want to delete.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130650495/c579d754f85b33bfa30791c8/Screenshot+2024-07-31+at+12_08_34%E2%80%AFPM.png?expires=1763568000&signature=5c6386772cd2d49c1c935e4f10ed1da84718d25a65f668f293addfe3639ff7a4&req=dSEkFs97nYVWXPMW1HO4zRGNg01x2wGEMqwgeX3xLVM6iDR4kv012DZMHiX5%0A3nkB4ZGprZ2vwFYQq8s%3D%0A
+
+- Find the category you need to remove and click the More icon (three dots) in the bottom right corner.
+
+- Select Delete from the dropdown.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130708177/8328af374cba4fdceffa1be4/Screenshot+2024-07-31+at+1_17_57%E2%80%AFPM.png?expires=1763568000&signature=f14fe0ff08737365e568be8bb86c189e75b62bfa7d44ad73c3fdfe1b22ef7474&req=dSEkFs5%2BlYBYXvMW1HO4zecRIC1nGyX8YA9h%2Bewf61cEmxsgOkoQzN97DJh8%0A8KPBKNv39V4%2BQVXNTaE%3D%0A
+
+- Alternatively, categories can be deleted by selecting Edit from the dropdown and clicking Delete in the bottom left corner of the Edit window.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130709840/6bd22333d34c25c7ddb183e7/image.png?expires=1763568000&signature=c0fbce7b78ca1c80cc2b1ff048557aeb78868dfea62c8f2ce418067295572554&req=dSEkFs5%2BlIlbWfMW1HO4zYWD6TbTBxKaVpzr9KL34CaR6i%2FNIebxbxr0tRyc%0A2J%2BuINni7wzveDrjaWo%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/1130710596/b522332b551103aafa5c8127/Screenshot+2024-07-31+at+1_19_45%E2%80%AFPM.png?expires=1763568000&signature=da242017e03be81412d5342f182e7137b43d9231e608e79e7496645f34d8cfbf&req=dSEkFs5%2FnYRWX%2FMW1HO4zW9bscPc3%2FyoXW1mhOcFTcKueY9yNN7nQVKsrQ5J%0AiaDhzrcQGXLulx%2FSzX4%3D%0A
+
+- A confirmation window will appear with the message: “Are you sure you want to delete this category? This will also delete all sub-categories or services under it.”
+
+- Click Delete to confirm.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130708561/f93d10bc0789053d43e6e0b0/image.png?expires=1763568000&signature=c41eb149a59474aa3b1ca6932ecb742812d4312bb7cb2d69b6a9444d3b5fabbd&req=dSEkFs5%2BlYRZWPMW1HO4zXPyR9JkEqNaAmy9fgu3CWYblNh%2FtYFL8N4OyPc5%0ALSbwTsavA1lOyidB7ks%3D%0A
+
+---
+
+---
+
+Managing Price Book Services
+
+Add a Service to Your Price Book
+
+Adding services to your Price Book is key for accurate quotes and streamlined operations. This process helps keep your pricing current, reduces mistakes, and ensures efficient management. Learn how to update your services to enhance your business operations.
+
+To add a service to your Price Book:
+
+- Click the Price book tab in the top navigation bar of your Housecall Pro account. - If you have a lot of features in the top navigation bar, your Price Book may be nested under the More drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/876682846/566d222766cb53b675613f0a/Screenshot+2023-11-06+at+3.43.09+PM.png?expires=1763568000&signature=e5e4982480c6c3382982426c2b7dfdfe4a47877cd87c791ce7b637623744af3d&req=fCchEMF8lYVZFb4f3HP0gBxxQH%2BwFl%2BgfmJxK2dzMK8Wg0DES9EDF8LkaMv1%0ACvjSz3Zlqp7BqvW%2F7g%3D%3D%0A
+
+- Select the industry you need to add the service to.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130650495/c579d754f85b33bfa30791c8/Screenshot+2024-07-31+at+12_08_34%E2%80%AFPM.png?expires=1763568000&signature=5c6386772cd2d49c1c935e4f10ed1da84718d25a65f668f293addfe3639ff7a4&req=dSEkFs97nYVWXPMW1HO4zRGNg01x2wGEMqwgeX3xLVM6iDR4kv012DZMHiX5%0A3nkB4ZGprZ2vwFYQq8s%3D%0A
+
+- From the industry menu, select the category where you want to add a service.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130862181/d4d32171e52ba71da2085533/Screenshot+2024-07-31+at+3_39_40%E2%80%AFPM.png?expires=1763568000&signature=c7788e891358822f414abac51d09dbf2989d822f5532a91cc944c2d86ca0edf0&req=dSEkFsF4n4BXWPMW1HO4zeJ0u%2BOHvRbXQz63R6KIVFrfKFKEuHJFUq2K6Jj%2B%0A37Pd7k8MQc1d6JWQIIQ%3D%0A
+
+- If there are no services listed under a category, you can either click Add Service to include services within that category or click Add Category to create additional sub-categories within the empty category.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130867228/40009d28703bc7fdbbb0a4b9/Screenshot+2024-07-31+at+3_45_01%E2%80%AFPM.png?expires=1763568000&signature=1bc7bee83e3aec0496b3c7975eeacf6d86c28b2dff5e0701262628d4f9c07e9c&req=dSEkFsF4moNdUfMW1HO4zaXYIapgJZ98lCKOQgYFrsAFAgwhBqBJIJ9KOBdU%0Ap2fIqWHzMk7xED7NZTY%3D%0A
+
+- If you already have services listed under a category and want to add a new service, click the Add Service button in the upper right-hand corner of the category.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130866411/5d3d6d83028e4c45b79682c6/Screenshot+2024-07-31+at+3_44_22%E2%80%AFPM.png?expires=1763568000&signature=a4fd71c025e933df7c35c43d8aed86cac4faff0790df76c06e37e406fea58df4&req=dSEkFsF4m4VeWPMW1HO4zSClyALDlWnywCJJsmk8JmgH%2BtXM%2FxRcqb3ticcy%0AJBq5Nlv2C1TcUi6FS0A%3D%0A
+
+- You can then add the following details to the new service: - Service Name: Enter the name of the service you are adding.
+- Description: Provide a detailed description of what the service includes.
+- Task Code: Assign a code to help organize and search for tasks within your price book. This code can also be used to quickly locate line items on jobs.
+- Add Image: Upload an image representing the service. You can choose to upload an image later if you prefer. 
+- Unit: Define the unit of measurement for the service (e.g., per hour, per job, square foot, each).
+- Service Cost: Specify the cost incurred to provide the service.
+- Service Price: Enter the price that customers will pay for the service.
+- Taxable: Indicate whether the service is subject to tax.
+- Online Booking: Use the toggle to enable or disable online booking for this service.
+- Service Duration: Specify the duration of the service using hours (0-8) and minutes (0, 15, 30, 45). This helps manage scheduling and availability.
+- Book This Service As: Choose whether the service can be booked online as a job or an estimate.
+- Assign Service to Employee: Select an employee or tag from the dropdown menu to assign the service based on their skills.
+- Troubleshooting Questions: Add questions that will help gather information about potential issues. These questions will be displayed during the online booking process.
+- Add to Favorites: Click the star icon in the upper right-hand corner to mark this service as a favorite. This makes it easier to access and add this service to line items on jobs in the future.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130962433/7c98a6b6f7c0e23a9151faa4/Screenshot+2024-07-31+at+5_14_09%E2%80%AFPM.png?expires=1763568000&signature=96094126fccf02e242d698d9808336986889915e49aa62ac0772b887a9c07fba&req=dSEkFsB4n4VcWvMW1HO4zQ4Fiz83mDLF9hTugR4V4HOgudXOWvu9ApFGiZVu%0AK6%2BJYNKgvCfPmUNJpHQ%3D%0A
+
+If you have Flat Rate Pricing enabled, you will have the following options:
+
+- Flat Rate: If flat rate pricing is not yet active, you’ll see an option to "Turn on flat rate pricing today." If it’s already set up, use the toggle to enable it. For more details, refer to this article.
+
+- Labor Rates: Set the hourly rates for labor associated with the service. For more information on setting labor rates, refer to this article.
+
+- Materials: Add materials required for the service. Use the toggle to track these materials on jobs. This automatically adds materials to jobs for accurate job costing, but they will be tracked as inputs and won't be visible to the customer.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130964464/ff30727c3cd6bcde2359f399/Screenshot+2024-07-31+at+5_37_23%E2%80%AFPM.png?expires=1763568000&signature=01c9786348f74da9079a235304e157116201853b8c2a3b9e58234110726c43e0&req=dSEkFsB4mYVZXfMW1HO4zRn%2Bm4UL7LwqI9q2muN47ovMZjBWbU9g5qDuqlND%0A0MEcY8cVkl2pFd9h6zI%3D%0A
+
+- If you choose to add an image during the creation of a service, click the Add Image button.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1131021369/5789d7363bf9427e4b558fa1/AD_4nXe6adr9P7gaIwFTzA9T0G-ZzlKmcvSQL_UNX8NTET67X5GfasL9lXBw4td49MDEGaS7vjDHJt3RdShfipsX6kD-V8xJi6wzHT3s2YDWiHBPVx4xsbgLmeaJ40tz0AhB9SnxwMgadB8QFgHOXca3DLaundE?expires=1763568000&signature=81bc7ac4ea2e3e5ec642db5b829cd49aa0ee1912514831f67f93cf6376c99e04&req=dSEkF8l8nIJZUPMW1HO4zZg16lyDEfUpzGYpbOaZ8PgzmGM%2BYmpicK3fQdJS%0Ap3npiljbRgnXGSoQhjg%3D%0A
+
+- After entering all the details, click Save in the top right corner of the page to add your new service.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130945415/56e270125cfa7da69410fff0/Screenshot+2024-07-31+at+5_13_10%E2%80%AFPM.png?expires=1763568000&signature=bb508b502994fe5cce78f690f01fb2980ef9573ba8e0dcc7a40101bd446c8749&req=dSEkFsB6mIVeXPMW1HO4zTZV7emJogetQYE%2FV7US2cHXW8SAYzHdwtFwxgWX%0ARe8NtSBYuDz6BN1KITY%3D%0A
+
+---
+
+Edit a Service
+
+To edit a service in your Price Book:
+
+- Click the Price Book tab in the top navigation bar of your Housecall Pro account. - If you have a lot of features in the top navigation bar, your Price Book may be nested under the More drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/876682846/566d222766cb53b675613f0a/Screenshot+2023-11-06+at+3.43.09+PM.png?expires=1763568000&signature=e5e4982480c6c3382982426c2b7dfdfe4a47877cd87c791ce7b637623744af3d&req=fCchEMF8lYVZFb4f3HP0gBxxQH%2BwFl%2BgfmJxK2dzMK8Wg0DES9EDF8LkaMv1%0ACvjSz3Zlqp7BqvW%2F7g%3D%3D%0A
+
+- Select the industry, then the category, that contains the service you need to edit.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130650495/c579d754f85b33bfa30791c8/Screenshot+2024-07-31+at+12_08_34%E2%80%AFPM.png?expires=1763568000&signature=5c6386772cd2d49c1c935e4f10ed1da84718d25a65f668f293addfe3639ff7a4&req=dSEkFs97nYVWXPMW1HO4zRGNg01x2wGEMqwgeX3xLVM6iDR4kv012DZMHiX5%0A3nkB4ZGprZ2vwFYQq8s%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/1130862181/d4d32171e52ba71da2085533/Screenshot+2024-07-31+at+3_39_40%E2%80%AFPM.png?expires=1763568000&signature=c7788e891358822f414abac51d09dbf2989d822f5532a91cc944c2d86ca0edf0&req=dSEkFsF4n4BXWPMW1HO4zeJ0u%2BOHvRbXQz63R6KIVFrfKFKEuHJFUq2K6Jj%2B%0A37Pd7k8MQc1d6JWQIIQ%3D%0A
+
+- Click the More icon (three dots) to the right of the service you need to edit.
+
+[Image] https://downloads.intercomcdn.com/i/o/1131022922/4f096f2226b06edc5700fc03/Screenshot+2024-07-31+at+7_18_18%E2%80%AFPM.png?expires=1763568000&signature=36ebb4b3e8abf5e7fc6203cff04f5d3e95c14fe8d97abf17fef65443ccd8adb0&req=dSEkF8l8n4hdW%2FMW1HO4zevPAzJ0%2FElWA0Hi0eTqUEV1VSeftw%2FQu6wxMD2N%0ARhj32NA1EOokd%2BZWrnk%3D%0A
+
+- Select Edit from the dropdown.
+
+[Image] https://downloads.intercomcdn.com/i/o/1131022740/618f676efd2eb7f28bb3ffd7/image.png?expires=1763568000&signature=899161813f76c5987f4028b0916a092d025287e8782f7eb1ff04e33588ca1e9e&req=dSEkF8l8n4ZbWfMW1HO4zaYo8Pv98L0lJybef%2FVt4aabU4P578O44BStLfxw%0AMGNZAp0IgvPudpIU908%3D%0A
+
+You can then edit the following details of the existing service:
+
+- Service Name: Update the name of the service as needed.
+
+- Description: Modify the description to provide more accurate or detailed information about the service.
+
+- Task Code: Change the code used for organizing and searching tasks within your price book. This helps with quick identification of line items on jobs.
+
+- Add or Replace Image: Change the image representing the service. You can choose to upload a new image later if you prefer.
+
+- Unit: Adjust the unit of measurement for the service (e.g., per hour, per job, square foot, each).
+
+- Service Cost: Update the cost incurred to provide the service.
+
+- Service Price: Change the price that customers will pay for the service.
+
+- Taxable: Modify whether the service is subject to tax.
+
+- Online Booking: Toggle the setting to enable or disable online booking for this service.
+
+- Service Duration: Adjust the duration of the service in hours (0-8) and minutes (0, 15, 30, 45) to better manage scheduling and availability.
+
+- Book This Service As: Update whether the service can be booked online as a job or an estimate.
+
+- Assign Service to Employee: Change the employee or tag assigned to the service based on their skills.
+
+- Troubleshooting Questions: Edit or add questions that will help gather information about potential issues, which will be shown during the online booking process.
+
+- Add to/Remove from Favorites: Click the star icon to mark or unmark this service as a favorite, making it easier to access for future jobs.
+
+[Image] https://downloads.intercomcdn.com/i/o/1131812535/f3a51910c36416905bae98a0/Screenshot+2024-08-01+at+11_25_20%E2%80%AFAM.png?expires=1763568000&signature=f28e4303ed7664ef12826fc74d150386a4dac7f7420041864cdb2921c15e13f3&req=dSEkF8F%2Fn4RcXPMW1HO4zUrbeEl9nqwh5VoGrJ9fvGouUqgeCmIKGa29gVku%0A7nsGtOEGHIj4OGD44sc%3D%0A
+
+If you have flat rate pricing enabled, you will have the following options:
+
+- Flat Rate: If flat rate pricing is not yet active, you’ll see an option to "Turn on flat rate pricing today." If it’s already set up, use the toggle to enable it. For more details, refer to this article.
+
+- Labor Rates: Update the hourly rates for labor associated with the service. For more information on setting labor rates, refer to this article.
+
+- Materials: Update materials required for the service. Use the toggle to track these materials on jobs. This automatically adds materials to jobs for accurate job costing, but they will be tracked as inputs and won't be visible to the customer.
+
+[Image] https://downloads.intercomcdn.com/i/o/1131815078/e3b40f412a6c6130ccf8b0c4/Screenshot+2024-08-01+at+11_30_14%E2%80%AFAM.png?expires=1763568000&signature=75ece8aa6ca810b82c2f21f2778ccf1fe7b1e4122edfee444d219026e7679fb0&req=dSEkF8F%2FmIFYUfMW1HO4zctR0fMlUpsiL%2FhEYa24LpIeZcC720hxbp5aLq1u%0AV2V2%2Bk2CK3B%2FOYKTflI%3D%0A
+
+- To update the image for the service, hover over the existing image and click Replace Image.
+
+[Image] https://downloads.intercomcdn.com/i/o/1131026730/6b4c07d0a62f54a64a68a945/image.png?expires=1763568000&signature=dbb260f9cb94c9ff4643d4129c9b0ded9eca975159c47e3719e455e466c8183a&req=dSEkF8l8m4ZcWfMW1HO4zTxD0RCRA4I63whrC5ykdSHJDrFY%2BZZO3Ct%2BW9Jp%0A7I11QTzdveqOUhFjwyg%3D%0A
+
+- If no image has been added yet, click Add Image to upload a new one.
+
+[Image] https://downloads.intercomcdn.com/i/o/1131027924/009db6888be5b2b5844f9f99/image.png?expires=1763568000&signature=2da658c1edf7e8d881be61ec3b00b8e3af83ee8deb983e87849f24c0d569e286&req=dSEkF8l8mohdXfMW1HO4zQGeZIdR6BFOEdoNJ4eK2E5g05h7XxPM2d3hLrNp%0AOqKa%2F1WnB6geokLiwhE%3D%0A
+
+- After entering all the details, click Save in the top right corner of the page to save your changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130945415/56e270125cfa7da69410fff0/Screenshot+2024-07-31+at+5_13_10%E2%80%AFPM.png?expires=1763568000&signature=bb508b502994fe5cce78f690f01fb2980ef9573ba8e0dcc7a40101bd446c8749&req=dSEkFsB6mIVeXPMW1HO4zTZV7emJogetQYE%2FV7US2cHXW8SAYzHdwtFwxgWX%0ARe8NtSBYuDz6BN1KITY%3D%0A
+
+---
+
+Delete a Service
+
+To delete a service from your Price Book:
+
+- Click the Price Book tab in the top navigation bar of your Housecall Pro account. - If you have a lot of features in the top navigation bar, your Price Book may be nested under the More drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/876682846/566d222766cb53b675613f0a/Screenshot+2023-11-06+at+3.43.09+PM.png?expires=1763568000&signature=e5e4982480c6c3382982426c2b7dfdfe4a47877cd87c791ce7b637623744af3d&req=fCchEMF8lYVZFb4f3HP0gBxxQH%2BwFl%2BgfmJxK2dzMK8Wg0DES9EDF8LkaMv1%0ACvjSz3Zlqp7BqvW%2F7g%3D%3D%0A
+
+- Select the industry, then the category, that contains the service you need to delete.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130650495/c579d754f85b33bfa30791c8/Screenshot+2024-07-31+at+12_08_34%E2%80%AFPM.png?expires=1763568000&signature=5c6386772cd2d49c1c935e4f10ed1da84718d25a65f668f293addfe3639ff7a4&req=dSEkFs97nYVWXPMW1HO4zRGNg01x2wGEMqwgeX3xLVM6iDR4kv012DZMHiX5%0A3nkB4ZGprZ2vwFYQq8s%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/1130862181/d4d32171e52ba71da2085533/Screenshot+2024-07-31+at+3_39_40%E2%80%AFPM.png?expires=1763568000&signature=c7788e891358822f414abac51d09dbf2989d822f5532a91cc944c2d86ca0edf0&req=dSEkFsF4n4BXWPMW1HO4zeJ0u%2BOHvRbXQz63R6KIVFrfKFKEuHJFUq2K6Jj%2B%0A37Pd7k8MQc1d6JWQIIQ%3D%0A
+
+- Click the More icon (three dots) to the right of the service you need to delete.
+
+[Image] https://downloads.intercomcdn.com/i/o/1131022922/4f096f2226b06edc5700fc03/Screenshot+2024-07-31+at+7_18_18%E2%80%AFPM.png?expires=1763568000&signature=36ebb4b3e8abf5e7fc6203cff04f5d3e95c14fe8d97abf17fef65443ccd8adb0&req=dSEkF8l8n4hdW%2FMW1HO4zevPAzJ0%2FElWA0Hi0eTqUEV1VSeftw%2FQu6wxMD2N%0ARhj32NA1EOokd%2BZWrnk%3D%0A
+
+- Select Delete from the dropdown.
+
+[Image] https://downloads.intercomcdn.com/i/o/1131848803/4e205bf41a600397db7293c8/Screenshot+2024-08-01+at+11_56_46%E2%80%AFAM.png?expires=1763568000&signature=286b314fddd353c8358d4fd623f79142386e11c93d6ee2db0395e1cd05fc6c40&req=dSEkF8F6lYlfWvMW1HO4zfeq2OPI5CuvzhEncQjbucsI5ftnKEyI7lj86Vr9%0AlvbZtpTmv%2Be1AsMYfjY%3D%0A
+
+- Click Delete Service in the bottom left corner of the edit screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/1131881400/7cdb52ce3d2a1cbef55e4e0f/Screenshot+2024-08-01+at+12_22_06%E2%80%AFPM.png?expires=1763568000&signature=1a8fee97d766eb32f5889320a9c02259bc09e053deab17bbecf02e45d9d2eb73&req=dSEkF8F2nIVfWfMW1HO4zQ4WzercNN7n0SnUx1tnHFpHtpPEhkdbdphSxtoW%0AdZQyRr6W0y2SAqyZufY%3D%0A
+
+- Click Delete in the window that appears to confirm and delete the service.
+
+[Image] https://downloads.intercomcdn.com/i/o/1131885359/e6d55493ea20e904d430f5f4/image.png?expires=1763568000&signature=1e8d298617eda24f670c732e641dc095cd907c85787109e00fc19fda602a8320&req=dSEkF8F2mIJaUPMW1HO4zb1lVwTOdptFDcvVmF9Apj6SkxUbXpf1dLHVUspk%0Ayd4faa25mKYXQ%2B8TK6g%3D%0A
+
+---

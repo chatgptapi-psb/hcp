@@ -1,0 +1,311 @@
+Flat Rate Pricing Overview
+Source: https://help.housecallpro.com/en/articles/5461788-flat-rate-pricing-overview
+Author: Michael Storer
+Last updated: Updated over a week ago
+
+Summary: Set up and customize flat rate pricing with our guide on material markups, labor rates, and service creation.
+
+Getting Started with Flat Rate Pricing
+
+Say goodbye to guesswork and safeguard your bottom line with Housecall Pro’s flat rate pricing feature. Housecall Pro's flat rate pricing feature empowers you to create reliable, profitable pricing for every service by integrating your actual costs.
+
+In this article, we’ll guide you through the essential steps to enable flat-rate pricing, set material markups, and set labor rates. For detailed instructions on setting up your materials, please refer to our help article on Materials. By following these steps, you'll streamline your operations and confidently price your services to protect your margins and enhance your business’s efficiency.
+
+Once you've completed these steps, your flat rate services will be set up and ready to go. Material markups and labor rates will be applied automatically, ensuring accurate and efficient pricing for your services. If you update any material markups, the system will adjust the prices for materials accordingly.
+
+---
+
+---
+
+Step 1: Enable Flat Rate Pricing
+
+The first step in setting up flat rate pricing is to enable the Flat Rate Pricing tool.
+
+- Navigate to the My Apps section by clicking the 3x3 square icon in the upper right corner of your Housecall Pro account.
+
+- From the dropdown menu, click Go to App store.
+
+[Image] https://downloads.intercomcdn.com/i/o/740808034/1f4a722c6bd48a6b676d677b/image.png?expires=1763568000&signature=7c554f964ed4ed33d9550ca1935176727349db9c91d185975cd807a57629754b&req=cyQnHsl2nYJbFb4f3HP0gLNkV0KarjAvcngUFJtQ4PRlD89lHbY1gk7WQsQy%0A0MlN5QSzWo3di9fXNA%3D%3D%0A
+
+- From the App Store page, locate and select the Flat Rate Pricing app card.
+
+[Image] https://downloads.intercomcdn.com/i/o/1138040477/4bf44eb5e7b1e8f8dfdc35b9/Screenshot+2024-08-07+at+1_34_07%E2%80%AFPM.png?expires=1763568000&signature=65ba9100f786fb6b0811e1797a788a683bfce65e8b278b21880a7e74966a34fe&req=dSEkHsl6nYVYXvMW1HO4zTSfnLu%2FplI44cFWk3OITjzzIhd4IZSp6pXHtj%2Fe%0Az3NyiBWIPoyfdlUOqME%3D%0A
+
+- On the app details page, use the toggle in the upper-right corner to enable Flat Rate Pricing. To disable it, simply switch the toggle off.
+
+[Image] https://downloads.intercomcdn.com/i/o/1138040302/e6a91444c396afad7cfeca97/Screenshot+2024-08-07+at+1_35_03%E2%80%AFPM.png?expires=1763568000&signature=493800a687954811032dd67e5fb085f7e4ef723fa10eed833c313ed6028f23a1&req=dSEkHsl6nYJfW%2FMW1HO4zbRHYWIjC%2Bn8Gl%2FmkV%2BiiECtR%2BzxaCn3rZNi4hqp%0A5Ia8NW2PKUDb75Dpwhg%3D%0A
+
+- Click the arrow in the upper left-hand corner to return to the App Store.
+
+[Image] https://downloads.intercomcdn.com/i/o/1138048650/d0f9a6bfec33eeb12820ded3/Screenshot+2024-08-07+at+1_42_18%E2%80%AFPM.png?expires=1763568000&signature=d9bd10c79262b9e7605c4746c877a7f46ed2a3e76b59955977e06b93c7bb4115&req=dSEkHsl6lYdaWfMW1HO4zVqBb8ibpeiIlbXSq2L1VdnceQXgX8SKzgq9Z0LX%0A%2FmuzsKZzgOL%2FBemEVMQ%3D%0A
+
+---
+
+Step 2: Set Up Materials for Flat Rate Pricing
+
+For detailed instructions on setting up materials, refer to our help article on setting up materials. This step is essential for defining the materials you'll use in your flat rate services.
+
+---
+
+---
+
+Step 3: Customize Material Markups for Flat Rate Pricing
+
+Housecall Pro’s flat rate pricing feature offers a precise way to calculate service pricing based on your business inputs. An essential aspect of this feature is the ability to customize your material markups, which ensures your pricing is both accurate and profitable.
+
+Customizing material markups allows you to apply a consistent markup across various price points for your materials. By specifying the cost range for your materials and choosing the appropriate percentage markup, you ensure that each material is priced to cover costs and generate the desired profit.
+
+Housecall Pro will handle the calculations, automatically applying these markups to materials in your Price Book that fall within the defined cost ranges. This approach not only simplifies your pricing strategy but also helps maintain consistency and accuracy across all your services.
+
+To customize your material markups, follow these steps:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Price Book from the Settings menu on the left.
+
+- Click the Materials tab on the Price Book settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643669349/963e322dc0ecb6e6979c6f01e2e0/image.png?expires=1763568000&signature=6afed875e69b86423a8312354aa90b35781540c474bf7cd30bd99fc155ef7aad&req=dSYjFc94lIJbUPMW1HO4zUybrFEikUUklYfakKlhOhBFHVBVJgMctD5TOaqh%0AddhIuyuSvdgtAgc1Kms%3D%0A
+
+- From the left-hand menu, select Material markups.
+
+[Image] https://downloads.intercomcdn.com/i/o/1139140184/6ce109defc7e782a07a5e587/Screenshot+2024-08-08+at+11_52_53%E2%80%AFAM.png?expires=1763568000&signature=26a95027522e15c9779248bfc905e139c6b0218fcd3a80b8a2d492ff4aa8d8e7&req=dSEkH8h6nYBXXfMW1HO4zWX9T1otaWTyG16wC%2BCtkvoBc4Po5oZTzWey4lo9%0Ahe6gHWtEVFx4vwSI6PM%3D%0A
+
+- Click Edit in the upper right-hand corner of the Material Markups page to adjust the default settings we’ve provided. These defaults are designed to help you get started with ease.
+
+- You can modify the cost range and select the percentage markup you wish to apply. Housecall Pro will then calculate the profit margin for each tier based on your choices. This allows you to tailor your material pricing precisely to meet your business needs and enhance your profitability.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643674499/711be64707e6e15eb004d5f8ee92/image.png?expires=1763568000&signature=a28acd5e8177d43d32bdd618516313d3ce108486e915158ea91b2e7aa747e9da&req=dSYjFc95mYVWUPMW1HO4zRQ3lNTKSSlyzZJ2OBF2nAbWXEdHQoqOvF9m5Drv%0ALQPWVboPK%2BLB8ytfYlU%3D%0A
+
+- Once you click Edit in the upper right-hand corner of the Material Markups page, you gain the ability to customize the default markup settings.
+
+- Click the More icon (three dots) next to the markup, and you can add, remove, or split markup tiers to better match your pricing strategy.
+
+- To add more markup tiers, click + Markup in the bottom left corner while in Edit mode. This allows you to introduce additional pricing ranges and corresponding markups.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643677587/2237276883458846d302d7f65b4a/image.png?expires=1763568000&signature=0540d2c7d7042f6aa77aaaa8725e0d09447aa85e13b65ffa042d9a9be11f775e&req=dSYjFc95moRXXvMW1HO4zT%2FC5cu8N1hH49ZqWyv76uKDiZp70r3ifgLWcI4L%0AOUV9vS6oY49qIcHxr1o%3D%0A
+
+If you need to refine your markup tiers further, you can split or merge rows:
+
+- Split Rows: Click the three stacked dots on the right-hand side of the row and select Split rows. This action creates two separate markups within one cost range. The markup difference will be divided evenly between the high and low ends of the cost range you specified, and the markup and profit percentages will be updated accordingly. Splitting rows is useful when you want to apply more precise markups within a cost range, allowing for better differentiation in pricing based on material cost variations.
+
+- Merge Rows: Similarly, select Merge rows from the three stacked dots menu. This will combine multiple rows into a single markup calculation. The resulting row will use the lowest cost value from the original rows and extend to the highest cost value. The highest markup percentage from the original rows will be applied. Merging rows is beneficial for simplifying your price book when multiple cost ranges are similar or when you want to streamline your markup structure.
+
+- Customizing your markups by splitting or merging rows ensures that your pricing reflects the true cost and profitability of your materials, allowing you to manage your margins more effectively.
+
+[Image] https://downloads.intercomcdn.com/i/o/431526144/7a7cd515df3c3287491e3bfe/image.png?expires=1763568000&signature=63ad8b2ae61d1dd6113b066232017d199de40b20ef62c7f271518ccef23e13f5&req=cCMmE8t4nIVbFb4f3HP0gHl4ziDiObltCqX%2Fyrnk5Pp6BpogSnQOrgMmx6uo%0A%2B8rOO5iTnxG7V7FWXg%3D%3D%0A
+
+---
+
+Mark Up Example
+
+If you mark up a material by 100% that costs your business $10, but you charge $20 for then the breakdown would look something like this:
+
+Table:
+Row 1: Price for customers | $20.00
+Row 2: Cost of materials | $10.00
+Row 3: Profit | $10.00
+Row 4: Profit margin | 50%
+
+---
+
+How to Apply Material Markups in Your Price Book
+
+Once you have enabled flat rate pricing and material markups, you’ll see a new toggle option when adding or editing materials. Please refer to our article on the Materials Price Book for instructions on how to edit or add materials and apply material markups.
+
+[Image] https://downloads.intercomcdn.com/i/o/431426576/16d1dcbf091ee4b5c6cba91a/usematerialmarkup.png?expires=1763568000&signature=6690fcc2bc26028f46f1519bda7554bd16ed6e9fa5149f3400152edd706de574&req=cCMmEst4mIZZFb4f3HP0gBNZ5TvMcBrAm3twHyGAvMRArjSdsI%2FOCy7z%2B8rY%0AxHj4ksfFLhhNFXrT6g%3D%3D%0A
+
+---
+
+---
+
+Step 4: Calculate Break-Even Labor Rates for Flat Rate Pricing
+
+Before diving into setting up labor rates for flat rate pricing, it’s crucial to understand your cost structure.
+
+The Total Annual Cost of Doing Business Calculation Template below is a valuable tool for this. It helps you calculate the total expenses associated with running your business, which is essential for determining accurate pricing.
+
+To calculate your Total Annual Cost of Doing Business, follow the steps outlined in the template below.
+
+---
+
+Total Annual Cost of Doing Business Calculation Template
+
+The first step in finding your break-even labor rate is to calculate your Total Labor Costs. Add up the following expenses to get your Total Labor Costs:
+
+- Owner’s Salary: What you pay yourself.
+- Admin Salary: Wages for office staff.
+- Tech Wages: Pay for your technicians.
+- Other Salaries: Pay for any other employees.
+- Payroll Processing: Costs for managing payroll.
+- Payroll Taxes and Benefits: Taxes and benefits for your employees.
+- Contractors' Expense: Payments to any outside contractors.
+
+The second step is to calculate your Total Overhead Costs. Add up the following expenses to find your Total Overhead Costs:
+
+- Building Costs: Rent or mortgage for your office or workspace.
+- Technology: Costs for computers, software, and other tech.
+- Advertising and Promotion: Money spent on marketing and ads.
+- Insurance: Insurance premiums for your business.
+- Vehicles: Costs related to company vehicles.
+- Other Services: Fees for other services you use.
+- Finance: Costs related to loans or financing.
+- Supplies and Tools: Costs for necessary supplies and tools.
+
+The third step is calculating your Total Annual Cost of Doing Business. To calculate your Total Annual Cost of Doing Business:
+
+- Add your Total Labor Costs + Total Overhead Costs together. - This gives you your Total Annual Cost of Doing Business, which is the total amount needed to run your business.
+
+[Image] https://downloads.intercomcdn.com/i/o/433766893/d4d745062efc42a8060dfbba/image.png?expires=1763568000&signature=0be954bebf47d4d78b483b16d1308b43f2b223b17a83b314f993b61063073f23&req=cCMkEc94lYhcFb4f3HP0gJR8ujq85xMXYh%2B0AAjBtbUa9sfJfqGhhgCxt2Ws%0AbmutyrDeEXvzG%2BSdwQ%3D%3D%0A
+
+---
+
+Example Calculation
+
+This section provides a practical example to help you understand how to determine your break-even labor rate. Now that you’ve used the Total Annual Cost of Doing Business Calculation Template to determine your total expenses, the next step is to translate these costs into a rate that ensures you cover your expenses and achieve profitability. This example will guide you in setting an effective pricing strategy by calculating your break-even labor rate.
+
+Step 1: Calculate Weekly Costs
+
+Once you’ve calculated your Total Annual Cost of Doing Business, you need to break it down into weekly costs. For example, if your Total Annual Cost of Doing Business is $480,000:
+
+- Weekly Cost = Annual Total Cost of Doing Business / 52
+- Weekly Cost = $480,000 / 52 = $9,230.77
+
+Step 2: Determine Your Average Billable Hours per Week
+
+Next, estimate your average billable hours per week. Here’s how:
+
+- Estimate Jobs Per Day: Determine how many jobs each technician handles daily. For example, if each technician completes 2 jobs per day and you have 4 technicians: - Total Jobs Per Day = Number of Technicians × Jobs Per Day
+- Total Jobs Per Day = 4 techs × 2 jobs/day = 8 jobs/day
+
+- Calculate Jobs Per Week: Multiply the daily total by the number of working days in a week. Assuming a Monday to Friday schedule: - Total Jobs Per Week = Jobs Per Day × Days Per Week
+- Total Jobs Per Week = 8 jobs/day × 5 days = 40 jobs/week
+
+- Determine Billable Hours: Multiply the total number of jobs per week by the average time each job takes. If each job takes 2 hours: - Average Billable Hours Per Week = Jobs Per Week × Hours Per Job
+- Average Billable Hours Per Week = 40 jobs × 2 hours/job = 80 billable hours/week
+
+Step 3: Calculate Your Break-Even Labor Rate
+
+Finally, determine your break-even labor rate by dividing your weekly costs by your average billable hours:
+
+- Break-Even Labor Rate = Weekly Cost / Average Billable Hours
+- Break-Even Labor Rate = $9,230.77 / 80 = $115 per hour
+
+The Break-Even Labor Rate of $115 per hour is the amount you need to charge to cover all your costs and achieve profitability. This rate ensures that each billed hour contributes to meeting your expenses. It’s crucial to periodically review and adjust this rate as your costs or business conditions change, to keep your pricing strategy aligned with your financial goals.
+
+---
+
+Video Tutorial: Break-Even Labor Rate
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/ogmxlb8cqi
+
+---
+
+---
+
+Step 5: Set Up Labor Rates for Flat Rate Pricing
+
+To create or edit your labor rates for Flat Rate Pricing, follow these steps:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Price Book from the Settings menu on the left.
+
+- Click the Labor rates tab on the Price Book settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643685943/1634b3cfa7056e2b17e4e96b8d31/image.png?expires=1763568000&signature=131b6d1f4c3ded6669b903c9848d45204aac90dfae32efc9600fc47cdcdabc62&req=dSYjFc92mIhbWvMW1HO4zVMpGo5Zp5%2BgYX2MjtN4hd0RfL8FTjJiXEj03eFZ%0A97hb2S%2F%2FIQwHvU7JA24%3D%0A
+
+- Click the Edit button in the top right-hand corner of the Labor rates page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643697842/876b9339e07a1fb736481e47c70a/image.png?expires=1763568000&signature=055eece570f2a5145b35a258c962305c8ca567e3025713797bda80c0cd0cb6de&req=dSYjFc93molbW%2FMW1HO4zfwPAV2Z2JH%2BMAaKZ73gWWftGiFRlXR6sU4Bn6hN%0AiueqdDRN0R79gj15rV8%3D%0A
+
+- If you don't have labor rates set up yet, create a new one by clicking the + Labor Rate button.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643700378/72369a918f83afdc771647dd7252/image.png?expires=1763568000&signature=426966a84bbdbd10eda52e1244a73edf369a3186f71f1e3b3db46aab103fe8b4&req=dSYjFc5%2BnYJYUfMW1HO4zUv0JOCT6zSeqyTlxcJrCQgg5wS7K1Qfa4t9d7FA%0ANt94qshgCl0KILPXJA8%3D%0A
+
+- Enter a description for the labor rate, set the hourly cost, and specify the hourly price.
+
+- Additionally, you can select the radio button next to a labor rate to designate it as the Default Flat Rate.
+
+- Click Save to apply your changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643704000/7f32bcc63211f66e4eaf931fee95/image.png?expires=1763568000&signature=7c53db313b3b6ab2acc1d59cd8802f49959fe610f24bc2144779dc1d4c3a5fa9&req=dSYjFc5%2BmYFfWfMW1HO4zdu0nbycWHuZYsdKhS3DNWEQFRm79ZDD7etHghDe%0AMwv9apn7ccHaesu0yAU%3D%0A
+
+---
+
+---
+
+Step 6: Create and Edit Flat Rate Services
+
+Once you have enabled flat rate pricing, you’ll find a Calculate Flat Rate Price toggle in the pricing section when creating or editing services. This toggle generates a price based on the cost of labor, materials, and the service itself, displaying both the markup and gross margin.
+
+If you have set up labor rates, these will be automatically applied. You can adjust the job hours using the hour field and add additional labor rates by clicking + Labor Rate Item. In the materials section, search for existing materials or add new ones using the + Materials option.
+
+For detailed guidance on how to edit or add services, apply labor rates, and calculate flat rate pricing, please refer to our help article on the Service Price Book.
+
+---
+
+Video Tutorial: Guide to Flat Rate Pricing
+
+Watch the video below for more details and guidance in turning on flat-rate pricing, setting up your materials and labor rates, and building services that use flat-rate pricing!
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/5xwcaxs0k4
+
+---
+
+---
+
+Flat Rate Pricing on Mobile
+
+This section provides information on how to view and edit flat rate items on mobile, depending on your specific setup.
+
+For comprehensive editing of your flat rate services, we highly recommend using the web portal. This ensures you can manage your flat rate items accurately within your Price Book on the web.
+
+---
+
+Flat Rate Services on Mobile
+
+If you have services that are flat rate enabled, you will see a banner when editing or creating a service: "This is a flat rate service. Visit the website to manage cost and price." This banner notifies you that the service is a flat rate item.
+
+Please note that if you want to turn off material markups for a material, this action must be performed from your Price Book on the web. Doing so will unlock the cost and price fields for future modifications on mobile.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/610234709/fac0a12d031f0e4c235f67fd/image.png?expires=1763568000&signature=1c4a98a53ff4a99815730443aa4f7bd5fe7d160153eebb34d9b5951ef838e997&req=ciEnFMp6moFWFb4f3HP0gKnokyplk6DnEXXbii%2FV67LCx9Hxae%2FGNBTM%2FbH%2F%0ARB0%3D%0A | Fields you can continue editing on mobile: - Service name
+- Service description
+- Category location of the service
+- Unit type
+- Taxable on/off
+- Service image
+- Online Booking on/off Fields you will need to modify and manage on web: - Cost
+- Price
+
+---
+
+Flat Rate Materials on Mobile
+
+If you have a material with material markup enabled, you will see the following banner when editing or creating the material: "This item uses a flat rate material markup. Visit the website to manage cost and price." This banner notifies you that the material is marked up.
+
+Keep in mind that if you want to turn off material markups for a material, you must do so from your Price Book on the web. This will unlock the cost and price fields, allowing for future modifications on mobile.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/610231464/4a68da1822549e0b37582adb/image.png?expires=1763568000&signature=701487f6cd155bd2f5665664eca842b2a78d7973c12e0239ce5b5c567ef28cb3&req=ciEnFMp%2FmYdbFb4f3HP0gNX5gqTKI4Xubfk0eKtFKothkBpvQNmNP74jPP3U%0A80o%3D%0A | Fields you can continue editing on mobile: - Material name
+- Material description
+- Category location of the material
+- Unit type
+- Taxable
+- Material image Fields you will need to modify and manage on web: - Cost
+- Price
+
+For more information on Price Book Mobile features, please review our Help Center article on the key features of Price Book Mobile.
+
+---
+
+Key Callouts for Flat Rate Pricing on the HCP Mobile App
+
+- Flat rate items added to jobs or estimates can still be modified on a case-by-case basis. However, these changes will apply specifically to the items in your Price Book.
+
+- These modifications protect your flat rate services, especially prices, from being overridden on mobile, particularly for items with linked labor rates and materials.
+
+- For Flat Rate Profit Rhino items managed by Profit Rhino, any modifications will need to be made in the Pro Managed section on the web. For more information on using Profit Rhino, please refer to our help article on Profit Rhino
+
+---

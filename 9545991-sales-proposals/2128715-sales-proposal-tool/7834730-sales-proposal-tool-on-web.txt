@@ -1,0 +1,136 @@
+Sales Proposal Tool on Web
+Source: https://help.housecallpro.com/en/articles/7834730-sales-proposal-tool-on-web
+Author: Nate H
+Last updated: Updated over 2 months ago
+
+Summary: Create proposals quickly and easily on web with our updated Sales Proposal Tool.
+
+Sales Proposals on the HCP Web Portal
+
+You can customize each proposal to fit any customer's needs to increase your close rates on larger projects. This article provides a detailed guide on how to create proposals on the web. Click here for information on creating proposals using our iOS and Android apps.
+
+---
+
+Accessing the Sales Proposal Tool
+
+The Sales Proposal Tool is built on top of the current estimates feature, bringing the best of proposals and estimates into one product. With this tool, you can take advantage of estimates-specific functionalities like adding attachments, using checklists, or scheduling while also creating visually appealing proposals.
+
+---
+
+Creating Sales Proposals
+
+To create a sales proposal:
+
+- Start by creating an estimate. You can create an estimate from the customer's profile by clicking the '+ Estimate' button on the customer profile.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1243217341/5f4e2d5bb66d7d755a09eb80070c/Screenshot+2024-11-07+at+15_14_35.png?expires=1763568000&signature=acc105bb0c98b730da0fc9c198a5d90034d598823e6251716a806761acb48d80&req=dSIjFct%2FmoJbWPMW1HO4zfbqlA94KS1zwo77Kx3CaaacIn8FPOfExcrHh%2Frd%0AnvVjbrfvwSiqaTNyIDY%3D%0A
+
+- Alternatively, you can create an estimate by clicking the 'New' button in your top navigation bar and selecting 'Estimate' from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1243218064/7bc3da7900866ddb967134847e31/Screenshot+2024-11-07+at+15_12_00.png?expires=1763568000&signature=0842a22a1d66916a7286a5fe9e1ed994144e349b5e62a32fa038777c3bf1a8ad&req=dSIjFct%2FlYFZXfMW1HO4zU%2Bi%2BHWwm273%2F9h46af4iuWp%2BiEs1MIqbyDuFxbi%0AtsRWMlwzld9wDGeoUcA%3D%0A
+
+- Then, add the customer and click 'Save.'
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1243218607/ae73467ba079970d3804c201bce3/Screenshot+2024-11-07+at+15_12_00.png?expires=1763568000&signature=701bcca6e65b9c959d7234f26749123dad02d8e735fe5af9b9e865c0bad50657&req=dSIjFct%2FlYdfXvMW1HO4zac8zjoRuuzGxyG4hW%2FYUrCJpeqG3esVrZ2a37zY%0A3zCpu6k%2B20n3ESKmFAQ%3D%0A
+
+- Once you have created an estimate, add all options and line items you want to offer your customer (click here to learn more about creating estimates).
+
+- Once your options are in place, click the 'Present' button located on the estimate details page to open the proposal view.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1243223483/7193e8c546d1aa58bbd88888c216/Screenshot+2024-11-07+at+15_21_01.png?expires=1763568000&signature=fed3b8cde846684250c14c02ff5211dd11b8926f7d8509f81174f7381ed80160&req=dSIjFct8noVXWvMW1HO4zcAkk8ITWDa%2B5VdGhoOKCK9IBN2unM30PW%2Fervhi%0AeRTUf%2FDRe%2BZQVkE%2FG%2Bo%3D%0A
+
+---
+
+Side-by-Side View of the Proposal
+
+After clicking the 'Present' button, you'll be taken to a side-by-side view of the proposal that showcases all the options from your estimates horizontally. You can add as many options as you want and present them as a proposal.
+
+This view is designed to help your customers easily compare the options and make the decision-making process smoother. When you send the proposal via email or text, your customer will also see the same side-by-side view. So make sure you utilize it effectively to create an impactful first impression!
+
+From this view, you can control the visual appeal of your proposal by adding cover images and descriptions to your options.
+
+Simply click on the pencil icon to add them. You can also rename the options from here if needed.
+
+[Image] https://downloads.intercomcdn.com/i/o/729433682/2a7affded56feb5291832a6d/PROPOSAL+GIF+2.gif?expires=1763568000&signature=e658c5d7705045280831ea440607ed1d22fc51a4641d0f18ea66d7a770df7b96&req=cyIuEsp9m4ldFb4f3HP0gMz4Ci8l5nLfcrMWX1OiOii%2B0%2FWh%2BW3JIql0M1n8%0Aw3GokPa776KYHP2sLg%3D%3D%0A
+
+Once you added the cover images and description to your options, you can preview the details view of each option separately. This detailed view of a single option will also be accessible to your customers. To enter this view, click the 'View Option' button for a selected option.
+
+[Image] https://downloads.intercomcdn.com/i/o/729434394/b1fb8425f9d034b89fcfce04/newproposalgif3.png?expires=1763568000&signature=05f0e9ff83347bf8c29be01c827e86f3b68ff838b177bad83de6df4000307b02&req=cyIuEsp6nohbFb4f3HP0gDHRShNT1dS3FNkd3kw5TLiaeCUR%2BjtMQPDDZ3CO%0Ake%2BkDs7K1rLNaQQaQA%3D%3D%0A
+
+---
+
+Option Details View
+
+The details view of a single option presents all services and materials added to that option, as well as the taxes, discounts, and information about the needed deposits.
+
+It also presents the most important information on your estimate: your company information, the name and address of your customer, the technician’s name, and, if added, expiration and service dates.
+
+[Image] https://downloads.intercomcdn.com/i/o/729434994/01115f68c9d4ea6e75a807b2/proposal+image+2.png?expires=1763568000&signature=cc1dad8905ec703db903dff6f97bc583ed89123063406fcade211c7dccbebd4d&req=cyIuEsp6lIhbFb4f3HP0gHalZ1bBXHes%2FmVwjtc7ALoVSSuU0XVt04K0UrMd%0Akrzmnzf%2BxlNdr4m%2BEg%3D%3D%0A
+
+When viewing a specific option's details, you can decide which parts of that option should be visible to your customers, and which shouldn’t, by using the estimate settings located on the right. Default account estimate settings apply unless you change them here.
+
+[Image] https://downloads.intercomcdn.com/i/o/729435243/15e62b142e7b3f272ae0a31a/estimate+settings.gif?expires=1763568000&signature=3d52d1be6b9cf9ae49dd981f9c885682acedb7ddfa0d037cdf2c71bda384bdfe&req=cyIuEsp7n4VcFb4f3HP0gITVDP12NpQmTngt%2F9FLELqZzn4y5npNQJRm0YBr%0AT%2F9c5cEH9dFRhLPk9A%3D%3D%0A
+
+---
+
+Sending the Proposal to Your Customer
+
+Once you have added all images and descriptions to your options and adjusted the visibility of the different parts of an option using the estimate settings at your discretion, you can send your estimate as a proposal to your customer.
+
+- Click the 'Save and Send' button from the single option's details or the side-by-side view.
+
+[Image] https://downloads.intercomcdn.com/i/o/729435776/2255f9abc92a33908ac2fb52/saveandsend.png?expires=1763568000&signature=3af413b6a7f832bde751c258af7a180debba6505c26f6d4feca22f4aeebfa454&req=cyIuEsp7moZZFb4f3HP0gIZ4qP643%2BFPxEfSS%2FfGsMzvs1FaQYwXpzWZr3Xw%0A0ec6vCTxyDjGAHbM3w%3D%3D%0A
+
+- You can send your proposal either through email or text message.
+
+- All options included in your original estimate will be received by the customer by sending the estimate as a proposal using the flow described above.
+
+[Image] https://downloads.intercomcdn.com/i/o/729436040/9fff969c3e7f8f66648fde2d/emailortext.png?expires=1763568000&signature=6bf97cbba11ac7e909dbebf8429cf131205cac4469c391d1d8add2ee7a12f34e&req=cyIuEsp4nYVfFb4f3HP0gK7xQKZjc%2FqsjOtlA5wHEU3wydyg30GFaoIHUdWp%0Axc2h2O3bfPnn7crB2Q%3D%3D%0A
+
+---
+
+Sending Standard (Non-Proposal) Estimates
+
+It's important to note that the Sales Proposal Tool attached to your account does not interfere with your ability to provide estimates to customers as you did before.
+
+You can still present and send estimates in a regular manner without the proposal presentation mode.
+
+- To do so, just click the 'View & send' button in the Estimate section or the 'Send' button in the Action Bar at the top of the Estimate details page.
+
+[Image] https://downloads.intercomcdn.com/i/o/729436359/1905467084cd8a830e0885e8/estimates.png?expires=1763568000&signature=8ac5ea87085e9e0082f46bb3a2bfe0c7890ab0d5ed9b9438193b44cbc9f45f1a&req=cyIuEsp4noRWFb4f3HP0gJhIOTv9z2FNHLscIMm6ExXOw9SBIy8rf37%2FrZYy%0AvVivtqGtYYAgusUsmg%3D%3D%0A
+
+---
+
+Wisetack Financing Options on the Proposal View
+
+The Sales Proposal Tool on the HCP web portal is fully integrated with Wisetack.
+
+- If you have the Wisteack financing options enabled on your account, the proposal view of the estimate will display the "As low as" pricing on both the side-by-side and the option details views.
+
+[Image] https://downloads.intercomcdn.com/i/o/754147120/d912a187b6b939a2abc518ef/Screenshot+2023-06-01+at+11.30.02.png?expires=1763568000&signature=92f2b41f6b668474c98abf0b67aa939510e7481492a5312b7781d73ff6e76f0f&req=cyUjF815nINfFb4f3HP0gDeznO%2BcBEF%2BR9e1ro%2BoCgXCYfE4oeRPc5Ur9TpH%0Af3aTUrGfGCQpQc1cew%3D%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/754147228/5ae5a9f877bcaddc50798f4f/Screenshot+2023-06-01+at+11.30.40.png?expires=1763568000&signature=6eb1026748e0c0b97ff051196f576bd99f59e9e6ac15583f055bf6e16e796907&req=cyUjF815n4NXFb4f3HP0gG8T0P22e4V8c4f3%2FvzF296SaOHFK3DUyFQ9%2BNmF%0AcqO10dadJNBKHz5LXg%3D%3D%0A
+
+- To send the prequalification to your Customer, fill out the form located on the Estimate details page.
+
+[Image] https://downloads.intercomcdn.com/i/o/754147588/ccff351144b6e74a17ee1b32/estimate-details.png?expires=1763568000&signature=9242d1fe93f14dee5006973bf7b7991b3992e620984d2ef8336074a751c5753a&req=cyUjF815mIlXFb4f3HP0gA7Gc9S7XOdX7AokwhwGDoz7cdGHpEVHOo6GbCp9%0AE1qZFg1nAfKliPNELQ%3D%3D%0A
+
+---
+
+NEW! Present Sales Proposal Options on a Mobile Device from Pre-Built Templates
+
+You can now use pre-built templates to present good, better, and best proposal options to your customers on a job site more efficiently!
+
+Click here to learn how.
+
+[Image] https://downloads.intercomcdn.com/i/o/860675905/e892f5949283dc1e5714fa80/101723-estimate-and-proposal-templates-on-mobile-static-assets_asset-1-460x310.png?expires=1763568000&signature=21af7f9d93b27c31da6fa5bd41d1e4ae8cc565506cb8527346a8a7231cd6331e&req=fCYnEM57lIFaFb4f3HP0gKppieDEonFwN89BAtG2boQWBOmsMJrEL8NncxYS%0AZ6HbE3WBTwazWViKxA%3D%3D%0A
+
+---
+
+Curious how the Sales Proposal Tool transforms estimates into beautiful, high-converting proposals? Watch our Pipeline to Profit webinar for a full walkthrough—see visuals, layouts, and customer-facing logic in action, plus hear a SuperPro share how they use proposals to close more jobs.
+
+[Video - youtube] https://www.youtube.com/watch?v=C97m1dmsjJk
+
+---
+
+---

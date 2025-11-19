@@ -1,0 +1,152 @@
+CSR AI Overview
+Source: https://help.housecallpro.com/en/articles/9740104-csr-ai-overview
+Author: Gillian H
+Last updated: Updated this week
+
+Summary: CSR AI answers your customer calls, summarizes them, and notify you after each completed call.
+
+What is CSR AI?
+
+CSR AI is an AI-driven customer support solution that answers your business calls, engages with your customers, and provides excellent support to their needs in real-time. Whether it’s answering common questions, providing empathy, asking for more details, or booking jobs (coming soon), CSR AI acts as your reliable virtual assistant.
+
+How does it work?
+
+When customers call your company, CSR AI will answer these calls for you, provide them with a great experience, while you reclaim your time and focus on providing excellent services and growing your business. CSR AI uses your settings, such as business name, company description, and more, to be able to answer various questions from your customers during calls.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1340671384/dabca9c1867ba2612be0649458db/image.png?expires=1763567100&signature=0d1bb5e7ada27c512f5be45ba6bbede71672e6908e4029da07756f4d841533ca&req=dSMjFs95nIJXXfMW1HO4zYtToac1jUkpk0YAthJbI2QUJTR1eBFWGI8dQywc%0AxRr9u3nyQNmFIVCXlqY%3D%0A
+
+Where can I view calls that CSR AI handled for me?
+
+- You can view the CSR AI calls by clicking Inbox from the Housecall Pro navigation bar at the top of your screen, navigating to CSR AI, and selecting Call log from the menu on the left.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1340670936/3efb3babbe0ee0494a1922baabef/Screenshot+2025-01-14+at+6_29_50%E2%80%AFPM.png?expires=1763567100&signature=f963a50a7cfdff9bcc66921306f7414969f62d20fa3ebf1f3defd23a627ba0ef&req=dSMjFs95nYhcX%2FMW1HO4zeT%2Bl3hSeMVrEXGQAqgozMfq%2BpdziuRzHnUPmdtq%0AjIgfdlotI1obBONwd%2BQ%3D%0A
+
+- Once you select a call from your Call log, the call details view will appear on your screen, where you can easily see the customer information, a summary, and the urgency of the call, all provided by CSR AI.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1806543889/8a84153594042984e68afce5a409/926a0502-e485-4870-9562-4745cdcfc7bc?expires=1763567100&signature=41a58f139aa53928df64b1b5039848eba36af9c65e74fccffa1079016d15047d&req=dSgnEMx6nolXUPMW1HO4zQtB1T6CUfqX1K%2Fk4ISVCokLZdIgTVm3nvYHC03U%0AIaYoshYyst0EZRZGBLY%3D%0A
+
+---
+
+New: CSR AI Settings (Alpha)
+
+The new CSR AI Settings give you full control over how your CSR behaves during customer calls. You can now view and manage all the information CSR AI uses — including your business details, tone, permissions, and call-handling preferences — all in one place.
+
+To check your CSR AI Settings:
+
+- Go to Settings > Team & Permissions > Team
+
+- Scroll down to AI Team
+
+- Click CSR AI
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1647499423/6385562752944b31ef50b74530d3/Screenshot+2025-07-31+at+11_00_19%E2%80%AFAM.png?expires=1763567100&signature=cfe6102cdc31baba797f8ee2c1d0d1e90271575fee632a640fc4a6619402eb59&req=dSYjEc13lIVdWvMW1HO4zbKktwHhLaAfxT4GlLUjyIGwRbgMkBT%2F6wSJCrtg%0AaC4DiZH%2FP1MnuoyCLI4%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1806573586/b15ba0e0d2598ac4aca8bc1d3d5e/1e4458b5-2ae6-45f4-a60f-9ea9ec707b4d?expires=1763567100&signature=56390a7b98665c24e95d9876a172c0bd6202c4cb5136b1834704b6e2deb05978&req=dSgnEMx5noRXX%2FMW1HO4zV9lXilC3k%2FHSsnvapWapYMs7dmmesCbmUd%2BoBoF%0AaUE7Ix44cEZ%2BYfM9NUU%3D%0A
+
+- Once in Settings, you will land in the CSR AI Permissions tab: - Book jobs and estimates: Allow CSR AI to schedule new appointments directly onto your calendar.
+- Reschedule appointments: Let CSR AI adjust existing bookings if a customer needs to move their time.
+- Cancel appointments: Decide whether CSR AI can cancel jobs on behalf of your customers.
+- Send notifications: Decide whether you want to receive notifications after each CSR call or if you prefer not to (ex, in case you check your call log frequently). 
+- Escalation rules: Choose whether CSR AI should transfer a call to a live team member or if it should politely end the call and send you detailed notes.
+
+- You can then go to the Knowledge Base tab, where you can easily see all the data CSR already knows about your business and uses it in customer interactions.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1806585912/3d221ee051971c257530ef5eb354/7dc45919-e9be-4aa3-8d84-5eba3ffd3da1?expires=1763567100&signature=1d47bd0b3e0f1516e8437eacadbeeaef8872db611226b973210d7f9bba029121&req=dSgnEMx2mIheW%2FMW1HO4zX2alfZDaOcpE0DcfErsW3HfqCc6UI9ghUIUBe0K%0AYYRQ06XsLSl2gvlELFc%3D%0A
+
+- You can go to the Customization tab and configure CSR to match your brand: - Define how CSR handles pricing questions.
+- Pick the voice and tone, as well as the background noise for CSR AI during calls.
+- Add custom scripts and how you want CSR to pronounce your business name.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1806612675/95da3b85fadc8a21a5422dc1a2ae/d6d1294a-f646-43f5-bdcd-1e2d5f8174ad?expires=1763567100&signature=ec90ce7310d523ccc9ada977e0a34559e92d5d0c1626ddce433d6ca761aca19a&req=dSgnEM9%2Fn4dYXPMW1HO4zTW0qSxhdKYVmWwCWAmADTO%2BjiQAssrOmic11iXE%0AsTsRv%2FAuImiW13RxFM0%3D%0A
+
+---
+
+CSR AI Demo Page
+
+What is the CSR AI Demo?
+
+The CSR AI Demo allows you to see AI in action—handling customer calls, answering questions, and booking jobs in real-time. This demo provides a hands-on way to experience how AI CSR can streamline customer interactions and help grow your business, all without any setup or cost.
+
+Why Try the Demo?
+
+- See It in Action – Watch your CSR AI respond to your inquiries with speed and consistency.
+
+- No Setup Needed – Instantly experience the benefits without any configuration.
+
+How to Access the CSR AI Demo
+
+To access the CSR AI Demo:
+
+- In your Housecall Pro account, go to Settings > Team & Permissions > Team.
+
+- Scroll down to your AI Team.
+
+- Click the Try demo button to the right of the CSR AI teammate.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1647549972/46d375155ba05b43d91720da5c34/Screenshot+2025-07-31+at+11_22_05%E2%80%AFAM.png?expires=1763567100&signature=c1cf365c27432949a1d72f63dec13b19be7e902864aeaea60fb451e28355796f&req=dSYjEcx6lIhYW%2FMW1HO4zcuB3b%2FCwjcWV5Crl14U6OulDw2XX2uY7ABLJS79%0Af80iSDh7ENz3gKN4aPM%3D%0A
+
+Play the demo:
+
+- Play around with your own CSR AI! Click the microphone button in the center of the page, and your CSR AI will "answer the phone." Time to pretend to be a customer and test how CSR AI can handle your customer calls!
+
+- Make sure to approve the microphone in your browser when prompted.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1377490831/253c4c39639f244af1337ad82fb7/23979c45-bed3-431f-b2ad-e2e2209faf6c.png?expires=1763567100&signature=ea293433a952c75974a7b439e3c4c0406665f326ba009352b227a020612a26f2&req=dSMgEc13nYlcWPMW1HO4zc9xwIQgNwILXL%2BxRsB7PAmMafoaEaEAOhYI%2Fou8%0AF6nifXOWj54qjIi2AAc%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1377491033/6e59d958a2f2bbcc7fb9f202f2cd/16c70243-6fa5-4165-ae0c-43354e7b3441.png?expires=1763567100&signature=307de5370b2d05d3c4a21922e379ab06126c89db157f8ac40acec0d501de2afe&req=dSMgEc13nIFcWvMW1HO4zR1BLCSJnOkr5oaI%2ByqrVhCy8UW%2FwlgMlctR0J%2FP%0AZYssZT%2Fpj0Q86VDZW0c%3D%0A
+
+Contact us:
+
+- If you’re interested or want to learn more about CSR AI, click the Contact Sales button, and our team will reach out to you promptly.
+
+---
+
+CSR AI FAQs
+
+What data does CSR AI use?
+
+- CSR AI taps into your business settings to provide personalized assistance. It uses details like your business name, industries served, services offered, contact information (website, email, legal name), company description, hours of operation, service area, and payment options to deliver tailored support.
+
+- CSR AI also recognizes the right line items for customer requests and checks your technicians' availability to schedule jobs directly on your calendar!
+
+Are more features coming to CSR AI in the near future?
+
+- Absolutely! While CSR AI currently focuses on answering calls, exciting updates are on the way. Soon, it will also: - Handle your SMS interactions.
+- Suggest follow-up actions.
+- And so much more!
+- Stay tuned for these enhancements designed to make running your business even smoother.
+
+Is my data shared with any third party?
+
+- For details about how your data is handled, please visit our privacy page. It has all the information you need about data sharing and protection.
+
+Do I need to disclaim that my customer is talking with CSR AI?
+
+- No need to worry—CSR AI introduces itself as "AI" at the beginning of the call, ensuring transparency with your customers from the start.
+
+How do I enable CSR AI?
+
+- Setting up CSR AI is fast and straightforward. In just a brief 15-30 minute call with our team, we’ll handle the configurations and assist you in forwarding your phone number. We offer flexible forwarding options, including full-time answering, rollover, and nights and weekends coverage. Getting started with CSR AI couldn’t be simpler.
+
+How do I update my CSR AI forwarding number?
+
+- You can update your CSR AI forwarding number by going to your CSR AI Permissions settings and editing the phone number listed there.
+
+How can I view CSR AI phone conversations, and what if it can’t book a job for a customer?
+
+- To view CSR AI phone conversations: - Open the Inbox in your HCP dashboard.
+- Select CSR from the menu.
+- Click on Call Log to see all calls.
+- If CSR AI can’t book a job, you’ll be notified via text and your inbox. Simply call the customer back to complete the booking!
+
+---
+
+Pro Power Hour: HCP Assist & CSR AI
+
+Get a complete overview and demo of our HCP Assist and CSR AI answering services in this on-demand product webinar!
+
+[Video - youtube] https://www.youtube.com/watch?v=187mQnokVqc
+
+---
+
+---

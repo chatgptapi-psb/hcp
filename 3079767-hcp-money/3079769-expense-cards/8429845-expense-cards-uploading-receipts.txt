@@ -1,0 +1,62 @@
+Expense Cards: Uploading Receipts
+Source: https://help.housecallpro.com/en/articles/8429845-expense-cards-uploading-receipts
+Author: Nate H
+Last updated: Updated over 9 months ago
+
+Summary: Expense Cards users have the option to upload receipts directly to transactions.
+
+Upload an Expense Card Receipt (HCP Web Portal)
+
+- Click on the 'My Money' tab in the navigation bar at the top of your Housecall Pro account.
+
+- Select 'Transactions' from the menu on the left, under HCP Money.
+
+- Click on an Expense Card purchase line item, and the transaction details card will appear on the right side of your screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1233339480/5c0f9694964320ac7718323e2684/Transactions1.png?expires=1763568000&signature=cf5ff25ae98a83c136ad240651aec207c295f1cafe1cc299b7926f0be644a890&req=dSIkFcp9lIVXWfMW1HO4zaaQZpBvtKhi0SVVSFDFs%2FNiJpOyqq5c3He9iJY9%0A0FCcvyzZonzEGG%2Bn5pY%3D%0A
+
+- Click 'Upload' next to "Receipt" in the transaction details card.
+
+- Upload the receipt image, and you're all set!*
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1233339535/1269893bb2444d5dd74763ae85a6/Transactions2.png?expires=1763568000&signature=179b5bda155e3e7f894f8e305cbf8a589f21550f95aed363e0c500c8d1fb4f1c&req=dSIkFcp9lIRcXPMW1HO4zVyfghC65xngCnJiqvUULLlzRi%2FptOMA56GRcLHy%0AXzJOBHiwPSRlUmndS9Q%3D%0A
+
+---
+
+Upload an Expense Card Receipt (HCP Mobile App)
+
+- Open the HCP Mobile App.
+
+- On iOS/Apple devices, tap 'More' in the bottom right corner of your screen.
+
+- On Android devices, tap the three-line icon in the top left corner of your screen.
+
+- Tap 'Expense History' then select an Expense Cards purchase line item.
+
+- Tap 'Add receipt' and upload the receipt image by taking a new photo or uploading one from your photo library.
+
+- You're all set!*
+
+---
+
+Expense Card Receipts in QuickBooks Online
+
+Expense Card receipts will now transfer to your QuickBooks® Online account automatically. Just upload your receipts through the HCP Web Portal or Mobile App and we'll take care of the rest!
+​
+To view the receipt in your QuickBooks account, go to the Expense Cards transaction and it will be in the 'Attachments' section.
+
+---
+
+Video Tutorial: How to Upload Expense Card Receipts
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/ijwp73ff6c
+
+---
+
+Not an Expense Card user yet? Click here to learn more.
+
+---
+
+Housecall Pro Expense Card is a Visa Commercial Credit Card, powered by Stripe and issued by Celtic Bank and is subject to approval. Housecall Pro partners with Stripe Payments Company for money transmission services and account services with funds held at Fifth Third Bank, member FDIC.
+
+---

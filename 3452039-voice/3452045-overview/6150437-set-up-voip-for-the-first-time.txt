@@ -1,0 +1,474 @@
+Set up VoIP for the First Time
+Source: https://help.housecallpro.com/en/articles/6150437-set-up-voip-for-the-first-time
+Author: Nate H
+Last updated: Updated this week
+
+Summary: VoIP first time set up walkthrough
+
+Our Voice package provides three sets of features:
+
+- VoIP (Voice-over IP)
+- Customer Intake
+- Call Tracking (not included in all packages)
+
+These features will allow you to communicate with your customers directly in HCP. You have the ability to see all of your calls and chats with a customer through our Inbox so that you have a unified and contextual view of your customers.
+
+Learn more and purchase by visiting our Voice Landing Page! You can also look at our FAQ for more details.
+
+---
+
+---
+
+VoIP Overview
+
+VoIP is an add-on feature that provides the ability to answer calls directly through HCP-web. All you have to do is purchase or port over your business line so that you can make and receive calls through HCP. You will receive a browser notification when calls come in, seamlessly answer them with the customer intake flow, and see a full history of all calls through the call log.
+
+Below, we have included a walkthrough video of how to make and receive VoIP calls.
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/dpg36t4otg
+
+---
+
+Customer Intake
+
+- This solution also includes the Customer Intake, which allows you to create scripted request guides and FAQs to intake customers more efficiently. The Customer Intake form is divided into three main sections: Request, Schedule, and Contact.
+
+---
+
+---
+
+First Time Setup
+
+- When you are first setting up your VoIP experience, you will go through our onboarding flow. You can start this flow by clicking the blue Get started with Voice banner on your homepage, or access the flow from the Inbox or Settings pages.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1213171525/e25d95d35529f108a8d71ca643b4/image.png?expires=1763568000&signature=0bdc93a4fc8168c868be7b7413da52452b9d3dd4b73b52153bcd545bac276d2a&req=dSImFch5nIRdXPMW1HO4zeQa8mFZQJPI%2Bg0XuSzYvhzQ3HzRGDD58wQS2Ozv%0ABvE0vXTLPyDEDSx5uh8%3D%0A
+
+- The flow consists of three steps. After these are completed, which should take less than 10 minutes, you'll be ready to use VoIP.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1213171524/52f1c1a2429c5b577e8b30ce0b54/Google%2BChrome%2B2024-08-06%2B12_03_33.png?expires=1763568000&signature=88f8022173f3dfe9f5b62c96620e9cca0f6c5e9412ef128b0cf12cb781457609&req=dSImFch5nIRdXfMW1HO4zZudajIrr1cbVNqBnL3WS%2FftnH%2FEHLdXC%2BBO0thb%0AguhKXMKGAsGMFvwxuDc%3D%0A
+
+---
+
+Purchase a New Number
+
+- The first step in the onboarding flow will guide you through purchasing a new number. If you would like to port over an existing number, this can be started after completing the onboarding flow. Purchasing a new number will allow you to get started with VoIP features right away while you wait for your existing number to be ported.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1213171523/6e2c118f5e3d836031eea4f3aec9/Google%2BChrome%2B2024-08-06%2B12_29_22.png?expires=1763568000&signature=cbd443e819ffa83db0ba5a9cab89aece27deb443f558293771722e61259d9045&req=dSImFch5nIRdWvMW1HO4zZNkj9w2yxmT3UHXNGV3QpPak0HIeOL36P7tKmK%2F%0AzCh0bBHfZZkFq1NIje0%3D%0A
+
+You can start this process by clicking the blue Get started with Voice banner on your homepage, or access the flow from the Inbox or Settings pages.
+
+- Starting from the Get Started page in your Inbox, select Get your number and enter a 3-digit area code to view available numbers. After selecting a number, you will be prompted to verify your business information to register your number and Caller ID. Verifying your business information will improve the deliverability of communications sent through Housecall Pro.
+
+---
+
+Verify Your Identity for Voice
+
+It's important to verify your identity so that we may properly register your phone numbers. This ensures two things:
+
+- Your calls don't show up as spam to your customer.
+- Your calls show your company name to your customer.
+
+We do this by registering your phone numbers, on your behalf, for SHAKEN/STIR and CNAM.
+
+When you go through onboarding with Voice, we will show you a dialog box to ask for more information about your business.
+
+This data allows us to register your phone numbers with your business through Twilio.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1218324568/aa1f2915b2c8b5e95fd77dc651d1/Dialog.png?expires=1763568000&signature=9b4d6aa0bc5eb6daab0741a5d1104cc787c240a891ff62c175e1d41f49213e98&req=dSImHsp8mYRZUfMW1HO4zRDOpExJcXTZGHKbwh5pgy3vRcfzYge2%2B6ASYXPC%0AuWtTpevT11pcTysvfIo%3D%0A
+
+---
+
+SHAKEN/STIR
+
+SHAKEN/STIR is a protocol by the FCC to address unwanted robocalls and unlawful spoofing. It is a caller authentication framework where we register your phone numbers under your business information. Once your business is registered, it will increase the chances of your calls getting answered because they won't show as spam to your end customers. For more details, please visit Twilio's documentation.
+
+---
+
+CNAM
+
+Caller ID Name or CNAM is a service that provides the name of the calling party. This must be a 15-character name. When you verify your identity through onboarding, we will also register your phone number with the CNAM lookup so that it shows your business name to the customer. For more details, please visit Twilio's documentation.
+
+---
+
+Test Your System
+
+Housecall Pro's VoIP product requires access to your notifications, microphone, and speaker to work. This step of the onboarding flow will check to see if you have the necessary permissions enabled.
+
+- You can start this process by clicking the blue Get started with Voice banner on your homepage, or access the flow from the Inbox or Settings pages.
+
+- From there, first click Test your system and then click Test My Notifications to trigger a test notification similar to the one shown below. This will appear in the upper-right corner of your screen. If you need help configuring your notification settings, please see Configure your Browser and Desktop Settings for Calls.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1213171522/ec905dd55efc66e4869fe02e7561/Google%2BChrome%2B2024-08-06%2B12_18_43.png?expires=1763568000&signature=c4f2048c9df80efabfef1dc306dad8893c89aa6e1c14a14d0e3059da67b5f864&req=dSImFch5nIRdW%2FMW1HO4zSDEmoErPxxGKJ5HnZqkpljbHj0tyIukQQ%2F%2FoV6U%0APrY7I%2FI1K0gkqYdpHzA%3D%0A
+
+- Next, a ringtone will play through your default speaker. A similar ringtone will be used to alert you of incoming calls. Click Yes after listening to the ringtone. Please see Configure your Browser and Desktop Settings for Calls. for help on changing your default speaker.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1213171528/81d90665090406f5dc90b1b3127e/Google%2BChrome%2B2024-08-06%2B13_14_33.png?expires=1763568000&signature=89bd0d7afa920ab12b1d543426e6e11f36129f610d23746380c3fda3d287ae0e&req=dSImFch5nIRdUfMW1HO4zUmNGsInWT0p%2Bb3Ca3tg1XeBYv1qdl5CgjV2r0ex%0A3v1QdUBvo0ELw1dAwm4%3D%0A
+
+- Next, the onboarding flow will test access to your microphone. Speak and then pause to hear a recording of your voice. It's normal for the recording to be slightly cut off. Please see Configure your Browser and Desktop Settings for Calls. for help on changing your default microphone.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1213171530/5d1cdae5f24e003d1fda35010b54/Google%2BChrome%2B2024-08-06%2B13_15_39.png?expires=1763568000&signature=83f1dc82fa563ccea905f004bf743a8b8fe8af681c37846d40240b7bbc96d7f4&req=dSImFch5nIRcWfMW1HO4zfmT9z0ikZfFKOehIpCeAnQrZxaprS1oHaPLcNPW%0AyK%2F4Kv7Ol1gIhyjv0og%3D%0A
+
+---
+
+Meet Your Dialer
+
+The last step of the onboarding flow guides you through a tour of your dialer, which is where you will make and receive calls. This tour will launch in a separate tab. Follow the prompts on the dialer to learn about its features and functions. You may need to enable notifications again via a banner at the top of the dialer.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1213171526/8e08c7318fceada72ff50e6f677b/image.png?expires=1763568000&signature=c7f3125b968fe20647b405f9deff50013554f96a57429dc1074ada1ac3ab04ad&req=dSImFch5nIRdX%2FMW1HO4zaq5owcJ3qe9j67hvbdZMZM2DB7GNsmc5%2FPkNEKa%0AFvmoukPXSRJw%2BnMs90U%3D%0A
+
+After completing the dialer tour, return to the onboarding screen. From there, click Confirm to mark the dialer step as complete or click Cancel if you'd like to take the tour again. After confirming you have completed the dialer tour, a confirmation message will display.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1213171519/1205711cad7e2a167165dc11f095/image.png?expires=1763568000&signature=3841dfe1520b424fdbd0ff2b3226a4c8bf2aea1a8209ad7ae4f9bd319b48aa2e&req=dSImFch5nIReUPMW1HO4zVkwQFWMl%2FNzuMmUbxfc6mnQOejFH8heC9lVBSd4%0Ar8TCPz84QvYfHEV8bX4%3D%0A
+
+From the above screen, you can choose to take a tour of Voice settings, go to your call log, or initiate the porting process. If you choose to go to the call log or port numbers page, you will still be able to take a tour of Voice settings later.
+
+---
+
+Port a Number
+
+If you have a business line that is crucial to your business, then the porting process is the right selection for you. However, please be aware that it will take 1-3 weeks to get that number ported. When you do port, you will be able to port over your primary number and any other call tracking numbers you wish.
+
+To port a number, follow these steps:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Communications from the Settings menu on the left.
+
+- Click the Phone Numbers tab in the Communications settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1657107767/4f52f5451398382496bca5a1b125/AD_4nXcp6r1QhZ5mTQtrGyZJqiLwC4APARrkvCGqbPZyzDY4LCSqSb24DXyznkKl2zSoOYffBlnBCbNGE2VBo70RVyTF02PFvj7LjyHmOsvb1fDpR45kaXwFu9B8t3CYOU7H82JUSTqoZA?expires=1763568000&signature=05a887adb4ece6d8e0381bc836c8ac856c12fb11ebb89ea7385a24cbc6f78a74&req=dSYiEch%2BmoZZXvMW1HO4zeyPyWKyKCz5Djo%2FOvOvUuCUsiipiyEOVD42CaaN%0ANoHZsD6JNGi%2BJW866NE%3D%0A
+
+- Click the Port Numbers button to begin the process.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1657107757/23995bc1c687e0b6d10a486112a6/AD_4nXc4odtn-NNp6tZhSELXgf-s9pQ8bfdPOYaWZjPvVT-PNDh9KeKTbNikQSwx8-kUbiVAQFlPBMA7KUdAs8l9XsISXmtwzwuTlKPue_L5O6Ye-7wPw644L3_MJRkDkJTcR3yBm22h?expires=1763568000&signature=263c266dc7eac0512e5fd92ca6c25c0f62fe057763a309c1277d3cb5e82acf0a&req=dSYiEch%2BmoZaXvMW1HO4zTHAln3ag3kYAgrrMwGTM9V%2BodjhInWHnyJvvYTy%0AfCpPWQ%2FgIoweCgp0S%2F8%3D%0A
+
+- The next step is to attach your documents. We will need at least a Letter of Authorization, which you can download from the page. We will also need a phone bill from your existing carrier.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1657107764/450c4aff5774002c68db4bc3af79/AD_4nXccjI4XFO6gxPX9CV2rYHzFc0OKn1rBss9eneBL1g2P-1p3_8g9AYil-R2uVBHZXbMtdR9QZhu_qKeYDKQDyM-1YO0_ZYXY7P-kT6DQmtzcvmd3ktQ1tHJqVbONA1C0dhn6SHaP?expires=1763568000&signature=15e2d7d3c5fa10b94ff889404b3935ba6c681b0acc8a2b778ae51fa08a690791&req=dSYiEch%2BmoZZXfMW1HO4zYWxZTwXwyoGc0QLc2QnEEXtJkrZqlhrhA9Wg0jR%0Ajn2ChPLT7%2BkoGa4KRu8%3D%0A
+
+- Please attach those documents using the Attach your document buttons.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1657107765/1820291681478ba160c8666e4821/AD_4nXfP0szPwqwzeGZj897AaSs0lLnqMO2Wt6_PIstH3w2wOFLp5ceFA33DmcZ0Z4ezfD_Oji41AbIHqkixMTftHrDcHJ99BwFJS3zUJzPE08lZAa01hyEwMQ64inwAPIeUyGnB8xf7Ww?expires=1763568000&signature=2a881fe164d098b79d909cc76d11b419d72010b55f458f44693d64ffc44be1ae&req=dSYiEch%2BmoZZXPMW1HO4zbD2HNf9Nb0dhm2JrXkWYPUqLvzpGDsTfG2hWbtL%0Agt9OLYehlumYdJZv78U%3D%0A
+
+- Once you have attached your documents, you will then click the Initiate the Porting Process button, and you will get a confirmation dialog box to confirm.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1657107766/0203aac9b8f1f31e640aa71e91e6/AD_4nXf0kWRQBf6gFbhdCMd2hE9wl9fb6xDdAyd9DLxocGGClo5rBFzFyAmvE7y4FzP7TedfZZbQno-MPXcQRfjaDRtJlnSYc5X5LkKhySC0rDI6QarveHNliNPwEWVI42Hqa65Poact?expires=1763568000&signature=fb9e5e3cb7583557b00f4f14dcaef5c31092ae82c5a64c4f759af38b736ab5e0&req=dSYiEch%2BmoZZX%2FMW1HO4zR6gGHpGckds6aBSsN8a2GjvBCRlpyc0mOUNBnLG%0Aps1Hi%2FnOCJ3thpp0VSU%3D%0A
+
+- You will also receive a confirmation email that has the documents you submitted attached.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1657107773/25cbfe63928d7d52ecc59685aae7/AD_4nXfvhaaTJyy9VqN--IXhT2AcYfjY8Q10Hh1YFG_vbtwXslC6SZFnWbGyLXmdtNYnu_eN0vjNBg8pSLJ3o22Ju5Mh4zdcHxcc9KkKqfu_HsH4_wrgqly2bntz98WKp6tMaB24pkY_?expires=1763568000&signature=9b6e0f6edfb511a546f6b6159ceac76f392f690d94789254822a22f59015cda0&req=dSYiEch%2BmoZYWvMW1HO4zeNiYS5N3Ri%2FUpxq7qLM1wM%2BU2bmXFPQzRrnorw5%0AajzMk7ZQ3PaUAHx5hCE%3D%0A
+
+- Our HCP support team will then submit the request through Twilio and reach out to you via email to progress the process along.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1657107759/ff9e5c5bd42e3cd1ef25c3f1a1f3/AD_4nXffbf6aUszmRRGEmKjVtBP3Kdl182Z-rSk71hRw4F57HMbXF42b77AxZsJyh4y25HscKR0BcMLqcSEOSUVqfxVnWH0gwDXsDA4Ru2715cUNArL8ZmkG0ZVIOHorGRLvun2jPGYw?expires=1763568000&signature=8219bf2bcc79b91371bff2e516e091204469aff0450c74a38bb83386659b5e89&req=dSYiEch%2BmoZaUPMW1HO4zZtpSrYlV3mkV97eTocpUI%2FZOXcuQ7KAnNBQqfXe%0AL30WjHdJsUfNYcefUS4%3D%0A
+
+- In some scenarios, we may require additional information from you so we will reach out via email in order to gather the additional documents. Once the carrier has all of the information they need, they will provide HCP with a date and time for your port so that you may use that number in the HCP web. We will inform you of the date via email.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1657107774/5b27e769f873ef9458cf037de52b/AD_4nXczDSa6Yg2mGQcXnEozetgR-uvzOgJCeKqmH-uGCFk49L6jMSar_dWjJlIzRzrAv5-CtRqg3IoR-aorzh0SJC076NvMuBSlIMeRo0L4iL9PvWVxm5Qfd2rRnybdjYz5oMTZJuSP3A?expires=1763568000&signature=3b08d5ad4dcecc10683801d939e60d8935f0022ee4623f8c256c44627d077435&req=dSYiEch%2BmoZYXfMW1HO4zTpfdYCEPg8Fr35LY3JIlv%2Bu1EtHrG7TgG1Ys8S8%0A%2BC63VnyECMAM3fzOjV4%3D%0A
+
+If you are coming from Service Titan, we’ve had complications with them in the past. They seem to have a rigid policy of releasing your number the day your service ends, and will not hold it until your port into your new carrier is complete. Some carriers (like Housecall Pro) have more flexible policies for maintaining your number for a certain number of days past cancellation. Even so, we advise you to wait and cancel until after your port is complete to avoid losing your business line.
+
+---
+
+Porting Away
+
+- If you ever want to port away your number, then you will need to follow your new carrier's port process. Lastly, if you want to port a number back in again, chat with our Support team via the Blue Chat Bubble in your HCP account, or send us an email at porting@housecallpro.com.
+
+---
+
+---
+
+Employee Permissions for Voice
+
+There are certain permissions necessary for employees to have so that you can configure the Voice solution to best meet your needs. These permissions are as follows:
+
+- Allow user to chat with customers
+- Configure voice settings
+- View Call Logs
+- Listen to Call Recordings on Web and Mobile
+
+---
+
+Allow User to Chat with Customers
+
+- The Employee permission, Allow User to Chat with Customers, allows you to configure which employees are able to receive and reply to messages received from customers who use the Housecall Pro consumer app.
+
+---
+
+Configure Voice Settings
+
+- The employee permission, Configure Voice Settings, allows you to configure who will have access to Voice Settings so that you can limit who can make changes to your phone numbers, recording or masking settings, and voicemail. As an example, you may have office staff who you do not want to access your settings for communications, so you may toggle this off for them.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1652901535/de32f259d4018af1c7dfd5f2f55f/image.png?expires=1763568000&signature=c1a700427c38525efde6edc8b06a30b860fd3bad889fb2b40915e81ab717cfd5&req=dSYiFMB%2BnIRcXPMW1HO4zc1gcAhoe6clCuvwghfqzBqMIq6zwAhP3WZUUks9%0AUyzIrYMNfe0DX%2B4NWVs%3D%0A
+
+---
+
+View Call Logs
+
+- The Employee permission, View Call Logs, allows you to set who can view call logs, global and customer logs, on web and mobile.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1652905879/476187862c41a6d9a17f317eb7e4/image.png?expires=1763568000&signature=3b37adec707e4201dd7ac294c6a8eca8f24eb3cbe57166d46334d957c934cdd8&req=dSYiFMB%2BmIlYUPMW1HO4zcG3H0URXFeQsUNlCXgbIdJzieRHGV8BNaWQBLGs%0Axwbtj5dAu4faCjj%2Ff88%3D%0A
+
+---
+
+Listen to Call Recordings on Web and Mobile
+
+- The Employee permission, Listen to Call Recordings on Web and Mobile allows you to set which employees will be able to listen to call recordings on web and mobile.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1652909423/87c3cf75851b06975fc4546e445f/image.png?expires=1763568000&signature=7435be8b0d8548bd32e74b2efe3ac27c5d4e76f671fe133f95d2e0bb0e452e1f&req=dSYiFMB%2BlIVdWvMW1HO4zbXE9NUAb1i%2BFwqOnJ40d8Xd%2BPliaPI9k2Et%2B%2Bpy%0Ac6MICV9gb%2FWqQO29hCU%3D%0A
+
+---
+
+---
+
+Configure Your Browser & Desktop Settings for Calls
+
+We suggest that you use Google Chrome to take and receive calls through our HCP Voice solution. Follow the steps below to make sure your browser and desktop are ready to make and receive calls.
+
+---
+
+How to Set Up Your Browser
+
+- First, you will need to make sure your Google Chrome settings are correctly configured. To do that, click on the icon to the left of your URL.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1213327803/7a9776b5e947109b0674e9d62194/Screenshot+2024-10-11+at+4_35_31%E2%80%AFPM.png?expires=1763568000&signature=537e652b762f0bbce0b13cbb3e40f3b2afe7aa48e11fbd0e609ed3a8cff85b52&req=dSImFcp8molfWvMW1HO4zZv1b2PzgTPYBlH4WE8xdP4hGMND1trFCvSXNjBK%0Aqp%2FvHD4ahB0xGsICxzE%3D%0A
+
+- This will open up an overlay where you will need to select Site Settings.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1213328000/c837338c0b403520787b05f7de09/Screenshot+2024-10-11+at+4_33_43%E2%80%AFPM.png?expires=1763568000&signature=0cb7fef66199d8e9d71483fd94ba5548ff8aa2bc70008d1186c8a5890cf8a9cc&req=dSImFcp8lYFfWfMW1HO4zdlJ93OOtUVGfau94Tm7S1E6BZsv9DU7gV4Dvy37%0AHrRMSw%2BymhkhG3mlxLA%3D%0A
+
+- From there, you will see a number of permissions. These are the permissions you will want to make sure are toggled on: - Microphone = Allow
+- Notifications = Allow
+- Pop-ups and redirects = Allow
+- Sound = Allow
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1213330833/f60f0a0d0d9e427856aea592a8f8/Screenshot+2024-10-11+at+4_40_19%E2%80%AFPM.png?expires=1763568000&signature=3e1b12abaed2ef0afaa4129d543204db75a4193f74a4b7511538285f7713432f&req=dSImFcp9nYlcWvMW1HO4zdx6wwS8jL6EP0j69mQG90GEV33yaNLfG6X5LJMv%0AIOOSJgQFb1TQ4Nc2OH4%3D%0A
+
+- After you've done that, refresh your Housecall Pro window. Now, you should be good to use our Voice solution!
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1213318689/73b8c94d5fd7f12a9cf06925a60a/image.png?expires=1763568000&signature=dbfd624817071083a5af8dd9014efb2d6fca4c000f604baf2da65804be23aead&req=dSImFcp%2FlYdXUPMW1HO4zUkZ4zSUmkwjN8KViQNYTNJRukZ6XVoTRP6u3tSO%0A4HkLWKpl9cZFOQZ5RZw%3D%0A
+
+---
+
+How to Set Up Your Desktop (Mac)
+
+On Mac OS, there is an additional setting that can block browser notifications:
+
+- To start, open up System Preferences on your desktop and select Notifications from the left side navigation bar.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1213318693/f8183db77488d35b0d6bb39f5bf8/image.png?expires=1763568000&signature=a974bb756eac87202b6b13af15062de6384677f88312478bad7014ac3f302996&req=dSImFcp%2FlYdWWvMW1HO4zfR2dQgJRxjtgnl%2BRpxovV9obfSsLVfT6wS9BXOW%0Am1am1grYavgo9EyVQ0I%3D%0A
+
+- From there, select your browser from the Application Notifications list to ensure you have notifications turned on for the browser that you are using.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1213318687/33e3be84174f3078769c0a50874d/image.png?expires=1763568000&signature=d5710cb761177c37bf0935b344ecf19135594bd10d53b13d1ab14251e7017a84&req=dSImFcp%2FlYdXXvMW1HO4zSSncFih4w29n7LcJfUFZO5CW%2ByF5sKisXAsH6vm%0A36C8IAzW5LKRs8hz2dg%3D%0A
+
+- Make sure you have the sound configured correctly on your desktop. This is imperative so you can make and receive calls. This means you need both output (speaker) and input (microphone) set up.
+
+- From System Settings, select Sound on the left side navigation bar. Here, you can toggle between Output (default speaker selection) and Input (default microphone selection). Your selection for both output and input will be used as the default devices for making and receiving VoIP calls.
+
+Table:
+Row 1: Output (Speaker)
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1213318694/4c27d5da9189d1ba0c939b31dfd4/image.png?expires=1763568000&signature=65cfa637dfa1ca67580e17041cc197c2ac536dcbdc568df16f335436cdc1af84&req=dSImFcp%2FlYdWXfMW1HO4zdrUIog8D08FVWw65KFcHWYGjUMFGEuppUjGw7Ol%0A8GVQ%0A
+
+Table:
+Row 1: Input (Microphone)
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1213318688/f84c6bc1a77dc833584fe58b26a6/image.png?expires=1763568000&signature=73a37781f90e17751c932c245b49995e0198dc6eb77ec78ad2b2194d708e6171&req=dSImFcp%2FlYdXUfMW1HO4zZE6ccrNyxuZ75RauS6iXSugleUChRbw2CO5J3D0%0AmwMO%0A
+
+---
+
+How to Set Up Your Desktop (Windows)
+
+Output (Speaker)
+
+- To select a default playback device on a Windows computer, start by right-clicking or pressing and holding the volume icon from the system tray. Then, select Sound settings in the menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1213318696/801d6978188ef4a823313aafc227/win11_default_speakers.png?expires=1763568000&signature=7a326f35bc76e054616498cae19c0f07e68218e22ce880494fd1ee97f1d8e299&req=dSImFcp%2FlYdWX%2FMW1HO4zTMjpTbJ%2B8BdmxEY9Kzp6Rm3Sz8lV2F8hAXNp2rs%0AX7Ip9yNSDHsFG3WCGUk%3D%0A
+
+- Next, click the arrow icon to the right of the speakers that you would like to set as default.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1213318697/d59c9b6f385405aa53a77d6cee36/win11_default_speakers-1.png?expires=1763568000&signature=8662c561103bce0335dc74d9cfdb6506f265c5085697c527fc6f79e8d0a824c5&req=dSImFcp%2FlYdWXvMW1HO4zZtzaXklYoUCCBlUA%2Fiv%2BGT%2BGNFevRJ58QcPq5ME%0AjXgYHXmUrIYlqz%2F4ilY%3D%0A
+
+- After you've done this, you'll be taken to the Properties page. Under the General section, there will be an option where you can change which speakers are used as your default sound device.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1213318698/ac031116a6e1d12a3737210e70a3/win11_default_speakers-2.png?expires=1763568000&signature=a6761751772158162834e3983a8efe6cb2975abfc2b8c10338cfee369513c923&req=dSImFcp%2FlYdWUfMW1HO4zQWEIIKRiaFweABNpM6cuXsyHRrZRrD7zFsFimV0%0AAZsFA3Dw8xqKf2gOIGM%3D%0A
+
+Input (Microphone)
+
+- To set your default microphone on a Windows computer, start by right-clicking or pressing and holding the volume icon from the system tray. Then, select Sound settings in the menu. From there, navigate to the bottom of the Sound settings section and click More sound settings under the Advanced heading.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1213318691/eb6c2a9ec528961e125020846142/opening-the-more-sound-settings-from-the-settings-app-on-windows-11.jpg?expires=1763568000&signature=6e528d476a15ba90cc867704c2417064298ddad58312aca9e88065d5fef9ac15&req=dSImFcp%2FlYdWWPMW1HO4zcHpx%2BvCbfhs2wLG7o6ScaAN%2BR8ZiCvSKagsJtN7%0AyoOZiXrI0c4vzWomQjM%3D%0A
+
+- From there, you will see a few different tabs. Click on the Recording tab, and a list of microphones will be displayed. Right-click and select Set as default device to change the default microphone.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1213318832/cfcb778c4b893487f0ccd262099d/selecting-the-desired-microphone-as-default-device-in-sound-settings-on-windows-11.jpg?expires=1763568000&signature=42da0dc804f32fd7b3bb91d6bf9f74c1ac42a3ed48c12c3b435407a8ffeca6f1&req=dSImFcp%2FlYlcW%2FMW1HO4zdb6eblUcleDL9eMtVhbqmn%2BcOLiN7HghFoDRbwg%0AiqXUemSmadAYq3L9wdg%3D%0A
+
+---
+
+---
+
+Hardware & Browser Recommendations for Voice
+
+Browsers
+
+- Google Chrome (recommended)
+
+Computers
+
+- Any computer with microphone support. Laptops will generally have a built-in microphone, so basic headphones will work well with our Voice solution.
+
+- If you have a desktop computer, you will likely need a headset. See the section below for recommendations.
+
+Headsets
+
+If your computer doesn't have microphone support automatically, then you will need a headset that can connect to your computer. Your headset will need input and output capabilities. A few brand recommendations that our existing Pros are using are as follows:
+
+- Jabra (Elite 45h or Evolve2 75)
+- Logitech (H600 Wireless Headset or H390 Wired Headset)
+- Plantronics (Voyager 5200 or EncorePro HW510V)
+- Apple (AirPods or EarPods)
+
+Internet Speeds
+
+- VoIP runs on the internet, so it's important that you have high upload and download speeds so that VoIP performs well.
+
+- We suggest 115 Mbps download and 25 Mbps upload speeds at the very least. Please be advised that you may still get the “We have detected poor call quality conditions. You may experience degraded call quality.” error message. However, even if you get this message, you can still have good call quality. That message typically warns you ahead of time so you may still be able to have calls with no jitter.
+
+- If you are looking to test your internet speed, you can search the internet for an internet speed test or use the one linked here: Speedtest by Ookla.
+
+Additionally, if you have further questions, here are some resources on internet speeds:
+
+- How to Increase Your Internet Speed Right Now
+- How to Increase Internet Speed: 17 Tips
+- How to solve the 5 most common VoIP issues | Online Computers
+- How to Use Quality of Service (QoS) to Get Faster Internet When You Really Need It
+
+---
+
+---
+
+Internet Bandwidth Guide for Voice
+
+Recommendations for your internet to have an optimal Voice experience.
+
+---
+
+Minimum Requirements for an Optimal Voice Experience
+
+To have an experience with fewer issues relating to call quality, it is recommended that you have at least the following network speeds:
+
+Table:
+Row 1: Upload Speed | Download Speed
+Row 2: 25 Mbps | 115 Mbps
+
+---
+
+Determine the Quality of Your Internet Connection
+
+A speed testing tool, such as SpeedTest.net can be used to determine what your actual internet speeds are. Your internet speeds may vary from what your provider has claimed based on numerous factors, such as what type of router you are using and how it is configured.
+
+---
+
+If You are Using a VPN
+
+- Confirm that when you are performing your speed test that the servers you are testing against are in a region close to the server that is hosting the VPN.
+
+- For example, if you are in Bamberg, Germany, and connected to a VPN in Portland, Oregon you will want to ensure that the server you are testing against is also located in or around Oregon. It’s possible that your speed test may suggest a server in nearby Burgebrach, which will not be representative of the actual distances between your device and the servers hosting the voice product. You may need to manually adjust your settings to ensure they reflect the correct area.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1215587001/7bb459fbec131721e5fe2f65ef9b/qTs-xvw2KNRUbeivYE9krwczZ3WbdGYN0sS642NgLrJ51YmeWdpfb_gvqJdSpQB2NctvXnpnpqMEn7BxopAkjrRAoEAYiyIMB46whDLoSCUO1ZfgD6SN427p8HPDudfLPztInw64cQZLbUR0ew5uU5g?expires=1763568000&signature=9506a92bea286bdd711901f219d6b9649b6b4d3c28af768c149cdecd6301c61b&req=dSImE8x2moFfWPMW1HO4zaJHp%2BKUFNiId1HxAa6UvhEG3X%2FNMayrKeYOwoKp%0As%2F%2B3GcSBeg0k2sGsm4I%3D%0A
+
+---
+
+Steps to Improve Network Performance
+
+- Wireless internet connections, while convenient, are not as reliable as one that is wired. If your device is close enough to your router to safely hardwire into the network, you can purchase network cable in numerous lengths to meet your requirements.
+
+- Many modern devices, especially laptops, do not come with built-in network ports. An adapter may need to be purchased for your device in order to set up a hard-wired connection. If your device uses a USB-C connection, vendors such as Anker provide affordable, high-quality adapters. USB 2.0 Ethernet network adapters can also be acquired for devices that have the older USB port.
+
+- If it is not possible to switch over to a wired connection, determine if your router is currently on a heavily used wireless channel. There are numerous tools available that can assist with this. This article by How-To geek provides more information about wireless channels and a step-by-step guide.
+
+---
+
+Determine the Age of Your Network Equipment and Consider an Upgrade
+
+- Networking hardware is nearly invisible to many of us as long as the internet is working. Just like phones and computers, networking hardware can become outdated and need to be replaced with new equipment that supports better wireless speeds and is more powerful. If you are uncertain as to what device to pick up, consider websites such as The Wirecutter to find a quality device that falls within your price range.
+
+---
+
+Stop or Remove Unnecessary Services and/or Browser Tabs
+
+- It’s possible that there are services or websites that are consuming a lot of resources on your computer, which could result in decreased call quality.
+
+- If you are on a computer, open up the Task Manager (Windows) or Activity Monitor (Mac) to see if any processes are using up a lot of CPU or Memory. If those are services that do not need to be running, exit those programs to reduce the load on your system.
+
+- Having multiple browser windows open for extended periods of time (i.e., 75 tabs) can also result in lots of resource contention, which can cause performance issues with your device. - Consider closing old tabs or adding them as bookmarks to return to them at a later point.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1215587000/0c55a46839e782da28f518bda7dd/dVlhdu4I1roBR6hxuDpKlJKeCb7fTWHAhr5JgNQK5mT8W2MJ22mOPnHc6B8kbmG0C3Y8Yrl_PC9yYGvUbMCYAcfxLZf25QoK7cVVHh11BDW87bwFW745SMnKmsuxv5a14tG_YAGUYs4m8VufkhzPOa4?expires=1763568000&signature=89454d7a1c4095b5ade926611808a810ff091e262a8b45c57f66c72a73524f3f&req=dSImE8x2moFfWfMW1HO4zU3jnSU5GLQFGeiD2DS7bcqSzN826uLfesDVFAnr%0AGgfOZqmSai8B%2F%2FtO4AA%3D%0A
+
+Example of a process that could be causing performance issues
+
+- To identify which tabs are using a lot of resources, Google Chrome has a task management tool that can be helpful for identifying them. This can be opened by clicking the More icon in the upper right corner, then navigating to More Tools and clicking the Task Manager link.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1215587002/1b9bfc5af85bb9553df222d37124/vxWqnT0aMHUjBxAuypuI-49V1SKb_71VgpC7Fkw1VSgh2s2dno4ybsnoEVP_1xRN_9P60dlebFI72GkDwBI1RuV9-GVP0ZEP344e9AB83eiVIgxr2uk-unJJgMPpAcIU3NmtWdVfp6QPCz_umjWyNLQ?expires=1763568000&signature=16b0aacd32e9aa85de32eb9aef0cf94217806b4b61a4dc367d183592e3b07437&req=dSImE8x2moFfW%2FMW1HO4ze0RUfk8ox5CW3eA4mlAMQLmmKNNZGKIIu2P8rkc%0Ano1oZ2nRlYRT4rzaP48%3D%0A
+
+How to open the in-browser Task Manager on Chrome
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1215587006/a7d1476369bc9ca28ac178f6cc0d/gdgVPbF6Sp0rCz9LA9r2RddltYiEM6Pz0ihNoqP2wKEmxeTyCCLSsJMkJ5DjVmPXlhW_4IpZaRek0KUdwBrGlFtnlMI_7tJnAUeB6nBW1hpeARkeQmt4P22cnkg4egnuNh0cKN31D9i1P1fdfK2uLRU?expires=1763568000&signature=f2e25b982bec6402383a4f7d6d9f5aea8c82eb061213a8f131fb87eda132f418&req=dSImE8x2moFfX%2FMW1HO4zVM5GZuKITTJjCrQvYNBdfJaJKDb%2Fck284Fn%2F4hi%0AtmLo4IoGO51F1qSZOew%3D%0A
+
+- Once the offending tabs have been identified, they can be terminated by clicking on the task in the list, then clicking the End Process button. The tab will remain open, but it should be using little to no resources now.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1215587003/64f5204477e3e8f3717f3bc2ffbb/8Cyt7MQolJtbNTzW0qI7MHOfqhrVSKSM9SYPhThwx4kPSO-T7mGqEPdtfSoOOErTBhmaEvp5zVRV_3JG7RTripdtL1z0-XsJyg87OA4W48xX9SYEcttYVuBpYVhTSxYEDMKEiJzhjNGpzMKXiqV4WrY?expires=1763568000&signature=a0aa8437bda86c71a74679228b4aa500e995639c1fe5b0668bac928bfc6d2eda&req=dSImE8x2moFfWvMW1HO4zXjwla4tz3Y483JsAVyu77tigdFswBGkbhXBiWoi%0AbTf2xEuDSxLE%2F5EdFbc%3D%0A
+
+Example of a terminated tab
+
+---
+
+Advanced Configuration
+
+- If the above suggestions have not resulted in more reliable service, there are more advanced changes that can be made to improve network quality. Networking can be a complicated subject for many, and if configured improperly, may result in a loss of internet service.
+
+- It is recommended to discuss your issues with an IT/Networking specialist who will be able to correctly configure your network and also provide support should you encounter issues again.
+
+- We suggest discussing potentially using your router's Quality of Service settings to ensure that your devices using the Voice product have their traffic prioritized over other devices that may be on your network.
+
+---
+
+Additional Resources
+
+A few resources that may be helpful:
+
+- Twilio | 9 Steps to improve VoIP Call Quality
+- Speedtest by Ookla
+
+---
+
+---
+
+Set Up Your VoIP Features
+
+Now that you have gone through the first-time setup, you will want to configure your VoIP solution so it works for your business.
+
+- Navigate to your Voice settings.
+- Under Phone Numbers, get a call tracking number to track your lead sources.
+- Upload your custom audio files, including greetings and voicemails.
+- Set up your call flow so you can create an optimal customer experience
+- Configure call recording.
+- Set up call masking for your technicians.
+- Learn how to monitor your plan usage.
+
+---
+
+Pro Power Hour: HCP Voice
+
+[Video - youtube] https://www.youtube.com/watch?v=7OGnjVUI7h4
+
+---
+
+---
+
+Need help scaling your business with systems and automation?
+
+Check out Business Coaching by Housecall Pro to learn how certified coaches can teach you the Business Coaching playbook to drive your business growth.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1405407390/6af255d771be19cd421a959a3793/Business+Coaching+by+Housecall+Pro+%28Article+Footer%29.jpg?expires=1763568000&signature=bd579b9e2e2f8766a77222210e16ea042a571477657c1c00af9b52a9461b6e00&req=dSQnE81%2BmoJWWfMW1HO4zXH6IfgKZOkFnkVX%2B4ivOI%2F8gzZVi5ITdilKDUFU%0AXiECufhGAm6fbCK9JwQ%3D%0A
+
+---

@@ -1,0 +1,260 @@
+Automated Email Campaigns Overview and FAQ
+Source: https://help.housecallpro.com/en/articles/362406-automated-email-campaigns-overview-and-faq
+Author: Layla K
+Last updated: Updated over 9 months ago
+
+Summary: Efficiently create and manage automated email campaigns for effective customer engagement and streamlined operations.
+
+Housecall Pro Blueprint to Success Workshop
+
+If you're looking for more advice on how to effectively use Campaigns, along with other great features, register for the Housecall Pro Blueprint to Success Workshop!
+
+[Button] Register Here -> https://docs.google.com/forms/d/e/1FAIpQLScM2b6NgGEvrjkOFAZPunvol2CoR4FIIFiVgR7DmTRqgd3gQg/viewform
+
+---
+
+---
+
+Automated Email Campaigns Overview
+
+The Email Automation app is a great way to set up a reminder for the customer before a job occurs or to send a "thank you," and encourage your customer to rebook after a job has been completed.
+
+Explore essential email marketing strategies such as audience segmentation, content creation, and effective calls-to-action here.
+
+Learn how to design optimized email templates for improved visual appeal, personalization, and clear messaging, all while leveraging Housecall's automated email campaign app to streamline your efforts.
+
+Mastering these fundamentals ensures your email campaigns are not only effective and engaging but also efficiently managed for optimal results.
+
+---
+
+Set Up an Automated Email Campaign (Sent Before a Job Starts)
+
+Explore how to seamlessly send job reminders and promotional offers to your customers before their scheduled services. Follow these steps to set up your automated email campaign for effective customer engagement.
+
+To set up an automated email campaign that sends before a job starts:
+
+- Go to My Apps by clicking the 3x3 square icon in the top right corner of your Housecall Pro account.
+
+- Select Email automation app from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/1122651745/3f93f76d594a1f84ef790afe/Screenshot+2024-07-23+at+4_51_08%E2%80%AFPM.png?expires=1763568000&signature=ce806bf7fd9e0d24e6a29f419dd413baac11476064a6e66250ceab596c862330&req=dSElFM97nIZbXPMW1HO4zUCI8kYjsfi%2FkC1rmdKm0Reny2upBBXaBR3sEN3Y%0AvOQpcRrEHCenBiW1UlU%3D%0A
+
+- Click the green '@ + Email Campaign' button in the top left corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/1122655603/bf34a9f738d4c62a673d82e8/Screenshot+2024-07-23+at+4_56_17%E2%80%AFPM.png?expires=1763568000&signature=6b1bbbb0aacba3b15ffeb562e7580632c659f418f8784e439a9235d58c5a2679&req=dSElFM97mIdfWvMW1HO4zTZVuq%2BsXjsbMFgMCDDSG4LGLOmu5hgAoK3%2F7adF%0AkHENI4guZAqfcwoKaeg%3D%0A
+
+- A pop-up will appear, prompting you to select whether you would like to create a campaign before a job starts or after a job has been completed.
+
+- Select 'BEFORE JOB STARTS' to create an automated campaign that will be sent to your customers before a job starts.
+
+[Image] https://downloads.intercomcdn.com/i/o/81484179/c83266e0f28782e23861a863/58530751500e0_housecall-108.png?expires=1763568000&signature=4f4450b9c3616747fedb210f157c58da623028cb042a3b322894d7209358946b&req=fCEjHs1%2FmogTWLcX3D%2B5hsIB0PEO2VDQXNlQby3vFS%2BnUgQW1v%2ByqhNeIvjQ%0AVUASH5l3nuHlBPDP%0A
+
+- Click the tab labeled '(1) Content' to preview the content that will be sent to the customer. This is where you can add a personalized message.
+
+- On this tab, you'll find an email template that automatically populates with key job details, including the customer/company name, appointment date and time, service address, job description, and the Pro's name.
+
+- Anything in brackets [ ] is filled in automatically.
+
+- Scroll down on this tab to view and add a personalized message in the 'Additional message' field at the bottom of the email to add a personal touch or to provide the customer with vital information about the job.
+
+- Once you've confirmed your email content, you have the option to send a test email to yourself by clicking the 'Send Test Email' button on the left side of the window. - This allows you to preview exactly how the email will appear to your customers before it is sent out.
+
+[Image] https://downloads.intercomcdn.com/i/o/81484181/896ade237dd673ef24a693a7/58530e5cba5b7_housecall-110.png?expires=1763568000&signature=0e91c25eca7fda8754134062dc9f572e000dea68848fdd7cf820e132a90c9d9e&req=fCEjHs1%2FlYATWLcX3D%2B5hnAeWC7kI6tt7wKi5fZbI67KE27D76pulBfPAvwn%0ApRXw48X%2FVtj%2BPH1o%0A
+
+- Click the '(2) Rule' tab to proceed with naming and setting the rules for your campaign.
+
+- Start by entering a name for your campaign in the designated field at the top of the window labeled "Name Your Campaign."
+
+- In the section labeled "Rule for This Campaign," use the text field and day/month drop-down to specify how many days or months before the job starts the campaign should be sent. - For example, entering "7" and selecting "day" means the email will be sent 7 days before the job starts.
+
+[Image] https://downloads.intercomcdn.com/i/o/81484183/ada2e0aa8bcacdb55185edf7/58530d2ea691b_housecall-109.png?expires=1763568000&signature=5a2fa5c93e84ae7a81896ee462241662fc5055c6579f1631d180d54c30a6cd14&req=fCEjHs1%2FlYITWLcX3D%2B5hmeAiNn0geA2%2FhNNftM1n4%2B9aUyGj8%2FIKvuK0W5E%0ABq%2BCaDHLEiPPLCMD%0A
+
+- In the Options section, you'll see two additional options, each indicated by an unchecked box. These options allow you to set conditions for when the campaign should be sent based on customers' notification preferences.
+
+- "Send to customers with notifications turned off" - check this box to send the campaign to customers who have their notifications turned off.
+
+- "(Unless) customer is tagged with (Blank)" - here, you can define specific criteria for sending the campaign based on customer tags. You have two choices when clicking the drop-down next to this option:
+​ - 'If' - Select this option if you want to send the campaign only to customers who are tagged with certain criteria. For example, you might send a campaign only to customers tagged as "VIP."
+​
+- 'Unless' - Choose this option if you want to exclude customers who have specific tags. This could be useful if, for instance, you want to exclude customers who have already received a similar campaign.
+
+- To apply these conditions, enter the relevant tags in the provided field. Tags help you target your campaign more precisely based on customer characteristics or behaviors.
+
+- Once you have set your rule, click the 'Start' button in the bottom right corner of the window to start the campaign.
+
+---
+
+Set Up an Automated Email Campaign (Sent After a Job is Completed)
+
+Setting up post-job follow-up emails keeps customer communication smooth. You can quickly thank clients and offer discounts for future bookings. This saves time and ensures consistent, personalized engagement that boosts customer satisfaction and loyalty, crucial for business success.
+
+To set up an automated email campaign that is sent after a job is completed:
+
+- Click the My Apps icon (3x3 square) in the top right corner of your Housecall Pro account.
+
+- Select the Email automation app.
+
+[Image] https://downloads.intercomcdn.com/i/o/1122651745/3f93f76d594a1f84ef790afe/Screenshot+2024-07-23+at+4_51_08%E2%80%AFPM.png?expires=1763568000&signature=ce806bf7fd9e0d24e6a29f419dd413baac11476064a6e66250ceab596c862330&req=dSElFM97nIZbXPMW1HO4zUCI8kYjsfi%2FkC1rmdKm0Reny2upBBXaBR3sEN3Y%0AvOQpcRrEHCenBiW1UlU%3D%0A
+
+- Click the green '@ + Email Campaign' button in the top left corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/1122655603/bf34a9f738d4c62a673d82e8/Screenshot+2024-07-23+at+4_56_17%E2%80%AFPM.png?expires=1763568000&signature=6b1bbbb0aacba3b15ffeb562e7580632c659f418f8784e439a9235d58c5a2679&req=dSElFM97mIdfWvMW1HO4zTZVuq%2BsXjsbMFgMCDDSG4LGLOmu5hgAoK3%2F7adF%0AkHENI4guZAqfcwoKaeg%3D%0A
+
+- A window will appear, prompting you to select whether you would like to create a campaign before a job starts or after a job has been completed.
+
+- Select 'AFTER JOB COMPLETES' to create an automated campaign that will be sent to your customers after a job is marked as completed.
+
+[Image] https://downloads.intercomcdn.com/i/o/81484179/c83266e0f28782e23861a863/58530751500e0_housecall-108.png?expires=1763568000&signature=4f4450b9c3616747fedb210f157c58da623028cb042a3b322894d7209358946b&req=fCEjHs1%2FmogTWLcX3D%2B5hsIB0PEO2VDQXNlQby3vFS%2BnUgQW1v%2ByqhNeIvjQ%0AVUASH5l3nuHlBPDP%0A
+
+- Click on the tab labeled '(1) Content.' Here, you'll find fields where you can enter the subject line and body of the email.
+
+- In the email body, you can customize the content to suit your needs for a post-job automated email campaign. For example, you might start by thanking the customer for choosing your services and summarizing the work completed. You could then share tips on maintaining their system. Additionally, consider offering a special discount or promotion on their next service as a gesture of appreciation.
+
+- This approach ensures that your post-job automated email is not only informative, but also engaging and personalized, fostering stronger customer relationships and encouraging repeat business.
+
+- Once you've crafted your email content, you have the option to send a test email to yourself by clicking the blue 'Send Test Email' button. This allows you to preview exactly how the email will appear to your customers before it is sent out.
+
+[Image] https://downloads.intercomcdn.com/i/o/1122703123/03ef0568dca157211801aebc/Screenshot+2024-07-23+at+6_04_31%E2%80%AFPM.png?expires=1763568000&signature=1a18008cb6ccf3a4820b8034a2940faf0c8db721077b48eb17feb42281f8fc98&req=dSElFM5%2BnoBdWvMW1HO4zRynQKqREBZXz%2FqAER6zsjUApSVZmcKEPCrlYmRZ%0AumXVl67r8GmqWcLTogs%3D%0A
+
+- The next step is naming your campaign and choosing a rule. To name your campaign and add a rule, click the tab labeled '(2) Rule'
+
+- Name your campaign by adding the desired name to the field at the top of the window labeled "Name Your Campaign."
+
+- Below this field, you'll see the section labeled "Rule For This Campaign." This is where you will set up the rule or trigger for when this campaign will be sent out after a customer's job is marked as completed. - Use the text field and day/month drop-down to specify how many days or months after the job completion the campaign should be sent.
+- For example, entering "7" and selecting "month" will schedule the email to be sent 7 months after the job is completed.
+
+[Image] https://downloads.intercomcdn.com/i/o/1122703787/d4ee5c2fcd88d221e62265b2/Screenshot+2024-07-23+at+6_05_47%E2%80%AFPM.png?expires=1763568000&signature=85b2ae16329e4a761ecafd5f4e68e036bb679b8f533c8b07f4be6926174087c6&req=dSElFM5%2BnoZXXvMW1HO4zQNzgBw%2Bhqmd2WTAwOz%2BH9PxnOXX3TEioGxDSogk%0Ah04Vp%2FRwdI3%2FA8Din9Q%3D%0A
+
+- In the Options section, you'll see two additional options, each indicated by an unchecked box. These options allow you to set conditions for when the campaign should be sent based on customers' notification preferences.
+
+- 'Send to customers with notifications turned off' - check this box to send the campaign to customers who have their notifications turned off.
+
+- '(Unless) customer is tagged with (Blank)' - here, you can define specific criteria for sending the campaign based on customer tags. You have two choices when clicking the drop-down next to this option:
+​ - 'If' - Select this option if you want to send the campaign only to customers who are tagged with certain criteria. For example, you might send a campaign only to customers tagged as "VIP."
+​
+- 'Unless' - Choose this option if you want to exclude customers who have specific tags. This could be useful if, for instance, you want to exclude customers who have already received a similar campaign.
+
+- To apply these conditions, enter the relevant tags in the provided field. Tags help you target your campaign more precisely based on customer characteristics or behaviors.
+
+- Once you have set your rule, click the 'Start' button in the bottom right corner of the window to start the campaign.
+
+---
+
+Track Automated Emails Sent to Customers (Email Automation App)
+
+With your email campaigns up and running, it's crucial to stay informed about their delivery status.
+
+Here’s how you can effectively manage this process:
+
+- Click the My Apps icon (3x3 square) in the top right corner of your HCP account.
+
+- Select the Email automation app from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/1122651745/3f93f76d594a1f84ef790afe/Screenshot+2024-07-23+at+4_51_08%E2%80%AFPM.png?expires=1763568000&signature=ce806bf7fd9e0d24e6a29f419dd413baac11476064a6e66250ceab596c862330&req=dSElFM97nIZbXPMW1HO4zUCI8kYjsfi%2FkC1rmdKm0Reny2upBBXaBR3sEN3Y%0AvOQpcRrEHCenBiW1UlU%3D%0A
+
+- Once on the Email Automation page, select a campaign you would like to view.
+
+[Image] https://downloads.intercomcdn.com/i/o/921016992/5c146bd06bbaf2f0bc56aa55/Screenshot+2023-12-29+at+1.15.53%E2%80%AFPM.png?expires=1763568000&signature=5c08bd3bd04909aa530e15e561317127e013f070dc3654bb8e02af7ca9caf40e&req=fSImFsh4lIhdFb4f3HP0gDFcZb5xMlzAJ3WWwPGsliz9pAttjunsR2J9EzJF%0AEPcM0lLSy5wfQEezAA%3D%3D%0A
+
+- A list of the emails that have been sent will pop up.
+
+- If the email is successfully sent, its status will be marked as "delivered."
+
+- If the email fails to send for any reason, the status will be marked as "rejected."
+
+[Image] https://downloads.intercomcdn.com/i/o/921017157/4d6839876838006584929fab/Screenshot+2023-12-29+at+1.14.27%E2%80%AFPM.png?expires=1763568000&signature=5441d4e82986eacaa60c3b20589039d6cdd777d20059329d059de7398896177b&req=fSImFsh5nIRYFb4f3HP0gOpB3rlSiYvCsDQpNMOUiZAv7p9reeDPwqsAsJhD%0AFjofFKSMLsvptaEHKw%3D%3D%0A
+
+---
+
+Edit an Existing Email Campaign (Email Automation App)
+
+Keeping your messaging updated is important to ensure your customers are receiving the best information. Housecall Pro makes it easy for you to update older campaigns in a flash after they have already been created.
+
+To edit an existing email campaign set up through the Email automation app:
+
+- Click the My Apps icon (3x3 square) in the top right corner of your HCP account.
+
+- Select the Email automation app.
+
+[Image] https://downloads.intercomcdn.com/i/o/1122651745/3f93f76d594a1f84ef790afe/Screenshot+2024-07-23+at+4_51_08%E2%80%AFPM.png?expires=1763568000&signature=ce806bf7fd9e0d24e6a29f419dd413baac11476064a6e66250ceab596c862330&req=dSElFM97nIZbXPMW1HO4zUCI8kYjsfi%2FkC1rmdKm0Reny2upBBXaBR3sEN3Y%0AvOQpcRrEHCenBiW1UlU%3D%0A
+
+- Select the campaign that you'd like to update by clicking on the campaign's line.
+
+[Image] https://downloads.intercomcdn.com/i/o/30926901/3eee34973198c67cbbef0d05/HouseCall.png?expires=1763568000&signature=1551c9109010d12d3e956cbea9b4fb7f95342eee0434a78375ebcbb942925315&req=dyAuFM93nYATWLcX3D%2B5hpZGVYqCSjJS3jnhIUZ7dhP9ghD5SfgmOsXcPSxH%0Aqa9imtQLayfDxKk9%0A
+
+- This will bring you to a new window that will show an overview of the campaign and emails that have been previously sent.
+
+- To update the content, click the 'Edit' button in the bottom right corner of the window.
+
+[Image] https://downloads.intercomcdn.com/i/o/30927223/844de35e3fff06e29a8630cd/HouseCall.png?expires=1763568000&signature=40c3cff0fc59a0e0cd5b526be047bdf4c97f75961bfdd7ecafc414f7162671e3&req=dyAuFM58n4ITWLcX3D%2B5huODkG1vKaviyXi5aSBOr3Wv6SaX6fjVfjaxMmRX%0AkcyBpSTFxqSlTCfy%0A
+
+- You can then update the content and the rule the same way you would when you first created the campaign.
+
+- When everything is adjusted and ready to go, click the 'Update' button in the bottom right.
+
+- Your email campaign is now up-to-date! All emails sent from this point on will contain the new messaging.
+
+[Image] https://downloads.intercomcdn.com/i/o/30927456/9d16fb2cb31c6b2c79910b92/HouseCall.png?expires=1763568000&signature=351974974b95f66d40738be44cb43b85a2bbf32f85b44bf4a578612eafc175cb&req=dyAuFM56mIcTWLcX3D%2B5hoS4Guh%2BzWBwFqwbQCfUW11%2FPQITQIB3Hp5LIQOF%0AWncgjar6zJEfPYi6%0A
+
+---
+
+What does a Job Reminder email look like from a customer's perspective?
+
+This is an example of the email your customers will receive when you set up automated emails to go out before the job starts:
+
+[Image] https://downloads.intercomcdn.com/i/o/57117901/feea17ceeb042bf48cfb21a1/Screen+Shot+2018-04-25+at+2.51.47+PM.png?expires=1763568000&signature=f0d78afdcb3e024813c9edc954df6c4f2290278cf596ed2406b7b61128ddad75&req=cScmF853nYATWLcX3D%2B5hpqXbtndq2gHi8UT4bolehtPZENE%2Bm1ckb8p1g9G%0AyuX8wzw74F6180%2Fy%0A
+
+When receiving a job reminder email from your company, your customers experience a well-organized and informative communication designed to streamline their service experience:
+
+- Header: - The email begins with the company logo, establishing credibility and brand presence up front.
+
+- When: - Customers immediately see the scheduled date, day, and time of their service appointment, ensuring clarity and eliminating confusion.
+
+- Address: - Below the scheduling details, the email provides the service location address along with a Google Maps image.
+
+- Services: - A clear and centered list outlines the specific services scheduled for the appointment, accompanied by brief descriptions or summaries to clarify each service.
+
+- Footer: - Concluding the email are essential contact details, including your company's phone number, email address, and physical address for customer inquiries or adjustments to their appointment schedule.
+- Additionally, a hyperlink directs customers to terms and conditions, ensuring transparency and access to important service-related policies.
+
+This structured format not only informs customers effectively but also enhances their confidence in your company's professionalism and commitment to service excellence. It ensures that customers have all the necessary details at their fingertips, contributing to a seamless and satisfying service experience.
+
+---
+
+How to Remove a Customer from Email Marketing Campaigns
+
+To remove a customer from email marketing campaigns:
+
+- First, you'll need to create a Customer Tag. - This tag can be as simple as "No Email Marketing."
+
+[Image] https://downloads.intercomcdn.com/i/o/1049668163/8f1d846c8fba5be95c2e2c0b/Screenshot+2024-05-13+at+12_59_53%E2%80%AFPM.png?expires=1763568000&signature=9a20e0b205977cd44455a2fc0543daaedfc1c1613dea996c54e5491bbde7254e&req=dSAjH894lYBZWvMW1HO4zXBlycIN5FqdeH2M%2FcKVt2n%2BKfliJZKHCL8llM%2FE%0AtIYXYvwJgJNzMgO3EF4%3D%0A
+
+- After you've created and applied this tag to your customer's profile, you should then return to the Email automation app: - Click the My Apps icon (3x3 square) in the top right corner of your HCP account. - Select the Email automation app from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/1122651745/3f93f76d594a1f84ef790afe/Screenshot+2024-07-23+at+4_51_08%E2%80%AFPM.png?expires=1763568000&signature=ce806bf7fd9e0d24e6a29f419dd413baac11476064a6e66250ceab596c862330&req=dSElFM97nIZbXPMW1HO4zUCI8kYjsfi%2FkC1rmdKm0Reny2upBBXaBR3sEN3Y%0AvOQpcRrEHCenBiW1UlU%3D%0A
+
+- Select a campaign you would like to remove your customer from, then select the 'Edit' button in the bottom right corner of the window.
+
+[Image] https://downloads.intercomcdn.com/i/o/1049669913/f4e16a5536ade56d911caac1/Screenshot+2024-05-13+at+1_06_41%E2%80%AFPM.png?expires=1763568000&signature=ff87eb2ccd3c874f0471bbc0dbd839fd1b459e12d221b4bc07c9e548cf766114&req=dSAjH894lIheWvMW1HO4zdOFwerklgPT1468HseGNsCMvLJduCP6KMiCQ1Qj%0AenSSflr0GeH9IcYObkM%3D%0A
+
+- Click the 'Rule' option in the top right of your screen and then check the box marked "unless customer is tagged with."
+
+- Enter the customer tag that you created, then click the 'Update' button in the bottom right corner of the window.
+
+- Now, customers who are tagged will no longer receive your email marketing campaigns.
+
+[Image] https://downloads.intercomcdn.com/i/o/1049672389/d87d0fa8956317c92bf6b72e/Screenshot+2024-05-13+at+1_08_28%E2%80%AFPM.png?expires=1763568000&signature=ace07f1125a33e12d952267103ca0f112fe346c7056db6806a36017e944fbe0d&req=dSAjH895n4JXUPMW1HO4zYYMs6%2B7BzBpekjlmMU1Ct7qsWNJJtvUOMAtfVTr%0AaAjYrClPzaiTjVWybJg%3D%0A
+
+---
+
+Job Reminders Video Tutorial
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/mkl1jqxmer
+
+[Button] Click Here to Create a Job Reminder Email Now -> https://pro.housecall.io/pro/marketing/email?utm_source=intercom&utm_medium=internalpage&utm_campaign=help-center&utm_content=webportal-job-reminder-email&utm_site=web-portal&mc=Content&msc=help-center-job-reminder-email
+
+---
+
+Check out our tips on how to better connect with your customers and how to acquire and keep customers with email
+
+---

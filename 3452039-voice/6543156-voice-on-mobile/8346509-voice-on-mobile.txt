@@ -1,0 +1,296 @@
+Voice on Mobile
+Source: https://help.housecallpro.com/en/articles/8346509-voice-on-mobile
+Author: Angel A
+Last updated: Updated over 3 weeks ago
+
+Summary: Voice on Mobile will allow you to make and receive calls in the Housecall Pro mobile app.
+
+Configure Your Mobile Device for Calls
+
+To get started with Voice on Mobile, you must first enable permissions for the Housecall Pro app to connect to your mobile device.
+
+Mobile Device Permissions
+
+The permissions that you will need to enable are Allow Notifications, Enable Microphone, Enable Bluetooth, and Enable Full Screen alerts.
+
+- Allow Notifications In order to send you notifications of calls, you will need to allow Housecall Pro to send notifications to your phone. You can verify notifications are enabled by navigating to your phone's settings and confirming notifications are toggled on for the Housecall Pro app.
+
+- Enable Microphone The permission Enable Microphone will allow the app to connect to your microphone to complete the call. You can enable microphone permissions using two different methods. The first method is by navigating to your phone's settings and ensuring the permission is toggled on under the settings for the Housecall Pro app. The second method is by clicking on the Get started link in the mobile app and following the prompts to enable this permission (step-by-step instructions below).
+
+- Enable Bluetooth (Android only) If you wish to use a Bluetooth headset or connect to your car's audio, you'll need to allow Housecall Pro to access your Bluetooth. This setting is on by default for iOS, but will need to be enabled for Android.
+
+- Enable Full Screen alerts (Android only)
+In order to see incoming calls on your lock screen, a separate permission needs to be granted. This setting is on by default for iOS, but will need to be enabled for Android. You can enable Full Screen alerts by navigating to your phone's settings and confirming this permission is toggled on for the Housecall Pro app.
+
+Enabling Permissions through the Mobile App
+
+- To begin the process of enabling call permissions on a mobile device, start by clicking on the blue Get Started button on the home screen of the Housecall Pro app.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1766395483/dedcce4a6fe5636585316ff2b596/Screenshot_20241018-113037.png?expires=1763568000&signature=b5c00c4e36cf66e7c29798e20486a5b1a2611c3821c6f1d6ee298b49f31de4f2&req=dSchEMp3mIVXWvMW1HO4zTrYOzzBru3byl2pDLThihOfJs%2BqhhbauloehOtn%0An2IUqAbmr8TjXQi2XQw%3D%0A
+
+- From there, click on the blue Configure microphone button to enable this permission.
+
+- You will be presented with a few different options for when to allow the app access to your microphone. You will want to choose the While using the app option.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1766396190/fbe459f62c9b96b636ef0ff33d27/Screenshot_20241018-114645.png?expires=1763568000&signature=962acbfe12fbf20ab0e3f8b2385a0ccb61efd4914bf9d06048a5f979fc38bc11&req=dSchEMp3m4BWWfMW1HO4zVVDZPbJ%2BVYQzycgzAqB1zWvc9Buhs6FurlV1oQj%0A562HiVYzzR79n60o%2FmM%3D%0A
+
+- Next, the app will present the option to enable Bluetooth. From there, select Configure bluetooth and then click Allow to enable this permission.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1766396473/0b18ad4d1f15cbdef0138e006ff1/Screenshot_20241018-114818.png?expires=1763568000&signature=56de136251f8c83703e729132a2ef5ca4b5f3babdba946570556489c5e40c4af&req=dSchEMp3m4VYWvMW1HO4za6JlNtq6B%2F4c2X71CTnpHRq70OTRA%2Fds9D7lzwl%0AJue4TYmvkd25yongvSU%3D%0A
+
+- The video below also presents the flow of granting permissions on a mobile device required for Voice on Mobile to work correctly:
+
+[Video - vimeo] id=973071661
+
+- If any of the permissions are revoked or not granted, an additional red banner will be displayed. Clicking on it will open dialogues allowing the user to grant the required permissions needed for Voice functionality.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1800695120/9a7117a5e338351d952803aaf0cb/Screenshot%2B2024-07-01%2Bat%2B3_01_16-E2-80-AFPM.png?expires=1763568000&signature=496928a8e611422d85656eaa382a524a370f586a15b79de5dc3a700d7fb92627&req=dSgnFs93mIBdWfMW1HO4zdvEc6X1aTS6lRO0frsRE5YzKTbAHAI4J6rkwxhn%0A%2Bj9MQ8PuWEZ%2FGUexqjw%3D%0A
+
+Employee Permissions for Voice on Mobile
+
+Depending on the access you want your Team members to have, you can enable or disable specific permissions in their employee profiles to set up the Voice solution on mobile in a way that works best for your team.
+
+- View Call Logs: Employees will be able to view the global and customer call logs on the web and mobile.
+
+- Listen to Call Recordings on Web and Mobile: Employees will be able to listen to call recordings on the web and mobile.
+
+---
+
+How to Make and Receive Calls on Mobile
+
+With Voice on Mobile, you can easily make and receive calls from customers using either the VoIP dialer or your native phone dialer.
+
+---
+
+Place an Outbound call on Mobile
+
+To place an outbound call to a customer through the HCP mobile app:
+
+- Tap the Customers icon in the navigation bar at the bottom of your screen.
+
+- From there, select a customer you'd like to place an outbound call to. This will open their Customer Profile.
+
+- In the Contact section, tap the phone icon to the right of the customer's phone number.
+
+- You'll then be presented with the option to call via the Housecall Pro Phone (VoIP) or from your native phone.
+
+- Select the Housecall Pro Phone (VoIP) option to initiate the outbound call.
+
+- You will also see this option on the customer job, estimate, and lead details screens.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1221280114/83fd9863b382ba396a462ec11882/Screenshot_20241018-154937.png?expires=1763568000&signature=daa71ef83d726051841b354960d3a8863bed2f9c6a8a4644b04dea6f0cd4cc06&req=dSIlF8t2nYBeXfMW1HO4zbrAAkkfLlleMvqSnXpXbNwkngLS7WDTmrhu5BTF%0AmCxg%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1221231624/66d8564a8f8f8bdd0e7c2bc2a66c/Screenshot_20241018-141414.png?expires=1763568000&signature=5b79f8b4c487c314e79ef62d4fad66866d0a0913ff763e24fa043314c56b1915&req=dSIlF8t9nIddXfMW1HO4zb4Ona9MAKCaB1KgbdHJu85ttJz4l5RWA0c3E3mc%0AYhug%0A
+
+To place an outbound call using the dialer through the HCP mobile app:
+
+- Tap the Inbox tab in the bottom navigation bar of your Housecall Pro mobile app and then select the Voice call log option.
+
+- At the top of the Call log, tap the blue phone icon in the top right corner.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1721206973/aa157763632e432c923503212102/Screenshot_20241018-164949.png?expires=1763568000&signature=014291bbaaf3e0cc1be9cd1813bf817a3135ae9c1832342f43e8f4bcaf25b7d9&req=dSclF8t%2Bm4hYWvMW1HO4zceYnOAHSm0cZh7%2BV6rvtcP10B%2BKsz1fPdyuEMcJ%0AMREy%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1721205787/47dbe5ccd63b255e88d5e31bb3ce/image.png?expires=1763568000&signature=68e838eb349e752a8a56171491ea74a7f54c5fae9c88b6f12265f17ac77bfd7d&req=dSclF8t%2BmIZXXvMW1HO4zdPqkZAGHM27w%2B%2Ft7VkYCliZUEZLMMvHbhEOgp1U%0Aa8IG%0A
+
+- Enter the phone number, or tap to paste a copied phone number you wish to call, then tap the green phone icon to initiate the outbound call.
+
+- During the call, you can tap Create new and then choose either Intake to create a new Intake or Call notes to add call notes.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1775687883/5840892b0df76c5a35789a819eb4/34b9473f-4ef4-4258-97a6-7335b5b4df9e?expires=1763568000&signature=0acccebe014731ccdb3b91052e76400d868d5392bb821166c9efeb398b4af4b0&req=dScgE892molXWvMW1HO4zZBRy6YOTiv8lBGUqRNqqhWu8dVtoWg8pm9rq1um%0AVfXf%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1721227599/a8518d6a0a9ebd13b106009b3f02/image.png?expires=1763568000&signature=22a03090630057173a29a13af6818ffe43868321b4382e89b378c7a19ae69cd6&req=dSclF8t8moRWUPMW1HO4zSOAh4q%2BwcuHcm38cIqIe05U%2FnzYrlXUmfRVrRBv%0Ab3n5%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1721230252/ea8cab767619123b081be458b977/image.png?expires=1763568000&signature=454fc384377e502517e1f99eb820b2b2b48746cfb318035447d0b671b7f42e7d&req=dSclF8t9nYNaW%2FMW1HO4zWQLQdHMBgNCn8L9MWv4wUP7ymC%2FdcibmUaPPOaL%0ABh3%2F%0A
+
+- On the New Intake page, you have the following options to choose from: - Add new customer
+- Select existing customer
+- Request guide
+- Schedule
+- Line items
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1721240475/18da2f71fcb42bb63e66e8cabd1f/image.png?expires=1763568000&signature=53e0e0366a5c74406262e3c92198d5538e495be8ae50dca350857fa8637ecc80&req=dSclF8t6nYVYXPMW1HO4zVneQkG4ZALJEa5hOoHBnwkrsfKKAncCV%2B69GqPZ%0Am%2BfPm2hXDGueEBJDv30%3D%0A
+
+---
+
+Receiving an Inbound Call on Mobile
+
+- When you're logged into the HCP mobile app and an inbound call comes to your main business line or a call tracking number, a notification will appear on your device's screen.
+
+- If the phone number is attached to an existing customer, the customer's name will populate. If not, only a phone number will be shown.
+
+- To receive the call, tap Answer.
+
+- To decline the call, tap Hang Up.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1224936380/57f4d2d8d50b99869bf9f6923216/Incoming%2Bcall%2BGIF.gif?expires=1763568000&signature=15de003d1c7c902f1e44b54b1dafa4964ab8d34429f3aaa98b2a2076f83b490a&req=dSIlEsB9m4JXWfMW1HO4zTEMawY1pSbnlY%2BBjk00xidlbDXEzNsQQ1g0uygI%0AS5WwQnnqDbvkBHT%2B%2BOQ%3D%0A
+
+---
+
+Add a Call on Mobile
+
+To use Add a Call on Mobile:
+
+- During an active inbound or outbound call, you can add a participant to the call by expanding the menu at the bottom of your screen and tapping the Add call button.
+
+- From there, select an employee to add to your conference.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1368584944/8c60c7ca28135457b0e90c9e2302/AD_4nXe4jggLvlPgdVfdHcVRd3zubpyfrWXRB1AGbYyEpGSc7iOVV7Rlf5zGMvipEJ3PScQ_AyH-NgjdzdMecBRtgJMSzMJifPY2SQ0Qd5q78QsYEygw_zkpcSmsiIH6B85R5vgvXbEVPA?expires=1763568000&signature=53b9f594646033f879aacdea1d4a14859c1b2629754c458c452a2b80236478ff&req=dSMhHsx2mYhbXfMW1HO4zV33fCl268q2BP331zMh%2BLb3zzf%2FayvQKxc78Rm4%0AbEYJ%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1368585423/eaa5e505941546fd95fede52e425/AD_4nXdq1pnhAR4PWnL0YeBA8tTWYqO0x4dlUdmcT1bS9NIqA-EGCoixXQjjpdgWIMEhcjiP4BPltQiMRysfDuxI7qeEwXHV3cTIlm5vrUh6bFy3JLWo9UkYXA2KIXB82khOiFVZ9oU2nw?expires=1763568000&signature=db894f1388f008a1d36e21d2206f223ae6fb3cc3db33845621a563ef88e5cafa&req=dSMhHsx2mIVdWvMW1HO4zQblfRNVqU8RWytnVF4mBWQjLulGMBBgzsGSR88Y%0Ahl1q%0A
+
+- Once an employee has been selected, you'll see the Conference call screen where you can view the call participants.
+
+- If needed, you can tap Disconnect to the right of a participant's name on this screen to remove them from the call.
+
+- Navigate back to the active call screen by tapping < Back in the top left corner.
+
+- You'll be able to tell that you're in a conference from the active call screen by expanding the menu at the bottom, where you'll find the View Conference button. Click this button to navigate back to the Conference call screen.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1368585800/990f2f21b2828cd4aa6cedef56d9/AD_4nXeTScswPk8_oEVvh2-z3MpUAZiySseLIk9LFuGfb7EHBSJxppgit2uhTrtw-JtFmMBLUJyf5nfiUf-4X4y7a2WbhVNljcgEeUQC5VGA3LU2EQhZf0qguNCZ4x1kwsFFuXH0xNIq6Q?expires=1763568000&signature=9ea5293e9bf22367eb8b1463b9b69d3d4a3befda7636458404ab358e62bf7da1&req=dSMhHsx2mIlfWfMW1HO4zUJ2Ku76BUQf%2FniHaBdzOEL1OKuDv2X%2FS25wc4Gl%0AQdVp%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1368586351/abbce3bafd7b7cf476ebf95d7fe3/AD_4nXf5nhsREoj-QNYL321GUPe9pb9SDhrxIdUpJoOwnlKWS9LmxuQUQzz_YOTBLc63_msjhERokEXD1anyqaVpcVbg9zKBeAQuxRU5qXlDoKgQNcFZllERvOjrvWumqIshv_JiZA9IMw?expires=1763568000&signature=86972359e5eef4de9343f9d3fba0ab99f4f1f982a63e2cb03d1cbab4cdb16359&req=dSMhHsx2m4JaWPMW1HO4zXYnDfqzhcTmMnS6HYKxJ%2Fb81QQx%2FQdb06GFaFw3%0AUzFb%0A
+
+---
+
+Accessing and Filtering the Global Call Log
+
+The Global call log allows you to see all outbound and inbound calls for your Primary Number and Call Tracking numbers.
+
+To access the Global Call Log:
+
+- Tap the Inbox tab in the bottom navigation bar of your Housecall Pro mobile app.
+
+- After you've opened the inbox, select the Call Log option at the top of the page.
+
+- From here, you will see the global call log where you can filter between all calls, missed calls, and voicemails by clicking on their respective tabs.
+
+- This will allow you to easily find the call type you are looking for.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1223606878/e9574cbc6c99811e494e388cc385/Screenshot_20241018-164949.png?expires=1763568000&signature=9e55b362fd9cac373061d1bca0e376cbfe0f35da7e93deac0c661bcbc2bb2d20&req=dSIlFc9%2Bm4lYUfMW1HO4zR7fsnbPJ3UmfwTsSVWGYXm81UQ9W9ndsIEiVHES%0Az%2BLY%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1223607014/f444f2b3dc14d5f67d4e2751bce8/Screenshot_20241021-103616.png?expires=1763568000&signature=9f8c80be287991d5b2e6fd0764bf70727e480241f5e26f98806d17b2cc3966ea&req=dSIlFc9%2BmoFeXfMW1HO4zfrk6MuI8x7e2VAmnvQpz1AJ31NcCKCL72w%2B1vVr%0ADBKU%0A
+
+---
+
+Voice on Mobile Call Details
+
+The call details screen for Voice on Mobile will help you easily see information on individual calls and listen to call recordings and voicemails.
+
+To access the Call Details screen:
+
+- Click on the Inbox tab in the bottom navigation bar of your Housecall Pro mobile app.
+
+- After you've opened the inbox, select the Call Log option at the top of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1223581032/3b672b8cbe8f99e58195c33d7fd7/Screenshot_20241018-164949.png?expires=1763568000&signature=bf00e37611bc35e4ce0b9ae16bd579b3c536c70104d4e50b2c82fccf576eecad&req=dSIlFcx2nIFcW%2FMW1HO4ze4g6cn70ZYGImI5aL1zHVfvMEXPC6LeF%2FFPUEqf%0AdNKzzGJx%2FOiS5%2FV3iYM%3D%0A
+
+- Select a call you'd like to view the call details for.
+
+- From there, you'll be brought to the call details page, and you will be able to see information such as customer name, customer history, call notes, call recording and more.
+
+- Below, we have provided a breakdown of all the information shown on the call details page.
+
+Table:
+Row 1: + - Create a job, estimate, or new intake form and attach it to the call Customer - Add or edit the customer attached to the call.
+- See Customer History Call Notes - Add or edit call notes Call Recording - Listen to call recordings (if available) and voicemails for a call. Lead Source - View, add, or edit the lead source for the call Call Reason - View, add, or edit a call reason
+- If a job or estimate was created from the call, it will be linked here Call Information - Employee - User who made or received the call
+- Phone number - Number the call came from/was made to
+- Date and time - When the call took place
+- Duration - How long the call lasted | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1225012754/6a4605878f66d786461f9bd5a3d3/Screenshot_20231115_103316_HCP-2BStaging.jpg?expires=1763568000&signature=fecfeb186182a16a7a0de6e9c0e04c6751bad6fa2dbf1ae5ca8ce577bda51d77&req=dSIlE8l%2Fn4ZaXfMW1HO4zbaioglzszWPoKxaN5Z2zUFfijd1Ixw2YvgjwsaR%0AkrEv%0A
+
+---
+
+---
+
+Edit the Caller in Call Details
+
+Easily edit the customer attached to a call through the Call Details page. Please note that this will only edit the customer for this specific call, not all calls attached to that phone number or customer.
+
+---
+
+Edit Caller on iOS
+
+- Go to the Inbox tab in the bottom navigation bar of your mobile app.
+
+- Select the Call Log tab and choose the call you'd like to edit.
+
+- Select Edit customer.
+
+- Search for and select a customer to add to the call details.
+
+- Alternatively, create a new customer by tapping the + icon in the top right corner of your screen.
+
+- The customer will then appear on the Call Details page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1225089544/c7243bcc77f42f1233c530a836e3/edit%2Bcustomer%2Bios%2Bgif.gif?expires=1763568000&signature=4abcdd5cc1fc447092c06ff0f9ac955cc20cecc9b5408b272c5c8a3212056a06&req=dSIlE8l2lIRbXfMW1HO4zRjHgUZe0jYR1p1QKr775ysa7UJHcI81BAPqwdi0%0AAuMvoBaNLghhTrW55AE%3D%0A
+
+---
+
+Edit Caller on Android
+
+- Go to the Inbox tab in the bottom navigation bar of your mobile app.
+
+- Select Call Log and then choose the call you'd like to edit.
+
+- Tap the pencil icon to the right of the customer's name.
+
+- Search for and select a customer to add to the call details.
+
+- Alternatively, create a new customer by tapping the + icon in the top right corner of your screen.
+
+- Once a customer has been added or selected, they will appear on the Call Details page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1225089527/4e2177d0fac81266ecef4835ed7e/edit%2Bcustomer%2Bandroid%2Bgif.gif?expires=1763568000&signature=1cb9007480835ed835f28fc7428afabced65ea351f622daef04c82e4b5af46da&req=dSIlE8l2lIRdXvMW1HO4zf9uLAIR45%2BSjI9LBNPCVc08L%2FD61CsZX%2FFHBCuB%0AqO7sf9CRbfDJiy3VjS4%3D%0A
+
+---
+
+Add or Edit Call Notes in Call Details
+
+Add or edit the call notes on the call details screen to add new details or correct the information previously entered.
+
+To add or edit Call Notes:
+
+- Tap the Inbox tab in the bottom navigation bar of your HCP mobile app.
+
+- Select the Call Log tab, then select a call.
+
+- Tap the Call notes button, then add or edit your call notes.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1225168763/6883f3461e0249d50f1b3f2b0a37/Screenshot_20241018-164949-1.png?expires=1763568000&signature=1830b95dc9f815d936218c71b4df9b65c885c9fe4599781f422fa36bbbcfdc43&req=dSIlE8h4lYZZWvMW1HO4zfwR5apPmj2zSWZhrzOVTAIX8dacP6kZl4bNWIQt%0A%2BGou%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1225170768/2cc8e96ca7667aa4fd54be77b8dd/Screenshot_20241018-165030-1.png?expires=1763568000&signature=55274a5334b8ea457e23a9e8fa6f1c3a8ae604f3aa8bc19875617a9e35fdb3fc&req=dSIlE8h5nYZZUfMW1HO4zbxR4RnPoqH%2FSAzvQePNC56uHn8GJjq0VtTp7Ot0%0ANZI5%0A
+
+- When you're ready, tap the check mark (Android) or the Save button (iOS) in the upper right corner to save.
+
+Table:
+Row 1: iOS | Android
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/885990623/e55dea64411088ccb71bf5a7/Edit+note+iOS+gif.gif?expires=1763568000&signature=7dbcde7b1a030b2174eb574d868e21e62c94e7722268b64aba6132ba45aba86a&req=fCgiH8B%2Bm4NcFb4f3HP0gPDILGdYiwpWw9DdbUOetei7cv44V99ppt3X%2FjYY%0AF7M%3D%0A | [Image] https://downloads.intercomcdn.com/i/o/885990658/91826089c230c232c6808bc0/edit+note+android+gif.gif?expires=1763568000&signature=0bb6354ce1061780dfbfc0a2a2efc2b830f7dbfa0f7483e361672822b2b50872&req=fCgiH8B%2Bm4RXFb4f3HP0gE7HUBd4HfoPF60f%2FR7PFyxhxGtnjmqJlSwFo1z8%0A6vQ%3D%0A
+
+---
+
+---
+
+Adding a Mobile Device to Your Ring Group
+
+Here's how you can create your VoIP ring group with mobile users, which will dictate which employee receives a call when it comes through the system.
+
+---
+
+Create a Ring Group for Mobile
+
+To add a mobile device to a Ring group, follow these steps on the HCP Web portal:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Communications from the Settings menu on the left.
+
+- Click the Voice tab in the Communications settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653315108/707de7862dfd2062961c787f4894/image.png?expires=1763568000&signature=63d89f300e06f49cd1022c4f303eb7257b7cc3fce9de88c73f676c9e7ad1d015&req=dSYiFcp%2FmIBfUfMW1HO4zaEpJEL7iqAGVnVCO1O1kcqjczGMIZvX%2Bqu2VCkF%0AJiD6OD5dzHpmE5HZRL0%3D%0A
+
+- Select the New ring group button.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1653317616/61c510e80d48cf723f5c484cc5d0/image.png?expires=1763568000&signature=76f92b239a17410f61464c21b1bcf3dfa32ef1c1c3984c8c4b0e1d12e0ab76ec&req=dSYiFcp%2FmodeX%2FMW1HO4zUK1cixQ%2FXX%2B0jECgI40Axe%2B2hNyarP5sGyQWdts%0AHxV34R%2BeKxdaFEq9Sjc%3D%0A
+
+- Next, add a group name for your ring group and select the employees you wish to be part of your group. Your ring group can contain a maximum of 10 destinations.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1225189855/e38d896a2820863d57e9d8224f26/image.png?expires=1763568000&signature=db4ddec604039f899bf8a279035b218fbb022fe6197ec9b95404f4f57d08f7a5&req=dSIlE8h2lIlaXPMW1HO4zaKEebKjLnHTeM%2FURn%2BioMfqeN8FOeKJE7CF9Sz3%0ATXqo%2FR0mPANavDZWs74%3D%0A
+
+- After you've added your employee's mobile app to the Ring group, click the Create Ring Group button in the top right corner of the page to save.
+
+- Now, you can add this ring group to your call flow!
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1225385602/589d8f5bb2e6ef89c9c02bad5809/image.png?expires=1763568000&signature=e300eb43d60d411c3766fd66e0f25644d08ee968921026bdb25dd811cf850a9f&req=dSIlE8p2mIdfW%2FMW1HO4zQgTrCLzXOKKSqU4XbhfdIZK%2FcWEE9z6Z%2BiOWG1Z%0AzzI491DBemX%2Fwh2vx%2BQ%3D%0A
+
+---

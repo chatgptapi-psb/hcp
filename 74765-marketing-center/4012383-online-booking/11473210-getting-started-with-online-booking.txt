@@ -1,0 +1,103 @@
+Getting Started with Online Booking
+Source: https://help.housecallpro.com/en/articles/11473210-getting-started-with-online-booking
+Author: Anna E
+Last updated: Updated over a month ago
+
+Online Booking with Housecall Pro
+
+Online Booking lets customers book and pay online directly from Google, your website, or a direct link anywhere, helping your business grow 24/7.
+
+Online Booking is located in the Marketing Center, making it easy to reach more customers, book more jobs, and build your reputation—all in one place.
+
+To view the Marketing Center in Housecall Pro, click on Marketing in the top navigation bar of your Housecall Pro account and then select Online Booking.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1545775854/7e695cd3000635aa4bca29b22610/AD_4nXcpubwTTS-ygFXAZ8cGjuRaZ2nHCyPuppYNEsmmvOU6wGdwjOSDySfgf-XU8Ze2USNoc6g2uIbRDCCsqftPjZwT5DHFj1V7uTdJGbCyeJldoC2S7bbg0enJ9r_HabrlGCZuqs-bTQ?expires=1763568000&signature=5cc7f56b73a98b4c65c5b5504112e3789c99c686715f16df681b735a58814df9&req=dSUjE855mIlaXfMW1HO4zXh%2BDzrmN5Zx%2Bu689jSOVLjhaRn47gylO3KoPPVF%0Ap193fdH5aZa6H159sHA%3D%0A
+
+---
+
+---
+
+Set Up Online Booking
+
+To set up Online Booking, just tap the “set up online booking” button, and we will guide you through four steps:
+
+- Step 1: Set Up Service Types
+- Step 2: Add Your Availability
+- Step 3: Preview Your Online Booking Page
+- Step 4: Share Your Online Booking Page
+
+---
+
+Step 1: Set Up Service Types
+
+To have your Online Booking ready, you need to have your services filled out in your Price Book. Based on your industry, we will have a few pre-filled services, so you can either continue with these services by clicking Next, or you can add your custom services to your Price Book.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1545775852/a5f83f109784baa725719810df1c/AD_4nXd7k6SGhkBBAJTcvk8A4-Q83zYC9MwFZK1F8-PFI3hSypZIA4WEXpx4P_CJwk5u_ePH0mXvOYPgOMLi3rTjAhybW1o9v1-AdhS-VikXkvzzVCUqziXtVI4aMA9Pi93XQoG65AL7-g?expires=1763568000&signature=802f4fe51aae5656217c9af16597e4d5f6b6ccd821cca0a1e7e7053e00c3e2af&req=dSUjE855mIlaW%2FMW1HO4zcyuyXvR7%2BrnPAtKYFV5cm35jBBLAnh3MUiJg69f%0Ay5cwNYMemGhlyCgybZM%3D%0A
+
+When adding or editing services in your price book, find the section called “Booking & scheduling preferences.” Here, you can manage your Online booking service preferences.
+
+- Toggle - On or off to show this service in Online Booking.
+- Service Duration - Depending on the length of service, it will show available times when a customer is booking.
+- Assign service to an employee - The service will automatically go to a specific tech if you assign them.
+- Book this service as - Choose between Job or Estimate.
+- Troubleshooting questions
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1562529330/6927bfeba67827de3a6277765df1/AD_4nXfv_vHsa2X1LaHR9wNx57XZeanjyeBVLx8MBoXFWO6T-DGMG2ploOmp7eQMab-UASO4rCOzqtkUgNMWJouvAAOlt8NqtzC6ksp0fZLXhFOG35IigdOyrv8Hue5d4AbKArF7ruOf?expires=1763568000&signature=f3d8b71ee3c83543bb392a46e991ed53b4cb440a233712cdb411c6b766a4d0eb&req=dSUhFMx8lIJcWfMW1HO4zdGPiy1U4t86xMsAXVAIP1lWJRWxnLlj0sRhuIDc%0A1rlqCH9pET00bdsPwNM%3D%0A
+
+---
+
+Step 2: Add Your Availability
+
+Now you will set up your availability by defining booking hours, arrival window, and earliest availability.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1545775850/6bb014d73e47179a2c727a2193ba/AD_4nXdZRn6HsDlWIIzzSdf90g2ivWKz3ZTJ8dWOD5inmTj_mLnvshkePdetvCVitSX59IlBZ8awROu0L54Fj9wozXQmD3524_l3EMEt6qSvnrnSs2LEcHROB4kGkLvTPELXiJxadFWU?expires=1763568000&signature=c4b1cc14ac1c4dd946bf8d19afcfcd78c2b7f0fc3a43184d3d699356122f1ac3&req=dSUjE855mIlaWfMW1HO4zX43WvzZwKNTsbYX5kaNF%2BLQHDQYPBHrzyAer8Bg%0APGlw6Gx3eTrlPB89PLk%3D%0A
+
+Booking Preferences
+
+- Flexible Scheduling: The Homeowner will be able to select any available time slot in your calendar in 30-minute increments.
+
+- Set Specific Start Time: Booking will always start at the defined start time and last for as much as the service duration.
+
+- Manual: Hide time selection from the booking page and book as unscheduled jobs and estimates.
+​
+
+Scheduling Type
+
+- Manual: Bookings will be scheduled on your Point of Contact calendar.
+
+- Auto-scheduling: Bookings will be scheduled on employees' calendars based on their availability and service assignment.
+​
+
+Booking Hours
+
+- Each day will fit in multiple appointments based on the service duration and available technicians.
+​
+
+Arrival Window
+
+- This will provide the homeowner with a range of time in which to expect your arrival. The arrival window you set here will become the default arrival window for your company.
+​
+
+Earliest Availability
+
+- How soon you want to allow online bookings to be scheduled on your calendar.
+
+---
+
+Step 3: Preview Your Online Booking Page
+
+See how your online booking page will look on your website. The path to your page will start with the click of the Book Online button. You can customize your services and preferences further in settings.
+
+You can also click the Back button to change any of your settings.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1545775858/0e55d352272e227798cb72403160/AD_4nXctD3r3VSVJepriAGOsrrdoDnFURknB47UftmxF4Fw7T1CI3C07ng8xJ6rBAb2CQqparqNrdjNopHhGto_cmlmytXDd0bEiVRq69qW6L14hxieAuWlqsbsXVgQhDKMK-VjcJpvKAQ?expires=1763568000&signature=d69ba7dbfceea494d579784b43085844d823fac33db575cae7532e5605d9b4b1&req=dSUjE855mIlaUfMW1HO4zdt3zj%2BMg1143J%2Fwtuz60yarNjGnMJF1R3FczNqz%0A2IVlGOIhsJt04zFAlD0%3D%0A
+
+---
+
+Step 4: Share Your Online Booking Page
+
+Now you can share your online booking page! Copy the link to share the URL or go to your Online Booking settings to grab it later.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1562535681/e96c77439fef23a130f651e9fa60/AD_4nXfEx8WuIUmo2EytvZwJ4outVVCUGYc5xyZRm8Z3-m6v6A4yFRFwtAkVc438aUjVSn1sGwx_e-KbK9fQ6FEoTkCRLegPhyVLrKfWxi5Syt5kcc02vJXgPnZy-TxTSdwlG-suOYi0Vg?expires=1763568000&signature=76c21d71b3374872cbd030420de80c97264e3f25d86dc042a69f5ad5367e739d&req=dSUhFMx9mIdXWPMW1HO4zavOjtghBmOT%2F6mwtX1gu%2FfkrLf773uxtdydRR1p%0AS2%2FW4XBJi7TlpVbu7w4%3D%0A
+
+---

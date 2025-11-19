@@ -1,0 +1,134 @@
+Command & Control: Price Book Services
+Source: https://help.housecallpro.com/en/articles/12054830-command-control-price-book-services
+Author: Nate H
+Last updated: Updated over a month ago
+
+Overview
+
+Command & Control: Price Book Services is part of the Command & Control suite that is designed to enforce brand standards and operational consistency across your entire franchise network. This feature specifically focuses on the Price Book's Services.
+
+With Command & Control: Price Book Services, you can:
+
+- Prevent franchisees from creating, updating, or deleting service-specific settings (Industries, Service Categories, Services, and Labor Rates).
+
+- Sync the Services from your Template Account to your Franchisee's Price Book so they have the right Services.
+
+- Ensures Franchisees have your brand’s standard Services and cannot deviate from those Services.
+
+This support article will cover the following sections:
+
+- What is Command & Control: Price Book Services?
+- Enable Command & Control: Price Book Services
+- What do my Franchisees See When Command & Control: Price Book Services is Enabled?
+- Template Account Perspective in the Price Book when Command & Control is Enabled
+
+---
+
+What is Command & Control: Price Book Services?
+
+Command & Control aims to enforce brand consistency across your Franchise's network. Command & Control: Price Book Services allows you to restrict your Franchisees' ability to modify Services. This feature also allows you to configure Services on your Template Account's Price Book that can then be synced to your Franchisee's accounts.
+
+- When Command & Control is enabled, Franchisees linked to the Template Account will not be able to create, update, or delete: - Industries
+- Service Categories
+- Services
+- Online Booking Settings of a Service
+- Labor Rates
+
+- Command & Control: Price Book Services also come with Additional Controls.
+​
+
+---
+
+What are Additional Controls?
+
+Additional Controls gives you even more flexibility when choosing what to lock & sync to your Franchisee’s HCP account. For Command & Control: Price Book Services, this means that you have the ability to lock specific areas of a Service and leave other parts of a Service editable by your Franchisee.
+
+Additional Controls were created with the idea in mind that some Franchises may want to allow their Franchisees to edit the pricing of their Services based on which part of the country they operate out of, but want to ensure that they have the brand's standard services.
+
+The other side of this is that some Franchises may allow their Franchisees to edit their Service's details, but want to lock the pricing to remain consistent with their brand’s standard pricing structure; Additional Controls solve for both of these & similar use-cases.
+
+Additional Controls for this feature include:
+
+- Details - Service Name, Image, Description, and Task Code
+
+- Pricing - Service Cost, Service Price, Taxable toggle, Units, and Flat Rate Toggle (if Flat Rate is enabled)
+
+- Labor Rates - Labor Rates on a Service, Labor Rates in the Price Book’s settings
+
+---
+
+Enable Command & Control: Price Book Services
+
+- Access your Template Account and navigate to Settings by clicking the gear icon in the top right corner of your screen.
+
+- Select Account Templates from the left menu.
+
+- Ensure that the Template Settings tab is selected at the top of the page.
+
+- Click Edit to the right of Price book services.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1776111410/2a3e0fb50266f7b05ccbf4029fcd/Screenshot+2025-10-13+at+1_41_26%E2%80%AFPM.png?expires=1763568000&signature=03c02a4961f12fa86cd0c46c047e1325bccf93a2a9d49ae693ab022b2697c11c&req=dScgEMh%2FnIVeWfMW1HO4zZMOcE%2BK1cxrtTRYJdSeluoLxy5%2BHxqDm%2Fb43W6U%0Aviqh1gQLtYe3nxploZU%3D%0A
+
+- By default, the settings will be enabled, which means your Franchisees have the ability to manage their own Services.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1776112610/873d5d1bef0c706cb33a364079fa/Screenshot+2025-10-13+at+1_43_25%E2%80%AFPM.png?expires=1763568000&signature=384f1ffb5e95bdac2a0c029d739b6b92433bc9477b68967a7e62bfe67268fad2&req=dScgEMh%2Fn4deWfMW1HO4zQT3LHDmIJ7C6Yxv7PRM2S90wusD9gG1M2Ze90zH%0AGyeTuNYAoX6RrwRS8FE%3D%0A
+
+To restrict your Franchisee's ability to manage their own Services:
+
+- Deselect the top checkbox next to Allow editing of Price book services, then click Save.
+
+- If you want to use Additional Controls, you can select the sub-checkboxes for the part of a Service you want to allow Franchisees to edit.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1776115976/7fd52241cb8f0993fa5334e49cb2/Screenshot+2025-10-13+at+1_44_36%E2%80%AFPM.png?expires=1763568000&signature=a3ba70019386052f71b64d9421696ba37a64d621272241691414a49c683b102f&req=dScgEMh%2FmIhYX%2FMW1HO4zWjs8B%2BtzuRo4VArb6hZRciY26hm9dUBqJaJX004%0AeGW676MZAecrYE%2BSm54%3D%0A
+
+- Once you hit the save button, a confirmation window will appear telling you what will happen after saving your changes. Click Save in the window to proceed.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1776120593/cb49297ed095d3fe92a13b8ed022/Screenshot+2025-10-13+at+1_46_44%E2%80%AFPM.png?expires=1763568000&signature=d161cedc83d5f89c787b1a574c83b426c0f7ee25c92dfd5383bd1efe02c212e0&req=dScgEMh8nYRWWvMW1HO4zR6bJG%2FTkqrGgXbzP74xJFdlx36pnSzwix1ATLXl%0AC1uEbnsVvjQkmkO653U%3D%0A
+
+After confirming your changes, Command & Control: Price Book Services will be enabled:
+
+- Your Franchisees will no longer have the ability to manage their own Services.
+
+- Franchisees will receive all of the Services that exist in your Template Account's Price Book as their own Services.
+
+- Franchisees cannot import services, but can export services to a CSV.
+
+- For Additional Controls, your Franchisees will still have the ability to edit certain parts of a Service that you choose, but they lose the ability to Create and Delete Services.
+
+---
+
+What do my Franchisees See When Command & Control: Price Book Services is Enabled?
+
+- A blue banner will be displayed on your Franchisees' Price Book Services page stating that editing services is managed by a Template Account.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1680029098/57fb069bb303c1c95f4091423b24/image?expires=1763568000&signature=6dfe53450c2206326c28c46c22c4cae9079e4ca5a77ea64aa40c643288d54efa&req=dSYvFsl8lIFWUfMW1HO4zflLEj0p2flRHPI8CJqMTzI1zhDK8DJdWj7Lbo%2BH%0AEdvUa%2BQyDf6BID2jxkk%3D%0A
+
+- If you choose to completely Lock & Sync Price Book Services, the entire Service becomes uneditable for Franchisees.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1681235822/3f155c7c3e63c1328acbb00af5e8/C-C+-+Price+Book+Services+8.png?expires=1763568000&signature=7e47767c238fdfc14a504806b5b9a365e7b71df43826948251238847ec8a11ff&req=dSYvF8t9mIldW%2FMW1HO4zVhsB3gUAbRqEvriev206XGhIQNfpZaCA0GoypTu%0A0Ec1acT2ilY7psuKwoo%3D%0A
+
+- If you allow a Franchisee to edit only Service details, all other sections will remain locked and appear greyed out.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1681236567/05ef96ee63cb8e3a1ae4f082c6e2/C-C+-+Price+Book+Services+9.png?expires=1763568000&signature=23b87f7fc78640eaa63f6f449addb1e0f43c5ba9deb2aa9da48b608b6230df07&req=dSYvF8t9m4RZXvMW1HO4zYV%2FVSU5rHV6Fv%2BKJG5LjnUbqnmQ1rgarXGoSlFZ%0AHCikOX7g40Zv%2F7IDwy4%3D%0A
+
+- If you choose to allow Franchisees to edit only Service pricing, all other sections will remain locked and appear greyed out.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1681237420/7d184d96365d54c81797c4e7f0e8/C-C+-+Price+Book+Services+10.png?expires=1763568000&signature=bf311d9588aeb084aa0943fe91f41fcd3605f1542fa4a25755d1c6287408041c&req=dSYvF8t9moVdWfMW1HO4zZTfjidWjNF9VDnhlXbKWPw1XQ%2FOrPthnA%2FRTXuX%0Ah5pF2%2FFKis4ZYXr%2FcPQ%3D%0A
+
+- If you choose to allow Franchisees to edit only Labor Rates (assuming Flat Rate Pricing is enabled), all other sections of the service will be uneditable.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1681238066/a41365fec1a7b12a71bdb8b23f6e/C-C+-+Price+Book+Services+11.png?expires=1763568000&signature=fcf3f17b66c5a49f5ca9038b8b442d9f230dab72c2b3a42f0d1b69d68a8d3cd4&req=dSYvF8t9lYFZX%2FMW1HO4zQPkRpvmIcFWbY%2B19MtCyYvvXBHdGZhTjRruhK8t%0AbLgIy9jUzNIF0EX6uQk%3D%0A
+
+---
+
+Template Account Perspective in the Price Book when Command & Control is Enabled
+
+- In your Template Account, navigate to the Price Book and select Services.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1681217971/d1af15e5b4f30b1967ee1dc96817/C-C+-+Price+Book+4.png?expires=1763568000&signature=08c56d0213f984b25a17e8a2cbf88cb15c05af1d9751328959431ae694aef64e&req=dSYvF8t%2FmohYWPMW1HO4zX%2FVDsuTdYE3tINk5Gh7TEmO8zQxnr26IdNqvM20%0AahtMpHHp7EsdieNeWP8%3D%0A
+
+- On the Services page in your Template Account, you can create, edit, and delete Industries, Categories, Services, and Labor Rates (if you are using Flat Rate Pricing) that will be automatically synced to your Linked Accounts.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1681219059/cf94885360e1c8e71fcf23ee6d03/C-C+-+Price+Book+5.png?expires=1763568000&signature=3431aa1811f79568b68605c1769cf158a8a3dbcef933a05982d1d87c98afee07&req=dSYvF8t%2FlIFaUPMW1HO4zRq2YqD7PY4pKCXHavLL5946VqlNAKb%2BgrJFh4M3%0Ag5UItuLP4IIaSo8Wvqw%3D%0A
+
+---

@@ -1,0 +1,134 @@
+Mailchimp Integration Guide
+Source: https://help.housecallpro.com/en/articles/362401-mailchimp-integration-guide
+Author: Nate H
+Last updated: Updated over 4 months ago
+
+Summary: Learn how to enable the Mailchimp app and connect HCP to your Mailchimp account
+
+How to Set Up the Mailchimp Integration
+
+To set up the Mailchimp integration:
+
+- Navigate to My Apps by clicking the 3x3 square icon in the top right corner of your HCP account, then click the 'Go to App store' button.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1458913598/8239cf5b75c0786facc3c910a125/Screenshot+2025-04-04+at+12_36_41%E2%80%AFPM.png?expires=1763567100&signature=b7fa6a9ee1d5178ddb003bc451e4fe9dddf512080f782051c0d4f57f69087a67&req=dSQiHsB%2FnoRWUfMW1HO4zWPjW%2FByxx47Y3p5W1DmdZ41bJIOKmRnfbgEC0Zc%0A%2FqbXAyZSAz%2BBnsnBep8%3D%0A
+
+- Use the search bar or scroll down to locate the Mailchimp app and click 'View details' on the app card.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1458904809/923248b20ae6239baf11416eecd4/Screenshot+2025-04-04+at+12_34_52%E2%80%AFPM.png?expires=1763567100&signature=234358677f0cddf1ec027ddaf8ac1a8462837014f460dad95133f902db3e268c&req=dSQiHsB%2BmYlfUPMW1HO4zTDdhOqh5IQnFSU2LeW%2BH0EQa45cg87HyNyHu%2FT%2F%0AU0o4XEW3iv6eXabAdmI%3D%0A
+
+- Click 'Connect Mailchimp' in the top right section of the app details page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1458927694/a26bf2eda6a1f731fd8cf6270283/Screenshot+2025-04-04+at+12_45_34%E2%80%AFPM.png?expires=1763567100&signature=7f7ce6d53e3b5d9c7d2ea3b9ea65e5ae12978256b5bfac9af133fa1a34184bf1&req=dSQiHsB8modWXfMW1HO4zQkO4DiPPRiP94VUZRrMKlZTYT1y%2FGJwDakSCns4%0AcC2Wv1Oyf1GgJ2rSnwc%3D%0A
+
+- Log in to your Mailchimp account.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1458983526/433fbe40f2c852455dc77ef1f012/Screenshot+2025-04-04+at+1_11_55%E2%80%AFPM.png?expires=1763567100&signature=bbfae0886baf9f5ab617a81a48f5fbbb4b7f4c3309ffb74a02ddf9d6e58a296e&req=dSQiHsB2noRdX%2FMW1HO4zU4yEBeAo3jC3%2FrjVlijGfbLpWi6BjNaOCJ6uTSE%0AEJK3QSAfWAaSo2sFIdM%3D%0A
+
+- Click 'Allow' to authorize Housecall Pro to access your Mailchimp account.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1458988348/e9850adfc6e588da391e899f1288/Screenshot+2025-04-04+at+1_13_11%E2%80%AFPM.png?expires=1763567100&signature=171f038f90d5ff9379882f96e7d0881d23b0437fd59f1587462e2a03d98690eb&req=dSQiHsB2lYJbUfMW1HO4zakid8VtDBboWs0%2B7Hc1u%2FqU32BnTnGCHkbu1LZH%0Ag4OJxAJsXjmeUvowtnE%3D%0A
+
+- After authorizing Housecall Pro to access Mailchimp, the integration will be set up, and you'll see the options to sync your customers and create a campaign.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1458992084/0611befa61e0f49e57f482ee4137/Screenshot+2025-04-04+at+1_16_42%E2%80%AFPM.png?expires=1763567100&signature=31e69396702cf625c42795ec4273a673e3f42419f2d19272c9041447a4e3f109&req=dSQiHsB3n4FXXfMW1HO4zfkWm4sEBQwXws5%2B%2BbwRQbOqfyA7%2BAIcm%2BaynOja%0AgwWTFi9tanGurcTOxG4%3D%0A
+
+---
+
+Video Tutorial: Mailchimp Integration Setup
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/ygpghmrm7a
+
+---
+
+Sync Your Customers to Mailchimp
+
+Learn how to push your customers over to your Mailchimp account so that you can send them email campaigns.
+
+To sync your customers to Mailchimp:
+
+- Navigate to My Apps by clicking the 3x3 square icon in the top right corner of your HCP account, and select the Mailchimp app.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1459011395/ee0a6398a756a4325c6e2b80f47a/Screenshot+2025-04-04+at+1_22_03%E2%80%AFPM.png?expires=1763567100&signature=e4fc8e8cf724d586f8f5a76d52d70f64d8a65a2a330d2eb3e9410d0aa2cc8e16&req=dSQiH8l%2FnIJWXPMW1HO4zbiGJDn%2BHwGbGpKD3HobaXSu%2FjDTFN%2BqfPVikuTa%0AND7OcBFCwqsp%2F5lEQ08%3D%0A
+
+- Select 'Sync customers.'
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1458995182/1bcfa0b936157d9a19affa6d93a0/Screenshot+2025-04-04+at+1_15_44%E2%80%AFPM.png?expires=1763567100&signature=db499a1d57e44bfaa424115eb6e17341d4d3afabf48ce93b9d7c960e06062a94&req=dSQiHsB3mIBXW%2FMW1HO4zfNpmXGAjb8W9nDhqs9%2F4oVGYmN8Fx9F1b78Xyzl%0Ag8H57FqXDv4Q5vPzc1o%3D%0A
+
+- Select your Mailchimp audience from the dropdown
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1458993714/9fd699818a449b6d9dedf0bf44e9/image.png?expires=1763567100&signature=ab5425756f1707c45542ce106ad0adacb92ccfed58c96cec04d3707df06afbc9&req=dSQiHsB3noZeXfMW1HO4zf6uAyM%2Fx4hg0So7RunGXwJrVxhDQi0%2Fch6QVr%2FW%0A59wCegfbVbIGobDp6rQ%3D%0A
+
+- Select which customers to sync to Mailchimp.
+
+- If you want to filter your list by customer tags, use the filter icon in the top left to select the customer tag, and we will filter your customer list for you based on the tag(s) selected.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1458993715/d3976a05b43605135b6a3e2b4646/image.png?expires=1763567100&signature=c19049694a93ea4fc9811a934e06767f051834bdacf401a6597f90974ff65742&req=dSQiHsB3noZeXPMW1HO4zSbE8O7%2Bg3I7NGfsOZAmTlSbj1wsNvtHGsy8GBOU%0A0udL%2F7pH0JCD7Fjf6iw%3D%0A
+
+- Click 'Sync' in the top right corner of your screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1458993717/9661086fd986b80baa9e8602c0c2/image.png?expires=1763567100&signature=44aef8a80c9cfd19874cb4c2bd4d42163a5b5dd553646ff21136337e2dc71af8&req=dSQiHsB3noZeXvMW1HO4zXvN7gJ9lRsi0H6VXYBk56im37P2fAh7hE5sYlE5%0AV%2FprXwaLAJMVDjUNJjk%3D%0A
+
+- In the confirmation window, click 'Sync' once again to proceed, and you will receive an email letting you know when the sync has been completed
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1458993713/ba92e59371aa9f00614fbea6d051/image.png?expires=1763567100&signature=7c9fb59ca96060aa29d3530796b8f1559d228260a2a692b83d23c60009451c47&req=dSQiHsB3noZeWvMW1HO4zVQbi2y9ncZ0%2FeLB6DIeaMoRR%2FD%2FYEPzllYhJNJm%0ALA2pqWnaXh6aVUv5HKk%3D%0A
+
+---
+
+Video Tutorial: Sync Customers to Mailchimp
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/cogqxtqvy9
+
+---
+
+Create a Mailchimp Email Campaign
+
+Learn how to create an email blast campaign directly from within your Housecall Pro account using your Mailchimp integration
+
+To create a Mailchimp email campaign:
+
+- Navigate to My Apps by clicking the 3x3 square icon in the top right corner of your HCP account, and select the Mailchimp app.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1459005866/c336f90f0a10ca49b8cf4b812da6/Screenshot+2025-04-04+at+1_22_03%E2%80%AFPM.png?expires=1763567100&signature=5a8a116f0b537e77bf4ebf5969317e27f0a6f9d4f5f6e05f9cdb5c8bc8a18e07&req=dSQiH8l%2BmIlZX%2FMW1HO4zTVfea7n%2FQlFHuux5cN3XOOX2h%2Fia9STh55YtOl2%0A09F5wxmZ44wkgSN7jxY%3D%0A
+
+- Select 'Create a campaign.'
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1459000264/3679adb31909caad9b64cd749404/Screenshot+2025-04-04+at+1_16_10%E2%80%AFPM.png?expires=1763567100&signature=b8cdd0e2ecb9df61cc3f5a0627ba47e018e0be2e82e0081aff5fab065d0adb10&req=dSQiH8l%2BnYNZXfMW1HO4zShHdqzkNxXrtC9RKGc1URA%2FGep1BVPJ3X%2BPb6Bl%0AB7rt%2FGAqc%2FJsLLWpnXo%3D%0A
+
+- Name your campaign. Be sure that you use a descriptive name that will make it easy to find within Mailchimp's campaign reports.
+
+- Choose your audience. Within Mailchimp, you can create multiple audiences, so be sure to select the appropriate audience group for this particular email campaign.
+
+- Give your email a subject line.
+
+- Give your email a title and body text.
+
+- Toggle your logo and the online booking button on/off. - If you have online booking turned on, you can change the text on the button from Book Now to Make an Appointment, for example.
+
+[Image] https://downloads.intercomcdn.com/i/o/266076441/2fb3cfa161d853dee3398a49/image.png?expires=1763567100&signature=1f5e9feb83db9ce9a615a9a3c4be3a957e450a0d31da4a30063184d90f7f3696&req=diYhFs54mYVeFb4f3HP0gO1BqCCKnwyAYUXjjq5AvVzEhcPs%2BvecwhG9iGdY%0Azu%2BSuVZel8NyfEyMzg%3D%3D%0A
+
+- Once you are done creating the campaign, click 'Next' in the top right corner of your screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/266082142/f577bd213e030d50972574e8/image.png?expires=1763567100&signature=8be023a8b52dc6e1428ce29d01a5ecae8a623f6180030961c0dad55fbfe57a0d&req=diYhFsF8nIVdFb4f3HP0gIyKvYSTinzmFyQBHfSBzxpHE1bbAZMSVBxOb8D7%0AhrBk7okeY7D4Er%2B6Pw%3D%3D%0A
+
+- Send yourself a test email to double-check for spelling errors and preview what your customer will see.
+
+- If you need to make edits, go to the previous step by clicking on the back arrow in the top left corner of your screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/266082775/cc4d61b301d5441f93adae10/image.png?expires=1763567100&signature=5286368c821fcf96affe872e9f8f7f7951b4c059b37d3321981ee07b52e3bca6&req=diYhFsF8moZaFb4f3HP0gHOA9TY0M1TdooprDTlx6f1oM3pJuzkKXHHY5S9i%0A%2BWQ3yfq2pivCiAhSYQ%3D%3D%0A
+
+- When you're ready, click 'Send All' in the top right corner of your screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/266083627/3e76859bae9a52ba8e404166/image.png?expires=1763567100&signature=b3689badb32f1f6abd3bee0ea7ef3d9f3e6e4ae91b5d635c2e8b43cec0530647&req=diYhFsF9m4NYFb4f3HP0gDdl9hA6dvDfmYhY09AebIMSujZXcVmUKg2rDD%2Fo%0AVuB9T6yQsQtI0%2Fjmyw%3D%3D%0A
+
+- Confirm that you'd like to send this campaign, and your email campaign will be sent to your customers.
+
+[Image] https://downloads.intercomcdn.com/i/o/266083989/c03f49bed599d5e71f515d54/image.png?expires=1763567100&signature=53afc8b53f2b278259ee620fb538a4c0e06a4518fb4e22810e492ac9e7d62d59&req=diYhFsF9lIlWFb4f3HP0gKqihQFoTB0PQGKLJBOW6oicN6kjSm%2FpJVY%2FBtP1%0AtILk8sEv%2BxYRdE8HdA%3D%3D%0A
+
+---
+
+Video Tutorial: Create a Mailchimp Email Campaign
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/h4i43zt4av
+
+---

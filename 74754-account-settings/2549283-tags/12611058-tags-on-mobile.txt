@@ -1,0 +1,34 @@
+Tags on Mobile
+Source: https://help.housecallpro.com/en/articles/12611058-tags-on-mobile
+Author: Nate H
+Last updated: Updated over 3 weeks ago
+
+---
+
+Add Tags to a Job
+
+- On a job, scroll down and click the Job tags + button.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1795297618/eda6dbea61f4dc95ea0ab54ed3cf/IMG_4098.PNG?expires=1763567100&signature=2a2ae9f54d3ef9c73001f4f949f5cb413747bea00258892892706379e533ef80&req=dScuE8t3modeUfMW1HO4zSTEjzxc9lM9wJR71wOD25CVax45ruFXRTY7EUiF%0AsDafGS3E9hF4z5PWG20%3D%0A
+
+- You'll then see your Tags list. Select the tags you need to add to the job.
+
+- If you need to add a new tag, you can click the + icon in the top right corner of your screen. Enter the tag name, then click Add. The new tag will automatically be selected.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1795308393/0d2a84ed1287964c6cbe1a94093e/unnamed+%281%29.png?expires=1763567100&signature=616efa2e67384edc6f965d737680da4dfc7694a3bfd6f35a9347dccce5b184df&req=dScuE8p%2BlYJWWvMW1HO4zff8QZ1a4Tst9x6Y%2BYwGFJMG3VpKu%2B0Qihc%2BsGLP%0AxGv2w8oPIYv4kcaZ9Z8%3D%0A
+
+- When you're ready, click < Back in the top left corner of your screen. The selected tags will then appear in the Job tags section on the job.
+
+- If needed, you can add or remove tags by clicking the pencil to the right.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1795301952/0987c858d255dc63d4f6aceb0b2b/unnamed+%2811%29.jpg?expires=1763567100&signature=579a4bcb2891197b86b8d306146984b6c531e50c202c1e4a9b4183eb90886984&req=dScuE8p%2BnIhaW%2FMW1HO4zRdhkLc2eZEd1BUFjDsUBQn%2Ba04j3VQQicm%2BEp2b%0A815S8HjX4EpUDof%2BIlc%3D%0A
+
+---
+
+FAQ
+
+Can I add tags to my Tags list from the mobile app?
+
+- You can! Right now, tags can be added by opening a job and clicking the + icon in the top right corner of your screen. If you don't need to add the tag to a job yet, be sure to deselect it from the Tags list on your screen.
+
+---

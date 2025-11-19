@@ -1,0 +1,170 @@
+Reporting Business Insights
+Source: https://help.housecallpro.com/en/articles/8265223-reporting-business-insights
+Author: James N
+Last updated: Updated over 8 months ago
+
+Summary: Track your progress, manage and advance your business goals, streamline your business.
+
+Access Your Business Insights & Set a Revenue Goal
+
+Streamline your goal tracking with ease using Business Insights. This tool empowers you to manage and advance your business goals effectively. Simply set a revenue goal and track your progress against the goals you’ve set.
+
+To access your Business Insights and set a revenue goal:
+
+- Click on the 'Reporting' tab in your top navigation bar
+
+- Select 'Business insights' at the top of the Reporting menu on the left.
+
+- Click the blue 'SET GOAL' button under "Revenue key driver metrics," and a dialogue box will appear.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/h6f82l2e/1447168007/cd88c877355c73c64c5588f1f110/AD_4nXeL-dgvlEDcjlgVjxmuRkR8w3C91Ja7pzbNn06wjxOPBw4Fk4MRPZfF7QaHcO0b5eyCEMlTxfFR5wnwNz76fBSh3kUKptJdWXccuMDnuS9o0NHoV6RYHyUQjPwk8bgWdiwDHpaB?expires=1763568000&signature=59c47e2a83678c1cb8eadd8b2516313da04699d1f97d3ec964095c3132e5cc45&req=dSQjEch4lYFfXvMW1HO4zS7%2F23p4DCPoZ12O1rxJm0pP0A%2BCSpn%2BjwEbc%2Bzd%0A5vcjSIRT5nff9%2BwGw1Q%3D%0A
+
+- If you have more than 1 year's worth of revenue data in Housecall Pro, you’ll see how much money you’ve made in the last 12 months, which will be your baseline revenue as you consider how to set your revenue goal.
+
+- If you have less than 1 year's worth of data, you'll see a benchmark revenue number based on your industry and org size.
+
+- From there, you’ll see a few pre-suggested options for setting your revenue goal for the next 12 months.
+
+- You can select from predefined increases of 10%, 15%, or 20%, or opt to input a custom goal for yourself.
+
+- Once you've chosen a goal, it will be broken down by week, month, quarter, and year.
+
+- Click the blue 'SAVE' button in the bottom right corner of the dialog to save your chosen goal. After confirming your selection, your revenue goal will be updated on your goal tracking card.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1015639119/fc9625c04523b8ea686892c3/NYFLLaN4uJcnbGYXudhmoIgqCA8VXbtSSayj2PW15nKvwPnriZfhADTj2brTfxVP86WkydxtSjVHdmFyN_gVg2pwy5VfbN-r9XeZYpKNSI3X_XnmC2lxerjb6lrdgTjCRdLaLIjMBaB3uMJPrgvClJ8?expires=1763568000&signature=be25528405ea58849f7552126a7487533b8e401a204f0844ae2c8bafb5ec5cad&req=dSAmE899lIBeUPMW1HO4zUwiac4julwPOBi6w%2F1IiU%2BjlemuO%2BNMlbTicPqh%0AEj9XE5IQgQ%2Fq9XPj68c%3D%0A
+
+- You can always revisit and adjust your goal by clicking the blue pencil icon under "My goal" in the Revenue section of the Business Insights page, allowing for unlimited modifications.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1015639130/97aaf7826f931be38458582c/DUfTIkS7DTwMsAA2De3OwpiXqgUnf6jJI4YLa_HnI2xqcIksRSg5AdiwYESSDk_I1FXmKdt9qRxmRlZ0FqKnmNIYihOPcdhcBMJUrQ3vU32LuQg5hgyCglTKZ7xf_8ZsjfIETXa-ijF1WkBCfyA3Uqk?expires=1763568000&signature=56864cc52d92da82080ad3f4c64253cefb96cb2559c3943e4d00c81c824dfb06&req=dSAmE899lIBcWfMW1HO4zXywQ8UQ2ACF5mxTXsUu07knn%2Bb1ROD9uhWF6Loe%0AeEBOSYvXrzqfik47sI0%3D%0A
+
+---
+
+---
+
+Revenue Key Driver Metrics
+
+Our expanded Business Insights page allows you to dive into the key metrics that will help you drive your revenue goal forward.
+
+You can expand and collapse your Revenue Key Driver Metrics card. When expanded, you'll see a section that allows you to set a Job count goal and monitor your current Average job size and your Target Average job size. 
+​ 
+​To set your Job Count goal:
+
+- Click on the 'Reporting' tab in your top navigation bar and select 'Business insights' at the top of the Reporting menu on the left.
+
+- Click the blue 'SET GOAL' button, and a dialogue box will appear. - Alternatively, click the blue pencil icon under "My goal" in the Revenue key driver metrics section.
+
+- You can select from predefined increases of 10%, 15%, or 20%, or opt to input a custom goal for yourself.
+
+- Once you've set your goal, click 'SAVE' in the bottom right corner of the dialogue box.
+
+- After confirming your job count goal, your goal will be updated on your goal tracking card.
+
+- You can always revisit and adjust your goal by clicking the blue pencil icon under "My goal" in the Revenue Key Driver Metrics section of the Business Insights page, allowing for unlimited modifications.
+
+On the right-hand side of your Revenue Key Driver Metrics card, you'll find a section that outlines your Average Job Size and your Target Average Job Size. Use these metrics to track your progress and ensure you're on course to meet your revenue goal. Compare these regularly to adjust your strategy as needed.
+​
+
+---
+
+Revenue Key Driver Metrics Breakdown
+
+- Target: The amount of Completed Revenue you should have achieved by today to stay on course for your revenue goal.
+
+- Status: You'll be informed if you're Ahead, Behind, or On Track to reach your goal. - Surpassing your target in completed revenue means you're ahead.
+- Falling short of your target in completed revenue indicates you're behind.
+- If your completed revenue is equal to your target, you're on track.
+
+- Status Pill: This visualizes the dollar value of how much ahead or behind you are in relation to your revenue goal.
+
+- Completed Revenue: Reflects the progress you've already made towards your revenue goal. Your completed revenue is revenue from any jobs completed during your selected time frame. - Note: Revenue excludes taxes and tips and reflects all completed jobs, regardless of whether they have been paid yet.
+
+- Completed Job Count: Reflects the progress you've already made towards your job count goal. Your completed jobs is the count of any jobs marked complete during your selected time frame.
+
+- Scheduled Job Count: Count of jobs that are scheduled on the calendar during the time period and not yet marked as complete.
+
+- Scheduled Revenue: Revenue of jobs that are scheduled on the calendar during the time period and not yet marked as complete. Predicts revenue based on scheduled jobs, including those not yet completed within the selected timeframe (Excluding taxes and tips).
+
+- Revenue Gap: The revenue gap is calculated as your revenue goal minus the sum of your completed and scheduled revenue.
+
+- Job Count Gap: The job count gap is calculated as your job count goal minus the count of your completed and scheduled jobs.
+
+- Average Job Size: Your average job size is calculated as your total completed job revenue divided by your total completed job count. Its purpose is to communicate your current progress toward your goal.
+
+- Target Average Job Size: Your Target average job size communicates what you should be aiming to charge today, given your revenue goal and your job count goal. It is calculated as your total revenue goal divided by your total job count goal.
+
+- Date range breakdown (this week, this month, this quarter, this year): - Business insights date ranges reflect the full calendar month, including future dates.
+- For example, “this month” in business insights reflects the full calendar month, including future and completed jobs, whereas “month to date” in other reporting pages only includes jobs up to the current date.
+
+---
+
+---
+
+Personalized Insights and Weekly Email
+
+Through Business Insights on Housecall Pro, our Coach AI team member will proactively monitor your progress and provide advice on how to reach your goals.
+
+- To get started, simply input your goals on the Business Insights page by clicking the 'Reporting' tab in your top navigation bar and selecting 'Business insights' at the top of the Reporting menu on the left.
+
+- Every time you visit the page, Coach AI will provide recommendations based on your latest performance and progress toward your goals.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1365443105/b702df36989a9d2b839a4ef8073d/AD_4nXdr6ehaQ3CGCwqeSVWBnaRT33Lm4gEq_pdJ5EIuxWkbaS9f_QHCxzOyqrct8Eoc2oDHzP2JB_tuTtf9BauSwWIIrhaX5vVCE3VILoqiTG6cre2LI5I3vj1DIjEqhTbVeTPJ3jv1?expires=1763568000&signature=de367972ee36cfbed3f40f5d7a1378f1a5f92cf734c5e20e8d21c4c2e4a7cc5e&req=dSMhE816noBfXPMW1HO4zURsy6RfG6p36a8Gthm7lxpuuy2IVaBc7cnPq42P%0AtIIc2bOT3uYpKFzZEKE%3D%0A
+
+- Click the purple "Tell me more" button and engage with our Coach AI team member on how to achieve your goal!
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1365443400/d7ca87c5e32196f4931d5e675bab/AD_4nXeNcvU_bgC-QtQGY7bBSyfyN4Ulz6qmzhJd_LvDS14d51vU-Gb1FnQn3RJyrnC_HtQ7sYKYP2U-6--NLLjlgymIqZ6mVsFhcHilWR5HvtHBBi7JpLhMJwDqXDE2GoiyZ4kIyNtXsA?expires=1763568000&signature=668be2f52d99ae0bd2f8032ae30246100bd300d894abcd38ca25fd46e9225444&req=dSMhE816noVfWfMW1HO4zRDyTUS8eAFSPLAnyneOtEGlfxgfd1Cnd8dY%2B0wM%0AugDTBfBZTQAPLBGS63Y%3D%0A
+
+- Toggle on the weekly email and receive an update with the progress towards your goal and personalized coaching insights once a week.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1365444059/37d4651f4809b044731dfe4b4b28/AD_4nXeODu9wxjwFlcNlCYrq31mPUoK8NEh6S7u6Iq4WqOBWjFEoE-XjFJb2UgYALG5cjlbNNqS5cfGVpAd4R_HkrgOlJLuOHN9AK1pnnpMVHsR8Z7fyD346Y3NCA5hFWxZXAnDTxSZp5w?expires=1763568000&signature=3145a4959eac385c0ee444ddd97610d3c59140c77ce878e37cf1a12c0555e3c5&req=dSMhE816mYFaUPMW1HO4zXLov%2FfaqERWVsCN20zoJnoCuwTpBleLrPmnwFf2%0At4ftqGO0eeMNFx1oemE%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1365444366/ee668630497f72de3fb92cea1c4d/AD_4nXeZkXrMWO6bk9MOH_ipUW1rTvMkkeLm3isKOrUb0abAq5Q_tS9m0nXAx8IGBLc-w-4hr_rfhgpaGXerbcExAwJOM9mRTLaCw4-d7sq3OKUFqFvJWxHaoCiRhkE0PEQjoHN_5I9mZQ?expires=1763568000&signature=99b14834b2f2755267bf1526140bc4415ef868e6aaa520b7c57dd8fb059bea1e&req=dSMhE816mYJZX%2FMW1HO4zWbv%2B5fhDbvo5F1M2YrM2HkfV%2BcS48OYEWqQZuB9%0Aq7%2FD%2BN1cJ5m1f3AFSQE%3D%0A
+
+---
+
+---
+
+Benchmarks
+
+The bottom half of the Business Insights page gives you a snapshot of your performance against a benchmark set of peers. This is updated once per quarter.
+
+---
+
+What is a benchmark?
+
+A benchmark is a data point that helps you compare your performance against a set of similar businesses.
+
+For the business insights page in Housecall Pro, we determine similar businesses using the criteria below:
+
+- Climate region: Based on your business address (We only compare you with companies in a similar climate to account for weather impact on operations).
+
+- Cost of Living (Zip Code): We use your zip code to make sure we're only comparing you to other Pros with a similar cost of living.
+
+- Industry: Based on your self-identified primary industry with Housecall Pro. (We only compare you with other businesses that have the same primary industry.)
+
+- Number of Employees: Based on your self-identified employee count with Housecall Pro. (We only compare you with other businesses with the same employee count.)
+
+After determining your peer group, we use data from similar Housecall Pro businesses to determine benchmark revenue and average job sizes:
+
+- Your revenue: Value of completed jobs (in Housecall Pro) for the time period.
+
+- Similar businesses revenue: Value of completed jobs (in Housecall Pro) across all businesses that have the same attributes as you (climate region, cost of living, industry, and number of employees). The range represents the 25th percentile to the 75th percentile of similar businesses.
+
+- Your average job size: Average value of completed jobs (in Housecall Pro) for the time period.
+
+- Similar businesses average job size: Average value of completed jobs (in Housecall Pro) across all businesses that have the same attributes as you (climate region, cost of living, industry, and number of employees). The range represents the 25th percentile to the 75th percentile of similar businesses.
+
+---
+
+How to Read the Chart
+
+The chart represents the range of revenue and average job size across all similar businesses:
+
+- The first section represents the 0-25th percentile of revenue
+- The middle section is the 26-75th percentile
+- The top section is the 75th+ percentile
+
+Your revenue and average job size are plotted on the chart so you can understand how you compare to similar businesses.
+
+[Image] https://downloads.intercomcdn.com/i/o/841501933/9739a2813498e0ba38719641/Screenshot+2023-09-28+at+4.15.39+PM.png?expires=1763568000&signature=9f2a94d69cd759956ddfefe1f1fa8995ab34f63aa9295c0f2e2d11d4c5e4f70f&req=fCQmE8l%2FlIJcFb4f3HP0gBw1LIkYCzJkDe%2BlEKUTSfdytmd46XRv%2BxSHuUya%0Ais11EeI7q4J7dRatxQ%3D%3D%0A
+
+---

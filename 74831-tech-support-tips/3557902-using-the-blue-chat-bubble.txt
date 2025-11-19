@@ -1,0 +1,128 @@
+Using the Blue Chat Bubble
+Source: https://help.housecallpro.com/en/articles/3557902-using-the-blue-chat-bubble
+Author: Nate H
+Last updated: Updated over 2 weeks ago
+
+Summary: How to utilize the Blue Chat Bubble resources.
+
+Navigating the Blue Chat Bubble
+
+If you have a question while working in your account, the Blue Chat Bubble is the quickest way to reach our Support team.
+
+You'll find the Blue Chat Bubble in the bottom-right corner of most pages within your account.
+
+---
+
+How to Access Support
+
+To access Support:
+
+- Click the Blue Chat Bubble in the bottom right corner of your HCP account on web.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1803262034/bb343edd1f832d06e8309fe0d9b7/d6513e4e-b9f7-4281-bedd-3ec5886cc984?expires=1763568000&signature=678fc1ea6dd7fb08ad01f2cf11e5aacfb1be2de6c1660ec1124ff009fdfe9b40&req=dSgnFct4n4FcXfMW1HO4zSHmsuDAS3zgHn6J2PjXkOFjbQ51rEz0%2FVWeHjFx%0A3K0gxJ2AVdBj4OgBf94%3D%0A
+
+- Next, you will see a whole list of your chat channels. Your AI team and HCP Support are pinned at the top.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1803210898/a211597a3312c0420442285ec80f/731eb13c-1c1f-4606-a0e1-933998fc182d?expires=1763568000&signature=9c18532d32ad6634a816baacb7cd54d7494e66486178cbf332d77ac6d80a13c7&req=dSgnFct%2FnYlWUfMW1HO4zTwKsgYDWUFPlbNq6VUYH1LSiJmLp%2BPkqq%2B2xa%2BD%0AiFkGOzTZxFp4DcWNeo4%3D%0A
+
+- Select HCP Support to open a chat and connect with our Support team.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1803265467/7a7682d9689ec2fd2fc1ad3a56dd/c33a8699-4385-40da-b6ea-fed11bd1cb89?expires=1763568000&signature=1c1e1c48b6c6d9e43decdfe3bdf19f951590268170ec3397546d8ffebcaf3835&req=dSgnFct4mIVZXvMW1HO4zfc2kc7p4L4qAK0%2FSUTJGf11KUjSinahSaLbAaua%0AXB%2B2E%2F2XjtQfBdWWqow%3D%0A
+
+---
+
+Blue Chat Bubble Options
+
+After opening the Blue Chat Bubble, you'll have the following options:
+
+- Send us a message - Start a new Support chat
+
+- Search for help - Search for answers in our Help Center
+
+- Check out our latest product updates
+
+- View your past conversations to refer to similar questions, or pick up where you left off with a representative.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1411778882/0833e3d8503a44026bd6d8bafd57/Screenshot+2025-03-07+at+12_15_19%E2%80%AFPM.png?expires=1763568000&signature=6c2b681303c5f7030afe43021e39eafdae642e1e945a477abc45e4c9285432b5&req=dSQmF855lYlXW%2FMW1HO4zYx3sby5qVaVdF64TWH2mUJlLeVmM4Zb%2B0gDiUVb%0Am20XGDaQMTqanNNk3HA%3D%0A
+
+---
+
+How to Get Back to the Main Menu
+
+- If you are in a conversation and need to get back to the main menu, click the back arrow in the top left corner of the chat.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1411798830/b164ffbad3e83045180506ee8a73/Screenshot+2025-03-07+at+12_25_33%E2%80%AFPM.png?expires=1763568000&signature=9ecac2a96b941ae1d1eac3fe2b576bf029b8443fc728983a8f917f3fd6d49380&req=dSQmF853lYlcWfMW1HO4zSG6LbBNgIoU1YZtS1krZuQOfWY5%2F9swayyA1V2B%0AjiO5MNBhG7lGMBhL5bI%3D%0A
+
+- If you are ever in a chat and need to close the Blue Chat Bubble window completely, you can click the X icon in the top right corner.
+
+- If you receive a message after closing the Blue Chat Bubble window, the message will pop up in the lower right-hand corner of your screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1411799112/c3c348c90f37a3c6ef933ab5ab6a/Screenshot+2025-03-07+at+12_25_33%E2%80%AFPM+copy.png?expires=1763568000&signature=c243b11442fceb903c0986f05bd025bc9bedf0c5df44d3be81ba8a94b95ccae2&req=dSQmF853lIBeW%2FMW1HO4zaWkqo5kBV%2BQ4EPytLuUuHwxQhLESBaqT3uuL2gm%0AzS6oJpGoyyt4ciMm31I%3D%0A
+
+---
+
+How to Download Chat Transcripts (HCP Web Portal)
+
+To download a chat transcript:
+
+- Open the Blue Chat Bubble in your Housecall Pro account.
+
+- Select Messages in the menu at the bottom to view your previous chats.
+
+- Select a chat from your history.
+
+- Click the More icon (3 dots) in the top right corner of the chat window.
+
+- Select Download transcript and the chat transcript will be saved to your computer as a text file (.txt).
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1411825339/bca0b488cf3398af7c7efa8fcd79/Screenshot+2025-03-07+at+12_32_48%E2%80%AFPM.png?expires=1763568000&signature=90f711978a4a5b41a76af2964c6cbbf8d9c5f5d1077ac19329dd23f0b6519edf&req=dSQmF8F8mIJcUPMW1HO4zQxGqn%2F0cEumsButoPleK8RFvysU4swLYnrzrewf%0AEbqT%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1411823907/1772296d11b3d8b480fcb75fdf98/Screenshot+2025-03-07+at+12_41_03%E2%80%AFPM.png?expires=1763568000&signature=c021810a39f981435c0d0fa8360dee16003d99f2f4740369da9462f2414b9455&req=dSQmF8F8nohfXvMW1HO4zX80%2BmP6cb46fFPbjG5vm%2FaV5zPEgGM%2BiATD1BEm%0AHoo6%0A
+
+---
+
+---
+
+Chat Support on iOS
+
+Chat with our Support team through the mobile app to get your questions answered and any other help you may need.
+
+As long as you have Admin-level permissions, you can chat in for Support help via the mobile app (as well as the web portal).
+
+To chat with Support through your iPhone, follow the steps below:
+
+- Click More on the bottom right of your mobile app Dashboard.
+
+[Image] https://downloads.intercomcdn.com/i/o/108424382/8ff54004f8401fdde73ce889/Screen_Shot_2019-03-12_at_12_21_57_PM.png?expires=1763568000&signature=7301b3a0a50037ac4560b26c74cadcc70dd59596cf9df2b60e6237097da3bf09&req=dSAvEst6noldFb4f3HP0gAMcN%2BSLdMSjDHZ8bXU7j80ckgL347F2LGHbmvJb%0A6pjIfjD3ROkhhxK4tw%3D%3D%0A
+
+- Click on Help & Support.
+
+[Image] https://downloads.intercomcdn.com/i/o/108424727/2da913df68594d303577b478/Screen_Shot_2019-03-12_at_1_12_43_PM.png?expires=1763568000&signature=f28096062f6ae63e4313ab22648c3c1157de03606f85fb24b84d59f428c2ef60&req=dSAvEst6moNYFb4f3HP0gAaUOHIQJf5UkIXaoaRcLba0uwUFBGhpOb9uQ6r0%0AMyK2EbYMTVTVfoWo4A%3D%3D%0A
+
+- Click on the notepad icon to start a new conversation.
+
+[Image] https://downloads.intercomcdn.com/i/o/108424956/c4f552fa23d6f21aaa6803d1/Screen_Shot_2019-03-12_at_1_13_32_PM.png?expires=1763568000&signature=7949b68201a33fea3e66602ce175a27b0fc9882254ddaacb02bfeae1256f640d&req=dSAvEst6lIRZFb4f3HP0gKVV4W%2F4wjmn8WeOM61O7oqOQF3d%2BbLi3EELQYLz%0ArybU66FRS49%2BfkCcRw%3D%3D%0A
+
+- Just type in your question, and one of our wonderful support superheroes will respond to you as quickly as they can!
+​
+
+---
+
+---
+
+Chat Support on Androids
+
+To chat with Support on an Android device:
+
+- Click the Menu icon (three lines) in the top left-hand corner of your app.
+
+[Image] https://downloads.intercomcdn.com/i/o/132067380/7f6f2d1b5118aa2c845ad75c/Screenshot_20190703-152728_Housecall_Pro-2.jpg?expires=1763568000&signature=2251e3c8e355792fa925c1ed66d1b346524ce42e0940a6b4d5a38b6a9e47c5de&req=dSMlFs95nolfFb4f3HP0gGs3IJ2CK7cZ9hKIjM1FVPtRg4xjry86RllVPyuo%0A2L6aZFEbXWQvkKVZ5g%3D%3D%0A
+
+- Scroll down to the Support section and select Chat & help center.
+
+[Image] https://downloads.intercomcdn.com/i/o/132068182/4a795ad6dd48e71e0c5c06de/Screenshot_20190702-081222_Housecall_Pro.jpg?expires=1763568000&signature=4d448bcdb2888ecee58d6eba3c9a09f8d8c33f10f79b7ef637d345b9d79662eb&req=dSMlFs92nIldFb4f3HP0gJMY60h1SJkIv1e2KbM49LY4tW1KTYVDQMmjc2bD%0ATdqm%2FGjemkuDh8SVwA%3D%3D%0A
+
+- Select Send us a message and type in your question!
+
+[Image] https://downloads.intercomcdn.com/i/o/1146100154/3b3346ebbbf4db16b79cc9b7/Screenshot+2024-08-14+at+8_17_38%E2%80%AFPM.png?expires=1763568000&signature=67146a498b07cf3f85b682908694e4116e2bc9cfb643345f4e04366e7601df56&req=dSEjEMh%2BnYBaXfMW1HO4zcy9aDQHEvH5WJ0zQoySFJlxdF4IRnp0qTfGvYLU%0AuZBzqlkOajyZeJ4tWYU%3D%0A
+
+---

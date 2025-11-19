@@ -1,0 +1,92 @@
+Checklist Templates for HVAC
+Source: https://help.housecallpro.com/en/articles/4320521-checklist-templates-for-hvac
+Author: Taylor M
+Last updated: Updated over a month ago
+
+Summary: Find templates for service call checklists, estimate checklists, and more specific to the heating & air conditioning industry.
+
+Housecall Pro Blueprint to Success Workshop
+
+If you're looking for more advice on how to effectively use checklists, along with other great features, register for the Housecall Pro Blueprint to Success Workshop!
+
+[Button] Register Here -> https://docs.google.com/forms/d/e/1FAIpQLScM2b6NgGEvrjkOFAZPunvol2CoR4FIIFiVgR7DmTRqgd3gQg/viewform?usp=pp_url&entry.1047718727=HCP+Help+Article
+
+---
+
+---
+
+Templates for HVAC
+
+Inspection Checklist
+
+Pro Tip: Use Pass/Flag/Fail to make it easy for technicians to assess if in good condition, needs attention, or needs repair/replacement
+
+- Check the condenser coil to determine if it needs cleaning
+- Check all wiring and connections to controls and electrical connections
+- Check blower belt wear, tension, and adjust
+- Check voltage and amperage draw on all motors with meter
+- Check compressor contactor
+- Visually inspect compressor
+- Check start capacitor and potential relay
+- Check pressure switch cut-out setting
+- Replace air filter or clean reusable type filter
+- Install gauges & check operating pressures
+- Check refrigerant (freon) level and advise if adjustments necessary
+- Check condensate drain and pan then advise of any discrepancies
+- Check expansion valve and coil temperature
+
+Service Call Checklist
+
+Pro Tip: Use a combination of Checkbox and Text types for checklist items to ensure technicians complete mandatory steps and capture essential info
+
+- Discuss any issues the customer is experiencing
+- Check temperature differential
+- Check drain and drain pans
+- Check for leaks
+- Is the condenser dirty?
+- Check filter and record size
+- Identify any issues (leaking duct work, poor returns, etc..)
+- Reset thermostat
+- Upload photos
+- Discuss concerns/repairs with customer
+
+Estimate Checklist
+
+Pro Tip: Use the Text type for checklist items to capture vital information about new customers or equipment and provide more accurate price estimates to customers
+
+- Check breaker band & size
+- Take photo of electrical panel
+- Take photo of existing equipment
+- Add model & serial number of equipment
+- Inspect duct system
+- Check copper sizes
+- Identify service access point and dimensions(closet, attic, basement, garage, etc)
+- Is a new platform needed? Y/N
+- Does supply or return air plenum need repair?
+- Return air cavity sealed? Y/N
+- Ductwork sealed at buckets? Y/N
+- Ductwork sealed at plenum? Y/N
+
+Maintenance Checklist
+
+Pro Tip: Use a combination of Checkbox and Pass/Flag/Fail to make it easy for technicians to complete check and indicate any needs for repair or replacement
+
+- Clear & flush drain line
+- Clear & flush drain pan
+- Verify system charge
+- Wash condenser coil
+- Check temperature difference
+- Check duct system
+- Inspect evaporator coil
+- Check capacitor
+- Check contactor for burns/pits
+- Check contactor OHM
+- Add pan tabs to drain pad
+- Check blower amp
+- Check condenser fan amp
+- Check heat operation
+- Take photos of model/serial #
+- Check compressor amps
+- Check sub-cool/super heat
+
+---

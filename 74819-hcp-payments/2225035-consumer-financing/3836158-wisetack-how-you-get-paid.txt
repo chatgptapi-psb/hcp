@@ -1,0 +1,36 @@
+Wisetack - how you get paid
+Source: https://help.housecallpro.com/en/articles/3836158-wisetack-how-you-get-paid
+Author: Nate H
+Last updated: Updated over 4 months ago
+
+Summary: Learn how you get paid when customers pay with Wisetack Consumer Financing.
+
+How You Get Paid with Wisetack
+
+Wisetack makes it easy for your customers to pay you over time for their purchases, and
+
+getting paid is easy too!
+
+When signing up with Wisetack, they will collect your banking information during the application process. Once you've been approved and a customer pays for a job with consumer financing, Wisetack will transfer the money to whatever bank account you have on file with them.
+
+- If a customer decides to take out a loan to pay for a job, you will be alerted via email, and within the Activity Feed of the Job Details page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1227717465/9e866cbec429c48a896590f9de24/Screen-2BShot-2B2020-05-26-2Bat-2B4_43_15-2BPM.png?expires=1763568000&signature=c50dc0807b8a68dd08adf9b3eeb464bf636e0549f6c4eeee7dbfcd7882b6f511&req=dSIlEc5%2FmoVZXPMW1HO4zVYEOTf6ojFivL6qBWysFjIZbYTJjwuI34UrDcA%2B%0AphWI7ZKfpx7TeJUIu3I%3D%0A
+
+- The Job Details page will reflect the payment status as 'Payment Pending' until Wisetack disburses the funds to the bank account you set up with them.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1227717462/cbf74c2b59c64d02fd48085bd38f/Screen-2BShot-2B2020-05-26-2Bat-2B4_44_51-2BPM.png?expires=1763568000&signature=9b946a821f05bbf4d80d50a10d81a941675eab74bacf8fcded39694f0ba04745&req=dSIlEc5%2FmoVZW%2FMW1HO4zZfKV%2BEBIMMrYjvUWRwngHQT33%2FkLCTv8o2OLsan%0AZoVg0QeKdN4etPBH5HI%3D%0A
+
+- Your customer will need to confirm that the work has been completed on their loan application before the funds are disbursed.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1227717463/00ff73e6c573964d773a2b74932e/Confirm-2BPayment-2BRelease.png?expires=1763568000&signature=17fd232b2db740d759489e1aa9aea8fe648905dcdf8acb7a5c29c8d18d039c0b&req=dSIlEc5%2FmoVZWvMW1HO4zTd0l4MPoOsEQ5SFobDe5%2FGZyGP82CF5pWy%2FKuzI%0AnxDKBEswa%2FzKPNmtrZ8%3D%0A
+
+- Once approved, the money will be sent in 2 business days and be reflected as 'Paid' on your job.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1227717459/b408c83a36e9a0e3cea65d0b67fb/Screen-2BShot-2B2020-05-26-2Bat-2B4_52_16-2BPM.png?expires=1763568000&signature=c74015748e1a93b7d1b5c1e4ee82f0f17d1c27de1607133d6ae5a32e2f4d6c91&req=dSIlEc5%2FmoVaUPMW1HO4zS0CwAk8EtVlid7CH%2BUzj9EeSIuRGBLyXENU3zNR%0AeOjBU3U8fc552P5JA5E%3D%0A
+
+- Just like with a Credit Card charge, the transaction will show up as 'Pending' while those funds are in transit, and will be reflected in the Financing tab under the "My payouts" section of the My money page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1227717458/5e5172078003c0d4b186a5e2c18b/Screen-2BShot-2B2020-12-17-2Bat-2B11_49_37-2BAM.png?expires=1763568000&signature=5842dc806d321f509fd87fb0aa5d16e26778b7b2229feb1ffb41851d9238a5f9&req=dSIlEc5%2FmoVaUfMW1HO4zQSQgLLml55GeAHkXenRM9z3KvLTR%2B5EjBhfjl6P%0Aji%2BDCtfVIQxgXcmbQy8%3D%0A
+
+---

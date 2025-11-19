@@ -1,0 +1,58 @@
+Card Reader - How to Troubleshoot
+Source: https://help.housecallpro.com/en/articles/2773016-card-reader-how-to-troubleshoot
+Author: Nate H
+Last updated: Updated over 4 months ago
+
+Summary: If you've accidentally connected your card reader through your device's bluetooth settings, follow these instructions to resolve.
+
+How to Troubleshoot Your Card Reader
+
+The only way you will ever need to connect your card reader to your phone is when taking payment on an invoice through the HCP mobile app.
+
+---
+
+Card Reader Connected via Bluetooth Settings
+
+If you've accidentally connected through your device’s Bluetooth settings, follow the steps below to resolve the issue:
+
+- First, navigate to your mobile device’s Bluetooth settings.
+
+- In the list of paired Bluetooth devices, locate the reader you've paired with.
+
+- Tap the [i] icon, located within the same line to the right.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234665348/eff9a0783fa47fa28e2c5df420ec/IMG_1346-2.jpg?expires=1763568000&signature=04dd2a5878b72ff8f02bedf7a47b310fd6164adba08ddfcfc44c1e14bae9294a&req=dSIkEs94mIJbUfMW1HO4zTaR%2BRssI4qzYb1I08VxJO7ltTtjtdLfSmXd5U%2FW%0AyNhYIFoYG32ZWlwHPU0%3D%0A
+
+- Tap 'Forget This Device'
+
+- And again, tap 'Forget This Device' in the pop-up at the bottom of the screen
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234665346/9e9b14c4e0cf5d53c54ef379fec6/IMG_1347-2.jpg?expires=1763568000&signature=281d762f0ee95837158f951650fc1a03c237885fd21232e7be7c74641f875699&req=dSIkEs94mIJbX%2FMW1HO4zdfc2N03dS%2FhIU%2FYfWe1U5rhoQPvDV4iYZ5OnA2m%0Atwrwe0qEk72xyhcbW58%3D%0A
+
+- Next, open the Housecall Pro mobile app and navigate to any job.
+
+- Tap the 'Pay' icon at the top of your screen, then tap 'Next' on the Checkout screen and select 'Credit Card' as the payment type.
+
+- Tap the 'Card Reader' button and wait for the card reader to connect. - This may take up to 30 seconds.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1235807780/b75cf95243db603ab4de01d4c589/image.png?expires=1763568000&signature=93f2e64198ef593450b94e26180348dd2b96f041d3799a62832a5d9ed5a48f80&req=dSIkE8F%2BmoZXWfMW1HO4zS9Lq1F8YftOSFQRJXTaK9FT5rOQtP5Kozxdyq7t%0AHJVJDIW2fRh8lMJmwCA%3D%0A
+
+- Once the card reader has connected and prompts you to run the card, you can cancel the transaction (unless you need to take a payment).
+
+---
+
+Card Reader Not Connecting to iOS Device
+
+If you are still having issues setting up your Card Reader for iOS devices:
+
+- Navigate to your device settings and locate the Housecall Pro app.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234665351/10fa8a3cd5b5c5b5a329b8a33af0/image.png?expires=1763568000&signature=8320be7e30293aa64c3126b02804649d124f78b28fbe673e737f55aa6b917161&req=dSIkEs94mIJaWPMW1HO4zeSHgiwviuk7%2B%2FXUFlJwKc9AlJqFuhNs9TGY2l7y%0ACvGtUlzaearp0qEknfA%3D%0A
+
+- Verify that the Bluetooth toggle switch is enabled (the toggle will be green), then try to use your card reader again.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234665350/58e9ff5c6788f2e33074e801d5a2/image.png?expires=1763568000&signature=bc68bb839310e51af7ad199bd861f5d43ddbd0ec25eb6dc16f19564cd4b6d2e7&req=dSIkEs94mIJaWfMW1HO4zX1qXighyFh8kVCDZix7%2Br7g2ekdIVfqG0z%2B5KXc%0Arx%2BVVbAxQAPhzSsPrkc%3D%0A
+
+- You should be good to go after completing the steps above! Any time you connect a card reader after that, the HCP mobile app should find the card reader almost immediately.
+
+---

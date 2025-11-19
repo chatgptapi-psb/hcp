@@ -1,0 +1,72 @@
+Agregue su libro de precios
+Source: https://help.housecallpro.com/en/articles/1468014-agregue-su-libro-de-precios
+Author: Ian H
+Last updated: Updated over a month ago
+
+Summary: Add your Price Book Spanish Tutorial
+
+Agregue y guarde sus servicios personalizados y preestablecidos para que pueda crear o editar fácilmente facturas y presupuestos desde la oficina o mientras viaja.
+
+Tiene 3 opciones para agregar a tu Libro de Precios. Este artículo mostrará cómo agregar elementos al Libro de precios manualmente.
+
+1. Agregar artículos al libro de precios manualmente
+2. Importar desde Quickbooks en línea
+3. Importar desde archivo CSV/Excel
+
+---
+
+Cómo agregar elementos al libro de precios manualmente
+
+Navegue al [Price Book] (Libro de Precios) en la parte superior de su portal web
+
+[Image] https://downloads.intercomcdn.com/i/o/876682846/566d222766cb53b675613f0a/Screenshot+2023-11-06+at+3.43.09+PM.png?expires=1763568000&signature=e5e4982480c6c3382982426c2b7dfdfe4a47877cd87c791ce7b637623744af3d&req=fCchEMF8lYVZFb4f3HP0gBxxQH%2BwFl%2BgfmJxK2dzMK8Wg0DES9EDF8LkaMv1%0ACvjSz3Zlqp7BqvW%2F7g%3D%3D%0A
+
+O...
+
+Vaya a [Account Settings] (Configuración de la cuenta) y haga clic en [Price Book] (Libro de Precios)
+
+[Image] https://downloads.intercomcdn.com/i/o/876683897/407c081bada30229e35e5a7b/Screenshot+2023-11-06+at+3.45.33+PM.png?expires=1763568000&signature=f062468f7d8e178130e2d592144f10849551a901d603838b4b2babb295eeb0a9&req=fCchEMF9lYhYFb4f3HP0gFFIeCJTZ5IbgeXc8HIGG3hZLOlMiOkXKdF1kJ3X%0AZX1TYD7kkoS8k%2F93bg%3D%3D%0A
+
+Haga clic en [Services] (Servicios)
+
+[Image] https://downloads.intercomcdn.com/i/o/561849709/173f32fad823fe32670df80e/B22E3C09-FAE2-4C59-B86E-3ADD12E14132.jpeg?expires=1763568000&signature=c8b4e1db90185c49936f5771b94078a657be7a2bce7f426c8472efac893bc3c2&req=cSYmHs13moFWFb4f3HP0gOEAKerpsz5ded%2BsZ5AOrSv%2FR7%2F5I2eoUn7I6Yaa%0ArngQBfHmrsvK7v9UmA%3D%3D%0A
+
+Haga clic en [Category] (Categoría)
+
+[Image] https://downloads.intercomcdn.com/i/o/561850518/2f782e1a6b8e18d0d022581f/70FAC400-11E9-49CB-8BC7-9720FF711C57.jpeg?expires=1763568000&signature=a20f2526b8c81c3961c901e62ed58a60e7fddec9ecd1244ac87820836a15dbd3&req=cSYmHsx%2BmIBXFb4f3HP0gEu53L%2Bl2%2BBt3petBsGtVljDeflNCNkeT5iG%2Bqhl%0AvRjy4KXxAp126LjTDw%3D%3D%0A
+
+Haga clic en [Add Service] (Agregar Servicio)
+
+[Image] https://downloads.intercomcdn.com/i/o/561851663/20a3b9cea33fd1a020a12a20/0789D7B7-40CF-45A9-8A48-B671DA9E84BF.jpeg?expires=1763568000&signature=9683aa533b2afcdbeb5fb82159cfaf452dcf785ea312a782c23b9b8041ba864f&req=cSYmHsx%2Fm4dcFb4f3HP0gOcpJdhP%2B0%2FdnvjX7aUJCNsOL93SasTq3jCSWel0%0Asa8decpXjuNh%2BUBcvg%3D%3D%0A
+
+Agregue en su lista de precios los [Item Details] (Detalles del artículo)
+
+[Image] https://downloads.intercomcdn.com/i/o/561821857/7387b999ad2f6f3d3c0a6701/33B68D77-1E96-49BC-B811-BEAACEB605B9.jpeg?expires=1763568000&signature=6bffd3cd8a19dff27ad7e9c61c4568c5a6af62ffdaa2b808f17fc21e4757c2d5&req=cSYmHst%2FlYRYFb4f3HP0gCDwC0jtEcKv2%2FeQUb%2Fo7SLznDtqITdlxVGLBGGz%0AYKIHnsMXUe53WLQwnA%3D%3D%0A
+
+Los detalles del artículo en el libro de precios incluyen:
+
+1. [Name] Nombre: Este es el nombre de su servicio o material.
+2. [Description] Descripción: Da una descripción detallada de lo que incluye cada servicio.
+3. [Price] Precio: El precio que le cobrará a su cliente.
+4. [Unit] Unidad: Si el precio es por unidad, agregue la medida por unidad como pie cuadrado, cada uno, hora, etc.
+5. [Taxable] Sujeto a impuestos: Querrás seleccionar si el artículo está sujeto a impuestos o no.
+6. [Online Booking] Reserva en línea: Querrá seleccionar si este servicio o material está disponible para que sus clientes lo reserven en línea.
+7. [Add Image] Imagen: Querrá agregar una imagen si habilita la reserva en línea para que el imagen pueda mostrarse en su página de reserva en línea.
+
+Haga clic en [Save] (Guardar) y ya está todo listo!
+
+---
+
+Agregar o eliminar una industria
+
+Puede agregar una industria a su lista de precios haciendo clic en el botón [Add Industry] en la parte superior derecha. Las industrias se pueden eliminar presionando los tres puntos en la parte inferior izquierda de la propia industria.
+
+Tenga en cuenta que si elimina una industria, también se eliminarán todos los elementos de esa industria.
+
+Editar o eliminar elementos
+
+[Image] https://downloads.intercomcdn.com/i/o/561826696/cbd351116bfc756a633037fb/2B3E6FA2-C6DD-441F-A205-ED3A1E765ED5.jpeg?expires=1763568000&signature=f9894dd3e3cc4f2e84a63cbc1f84ac26028ad3024f32f0a79d468e2d889f69ef&req=cSYmHst4m4hZFb4f3HP0gGAX6%2F9D2vveEVjyypePdWH6BQ3HBgsSWn1JRkfI%0AAuTKDiHBH6demnyDFw%3D%3D%0A
+
+Utilice los tres puntos en el extremo derecho para editar, eliminar, reordenar o mover la ubicación de sus elementos. Estos artículos se guardan en su cuenta para usarlos fácilmente en facturas y presupuestos, así que personalícelos para que sus artículos sean suyos.
+
+---

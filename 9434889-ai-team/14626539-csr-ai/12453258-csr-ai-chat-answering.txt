@@ -1,0 +1,66 @@
+CSR AI Chat Answering
+Source: https://help.housecallpro.com/en/articles/12453258-csr-ai-chat-answering
+Author: Andre O
+Last updated: Updated over a month ago
+
+Overview
+
+CSR AI Chat Answering is a new feature designed to help save time by letting CSR independently and efficiently handle customer communications of incoming website chats on your website.
+
+This feature is currently in Alpha and is available to a select group of Pros for early feedback and iteration.
+
+---
+
+What Does CSR AI Chat Answering Do?
+
+- Handles Website Chat Conversations: CSR AI responds to customer inquiries in real time, saving you time and ensuring consistent, high-quality service.
+
+- Notes taking: In the current iteration, the CSR AI can only take notes and summarize them. It does not book jobs or manage appointments yet.
+
+---
+
+How it works
+
+- Enablement: The feature is enabled for your organization by HCP (not self-serve).
+
+- Customer Initiates Chat: When a customer starts a chat on your website chat widget, CSR responds and manages the conversation.
+
+- Escalation: If the customer requests a human, the chat is escalated, and you are notified.
+
+- Outcome Visibility: After the chat, you can see a summary of the conversation directly in your inbox.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1751475343/fbfd35e3256908344675b370256e/image.png?expires=1763567100&signature=57ab547301ea4d6483da272ef0e384ed93788413d2996c276f03df06fdc16406&req=dSciF815mIJbWvMW1HO4zVh7prDFGTyO%2Fbcz0YYcMAK8SCN5CweoZs5yr6I9%0AszMhtfTVpdr8IjOec7w%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1751502117/439d4534d21d30de54cb096355c2/image.png?expires=1763567100&signature=2286ad11566f890b7e057ac578f0bc2e30ce6a01116d8572d66dcfd59e92fbca&req=dSciF8x%2Bn4BeXvMW1HO4zbrh8GwpOcgys8L8WrBVq%2BT2n6A3Ga6XbbiAX0V9%0AWJLZ7v3lJlmwRJSgdPY%3D%0A
+
+---
+
+What’s Next?
+
+- Feature Expansion: Support for booking jobs, managing appointments, and more channels (SMS, email, or third-party integrations).
+
+- Settings & Customization: Pros will be able to enable/disable, as well as configure CSR AI skills and knowledge base directly in their settings.
+
+---
+
+FAQs
+
+Can I turn this feature on or off myself?
+
+- Not yet. During Alpha, it’s enabled for select organizations only.
+
+Can the AI book jobs or send estimates?
+
+- No, the Alpha only supports answering chats and taking notes. Booking and other actions will come in upcoming releases.
+
+What if a customer wants to talk to a real person?
+
+- The chat can be escalated to the org POC at any time, and they will be notified to join the chat and help the customer.
+
+Where can I see the chat outcomes?
+
+- After the chat is completed or escalated, you’ll see a summary and notes in your inbox.
+
+---
+
+---

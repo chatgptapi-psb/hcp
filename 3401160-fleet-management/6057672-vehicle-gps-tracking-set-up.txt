@@ -1,0 +1,115 @@
+Vehicle GPS Tracking: Set Up
+Source: https://help.housecallpro.com/en/articles/6057672-vehicle-gps-tracking-set-up
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: How to enable Vehicle GPS Tracking within Housecall Pro, powered by Force Fleet Tracking
+
+Vehicle GPS Tracking can help you dispatch your service vehicles more efficiently, improve customer communication, and access the benefits of Fleet Management from Force Fleet Tracking.
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/4iis1tudg9
+
+---
+
+Step 1: Purchase Vehicle GPS Tracking Devices
+
+Head to the Vehicle GPS Tracking App Card in My Apps
+
+[Image] https://downloads.intercomcdn.com/i/o/676131021/b30db743b6720d84e8d8ed7b/purchasevgps.png?expires=1763568000&signature=36fa93496b6de9ef282117fc2816248fc2182e3e9a79500106fd16c45c12adc6&req=cichF8p%2FnYNeFb4f3HP0gJ8C%2Fo%2B70g%2Bj5a8KgFgarJwCkSGJShA1cCZQYtEU%0A0MDamDd0CtRJ1HI71w%3D%3D%0A
+
+---
+
+Step 2: Connect the Integration
+
+Enter your shipping address:
+
+- After you’ve updated your billing plan in Housecall Pro, you will be redirected to the Vehicle GPS Tracking app card. This is where you will enter your shipping address.
+
+- After you enter your shipping address, you'll receive a couple of emails from our partner, Force Fleet Tracking, regarding your shipping confirmation and device installation.
+
+[Image] https://downloads.intercomcdn.com/i/o/480655318/b3fb57f6b5d1b43d388d8df8/enter+shipping+address.png?expires=1763568000&signature=916395300191f3f4f02e1775127a94a04eb039d489872f68d4a4b3fab79d14ac&req=cCgnEMx7noBXFb4f3HP0gJ%2B4CB5EReSpx%2Bw7GI7RXSYppIATDCew0o%2FXBnvH%0AI9VYs04%2FuoCm6WURiA%3D%3D%0A
+
+Log in to Force Fleet Tracking:
+
+- Once you receive your devices, there will be instructions on how to plug them in. Since you will not have a login password to Force Fleet Tracking, you will only be able to access your Force Fleet Tracking account through the magic link in Housecall Pro.
+
+- To do so, log in to Housecall Pro and click on My Apps at the top banner of the screen. Locate the Vehicle GPS Tracking app card and click Learn More.
+
+[Image] https://downloads.intercomcdn.com/i/o/487618855/0ca7a6504742c972ff11a237/APPCARD.png?expires=1763568000&signature=855a698e367f67286a0124fcf715344798c094a233ef06c16b6d1e65d73c96a4&req=cCggEMh2lYRaFb4f3HP0gObsEoQp4Cy85cz8rZVkK%2BxHQtAuXMOB1M4gxo9u%0A%2Ftd3noOrmwv%2B9o411A%3D%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/487619669/6276bce1bfc197f6b10c667e/LOGIN.png?expires=1763568000&signature=e3077107a9bccde2ece65ac568595a93600c41b238abe888951a3d42473a1316&req=cCggEMh3m4dWFb4f3HP0gGgJfbUFfuwkuC7Uwk56n7AiQ3E8CbHQzaSugXGS%0A4F1HOlh8G2VqZ%2FhNfQ%3D%3D%0A
+
+- Once you place your order, it may take up to 1 business day for Force Fleet Tracking to fulfill the order. If you log in to your Force Fleet Tracking account before your devices have shipped, you’ll see a message that says "Please Hold."
+
+[Image] https://downloads.intercomcdn.com/i/o/499605585/4bdb0b2607558df29e4ffa75/Please+Hold.png?expires=1763568000&signature=aebfe1734ea6c1e849b1950fbe015c5f1132187ad1ff09a5ecbc31506573d384&req=cCkuEMl7mIlaFb4f3HP0gB4Hmdw2kLP%2FLvkQnHkL%2BU7gF2UUD3448z5veoAJ%0AeLwTIPf9cmyMipC%2BoA%3D%3D%0A
+
+- As soon as Force ships your devices, you’ll receive an email confirmation that includes the shipping tracking number.
+
+- Meanwhile, in your Force account, you may see a screen with the pending device numbers.
+
+- You will be able to activate the integration and see the full fleet management dashboard once you receive and activate your devices.
+
+[Image] https://downloads.intercomcdn.com/i/o/499605812/76f6ccf362addc181c9eebc8/IMEI.png?expires=1763568000&signature=85bf87f4b59a86863715329ca2fc08c527f35a3d602fbb67f5ecade87479e161&req=cCkuEMl7lYBdFb4f3HP0gMqedXU6UGJei4AtMUbOjJA9TMj84izt4NiETmmu%0AScNH8tIOgg1infMWwA%3D%3D%0A
+
+Add Drivers to Fleet:
+
+- After you've taken your trucks for a trip around the block to activate the devices, you will have to log back into your Force account to complete the setup! Vehicle data will appear in Force Fleet Tracking, and you will be able to name them (for example, "Service Truck 1") in order to identify each truck on your map.
+
+- Then, click into Drivers. Your Housecall Pro employee list will populate into Force Fleet Tracking so that you can assign each tech to a vehicle.
+
+[Image] https://downloads.intercomcdn.com/i/o/487621718/d9dd7a353683247d44c04c24/1.DRIVERS.png?expires=1763568000&signature=d9f54649c63df81faea8b95fd6226a60f2074ecec8255aba6905953c75d3d8d3&req=cCggEMt%2FmoBXFb4f3HP0gLx%2F9rwz5Z%2B6OvnhIH%2B%2BPIihQxImKS8wma4Fb638%0A%2FfeIrOkqNiCJg07J1g%3D%3D%0A
+
+- Click ASSIGN VEHICLE next to each employee.
+
+[Image] https://downloads.intercomcdn.com/i/o/487622569/65044c499861198028bc0765/selectassignedvehicle-2.png?expires=1763568000&signature=3b328ee74211eb9bbbf2d7db2f59bb13388c663d9764faf43f4a196aeb469d85&req=cCggEMt8mIdWFb4f3HP0gGSS0T1OODYBiddVJUK7HJWNvGxPcn0B5CjMSz9s%0ASUAJaPZrjzdnr%2Bp5gQ%3D%3D%0A
+
+- Select a vehicle from the available list in the dropdown.
+
+[Image] https://downloads.intercomcdn.com/i/o/487623052/815ea5321f7cbd9d5393af3b/SelectCAR.png?expires=1763568000&signature=cb06bf1a265543ec2567199bd5f1570edc30e8ced431509b1a42a3ae9222253f&req=cCggEMt9nYRdFb4f3HP0gGxyOP8jJWhvHIXbmscf1b8qQ8M15%2BRmpR15GqKH%0A3P1aD9y95hE2FdCPFg%3D%3D%0A
+
+- To unassign a driver from a vehicle, go to DRIVERS and select the driver.
+
+[Image] https://downloads.intercomcdn.com/i/o/487627082/7829bf7c438c7e3d16d75922/select_the_driver.png?expires=1763568000&signature=1753d47d3d400d60374384835942553bfb2787912c7a4ee589da6155d81ab3c5&req=cCggEMt5nYldFb4f3HP0gDJkx44rkRx6QMrRzFMA4s2QTDhjDhHCPZ8iyJpK%0A3qOjrU3IcMq1H2bK%2BA%3D%3D%0A
+
+- Tap UNASSIGN VEHICLE.
+
+[Image] https://downloads.intercomcdn.com/i/o/487626600/05a7015a77b425347c4f2305/UNASSIGN_VEHICLE-2.png?expires=1763568000&signature=2c392d0dfed79ae1fda66ec8ae25bc69d8f1c29350bca6e0177e6701fc730461&req=cCggEMt4m4FfFb4f3HP0gD7rmqqLuvYgEqRFufQWNSSNeDA80sNQTynIgJnr%0Ayd8CFQf7VaOu1f4MGQ%3D%3D%0A
+
+That's it for setup! Head over to this article to see how it works!
+
+---
+
+FAQs
+
+Can I install the devices myself, or do I need professional installation?
+
+- You can install it all yourself. It’s a very simple plug-and-play installation. Force Fleet Tracking uses a device that plugs into the OBD-II port of any light truck, van, or car manufactured since 1996.
+
+How do I add more devices?
+
+- Click the gear icon in the top right corner of your HCP account to access your Settings. Select Billing from the left menu, then click the Explore Plans tab at the top of the page.
+
+Do I need to install any software?
+
+- No-there is nothing to install on your computer as Force is a cloud based solution.
+
+Does Force have a mobile app?
+
+- Yes-Force has a mobile application that can be downloaded on your iPhone or Android. Here are the steps! - Download the Force Fleet Tracking app on your phone:
+ - Android 
+ - iPhone 
+- Open the app and click "Reset Password"
+- Enter the email address associated with your Housecall Pro account
+- Follow the prompts to set a new password and access your Force Fleet Tracking account
+
+Is Force Fleet Tracking available in Canada and other countries besides the United States?
+
+- No, at the moment, Force is only available in the United States.
+
+---
+
+Force Fleet Tracking Support
+
+For setup support, contact the Force Fleet Tracking support team at customerservice@forcefleettracking.com or call them at 1-806-855-8255.
+
+---

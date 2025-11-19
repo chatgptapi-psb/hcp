@@ -1,0 +1,30 @@
+HCP Assist: Non-Serviceable Customers
+Source: https://help.housecallpro.com/en/articles/9719146-hcp-assist-non-serviceable-customers
+Author: Gillian H
+Last updated: Updated over a month ago
+
+How can I block a Do Not Service customer from forwarding to HCP Assist?
+
+- Depending on how you forward your calls, you can block a Do Not Service customer or vendor's phone number directly from your device, carrier, or VOIP settings.
+
+- When a number is blocked from your end, it will not transfer to our Virtual Assistants for service.
+
+- If you are having trouble blocking the number through your phone or carrier, we recommend contacting your carrier's support team for further assistance.
+
+---
+
+If I block a phone number, will it still be forwarded to HCP Assist?
+
+- If you have blocked a number from your device, carrier, or VOIP, then it will not transfer to our Virtual Assistant for service.
+
+---
+
+If you have any further questions, you can contact our support team in a few ways:
+
+- Send a reply message via the HCP Assist call log.
+
+- Go to the Blue Chat Bubble > General Support > HCPA Answering Service.
+
+- Call us at (858) 842-5746 M-F 8AM-8PM EST, Sat-Sun 11AM-7PM EST.
+
+---

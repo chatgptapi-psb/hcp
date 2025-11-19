@@ -1,0 +1,54 @@
+HCP Payroll: How to Process Off-Cycle Payroll
+Source: https://help.housecallpro.com/en/articles/9146851-hcp-payroll-how-to-process-off-cycle-payroll
+Author: Leshlie C
+Last updated: Updated over 11 months ago
+
+What is Off-Cycle Payroll?
+
+Off-cycle payroll refers to payroll processed outside of the regular payroll schedule, typically used to address specific, one-time payment needs. This can include instances where you miss your payroll deadline and need to adjust or move the pay date, or when an employee’s pay is missed and needs to be issued separately.
+
+Off-cycle payroll is also commonly used to process additional payments such as bonuses or commissions that are not part of the regular payroll cycle. It's an essential tool for employers to ensure employees are paid accurately and on time, even when exceptions or unexpected circumstances arise.
+
+Whether it’s correcting an error, issuing a special payment, or handling an urgent payroll situation, off-cycle payroll allows businesses the flexibility to manage payroll discrepancies efficiently without waiting for the next scheduled cycle.
+
+---
+
+How to Process Off-Cycle Payroll
+
+To create and process off-cycle payroll:
+
+- Click 'Payroll' in the navigation bar at the top of your Housecall Pro account. - Depending on the size of your browser window, you may need to click 'More' and then select 'Payroll' from the drop-down.
+
+- Select 'Overview' from the menu on the left.
+
+- Click the 'Run Payroll' button.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1268054605/2f8297a58b79a8cee49275307b32/RunPayroll1.png?expires=1763568000&signature=d396be572b0c7228ca0cd1e63eba1224401c61635ffbc4cf6aea456440fd9c02&req=dSIhHsl7mYdfXPMW1HO4zb477UQudtGIsTmi1sn4u1kA%2F3S5b4zJaWKnSRZP%0AxJfy8Hg0zPI6nkwBL8M%3D%0A
+
+- For security purposes, you'll be prompted to enter a verification code (sent via SMS). Once entered, click 'Continue' in the Two-factor authentication window.
+
+- On the page that loads, select the Off-cycle Payroll option.
+
+- Enter the pay period start and end dates.
+
+- Select the pay/check date.
+
+- Ensure not to select any of the text boxes below unless necessary due to your specific situation: - Tax all earnings as supplemental earnings - will cause wages to be taxed at a higher rate as supplemental earnings (i.e. bonuses).
+- Apply Benefits - This will apply any benefits deductions that the employee normally has deducted from a regular payroll cycle.
+- Apply Post-Tax Deductions -This will apply any post-tax deductions that the employee normally has deducted from a regular payroll cycle.
+
+- Select 'Create Payroll'
+
+- Navigate to the Employees/Contactors section within the Run Payroll page.
+
+- Enter the hours and payment for your employees/contractors.
+
+- Remember to update the Payment Methods for your employees/contractors if you are distributing Manual payments.
+
+- Click the blue 'Preview Payroll' button in the top right corner of the page and review the items for accuracy.
+
+- Click the 'Submit Payroll' button before the deadline indicated on the Preview page.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1009840902/1d85c0ce5c2e05ebbd609cb0/e5c4QE9Zdg8wqoKt6wfP1L0If_hxkJKsNSK0GPb8Th7F8k-zTTFzfhlPevgpoQ_0dNLWdrKvqK-d6IgaCEJfQDFUxWKgKANfYBDUPkXcATuToBNyLg3dURigScTy6oTGy0WFRb5oaKA27YcZUE8AD-U?expires=1763568000&signature=70cfa5879d7e323ff01e37d4860cf4f28bd207ae3d15fbcbc6e118d32aa71f3c&req=dSAnH8F6nYhfW%2FMW1HO4zQJjzGSO5bc5jhI9%2FpApR641C30nl1q7vgEhFPc6%0AsQpVYyYGyDkZv6%2F7a24%3D%0A
+
+---

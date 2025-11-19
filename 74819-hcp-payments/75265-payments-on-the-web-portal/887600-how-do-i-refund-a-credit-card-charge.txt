@@ -1,0 +1,40 @@
+How do I refund a credit card charge?
+Source: https://help.housecallpro.com/en/articles/887600-how-do-i-refund-a-credit-card-charge
+Author: Nate H
+Last updated: Updated over 10 months ago
+
+Summary: Learn how to refund a credit card payment from the Housecall Pro web portal.
+
+Refunding Credit Card Payments
+
+To refund a credit card payment:
+
+- Open a job associated with the payment you need to refund to view the Job Details page.
+
+- Scroll down to the Payment history section.
+
+- Click 'Refund' to the right of the payment information.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1229067936/7559038d775c10b2defb8ec39d84/RefundCC.png?expires=1763568000&signature=37223b1fdff476d67aa56060c8ba98d4f44aa9164f1afea9fc43753b93f0826c&req=dSIlH8l4mohcX%2FMW1HO4zXbJVYINzyq%2BS0aQZ4dtO%2Fz%2FJbrelXw7tANJPg3I%0ACucVh9dcbXJTi8iZLhY%3D%0A
+
+- Enter the dollar amount to be refunded in the 'Refund amount' field. You can choose to enter the full payment amount or a partial amount.
+
+- Click 'Issue Refund' to process the refund for your customer.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1229086658/ba7fffb6465e550d42fd7cd5af98/RefundCC2.png?expires=1763568000&signature=7a4c279ce93d61cc6d4c8ab5a850d326f26b4a160bd9c90692ced681e4dfe023&req=dSIlH8l2m4daUfMW1HO4zRMLxJNaTJxUiMnh7oRmiDEvyjQZkVKR5TOefz3f%0Ai%2BHhgl9hL2KKwyV1hkw%3D%0A
+
+---
+
+How do refunds work for ACH payments?
+
+- ACH refunds must be initiated within 90 days after the original payment, and can only be processed after the payment process has been completed. 
+​ - For example, if a refund is initiated immediately after a payment is made, there will be a 4-5 business day delay for the charge to process first, then another 4-5 business days for the refund transfer process. ACH refunds cannot be issued after 90 days from the payment date.
+
+---
+
+Can I cancel a payment before it goes through?
+
+- Once a card payment has been made, it cannot be canceled. The payment will need to be refunded to the customer from the Job details page.
+​
+
+---

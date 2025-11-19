@@ -1,0 +1,95 @@
+Open Invoices
+Source: https://help.housecallpro.com/en/articles/9011828-open-invoices
+Author: Michael Storer
+Last updated: Updated over 10 months ago
+
+Summary: Learn more about the Open invoice status to better understand your reports and invoice functionality.
+
+What is an Open Invoice?
+
+- An open invoice is an invoice that requires some remaining action, this can include invoices that are not fully paid and invoices that have not yet been sent
+
+How an Invoice Becomes "Open"
+
+- 3 different statuses contribute to an invoice being "open:"
+​ - Past Due - The job must be marked finished, have the invoice sent, unpaid and the due date has passed.
+​
+- Due - The job must be marked finished, have the invoice sent, the due date is upcoming, and is unpaid.
+​
+- Unsent - The job must be marked as finished, the invoice must not have been sent yet, and the job must be unpaid.
+
+- Invoices can become open depending on your due terms as well as the actions that you take. - If you are using simple invoicing, the invoice will automatically be marked as open when it is created, and its status will remain open until it is paid or marked otherwise.​
+
+- There are a couple of key triggers, explained in the Due Term Rules table below:
+
+Due Term Rules
+
+Table:
+Row 1: Due Term | Trigger | Notes
+Row 2: Upon receipt | The invoice will be moved to the open status when the invoice is sent |
+Row 3: Upon start of work | The invoice will be moved to the open status when the job start date has passed | If the job is not scheduled, we will transition this to 'Open' if the invoice is sent or paid to keep reporting accurate.
+Row 4: Upon completion of work | The invoice will become open when the job is finished. In other words, you must click 'Finish' on the job. | If the job is not marked as finished, but the invoice is sent or paid, we will transition this to the 'Open' status to keep reporting accurate.
+
+---
+
+---
+
+Access Open Invoices from the Homepage
+
+To access your Open Invoices from the homepage:
+
+- Select 'Home' from your top navigation bar.
+
+- Click the 'OPEN INVOICES' widget.
+
+[Image] https://downloads.intercomcdn.com/i/o/1119107302/e97eb73ad9a9903cbd9ed2d4/Screenshot+2024-07-19+at+1_20_46%E2%80%AFPM.png?expires=1763568000&signature=c6dec84029286e45e7cd775ba4249c49693ff977f666226af476d64c9b553568&req=dSEmH8h%2BmoJfW%2FMW1HO4zTmstA%2BHYbUpCn%2Bj164WXVymZGbjPwBY7YapPur5%0A3LGiiCVP1FnkCUL4HaY%3D%0A
+
+- This will redirect you to the Invoice list view, where the 'Open' invoice status will be pre-selected so you can easily view your open invoices.
+
+[Image] https://downloads.intercomcdn.com/i/o/1119109312/ff86e787b296d3b047ba6f3c/Screenshot+2024-07-19+at+1_23_05%E2%80%AFPM.png?expires=1763568000&signature=1e9fdb2ef8b21c3e7c624e62cf16f0517cc2f5a5ff98034bb2b2a180f7c49c3b&req=dSEmH8h%2BlIJeW%2FMW1HO4zWb%2FkbeswdISswwKfiFxz0INjtQ4tnMmR5TV46Uc%0A1n2n4%2FE4SSTwdzlN1XE%3D%0A
+
+---
+
+---
+
+Access Open Invoices from the Dashboard
+
+To access open invoices from the Dashboard:
+
+- Select 'Dash' in your top navigation bar to view your Dashboard.
+
+- Locate the Open Invoices card. The Open Invoices card on the Dashboard displays the total invoice amount by open invoice status.
+
+- Click 'VIEW ALL' in the top right corner of the card to pull up all past due, due, and unsent invoices.
+
+- Alternatively, you can click the Past due, Due, or Unsent bars in the graph to view only the open invoices with those specific statuses.
+
+[Image] https://downloads.intercomcdn.com/i/o/163584319/6928125eb906de1fb23d3ad3/Screen_Shot_2019-11-15_at_12_40_21_PM.png?expires=1763568000&signature=cc32d3dce5586ea5ad035f4acf6efabeb003971369581dd59ec348748b51e4c6&req=dSYkE8F6noBWFb4f3HP0gJWsL1CBuVLCfWM%2BYgIzHSr5EjvqNgo%2F1DcMHFDy%0A7fGOzrJQQLVfxOlh3Q%3D%3D%0A
+
+- The following information is listed in columns: - Invoice ID - Invoice number
+- Customer - Name of customer (parent-child setup will show child name) 
+- Job tech - Name of one dispatched employee (based on employee list order)
+- Due amount - The amount that has not been paid
+- Job finished - The date 'Finished' was clicked on the job
+- Invoice last sent - Most recent date the invoice was sent to the customer
+- Due date - Based on invoice sent date & due date terms
+- Terms - Invoice due date setting
+ - Click here to learn how to change your invoice due date.
+- Notes - Private job notes 
+- Address - Job service address
+
+[Image] https://downloads.intercomcdn.com/i/o/163591210/51d55a633b1d194986c413f1/Screen_Shot_2019-11-15_at_12_54_06_PM.png?expires=1763568000&signature=3e142e2221739cbcd32b1ffdc5ca99eee59b3726c1e769554c1a3d28d1941d62&req=dSYkE8B%2Fn4BfFb4f3HP0gPCSf00Vc%2BFW6E8qlcJ7NeCm1SbGA%2BPWGmi6D%2BE3%0AafjR895pSHiHXmqRlg%3D%3D%0A
+
+- Hover over an invoice row to: - Expand the row to view all job notes
+- Send the invoice to the customer
+- Delete the job completely (remove it from your account).
+
+[Image] https://downloads.intercomcdn.com/i/o/163594756/392ac191252c4c952bbcc36a/Screen_Shot_2019-11-15_at_1_40_57_PM.png?expires=1763568000&signature=02d0f82344a3e56932719bc2b39fad756330a84dd3cf692a44bc4b3e51903795&req=dSYkE8B6moRZFb4f3HP0gFjEJMcKl%2FpRx7LmYQ31e6w5lGbmiSZ7cNdaaF8Z%0AsoqF78rZTkLUalq%2BWw%3D%3D%0A
+
+- To filter the report: - Click the 'Status' drop-down.
+- Check the boxes you'd like to include.
+- Click 'Apply' to see changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/163596406/eece0dd44a328d0fb6e8cfe2/Screen_Shot_2019-11-15_at_1_54_53_PM.png?expires=1763568000&signature=b73796d5bc31bb03d72d031e2f6ca30833020ead7a18a034a3f5fe855c3af44e&req=dSYkE8B4mYFZFb4f3HP0gO3CCr3qYavb5j%2Fgr1RkJA2U0rwnG0MIIc8E2w6X%0A%2B6a2waWPPhMTyFBzfA%3D%3D%0A
+
+---

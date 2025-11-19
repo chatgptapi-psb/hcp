@@ -1,0 +1,48 @@
+Access & Download Paystubs with HCP Payroll
+Source: https://help.housecallpro.com/en/articles/8695075-access-download-paystubs-with-hcp-payroll
+Author: Amparo D
+Last updated: Updated over 6 months ago
+
+Summary: Learn how to access and download paystubs with HCP Payroll.
+
+How to Give Employees & Contractors Access to Paystubs
+
+To provide employees and contractors access to their paystubs:
+
+- Click on the 'Payroll' tab in the navigation bar at the top of your Housecall Pro account. - Depending on the size of your browser window, you may need to click 'More' and then select 'Payroll' from the drop-down.
+
+- Select 'Employees & contractors' from the menu on the left.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1265420315/4be40d25ab14b1344dd19386caf3/Payroll7.png?expires=1763568000&signature=aa4911accee666288f419d5e028b9a2eed04684544cf06d507fb246003145562&req=dSIhE818nYJeXPMW1HO4zRg%2FovsaZ86FCX0zbRUQjkNwLXaUcxtLY5vMvz9Y%0AAhc3GpNJupNC7vGIFHc%3D%0A
+
+- Click 'Details' to the far right of the employee who needs access to their paystubs.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140675125/2f1d7a13951ec24481f17591/Details+.jpg?expires=1763568000&signature=e014b44b18d9c90c33cf3101ea308446f934b3a166fe5d06f633ce746afbf21b&req=dSEjFs95mIBdXPMW1HO4zcAaPc0LjyGNXsnQ6AfA5er4GZtCgIV2Pfojf68s%0Af9GFg3XQ3yCzQ%2FUYEQE%3D%0A
+
+- Go to the 'Pay' tab, and click the 'Copy link' button in the top right corner of the pay history area.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1511403783/e338f7851bc40b08babc58c77954/AD_4nXcKCnrmun7qN1h_ZSDJfQkFnmnCDYa5YpEd_T57ag50RCN5pHmCoDRqlNYcrd3Q1tfBrkbJuAdmFnIMVHdHO0u3ZyTCZ__HBDAejB__JKI1mgmt_gkMBgUfxvy-ozqFSGfUmrtY?expires=1763568000&signature=1ded9c13756c6aba07aa48f173dfa8c4fd0600e2a49d910845465dca2202a1ff&req=dSUmF81%2BnoZXWvMW1HO4zZToU%2FTxX4S9AZzo4PItk7ToU56xQMsXR%2FrKhlIP%0AMwpLNF7vnrIO0pBvWac%3D%0A
+
+- Your employee's paystubs link will be generated and copied automatically to your clipboard.
+
+- You can then paste the link into an email or message to send it to your employee or contractor.
+
+[Image] https://downloads.intercomcdn.com/i/o/1140676240/a3202a9d59976be4ba5cb390/Paystubs+Link.jpg?expires=1763568000&signature=3bb988f9ab48dcb4e5979b029def2e836a1e333341f5db5145e9f85a42c5f8a1&req=dSEjFs95m4NbWfMW1HO4zUFppSuP2ZmKU9q7LJKkciLJKaxdMDcLXhyNzl8t%0AP1ssdLYRotDkf4j7SOU%3D%0A
+
+---
+
+How to Download Paystubs from the HCP Mobile App
+
+Employees and contractors who have an active HCP user login can access and download their paystubs directly from the HCP mobile app by following the steps below:
+
+- Tap the 3 horizontal lines icon in the top left corner of your HCP mobile app, then select 'Payroll' from the menu options.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/1140678013/ea2aefbb30f914146ca7a352/Payroll0.jpg?expires=1763568000&signature=6dc4b4047ed97793503b172079d895e56c6fdfaa18d579e7b9cc8dab4759fbcb&req=dSEjFs95lYFeWvMW1HO4zaQIP5VjnNPqqlQVm9%2BIq1tKnKv3JYXaP0ItOBgJ%0Awh%2B%2B%0A | [Image] https://downloads.intercomcdn.com/i/o/1140678648/6af280b1fd9c4cf1237288ff/Payroll1.jpg?expires=1763568000&signature=dd6ec050dfc0ff4bfab981ac5e3df9306c2e4fe37c28928e994d91dd5fda440a&req=dSEjFs95lYdbUfMW1HO4zR%2BIhbvsJXVLgy%2BRchwb79POod9fWBRllAgpn%2Flw%0AuGpP%0A
+
+- Select 'Paystubs' and tap 'Download' on the paystub you'd like to retrieve, and you're all set!
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/1140678975/cadc21af20ac1298e34a44f5/Payroll2.jpg?expires=1763568000&signature=0c948f9b3e10556bc4b50d8bb0b3d85e75906d3f50ea76f0fe65c86e71e15738&req=dSEjFs95lYhYXPMW1HO4zWC0eSvO%2FBkovQIil6wgkJweAYKW08HALRkVbbl%2F%0ApFlB%0A | [Image] https://downloads.intercomcdn.com/i/o/1140679197/fdfd69664114638262a026c3/PAyroll3.jpg?expires=1763568000&signature=9e5f2ef95b6a1d51b2bccda935692d5ab5af5d815a2ff5157ff4ceea4df5e687&req=dSEjFs95lIBWXvMW1HO4zdt%2BGaxJzb59K6%2FILczu%2FDtGSBeAnY%2BXFY4Z1whG%0AdknM%0A
+
+---

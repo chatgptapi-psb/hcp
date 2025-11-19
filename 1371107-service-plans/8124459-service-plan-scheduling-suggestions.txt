@@ -1,0 +1,196 @@
+Service Plan Scheduling Suggestions
+Source: https://help.housecallpro.com/en/articles/8124459-service-plan-scheduling-suggestions
+Author: Sarah C
+Last updated: Updated over a month ago
+
+Summary: Optimized scheduling suggestions based on location for service plan visits.
+
+Scheduling Suggestions
+
+When scheduling service plan visits, optimal times for scheduling will be provided on the schedule page. These suggestions are based on proximity to other jobs on your calendar, so you can minimize drive time and maximize efficiency.
+
+- Create a job for a Service Plan visit
+
+[Image] https://downloads.intercomcdn.com/i/o/903382289/adf8ebe887e45658a4e762dc/scheduling+gif+v1.gif?expires=1763568000&signature=36fe01220aff8fa1f8d20e6731c2e0a11ea37667f27697f52862b05c09af1b89&req=fSAkFcF8n4lWFb4f3HP0gEdtO8hAqH9n1%2FSvxP1fllGywCOdz8V7vRvp59Dw%0AIC16Uv1P855CO%2FFX8g%3D%3D%0A
+
+- Smart scheduling suggestions will automatically appear on the right side of the schedule.
+
+- Scheduling suggestions are based on a 1-hour visit within the next 7 days with any available technician.
+
+[Image] https://downloads.intercomcdn.com/i/o/903382477/2a4ea598b1ea7c874c689aad/scheduling+gif+v2.gif?expires=1763568000&signature=64c965891ae9c893c6590860db0d65642e6a8c92b4fe5a7085ae5cca6b8489e0&req=fSAkFcF8mYZYFb4f3HP0gF9FCEVvfc6f1dYAklB6ZagH4Vpj22uUvu9TctlR%0ASyNdNtW1XReshYOumQ%3D%3D%0A
+
+- Adjust duration of visit, date range or technician to receive more optimized scheduling suggestions.
+
+- Save & schedule service plan visit.
+
+[Image] https://downloads.intercomcdn.com/i/o/903382696/364043f2e7ec875eb9cb5303/scheduling+gif+v3.gif?expires=1763568000&signature=2121d008dab0646a0a729913e3519842ca3cb159d87bfcc46dbb8ba7ff28ada3&req=fSAkFcF8m4hZFb4f3HP0gDXJWLDJrrk1XbAdwTboNpl8xrsKDSnhBH4oPx7I%0AkxHoOsxKGdYv9gbg8w%3D%3D%0A
+
+---
+
+FAQs
+
+Why does the distance between the closest job seem shorter than I would expect?
+
+- Distance between jobs is currently calculated based on "how the crow flies" and not specific drive time.
+
+Why did I not receive any scheduling suggestions based on location to other jobs on my schedule?
+
+- There might not be any availability on your schedule.
+
+- Try adjusting your search
+
+How do I dismiss the suggestions?
+
+- Clicking on the suggested times button will dismiss the suggestion widget for this job and future jobs. To see suggestions in the future, click the button again. 
+​
+
+---
+
+Automatic Scheduling and Renewal Reminders for Service Plan Customers
+
+How to set up automatic reminders to easily manage your service plans
+
+About Scheduling and Renewal Reminders
+
+Save time, book more jobs, and sell more service plans with NEW scheduling and renewal reminders. Here’s how they work:
+
+- Set automatic SMS or email reminders to notify customers when it’s time to renew their service plan or book their next service plan visit.
+
+- Customize when your customers receive a reminder—days, weeks, or months before their service is due.
+
+- By automatically prompting service plan customers to take action, you’ll schedule more work without putting in more time
+
+Demo
+
+Learn how to set up scheduling and renewal reminders with this interactive demo.
+
+[Button] Take Tour -> https://pro.housecallpro.com/product_tour/k2j4b0llcrke?source=intercom
+
+---
+
+Setting Up a Scheduling Reminder
+
+- To set up a Scheduling Reminder, navigate to the Service Plan Dashboard and click the gear icon in the Service Plan dashboard to access the Settings page.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/450593352/567db96566119cf49081a556/Ggmw5LGd7BO7tAN6Fau6PUGeIBk-sakSzPkSO7im1dg2C8a9SK0D7uTSWhwaYrOUOJhJTJTklEIE9z7lXsjgvOMfhU1VHBLSBZWmXW1vdSW61U9bJtJdvsTtaO8Dz5B6pCl7CMDf?expires=1763568000&signature=77ef859fcc470b3f1e157e40bc9a0d82b0121fad91b1df2ca8e6f97b6a21984f&req=cCUnE8B9noRdFb4f3HP0gJgfcfBi3K%2BWSoQh%2BifcQ2iVtAwEobBHU%2Fhi90bb%0Ahmypna6hhakFuVBayw%3D%3D%0A
+
+- Under the Scheduling Reminders section, click the + Reminder to add a new reminder.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1641835347/94c588a7aa40b237693620d01e08/image.png?expires=1763568000&signature=e48330231c9d5ede1fac04851d10a9bd0b5aec76b0753d7bc4ed8c5d88fd70eb&req=dSYjF8F9mIJbXvMW1HO4zf6%2Fbv9VusO7FNEv12EvsaL6O2ywxIWPMco3VlDC%0A62336V6Uv1he5l6N8Qo%3D%0A
+
+- Next, choose the settings for your reminder:
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/450593356/1ef667ce8d608fe7cb753e38/rVnK8H9-6CQXcCYGUoUpG396YXlA8h9Pa_P6V0niwl6LXzG4auuNbfryG0EwsswU2LNE2QCICqWfXuw_5aN82E743Hrg3VOlG8qwH_X_vzUmnfqTMuVz1Q8RgibzmSUPVJivSml6?expires=1763568000&signature=bd1daabfefae7bb14a982f250ad9f99cb1b27298bc181fe1e091f2fc63aab212&req=cCUnE8B9noRZFb4f3HP0gHZhlo4H8%2FUojDu7G5XSwNps%2BtT9tibjyM1fxk5W%0AxoXyq2ZchbjF2qFbqg%3D%3D%0A
+
+- Time before visit is due: Choose between 2 Months, 1 Month, 14 Days, 7 Days, 3 Days, or 1 Day before the next visit. "Days before" is calculated based on the first day of the month that the visit is due.
+
+- Delivery Method: Choose SMS text message or email delivery options.
+
+- Toggle: Move the toggle into the ON position to enable this reminder, or move it into the OFF position to pause the reminder.
+
+- Delete: Click the X icon to delete a reminder.
+
+- Repeat the process above to create more reminders using the + Reminder button. Be sure to click SAVE at the bottom of the page to save your changes!
+
+---
+
+Setting Up a Renewal Reminder
+
+- To set up a Renewal Reminder, navigate to the Service Plan Dashboard and click the gear icon in the Service Plan dashboard to access the Settings page.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/450593357/84a99c178e32f95db3e2534d/Ggmw5LGd7BO7tAN6Fau6PUGeIBk-sakSzPkSO7im1dg2C8a9SK0D7uTSWhwaYrOUOJhJTJTklEIE9z7lXsjgvOMfhU1VHBLSBZWmXW1vdSW61U9bJtJdvsTtaO8Dz5B6pCl7CMDf?expires=1763568000&signature=4e81ead1674539111323de4e8a2775d34e18df22b6d8c81f434344a348ce6f41&req=cCUnE8B9noRYFb4f3HP0gK7j%2Ft7TVjHtjkEd3zS%2Fb1GEoC9X2m%2Fxs7Zbnvc6%0AIFhDo54Dc3g7BA5HZA%3D%3D%0A
+
+- Under the Renewal Reminders section, click the + Reminder to add in a new reminder.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1641838057/c7088226075aa404cfebea11246d/image.png?expires=1763568000&signature=d1a76cb68568b4f38eaae615362a2cb43d88757b8747cbefecbbf375679c66fd&req=dSYjF8F9lYFaXvMW1HO4zTNrV1vt4iY8n1NmUBFy32jJy%2BckZF72Ifb%2F08lF%0A5kwIBFQLoBRoOO6WX0o%3D%0A
+
+- Next, choose the settings for your reminder:
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/450593365/f5f30099ea515548aa28efd6/tb15KHpMvO1an7ZYizzbmygNGCKqSrbDam81M6vvRTnYl25-EYgDJpACYWla7RV47PRUABwb5JagcNHJNp_ADdsCf64Syp14MR-kHcm9DzPBXpoVjYnfKzFmTjmWqqZ3zd2yjzlh?expires=1763568000&signature=ded637ffda6e6a64527f2d20ae22ca60cb502893f24bcad5ae3caa76b7b4648b&req=cCUnE8B9nodaFb4f3HP0gE3EQfYoE%2FGsfVMwneTzj3lymucxh7OsxHp3Es1d%0A2JegkgAbBt9S8JK%2BvQ%3D%3D%0A
+
+- Time before service plan ends: Choose between 60, 30, 14, 7, 3, or 1 days before the plan is scheduled to expire. "Days before" is calculated based on the end date of your plans.
+
+- Toggle: Move the toggle into the ON position to enable this reminder, or move it into the OFF position to pause the reminder.
+
+- Delete: Click the X icon to delete a reminder.
+
+- Repeat the process above to create more reminders using the + Reminder button. Be sure to click SAVE at the bottom of the page to save your changes!
+
+---
+
+Setting: Send to customers with notifications off
+
+- Toggle this setting ON to ensure that all service plan customers who meet the rules for your Scheduling and Renewal Reminders receive these reminders – including those customers who have notifications off in their customer profile.
+
+[Image] https://downloads.intercomcdn.com/i/o/450592641/5ea5b686dfd349673ab5c9b1/image.png?expires=1763568000&signature=0e059ee92cdef69bd5f96e6f73d072876cfd430ac0b4ea6361759871cca5a8a7&req=cCUnE8B8m4VeFb4f3HP0gCxSLWuX4Amts62Pgb4lIldpN8ks%2Fg92AU0ae58X%0AuaITPR0bw54MX83y%2Bg%3D%3D%0A
+
+- Toggle this setting OFF to only send Scheduling and Renewal Reminders to customers with notifications on.
+
+[Image] https://downloads.intercomcdn.com/i/o/450592802/0a3b149ca97dcb83a34c61b5/image.png?expires=1763568000&signature=09a409407114693eaee2149cd428fc07699ec62592a86e1a78ca5b326c3c49cf&req=cCUnE8B8lYFdFb4f3HP0gGIvDFDBhqVZ%2FpGlLHXuQS4EQTrjTSUGtHiMi8TL%0Af52BV9qULyazJQ%2F8EQ%3D%3D%0A
+
+---
+
+Reminder Message Content
+
+Table:
+Row 1: Scheduling Reminders sent via SMS
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/451092856/2e5d052a4d2c40caccb2c311/image.png?expires=1763568000&signature=5e9602c17097f6463f2581d7b6ba36a30b5e3371350950c5a4560a6d156c595e&req=cCUmFsB8lYRZFb4f3HP0gC%2F02mTe3BK%2FYaRWKvcw8TT%2Bp1crb1Q1YIuwyg5S%0AqQ8%3D%0A
+
+Table:
+Row 1: Scheduling Reminders sent via Email
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/451096961/59e52ad73c117f8108fe003b/image.png?expires=1763568000&signature=8cc3fc82863ab516e875beec4c4792a92422b5674ed8b528376343a47c4f9edc&req=cCUmFsB4lIdeFb4f3HP0gB1gD%2B2bjvLrAhnsvShhyFXt3ilyJKM9m9atJydG%0ApkE%3D%0A
+
+Table:
+Row 1: Renewal Reminders sent via Email
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/451092041/6173bb062d539fcce3b96d87/image.png?expires=1763568000&signature=08956e5a75475066948695f0d140afd5bcb05a94f8e26e6446f16fdf87f2cccf&req=cCUmFsB8nYVeFb4f3HP0gEBTHHggFxRMa8vUOe5NzPOJHjaXcgYF75KJTeK3%0AmSM%3D%0A
+
+---
+
+Service Plan Reminders FAQs
+
+Which of my customers will receive Service Plan reminders?
+
+- Only customers with active Service Plans and an upcoming unscheduled visit will receive Scheduling Reminders, and only customers with active Service Plans that are due to expire soon will receive Renewal Reminders. Further, be sure to enable the option to send reminders to customers with “notifications off” to make sure your reminders are sent to everyone who needs them.
+
+Do reminders apply to all service plans?
+
+- Yes, any active reminders will be sent to all active service plans that meet the requirements.
+- Scheduling reminders will only send to customers for a visit that is not yet scheduled.
+- Renewal reminders only send to customers for plans that have an end date. “Indefinite” plan customers do not receive renewal reminders.
+
+Can I set up multiple reminders?
+
+- Yes! You can set up as many automated reminders that make sense to your organization.
+- For instance, you may set up one scheduling reminder to be sent 1 month prior to the visit date, and then another to be sent 7 days prior to the visit date. This latter reminder will only be sent if the visit remains unscheduled after the first reminder.
+
+If I set up scheduling reminders, will my customers receive scheduling reminders for all of their service plan visits?
+
+- As soon as you schedule a due service visit, your customer will stop receiving notifications to schedule that visit.
+
+If I set up renewal reminders, will all of my customers receive them?
+
+- Renewal reminders will only be sent to your customers that have an active service plan that is due for renewal.
+- If your customer renews their plan, or if they are scheduled to automatically renew with their stored payment information, renewal reminders will stop sending to the customer.
+
+Where do I go to see my unscheduled service visits?
+
+- Go to the Service Plan Dashboard to see your upcoming unscheduled visits. For more details, navigate to the Unscheduled Visits table. From this table, you can modify the “service date” to adjust when the due date of the visit is, which impacts when the scheduling reminder gets sent out.
+
+Do these reminders go out in advance to other jobs with my service plans customers?
+
+- No, it only has an impact on those visits that are not scheduled jobs yet. These reminders also do not impact unscheduled “break-fix” jobs that are created as unscheduled jobs without a service plan visit attached.
+
+- Once a job has been scheduled, you can use the email automation app to send reminders to your customer in advance of the start of the job.
+
+---
+
+---
+
+Next Steps
+
+Check out these articles to help with Service Plan Setup:
+
+- Service Plans Starter Kit
+- Service Plans FAQs
+
+---

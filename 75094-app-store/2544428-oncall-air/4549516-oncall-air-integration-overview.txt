@@ -1,0 +1,51 @@
+OnCall Air Integration Overview
+Source: https://help.housecallpro.com/en/articles/4549516-oncall-air-integration-overview
+Author: Taylor M
+Last updated: Updated over 2 months ago
+
+Summary: Learn how the integration between Housecall Pro and OnCall Air works.
+
+Overview of how the integration works
+
+This integration will allow you to leverage all of the power of the OnCall Air platform to manage your quotes while you use HouseCall Pro, saving you time and reducing errors in data entry. For additional support be sure to reach out to OnCall Air directly.
+
+[Video - youtube] https://www.youtube.com/watch?v=CUuzprx0-j0
+
+How to initiate an OnCall Air Quote from Housecall Pro
+
+- Simply log into the Housecall Pro web app and under + New option choose OnCall Air proposal.
+- Search or create the customer in Housecall Pro. This information will be posted into OnCall Air and once you open the OnCall Air platform you will see the customer information already completed so you can continue the process from the survey tab.
+- Once the sale is closed in OnCall Air, the job will be linked to the same customer automatically in Housecall Pro.
+- When you go back into Housecall Pro, there will be a new job record tagged as an OnCall Air proposal. Links to the OnCall Air signed proposal and to the technician version of the Inspector will be posted in the Job notes and the total investment amount is automatically recorded into Housecall Pro.
+
+How to setup the OnCall Air Integration
+
+Learn how to enable the integration with ease!
+
+Video Tutorial:
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/lspdbko54b
+
+---
+
+Step-by-step instructions:
+
+When you are ready to integrate OnCall Air with Housecall Pro click on MY APPS (at the top of your dashboard page) and then GO TO APP STORE at the bottom.
+
+[Image] https://downloads.intercomcdn.com/i/o/257163709/1bafb412ec76936da2a49075/image.png?expires=1763567100&signature=010bf715226f1235490ad79078aa19f56f35bb744b477137822b533265f66671&req=diUgF899moFWFb4f3HP0gO5tPv3VOoaVvfKTt1dCyXcknMCth5lDLp0fFSW2%0AC6kAZ2t%2B46AI3ESy%2Fg%3D%3D%0A
+
+Scroll down until you see the Oncall Air card. Click LEARN MORE.
+
+[Image] https://downloads.intercomcdn.com/i/o/257164664/1dbe8a09b9c4e57fa5d70909/image.png?expires=1763567100&signature=3de129d8629405f04833875021befa8a7fb67837c9551e6fbe92466ab2ee70e6&req=diUgF896m4dbFb4f3HP0gDB4K0Eu%2BEdWUXh2K4jn0F1b0XrbviR1%2BIOz7aIj%0AuTpbSCMRRH%2BftDZ7qw%3D%3D%0A
+
+Enable the app by toggling it on to active.
+
+[Image] https://downloads.intercomcdn.com/i/o/257165132/61deda8dfa10af4e928801ce/image.png?expires=1763567100&signature=4bb160bce825f5aeae60ac3530586495fbbe399ac3001a280c6f5ce11cbe3446&req=diUgF897nIJdFb4f3HP0gFT1SAxQl51zfWbWs8Snjv3yXCkOa5pRvysrXS4t%0AgCa80ch%2FkwcaxPTExA%3D%3D%0A
+
+We will ask you for the API connection key from OnCall Air. You must type that into the box and then press SUBMIT. OnCall Air will be automatically notified of the connection and finalize the integration on their side.
+
+[Image] https://downloads.intercomcdn.com/i/o/257165735/320a047fd5e8605fb67d3803/image.png?expires=1763567100&signature=7341115463cd9c8beec410cecc2d9782f30a87f8a862aeb1921565da9f7557cc&req=diUgF897moJaFb4f3HP0gDw6rGqd6OHrX6EeJovJApk6SBgU1AHM%2F0GEZFDG%0A%2FISFInUPjISHe2C13w%3D%3D%0A
+
+You will need to get the OnCall Air API connection key directly from OnCall Air. You can use their chat tool to work with a customer service representative who can give you the key. It is 32 alpha-numeric characters long.
+
+---

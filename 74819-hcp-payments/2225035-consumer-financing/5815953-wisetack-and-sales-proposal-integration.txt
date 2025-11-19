@@ -1,0 +1,51 @@
+Wisetack and Sales Proposal Integration
+Source: https://help.housecallpro.com/en/articles/5815953-wisetack-and-sales-proposal-integration
+Author: Ian H
+Last updated: Updated over a month ago
+
+Summary: Learn how to leverage Good / Better / Best selling with Wisetack Consumer Financing.
+
+Wisetack Consumer Financing on Sales Proposals
+
+At long last, 'Good, Better, Best' proposals meet 'As Low As' pricing! Introducing the integration between the Housecall Pro Sales Proposal Tool and consumer financing powered by Wisetack.
+
+The addition of 'As low as' pricing to a proposal allows you to completely reframe the conversation with your prospective customers by reducing concerns about price and focusing on the value that each option provides.
+
+The Wisetack and Sales Proposal integration allows for an even easier way to sell, and a quick way for you and your customer to pre-qualify for financing, providing instant relief from sticker shock and helping you win larger jobs while providing an excellent customer experience.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1226872057/0a0a764c06f01783a3504f6605c4/uHi1X1CljT6n_lvoDIVyo5Z9xXWEVbUO_vKTGrUfmnZZfFD_ir4wDRHhECwCfMVzhy6nRPV6-tiLF7i9aJ1NzSM6XhvC-9kNbsr2ZTnNk5-WZ-jHAngJ1l79Rx45Cm_cbRTIjpQE?expires=1763568000&signature=ec3427efaaf779b05271a2450e66949d3152d53f0e643d6f64554058f1f85d25&req=dSIlEMF5n4FaXvMW1HO4ze7IGMWZrVFxHma0YOCppwFMLwUA368g7UUsSfF8%0Au4S27wBRIm7rwIFXZBM%3D%0A
+
+---
+
+How to Send Wisetack Applications on Sales Proposals
+
+To send Wisetack Consumer Financing Applications on Sales Proposals:
+
+- Simply click the Apply for financing button in the top right corner of the Sales Proposal page when presenting it to a customer.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1226872049/35b4a613eb2db93ca728783cb32a/YevcMS8p6JqJGRm7IvZMA0IzY8jbsPOyweQuGdktuA9S5ytJ_8tMajdnmwyzrISq8xEtruJWmfUUhn6LhKtDI40WgE2M4RBotY2qyAkRGSWvrqNYD_NsiZyvXbVVlgbONdPpu0hn?expires=1763568000&signature=2440e1187838fd1fee363f3ef7227b1bb0e433e5d349d865c7f09e46f52dc4ae&req=dSIlEMF5n4FbUPMW1HO4zdGlEYQdxF8zeJOKQR9xyJrKl08fGML8acEFSlJD%0Aj8TvQCTJz9tytgSRMAo%3D%0A
+
+- The Send financing application window will appear, and your customer's phone number (listed in their Customer Profile) will automatically populate.
+
+- Confirm the phone number that the application will be sent to, then click Send Text to send the application via text message straight to your customer's phone.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1226872050/f818de975e79278094944f668d56/3A-4x18UHR9kpSIaV1UN78_qdQPtwJhB1TXKjgn7RPLjByXhztvDiWQFSwbE3nC9NIYlMfwCxTfszKLo4PxeL19gQbDB5MBXsufqkSbyJMa0fF6vQnSevSB5jxU6nKxLyp-BoN5Z?expires=1763568000&signature=178237865f02e8c6795fc39c271069fe3b422b07035b4cbc6f953d09e38da765&req=dSIlEMF5n4FaWfMW1HO4zfl9Xh6qjnwCgA699ng6GsdBxbMWww1lf9j2OS0C%0AEDv0jXkL5AnztpAj3YY%3D%0A
+
+- The application link sent to your customers will allow them to pre-qualify themselves.
+
+- After they complete the application, it will give both you and your customer insight into the maximum amount they can borrow.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1226872048/d0e6312393a099a7f90ce3e0a966/wmia4EiurvIhfUt8QYugvteDXAhkGxOQiOvIBs6ro2X9VwFyX_wNu9udFUILRpKTEmlk3Wd6o4n4IZqneFhYDPWjYUfr0wH9fR6Joav86UzdRD4ljKJfGJtgVlr_20c5uIHcZG_L?expires=1763568000&signature=6a5f9e827bf3f8ff02da92926da89703208768efe3c8aeb231a867793fd2c2aa&req=dSIlEMF5n4FbUfMW1HO4zVDyYPntHA8FtMefSYaRO3FTdJGp%2BCnP7SydPpeZ%0AYvkuD88cQswBuACK7uo%3D%0A
+
+- Going through this process early - before finalizing the exact scope of work - creates flexibility for both you and your homeowners by eliminating wasted time on lost proposals due to a homeowner’s financial situation.
+
+---
+
+Next Steps
+
+Work with the customer to finalize the estimate and scope of work. Once the job is complete, simply send your invoice to the customer, and they’ll be able to finance the work with only a few clicks. That’s it!
+​
+
+---
+
+---

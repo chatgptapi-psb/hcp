@@ -1,0 +1,58 @@
+Important updates to Invoices
+Source: https://help.housecallpro.com/en/articles/9342740-important-updates-to-invoices
+Author: Michael Storer
+Last updated: Updated over a month ago
+
+Summary: Learn more about some of the changes we're making to power up invoices!
+
+We’re excited to share that we’re launching more powerful features to help you get paid more efficiently:
+
+- Improved invoice reporting - New invoice list view with the ability to filter by due dates, statuses, etc 
+- Aging invoice reports [Beta]
+- Improvements to invoice reminders with the ability to exclude specific customers
+- Progress invoicing and much more!
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1053654990/bc1c0ba80b8a5b11c88b274b/kZ5OdqeYMFTO9Ki3J9I4MciG2dHnu1jTPEGWmW9c-R0FDlRhVqMkbERHPv7IR7ed3xQ7QsCuGwTyjWyTLHFiNdoQvICX5hr0UamIvbRlg_l9n54ShW3QGTBnR6wtXBEgQp_ewCGP4vNSi6TkPU8X4DhGpg%3Ds2048?expires=1763568000&signature=bc57d807169ad7cb63540aa1ea8f24c5b8a854df8334401b2a7f2eb1d485989c&req=dSAiFc97mYhWWfMW1HO4zaGvPACim9SGKU0HytU5KcAjBg%2BBggUpcC%2FGbxAD%0ARGjVOVBuhvvHrwc4kR8%3D%0A
+
+---
+
+Why the changes?
+
+We've been investing in our invoicing suite to support all the incredible features you have been asking for. While we have tried to maintain the invoice experience as simple as possible there are some changes that you will notice in the product. We want to continue investing in features that you have asked for and this revamped invoicing allows us to do just that! 
+​
+The biggest difference to note is that jobs and invoices are separate items now in the system.
+
+[Sept 2024 update] if you would like to maintain your job and invoice number synced we have unlocked this option. Please fill out the opt-in form to get access or chat in directly to our team via the blue chat bubble.
+
+---
+
+New invoice updates and notes
+
+Table:
+Row 1: Legacy invoices | New invoices
+Row 2: [Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1053654996/8c596f5e67f7bcebf0450b05/TgL2oHKm2Hxui8hz8CatJALVGbmMQ_GpH1WdQjEurcnM_fFvf0ON0jTLEzQ_9ITWih75YSdsc3Y-Eo8HCZ4ZfbBH8PWqFjF7FeSNt6k7_VYoJKHELbsKZcSufRjkZiZRi_DXXoKGGtFkZR6ET8YtzWikww%3Ds2048?expires=1763568000&signature=1dd427909b7a434b7195cc8d451dd48a1c025aed4ac6da6e176676b09fe2dd57&req=dSAiFc97mYhWX%2FMW1HO4zaVGcp5VREoanuZkn8RLmTIQxhQF7RpAw652XRR1%0AjFw8%0A Jobs and invoices have the same number because they are the same thing. | [Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1053655002/7209d1c1a79680fbce0c46e2/Xvgt-SEvOZfKYZpFMdxXu-O1eTGGR5oVI9lkXDwRFDGR-TL1ra4yK5gV2OyeYwmkoJsaFoDNUgR0rRcvIo_lfwjxytqx1oLDWG0CtGVm2onvXl904GSrKTGT3Mb-RpB-AvqFiKDt1aSeMrpztIFkXZ-VWw%3Ds2048?expires=1763568000&signature=a30f727a88d0e0d2a44a312d471dc93a103c047ffb33981f41e565af4006db23&req=dSAiFc97mIFfW%2FMW1HO4zdHvwchmd4pOT8gG%2FWs8YiMHycV9KXwPHnCUxQ4E%0AluCv%0A Jobs and invoices have their own numbers, similar to estimates and invoices. The job number has been moved to the left-hand corner of the page. Please note that your old invoice number is the job number and this is what you can reference in Quickbooks. The invoice number can be found in the ‘invoice card’ after an invoice has been created by paying the job or sending the invoice. 
+​
+Want to keep the numbers matching? Please fill out thisform.
+Row 3: [Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1053655006/354a00d7329abb560a1b9fa5/38GSJTRxvJmuA8oXKrM7TvDxXAeXL9i7LgWery7cyIYQquf4IUXjfBEvpq1-WJ07FvXem3s4f5uzk4HUDqXp_Xoryq2Bs0pu5kgoDRdyJuhx84zVnY6DKd0ucuGMxbMjbTBwT8p8zfAlXKVxvM7i92tFCA%3Ds2048?expires=1763568000&signature=ebd0869514fc2bff4e93c4f44bc4a27ab7297913c0d930f4bc597db95139b281&req=dSAiFc97mIFfX%2FMW1HO4zXXWZehcgCJoBFz27UzGQBiSQ7FwnBtHe%2FGt%2Bx9O%0A%2FAKS%0A | [Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1053655010/eaf09ee0a80a9091add266ea/DBeTqLc8Zy1PQjH419uagTBYVBxcA-tGrjlNG823H89JXptWGVOtlSjbowkiFBFY7PRLD5D_ZXkT5BUYdqinKUXrdHSy-1oz3_OgUl_rPL-Lz3ao7BV3XM5fM7y5KZIIslv-tkV_4Asb5Ggb_S7V1YtmCA%3Ds2048?expires=1763568000&signature=8c914bf25b440094df98de65a58cc6a0363574e68247b4fb44f9911f6f2648c4&req=dSAiFc97mIFeWfMW1HO4zUAl21in9VdQDywCx4a6lX%2Bf8QvALEjZm6mLG2Av%0Afxr%2B%0A Invoice previews have a more modern look and feel, with invoice settings consolidated on the right-hand side. All functionality from before is still supported in this new experience (print, download, edit due terms, etc.)
+Row 4: [Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1053655024/ec5df645fdf9d525d613e5b1/rp4iDWYJQECoUD5hl0hNs5y9AvDv_2-hvQk8LI7X4fYBD-L9wN6XRlIoQvqP8diIpedpYrMU5xFBMmnvLPXpEKEbgpWK_r2S8vAHWxnbd_FCdSlfAW8LL3UJKV-2phuqD5mJ2Ef6e2kqimeLLXXVEByILw%3Ds2048?expires=1763568000&signature=4827ad0494e6e366128a6e1f34396ff034339e1bad42e75ed197f52a933409a7&req=dSAiFc97mIFdXfMW1HO4zXxUtpQ5iH7vnJET%2BDIWgZ%2FgszqTNvn6ilGuKMtu%0AsrGi%0A Deposits can be added via the line item section. | [Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1053655028/de88bd135f0ff893dfe57aca/jkcSJPxDr_MqtD3ycQOc0H6WGgV26uhfkDr9rstLgoOPGuCZ3C7HQ0UeARU4wqrjNTxC3PpQtNiT_SEaGE5ukg5iOzIxz41t_n_9kdtPwXMEXb2IPS2iQlB852-c-FEwxnTuivH154oEhK6D4EzZOp4Kzw%3Ds2048?expires=1763568000&signature=58105d183e7ef2cbe36d451b5958e345f799459f6dab7fc763e9f9239fff4900&req=dSAiFc97mIFdUfMW1HO4zQ9ZA7hS9zK9jVllZawSupMsJvSIkis9%2FqjHkLPq%0AVsYm%0A You can still add a deposit like before, but each deposit will have its own invoice and invoice number. If you have the job<>invoice number sync setting, the deposit will share the same number as the job. Ex. Job 100 will have deposit invoice D-100. 
+​ Deposits have their own reminder cadence and can be individually tracked in the new invoice list view report for better tracking.
+
+---
+
+Pro Tips
+
+Options to have the job and invoice number shared
+
+If you want jobs and invoices to share the same number, we have unlocked this functionality. Please fill out the form. You will be able to manage both numbers by editing the job number. This will work even if you use segments or deposits.
+
+[Image] https://downloads.intercomcdn.com/i/o/1184939475/4f6c25fc47b536957fd60df3/image.png?expires=1763568000&signature=d3a6202d883e762780fdfa87930904326215601641097e43283a8850c380bb7c&req=dSEvEsB9lIVYXPMW1HO4zQh6ADmkoeI%2FxX70pxlk91sx7hCKiFywiKT7GS6U%0Arneg5UxyhYCogY1GXeI%3D%0A
+
+Options to display the invoice or job number
+
+If you do not want to display both the job number and invoice number to your customer, head to your Invoice settings and within the 'Customer view', you now have the option to disable either number as needed from displaying on your invoices.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1767732681/ba517c788d383980586cd39e34d8/image.png?expires=1763568000&signature=cef75b22543eb1b9008ecf99a5acff923d21519d06c935984a8122184621de40&req=dSchEc59n4dXWPMW1HO4zaPIGs7T5%2Brni210FO8nNrg9qZohYVQZQgtoEav1%0ASE8WSkBWZeiDOGxc2W0%3D%0A
+
+For additional questions and or feedback, please reach out to our support team via the blue chat bubble.
+
+---

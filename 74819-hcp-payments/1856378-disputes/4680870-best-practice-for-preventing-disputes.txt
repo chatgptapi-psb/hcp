@@ -1,0 +1,37 @@
+Best practice for preventing disputes
+Source: https://help.housecallpro.com/en/articles/4680870-best-practice-for-preventing-disputes
+Author: Taylor M
+Last updated: Updated over a month ago
+
+Summary: Learn best practice for preventing disputes and fraud.
+
+Best Practices for Preventing Disputes
+
+Discover best practices for presenting clear and accurate evidence to support your case and streamline the dispute resolution process.
+
+- Step 1: Collect payment information in full and have customers sign off on work.
+​ - When taking a credit or debit card payment from a customer, ensure that your processor has you collect the customer's name, email address, CVC number, and billing address.
+- Disputes can be lost because minimal information was required during checkout.
+- Using Housecall Pro for your payment processing ensures this information is being captured.
+- Incorporate requiring customers to sign off on estimates and/or invoices before and after work is complete
+
+- Step 2: Communicate with your customer.
+​ - Respond to any issues and process refunds or replacements quickly.
+- Make it easy for customers to reach you so that they come to you with issues or concerns first before taking the time to dispute a payment.
+- If you don't have payment and refund information clearly included in your terms & conditions, be sure to add them.
+- Add your terms and conditions to your website so they are easy for customers to find.
+- Add your terms and conditions to invoices that will be signed by the customer. Make it easy by adding your terms to the message on invoice so they appear automatically.
+
+- Step 3: Avoid fraudulent payments.
+​ - Get to know your customer and check their ID against the card they are using and their name.
+- Using a card reader will not only save you money, but will also reduce the risk of fraudulent payments.
+- If you have concerns about a payment made, refund the payment immediately so it cannot be disputed.
+​
+
+---
+
+Video Tutorial
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/16ru6af1ob
+
+---

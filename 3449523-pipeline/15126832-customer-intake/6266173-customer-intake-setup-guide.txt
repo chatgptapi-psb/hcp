@@ -1,0 +1,168 @@
+Customer Intake: Setup Guide
+Source: https://help.housecallpro.com/en/articles/6266173-customer-intake-setup-guide
+Author: Katie H
+Last updated: Updated over a month ago
+
+Summary: Set up and customize your Customer Intake, including reminders, FAQs, and the request guide, for seamless use across devices.
+
+---
+
+Customer Intake Onboarding
+
+The first time you navigate to your Customer Intake settings, you’ll be prompted to go through the onboarding process to set up your Customer Intake flow. The next part of the setup will allow you to customize your Request Guide, Reminders, and FAQs.
+
+These features allow you to personalize the intake experience for your customers, ensuring that all the necessary information is collected upfront. To get started, follow the steps below.
+
+---
+
+Step 1: Customer Intake Flow Setup
+
+- Click the gear icon located in the top right corner of your Housecall Pro account.
+
+- Select Customer Intake from the left Settings menu. This will initiate the onboarding process.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1657293472/124b5a6cbd37e58f5b9f391a100c/Screenshot+2025-08-06+at+1_36_57%E2%80%AFPM.png?expires=1763568000&signature=2033ed7cc0587540126f5c4c07fa9e9a3b248b07215990f3819ab08649e1ed3d&req=dSYiEct3noVYW%2FMW1HO4zUzqz%2F30ID7%2BOzlG8dXaFSvkbB2l9O4tMAtumcuB%0AZrikf1szXm3UjT1LX1s%3D%0A
+
+- Confirm the industries your business serves. You will see your primary industry pre-populated in the form.
+
+- If you need to add more industries, click + INDUSTRY below the existing industry. This allows you to include additional sectors that your business operates in.
+
+- When you're ready, click Next in the bottom right corner of the screen to proceed.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1657298460/605b734749e66221f25730110319/Screenshot+2025-08-06+at+1_41_38%E2%80%AFPM.png?expires=1763568000&signature=f7785e0d7b1250ee48a8c6eb125bc9510975d1f274b420e5549d5b306b827c46&req=dSYiEct3lYVZWfMW1HO4zaFu%2FSiFPzGCVyLyS%2By2ZExJEWDJbbJ8kQOFbVvs%0A9qpi%2FuxBUGk2B5rW2x8%3D%0A
+
+- After confirming your industries, you’ll be prompted to select the services you offer within those industries.
+
+- For each industry you have enabled, a list of relevant services will appear. Click the toggle to the right of each service you provide.
+
+- Services you don't offer can be turned off by clicking on the blue toggle; when it moves to the left and turns gray, the service is disabled.
+
+- Add new services by clicking the + SERVICE TYPE button located beneath the existing list of services.
+
+- Once you have made your selections, click Next in the bottom right corner to proceed.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/522888244/e10d597155899f473c31808d/gDD9R6ddoXC6V53AtKOIHrM3tfv-BOKaZQsurRHw9mKUV1DfXpG8uieyc5dokqZtr0UpX4c7jVjMU9_SYWoaVTYfSgKawX-kqHPdBJXGSBYijXI6q-tLJw3rjo1pf9GUQ2m1y8hAXY2febTdRg?expires=1763568000&signature=d5946a5d88e1c5abfe89bd2e473ece64b3f1ba5ab6c2e451a97a6eef8381cb4b&req=cSIlHsF2n4VbFb4f3HP0gCoKQHhcJcaEC1ONP1bazk7iQ8K7htzoYRz2DE7i%0AmaXzhpjYFlNihLIj1A%3D%3D%0A
+
+---
+
+Step 2: Customize Your Customer Intake Flow
+
+After completing the Customer Intake flow setup, you'll be able to customize it further using the following features, each found under its own tab in the Settings menu.
+
+These tabs will appear at the top of the Customer Intake settings page after selecting Customer Intake from the left Settings menu:
+
+- Reminders - Setting up Reminders can help your team stay on top of important details during the intake process, like verifying customer information or addressing common issues.
+
+- FAQ - FAQs provide quick answers to frequent questions, saving time for both your staff and customers.
+
+- Request Guide - The Request guide helps you structure the questions you ask, ensuring you gather the right information for each service.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1658786067/ef5a44bc7bfa820b765e6939e585/Screenshot+2025-08-07+at+10_38_54%E2%80%AFAM.png?expires=1763568000&signature=445b9a070055156c19438863766e7b3c9f3ebf4e3a7cf9a800e1e4c142811bae&req=dSYiHs52m4FZXvMW1HO4zbtwDL4QZZHJ1bxwq%2Bfsnv6UekwXx1y8REOC1ZJi%0Al9qr3yTh6ZmHbLj4GR0%3D%0A
+
+---
+
+Using the Customer Intake (Web)
+
+Managing the Customer Intake flow on web offers a streamlined and efficient approach to handling customer requests. This section will guide you through the essential steps of using the desktop interface, from accessing the intake flow to entering and managing information. Whether you’re starting a new intake or navigating through existing forms, you’ll find everything you need to ensure a smooth and effective process.
+
+[Video - loom] id=Customer-Intake-Overview-b6ed75e7244244498849fdad3881b85a
+
+To use the Customer Intake Flow on the HCP web portal:
+
+- Start by logging into your Housecall Pro account.
+
+- Click the New button at the top of your screen and select Intake from the drop-down menu. This will open a new page titled New Call.
+
+[Image] https://downloads.intercomcdn.com/i/o/1152504966/883a54effd893b3404110937/Screenshot+2024-08-20+at+4_58_48%E2%80%AFPM.png?expires=1763568000&signature=dc7e8d851ec9c0bd75414462ee3c7ab95bc48068291c25a83c4136f3faffacb7&req=dSEiFMx%2BmYhZX%2FMW1HO4za4g9w4B9ey4bFb4BQ246RUbEfV3jL7iWLtceJ1l%0Ad7pyC%2BpFLtDQWpt%2Fx6M%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/1152505525/adb05dbf9a4320d546381b0c/image.png?expires=1763568000&signature=20ac2bc4b18e3ecf7c8d71887f2637fa7a23040fc0c260396127fad832d7673f&req=dSEiFMx%2BmIRdXPMW1HO4zT%2BQmQxwXGdDBMaHHYyos4O%2Fc0NpXYG50hL9wirq%0AC8WltV%2F7Ss4YBSYBWkY%3D%0A
+
+- At the top of the New Call page, you can use the Address Lookup search bar to search for the service address. Once entered, a map view of the address will appear.
+
+- Click Use This Address to select it for the intake flow.
+
+[Image] https://downloads.intercomcdn.com/i/o/1152533580/02d0463ae2ae1701bfc6410b/image.png?expires=1763568000&signature=bff1455976f0bfcabca0b96992d0af1a5f5335567ca7172bfbb0bd8a0dca9158&req=dSEiFMx9noRXWfMW1HO4zSq21DQrnYNaV%2Bz4pQr%2BmbKMC0%2FOSMBLeH1W%2FbPH%0AwI5FWt2efRnk%2BqNpq6w%3D%0A
+
+- In the Customer Name field, enter the customer's name. - If the customer is already in your system, select their name from the search drawer, and their address, phone number, and email will populate vertically along the top of the screen. 
+- For new customers, click Create Customer from the search drawer and enter their details.
+
+[Image] https://downloads.intercomcdn.com/i/o/1152506855/930de10ff344579279507ae7/Screenshot+2024-08-20+at+5_00_48%E2%80%AFPM.png?expires=1763568000&signature=2debaadc4206a3824db2f76189e309a529af81987962e45124790e3d486a5fd1&req=dSEiFMx%2Bm4laXPMW1HO4zT6W2q56DDQvscxmzmusNG1QxM9HSqUz%2F1JdQjjY%0A%2FtUl0%2BwlteavGOFVI08%3D%0A
+
+- You can view a customer's profile, including any estimates, jobs, or invoices linked to the profile, by clicking Show Profile in the upper right corner. - To hide the profile, click Hide Profile.
+
+[Image] https://downloads.intercomcdn.com/i/o/1152512880/c6b2179ecaa534065de889ee/ezgif_com-video-to-gif-converter+%282%29.gif?expires=1763568000&signature=9190d024d2153e8ac89bd4fa44a9ff572fa73e10f2880a3d83242b4469b897dc&req=dSEiFMx%2Fn4lXWfMW1HO4zfF%2BcJLF5KZL6BZnC1NgbZjx%2FWCjrwiWL5d1As2W%0AB9wFTOJc12LUBlubxJQ%3D%0A
+
+- Use the More icon (three dots) to the right of Show Profile at the top of the New Call page to detach the customer from this intake flow.
+
+[Image] https://downloads.intercomcdn.com/i/o/1152507847/9a7aa98263ec45a3979113ba/image.png?expires=1763568000&signature=12531216079bce16576f1c98afeaced606af529d68f0b92b0ed4d01fae934663&req=dSEiFMx%2BmolbXvMW1HO4zZtZiChQCfb%2BEkcTziORM74lHVLrQ%2BxmCVOm6A9K%0Ab%2F0NZZrZD6FJlvy%2FhPk%3D%0A
+
+- For new customers, use Show Profile or the Contact section on the left-hand side under Intake Flow to add their service address, email, phone number, customer tags, notes, and other details.
+
+[Image] https://downloads.intercomcdn.com/i/o/1152519306/17f65266ab3cb539eb60b0e0/ScreenRecording2024-08-20at5_11_18PM-ezgif_com-video-to-gif-converter.gif?expires=1763568000&signature=f8268dd111266ff119344148507a64d78c495040337e6e478414b43fdcf46de6&req=dSEiFMx%2FlIJfX%2FMW1HO4zcJloXODUcdoa8UD0LlhEDADP0wsEoIiiBm1SIG8%0AV%2FyzmqVOdndlynPfWCc%3D%0A
+
+- Under Intake Flow, navigate to the Request section to add a request description and private notes that are only visible internally.
+
+- Review the Request Guide you’ve set up. There will also be fields for business unit, job type, tags, lead source, and the ability to add service or material line items.
+
+[Image] https://downloads.intercomcdn.com/i/o/1152521763/8b8e17295011be3284650159/ScreenRecording2024-08-20at5_18_26PM-ezgif_com-video-to-gif-converter.gif?expires=1763568000&signature=b5ce0a6b22e745a74b2a6c42789b4cabf83cddb31af83036fbf8c3aed52db8d6&req=dSEiFMx8nIZZWvMW1HO4zfyU9OV%2Fd4aDQlMN5OYaxznHTE%2F6k8Ybwb4L42K5%0AhV%2FpZH07uyEV1aF9RtY%3D%0A
+
+- In the Schedule section on the left-hand side, view any existing reminders at the top of the page in yellow. Use the toggle next to Show Reminders to hide or show them.
+
+- Click on the calendar to add a date and time, and click on the scheduling block to edit details such as the appointment date, time, and whether the job is recurring. - Keep in mind: Leads do not need to be scheduled on the calendar.
+
+[Image] https://downloads.intercomcdn.com/i/o/1152526025/3749c60e6486ac9269e5b304/ScreenRecording2024-08-20at5_22_23PM-ezgif_com-video-to-gif-converter.gif?expires=1763568000&signature=7e4b16d9105a8700f92e619ca98ff8c7121a75e25b5112dc7b31931614b25115&req=dSEiFMx8m4FdXPMW1HO4zSNIuvwiczf3B2Jn2Fxb%2BmfZ%2FqB2EOJJZF9%2BtNWM%0AVf%2F%2F3FbAVrqadi2I77c%3D%0A
+
+- Click Contact on the left under Intake Flow to confirm and review the customer’s profile information.
+
+[Image] https://downloads.intercomcdn.com/i/o/1152527939/aedbeb96cabe2d0885b3c692/image.png?expires=1763568000&signature=ea44e5e70e552f96ba1b74d2de5c8a10a009c649b7be63c02985a58dddb4179a&req=dSEiFMx8mohcUPMW1HO4zaKbDNRL8gJWKA9ob7TfF3BGrQY2M1In1r%2BkzKKi%0AMZ5GjrRwc5FvINlOG84%3D%0A
+
+- Use the Show All Fields toggle in the upper right-hand corner of this section to display additional fields, such as the option to receive notifications, add additional addresses, phone number types, and more.
+
+[Image] https://downloads.intercomcdn.com/i/o/1152528438/3da4a3604dac8b8cc6bfcfb8/Screenshot+2024-08-20+at+5_29_37%E2%80%AFPM.png?expires=1763568000&signature=3f2dfba5ce1742938b7986cceabd883d9dce7ee43954e739e024aab251269e2a&req=dSEiFMx8lYVcUfMW1HO4zd4g4NonZJ9AtSScLWen0MKQQzrLPxWpdVxtyEeN%0A88L5MF%2FCIYDHGpavSQM%3D%0A
+
+- For answers to frequently asked questions at any point during intake, click the FAQ tab located to the right of Intake Flow on the New Call page.
+
+[Image] https://downloads.intercomcdn.com/i/o/1152528883/8feb284e5de4a3d6d3065030/Screenshot+2024-08-20+at+5_30_12%E2%80%AFPM.png?expires=1763568000&signature=fc29e178b2c6f665e98e41f994c07eef9a4f8f5dd499674fa2c98eb73e5be230&req=dSEiFMx8lYlXWvMW1HO4zTUg3sUl3guwt3P3D1vSEFLus%2FoA1yXguaizSvAZ%0ArFsdZCsFhZAlTsLeB70%3D%0A
+
+- When finished, click Save in the upper right corner. You will be prompted to save the intake as a job, estimate, or lead.
+
+- Choose the appropriate option from the drop-down menu, and you will be taken to the relevant details page.
+
+[Image] https://downloads.intercomcdn.com/i/o/1152531275/685cff875d4d7b907ba6c7ca/ScreenRecording2024-08-20at5_31_41PM-ezgif_com-video-to-gif-converter.gif?expires=1763568000&signature=3377c3fe20a6a59700598a015bdae36f6ea29caf027fe7400679fa3fdb778ae7&req=dSEiFMx9nINYXPMW1HO4zbhhnYKf8jmhK%2F05uumz6FXDTidq9KWvCMzWYzCK%0A3VMERQ%2BLrHrAa2%2FV0iQ%3D%0A
+
+---
+
+Using the Customer Intake (Mobile)
+
+The Customer Intake flow on mobile allows you to capture and manage customer information on the go, with some differences compared to the web version.
+
+- To access the Customer Intake flow on mobile, start by logging into the Housecall Pro app on your mobile device.
+
+- Once logged in, tap the plus (+) icon in the top right corner of the app and select Intake from the menu. This will open the Customer Intake Flow on your mobile screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/710440927/e06bcf32061060d8c04fbe9b/IMG_2299.PNG?expires=1763568000&signature=feacf57497565543e3be3abe24d9e640cd3c493610111e3dbf348dade8b386a9&req=cyEnEs1%2BlINYFb4f3HP0gErRiz9%2FldI%2BZZje8Z7SqcTW%2BN2BPBv9e304qo2Y%0ABEaLieuY4HyL%2BwUGjQ%3D%3D%0A
+
+- The New Intake screen will populate.
+
+- For adding a customer using Mobile Intake, begin by clicking on the Customer button listed under the Required section. - If the customer is already in your system, use the search bar to find and select their profile from the list. 
+- For new customers, manually enter their details by clicking the + icon in the upper-right-hand corner of the Customers screen and entering their details as prompted.
+
+- Under the Optional section, you will find three key components you can customize: Request Guide, Schedule, and Line Items. Each of these sections allows you to add specific details relevant to the Customer Intake process. - Request Guide: Click on Request Guide to access a structured form where you can enter detailed information about the customer’s needs. This includes filling out fields as per your existing request guide, which helps ensure all relevant details are captured. You can add a description of the request and any private notes that are only visible internally to your team. These details are essential for understanding the customer's requirements and preferences, and they help streamline the intake process. Please note that the Request Guide itself cannot be edited from the app at this time.
+- Schedule: Click on Schedule to manage the timing and appointments related to the intake. You can select a date and time for the job or estimate. If applicable, you have the option to set the job as recurring. For leads, note that scheduling on the calendar is not required. Make sure to review and adjust the timing details according to your availability and the customer's preferences.
+- Line Items: Click on Line Items to add specific services or materials associated with the intake. This section allows you to detail the items that will be part of the job or estimate, including descriptions, quantities, and costs. Adding these line items ensures that all aspects of the job are accounted for and provides a clear breakdown of the services or materials to be provided.
+
+- By using these sections effectively, you can ensure that all necessary information is captured and organized, making it easier to manage the intake and proceed with scheduling and execution.
+
+[Image] https://downloads.intercomcdn.com/i/o/710440785/7daf9c4f317d8045e5717d45/IMG_2300.PNG?expires=1763568000&signature=12799d7dde3c3a54ee58e7d3ad80ee62d77b328887a79756629a7aa7e607789b&req=cyEnEs1%2BmolaFb4f3HP0gBpZOvQop5A%2FrLHKjFEp%2BBUY%2FC2RDR%2FJDFwVtcQh%0AgYY%2BQa7CW9v5kG6FZA%3D%3D%0A
+
+- Once you have entered all the necessary details into the Request Guide, Schedule, and Line Items sections, you can save the intake information.
+
+- Click on the Save As button in the upper right corner to finalize and store the intake.
+
+- You will be prompted to save it as a job, estimate, or lead. Select the appropriate option based on the nature of the intake. This ensures that all the details are preserved and that the intake is properly categorized for future reference and action.
+
+- When viewing Customer Intake details, any information captured from the request guide will appear in the mobile view of the job or estimate under the Request Guide widget.
+
+[Image] https://downloads.intercomcdn.com/i/o/710464676/3b13b99d361b8a7772e1e415/IMG_2303.PNG?expires=1763568000&signature=53ea8ae277561410a82184e9ffca7ab31a773f53e51d801c48935d2112a5c439&req=cyEnEs96m4ZZFb4f3HP0gNOcQK432CfAVM%2BsgJ7Zh6xN5AOAgmSq9mf8DIeC%0Ag0nnnoBQgnx1oVC1SA%3D%3D%0A
+
+---

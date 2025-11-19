@@ -1,0 +1,32 @@
+How Can I Create a Housecall Pro Back Up Plan?
+Source: https://help.housecallpro.com/en/articles/4374305-how-can-i-create-a-housecall-pro-back-up-plan
+Author: Taylor M
+Last updated: Updated over a month ago
+
+Summary: Learn what you can do to proactively back up your HCP data
+
+Create a Backup Plan for Your Data
+
+It's always a good idea to have a Plan B. There are a few things you can do to proactively back up your Housecall Pro Data on your end so that you are prepared in case of a power outage, internet issues, or other unforeseen events that prevent you from accessing Housecall Pro. To ensure that your data is backed up on our end, we back up your data automatically to multiple servers.
+
+Connect Your Housecall Pro Calendar to Google Calendar
+
+Connecting your Housecall Pro calendar to Google Calendar will ensure that jobs and estimates on your schedule will be accessible from any device that has access to your Google Calendar. This is critical to ensuring day-to-day operations carry on without hiccup.
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/krxcd4s18j
+
+Need step-by-step instructions? Click Here
+
+Export A Jobs/Estimates Scheduled Report
+
+Make exporting a jobs scheduled report part of your weekly or daily operations. This allows you to access your jobs scheduled data directly from a file saved to your hard drive or from an email. You can do the same for Estimates from your Estimates report on your dashboard.
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/0bts8hlt1b
+
+Need step-by-step instructions? Click Here.
+
+See & Subscribe to Updates on the Status of the Platform
+
+You can see the latest updates on the status of our platform and sign up for alerts here: status.housecallpro.com.
+
+---

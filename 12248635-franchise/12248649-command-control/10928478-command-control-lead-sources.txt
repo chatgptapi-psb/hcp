@@ -1,0 +1,265 @@
+Command & Control: Lead Sources
+Source: https://help.housecallpro.com/en/articles/10928478-command-control-lead-sources
+Author: Nate H
+Last updated: Updated over a month ago
+
+Overview
+
+Command & Control: Lead Sources is a new feature designed to help Franchisors maintain consistency and control across their franchise network's Housecall Pro accounts, specifically focusing on Lead Sources management.
+
+Lead Sources Management
+
+When Command & Control is enabled for Lead Sources, Franchisors can:
+
+- Restrict Franchisees from creating, updating, or deleting Lead Sources
+- Automatically sync Lead Sources across all linked accounts
+
+[Video - vimeo] id=1069620885|b65cb81ec7
+
+This Support Article Will Cover the Following Sections:
+
+- What is Command & Control Lead Sources?
+- Important Terminology
+- How to Use Command & Control: Lead Sources
+- Limitations
+- FAQ
+
+---
+
+---
+
+What is Command & Control: Lead Sources?
+
+Command & Control allows Franchisors to either allow or restrict their Franchisees' ability to modify Lead Sources via a Template Account. Command & Control also allows Franchisors to configure the Lead Sources that can then be synced to their Franchisee’s accounts.
+
+- When Command & Control is enabled on the Template Account, then any of the accounts linked to said template will not be able to create, update, or delete Lead Sources by any means.
+
+- Note: Command & Control happen in lock-step, meaning that the two functions happen at the same time and are not separate functions
+
+Command & Control also leverages Account Cloning. During the Account Cloning process, the Template Account will create a relationship between itself and the new Franchisee Account that is cloned from the template - this is known as a Linked Accounts.
+
+- Accounts that are linked to a Template Account are the only accounts that can be Commanded & Controlled.
+
+- Accounts can be linked to any Template Account within the Franchise’s Network.
+
+---
+
+---
+
+Important Terminology
+
+Table:
+Row 1: Term | Definition
+Row 2: Control | The ability to allow or restrict Franchisees from modifying certain settings
+Row 3: Command | The ability to push and sync specific values of settings across franchise accounts
+Row 4: Template Account | An account that is used as the source of truth for franchise settings. New Franchisee Accounts can be cloned from this
+Row 5: Linked Accounts | Franchisee Accounts that have a relationship to a Template Account. Relationships are created by a new account being cloned from a Template Account
+Row 6: Template Settings Page | This is a page that lives on the Template Account under the Settings page. This is where Command & Control is enabled/disabled
+
+---
+
+---
+
+How to Use Command & Control: Lead Sources
+
+---
+
+Enable Command & Control: Lead Sources
+
+- Access your Template Account and navigate to Settings by clicking the gear icon in the top right corner of your screen.
+
+- Select Account Templates from the left menu.
+
+- Ensure that the Template Settings tab is selected at the top of the page.
+
+- Click Edit to the right of the Lead source section to enable Command & Control.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1772384343/4064d6ffcb6510dbdb5e4f881fca/Screenshot+2025-10-10+at+5_30_56%E2%80%AFPM.png?expires=1763568000&signature=94f922b3c1cbd78b250fb7cec9e7ad9b2552ee6ed161207f10df99509b85f238&req=dScgFMp2mYJbWvMW1HO4zVTi5SB6OZxDH0U%2FQmmq7Qhbk%2B6eLL8mYG85U2cA%0Ap4%2B0yXgVxAeFwClp09U%3D%0A
+
+- Check the box next to Allow editing of lead sources, then click Save.
+
+- Click Save in the confirmation window to proceed.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1772384750/19912e22c41bbd1e454a95a42e00/Screenshot+2025-10-10+at+5_27_10%E2%80%AFPM.png?expires=1763568000&signature=fabe296fd3571702de82c63b5024a58881b82f7655ee03b33a3ba81ac44b952c&req=dScgFMp2mYZaWfMW1HO4zVeHZxq7uTJMv%2FZ3U%2B4olkJ7EhDfiVD07DEykLB5%0AaJymulhn4nTmlNFqpdE%3D%0A
+
+What Happens When Command & Control: Lead Sources is Enabled:
+
+- Lead Sources from the Template Account will replace existing Lead Sources in Linked Accounts.
+
+- Linked Accounts will be prevented from modifying Lead Sources.
+
+- An alert banner will appear on Linked Accounts' Lead Sources page.
+
+---
+
+What do my Franchisees See When Command & Control: Lead Sources is Enabled?
+
+When Command & Control: Lead Sources is enabled, Franchisees will see a blue banner on their Lead Sources page stating, "These settings are managed by the template organization."
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1440992933/ed2dc4f773c310c62c45d7950ccb/Command-Control+-+Lead+Source+3.png?expires=1763568000&signature=1a251c94d2b4e30eaa6e31ca5bbc053d999ff8379ddca37472d22d55f39a4083&req=dSQjFsB3n4hcWvMW1HO4zYpTiTnruJr2ynjipmhfqaQePpAkIc9JzFkjFACe%0A4Ox7ynDIHVWi8Uu3kqA%3D%0A
+
+Franchisees are not able to:
+
+- Create new Lead Sources
+- Cannot edit existing Lead Sources
+- Will see an informational banner explaining the restrictions
+- Lead Sources will be synchronized from the Template Account
+
+---
+
+How do I add, edit, or delete a Lead Source from my Template Account so that my Franchisee’s Accounts have the same Lead Sources?
+
+- In your Template Account, navigate to the Settings page.
+
+- Go to the Lead Sources section towards the bottom of the navigation menu on the left side.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1772393771/78abc120ff6c029b7ca47a2a65c9/Screenshot+2025-10-10+at+5_45_08%E2%80%AFPM.png?expires=1763568000&signature=b1f3db40fdbf043c89bf4512eab69b36662f6f3626a5d5f5a177de97c531ff54&req=dScgFMp3noZYWPMW1HO4zRKTTCZrgPiHAcO0Unm%2BC7EeymbXcIvgS0zDmzUL%0AaksK%2FqcIipYxpWfkaTs%3D%0A
+
+- On this page, you can create, edit, and delete Lead Sources.
+
+- Once you create, edit, or delete a Lead Source, the changes will immediately be pushed/synced to your accounts that are linked to this template. - If Command & Control is not enabled in the Template Settings Page, then the changes will not be pushed/synced to accounts linked to this template.
+
+---
+
+---
+
+Limitations
+
+- The feature is available only for Franchise accounts.
+
+---
+
+---
+
+FAQ
+
+What does this Version of Command & Control Cover?
+
+- This specific version of Command & Control covers Lead Sources.
+
+What does the Future of Command & Control Look Like?
+
+- We are planning to build Command & Control for every single copyable setting that is processed through the Account Cloning feature.
+
+What is a Template Account?
+
+- A Template Account serves as the source of truth for a Franchise. It's where Franchisors configure settings that can then be applied to Franchisee accounts through Account Cloning, then any account linked to the Template Account can be Commanded & Controlled
+
+What are Linked Accounts?
+
+- Linked Accounts are Franchisee accounts that have a relationship with a Template Account. An account becomes a Linked Account when it has been cloned from a Template Account.
+
+- Child Accounts can be linked to any Template Account that is within the Franchise’s network.
+
+How Do I Designate an Account as a Template?
+
+- An Account Manager or BDR from Housecall Pro will be able to mark an account as a Template Account through an admin portal that is specific to Housecall Pro internal employees.
+
+Where Do I Manage Command & Control Settings?
+
+- You can manage the Command & Control settings on your Template Account.
+
+- In Housecall Pro, access your Template Account > Go to Settings > Select Template Settings from the left-side navigation menu.
+
+What Happens When I Enable Command & Control?
+
+- A confirmation window will appear to inform you of the changes. Upon confirmation, all accounts linked to the Template Account will: - Lose the ability to create, update, and delete Lead Sources from their account.
+- Have their Lead Sources replaced with those from the Template Account.
+
+​
+
+What happens if I Disable Command & Control after it has Been Enabled?
+
+- If Command & Control is disabled after being enabled, Franchisees will regain the ability to manage their own Lead Sources.
+
+- Note: Lead Sources that the Franchisee may have had before Command & Control was enabled will not be restored. Franchisees will keep the Lead Sources that were last synced with the Template Account, but they will be able to create new Lead Sources, update existing Lead Sources, or delete Lead Sources.
+
+Which Areas are Affected When Lead Sources are Locked?
+
+- Lead Sources will not be able to be created. This means that Lead Sources cannot be created via: - Lead Source page
+- Customer, Jobs, Estimates, Leads pages
+- Job & Customer Imports
+
+I'm a Franchisor setting up Command & Control for the first time. What steps should I follow?
+
+Follow these steps to set up Command & Control:
+
+- Work with your Account Manager to designate your account as a Template Account.
+
+- Configure your Lead Sources exactly as you want them to appear for all Franchisees.
+
+- Navigate to the Template Settings page in your account.
+
+- Enable the Lead Source Control toggle.
+
+- Review and confirm the changes when prompted by the confirmation window.
+
+- All Linked Accounts will now have your Lead Sources and will be unable to modify them.
+
+I need to add new Lead Sources for a national marketing campaign. How do I ensure all my Franchisees have access to these new Lead Sources?
+
+To add new Lead Sources across all Franchisee accounts:
+
+- Ensure Command & Control for Lead Sources is enabled
+
+- Go to the Lead Sources page in your Template Account
+
+- Add the new Lead Sources for your campaign
+
+- The system will automatically sync these new Lead Sources to all Linked Accounts.
+
+I have existing Franchisees who already have their own Lead Sources. What happens to their data when I enable Command & Control?
+
+When you enable Command & Control for existing Franchisees:
+
+- Their current Lead Sources will be completely replaced by those from your Template Account.
+
+- Any jobs, estimates, or leads tied to Lead Sources that no longer exist will retain the original Lead Source name, but won't be editable.
+
+- For reporting consistency, consider reviewing their Lead Sources before enabling Command & Control and adding important ones to your Template Account first.
+
+We just signed a new Franchisee. How do I ensure they start with our standard Lead Sources?
+
+For new Franchisees:
+
+- Your Account Manager will create the new account by cloning it from your Template Account.
+
+- This will automatically establish the new account as a Linked Account and create a relationship between itself and the Template Account.
+
+- If Command & Control is already enabled, they will automatically have your Lead Sources and be unable to modify them.
+
+- If Command & Control is not enabled, their account will still start with your Lead Sources, but they'll be able to modify them.
+
+A Franchisee needs a special Lead Source for a local event they're sponsoring. How can I accommodate this one-off need?
+
+You have several options:
+
+- Add the special Lead Source to your Template Account. This will push the temporary Lead Source to all Franchisees, but you can delete it at a later date. - Note: Customers with a Lead Source that has been deleted will keep the Lead Source on their profile for historical data.
+
+- If the need is truly one-off, consider using Tags or Notes to track this special event instead of modifying Lead Sources.
+
+A Franchisee reports they can't see a Lead Source I added to the Template Account. What could be wrong?
+
+Check these potential issues:
+
+- Verify Command & Control for Lead Sources is enabled on your Template Settings page
+
+- Confirm the Franchisee account is properly linked to your Template Account by checking the Linked Accounts page on the Template Account
+
+- Check if the Franchisee has refreshed their application since the sync occurred
+
+- If issues persist, contact your Account Manager to investigate potential sync failures.
+
+Why can't I modify my Lead Sources?
+
+- Your account is linked to a Template Account with Command & Control enabled. Contact your Franchisor for any necessary modifications.
+
+How do I know if my account is controlled?
+
+- Look for the alert banner on the Lead Sources page, which will indicate management by a Template Account.
+
+Can Command & Control be disabled?
+
+- Yes, the Franchisor can disable the feature, and your previous Lead Sources will persist.
+
+---

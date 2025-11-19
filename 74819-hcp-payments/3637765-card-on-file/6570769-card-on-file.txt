@@ -1,0 +1,170 @@
+Card on File
+Source: https://help.housecallpro.com/en/articles/6570769-card-on-file
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: Save a card on file to easily accept payment as soon as the job is complete
+
+Saving Your Customer's Card on File
+
+You can streamline payments by saving your customer's card directly to their profile so it can be used for future jobs!
+
+The customer can read you their card number over the phone, or you can send a request to the customer so they can fill out their credit card information on their own.
+
+When a customer fills out a credit card request form, you will be notified when their card is saved. You will have to confirm the email that will be notified when the card is charged, and going forward, the card will be saved for future jobs.
+
+[Button] Card on File Demo -> https://app.storylane.io/share/edaiqili1kqa
+
+---
+
+How to Save a Customer's Card on File (Web)
+
+To save a customer's card on file on the HCP Web Portal:
+
+- Open a Customer profile and select the Profile tab.
+
+- Scroll down to the Payment method section on the left side of the page and click Add credit card.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1789927434/d29910132b8c18d40d4c19cd1c03/AddCardButton.png?expires=1763568000&signature=add37fedd47d60ef286e3fcd4a7c0d988c8bee352c3cccf9fb92c55a09a465d7&req=dScvH8B8moVcXfMW1HO4zb5eJ%2FAFGr1TjBVOdgumK8jzfNO89b2bLoMwpUPV%0AFvIO6ZJag2OcmTIoxi0%3D%0A
+
+- In the window that appears, enter the card number, expiration, CVC, and zip code for your customer's card.
+
+- Your customer's display name will automatically populate in the Name on card field, but you can edit it if needed.
+
+- The email address on their Customer Profile will populate in the Email for receipts field.
+
+- Confirm the information and update if needed.
+
+- Click Add card in the bottom right corner of the window, and you're all set!
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1218643397/a6fddb1d5a076f17aba0bbb55442/SaveCard1.png?expires=1763568000&signature=bf1692e3f3943af818f31b950e8babae18a8c916ddb1af0c56615c36eefc9d7b&req=dSImHs96noJWXvMW1HO4zSxBf5YXRWLCdzXKoP6HyorjbsUpggRcuKcOTwk4%0AXfnScLv2RTxk6T7Iu9s%3D%0A
+
+---
+
+How to Send a Card on File Request (Web)
+
+This option allows you to send an email or text message request to your customer, which gives them access to a simple form to add their card so they can save it quickly and easily.
+
+To send a customer a request to save their card on file:
+
+- Open a Customer profile and select the Profile tab.
+
+- Scroll down to the Payment method section on the left side of the page, then click Request card on file.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1218643399/84ae0af38862af9b511c5f3e5d38/RequestCard1.png?expires=1763568000&signature=e547f244a489392072c09f575886edc91086814da6722b405bb1116fd55862a9&req=dSImHs96noJWUPMW1HO4zQzv7bVGaqUhUUOwcEGZOIAatJfWJxsxGaOB%2Bf6d%0AQLL9BgRY%2F9wz4zhRWEc%3D%0A
+
+- In the window that appears, choose whether to send the request via email or text message. If you need to send the request to a different email, the email address will first need to be updated in the Customer Profile.
+
+- Click Send request in the bottom right corner of the window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1218643393/7ae049ee75ba9117b8d72fc72a90/SendEmailReq1.png?expires=1763568000&signature=aeb62cda52fecc49b3cacd99fd80d8098a31778b59195a4c4364a44e16075371&req=dSImHs96noJWWvMW1HO4zRsekBSHUgX2MG3uBhyTNI890LitaS4kK6TO9FMD%0AI6akPMn7Lg7U2x82opo%3D%0A
+
+- You'll then see a green banner at the bottom of the Customer Profile page confirming that the request to save a card on file was successfully sent to the customer.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1218747077/213d5476af0462b503d376e94f15/RequestCardConfirmation1.png?expires=1763568000&signature=54772b17f3977d3fd4b616645804531ed2805e4d81aa3fd268417c3a3a310422&req=dSImHs56moFYXvMW1HO4zWwSbYYUEQN7PBbR26a%2Fs1D3bGdTMLvF%2F%2FU%2FKfID%0Acc9M4o6Onol4ZN1OnWQ%3D%0A
+
+---
+
+How to Save a Card on File from an Invoice
+
+When enabled, the 'Customer can save card on file' online payment option allows your customers to save their card to their Customer Profile upon making a payment on an invoice.
+
+---
+
+How to Update or Remove a Card on File (Web)
+
+If the homeowner requests to have the card on file removed or updated, you can easily do so through the HCP Web Portal.
+
+To update or remove a customer's card on file:
+
+- Open a Customer profile and select the Profile tab.
+
+- Scroll down to the Payment method section on the left, then click More (⋮) in the top right corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1218737986/73525bd6894f5b73e5f49511008a/CardOnFile1.png?expires=1763568000&signature=ed60a2f2e6f32615f28f76180ab71398958f25c8655077fb44f5c320902b457b&req=dSImHs59mohXX%2FMW1HO4zeQd5kfnqBaXakjThx80O9VtJvzo0Bsgzjozq8SH%0A%2Bhs4Jvg95opZ6%2Fp5GJ8%3D%0A
+
+- Select either Remove or Replace from the dropdown.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1218738596/8adb39f0a736bd2976055f844c63/RemoveReplace1.png?expires=1763568000&signature=9adfce1d6339120cfda1cbe67dacdccf2a018a48fd318c949d363e5d6f213457&req=dSImHs59lYRWX%2FMW1HO4zWiyUmM0rxmfUTQY3aTXTXdGwGbNk7MkOqqsNBci%0ADpREbVAfqk6QYPM3bjE%3D%0A
+
+- When Replace is selected, a window will appear where you can enter the details of your customer's new card.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1218738838/d23d2b79623c6bddae1ac982c2ce/ReplaceCard.png?expires=1763568000&signature=1e68d8236ea602cbd6282527ded99973cc69861534b19f6d74d9123988d465e2&req=dSImHs59lYlcUfMW1HO4zUk915OqVi1oljFiepk1UKr52CPj6wPBfLY8MNd4%0A040frdHCVmjUQnl2DZE%3D%0A
+
+- When Remove is selected, a confirmation window will appear. Click Remove in this window to confirm that you would like to remove this customer's card from their Customer profile.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1218739050/3247dc575ff46a6d4bfb2dad959c/RemoveCard.png?expires=1763568000&signature=690f15cc3ad077f1787d5e1ab12f83c2366bd1c06810c8a07820f14fec885e02&req=dSImHs59lIFaWfMW1HO4zeB7IEbGOEYmaOOLhASQDZGkcIKGbpwwIQw%2FQ3A1%0AJolEXpU4uBeE5Jjjh%2BM%3D%0A
+
+---
+
+Customer Profile View After Saving Card on File
+
+After the card has been saved (either by you or your customer), the saved card will display on the customer profile. You can either remove or replace the card from this location.
+
+- If the card is close to its expiration date, either you or the homeowner will be able to update the expiration date when a new card is issued.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1218643392/e1e9521491d00f28dbc3330e0b15/G_jEae3mvMxtTudXv9FtMXoFabUfuZe2nvZlx69YND32idPIBM5zNOSNaMDsMQgHPImC_RNFmGtb1XBbKPzvbclS4u_HbqVXe7I_gnPXZS-DM76SYxp2fQVjj8lD_wed8hUm3JrPyhpC_LCuPP2oiqQ2Gs6rKDCe_9QZN-9tbb3whazhZwPLlHp1wSsO7w?expires=1763568000&signature=45fde1837ba6f2734e9adf967be72dc1f95373eca8ed888566a6155b20ee4bf7&req=dSImHs96noJWW%2FMW1HO4zSDjT86GkTBMp%2FETY2CuiBpFepQ85JdKQnVAwRxH%0An5P9QKvzzZRYJRLyjkA%3D%0A
+
+---
+
+Charging a Card on File
+
+After saving a customer's card on file in Housecall Pro, you can easily charge that card when taking a payment through the HCP web browser and mobile app!
+
+---
+
+How to Charge a Card on File (Web)
+
+If you are processing a payment for a customer's invoice from a web browser, the customer’s card on file will show up as an additional payment option.
+
+To charge a customer's card on file:
+
+- Navigate to the Job Details page and click the 'Pay' button in the Action Bar at the top.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1218643401/d0d646b8bb3eb4f073341e1a7c2b/v_ijDzrZHoq7MZhnfAiDGwsanNXnxPL-x2WDalbHJSjyJgjgKXBRlCP8tMU6UtFQlhYLZXjCrQhJlWzKmFztaYUwuIh5aIWAv6lBkY_FcyunrzLPbRO-u8K5gwOtOwoLwYovpk9m627yiQtFUhvgYc0o580SY2qgCv98Jge_nwXFpixkqNAWgwU2sw?expires=1763568000&signature=aad04976ef6e76ca6d53d31e5519ed9982a95f21d824f69573921dc2af805f52&req=dSImHs96noVfWPMW1HO4zYgyHoS5REhBT%2Bu3ZVszZIqR2duDTFW5%2Byqrff1k%0A69G049Qkd%2Ff1gkJ80qk%3D%0A
+
+- In the Payment window, select the Card on file option, then click Charge card in the bottom right corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1218643394/b83c2c7755d9da27b79a9c9c9fe0/mPkpGrCq_JdrUsqiWpUC_KcJYoanx_bBAbz5qGs2ya78DAZz4qe86SSNeJdCx2lGnNUSRphLRZuKKxm_ri3Cwc7t26nQ3AjYIF8445H7xudeG0LDg1n9cC91VploHDO6-AM2LAuhDHj0qs9MK0xSaTnH4a3f61RO_ITJN4T-0iO6L0mXzXEbt4Z3Ow?expires=1763568000&signature=9393d085fda6bfe0901e6ee3a885312938afc922af31a53f48513ce51e672741&req=dSImHs96noJWXfMW1HO4zcYR8cO3u2Sr3NfjOmliAFS5YSGvSBL6Xu2%2FUop6%0AmTIxHexg5QMO%2BP2HX7E%3D%0A
+
+---
+
+How to Charge a Card on File (Mobile)
+
+If you or your techs are in the field, you can easily charge the customer’s card on file from your mobile device.
+
+To charge a card on file from the HCP mobile app:
+
+- Navigate to the Job Details page and tap the 'Pay' icon at the top of your screen.
+
+- Tap the 'Next' button on the Checkout screen.
+
+- If the customer would like to use their card on file, tap the 'Charge Card' button.
+
+- If the customer would like to use a different payment method, you can tap the ‘Use other payment method’ button.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/1200584561/d1e91aa4f2ef3327cacf0f3b/UxsN5RTEmDuA-Ypv_UjuppR4P0WbMGA_clcCu-wN381MFWI-5b43Hyd2Ofc_vYMJNMSoaXhfAliogQ_fOHiK5HwyHWA0L0ZdrGxwgMqLz4Rzm5qhV4u1Dy4PPNrEzqDswH2tjbKnHHAZXKo_QKJmZ-0NFtWPY76eXJPaZ_E54Z6HPbbusirUF9aoLg?expires=1763568000&signature=dc23a72197006b9158a66ab0cd4a41db4e104067bd28b5b39ee0479ea19e65c8&req=dSInFsx2mYRZWPMW1HO4zTtcxn0tirxIXMkhOZBNNL6Lr5R%2FXGLj1Mb%2Bo5xr%0AkM2b%0A | [Image] https://downloads.intercomcdn.com/i/o/1200584559/33bbf8ef8fb67b5e7c5851aa/pEG5HNeFNb20tIRgYx60qffnC1tOetI7R1ytPYdVHJ43OOJvTuCsTUGBiZEQep2hX_fUdRhb43EN3A-8qC4gilAd0PWUToQeL3t2AZuqOFtS8cXdg8zHzL3AhbJxuamF0z0O7CfTtttSemPT4pOUhQ81L2Cw2bZxswxVtG7uGFOnfDfPEpyDk0RUEg?expires=1763568000&signature=a97f77231e3df097f44e9027597639a0fd48284373883df705dfac2b42a9cd6e&req=dSInFsx2mYRaUPMW1HO4zWCZbmvXiE%2B%2BswhblhdOHO187ABrmFTN8C0QE%2BY7%0Apith%0A
+
+---
+
+Card on File FAQs
+
+Will my customer receive a receipt when I charge their card?
+
+- As part of charging a customer’s card on file, it is required to notify the customer of the charge through an emailed receipt. This helps ensure the customer recognizes the charge and decreases the possibility of chargebacks if the charge is not recognized.
+​
+
+How can the card on file be updated to a different card?
+
+- The cardholder will have a link available in their receipts to update the card information. Updating the card will take immediate effect and future jobs can be charged using this updated card.
+
+- The expiration date on a customer's card can be updated on the job details page if they request it.
+​
+
+How can the card on file be removed?
+
+- Occasionally, a saved card on file will need to be removed, either because the customer requests the card to be removed or to facilitate adding a different card. The homeowner can remove their card on file through the receipts for previous charges. You can also remove the customer's card from the HCP Web Portal.
+​
+
+---

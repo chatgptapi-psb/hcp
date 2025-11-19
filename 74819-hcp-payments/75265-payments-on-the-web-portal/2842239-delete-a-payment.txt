@@ -1,0 +1,28 @@
+Delete a Payment
+Source: https://help.housecallpro.com/en/articles/2842239-delete-a-payment
+Author: Nate H
+Last updated: Updated over a week ago
+
+Summary: Delete accidental or incorrect Cash, Check, or Other payments in the HCP web portal.
+
+How to Delete Cash, Check, or Other Payments
+
+When marking an Invoice as paid using the Cash, Check, or Other payment method, you have the option to delete the payment if it was entered incorrectly or needs to be changed.
+
+To delete a Cash, Check, or Other payment:
+
+- Navigate to the Job Details page and scroll down to the Payment History section.
+
+- Click the X icon to the right of the payment you'd like to delete.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1229034018/ee727f3ab9d2b9283b991ea8538f/DeletePaymentX.png?expires=1763568000&signature=d5b4351175ef220f0d5661d7881c2e7052f949f7e7734dbb93ab610098023f8b&req=dSIlH8l9mYFeUfMW1HO4zVfGpZ8y%2FEquWCwtE32nmTnlUCL8OBpjwqpW5Q9l%0AJx%2FQAvsUjWzPZmrdCfg%3D%0A
+
+- Click Delete on the "Delete transaction" window to confirm and delete the payment.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1229034020/99c7b321b62e7984f17e07063675/DeleteTransaction.png?expires=1763568000&signature=2ab1c5283b35e49229b0c65be4088c8a0232ea3f78757a12ca00996ec1e7417a&req=dSIlH8l9mYFdWfMW1HO4zaGrA02dcwZZf0sEM%2FeU8Fx2wyGO%2B7bZGl8Jpgf%2F%0A3%2FMaAgxvqdEHdb4lnyI%3D%0A
+
+- If you believe a payment has been accidentally deleted, you can check the Activity Feed to verify when the payment was deleted.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1229034017/f429c107a2e24153bc5750139d99/ActivityFeedDeletedPayment.png?expires=1763568000&signature=c15fda05a9ad8f9fd40d604a7b517fc396a781acb44c062d837ef91530ddabbe&req=dSIlH8l9mYFeXvMW1HO4zVMEzxytj6YobaNeuH7uuzYUj6Gh%2FKc8tBy6R0xP%0ANUlFEvr72xY6QhPPHpM%3D%0A
+
+---

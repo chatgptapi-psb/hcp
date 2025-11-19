@@ -1,0 +1,194 @@
+Using the Customer Portal
+Source: https://help.housecallpro.com/en/articles/8448657-using-the-customer-portal
+Author: Sienna M
+Last updated: Updated over a month ago
+
+Summary: The Customer Portal lets your customers view upcoming and past bookings, pay an invoice, and communicate appointment changes.
+
+What is the Customer Portal?
+
+The Customer Portal is a self-service tool for your customers to view past and upcoming appointments, pay invoices, view past invoices, and send a message to communicate any appointment changes. This gives your customers independence and saves you time with admin while elevating your brand.
+
+When you invite your customers to use the Customer Portal, they will receive an email and will be automatically logged in without needing to create a username and password.
+
+---
+
+Onboarding Video Tutorial: Customer Portal
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/lv32ox5e9k
+
+---
+
+---
+
+What Customers See in the Customer Portal
+
+The Customer Portal is simple to navigate. When invited, your customers will receive an email from your business and be branded with your logo, phone number, email, and address.
+
+- Clicking the button Login to Customer Portal will open a magic link to log them into their portal without needing to create a username and password. This link will remain active for 7 days and if they click an expired link, we will automatically resend a new magic link.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/851384980/d1053e85aa06510737280e4c/L6PPHQvdZfj2s4IOyEBeXGo54x9Qy6aPMNvjoJ_GsIhre5Is1E0jR-2RKL8Uz1qVIRDbkLxWQE4eDNHwL5g9AJXWpP_6hXWkzSr0N5v9eAV7NZgrl8kJ7nlGuQHVNpmfnA2VQfueoRDMpsiSys0y_LY?expires=1763568000&signature=e965d74e677aeeb04b004a7ea8e11038efe6cf74a48cdf0c2a93cd3a3acf9476&req=fCUmFcF6lIlfFb4f3HP0gAGaRdZtiS2Hk1P8cVomG8GIZxqz%2FNHqyFydpvqr%0AAjcJgjOL7SufxVTfnQ%3D%3D%0A
+
+---
+
+Past and Future Appointments
+
+- Once signed in, customers can access their appointment history by clicking the Appointments tab on the left-hand navigation menu. The customer can view upcoming and past appointments by clicking on the Upcoming and Past tabs.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/851384984/840e7aa1bee1164c1743e91b/rSpsnqdyrjSF6xjjnDoUHHxnLah7UBpvjO01bto7JHGSgQ3jTDShuU0bVhOW05A-rktE9vu7l_EjM4nGrE2RhTQbpnkEIgp-rTkU8qlCiYmv_Mo_W7h1ofedellH6GFfvs0oQDX8MznScnSwe__q01E?expires=1763568000&signature=f98eae27cef0be04cb98ce7736f4e2753553bda558df592fc922a1f134e0533d&req=fCUmFcF6lIlbFb4f3HP0gIdire0nYHtnSzmhWP8EnUhFhQUdP8K%2FRUIyr97s%0Aws0hae98Wkk51QCNAQ%3D%3D%0A
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/851384988/6ee073930c416e7bbcd4f14f/un5MySPb4y9M4E32fkK61ZdDC4FawZpmmSICEVB-QRB_XQp3etEhE9lGV2KyDG2Ih3U8qEGrgg0cQ0I5BP21Mh7-_SplrPWxKvAabdlZ1f4Wq8luH05F9J3HcWrExNhaozdoFO10ShZxABjmyPTmVe0?expires=1763568000&signature=695c1016b5f394f777b7413d6c825c598088b25db7faebfd2d9054b711534ef1&req=fCUmFcF6lIlXFb4f3HP0gI0x9tpT2Ec3tDFRGI36AQaeg0pDEQOz3wiEf3RB%0AQe%2B8Jx7ifqm%2FctfYdw%3D%3D%0A
+
+---
+
+Invoices
+
+- The customer can access their invoices by clicking the Invoices tab on the left-hand navigation menu. If the customer has unpaid invoices, it will show a banner on the appointments page and a badge on the left navigation. They can easily pay from the Invoices page, which accesses the same invoice that is also sent to their email upon job completion.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/851384991/90e666bb91ed7ea7c6644acc/LpNYD7Vu73IWmDNVjCQPOOK6G_ClxHHfQOelzmx-qg86kNaaUr3m3Vf7JA2MtHn3GDr0FlfPHDlCt-rgNP3trvF4_SU1Xhe5iPU_TkW2ATni1QiP1kt2lsv9GxZvLvRvANGdLH2_k48ugLX2fY_Vi2w?expires=1763568000&signature=4ac314b14b6570b47c949a24e0a8bcf20c9c902aba34393567d041d1ba4c11dc&req=fCUmFcF6lIheFb4f3HP0gF9Ir5Ihv9b6TNqCkaHM1MZtXK%2F8xCOdDRO7tOfS%0Ax26oT5xvOEJ1vlZ7IQ%3D%3D%0A
+
+---
+
+Estimates
+
+- The customer can access their estimates by clicking the Estimates tab on the left-hand navigation menu. If the customer has open estimates, it will show a badge on the left navigation. They can easily view and approve the estimate, which accesses the same view that is sent to their email. Your customers can also view any past estimates that are approved, declined, or expired. They will not be able to view any that were canceled.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-1.com/i/o/951744845/0970012df446bf3579941d7f/image.png?expires=1763568000&signature=04d586ddc1d7892d279d10b9131d738fdec40ec61102cefd1de22c2c253e39f8&req=fSUmEc16lYVaFb4f3HP0gMHkM%2FOBXOGmJnmXnts%2FIV5reob1798IGZf97RTA%0ACWMP5w0nt2mtoBJUSQ%3D%3D%0A
+
+---
+
+Send a Message
+
+- Your customer can request any changes, such as a new appointment, rescheduling an existing appointment, or canceling an existing appointment, via the Send a Message button. This button will only show if you have a custom SMS number and you have registered your business. Learn more about how to set up a custom SMS number here.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/851384992/67047832d9022129bfd23d8f/afmMS6cJXiMRLey_DTlTIwlwXVY2WSBHat8SYSwDwLTRTh8lC3KjJuzJ0DqhOUn4VH8csC9Ow63sRX8yxcCMQJ_OiVCS9xUwiv7NmGILuCh0FsnmykfXMDqb5O_ya9wRA0B61ZdzvnZtArkXlhtyLM4?expires=1763568000&signature=a1f7fc929e72ce556ea9d2e5bda62c23bb0404755587e00e52431fcb970d8f13&req=fCUmFcF6lIhdFb4f3HP0gDMdIJ3q4P3y7Nr%2BW55UufUiB8N9em9blqS6tJ0A%0AJa0W5mL4%2BXIMHYyetQ%3D%3D%0A
+
+---
+
+Online Booking
+
+- If you have set up Online Booking, your customers will see a Book Online button on the upper-right corner of the screen. Clicking the button launches your online booking flow. Customers must have a first and last name entered on their profile to see this button.
+
+[Image] https://downloads.intercomcdn.com/i/o/1151929954/242fc2213beb1179ab5ba7c1/image.png?expires=1763568000&signature=63475a9bc38b7ef458a267083d6aa96dc89f27918d2c5f05fbaacf3f0fddc18f&req=dSEiF8B8lIhaXfMW1HO4zbWOYbz9NA2%2F4TaxfudFzqI%2BPhoRosPF8%2BL%2BWYmk%0A16Q%2B3MmPyOgVXAW%2FyPU%3D%0A
+
+---
+
+Card on File
+
+- If you use Housecall Pro's My Money product, your customers will also be able to add, update or remove their existing card on file, without you having to send a Card on File request. You will be notified via email when your customer takes an action related to managing their card on file.
+
+---
+
+Referral Program
+
+- The referral program in the Customer Portal enables your customers to share a unique referral link with their friends and family. Upon following this link, the referred customer will be directed to your online booking page. After booking a job, this referral relationship will be surfaced on the Customer Profile under a "Referred by" section.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1350993141/4f2a348184b86a4e8ad192042718/image.png?expires=1763568000&signature=471ed24dd3c8c5aea0978f4c3f1b1e4142ff5ebc2f43c9901b68ae999f7457ee&req=dSMiFsB3noBbWPMW1HO4zdkuvqPUliBFShcaM9LWbFd81TlUjS8L8%2FNYBGXe%0Aoo7XxjAK1trxOItolfU%3D%0A
+
+---
+
+---
+
+Invite Customers to Use the Customer Portal
+
+---
+
+Customer Portal Invite Automations
+
+You can enable a setting so your customers will automatically receive an invite when a job is scheduled.
+
+To invite your customers to the customer portal:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Customer Portal from the left menu, under Feature Configurations.
+
+- In the Customer Portal settings page, select the Portal automations tab.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1627100745/e9b8fc52cbe4bb1c029f31b4eb1f/image.png?expires=1763568000&signature=d292797683dcec931f0c529943fc265c3de542a7a365187df27e8382ea90d541&req=dSYlEch%2BnYZbXPMW1HO4zfF%2B8DF541i0Ln0Tw8kL%2B6EnwHAalM5TW0YPVh6s%0AupOoYJMLC2I6IfV6vxc%3D%0A
+
+In your Portal automation settings, you’ll find two toggle options you can turn on or off at any time:
+
+- Automatically send the Customer Portal invite email when a job is scheduled.
+
+- Automatically include the Customer Portal login link in job, invoice, and estimate emails.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1627130844/79309a6eb9e02fedad9c7883277c/image.png?expires=1763568000&signature=c02f707b40af3decb9b9fc0d2fdd98727ebdf270cbe96a00b43181c57d546f21&req=dSYlEch9nYlbXfMW1HO4zRUv%2Fplx5wCli%2FqB9zNlh6ZujNlb68m7QKjnJfqn%0AWz7JU8W5X977avXQSVA%3D%0A
+
+---
+
+Bulk Invite Customers from Your Customer List
+
+You can also manually invite your customers in bulk from the Customer List.
+
+- Go to the Customers tab in the top navigation bar of your HCP account, and you'll be taken to your Customer List.
+
+- From here, use the checkboxes to the left of each customer to select any customers you wish to invite.
+
+- Click the Bulk Actions button in the upper right section of the page and select Invite to Portal from the drop-down menu.
+
+- This will send the invitation to the primary email on their profile, so if you would like to send the invite to a different email, you will need to manually do so from their profile.
+
+- If any customers selected do not have an email, you will see a list of their names before sending the invite.
+
+[Image] https://downloads.intercomcdn.com/i/o/951743388/b4edbde9264e565cc81fb2c0/image.png?expires=1763568000&signature=32e1ba16331b20bd013d2faf9fc50b32a1fa6c8b91bbf962b30f2f2b9ef6f2c4&req=fSUmEc19nolXFb4f3HP0gKpPXHC5bgu%2F9mVdMK26lkLftm9%2BGY8lmfh1fpwB%0AHLI1ImDj7%2Bnjs43PEg%3D%3D%0A
+
+---
+
+Invite Customers from their Customer Profile
+
+You can also manually invite your customers from their Customer Profile!
+
+To invite a customer from their Customer Profile:
+
+- Access a Customer Profile and ensure that you are on the Profile tab.
+
+- Locate the Contact Info section on the left and click the Send Invite button under Customer Portal.
+
+- We will auto-populate any emails on the Customer Profile, and you can also type in a new email.
+
+- The profile will then show the date and time an invitation was sent.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/851385000/6c8503bfb6173fe6207ad35a/j0CxItQAiraovemEj81orlSgAW_3wKKkmdvXYyNbTP_EqZeh5b10V53X4Op-EEUBpE2g_AsAe2AENLaBeGk6LyuMhSq0YxpRrfq6p5U-5IBxOy_0JtuuzLX1dvL9EryWtWydZq4NOrHTwOUkrxcv7sg?expires=1763568000&signature=9a40aedbd633f403eedd21a3843e79989bac932db8b402f81b59551c6b89a8dd&req=fCUmFcF7nYFfFb4f3HP0gNeq9RRk6RRkMOb4NZlzB8JIdwCxTI7FaV4HNX9a%0AdVFf3Yb4izoXNk7Opg%3D%3D%0A
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/851385009/8a0e439c4b17835c779d39a7/nH269dffDsudn9NNqooDMf4UU4Ru2WYK16L7deE84TePQX9jmgoki16xtAkfRsTIhGT5J5m8L90ZML8OjYQCXVKNNS6VBDeBVzknNvX4UjRfz9wtkRyQXPSb3853_UisVl1y14SuJajrWXDxAwV1AdI?expires=1763568000&signature=df48caeaa16539a74e97dfdbc7bd4a22906bf3f7a4f4f4c28be2f19acb107497&req=fCUmFcF7nYFWFb4f3HP0gLW4GimRtD0rogTlsB2XFvCRxCVE5JlW5cdRkwvX%0AqisYS1TkwiygC4IgAg%3D%3D%0A
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/851385017/60f88c7372fdb895764f57e5/EdTrdDQ8-7A22etpdjj8HCR067-4PHyOR_1mVN55flXAfuue7lXA4DgNpWQU_cnSAVZEmzVnxBM28YFaWMZOJZDYdtLW4LQZGcKKCNh6T011xZ5mMldyhNLsZotA1BdcuAwjFZo9YL4O-b7DW2f0LhM?expires=1763568000&signature=3a31776cff29facb950545af62ed871dd0c85821f70a59001120a7afd46feb28&req=fCUmFcF7nYBYFb4f3HP0gHDYX7hzsmvwUGBR50lFBuqnAP17J1FtS1SaILDl%0AEAW0bt1bNgvFMKk3aQ%3D%3D%0A
+
+---
+
+Add the Customer Portal Button to Your Website
+
+You can share access to the Customer Portal by adding a button directly to your website!
+
+To add the Customer Portal Button to your website:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Customer Portal from the left menu, under Feature Configurations.
+
+- In the Customer Portal settings, select the Portal login access tab.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1627148374/04ce18ceeef0c4446cb5887b5038/image.png?expires=1763568000&signature=0d1fa9795f52baeed768c5f25d8bec68b4ef89feaf507d588126a4cdfaacc84e&req=dSYlEch6lYJYXfMW1HO4zTNoAs43KXmJTO%2Fm2Iatlcwh4URkzYImeHJVpj8g%0A8OYomFV0z1Cdkf93gl4%3D%0A
+
+- Click the Copy Code button and add it to your Website to generate a button that says, Login to Portal.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1627159718/a7668cb3d1edd0c76c482c746365/image.png?expires=1763568000&signature=2babf3762875ce73bba238f23b768fdb600c357e3915d0017a85771f94d122a6&req=dSYlEch7lIZeUfMW1HO4zYKcXF2YHn3EGFivEnc8dQm6u99uoQk4bfUHZpo%2B%0AWC0Rwn3QC5nmA22YhBA%3D%0A
+
+If you have a Website by Housecall Pro
+
+To add the Customer Portal Button to your website if you have a website by HCP:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Marketing Center from the Settings menu on the left.
+
+- Click the Website tab in the Marketing Center settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1649663512/b45df3468b3d0c99e80a52ac608c/image.png?expires=1763568000&signature=48aa5b85207f6694ef52b14f16c614795319427044a97709d468dfb5acb2b150&req=dSYjH894noReW%2FMW1HO4zfLzYqZVYVBy9xyXsq0XWyYmdTgZuWXm1z7Ld6bV%0AasWBbiDRvXbMKtKBwvI%3D%0A
+
+- Click the toggle to the right of the setting, Display customer portal access on your website - and that's it!
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1642242946/50fe2532d1a8c4ab63bca9089ab7/image.png?expires=1763568000&signature=4c302c92b6815f6204d6ef7f606b2647edf13e62eebc63244dfe86f5d0d1d4ac&req=dSYjFMt6n4hbX%2FMW1HO4zZHlCKDzGT6qDY%2B7jfnytXNzK0pRIFBkcQLByQED%0A6j0KPRJyoQddG5XKdTI%3D%0A
+
+---

@@ -1,0 +1,144 @@
+Invoice List View
+Source: https://help.housecallpro.com/en/articles/8959660-invoice-list-view
+Author: Nate H
+Last updated: Updated over 2 weeks ago
+
+Summary: Learn how to use the new invoices list view to track down critical details for your invoices and apply payment.
+
+How to Access Your Invoice List
+
+The Invoice List view is an improved report designed to help you track your invoices. It features enhanced filtering options and quick views, making it easier to navigate and manage invoices that need attention.
+
+To access your Invoice list:
+
+- Click Customers in the Housecall Pro navigation bar at the top of your screen.
+
+- Select Invoices from the menu on the left.
+
+[Image] https://downloads.intercomcdn.com/i/o/1022322909/55920ea9e0c8fc230e4ee938/image.png?expires=1763568000&signature=260926b27d3f71076c3cd61f84d15ebd0824c96938fcf8723c3c3fe0665eabf7&req=dSAlFMp8n4hfUPMW1HO4zU5E7X9ONbCfOQ4Mr83%2BVkPvZeV764p0%2FnKA%2FxS9%0AbifLJq%2Fq7Jxo5HIr%2BW0%3D%0A
+
+---
+
+Invoice Status Definitions
+
+Table:
+Row 1: Invoice status | Definition | Notes
+Row 2: Open | Any invoice that has an outstanding amount | This status can include invoices that are partially paid.
+Row 3: Paid | Any invoice that has been fully paid off. | Can be filtered down by payment type.
+Row 4: Pending | Any invoice that has a pending payment & hasn't hit your bank account. | Example: ACH payments that have a longer processing time.
+Row 5: Canceled | Any invoice that has been canceled. | Any invoices that are related to canceled or deleted jobs.
+Row 6: Voided | Any invoice that has been manually voided. Progress invoice status only. | This status is only viewable if you are using our progress invoice feature.
+
+---
+
+Invoice Quick Filters
+
+Quick Filters in the Invoice List:
+
+- All: Your default view.
+
+- Unsent: Displays invoices with no send record to the customer and are in the "Open" status.
+
+- Due: Shows invoices in the "Open" status that are due today or later.
+
+- Overdue: Includes invoices that were not paid by their due date.
+
+[Image] https://downloads.intercomcdn.com/i/o/965738437/955a55e606aff58c6615ffe4/image.png?expires=1763568000&signature=bdfad40b2a556d6c386422eb22017da2530efd084909ccd385adbe339dfd18fc&req=fSYiEcp2mYJYFb4f3HP0gFQjTV5Uy%2Fnz6HI%2BHDSseC8%2BxpTh879ammD0%2BevW%0AZVJaRQqytQ8nBKEioA%3D%3D%0A
+
+---
+
+Filtering and Editing Your Invoice List
+
+To view and apply filter options to your Invoice List:
+
+- Click Customers in the Housecall Pro navigation bar at the top of your screen.
+
+- Select Invoices from the menu on the left.
+
+- Click the Filter button to modify your view settings. These are automatically applied.
+
+- You can apply filters based on any of the following criteria: - Invoice status
+- Invoice created date
+- Invoice due date
+- Latest sent date
+- Invoice amount
+- Payment date
+- Payment method
+- Customer
+
+[Image] https://downloads.intercomcdn.com/i/o/969094668/b2cb67fb453cb1846a12b0f2/image.png?expires=1763568000&signature=0f74a233a0b9a80ef859cf4b87d01b994e290124868a993e8d4ff08a3c5473eb&req=fSYuFsB6m4dXFb4f3HP0gFchtMRpodIY0SnTbtnu4H%2Fskp0GMu4TVpf0MkEF%0AvoMPOZ4g3T6e%2BcnabA%3D%3D%0A
+
+- Click the Edit columns button to select the columns that you would like to include or remove from your Invoice List, then press Done in the bottom right corner of the window.
+
+[Image] https://downloads.intercomcdn.com/i/o/969095743/1a1a7ac03d29993c0a634ea9/image.png?expires=1763568000&signature=a93ed5b169f144e3e6188fd3f01fa1bba3fae54511bfd154a2c398b8bb0acc2f&req=fSYuFsB7moVcFb4f3HP0gIDGBATo%2FK%2FRf1m8DZhDdvkXis6hApfS0TlZUodF%0ADtUhJ6ozb3uJltXLsg%3D%3D%0A
+
+---
+
+---
+
+How to Apply Payments from the Invoice List View
+
+To apply a payment to an open invoice from the list view:
+
+- Go to Customers in the top navigation bar of your Housecall Pro account.
+
+- Select Invoices from the menu on the left.
+
+- Click Actions to the right of the invoice you'd like to apply a payment to.
+
+- Select Pay from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1441087825/dd776e4b75a65634d879f32e1956/screenshot_2025-03-24_at_9_47_19___am.png?expires=1763568000&signature=eb986638e4b016ca9cbcaf339aa81b9958289591b5d9f859f3dca9677e5c9994&req=dSQjF8l2moldXPMW1HO4zf%2Fcx55Rsi2n22FfIKGRx93nlCXrrUVymWzN3h4x%0Ab8m8rCGVrGAzKzE2Rks%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1441088024/86c87d8719c810c4b60d7c5ecc09/image+%2842%29.png?expires=1763568000&signature=dbb51d10e5b4831c530c3bc248177b74220a480537223fcccfc3f30f92718a21&req=dSQjF8l2lYFdXfMW1HO4zawqH9z8c4gJLrm8ATXWita1gNC7VSjNv5ofsFDE%0AKVh3FvAFIQcDn7FF2%2Bk%3D%0A
+
+---
+
+---
+
+How to Apply Payments from Your Invoice Preview
+
+To apply a payment from the invoice preview:
+
+- Go to Customers in the top navigation bar of your Housecall Pro account.
+
+- Select Invoices from the menu on the left.
+
+- Select an invoice from your list to review its details.
+
+- Click Pay in the top right corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1370311366/b89e1a583f1ead82be26ff0dd1aa/Screenshot+2025-02-07+at+1_03_23%E2%80%AFPM.png?expires=1763568000&signature=8401ea137aee83b42d4d0be6ed88660b842426b91b1a75c908c8d6f2cd1ffeb8&req=dSMgFsp%2FnIJZX%2FMW1HO4zZJERa0kocNz4%2BJVGQj%2FbEMpXzYCUoKKaiwWEAm7%0Ap%2BbvVTJYPVHz1LM%2F9yM%3D%0A
+
+- Confirm the payment amount and select the payment method you want to use for this invoice. - You can adjust the payment amount here to make a partial payment (unless Progress Invoicing is enabled on your account).
+
+- Select the Notify customer option to send a receipt to your customer and confirm their email address in the Email receipt field.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1293374857/375e1bb7e7e47ef2785b1bbb87a8/image.png?expires=1763568000&signature=7f3585e52a07f1f2a03be84e4dc8192d69b5a7025f1e4003bc8824fd06e48443&req=dSIuFcp5mYlaXvMW1HO4zdrK5tnsRYWiEixU%2FWowDjFD2Ec7wx2s55%2BgFh5u%0Akd1GRCLxzhFbIipE87A%3D%0A
+
+- You will see a success or failure message, and the invoice will refresh to show you the updated payment history and payment applied.
+
+- Both you and your customer will receive a receipt, but you can send the invoice as well if you wish.
+
+---
+
+Invoice List View on Mobile
+
+The Invoice list view on mobile provides a unified, easy-to-navigate list of all invoices with clear status labels, due dates, and grouping options by day, week, or month. It streamlines invoice management by allowing direct access to individual invoices without navigating through jobs.
+
+To access your Invoice list on mobile:
+
+- Go to Dashboard and select Invoices.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1805107507/2e11c13c4bb2700a2ed3f4725764/IMG_4193.PNG?expires=1763568000&signature=ad7c6d85c6e19b94eb238fd05acda1491c7e3885fc196ee35e8dbc10023780e8&req=dSgnE8h%2BmoRfXvMW1HO4zYsL7jwDRWN6GBCndlcvl4nFhraM4%2BT75vXuenaR%0AB2AIraloOgPySZfaI8c%3D%0A
+
+To group your invoices:
+
+- Tap the grouping option in the top left corner of the screen.
+
+- Choose to group by day, week, or month, then tap Apply.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1805109038/8e3c73d88166e59b6dfa6d228fac/IMG_4194.PNG?expires=1763568000&signature=ad818fd8d522c482da634713c7d41a92532fabb723650b8cf6e10ea7017a659c&req=dSgnE8h%2BlIFcUfMW1HO4zQC27JsH6buXdV9uc697kf9ka1tTb27L2XC0nSUP%0AE5Om%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1805109335/313535687fdd8a9af6873e13821f/IMG_4195.PNG?expires=1763568000&signature=caf58883f13bb3be60a79ca3c035142226e711fc756976548ba93474e31a265a&req=dSgnE8h%2BlIJcXPMW1HO4zenyAVE%2FBy4ZSU60SSDbrolAuosHG7Y47BfYwFea%0AtZ6p%0A
+
+---

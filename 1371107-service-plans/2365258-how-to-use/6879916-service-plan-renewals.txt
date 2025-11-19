@@ -1,0 +1,92 @@
+Service Plan Renewals
+Source: https://help.housecallpro.com/en/articles/6879916-service-plan-renewals
+Author: Sarah C
+Last updated: Updated over a month ago
+
+Summary: How to renew a customer's service plan.
+
+Renewing Your Customer's Service Plan
+
+For plans eligible for renewal, use the RENEW button on the customer service agreement details page.
+
+- Renew to current plan template = will renew the service plan, the current plan template, and the details of the existing agreement. The plan template cannot be changed after this selection is made.
+
+- Renew to new plan template = will renew the service plan to any plan template.
+
+- If a renewal has already been started for this plan, the renew button will take you to the new service plan.
+
+[Image] https://downloads.intercomcdn.com/i/o/649055156/10a1355a7ddfe95d8b8655e7/renewal+gif+1.gif?expires=1763568000&signature=7990c2c43512b8106c0f4887dcca590ff186bdf725cc8d1831308ce1fa6313e1&req=ciQuFsx7nIRZFb4f3HP0gLWX%2FS5yE5BfHjlSd2sCGiGFO%2FEMRbwTwsSVBlNs%0AFNhnDUSeDJdPgNwP%2Bw%3D%3D%0A
+
+- Confirm the details of your renewal.
+
+- Once a template is selected, select the relevant service plan details.
+
+[Image] https://downloads.intercomcdn.com/i/o/649078662/3f7fc9dda07193d4540a47e2/renewal+gif+2.gif?expires=1763568000&signature=30e045b270993cf2f94327f4f0312c5d348e285704eaf59c953a817658931723&req=ciQuFs52m4ddFb4f3HP0gETu1Z6vquJU%2F3ty7getE6A1MPVN6xAtSqd6%2BzLS%0A45XaoVdfUBqkJs9Aew%3D%3D%0A
+
+Send your renewal to your customer or check out for the new service plan.
+
+- SEND TO CUSTOMER will email your customer the details of their service plan renewal. Your customer will need to confirm the details of their plan and enter payment information. The plan now be in a pending renewal status.
+- FINISH & PAY will require payment information for the service plan to become active.
+- If there was a credit card on file for the previous plan, you or your customer will be able to use the card on file to pay for the new service plan.
+
+[Image] https://downloads.intercomcdn.com/i/o/649078162/3f13a31517c2c74ac83e551a/renewal+gif+3.gif?expires=1763568000&signature=64b7893ceeda469993c8bc782a0b3ab2a0298d310af34da64e3b6e4594bdecca&req=ciQuFs52nIddFb4f3HP0gAEdA2WvBVdWXCaYQKkK71IhuW8VrAZgQachqCxD%0AE5silWF0ydmw6KUgeQ%3D%3D%0A
+
+Once the plan has been renewed, the original agreement will be in a renewed status. The new plan will be in an active status.
+
+---
+
+Service Plan Renewal Reminders
+
+Renew your Service Plans with customers in house or with an email reminder, so there's no downtime between payments.
+
+Service Plan Renewal Emails
+
+- Click the My Apps icon in your navigation bar and select Service Plans.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1683479033/c54039d6c4c44d9f04b83a1388f5/image.png?expires=1763568000&signature=0f6bf7ac903d0fee28f9f3aaf34e455effca32cdb690fe34baee26d7a9f31762&req=dSYvFc15lIFcWvMW1HO4zXQxZ%2FxAoRk9W37uy148cO%2FgyXx10MLXSsTffWp%2F%0Ac4YegRJldXuvEqNOrJI%3D%0A
+
+- Click the Settings icon (gear) in the upper right corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/459959693/4dae3cd1b2b071dfe3c8d769/image.png?expires=1763568000&signature=4efc97102d35d30e2832a461ea033a2f0f8e2204688144be9a11b8aa0997c3f4&req=cCUuH8x3m4hcFb4f3HP0gD%2BFOb3Uzp7rRmRFTc4QVt143%2FFpnwpz8v11EIYK%0AYBuiWcTUcy8Jd9R2pw%3D%3D%0A
+
+- Scroll to the section called Send renewal reminder emails. From here, you can decide how many reminders you'd like to send and how many days before expiration they will be sent. - Options include: 1, 3, 7, 14, 30, 60 days
+- Click '+ Reminder' to add additional reminders
+- To pause a reminder, click the toggle to OFF. To make a reminder active, click the toggle to ON.
+- To remove a reminder, click the (X) to the right
+- To send all customers the reminder emails, including those you've set to not receive other job notifications, make sure the Send to customers with notifications off setting is ON (blue)
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1641854850/70f492a375f43d6ac5566b7958f6/image.png?expires=1763568000&signature=b5dd9cc50f03a95ef0574b324f28c84c8d9b35938fa6edf76721ad20658da34a&req=dSYjF8F7mYlaWfMW1HO4zUCRHcw1PBhogeLXQWOtqfZTI%2BegPM%2F3Fxqda%2FzB%0A69xHSwD%2Fx%2F6nyghqWhg%3D%0A
+
+What will your customers see in the Renewal email?
+
+Setting up service plan renewal reminders will automatically generate draft customer service agreements. Any agreements that are created from a renewal reminder will be in a PENDING RENEWAL status until the agreement is accepted.
+
+[Image] https://downloads.intercomcdn.com/i/o/663066678/84316f568805e31c7baef630/image.png?expires=1763568000&signature=b83d55e3903698bc04388ef6dacba381d756031850d8cd8841334729c2e1f9ae&req=ciYkFs94m4ZXFb4f3HP0gD%2BbOdb8hmGFtR4hNe6PqhIycse2n8CR97q1zBB7%0ApaJWB6QRcBLzu4sMtw%3D%3D%0A
+
+---
+
+Frequently Asked Questions
+
+Which plans are eligible for renewals?
+
+- Any plan with a set duration and not set up as 'Plan continues until cancelled'
+
+What do the different plan statuses mean for my renewals?
+
+- Pending renewal = service plan draft is created and is pending renewal.
+- Expiring soon = service plan is set to expire in the next 30 days and has not already been renewed.
+- Renewed = service plan has been renewed (there is an active child agreement)
+- Expired = service plan has expired and not been renewed.
+
+How does this affect my automatic renewal reminders?
+
+- Follow these instructions to set up your automatic renewal reminders
+- Use these reminders to set and forget your renewals.
+- A renewal will automatically be generated based on the settings for renewal reminders.
+- These plans can be found in the pending renewal status.
+
+Why would I want to renew to a different plan template?
+
+- If you offer a one-year free maintenance plan, you could use this feature to renew a customer to a paid plan.
+
+---

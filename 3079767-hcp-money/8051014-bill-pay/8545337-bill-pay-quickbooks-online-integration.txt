@@ -1,0 +1,40 @@
+Bill Pay: QuickBooks Online Integration
+Source: https://help.housecallpro.com/en/articles/8545337-bill-pay-quickbooks-online-integration
+Author: Roland Ligtenberg
+Last updated: Updated over a year ago
+
+Summary: Learn how Housecall Pro Bill Pay works with the QuickBooks Online integration.
+
+How Housecall Pro Bill Pay Works with QuickBooks Online
+
+Housecall Pro Bill Pay is now connected to QuickBooks Bill Pay! With this integration, bills created in Housecall Pro automatically sync to QuickBooks Online, saving you time by reducing manual entries and providing accurate reporting.
+
+When you're connected to QuickBooks Online and pay a bill through Housecall Pro, the billing record is immediately sent from Housecall Pro to QuickBooks Online.
+
+- Vendors: When a vendor is created in Housecall Pro and added to a bill, the vendor will be created in QuickBooks Online when the bill is saved.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1252250539/39daedc74bf21ac90e3327918543/Screenshot%2B2023-11-02%2Bat%2B10_38_26-E2-80-AFAM.png?expires=1763568000&signature=6e0ebaa03ae369fb60e50baf562f167de0edda697d04782e01d08c7a05bd6764&req=dSIiFMt7nYRcUPMW1HO4zc1MGbYACVhQFXDQpvznEdba9zw7kOV0vqR4v63m%0AQ0HvftoKvu9QrZ45RPU%3D%0A
+
+- Bills: When a bill is created and submitted in Housecall Pro, the bill will also be created in QuickBooks Online.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1252250544/cdc181ac399337193fed7ff77fc1/Screenshot%2B2023-11-02%2Bat%2B10_48_37-E2-80-AFAM.png?expires=1763568000&signature=21d87415b81631ec1a740edf8882ce0aa729995b51be7828948fd7f52420d14f&req=dSIiFMt7nYRbXfMW1HO4zRrW%2F1Z0SeIbvMAeLovmz3JRg0j4gfQQINQMucZq%0Anfhih3jP7Gqhk5WYa54%3D%0A
+
+- Payments: When the bill is paid (check has cleared) the bill will automatically update in QuickBooks Online to show the bill has been paid.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1252250542/4faf8cf630b22d5a2dd01c652b9a/Screenshot%2B2023-11-02%2Bat%2B10_58_45-E2-80-AFAM.png?expires=1763568000&signature=edb12c1e812dee75bdab2c437c23954428665a8278c16021317b1fdfceee4efc&req=dSIiFMt7nYRbW%2FMW1HO4zfJld%2Brj4k77AR9fTlS9mHZGIT6IQQD4I7FidBX9%0A4yrbuXfTwP3teOIKjtY%3D%0A
+
+- Chart of Accounts (Category): Housecall Pro will automatically create an expense account to record the transaction under the proper chart of accounts. - This account is called Housecall Pro Money - Bill Pay.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1252250545/94080a7712ead11dae1ee3e0741e/Screenshot%2B2023-11-02%2Bat%2B11_06_09-E2-80-AFAM.png?expires=1763568000&signature=ffbb6a83efd6a5ea7ca0b58fbf46b6de96a0069ec15e0d5b69a4780edeb76f80&req=dSIiFMt7nYRbXPMW1HO4zWjQf2mEiQzTY9TAw6kdH1FoBce9Hntpz0LCwj%2FU%0Ahz67Zs%2B2AlNaeeZn1og%3D%0A
+
+---
+
+Prerequisites for Using Bill Pay with QuickBooks Online
+
+To use Bill Pay with the QuickBooks Online integration, the following requirements must be met:
+
+- Your bank account has been connected to Housecall Pro.
+- You have enrolled in Housecall Pro Bill Pay.
+- Your Housecall Pro account has been connected to QuickBooks Online.
+
+---

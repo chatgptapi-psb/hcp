@@ -1,0 +1,86 @@
+Reporting: Business Units
+Source: https://help.housecallpro.com/en/articles/12674462-reporting-business-units
+Author: Nate H
+Last updated: Updated over 2 weeks ago
+
+Summary: How to generate business unit reports and filter business units on other reports.
+
+Business Units in Reporting
+
+Business units let you organize reports by different industries of your business, such as HVAC, Plumbing, or Electrical. You can generate reports to track performance by business unit or apply filters to focus on specific areas of your operations.
+
+---
+
+Generate a Business Unit Report
+
+To generate a Business unit report, follow these steps:
+
+- Go to Reporting in the top navigation bar of your HCP account on web.
+
+- Select Jobs from the Reporting menu on the left.
+
+- Under Type, select Business unit.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1815119127/1c684bc0677bc47adc586829d0ec/Screenshot+2025-11-05+at+12_51_00%E2%80%AFPM.png?expires=1763568000&signature=bb66fdf896f28d4aeaf2f68b3702b9e71bf545694d7aa3c11a9704335c537204&req=dSgmE8h%2FlIBdXvMW1HO4zfAQz8TVRbUZ%2BVowTy5iSksKeKxQe868zgMTgEnh%0Ao7uaX8dOJrm140qKZjQ%3D%0A
+
+- You can apply filters and edit columns to customize your report as needed, then save, share, or export the report.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1815101542/ae8f6b95ad6335dabfe23be62bf6/Screenshot+2025-11-05+at+12_42_44%E2%80%AFPM.png?expires=1763568000&signature=13e7bf9d69efa56fa8f7199034633d61b8a26c5d3e7f09192519018251cb9128&req=dSgmE8h%2BnIRbW%2FMW1HO4zckKl9SYeq4HzBwZz9aXMUOl8kklhyYqcGTQwIjE%0AcnpgU6arGt%2FoeCIAtXQ%3D%0A
+
+---
+
+Generate a Profit by Business Unit Report
+
+To generate a Profit by business unit report, follow these steps:
+
+- Go to Reporting in the top navigation bar of your HCP account on web.
+
+- Select Jobs from the Reporting menu on the left.
+
+- Under Job costing, select Profit by business unit.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1806929103/b3843f2cda043cc4097ba30bc597/Screenshot+2025-10-31+at+11_44_03%E2%80%AFAM.png?expires=1763568000&signature=9be77d0c7c821b8095d34b1ad1b892513f2622abb44e8cd4072586b04bdc2d42&req=dSgnEMB8lIBfWvMW1HO4zeQ5kaaYKyJSHUG7pgV1avjLWiv6NMb0qa3VKNy%2F%0AhXE2uX%2FaDR1Zx07uKFw%3D%0A
+
+- You can apply filters and edit columns to customize your report as needed, then save, share, or export the report.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1815122280/8a4d71592f2a0e6a4385f66a84a8/Screenshot+2025-11-05+at+12_54_14%E2%80%AFPM.png?expires=1763568000&signature=0b7191eec529c7a0e1b44b139ed05e4e11e799b1e9ccfe1c3c4e8bd258df8aee&req=dSgmE8h8n4NXWfMW1HO4zZYUW95vrU90QNsLgqIew3nk2uVHixGbzWCc7ISN%0AWHe%2F5ydbJ9e9Cgx7PHY%3D%0A
+
+---
+
+Generate an Estimate Conversion by Business Unit Report
+
+To generate an Estimate conversion by business unit report, follow these steps:
+
+- Go to Reporting in the top navigation bar of your HCP account on web.
+
+- Select Estimates from the Reporting menu on the left.
+
+- Under Type, select Estimate conversion by business unit.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1815055613/a9457c161d152785b0b26ed2accc/Screenshot+2025-11-05+at+12_16_06%E2%80%AFPM.png?expires=1763568000&signature=9ac6d283dc1e81c2d207d8e2aaf241345b818b92bffc92bf97110cdc539b7695&req=dSgmE8l7mIdeWvMW1HO4zRe41nMuGfrgmUPDAt47gxvZ5dRLKcHw8UI2r1Jl%0AUJxYm4N%2BUUrPAOz9nT4%3D%0A
+
+- You can apply filters and edit columns to customize your report as needed, then save, share, or export the report.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1815124481/b0ec88e64c6ea10c9ebd675a8a8b/Screenshot+2025-11-05+at+12_55_35%E2%80%AFPM.png?expires=1763568000&signature=8dcad30ca8e7d62cd7dd289091eea3a3461982bf425481991bc0414f12f41a49&req=dSgmE8h8mYVXWPMW1HO4zfIqiL5UrcvknJWkthYF3%2Fe9trWWgwAJnzb9cRit%0AO4f9dtbkU6nuXJdVZ5Q%3D%0A
+
+---
+
+Filter Business Units on Reports
+
+If you'd like to view data for specific business units, follow these steps to filter them on reports:
+
+- Open any Jobs or Estimates report.
+
+- Click the Filter button to open the Filters menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1815145799/79d34c4237505c4cc78b9054ae6e/Screenshot+2025-11-05+at+1_06_58%E2%80%AFPM.png?expires=1763568000&signature=0998de936054874d0e5710507af8c411083c73c9f85d0cec7cee67affa720bb1&req=dSgmE8h6mIZWUPMW1HO4zZ1TQgxdYWBIY8QGeYoqDKls%2BD1B8yZlEUi5RWjL%0AujGFNAbi132%2BYrKUQh4%3D%0A
+
+- Scroll down and click the Business unit dropdown.
+
+- Select or deselect business units as needed, and that's it!
+
+- You can apply additional filters and edit columns as needed to customize your report, then save, share, or export it.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1815148807/c2803d5af968fe1382da09354021/Screenshot+2025-11-05+at+1_09_15%E2%80%AFPM.png?expires=1763568000&signature=60dd4112914d887f26d11c9d5334282f15ed48f74919fd58020e184e7ecc1272&req=dSgmE8h6lYlfXvMW1HO4zd%2BfdwNoANfB0v8MLyOsWBlZqGXxObhscX4Gp6b4%0A2p%2BEnCGsehpR%2F%2BLECus%3D%0A
+
+---

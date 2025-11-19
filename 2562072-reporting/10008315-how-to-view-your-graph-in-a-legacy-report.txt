@@ -1,0 +1,25 @@
+How to View Your Graph in a Legacy Report
+Source: https://help.housecallpro.com/en/articles/10008315-how-to-view-your-graph-in-a-legacy-report
+Author: Jasmine d
+Last updated: Updated over a month ago
+
+We've adjusted how graphs are displayed when you access our Legacy reports. This change is part of our effort to streamline performance in our reports and improve load times, especially for reports with larger datasets. This update provides more flexibility as we understand that not everyone needs to see the graph every time they view a report.
+​
+
+What's Changed?
+
+Previously, when you drilled down into a Legacy jobs report, the graph appeared by default. To improve performance and give you more control over your report views, the graph no longer automatically displays.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1219926305/5d6357804c631b8f42bec08f8507/Screenshot+2024-10-17+at+12_54_20%E2%80%AFPM.png?expires=1763568000&signature=c28eb66eeaaebbfb4057644725783a54920f549ac3806fcc9168a04b96e9b616&req=dSImH8B8m4JfXPMW1HO4zbviJH89%2FRX0AGW7BysUD%2BTUocmsPhWvnkTaoY%2Fb%0AcJL8aivYiudvrljAhvk%3D%0A
+
+​
+
+How to View the Graph
+
+Going forward, if you wish to view the graph, you'll need to click the new "Show Graph" button at the top of your report. This option allows you to choose whether or not you want the graph to be displayed based on your needs.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1219927234/43ce4c3592afb892f2eb59044264/Screenshot+2024-10-17+at+12_54_31%E2%80%AFPM.png?expires=1763568000&signature=89d75f5b6af5f63314a7ff167ffd3e9160ae5b3b96bbb16d0af20c15bccc7482&req=dSImH8B8moNcXfMW1HO4zT5%2FKNNHeQF%2Bw6n2TXCUEF74fN7EEu20Frfg46I1%0Ag2tUcXJje0uEib3norw%3D%0A
+
+---
+
+---

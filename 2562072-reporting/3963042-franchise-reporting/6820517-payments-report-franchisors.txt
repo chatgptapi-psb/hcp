@@ -1,0 +1,102 @@
+Payments Report (Franchisors)
+Source: https://help.housecallpro.com/en/articles/6820517-payments-report-franchisors
+Author: James N
+Last updated: Updated over 3 months ago
+
+Summary: Franchisors can export a list of payments on jobs across all locations.
+
+Running a Payments Report
+
+The payments report allows franchisors to export a list of payments on jobs received (by payment date) across all of their locations.
+
+To run a Payments report:
+
+- Go to the Reporting tab in your top navigation bar.
+
+- Click on the Payments tab on the left side of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/1045182039/521990bbae22fae21b503c7b/Screenshot+2024-05-08+at+8_49_05%E2%80%AFAM.png?expires=1763568000&signature=d12f2e9093eb55621cf4fcda41f78cda4b3bc9865236d7c4698c22432b23253e&req=dSAjE8h2n4FcUPMW1HO4zQ5stiim404987XqK1kcfgyxDoNZZ8y%2BHHN93690%0AILkl3OXXIZMZnPIgqE4%3D%0A
+
+- Once on the page, you can select the date range for the report by selecting the drop-down titled Global date range, located directly under the title of the report.
+
+- The date range that you select filters the data in the report export based on the payment date.
+
+- You can select up to one month of payments at a time. If you'd like to include today in the data pull, be sure to set your date range to end tomorrow.
+
+---
+
+---
+
+Viewing the Report Output
+
+After you select the GENERATE REPORT option, an export of the data will be sent via email to the email address associated with your account. The email will include two files, detailed below.
+
+---
+
+Summary File
+
+The summary file displays the sum of payments received by payment type, by child org.
+
+[Image] https://downloads.intercomcdn.com/i/o/681515410/5722bbf06516e24fbd84dbe0/image.png?expires=1763568000&signature=671896f51e7e21036dde93c31b30525c67744c67089bbf494d5a58f5c33ee7f0&req=cigmE8h7mYBfFb4f3HP0gG3BuCnRYQOC7Osyhx7xInuSdmufJo9xXoRU%2F8yl%0AlynqJdJy4PwQqJDL6w%3D%3D%0A
+
+Fields in the summary file:
+
+- Child org name: name of the location associated with the payments (if you receive payments in your parent account, the parent account name will show here).
+
+- Payment type: method of payment used by the child org.
+
+- Revenue: sum of the payment value associated with the payment type.
+
+- Invoice count: count of the invoices associated with the payment type.
+
+---
+
+Payment Details File
+
+The payment details file displays each of the payments received by your child accounts for the time period specified. This file allows you to view all of the details behind the summary file.
+
+[Image] https://downloads.intercomcdn.com/i/o/681518527/a52f91316f4e40c95ed674c4/image.png?expires=1763568000&signature=63db938e6f05692a1adef4ed8f006fdba65d3cdd2046f9b396b82b2ca3e25f8e&req=cigmE8h2mINYFb4f3HP0gGCZ%2BY12OLI6ua5rT%2FAgLKnNJIx4ojfMzdU1HNZs%0AQXKY5O%2FqDWw2g4bKHQ%3D%3D%0A
+
+Fields in the details file:
+
+- Parent franchise ID: the unique ID associated with your parent organization (Note: will be blank if the payment line is associated with your parent org).
+
+- Child Org ID: the unique ID associated with the child organization that collected the payment.
+
+- Child Org Name: name of the child organization that collected the payment.
+
+- Job ID: the unique ID associated with the job that payment was collected against (Note: the same Job ID may be repeated in the file if multiple payments were collected on the job).
+
+- Payment Received Date: date and time the payment was received by the child organization.
+
+- Job Created Date: date and time the job was created that payment was collected against.
+
+- Job Completed Date: date and time the job was completed that payment was collected against (If the job hasn't been completed yet, this field will be blank).
+
+- Customer ID: the unique ID associated with the customer that made the payment.
+
+- Customer Name: name of the customer that made the payment.
+
+- Invoice Number: invoice number associated with the payment collected. Note that the same invoice number may be repeated in the file if multiple payments were collected on the job.
+
+- Job Duration: total job time (from On My Way to Finish) of the job (Note: will be blank if no time was tracked on the job).
+
+- Job Description: description of the first line item on the job.
+
+- Invoice Payment: status of the total invoice balance (Note: if the invoice is completely paid, it will show as paid).
+
+- Assigned Employee Name: name of employee assigned to the job (Note: if multiple employees are assigned, the first will show).
+
+- Job Status: status of the job associated with the payment.
+
+- Payment Amount: total amount of payment received (Note: Includes taxes and tips).
+
+- Payment Type: The type of payment method used.
+
+- Job Location Longitude: longitude associated with the address of the job.
+
+- Job Location Latitude: latitude associated with the address of the job.
+
+- Job Location Zip Code: zip code associated with the address of the job.
+
+---

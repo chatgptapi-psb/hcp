@@ -1,0 +1,162 @@
+Credit Card Disputes
+Source: https://help.housecallpro.com/en/articles/5345667-credit-card-disputes
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: Learn about the credit card dispute process and what's expected from that process.
+
+What is a Dispute?
+
+A dispute, also known as a chargeback, occurs when a customer rejects a payment they've made to you with their bank or credit card company.
+
+If a customer has filed a dispute against you, you have the ability to submit evidence in your defense.
+
+Types of Disputes
+
+- Credit Not Processed
+- Duplicate
+- Fraudulent
+- General
+- Product Not Received
+- Product Unacceptable
+- Subscription Canceled
+- Unrecognized
+​
+
+---
+
+Roles and Expectations
+
+Housecall Pro:
+
+- Housecall Pro acts as the middleman or messenger between you (the Pro), and Stripe (the payment processor). While we will keep you up to date on the status of your dispute and submit evidence on your behalf, we do NOT represent you in any legal capacity.
+
+Stripe:
+
+- Stripe is the credit card processor Housecall Pro is partnered with and works directly with your customer's bank during the dispute process.
+
+Your Customer's Bank:
+
+- Your customer's bank is working on behalf of the customer and will take their side by default. No matter what, the bank will automatically pull the funds and hold them until the dispute has been resolved.
+​
+
+---
+
+Dispute Process
+
+When your customer disputes a card payment, the customer's bank creates a formal dispute which immediately reverses the payment.
+
+- The payment amount is withdrawn from your bank account, sent back to your customer's bank, and refunded to the card that was used for the charge.
+
+- Stripe will also assess a $25 dispute resolution fee in addition to the amount refunded to the customer. This will be charged to the card on file with Housecall for your subscription billing.
+
+- If you win the dispute, the bank will then send the money back to Stripe, then Stripe will issue a new payout to you. The $25 dispute resolution fee will be credited to your Housecall Pro account.
+
+- If you lose the dispute, the money is kept by the bank along with the $25 dispute resolution fee.
+
+- You will receive an email (sent to you from disputes@housecallpro.com to the support email address saved in your company profile) once a final decision has been made.
+​
+
+---
+
+---
+
+Dispute FAQs
+
+---
+
+---
+
+How will I know if a payment has been disputed?
+
+- You will receive an email from disputes@housecallpro.com (to the support email address saved in your company profile) when your customer has disputed a charge against you. Please reply to that email with any questions.
+​
+
+---
+
+How long do I have to fight the dispute?
+
+- There is a limited period of time that evidence can be submitted (usually 7-14 days).
+
+- The final decision is typically rendered 90 days after the deadline to submit evidence.
+
+- The amount of time available is provided within the dispute email we send to you from disputes@housecallpro.com (to the support email address saved in your company profile). 
+​
+
+---
+
+What is the best way to resolve the dispute?
+
+- Discussing the dispute with your customer directly and having them officially withdraw the dispute (with their bank) is the best way to have things resolved. 
+​
+
+---
+
+What if I do not want to fight the dispute?
+
+- If you do not want to fight the dispute and agree that it was a faulty charge, simply 'Accept' the disputed charge. You will be committed to the dispute as lost meaning accepting is irreversible. 
+​
+
+---
+
+What if my customer agrees to withdraw the dispute?
+
+- Even if your customer agrees to withdraw their dispute, you still need to take some steps to complete the process and protect yourself in the event the customer changes their mind or forgets to officially withdraw the dispute with their bank (Stripe suggests taking the steps below). 
+​ - Still submit evidence -- this protects you in the event of your customer changing their mind and includes the letter/proof of withdrawal and re-billing. 
+​
+- Make sure your customer notifies their bank -- the customer MUST notify their bank. Once they do, the bank will formally re-charge the customer for the disputed charge amount and provide a letter of withdrawal, typically via email within 7 business days. 
+​
+- Retrieve proof of withdrawal -- ask the customer for a copy or screenshot of the letter of the re-billing as it appears on their statement once they have it. 
+​
+
+---
+
+What if I have evidence that proves the payment is valid?
+
+- We highly recommend you submit evidence to help your case. Give yourself a fighting chance.
+
+- There is a dispute resolution process through which you can respond and submit evidence to make your case for a valid payment.
+
+- If the dispute is ruled in your favor: the disputed amount & the $25 fee are returned to you.
+
+- If the dispute is lost & the ruling is upheld: the bank’s decision is final and the cardholders will be refunded the disputed amount.
+​
+
+---
+
+What evidence can I submit to help prove the payment is valid?
+
+- Evidence submitted can include (but is not limited to): - Invoices
+- Pictures
+- Email communications
+- Shipment tracking numbers
+- Delivery confirmation
+- Proof of prior refunds OR replacement shipments, etc.,
+
+---
+
+Where do I send my evidence?
+
+- Evidence must be submitted through the My Money page in the web portal. You'll also get an email with the dispute information and instructions on submitting evidence. This will be sent to you from disputes@housecallpro.com (to the support email address saved in your company profile).
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1229378804/87c09bd3a48c3dd6f162f43c01c6/take%2Baction%2Bnew%2Bdisputes.jpg?expires=1763568000&signature=7c00d81deea5a50d9caa0d7d7e7a1867e793392b0b3942a400eae41235a4619e&req=dSIlH8p5lYlfXfMW1HO4zVMPwHir20qoQn4PlsU0LA2q8y%2Fl3V6X5WgzooVm%0A3dbltAOX10%2F2tfemNc8%3D%0A
+
+---
+
+Can I contact my customer’s bank directly?
+
+- Per Stripe: The dispute process is highly formalized and rigid, so banks will not communicate about a dispute in any matter beyond the evidence submission process. The only way to resolve a dispute is to submit evidence showing the charge was legitimate, or by working with the customer to withdraw the dispute.
+​
+
+---
+
+---
+
+Video Tutorial
+
+Preparing Evidence:
+​
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/xa7irmxgja
+
+---

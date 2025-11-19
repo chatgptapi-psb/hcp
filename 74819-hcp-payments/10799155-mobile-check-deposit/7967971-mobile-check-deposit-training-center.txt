@@ -1,0 +1,81 @@
+Mobile Check Deposit Training Center
+Source: https://help.housecallpro.com/en/articles/7967971-mobile-check-deposit-training-center
+Author: Roland Ligtenberg
+Last updated: Updated over 4 months ago
+
+Summary: This article provides a comprehensive overview of Mobile Check Deposit.
+
+Welcome to the Mobile Check Deposit Training Center!
+
+This information is designed to help you and your team learn the ins and outs of using Mobile Check Deposit. We'll take you through the basics of a check and what to look out for when using the feature.
+
+---
+
+Mobile Check Deposit Video Tutorial
+
+If you're depositing your first check, start with this short video! 👇
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/cv5lc0a2rw
+
+---
+
+The Anatomy of a Check
+
+Looking at a check can give you ‘information overload’. That’s why we’ve laid out everything you need to know.
+
+[Image] https://downloads.intercomcdn.com/i/o/1182113912/8bce9b6f37a3f147479e14b7/091124-mobile-check-deposit-V2_ANATOMY.png?expires=1763568000&signature=f495167fe98b57396d8249ccc17f76cfb475c36b0eff05f2b752bf528db6e5ac&req=dSEvFMh%2FnoheW%2FMW1HO4zbnRF0Its1tF04jxI%2B8ITEMp8zGnXuyWFG3W7m3L%0A0p%2Bg9hJyFXhonraSRgY%3D%0A
+
+---
+
+What to 'Always' and 'Never' Do When Using Mobile Check Deposit
+
+Bad habits can lead to more checks getting rejected. Good habits, on the other hand, lead to more successful deposits, happy customers, and business owners.
+
+Always
+
+✅ Confirm the name on the check matches the business name
+
+✅ Confirm the date is correct (no more than 6 months old)
+
+✅ Write the business name and “For Mobile Deposit Only” on the back of the check
+
+✅ Take a clear photo of the front and back of the check
+
+✅ Keep the check after it's been deposited for at least 14 days
+
+Never
+
+🚫 Attempt to deposit the same check twice
+
+🚫 Submit an old check (6 months or older)
+
+🚫 Accept a check without a front signature
+
+🚫 Submit a check with a date in the future
+
+🚫 Crop out or cover important details on the check image
+
+🚫 Include additional objects in the check image (pens, paper, etc.)
+​
+
+🚫 Attempt to deposit a savings bond
+
+---
+
+Taking the Best Image
+
+We'll snap the picture for you, but here are some tips on getting the best image quality:
+
+---
+
+Check Errors and How to Fix Them
+
+A check error will occur when our system detects an issue with your check submission. For the check to be successfully deposited the error(s) need to be addressed.
+
+Here is a list of errors you may encounter and how to resolve them:
+
+---
+
+Mobile Check Deposit service is provided by Stripe Payments Company with funds held at Fifth Third Bank, member FDIC. Mobile Check Deposit is subject to limits and holds at Housecall Pro’s sole discretion. For more information, see our Terms of Service.
+
+---

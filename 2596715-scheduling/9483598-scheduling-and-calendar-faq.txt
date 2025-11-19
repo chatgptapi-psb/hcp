@@ -1,0 +1,54 @@
+Scheduling and Calendar FAQ
+Source: https://help.housecallpro.com/en/articles/9483598-scheduling-and-calendar-faq
+Author: Nate H
+Last updated: Updated over a week ago
+
+Summary: Commonly asked questions when it comes to managing your schedule and scheduling jobs, estimates, or events.
+
+How do I assign a lead technician to a job?
+
+- While there isn’t an official lead technician role in Housecall Pro, when multiple team members are assigned to a job, the team member listed first on the Schedule page is treated as the lead.
+
+- If your Schedule view is set to Color by Employee, the job will display using that team member's color. Their name will also appear in customer communications when applicable.
+
+How do I change the order of my employees on the schedule?
+
+To change the order of your employees on the Schedule:
+
+- Go to the Schedule tab and click the Menu icon (≡) in the top left corner of the page.
+
+- Click the Reorder employees button (three bars) to the right of Team calendars, and you'll be taken to the Reorder Employees screen.
+
+- Click and drag the handles (two bars) to the left of an employee to move them up or down on the list, then click Save order in the top right corner of the screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/1084708717/de7f9879dbe79c7091aa889c/reorder+employees.gif?expires=1763568000&signature=7d3cf7e2264c338e2af050e53a0b8faa488861fb1ce8d939a9d8de0bd4a063a9&req=dSAvEs5%2BlYZeXvMW1HO4zfo9l%2BSKdHSnT839d9lpDUu5WObGagrq2xYTTWSD%0AMqU%2BlhtVgwUtJOoXSDA%3D%0A
+
+My team works in crews. How do I set that up in Housecall Pro?
+
+- There isn't a way to set up crews in HCP yet, but multiple employees can be assigned to the same job.
+
+How do I clear out my unscheduled jobs?
+
+- Each job in the unscheduled job list will need to be scheduled or completed in order to be removed from the unscheduled job list on the calendar.
+
+How do I add or reassign an employee to a job or estimate after it's been scheduled?
+
+For estimates and standard jobs (no appointments/recurring jobs):
+
+- Open a job or estimate and scroll down to Line items.
+
+- Click the pencil icon next to the name of the current dispatched employee(s).
+
+- Select or deselect employees' names or the Unassigned option as needed, then click Save.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1699812698/c4393dc3a0c9ba4565fa5f280a07/Screenshot+2025-08-29+at+12_57_06%E2%80%AFPM.png?expires=1763568000&signature=225140c9abf242c9062d9911a06e94827cc28a162143bf11b4253eba833d5e34&req=dSYuH8F%2Fn4dWUfMW1HO4zW%2Bn%2Fuiapi5m4AjNe7TV0pniqcYqfLye4iSEBDpB%0AYYT8n6s%2F3KN5ve0taKs%3D%0A
+
+If Appointments are enabled on jobs, or you need to reassign an employee for a recurring job:
+
+- Go to the Appointments section of the job and click the employee(s) currently assigned (or the Unassigned icon) under the Employees column.
+
+- Select or deselect employees as needed, then click Save.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1699799104/e93ef752b8793742fedaa7c2877c/Screenshot+2025-08-29+at+12_47_32%E2%80%AFPM.png?expires=1763568000&signature=a59c4922814ba84a7f534685b2ca72d5f70f094dd79d401363425319cec724e8&req=dSYuH853lIBfXfMW1HO4zbU5XVSesXdeDNebaGFM9sCYipWMBHwZyJMifS7q%0AA6IzAp8wosfGDjhc2OM%3D%0A
+
+---

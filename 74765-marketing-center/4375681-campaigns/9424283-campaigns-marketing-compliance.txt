@@ -1,0 +1,144 @@
+Campaigns: Marketing Compliance
+Source: https://help.housecallpro.com/en/articles/9424283-campaigns-marketing-compliance
+Author: LaNee B
+Last updated: Updated over a month ago
+
+Summary: Understand the new email consent requirements and how they protect your business and enhance your marketing campaigns.
+
+Understanding Consent and Reputation in Marketing
+
+Introduction to Understanding Consent and Reputation in Marketing
+
+Obtaining consent from your contacts before sending marketing emails and texts is not only a good business practice that builds trust with your customers, it's also a requirement for maintaining a healthy marketing strategy. This article explores the concept of consent in email marketing, why it matters, and its impact on your email reputation.
+
+Regulations and Consent
+
+Internet Service Providers (ISPs) and Mobile Network Operators (MNOs) manage and control the cellular network infrastructures that deliver messages. ISPs handle internet-based communications and actively work to filter and block spam to protect users from malicious content and maintain network integrity. MNOs, dealing primarily with cellular networks, monitor and regulate SMS and MMS messages to prevent spam and fraudulent activities. Both ISPs and MNOs use monitoring systems to ensure that spam is minimized and that legitimate messages are delivered efficiently to maintain a trustworthy communication environment for users.
+
+To ensure compliance with regulatory standards, both ISPs and MNOs require that senders obtain explicit consent from recipients before sending marketing messages. Consent, in this context, means obtaining express permission from individuals before you send them marketing communications. The term "express consent" means it is given in a clear, straightforward way--usually in writing. This also means it is not inferred from other actions or bundled with different agreements.
+
+Impact of Lack of Consent
+
+Not obtaining proper consent can lead to several negative consequences, including:
+
+- Increased Spam Complaints: Emails & SMS messages that are sent without consent are more likely to be marked as spam. This hurts your reputation and can lead to lower deliverability rates.
+- Denylisting: If your marketing messages trigger too many spam complaints, ISPs might denylist your domain, making it nearly impossible for any of your emails to get through to any of your subscribers.
+- Low Engagement: Emails sent without consent typically see lower engagement rates as recipients are less likely to interact with content they didn’t sign up for. This further negatively affects your email reputation.
+
+How to Obtain and Maintain Consent
+
+- Gain clear consent: Use explicit opt-in methods, such as checkboxes on signup forms, that are not pre-checked. This ensures the users actively decide to receive emails from you.
+- Maintain Records: Keep a log of when and how consent was obtained for each subscriber.
+- Easy Opt-Out: Housecall Pro automatically includes a straightforward way for your customers to opt-out or unsubscribe from your marketing email and text messages. Customers can reply STOP to unsubscribed from texts messages and they can select the clearly marked Unsubscribe button at the bottom of every marketing email.
+- Reaffirm Consent Periodically: Regularly update your contact lists and reaffirm consent, especially if contacts have been inactive for an extended period. We highly recommend that you do not send marketing communications to any customers you have not serviced within the last 1-2 years. This not only complies with best practices but also keeps your lists fresh and engaged.
+
+What is Reputation and Why it Matters
+
+Consent directly impacts your reputation as an email or SMS sender. Sender reputation is a score that ISPs and MNOs assign to an organization that sends messages. It's similar to a credit score and affects whether your emails and texts will make it to your customers' inboxes or be filtered as spam.
+
+A good reputation is crucial because it ensures that your marketing messages reach your customers. There are several factors that influence this score. They include the number of spam complaints your messages generate, how often your messages are opened, and the frequency of messages being marked as spam or directly deleted.
+
+Conclusion
+
+Securing express consent is not just a requirement; it's a foundation for successful marketing. By respecting your customers' preferences and maintaining a robust reputation, you maximize the effectiveness of your marketing efforts while building trust with your audience. Always remember that a well-maintained customer list is a valuable asset in your digital marketing toolkit.
+
+---
+
+---
+
+Confirming Consent for Marketing SMS Messages (ADVANCED)
+
+Confirm Consent Before You Can Send a Campaign
+
+Before you can send your first SMS campaign, you need to get consent from your customers.
+
+- Launch the SMS consent dialog by clicking Marketing in the navigation bar at the top of your account. This will take you to the Campaigns page for the marketing center.
+
+- On the Campaigns page, click the SMS CONSENT button, located in the top right corner of the page, to the left of the blue NEW CAMPAIGN button. - This will launch the consent modal, allowing you to see which customers you've already gained consent from.
+
+[Image] https://downloads.intercomcdn.com/i/o/1065863425/9b499cf07017cf6aaa6ef3d1/image.png?expires=1763568000&signature=93f4d7fe078cbd7cc83d19c18a4e5c49fceaf1fae15a3f3faf1176ac4d8d3bca&req=dSAhE8F4noVdXPMW1HO4zUov6PgHt4cqnkPKKFHZFb4oL%2BTYOPrsMRKI2DLx%0A5WdifqdwldRnOGouZag%3D%0A
+
+- You can select new customers from the list by clicking the box next to their name(s).
+
+- Make sure you check all of the pages of customers by clicking the arrow button located at the bottom right of the consent modal. ​
+
+- Once you have selected the customers who gave you SMS consent, click the blue Next button.
+
+[Image] https://downloads.intercomcdn.com/i/o/1065868926/4575ff920fff3440b287d66f/image.png?expires=1763568000&signature=371dbbb4a3a5f040536e502cd47f4d38a43945a77d11a23f3cc286da72a9a08d&req=dSAhE8F4lYhdX%2FMW1HO4zZCQVwtezLWQhffT1ox%2F3KrzbfTITpLgDXea%2BNlO%0AoVeTOtZIpqIxrmujU2I%3D%0A
+
+- On the next page, click the checkbox stating you have explicit consent from your select customers to send them SMS marketing, then click CONFIRM SMS CONSENT in the lower right.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1784205861/c1b8713a5c578911ecf13428de7c/image.png?expires=1763568000&signature=257bffd558aa3fd131ea699aaa19f02e494014d5fea4d67ccc1bb06263c6b02a&req=dScvEst%2BmIlZWPMW1HO4za9WKA%2FDAnWR%2Bsvel4XRinzGBfmS8r%2BHCPYt2v%2Fr%0A3SOY5iVOLfjZthPUdNU%3D%0A
+
+---
+
+SMS CONSENT ERROR
+
+You may get an error saying certain customers could not get consent confirmed. This usually happens if the customer does not have a phone number listed on their profile or you already have that same mobile number under another customer.
+​
+Any customers that do not show up in the error dialog were successfully verified. You can press the Cancel button to exit the Modal.
+
+There are many factors that determine whether or not your marketing emails reach their intended destinations. It's important to understand that sending unwanted emails will lead to higher unsubscribes and spam complaints which impact the deliverability of your future messages.
+
+---
+
+SMS Consent
+
+Customers can also opt in to receive marketing messages. The first message they will receive from you is the welcome message, and it includes “Reply Y for marketing texts & special offers,” so if they reply “Y” then they will be opted-in.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1742331605/7c3e7b6d4af0ba538e612f80a077/3d8955f7-5da1-44d8-87c5-174a5cf05292?expires=1763568000&signature=b8de8ca61b7c17fd193d9fb8ae7cf91e5ee38a6713ba1aae3cf3a4eb47eeb95e&req=dScjFMp9nIdfXPMW1HO4zVWDmb521t69je8yQRAJI9YdrfTIQU4x2ZlcyNzA%0A%2BRtHwCA2w3mL%2FkySi6s%3D%0A
+
+Additionally, they can opt-in to marketing through Online Booking, adding a credit card, and on the Communication Preferences page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1742337030/2aade88e853a6ca37c5fb9ec339c/image.png?expires=1763568000&signature=309da4d3dcf28fc09bd33d5003664167f5ee018b7277aef7f5901ddc2cf35f15&req=dScjFMp9moFcWfMW1HO4zXCiLEG4lc26tsvnVtBF8l4l1lpkWM%2BoyOQv0G4c%0AFi6HVmaD3QT9aE%2BqadM%3D%0A
+
+Lastly, you can see your customer’s Communication Preferences on the Customer Profile. You are able to request the customer to opt in, which will send the customer a text message to opt in to marketing text messages:
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1742331606/eeae66849cdda224746808502ac2/2a033e9c-16f0-468b-a019-1fd210f4318d?expires=1763568000&signature=72f38275e169fc3afa8ea654571f57019324e9407686256bf22ab939b6fbcaca&req=dScjFMp9nIdfX%2FMW1HO4zSKvTmWvwZdb9oBTNwVzs4hwBKBsBTZBjQZ1NQt%2F%0AWHFGJWRfZATh7ds3YTg%3D%0A
+
+---
+
+---
+
+Understanding Spam and Email Deliverability
+
+Understanding Sender Reputation
+
+In email marketing, each sender is assigned a sender reputation score. This is a crucial metric used by Internet Service Providers (ISPs) such as Google and Yahoo, to evaluate the trustworthiness of an email source.
+
+Think of it like a credit score for your email domain. Similarly, building a solid email reputation takes time and consistency in following best practices. A good sender reputation means your emails are more likely to be delivered directly to inboxes, while a poor reputation can lead to your emails being blocked or automatically landing in spam folders.
+
+This score is influenced by several factors, including the volume of emails you send, how frequently you send them, the rate of recipient complaints (spam reports), and the number of bounces (emails sent to non-existent addresses). With all of this in mind, the Marketing Center has built in tools and features that help you maintain a strong sender reputation for long-term email marketing success.
+
+Understanding Email Deliverability
+
+When you send an email, it does not necessarily go to your customers' email inboxes. Email deliverability refers to the successful delivery of your marketing emails into the inboxes of your target audience.
+
+What Influences Email Deliverability?
+
+The following items influence email deliverability:
+
+- Sender Reputation: A score that is determined by factors such as the volume of emails sent, frequency of sends, bounce rate, spam complaints, and more.
+- Content Quality: Emails that appear spammy due to aggressive sales language, excessive links, or poor formatting are more likely to be flagged by spam filters.
+- Recipient Engagement: How recipients interact with your emails by opening them, clicking included links, marking emails as spam, etc.
+
+Navigating Spam Filters
+
+Spam filters are automated systems that email providers use to protect users from unwanted emails. They assess emails based on complex algorithms and a variety of criteria to determine if an email should be delivered to the inbox or redirected to the spam folder.
+
+Avoid Common Spam Filter Triggers:
+
+- Don’t use more than one exclamation point (!)
+- Don't use ALL CAPS in your email Subject Line or Body
+- Check your email for grammatical and spelling errors
+- Avoid making claims and phrases that sound desperate, pushy, or "Too-good-to-be-true"
+- Only include URL links to sites you to know to be legitimate and reputable domains
+- Carefully craft your subject line with your customers needs and interests in mind
+- Only send marketing emails to customers you have serviced within the last 1-2 years
+- Instead of using phrases like "Dear Valued Customer" address email recipients by their name using variables in the Email Builder.
+
+Conclusion
+
+Understanding and improving email deliverability and managing spam are crucial for successful email marketing. By utilizing the tools and strategies provided by Housecall Pro’s Marketing Center, you can ensure that your emails reach your customers effectively, enhancing both customer engagement and your marketing results.
+
+---

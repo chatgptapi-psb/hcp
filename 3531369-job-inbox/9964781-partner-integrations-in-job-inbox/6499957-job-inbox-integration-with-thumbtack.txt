@@ -1,0 +1,40 @@
+Job Inbox: Integration with Thumbtack
+Source: https://help.housecallpro.com/en/articles/6499957-job-inbox-integration-with-thumbtack
+Author: Anna E
+Last updated: Updated over 3 months ago
+
+Summary: Leads and instant bookings through Thumbtack
+
+Thumbtack connects you with customers searching for service providers and now offers direct bookings through Job Inbox. Once connected, your Thumbtack leads and instant bookings appear in your account with all customer details, and automatic messages are sent through both SMS and the Thumbtack platform.
+
+---
+
+Enable the Thumbtack Integration
+
+To set up the integration with Thumbtack:
+
+- Click the My Apps icon (3x3 square) in the top right corner of your HCP account on web, then select the Job inbox app to view your Job inbox settings.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1689566206/5e1ad5133dbe93fb59b8b3f9e216/04600854-7217-4bcd-b5e4-7ba5a5fc35d0?expires=1763567100&signature=c6e6b02bdf09ee23eb2eaf5f9ea66cf1b9a319a2c1f9d34b743ca3bdeec0a138&req=dSYvH8x4m4NfX%2FMW1HO4zfY%2FOMjKwv6WNmp0GypO8wKaOYKGX3tFOZKwVF9U%0A6PZ5369kx4KcR4G%2F0QU%3D%0A
+
+- Toggle on Thumbtack. The toggle will turn blue when enabled and gray when disabled.
+
+- Exit the App details screen by clicking the back arrow in the top left corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1689567883/0fd18a412f2673b842a8a26cbaf4/9dce2cb1-298c-4087-b14b-60d9fa4bca36?expires=1763567100&signature=1a7511444077bfc5f2fff50d1b5f4c7844a285f9dc089a17a792c201789d2261&req=dSYvH8x4molXWvMW1HO4zRInvJkhGkxvbT3xMiqURvPl4VPMBtK398tPvjnx%0AuyomtKHE0iEqTNFkZao%3D%0A
+
+- Navigate to your Thumbtack inbox by going to Inbox > Job inbox > Thumbtack, then click Setup.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1689568948/613e24fc3c57bcf5ff77eda9869f/bb9389ad-d32b-4421-96a2-0d9d68d3769c?expires=1763567100&signature=b3e06dc9a75491baa2c2415eec117556be20603610e07bbab973de76edb893b0&req=dSYvH8x4lYhbUfMW1HO4zdmHskhaH4SaVNBCorTTQdNeJPh%2B3J6eVdJeqALN%0AuZHJN11BgGNHYhnAO0c%3D%0A
+
+- You'll be redirected to Thumbtack's website to authenticate your account securely.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1689569628/df022f391ece3da4cb0335836d3b/3495d8e1-ac7a-4ed5-97dd-9701b371c931?expires=1763567100&signature=a9580da5e75f27a8d5f964124b401b83c287a6fa59108cfdaa5f3b042128e8bc&req=dSYvH8x4lIddUfMW1HO4zR%2BgRQewaQOVVvmbiP92H4sMPLXpB2f38zsKYCwI%0AijBjsJd6ynX8JURUxNk%3D%0A
+
+---
+
+Getting Thumbtack Leads in Job Inbox
+
+Once the integration is set up, all new leads from Thumbtack will now be automatically created as leads in your Housecall Pro account, and you'll be notified of each one by a message in your Job inbox.
+
+---

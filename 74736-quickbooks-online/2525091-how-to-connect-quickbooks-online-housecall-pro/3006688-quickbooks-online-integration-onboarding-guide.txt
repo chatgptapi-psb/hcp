@@ -1,0 +1,233 @@
+QuickBooks Online: Integration Onboarding Guide
+Source: https://help.housecallpro.com/en/articles/3006688-quickbooks-online-integration-onboarding-guide
+Author: Nate H
+Last updated: Updated over a year ago
+
+Summary: Learn what steps you need to take before connecting your HCP & QBO accounts, how to set up the integration, and how to import your data.
+
+Setting Up the QuickBooks Online Integration
+
+When you're ready to use Housecall Pro with QuickBooks Online, follow the steps in this Help Article to connect the two accounts.
+
+If you do not have a QuickBooks Online account or subscription, you will first need to sign up for QuickBooks Online and choose a plan.
+
+Housecall Pro customers receive special pricing options for new QuickBooks Online subscriptions. The offer terms per Intuit QuickBooks are:
+
+- "Free trial for 30 days: To be eligible for this offer you must sign up for the free trial plan using the 'Try it free' option. First thirty (30) days of subscription to QuickBooks Online starting from the date of enrollment is free. To continue using QuickBooks Online after your 30-day trial, you'll be asked to present a valid credit card for authorization, and you'll be charged the then current fee for the service(s) you've selected."
+
+Housecall Pro integrates with three QuickBooks Online plans:
+
+- Essentials
+- Plus
+- Advanced
+​
+
+---
+
+How to Connect QuickBooks Online and Housecall Pro
+
+To connect your QuickBooks Online account to Housecall Pro:
+
+- Click on the 'My Apps' icon (3x3 square) in the top right corner of your Housecall Pro navigation bar, then click the 'Go to App store' button. ​
+
+[Image] https://downloads.intercomcdn.com/i/o/1169149909/203f6d5327c80d4d177d4514/MyApps-GotoAppStore.png?expires=1763568000&signature=93c496350973849b0b18fb6db36a0c478505813eecd824e68e028986773429ae&req=dSEhH8h6lIhfUPMW1HO4zf9OIssO5v0mh4oBh0iXd4zx0X0FmYH6jGOUCVr3%0AHla3rn3yu6m%2BxSm%2BJnI%3D%0A
+
+- Use the search bar and search "QuickBooks Online" or scroll down on the App Store page. Then, click on the QuickBooks Online app.​
+
+- Next, click the blue 'Connect To QuickBooks' button in the top right corner of the QuickBooks Online app page.
+- You will then be taken to the QuickBooks Online app page to connect your QuickBooks Online account.
+
+[Image] https://downloads.intercomcdn.com/i/o/1169155889/6fe90e266e8dc51335b0c7b5/QBOAppStore.gif?expires=1763568000&signature=aabbd7c189a188e92bd15fa2d268a49bab5e7d0aa4133c7e7c6bb3609b9c2f0e&req=dSEhH8h7mIlXUPMW1HO4zaVSPiZEXHVrTgt2O8F9g1L%2BhFGMyyybBWxOqyj0%0A2lQczixmFvqm9P2MqSg%3D%0A
+
+- From here, click on the green 'Connect to QuickBooks' button in the bottom right corner of the QuickBooks Online app page.
+
+[Image] https://downloads.intercomcdn.com/i/o/1169166080/532b84cc03d7a5ff3860bd58/GreenConnecttoQB.png?expires=1763568000&signature=72ad6895ba649bf9f9dcf4f8961e5e9356f80acd684fbbdabe9f9f1b4a030ba6&req=dSEhH8h4m4FXWfMW1HO4zckP7AFswcNTlXDkGjfxvAd7DszFp5eictxFPUO8%0AcoIFBtXkpB4SDIcwCj8%3D%0A
+
+- You will then be taken to the Intuit QuickBooks Online Sign-in page to log into your QuickBooks Online account.
+
+[Image] https://downloads.intercomcdn.com/i/o/1170040755/30d6a077c57a042d81dc7258/Screenshot+2024-09-05+at+11_28_27%E2%80%AFAM+1.png?expires=1763568000&signature=ec094daa17b0d8d7e1a4d393709b982342fe605240b9199542652e07fa3d995b&req=dSEgFsl6nYZaXPMW1HO4zfHjdP5rBWp7Ef870gF2bXf9dNCZZNmaQ4WDiFEn%0AAilISWBUxeQ%2BIffkfgI%3D%0A
+
+- After signing into your QBO account, you will be redirected to your Housecall Pro account to continue setting up the QuickBooks Online integration. 
+​
+- The page should show that Housecall Pro and QuickBooks Online are now connected and will also give you the option to import your QuickBooks Online data to your Housecall Pro account. 
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/1170381942/eb72595b0d424741792e0ba9/QBOConnected.png?expires=1763568000&signature=d18903af1fa8dae48c29732715c7778598b801697d4d378da822a7fdebc1a5cc&req=dSEgFsp2nIhbW%2FMW1HO4zREtF7%2F2ggNga9Cfr5n7a5r4GiopR%2BVyOK%2BjOCm6%0AjGqOPyX7fD8AGw1qVOA%3D%0A
+
+---
+
+Importing your QuickBooks Online Data to Housecall Pro
+
+After successfully connecting Housecall Pro to QuickBooks Online, you will have the option to import your data from QuickBooks Online to Housecall Pro.
+
+Benefits of Importing Your Data from QuickBooks Online to HCP:
+
+- Save time from manually entering previous Customers, Price Book items, Invoices, and Tax Rates.
+- Get started using Housecall Pro faster.
+- Historical invoices from QuickBooks Online are easily available in HCP.
+
+Housecall Pro imports the following data from QuickBooks Online:
+
+- Customers
+- Tax rates
+- Invoices
+- Products
+- Services
+- Income Accounts
+- Classes (as Business Units in HCP - Classes must be enabled in QBO) 
+​
+
+---
+
+Prepare Your QuickBooks Online Customer Data for Housecall Pro
+
+Before you connect your Housecall Pro and QuickBooks Online accounts, you'll want to clean up any of your current Quickbooks Online data. This will assist with avoiding any issues during the import if you choose to import during the integration set-up process.
+
+The Customer Information fields that will be imported over to Housecall Pro include:
+
+- First name
+- Last name
+- Email
+- Company
+- Phone
+- Billing address
+
+[Image] https://downloads.intercomcdn.com/i/o/39345974/6ea0da43b9742c4b38bb98e7/57a4bd8b306da_how-it-looks-in-qbo-1.png?expires=1763568000&signature=a086c0e6938b9de0ca68a7cab83a983769570f3231d7fd413136297761e3aa8c&req=dykkEsx3moUTWLcX3D%2B5hkJAm6BjOzmQ%2FaXJOMCEaxPUCyu8iJpBvqOnNivi%0AFJIv%2F%2By0cApyWlgc%0A
+
+---
+
+How to Organize Customers in QuickBooks Online
+
+One of the most common reasons that all data is not imported into Housecall Pro is because of the way customers are organized in QuickBooks.
+
+- Housecall Pro will only import Parent (1st-level) customers and (2nd-level) Sub-customers from QuickBooks Online.
+
+- 3rd-level sub-customers and beyond (and any invoices associated with them) will not be imported to Housecall Pro.
+
+To ensure all of your QuickBooks data is imported, you'll need to move any 3nd-level customers (and beyond) to either the Parent customer or Sub-customer levels.
+
+To organize customers in QuickBooks Online:
+
+- In your QuickBooks Online account, select 'Sales' from the navigation menu on the left, then click on the 'Customers' tab. 
+​
+- Identify any 3rd-level sub-customers (and beyond) and click on those Customer profiles.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/428156658/1521e7ecb62d2ca2382a5209/Ky40aBQs9QPKLTRLAivmNonY2n_XJ5QJ9k8U6KT6vnsXtZE8SdB2KnsgQy9k-anHfZHGDGxiYadmN1jAWozypaYDmSxNXVnN8p7w5nyTsxYsVLqHi-OxXOcf_N6L4JDY166ykcJu?expires=1763568000&signature=ec4ca41dee55c07e1d6de4b8e07e6b9e1b85c9d120c2804eb04786d3af783878&req=cCIvF8x4m4RXFb4f3HP0gLm7mEY7dhJhQpXBID5IO5Niuez2CRkyZxJPkZBp%0AdAHVWoRkyyee5rZbQQ%3D%3D%0A
+
+- In the "Customer Information" window: 
+​ - Uncheck the “Is sub-customer” checkbox if you would like to make the Sub-customer a Parent customer. 
+​
+- If you would like the customer to remain a Sub-customer, select the appropriate Parent customer from the drop-down menu under the "Is sub-customer" checkbox. 
+​
+- Save any changes before closing out of the window. 
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/428163883/21339835e5ebc3767ed312ad/image.png?expires=1763568000&signature=60b16e5a91c5bec64fe41f718fbe967171e5434a14d7979c14b9279a042c15dc&req=cCIvF899lYlcFb4f3HP0gI1bcUng9c%2Flm%2Fez9Z%2BPaxpwROdapCMai24IRayJ%0ApAKoJ%2B2uHckkt257GQ%3D%3D%0A
+
+- Once your data is cleaned up and the customer information in Quickbooks Online matches the fields that get imported into Housecall Pro, you'll be ready to import your data when prompted during the QuickBooks Online integration set-up process.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/428156673/9619b2296534ff506dba83c5/VDZykQnY7Cib97HVG1wlcYTlZ_iYBUasGYi7aBwcmrA6vfEzAeQHqyjEzrGaGjAGZ-HLzNinq8WP8p9USDlJUJg_VqRlpXviOGQ31yRVQebY5_JtDJgjq-KcY-mqCYoLSBq6iCLU?expires=1763568000&signature=0451cca483bde476e86b46dbe2bb53651ff0a164425722a4d98fd476e1ffb487&req=cCIvF8x4m4ZcFb4f3HP0gPO47XDG1Br6%2F%2Fl5TjcrjbI%2BAmEiSVRm%2F2I9Ppmj%0ADz6wIz4AEigrX4VUtQ%3D%3D%0A
+
+---
+
+How to Import Your QuickBooks Online Data to HCP
+
+To import QuickBooks Online Data to Housecall Pro:
+
+- Click the blue 'Import' button in the bottom right corner of the "Housecall Pro and QuickBooks Online are now connected" page in your Housecall Pro account. 
+​ - If you'd like to skip the import, click the 'Skip' button instead. ​
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/1170454988/eb848193f33f173a3cb9e168/Housecall-Pro+-+2024-09-05T154919_585.png?expires=1763568000&signature=6188e4f02933a240a85e6e80dc072bdf613136d2b4d3c73de8395a587160a665&req=dSEgFs17mYhXUfMW1HO4zaC5zTFcvEyGnaHzjqh9sEonGjZep9Ln1pNyzaN%2F%0AVbSnZgLSvcDL%2BX4AimQ%3D%0A
+
+- The next screen asks if you would like to import your data from all time or from a specific start date.
+
+[Image] https://downloads.intercomcdn.com/i/o/1170454782/4a572bacb0f0b32e190d4a3d/ImportAllTime.png?expires=1763568000&signature=efc648c27308abc60e77662c277f716152d3b11fa2e89ce879ac9ccee2345274&req=dSEgFs17mYZXW%2FMW1HO4zX2Nl1MnRpzt4keX8KdHeWmBhvDnHJMZSC5cp873%0Abu3xVtycio%2Fxn6YJDKo%3D%0A
+
+- Selecting the 'All time' option will import data from the date that your QuickBooks Online account was created.
+
+- Selecting the 'Specific start date' option will import your data from the selected start date to the day you start the import. You'll also be able to import more data at a later date.
+​ - You can type in the date in the "Enter a start date" box, or click on the calendar icon to select a date.
+
+[Image] https://downloads.intercomcdn.com/i/o/1170399684/4d8238571326a45f35ced966/ImportSpecificDate.png?expires=1763568000&signature=2db5d59c1fbcb9176fd2a6a9c067a35d4301744e91400d142e4d5ec574f84109&req=dSEgFsp3lIdXXfMW1HO4zV5e%2BThxFAhFI5sq1qHqCAPYTz5gjgoLl%2BinXSDI%0AX%2BeM6OUd%2Foppk53hS94%3D%0A
+
+- Once you've selected an option, click on the blue 'Next' button in the bottom right corner of the page to proceed. 
+​ - If you selected the 'Specific start date' option, but the 'Next' button is greyed out/not clickable, ensure that a start date has been selected.
+
+[Image] https://downloads.intercomcdn.com/i/o/1170404672/0263790ca7033e856f5004b5/ImportNext1.png?expires=1763568000&signature=7296417d6be8308d9c47fdc66355fce993c7ffad01bcea67ac8c6a4b0ec14e97&req=dSEgFs1%2BmYdYW%2FMW1HO4zaxooVwKwtdXOcd3ghiHejWYiByIjJkwPLSK0vPj%0AI%2BebGCGg8wAzXg4iyQc%3D%0A
+
+- On the "Import Options" page, you're asked how your customers are structured in QuickBooks Online.
+
+[Image] https://downloads.intercomcdn.com/i/o/1171434319/614803d37874713d45f09825/ImportCustomers1.png?expires=1763568000&signature=330e628d658d62c5f5dc5d9562210a4c847fd2830f2fdcfd6c63cd16b1b1e102&req=dSEgF819mYJeUPMW1HO4zdwui3n0JS3yO83ka2P259mDNu2tAVGRrtn6Si03%0AAr5zjtslLL5Am7pnVtk%3D%0A
+
+- We ask this because:
+​ - Housecall Pro supports customer/sub-customer (Parent/Child customer) relationship data. We do not support Parent/Child/Grandchild hierarchies.
+​
+- If you have customers at the 3rd level or higher, you will need to update their profiles to be Parent Customer and Sub-Customer profiles.
+​
+
+- After organizing your customers in QuickBooks Online, click on the blue 'Begin Import' button to start importing your data from QuickBooks Online to Housecall Pro.
+
+[Image] https://downloads.intercomcdn.com/i/o/1170459158/24b53b5e2e601f60afc6ca53/QBOBeginImportButton.png?expires=1763568000&signature=0f7c118da2e3f9e6d8690e1e59be72a7d3ba45ee6f32c98f3f5a171271f970d7&req=dSEgFs17lIBaUfMW1HO4zeGh%2FSXqkyuSZs4RmMmKzl0lXvyzzgfls6eBnLSt%0Ag6KZL8QFJHvmnuZaV30%3D%0A
+
+- The next page will show that your import has begun. Depending on the amount of data imported, this process can take a few minutes to a few hours.
+
+- Click the 'Finish' button to be taken to the QuickBooks Online Settings page, where you can review the status of your import.
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/1170439920/1d3daace7edbd94647c5522e/QBOFinishImport.png?expires=1763568000&signature=82a9a0238b51b534d6b1cfb47f29f22f4bb4212c38fbaa96546f1b0441ae5614&req=dSEgFs19lIhdWfMW1HO4zTOxjpWwC3oYwHbPEQvxpeYTBqUisnIxDlWVxk5Y%0A696K9wfRvszuFlUq1AM%3D%0A
+
+​
+
+---
+
+After Connecting the QuickBooks Online Integration
+
+After finishing the QuickBooks Online integration setup, you'll be able to view your QBO account details and check the integration status in Housecall Pro. You can also see the totals for invoices, customers, and other data that have been imported, as well as review any alerts regarding issues with invoices or jobs during the import process.
+
+---
+
+Video Tutorials
+
+Why Housecall Pro and QuickBooks Online have integrated
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/v6391cz8f6
+
+Setting Up the QuickBooks Online Integration in Housecall Pro
+
+[Video - youtube] https://www.youtube.com/watch?v=VP-9ajgaqx0
+
+Importing Your Data from QuickBooks Online into Housecall Pro
+
+[Video - youtube] https://www.youtube.com/watch?v=0EV_gKIXqkA
+
+What to expect from the integration moving forward
+
+[Video - youtube] https://www.youtube.com/watch?v=tw3Z-SS1oDk
+
+Managing the Housecall Pro and QuickBooks Online Integration
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/oev6bvqfjw
+
+---
+
+Contact Quickbooks Online Customer Support
+
+QuickBooks Online Customer Support is an amazing resource for learning how to complete tasks such as:
+
+- Matching payments
+- Creating journal entries
+- Manually reconciling payments in QuickBooks Online.
+
+If you're in need of QuickBooks Online support, we highly recommend visiting QuickBooks Online's customer support page:
+
+- Simply click 'Help' in the upper right corner of your QuickBooks Online Dashboard.
+- Type keywords into the search bar OR click 'Contact Us' to start a chat.
+
+[Image] https://downloads.intercomcdn.com/i/o/126250084/86d9bf09f06872fffc523c7c/Screen_Shot_2019-06-06_at_12_33_07_PM.png?expires=1763568000&signature=77b62c6b087a5331bf907465b60235b9bc0f7d084d40471c5954728823cba16c&req=dSIhFMx%2BnYlbFb4f3HP0gG8IcuCRDmi7AANSx3Znp0F5cbuikCvr5ApR9BvB%0AKk2yrf7Vtm4Hh30TMg%3D%3D%0A
+
+---
+
+---
+
+Learn more about how Housecall Pro easily integrates with your QuickBooks Online account.

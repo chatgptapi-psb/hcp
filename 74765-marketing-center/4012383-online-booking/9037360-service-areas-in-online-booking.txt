@@ -1,0 +1,79 @@
+Service Areas in Online Booking
+Source: https://help.housecallpro.com/en/articles/9037360-service-areas-in-online-booking
+Author: Kasia S
+Last updated: Updated over a month ago
+
+Summary: Define the zip codes you serve to only get bookings from customers within your service area
+
+Housecall Pro Blueprint to Success Workshop
+
+If you're looking for more advice on how to effectively use Online Booking, along with other great features, register for the Housecall Pro Blueprint to Success Workshop!
+
+[Button] Register Here -> https://docs.google.com/forms/d/e/1FAIpQLScM2b6NgGEvrjkOFAZPunvol2CoR4FIIFiVgR7DmTRqgd3gQg/viewform?usp=pp_url&entry.1047718727=HCP+Help+Article
+
+---
+
+---
+
+Enabling Service Area for Online Booking
+
+Tired of getting bookings in areas that you don't serve? Our new Online Booking Tool allows you to define your Service Area zip codes.
+
+By enabling Service Area, the booking flow will ask your customers to provide their zip codes to ensure they're in an area you service!
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1515141982/7ede92571b7aeb619c3465a73792/AD_4nXcNJ1ZkkN90kbW-dHHQIGeUQjFKtmfdsUvyxdSPdHszJvlvxxkv4i7gGnGTIpmX7e3u1yLstN6XSRCOz6Lf396aqkfevG1ZDVLzZFT8tjtMFnASIHF2CaeS2xMbeGG73-f1oW2pRg?expires=1763568000&signature=7e2dd503a8ea6b06f4b1b3f251e75955925ace5072dc991924187a4062315b55&req=dSUmE8h6nIhXW%2FMW1HO4zeKvNueFYJa%2BKIqTGSAi%2BOf%2FLsZBKGGdL8XhPhMU%0ABPG1UmX%2Bq61JTGVynF8%3D%0A
+
+---
+
+Set your Service Area
+
+To set your service area, follow the steps below:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Company from the Settings menu on the left.
+
+- Click the Service area tab in the Company settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1645700690/a5370d79b6e905457f142c4cfb44/image.png?expires=1763568000&signature=06844ad07f22e2ff8e1d08babb40638eff3d4314e1a702dbf5e73fef3c067d05&req=dSYjE85%2BnYdWWfMW1HO4zWn%2BAej45SGkqR16XSw6TCYax95%2FSDSnSCHc3p8d%0AXRNwjmarp56Df%2B0abtE%3D%0A
+
+- Under Service Area, add one or more zip codes that define the area where you operate.
+
+- After typing the zip code you wish to use, press Enter on the keyboard to save.
+
+---
+
+Enable Your Service Area for Online Booking
+
+To enable your service area for Online Booking, follow the steps below:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Booking from the Settings menu on the left.
+
+- Click the General tab in the Booking settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1644112026/00040dbfad48ef6d5c65e989e352/image.png?expires=1763568000&signature=6d23f8dcb230e0d5149ea5fe58269aa6ca2f4c5125ead7ebfbd9f2f07a919819&req=dSYjEsh%2Fn4FdX%2FMW1HO4zbpIgiD5y3QINSOZ3B09TlB1%2FhWHFw99TtDXcfTz%0A%2Bk5N9J5HdK4C4GvJmHU%3D%0A
+
+- Under Online Booking's Service Area, you'll find a toggle button that states "Only allow customers within your Service Area to book a service."
+
+- Click the toggle next to Only allow customers within your Service Area to book a service. The toggle will turn blue when the setting is enabled.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1644124185/765e9fbe126145c5c7a1ba310ee1/image.png?expires=1763568000&signature=e548196779fe6e3b453c41da29bf3da50fba15818d6ff7107542a71b6e37be14&req=dSYjEsh8mYBXXPMW1HO4zUuB%2FOd2UwK%2F6p3UJnpkf4Nvffy7LQkRLqHoi7E0%0A1pg8Cu1cm%2B2rsDjC0jU%3D%0A
+
+---
+
+Service Area in the Customer's Booking Flow
+
+Once the Service Area is configured and enabled for online booking, an additional step is added to the booking flow, where the customer is asked to provide their zip code.
+
+- If the Zip code matches your Service Area, the Customer will be allowed to book.
+
+- If the Zip code does not match your Service Area, the customer will see a message saying "We're sorry we currently don't operate in [zip code], if you have any questions, please call: [phone number on your company profile]."
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/983420002/6c0fdc4b4831f2eda67d28d4/image.png?expires=1763568000&signature=eb0e226dd1f6471495d3bd143ad5c19029fb8e12f83c35959e60829cde73d17c&req=fSgkEst%2BnYFdFb4f3HP0gDzfSnsDPyHa38FTq0rV403jiNOD3NK37INOtqdO%0ASFNQfobJFNsI9EYjuw%3D%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/983421348/840dd03aae8ace64f6bb9ed6/image.png?expires=1763568000&signature=3438d351e6cd3cbe20be3d7df2f12b3d16e03635c5e9a18478d5c62ed9074e3f&req=fSgkEst%2FnoVXFb4f3HP0gOBU%2FwLfrtFh%2FQFIVc7A56ZMJOIQv6t8qN2FAqZk%0AJCO7v9jAT8vQ21Kj%2BA%3D%3D%0A
+
+---

@@ -1,0 +1,28 @@
+Company Profile: Update Business Information
+Source: https://help.housecallpro.com/en/articles/12703467-company-profile-update-business-information
+Author: Nate H
+Last updated: Updated over 2 weeks ago
+
+Update Your Business Info in Housecall Pro
+
+To update your business information in Housecall Pro via the web portal:
+
+- Access Settings by clicking the gear ⚙️ in the top right corner of your screen.
+
+- Select Company from the Settings menu on the left and ensure the Profile tab is selected at the top of the page.
+
+- Click Edit to the right of the Business information section.
+
+- You can then update the following information as needed: - Business name
+- Address
+- Time zone
+- Business phone
+- Support email
+- Website
+- Legal entity name
+- Industry
+- License number
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1805484227/f578b7c0ebe41aa83f97ff3bcc69/Screenshot+2025-10-30+at+3_37_26%E2%80%AFPM.png?expires=1763567100&signature=69cc3c0c1a253433be8d381dc6210493c83bd6d6a8ae79e23c26e6839dd1ffec&req=dSgnE812mYNdXvMW1HO4zbHgmGSEQWCAh9aSYmTC4cloROegJxqYlLod5HRc%0AyIOs6gW1U7MbORtuMZ4%3D%0A
+
+---

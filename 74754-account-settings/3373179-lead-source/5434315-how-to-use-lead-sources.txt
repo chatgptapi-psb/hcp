@@ -1,0 +1,239 @@
+How to Use Lead Sources
+Source: https://help.housecallpro.com/en/articles/5434315-how-to-use-lead-sources
+Author: Roland Ligtenberg
+Last updated: Updated over a month ago
+
+Summary: Learn how to use our Lead Source field
+
+Lead Source Overview
+
+Our Lead Source field allows you to track where your customers found your business without having to use tags.
+
+Lead source tracking enables better reporting so that you can make smart marketing decisions by investing in the sources that bring you good jobs. Leads can be tracked on customers, jobs, and estimates.
+
+---
+
+---
+
+Create a Lead Source
+
+To create a Lead Source:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Lead Sources from the left menu, under Tags & Tools.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1683491632/e0510168bf17382467565c465de4/image.png?expires=1763567100&signature=e22e8178d7197f5eda3b60481369aa836718610d0cc66b8e29eda6dc0bf15547&req=dSYvFc13nIdcW%2FMW1HO4zWecc7zutWpCXUwOij4VVEwhxdaY%2B5H8VvmVuaaJ%0AH3lpVbbQLW9EDy7%2BiiM%3D%0A
+
+- Click the + LEAD SOURCE button at the top of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1623350309/1dceb5f716897432a92f4f56ef0c/image.png?expires=1763567100&signature=dd84c0e2e71681c4121f12282661c3a968df39750b4d955ee39cc01b3152fdc8&req=dSYlFcp7nYJfUPMW1HO4zQX52TDIfH8Z097qUtVgc56CdgTB3DRd0Lk0dksg%0Ab5rj6PeemmgosQIRt2s%3D%0A
+
+- Enter the lead source name and click CREATE.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1326814272/09808f2551d33c77a82b33e91a9d/Screenshot+2025-01-08+at+5_25_19%E2%80%AFPM.png?expires=1763567100&signature=0a0c95445c700c374053136e0e467bd0d8c64e7ccce7d6c38423b2b6032ab42c&req=dSMlEMF%2FmYNYW%2FMW1HO4zZuMzT0naf62jLWjJjZol4r4IBn1I4YfJ9mKWapP%0A6u31kDbr1pz3lSiNZBQ%3D%0A
+
+Table:
+Row 1: 📌 Note: We add system lead sources to your list of lead sources by default.
+Row 2: 🔎 For more information on those lead sources, please see Auto-Tagging with System Lead Sources.
+
+---
+
+---
+
+Edit or Delete a Lead Source
+
+To edit or delete a Lead Source:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Lead Sources from the left menu, under Tags & Tools.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1683492974/35c4d8589f1ed7b1758c14e2beb7/image.png?expires=1763567100&signature=4e6e08914a6102c2924220433f9dc194d9c6362ee8d4c7dae930db3c2e07f4d1&req=dSYvFc13n4hYXfMW1HO4zQOEKAX6qmBlPCM7igCixQ4%2F54n%2BteDsHHZGIjFr%0AxU9uTRge4q%2BK8B6c8WQ%3D%0A
+
+- Select a Lead source from your list.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1623361739/5ce4e909020de489076109b55298/image.png?expires=1763567100&signature=0a3f620e9b39d8df6917ff4e3ca897c26ef6a7edc97f004797b3395c5e88d642&req=dSYlFcp4nIZcUPMW1HO4zURxz5%2FufbNhJl5q2r1KBwL4lZEFVRAEVWvmkOhg%0AaFdXUTkDGa3Xb3geF%2BI%3D%0A
+
+- To edit the lead source: - Edit the lead source name. 
+- Click SAVE.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1326808091/a04aedfee4a1fabfd8cf08bfa363/LeadSource4.png?expires=1763567100&signature=ad4a58586d7ec29447a184086798f8ae3221b75553b18be2d4222fec68f207e8&req=dSMlEMF%2BlYFWWPMW1HO4zZIsUcGfxbU2c7AgOcIReucdmrlNBEF%2BgcUrwU0h%0AQvyyFzwwgibilE%2BcWAI%3D%0A
+
+- To delete the lead source: - Click DELETE, and a confirmation window will appear. 
+- Click DELETE once more, and the lead source will be removed.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1326808516/25c0e2162a2ff88467ad8c94e4c0/LeadSource5.png?expires=1763567100&signature=eaa985e2a9fa3de26cd62b641c8f738553009f9d9016cb9b41c6baaa7873a54b&req=dSMlEMF%2BlYReX%2FMW1HO4zTH4M3POqKie8LqZB0n9u8bB7I97at3GOSMau0qu%0A%2BplB15GcLppKapbY1%2FA%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1326808608/ab99c146051aaaa0681b298210ba/LeadSource6.png?expires=1763567100&signature=f0cf6715df04e399de5bd021fc562524b8582ea843e3869c151daccad2795a70&req=dSMlEMF%2BlYdfUfMW1HO4zWYU%2Ffe%2BT7R1%2F8Av6rgKKwosaSqS8qDAPrMqocGe%0A40POwZ4VByz71StvdPc%3D%0A
+
+---
+
+---
+
+Adding Lead Sources
+
+Lead sources can be assigned to customers, jobs, and estimates, allowing you to easily track where each lead originated.
+
+Additionally, you have the flexibility to bulk-add lead sources, streamlining the process and ensuring that your lead data is efficiently categorized across multiple records at once.
+
+---
+
+Add a Lead Source to a Customer Profile
+
+To add a Lead Source to a new Customer Profile:
+
+- When creating a new customer, you will see a field to add a lead source in the bottom right corner of the Notes section.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1326846734/84065ea73776fb5895515ca6ecd4/LeadSource10.png?expires=1763567100&signature=af16033b8bb27ab76a7f58b59273044419b1615aeb322a27ce28d1b5d4cf07e9&req=dSMlEMF6m4ZcXfMW1HO4zX7UZoJ1xFlbmKlm3xukzTLVjU%2BDaLFmzCE%2BeiWk%0AtwT5Gh1RMAO7MjitkkE%3D%0A
+
+To add a lead source to an existing Customer Profile:
+
+- Open a Customer Profile and ensure that you're on the Profile tab.
+
+- Scroll down and click the Lead source option on the left.
+
+- Use the Lead source field to select a lead source from your list.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1328144770/e6a4e64ae29f9685c914184230cc/LeadSourceCustomerProfile.gif?expires=1763567100&signature=39ec4cbb6a6b75403ca80036a0122097500e1dd42a78d5fe62d675e835d9aaf9&req=dSMlHsh6mYZYWfMW1HO4zX3dkPDi6TJCmW5ys8nSzLP0yfqPomVOVMyFFvRH%0Af0vpja8kVvpm%2BsG2fj8%3D%0A
+
+---
+
+Add a Lead source to a New Job or Estimate
+
+- When creating a new Job or Estimate, the Lead source option is located on the left, toward the bottom of the page, located under Attachments.
+
+[Image] https://downloads.intercomcdn.com/i/o/561128936/cfbb24c06ff6f4e0c791f473/image.png?expires=1763567100&signature=b9bb09ed9acdaa24375b0795cc5fb2e4fec0456e894d2755df09eefd9a80944e&req=cSYmF8t2lIJZFb4f3HP0gGncgIqMy2Qqv2IFCBHOq2OIkyBWERVcppJz5F%2Fs%0AYv6TXdlc4zdXT3FgPQ%3D%3D%0A
+
+---
+
+Add a Lead source to an existing Job or Estimate
+
+- Navigate to the Job or Estimate details Page.
+
+- Scroll down to the left-hand side and click the Lead source + button.
+
+- Type the lead source name, then select it from the matching options in your lead source list.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1328191330/9b63de914ae912a2b4f2cf04fe6a/Housecall-Pro-01-09-2025_01_24_PM.png?expires=1763567100&signature=573cd9c4f9e94569e401134558fb0ab4c64199361d6f0b76776735190d627ef1&req=dSMlHsh3nIJcWfMW1HO4zTDg2d8X8KY7e5GLOqLeQwkp%2Bda7WFiDCjYwtVND%0AGEqJcne2P47qBxP48eU%3D%0A
+
+---
+
+Bulk Add Lead Sources to Customers
+
+On the Customers tab, you can select multiple customers and bulk-add lead sources to those customers:
+
+- Navigate to the Customers tab.
+
+- Select the customers to add a lead source to by using the checkboxes on the left.
+
+- Click the Bulk Actions button in the top right corner of the page.
+
+- Select "Add lead source" from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1328207137/a08c81b71fc5f34c7defaf98cbf0/BulkLeadSource.png?expires=1763567100&signature=6797b230c7514f0ee82a110474c0f28e98a272dec9cd0dcc27d9ba1e1f9b6033&req=dSMlHst%2BmoBcXvMW1HO4zdJfbeOqluMFPZPCl7IZKc3UUxu5mNOkVxWde%2FCo%0AsQJ3w6qYtvNMoCAOd%2B4%3D%0A
+
+- Click into the Lead source field and choose a lead source from your list.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1328213742/e18264431ea939bd77b9df49a7be/Screenshot+2025-01-09+at+1_40_19%E2%80%AFPM.png?expires=1763567100&signature=158a5f8a1282b60f5f31d75a5063787a9b6724d65ce40302d4f55a7ea9e0aa3d&req=dSMlHst%2FnoZbW%2FMW1HO4zZqaj9qvR2O57FvUOg4wj6lkfxXCuKfeeDnV2znX%0AXcpVSuMAaCinV6x7lcI%3D%0A
+
+- Click Update, and all of the selected customers will now have the updated Lead source.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1328213997/e921c72724da6d8606ac09dda0c5/Screenshot+2025-01-09+at+1_40_54%E2%80%AFPM.png?expires=1763567100&signature=708bc5e56ed5a5e8c2b8ccf23195b8ec7a5a3f66f17489ea4113313047f0954b&req=dSMlHst%2FnohWXvMW1HO4zezCXqYgPPSyxwevO4U7oT2CSH7Yf%2BumnfmRUIoM%0A7PtOKp20RA5T3oj3i8g%3D%0A
+
+---
+
+Bulk Add Lead Sources to Jobs & Estimates
+
+On the Jobs & Estimates tab in a customer profile, you can select multiple jobs or estimates and bulk-add lead sources to those jobs or estimates:
+
+- Navigate to the Customers tab and select a Customer Profile.
+
+- Toggle to the Estimates or Jobs tabs.
+
+- Select the jobs or estimates to add a lead source to.
+
+[Image] https://downloads.intercomcdn.com/i/o/599480103/46a867775528e2e01a44b9ae/image.png?expires=1763567100&signature=a28d064797adbf9d30226d4d795bcd85aa5bf990078d4e70efd5d3622befd031&req=cSkuEsF%2BnIFcFb4f3HP0gK7YAVMdxDYMHASnlEx%2FMsI95D46yT%2FAEkbdB1%2F4%0ASsSFncpGWQOKU%2BuFBA%3D%3D%0A
+
+- Click the Batch lead source icon on the right (you may need to scroll if the icon isn't visible).
+
+[Image] https://downloads.intercomcdn.com/i/o/599480616/fda20fdab1f5d072d7783897/image.png?expires=1763567100&signature=1127f53fa23d190b1b2997bb541dcb61161394b5ab8b758d3e59ae4114663b26&req=cSkuEsF%2Bm4BZFb4f3HP0gBihHF9emJFc8hVfKCP6OJ3Jdp5wqoHaTpS6XOCU%0AdIutNXWtozMj7k7k8w%3D%3D%0A
+
+- Choose a Lead source from the dropdown.
+
+- Click Update.
+
+[Image] https://downloads.intercomcdn.com/i/o/599482020/e184a7580d42c69da7b64cda/image.png?expires=1763567100&signature=95b81627ba58dcc75ab5040e1a8627142e992c102512f3bb2fa567996932b3f4&req=cSkuEsF8nYNfFb4f3HP0gB1YZxyW%2BhIPxRDPkQPP9YEPoMzPVEVmo%2BR5Ez7T%0AJiB%2BE%2FEIi3qH%2FC8vCA%3D%3D%0A
+
+---
+
+---
+
+Auto-Tagging with System Lead Sources
+
+In some scenarios, we will automatically add the lead source if we know where they came from. In these cases, they will be added to a Customer, Job, and/or Estimate. These are known as system Lead sources. Here are the current system lead sources:
+
+Table:
+Row 1: Lead Source Name | Customer | Job or Estimate
+Row 2: Google Reserve | ✅ | ✅
+Row 3: My Website (Online Booking) |  | ✅
+Row 4: Yelp |  | ✅
+Row 5: HouseCall Marketplace |  | ✅
+Row 6: HouseCall App (iOS/Android) |  | ✅
+Row 7: ResponsiBid |  | ✅
+Row 8: OnCallAir |  | ✅
+Row 9: Hippo |  | ✅
+Row 10: HomeServe |  | ✅
+Row 11: HappyCo |  | ✅
+Row 12: Latchel |  | ✅
+Row 13: Lula |  | ✅
+Row 14: Thumbtack |  | ✅
+
+---
+
+---
+
+Reporting on Lead Sources
+
+You can report on lead sources using the filter functionality on the reporting tab. After applying filters, you will be able to view summary metrics for any lead source(s) and drill into job details to see the lead source for each job.
+
+---
+
+Jobs & Customers Lead Source Reports
+
+To report on job & customer lead sources:
+
+- First, click Reporting in the top navigation bar of your HCP account.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1326860749/dd385e1dcf2d49dd7906d57e8926/ReportingTab.png?expires=1763567100&signature=012bd3a7c7bed29ef95991277e64d2434125d27dbb0141d2e230bdbde8603841&req=dSMlEMF4nYZbUPMW1HO4zYdFtQSZaIyclHl2fzDCu%2FIEtZmrWxW98YCGhdSa%0Amqeivkg6SdDQR0TDV5A%3D%0A
+
+- Next, select Jobs from the left-hand menu under the All Reports section.
+
+- Then, choose one of the following reports depending on what you want to see: - For customer lead source data, open the Customer lead source Report under the Customer section.
+- For job lead source data, open the Job lead source Report under the Type section.
+
+- Once in the report, filter as needed.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1326860930/55add439ba99b92215aa906bd949/LeadSourceReporting.png?expires=1763567100&signature=41a37313bbe3c7e0d33e8ab3ffcd012437881f78485967559fe59001b9d686f3&req=dSMlEMF4nYhcWfMW1HO4zS7T%2BiDK9pilM6zsb%2Fuq2%2FV4C6G9hPS0qRfQrjoY%0AY7HLLHl5JiiVnSTytd8%3D%0A
+
+---
+
+Export Lead Source Reports
+
+To export lead source reports:
+
+- Click Reporting in the top navigation bar of your HCP account.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1326866855/5488b22412656dd2100e1a3db510/ReportingTab.png?expires=1763567100&signature=b8647d6954d973785620e0f7e9e6ed3b1ffc424ef5183c13d339d75584af31e4&req=dSMlEMF4m4laXPMW1HO4zW8K3q4Ns8k7l%2F22kBQGlkPKkZg6jQPqw8kWM8tK%0ABEUIV9VnrqYX55GV3Kk%3D%0A
+
+- Select Jobs or Estimates from the menu on the left, depending on the report you need to export.
+
+- Select the lead source report you'd like to export and filter as needed.
+
+- Click EXPORT under the chart, on the right side of the page.
+
+- The report will then be downloaded to your computer.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1326871686/421a4d97a505250a4e16bc654d45/ExportLeadSource.png?expires=1763567100&signature=c3c80189de7f44200cf0dea906f8f4daf27f7ead4368280f082254305064971e&req=dSMlEMF5nIdXX%2FMW1HO4zVCSb2am3k%2BXJJN0ZJgruZrH%2Bfoqoplwv9zsyn4O%0ATbaZWDTSU6T%2FnOcz8K8%3D%0A
+
+---

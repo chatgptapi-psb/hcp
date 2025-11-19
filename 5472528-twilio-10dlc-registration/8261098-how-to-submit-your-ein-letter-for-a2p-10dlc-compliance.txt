@@ -1,0 +1,48 @@
+How to Submit Your EIN Letter for A2P 10DLC Compliance
+Source: https://help.housecallpro.com/en/articles/8261098-how-to-submit-your-ein-letter-for-a2p-10dlc-compliance
+Author: Roland Ligtenberg
+Last updated: Updated over a month ago
+
+Summary: Maxed Retry
+
+Your business must submit its EIN letter to keep full functionality of sending SMS messages through Housecall Pro.
+
+What is A2P 10DLC?
+
+- A2P 10DLC refers to a system in the United States that allows businesses to send Application-to-Person (A2P) type messaging via standard 10-digit long code (10DLC) phone numbers. All companies in the United States that utilize application-to-person messaging (A2P) are required to go through a registration process that verifies their legitimacy. You can read more about A2P 10DLC here.
+
+Why is this happening?
+
+- Your business's registration has reached the maximum number of automated retries and now requires manual intervention to enable the sending of text messages within the United States. At times, third-party vendors responsible for validating submitted business information may request supplementary documentation. We recognize that this could be an inconvenience, but please understand that this requirement is standard within the industry.
+
+How do I resolve this issue?
+
+Uploading your EIN letter to complete the verification is a straightforward process. To submit your EIN letter, you have two options:
+
+- Follow this link OR
+
+- Select "START SUBMISSION" on the banner within your dashboard - Submit your EIN letter
+
+See a walkthrough here.
+
+---
+
+Banner:
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1655119108/df859abd9c7c40d41a2b8587e65e/image.png?expires=1763568000&signature=3aa353d09bb38638394e094f5552913ac0cb869bc1f8b6867a484e44932d80c9&req=dSYiE8h%2FlIBfUfMW1HO4zSq7CkFsXZe3p0oFcVrmMdB7%2BUFKC0AiK0oYbEYJ%0ATaqwmMbvtz6ozWEZ6vs%3D%0A
+
+Submit your EIN letter:
+
+[Image] https://downloads.intercomcdn.com/i/o/813069284/4f2b158adac1379e6d516d20/image_480.png?expires=1763568000&signature=8aad56baa73fa8a9691a66fbc410fda4b66b8758d504b87ccafb32c0c064bb2e&req=fCEkFs93n4lbFb4f3HP0gG75E%2Bi0UR%2F4cwM6Kbmy53tNInB8Xvvi2Cma97zT%0AkRxVX%2FQAoS9x6Vjirg%3D%3D%0A
+
+---
+
+What if I've misplaced or lost my CP 575 Letter?
+
+- In the event that your CP 575 letter has been misplaced or lost, you can request a copy from the IRS. Please visit the IRS’s official website here to initiate the process of obtaining a replacement CP 575 (also known as letter 147C).
+
+Can I upload the 147C letter?
+
+- Certainly, as the IRS does not issue additional CP 575 letters, they will provide you with a copy, known as the letter 147C, upon your request.
+
+---

@@ -1,0 +1,134 @@
+Bluon Integration
+Source: https://help.housecallpro.com/en/articles/11557855-bluon-integration
+Author: Mathew H
+Last updated: Updated over a month ago
+
+Bluon + Housecall Pro
+
+Housecall Pro has partnered with Bluon to help HVAC Pros finish jobs faster in the field! Pros can save time on equipment research by accessing a database of over 20 million models across 200+ brands and getting the correct OEM part numbers, bill of materials (BOM), and other specifications. All it takes is scanning a unit's nameplate or typing in the model number.
+
+With Bluon available in Housecall Pro, Pros can seamlessly add the searched model’s unit info into property profiles for easier documentation without leaving the mobile app.
+
+Pros also get AI-powered support from Bluon’s MasterMechanic, which draws on insights from 135K+ real technician support calls to help them diagnose and troubleshoot with ease - all from any job or estimate in the Housecall Pro mobile app.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1566567851/c6946103d3d5eb75e6e68cb328be/AD_4nXdfA25A2etshFonWBkpr5VoQDbp_xaI4mOfKLgXfw423FfujYMH2j9N65Hy-bQBxrh4UJd6-y7a-1ZgWz5LjCdaha_RitgHH0Qygir9-0IgxasBISRmDhzpVqHN5lBdoyKzDw46Gg?expires=1763567100&signature=353b6d7fefccfd0eacafcc4a96424d7e1cfe21ad521dd647b36f82a4dd0573d9&req=dSUhEMx4molaWPMW1HO4zZB1xIwhQ8LVHR55UeGvbA9SykeC97dWRKbCcZmn%0A6nRW%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1566567850/24492c7bb0b27a4439fdb4d90f4a/AD_4nXeO1M4lZ7sH50nOk8NG7mJHHZf8KZsPYO__h5AYzvkK6mRj7I8gRfAViuebhHemqwcVtSuh2iB6C92KKF93m-gXUVPUlBHxnsGvNFEP6RqAI6MkLUwx5JFzOkyKSPnT9OEd2mSazg?expires=1763567100&signature=ff4d2fca3ab495889a5a7fce6d09f6e90f67a433ec4d0f85de8c9c3d15badd28&req=dSUhEMx4molaWfMW1HO4zdiFYIUlQdXk4sHHnjZWuosGQT%2BUG5F8EUYDwRic%0ApIwG%0A
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1566567854/e93fbca0efb6a1042c54e77770c1/AD_4nXcUowA2qdAIZ50-g6nTbnkCUHVNPyk-6AEfJsXBh92MyMPzj4kSFMoiktlBuXJOozVHQTSvSr9AlkD8EQxoOnPVxQmic2Lb2hCdJo2JL8MMrM1lWKa-mT5eEAkTTVVpbD45gWpc?expires=1763567100&signature=286956ecf77fbfbb5c747417796bc6b2662e2a1232f127ca44666b9fbe349140&req=dSUhEMx4molaXfMW1HO4zdi9Gn8c9Jz4StHlzbJWVAaT8i0moiExnIwvkyod%0AuOCz%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1789413804/fa10149563d117efe6d23778ff01/624b0f44-5c2d-4ae8-87a5-4591d8128264?expires=1763567100&signature=da093d2254b5f5656e95c360234d1d497c111283f386e1e440025a2b57d247b0&req=dScvH81%2FnolfXfMW1HO4zfAY8eFuZEG5NjHsDrEZ3PX2mfdj7MdoLw%2Fzr6mc%0AwR0i%0A
+
+---
+
+What You Can Do
+
+Scan HVAC Units Instantly
+
+Use your phone to scan the nameplate on any HVAC unit or water heater. Bluon auto-identifies the unit and unlocks:
+
+- Model specs and estimated warranty info
+
+- OEM manuals & wiring diagrams
+
+- Part specifications
+
+- Compatible replacement parts
+
+- OEM Part #s, all known replacements (OEM + aftermarket), and part specs
+
+- Troubleshooting support for virtually anything HVAC
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1791297275/3cb455aeb371ec8b2a1f97de5e2c/a949faa5-81c9-4bee-819b-6ac9790678c4?expires=1763567100&signature=e6bf11cf0d3c5aaa5b54b247605f5d8836e5aad3a999856f7b584662cee9a7be&req=dScuF8t3moNYXPMW1HO4zajjhMblcZssAWjFqVCuwg9ORgvLPj1hjwGODw5x%0AYdNM1SWQilcANEaoZUk%3D%0A
+
+Find the Right Parts
+
+Quickly access original part numbers and replacement part options. Save time and avoid callbacks caused by incorrect part orders.
+
+Add equipment data into property profiles with a tap
+
+Seamlessly drop all equipment and part info directly into a customer’s property profile on a job or estimate.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1791298201/1d371e864cf5f4cc875dc91dab65/eb4e100f-20bf-4d7e-ae3c-3ca48bf132f1?expires=1763567100&signature=272e5b18bf6def475f038aee20b8a1e83a4cd564406e981fcfb6b92571a2359c&req=dScuF8t3lYNfWPMW1HO4zWF8tl3Mi%2Bj6PVeLLV3xgolPjtJ1JAtWCBivp23%2F%0ABHngZw4KKFbwcYID4b4%3D%0A
+
+Bluon's AI MasterMechanic
+
+Tap into Bluon's AI assistant, trained on over 135,000 real-world tech support calls. Get troubleshooting guidance, install tips, and even generate professional customer-facing or internal technical job summaries in seconds.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1787295195/adc617a0f0ee71489d3b38dede5f/bluon-feature_flow-3-ai-support_email-hero-450x300+%281%29.gif?expires=1763567100&signature=a2fac8bad49caf81710c46b33db1c91b946088260f4a1cc3912825d5b150278e&req=dScvEct3mIBWXPMW1HO4zX%2FeGRdMlOWZQyMoEZR1TrxnQMLqcbJHuKKYvrWl%0A2rZpQibf4wvELVTlP0E%3D%0A
+
+---
+
+How to Access Bluon
+
+To access Bluon on the HCP mobile app:
+
+- Go to Jobs or Estimates (only on mobile).
+
+- Scroll down and tap on HVAC Tools by Bluon.
+
+- Choose to Scan Nameplate or Search Equipment.
+
+- Once you have found the unit in question, you may add to Property Profile or use MasterMechanic to diagnose and troubleshoot in real time.
+
+- Once added to Property Profile, you can find model info and click View in Bluon to find manuals, compatible replacements, and AI support.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1791301207/82e181a9fc1bd1bf4c536c151f85/ca321b37-f380-4e93-8653-d1b60ff9e929?expires=1763567100&signature=3915bab62cac234c789555f26e9a62da32cdc718bb03ddb3f0e894ae997964c1&req=dScuF8p%2BnINfXvMW1HO4zW%2Bf1KSTrXtxxPriKpZpKmMUe71iumy7ng%2F4Uqy%2F%0AVl4xgK1FFq15Pi4RLw4%3D%0A
+
+---
+
+FAQs
+
+"I can’t find the unit I scanned."
+
+Bluon is actively expanding its equipment database. If you get a "no results" message, the search is logged and sent to Bluon as a request to be added.
+
+"My feature isn’t appearing."
+
+This feature is only available to HVAC Pros. Contact support if you are in the HVAC industry and aren’t seeing the HVAC Tools By Bluon.
+
+Where do I find Bluon inside the HCP mobile app?
+
+When you’re creating or viewing a job/estimate, you’ll see a Bluon option to access manuals, parts, and AI MasterMechanic.
+
+Do I need a Bluon account to start using Bluon in Housecall Pro?
+
+No. You do not need a separate Bluon account to begin using Bluon in Housecall Pro; your Housecall Pro account is all you need!
+
+Does Bluon track my history of models/parts I’ve looked up?
+
+Yes, you can save the Bluon model to a customer’s property profile record for easy reference later.
+
+What if I don’t have the full model or part number — can Bluon still help?
+
+Yes. You can scan the nameplate of the unit or search just a few characters of the model/part #.
+
+Does Bluon work in Spanish or other languages?
+
+The manuals and parts are English-only, but MasterMechanic can speak other languages - just tell it you want it to respond in said language!
+
+What is Bluon’s MasterMechanic?
+
+It’s Bluon’s AI, like a 24/7 senior tech. It answers technical questions, helps troubleshoot complex issues, and creates clean job summaries!
+
+What kind of HVAC questions can I ask MasterMechanic?
+
+Anything — troubleshooting, common error codes, sequence of operations. Try it! It understands plain language and incomplete info and will work with you to ensure all potential problems are addressed.
+
+What’s the difference between Bluon’s MasterMechanic and something like ChatGPT?
+
+- Master Mechanic is trained on over 135,000 real tech-to-tech troubleshooting calls, QC’ed by veteran technicians each with 35+ years of experience.
+
+- ChatGPT and other AI reference online materials such as Reddit and Wikipedia (up to 60% of the time!), leading to frequently incorrect yet confident responses.
+
+Can I order parts directly through HCP using Bluon?
+
+Not at this stage. Bluon identifies the part # and replacement options, but ordering is still through your supplier or distributor.
+
+Does Bluon require internet access, or can I use it offline?
+
+It does require an internet connection to ensure you have the latest updated data.
+
+---
+
+Need Help?
+
+- If you experience any issues while using the Bluon integration: - 📧 Email: hcpsupport@bluon.com
+
+---

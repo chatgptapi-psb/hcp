@@ -1,0 +1,68 @@
+Basic Troubleshooting Steps
+Source: https://help.housecallpro.com/en/articles/8913072-basic-troubleshooting-steps
+Author: Delano G
+Last updated: Updated over a month ago
+
+Summary: If you happen to have an issue and are unable to reach us for some reason (after hours, holidays, etc.), try these troubleshooting steps.
+
+Often, outdated versions of the Housecall Pro site stored on your computer can cause glitches. Sometimes, there’s a difference between the version of a website stored on your computer and the version that you’re loading from the web. 
+​
+Our experience has shown that clearing your cache and cookies can resolve loading-related issues most of the time because it gives everything a fresh start.
+​
+These steps may seem redundant but you’d be surprised how many times completing these actions can solve the issue, and quickly!​
+
+---
+
+Clearing Cache in Google Chrome
+
+1. Open the Google Chrome Browser.
+2. At the top right, click the dots.
+3. Click clear browsing data.
+4. At the top, choose a time range. To delete everything, select All Time. (Default is Last Hour - Make sure to change this to All time)
+5. Next to "Cookies and other site data" and "Cached images and files," check the boxes.
+6. Click Clear Data.
+
+[Image] https://downloads.intercomcdn.com/i/o/955391772/b734fb30a5bcd02512eea126/image.png?expires=1763568000&signature=d2c75f041f4c1b4b295316796e839b3b5c603b7f1a5cf2e63d278473bfa98be4&req=fSUiFcB%2FmoZdFb4f3HP0gP73uJm6HdLJFTbmBodBKN2ztItpbYvZGsAAQtsD%0Aa4%2F%2BfG%2FHGNnurYfYpw%3D%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/955395845/715b2a56b3eea2b388544fdf/image.png?expires=1763568000&signature=7918be1ddb261a9b73b99ae55c82e456e5042a54364edfbba8d02e296a5afb1b&req=fSUiFcB7lYVaFb4f3HP0gHXxWTR5dFuN0dBRo%2Fz6UvTfwfM484eKlyTh67SZ%0AuxuA5tnWB6Yiz52dNQ%3D%3D%0A
+
+---
+
+Updating Chrome
+
+1. Open Google Chrome, and click the dots in the upper right.
+2. Hover over help.
+3. Click on About Google Chrome.
+4. On the tab that opens up, it will show you the version you are on and then give you the option to update if there is a new version.
+
+[Image] https://downloads.intercomcdn.com/i/o/955411481/96efff0c3745de6741447ebc/image.png?expires=1763568000&signature=26b47e091282c371bd07390a99ef1a3052c4247598d8e06e944737cefe7a461e&req=fSUiEsh%2FmYleFb4f3HP0gHytGgxpJxfEw%2FICJtCCX1duY8TqRDK4jbc5H7Ff%0ASHQzSQ5TpSps%2B%2Fj7Nw%3D%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/956663758/4083a281f9ebe84bb65dd34b/image.png?expires=1763568000&signature=b15e9be049fa015f3393447506e50702e80492b5a6045c0a1e3b890f40c33e68&req=fSUhEM99moRXFb4f3HP0gMcbCopH1zEPxhf8LTDZxEfEksIdAs8ivLJ0pB%2BK%0AybgRVEeygGqM04icYA%3D%3D%0A
+
+---
+
+Mobile App (iOS)
+
+If experiencing the issue on the mobile app, please use the following instructions to clear the cache on mobile based on your device type.
+
+- Clearing Cache on iPhone: - Open the Settings of your phone and select General.
+- Tap iPhone Storage and scroll down until you can locate and select the Housecall Pro app.
+- Tap the blue 'Offload App' option and select the blue 'Offload App' option again in the pop up to confirm. This will uninstall the app without removing it from your device entirely.
+- Select the blue 'Reinstall App' option to install the app again.
+
+[Image] https://downloads.intercomcdn.com/i/o/955432997/a06ea96d0c95dde5f4b3c26a/ezgif.com-video-to-gif-converter.gif?expires=1763568000&signature=30059d93c01661153c433af4c257aa693da9048d65931880ab99ab7bd0c61c55&req=fSUiEsp8lIhYFb4f3HP0gLx3tWeuJS2eeDwzG%2BfkHr3OC4OeE%2FgbR2BoTNY3%0AXFl7GZd5M%2BCZ9YsrPQ%3D%3D%0A
+
+---
+
+Mobile App (Android)
+
+Clearing Cache on Android: (Just a note, all Androids are slightly different, so instructions may vary, but these are some general steps that apply to most Android devices).
+
+- Open the Settings of your phone or tablet
+- Tap Apps
+- Select the Housecall Pro app
+- Tap Storage > Clear Cache
+
+[Image] https://downloads.intercomcdn.com/i/o/956682362/382b8eaba0f36bd427113dac/Screen_Recording_20240207_160402_Settings-ezgif.com-video-to-gif-converter.gif?expires=1763568000&signature=973892ba90bd0e85c55d204fb356dde771a487681c5ce3abdd2998b86a3123a8&req=fSUhEMF8noddFb4f3HP0gJltA7OL0uQTzvDKwoqy8ukUI4qNkaueaKc6dnAl%0ASIqrHgEjflPLHuy7yw%3D%3D%0A
+
+---

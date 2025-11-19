@@ -1,0 +1,123 @@
+measureQuick® Integration Overview
+Source: https://help.housecallpro.com/en/articles/6194241-measurequick-integration-overview
+Author: Ian H
+Last updated: Updated over 2 months ago
+
+Summary: Learn how the integration between Housecall Pro and measureQuick works.
+
+How the Integration Works
+
+With the measureQuick® mobile app, HVAC technicians can make better calls, improve repairs, and higher sales. measureQuick has the diagnostic tools to find problems that technicians might miss.
+
+After you've enabled the integration*, your technicians will see a new measureQuick field on every job details page on mobile devices only:
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/539063509/fa5ed753ff440660c5a3e064/IMG_9931-2.png?expires=1763567100&signature=763bea5a10f722469ecfce32276b0c844cf7b0d6dd6b57ea676d9d4d8c39dea5&req=cSMuFs99mIFWFb4f3HP0gLjR7WBstpFrMNVf6NZQeqTixQkKDJ0ST0791dOU%0AvZs%3D%0A | *NOTE: Only jobs created after the integration is enabled will have the new measureQuick button. If the button is missing, delete the job and create a new one after turning on the integration.
+
+After pressing "Open measureQuick," when your field tech opens measureQuick they'll see confirmation of the new job:
+
+[Image] https://downloads.intercomcdn.com/i/o/539010974/5c67ded70922e0d7a8f80862/Screen+Shot+2022-06-30+at+11.06.12+AM.png?expires=1763567100&signature=3c10cf9109f03d1e7d7aae5f08abd1df257f51194cf4e8c8487b038688c059e0&req=cSMuFsh%2BlIZbFb4f3HP0gLMIdZTE%2FZ5urAHfRnrqZ2cIzEcQUNxLIx%2Br0NYH%0A8LaZdoI6nRrzW%2FqJvw%3D%3D%0A
+
+After dismissing the alert, continue with the standard flow and choose your test type:
+
+[Image] https://downloads.intercomcdn.com/i/o/539011491/ead6078030d9f540a5b554b1/Screen+Shot+2022-06-30+at+11.06.30+AM.png?expires=1763567100&signature=c94dd7bac761a27af7a5b6ffe853e74b026de17ae465e96499e11f108b9307c6&req=cSMuFsh%2FmYheFb4f3HP0gGeb6m1uvXFuPQAuxDHeMHqbp4ozJ9%2FBqpLF5%2Fee%0AqPY0cNuKShrZCNGC7A%3D%3D%0A
+
+Run your tests in measureQuick and generate your report:
+
+[Image] https://downloads.intercomcdn.com/i/o/539011666/bf82f00f8c07d08227fae219/Screen+Shot+2022-06-30+at+11.07.05+AM.png?expires=1763567100&signature=b9cfa78a44abfb4d787fef1e2f6a8d2d0ea213d3b1585a10ccc1b2dee3012b6c&req=cSMuFsh%2Fm4dZFb4f3HP0gM2pJ9K5oS%2FJTLvNDVUytfNn5NZ3HE6PbKyb827w%0AP8S2mqM7QtDpiejybA%3D%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/539011908/26bc10292497d3e74f059c63/Screen+Shot+2022-06-30+at+11.07.21+AM.png?expires=1763567100&signature=9c35bbbd40985d68c3646ef25a00d75850022e3e3016f11c81c6f79693edf5dd&req=cSMuFsh%2FlIFXFb4f3HP0gIiLa7tFFJ%2FvCKH2ArAhVhm3YnZuGnIk2MXOK1wy%0A8W%2Bh%2Bt6i8NGJH3Dd4w%3D%3D%0A
+
+After your report has been generated, click "Save Report to Cloud" to automatically sync it back to your Housecall Pro job:
+
+[Image] https://downloads.intercomcdn.com/i/o/539018923/1fb5202bb4d91144d71df73e/Screen_Shot_2022-06-30_at_11_07_35_AM.png?expires=1763567100&signature=e08f56cf9983a3cae0ba5dd5ec7ffc34f0d63d37bff073e3190a38489db160eb&req=cSMuFsh2lINcFb4f3HP0gAXZqFKO9YXW4c048Zrf39sMHN7f8hS4wU5EqUC%2B%0AazTotfMD%2FguY0nTc%2FQ%3D%3D%0A
+
+Note: Any photos you take via the measureQuick app will also automatically sync back to the job in Housecall Pro:
+
+[Image] https://downloads.intercomcdn.com/i/o/539012548/232d835d73feaa60beddb2c4/Screen+Shot+2022-06-30+at+11.08.23+AM.png?expires=1763567100&signature=7f6ee4eb7ed5c43a13433cf7c6210a87228c65c471412a1c47055bd2b86cdcfd&req=cSMuFsh8mIVXFb4f3HP0gIO%2FfoKB5pKU2nYMzGDZ%2BjMVe1wtD3yKVeziqbn1%0Aa4LswSgAH1cLnYX9JQ%3D%3D%0A
+
+Now, refresh the job details page on either mobile or web and voila! Your measureQuick reports and photo documentation will be included as attachments:
+
+[Image] https://downloads.intercomcdn.com/i/o/539013454/85be8b02c9c084d6c4e3835e/Screen_Shot_2022-06-30_at_11_08_44_AM.png?expires=1763567100&signature=b809495e0f09a6adea381dee4f83d4b0985738a46bdd9ad0b2109505f50df52b&req=cSMuFsh9mYRbFb4f3HP0gADkvrwgGGA0fn4GCgrIh0ZHtIibQ6r35%2B6X6fEK%0AsL0qx%2BZzcVznHYyuYw%3D%3D%0A
+
+You may also run a number of other reports:
+
+[Image] https://downloads.intercomcdn.com/i/o/539016124/fa9a352073e34232b9bb6950/Screen_Shot_2022-06-30_at_11_16_09_AM.png?expires=1763567100&signature=ad5799a1bc8c7d7f0a01d3f7d2224094d8affb49d8d24f1d013fb0f936c60d20&req=cSMuFsh4nINbFb4f3HP0gApcKYSnlnw1lI8oE4%2BrGFwEiJpNY4YTYj7JMCoN%0A7FwFfAAzA5Y375sA4g%3D%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/539016610/5538079ad028df2b0ae682b6/Screen_Shot_2022-06-30_at_11_16_24_AM.png?expires=1763567100&signature=ef35a7ad6a052febb324fc9bd3d3f06360375f7cd5a4073c9d10d580e5cdb483&req=cSMuFsh4m4BfFb4f3HP0gItPwNeMqWf8ODtDO4d7CBf0zQLdeUchR1lPj7%2BN%0AOMmOKCBLjjLrfCme9Q%3D%3D%0A
+
+Any time you "Sync to Cloud" it will automatically sync back to the corresponding job in Housecall Pro. For example, save your report to the cloud before exiting to make sure it comes back to Housecall Pro.
+
+[Image] https://downloads.intercomcdn.com/i/o/539017877/be674a6398d0497e4444f7e5/Screen_Shot_2022-06-30_at_11_17_20_AM.png?expires=1763567100&signature=942e240fc33d7ceb934c0c8705f429434d486f27ae9cc2dfd08d5070e2406141&req=cSMuFsh5lYZYFb4f3HP0gA6bQ7bYLubPveIm6g0cUflsVmn9ptCjRE0mhUqn%0AvtxC7oY0uEwnslMVsw%3D%3D%0A
+
+---
+
+Connecting Housecall Pro and measureQuick®
+
+How to connect Housecall Pro to measureQuick and what the integration does.
+
+measureQuick® is the one and only multi-brand wireless tool platform that can stream data, run diagnostics, and walk your dog at the same time (j/k, but it’s on their roadmap).
+
+It’s a comprehensive application that: collects measurements, aggregates data, diagnoses faults, analyzes and educates HVAC technicians, improves quality of work and eliminates unnecessary callbacks.
+
+Now, easily sync your Housecall Pro jobs with your measureQuick reports.
+
+Connecting the Integration:
+
+Office staff will need to access the measureQuick admin portal for three things:
+
+- Add users to company
+- Set up Billing
+- Connect measureQuick to Housecall Pro
+
+Adding Users to your company
+
+Login to measureQuick Virtuoso. This is the admin portal that the office staff will work out of. Keep in mind that you will use the same login credentials for both this admin portal as well as the measureQuick app.
+
+On the left panel, click Users. This is where you will manage and add office staff.
+
+[Image] https://downloads.intercomcdn.com/i/o/510853874/55c7aacf1b7c9f0df3b72b99/add+users.png?expires=1763567100&signature=af7f38391ee841739bae569e1245114910fa8fc9091311522c31acd3ed4203c5&req=cSEnHsx9lYZbFb4f3HP0gOyhbHZOP9tDS%2BCg%2Bx1y2wgqqKJz17y%2B%2Ffh1ddZe%0AASvaGYCyfnbiBXirog%3D%3D%0A
+
+Set up Billing
+
+On the panel located on the left side of the screen, click Company, then click Billing. This is where you will add and manage your QBits. QBits are the credits needed to run each test. You can manually add QBits, or you can set up an autoload function. This will automatically autoload your measureQuick QBits when your balance hits zero.
+
+[Image] https://downloads.intercomcdn.com/i/o/510856681/87d78d0a2d789c0042a5cf47/billing.png?expires=1763567100&signature=cd62a23f35a65c65cf2cc2da31f5f26a365c0f978c5c879e8b41f58901bcd1ce&req=cSEnHsx4m4leFb4f3HP0gNS0GTvFhv1QTvjNZmVOKC0v9XGofhhcFHX53ZiH%0Aau5mX8L1d59sOx%2FKxg%3D%3D%0A
+
+Note: Anyone added to the user section in the measureQuick Panel will have access to the Billing section and will be able to add QBits.
+
+Connect measureQuick to Housecall Pro
+
+Login to Housecall Pro and navigate to the app store
+
+[Image] https://downloads.intercomcdn.com/i/o/537588128/3b12ac7eb406e3d550a336ac/Screen_Shot_2022-06-28_at_10_09_28_AM-3.png?expires=1763567100&signature=d5ed1a7c9f05409c5b07aee84dd5a649127abe5fe2d4ddbfb54e5f5b7bf02a51&req=cSMgE8F2nINXFb4f3HP0gIJSpMR3wCXRqvsAO6KPR0NS20z1uJzLer%2BRtSeT%0ARKo6QSD3l%2B%2BkeFQ1cA%3D%3D%0A
+
+Navigate to the measureQuick app card under "Operations" and click "Get"
+
+[Image] https://downloads.intercomcdn.com/i/o/537589217/7a083f77d12682dd181e5bfc/Screen_Shot_2022-06-28_at_10_13_53_AM.png?expires=1763567100&signature=221610147ff30209c86f1134b2e85fe3c2eef0a4f706b69964426788259c249f&req=cSMgE8F3n4BYFb4f3HP0gC95QqOw%2FwyfzRmaflLRYcRK6Ke6QPIiw1NGVD5q%0AsrRx3H5KdKKxxhxKjw%3D%3D%0A
+
+Select "Enable measureQuick"
+
+[Image] https://downloads.intercomcdn.com/i/o/537589841/e599a939d9bec4a03adb2481/Screen_Shot_2022-06-28_at_10_15_04_AM.png?expires=1763567100&signature=5a54f2dec2b15a52e3cd25e47ac16e7fdbf54b1ae93953dc21ce3a5eca5a696a&req=cSMgE8F3lYVeFb4f3HP0gJGLP8s24hc0%2BACP%2Btx9UG44XdJANvsgnaNGI8xc%0AffbQgBvGzmANdPCnrA%3D%3D%0A
+
+Login to measureQuick and select "Connect with Housecall Pro"
+
+[Image] https://downloads.intercomcdn.com/i/o/537591445/4dabd4e20067a4ae585d9427/Screen_Shot_2022-06-28_at_10_16_47_AM.png?expires=1763567100&signature=249a705aa5de72621f8600187edc855087aca5e5b1bf6537ce8238efdba27d42&req=cSMgE8B%2FmYVaFb4f3HP0gPBgZYQtmYLSIzd5E99uemUFDQfQKI79rR2Phwjd%0AQUPLJ3UKs3%2FQ3J0QPQ%3D%3D%0A
+
+You will be asked to Authorize measureQuick and login to your Housecall Pro account:
+
+[Image] https://downloads.intercomcdn.com/i/o/537592051/34da04a45df9aec2df5e5181/Screen+Shot+2022-06-28+at+10.16.57+AM.png?expires=1763567100&signature=5db7b1925869f0bc3f1f1261e326d85cb547b1c15587f96ffe0e20ca6827ce02&req=cSMgE8B8nYReFb4f3HP0gL9cku49GJgaJsyPC0Bng68UZHPK18slWNtk4d7g%0AtVPB%2Br2yMixJV1CxQw%3D%3D%0A
+
+You are now connected.
+
+[Image] https://downloads.intercomcdn.com/i/o/537593222/03d2f9fe5f47ea102130cde8/Screen+Shot+2022-06-28+at+10.19.21+AM.png?expires=1763567100&signature=a5d9830cacae979585c1fb6316abd37052dbcbfb28263c28ecd75a14d724bd42&req=cSMgE8B9n4NdFb4f3HP0gC9Jli1jma6SJESb416EkmkpY9nE0iOTbNmi1qTs%0AjADHYxAZd4ogudmqiw%3D%3D%0A
+
+Lastly, select which job statuses you'd like your technicians to generate reports for and assign your Housecall Pro employees to your measureQuick users:
+
+[Image] https://downloads.intercomcdn.com/i/o/537594951/1d870b03234407eb3379b593/Screen+Shot+2022-06-28+at+10.19.27+AM.png?expires=1763567100&signature=00281d8c08e250f362cb61d854c928610a9bfdff91ba0be22072602a8c40640a&req=cSMgE8B6lIReFb4f3HP0gEu8DkSZmEkBY0yXYS7DtklsIoFqPzm6Mf%2BV4JMj%0AbyU3U0KGl%2B66vumknw%3D%3D%0A
+
+Click save, and you're all set!
+
+*NOTE: Only jobs created after the integration is enabled will have the new measureQuick integration available. If the button is missing, delete the job and create a new one after turning on the integration.
+
+---

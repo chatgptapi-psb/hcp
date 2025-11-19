@@ -1,0 +1,52 @@
+Export Your Data from Another Software System
+Source: https://help.housecallpro.com/en/articles/6584625-export-your-data-from-another-software-system
+Author: Sienna M
+Last updated: Updated over a month ago
+
+Summary: Export from ServiceTitan, Jobber, Wintac, DispatchMe, Joist, Service Fusion and more
+
+Exporting functionality varies by software and can be impacted by the user's permission level and even the specific Plan you are on with that software. There are a few locations within a software that typically provides you with exporting functionality:
+
+- The Reporting section.
+- The Settings section (often an Import/Export button within that page).
+- The specific tab/page for the type of data you are trying to export (ie the Customers page, Jobs page, Price Book page, etc.). A common location is the three horizontal dots in the top right-hand corner of the page.
+
+You can find the software system that you are currently using in the table below and follow the instructions on how to export your data.
+
+Table:
+Row 1: Software System | Export Customers
+Row 2: Acuity | Link to help article
+Row 3: Buildium | Link to help article
+Row 4: Breezeworks | Link to help article
+Row 5: Contractor Foreman | Link to help article
+Row 6: Customer Factor | Link to help article
+Row 7: Daylite | Link to help article
+Row 8: DispatchMe | Link to help article
+Row 9: FieldAware (previously FieldLocate) | Link to PDF
+Row 10: Freshbooks | Link to help article
+Row 11: Gorilla Desk | Link to help article
+Row 12: Invoice2go | Link to help article
+Row 13: Invoice Home | not possible to export customer data
+Row 14: Jobber | Link to help article
+Row 15: JobNimbus | Pull data from custom reports
+Row 16: Joist | Link to help article
+Row 17: Kickserv | Link to video
+Row 18: Maximizer | Link to help article
+Row 19: Monday.com | Link to help article
+Row 20: Pipedrive | Link to help article
+Row 21: Restoration Manager | Link to help article
+Row 22: Service Auto Pilot | Link to help article
+Row 23: Service Bridge | Link to help article
+Row 24: Service Fusion | Pull data from custom reports.
+Row 25: Service Monster | Link to help article
+Row 26: ServiceTitan | Link to help article
+Row 27: ServiceCore | Link to help article
+Row 28: Service M8 | Link to help article
+Row 29: Service Pal | Link to help article
+Row 30: Spotio | Link to help article
+Row 31: Square | Link to help article > there's an option to export when you go through this process
+Row 32: Wintac | Link to help article
+Row 33: Zenmaid | Link to help article
+Row 34: Zoho | Link to help article
+
+---

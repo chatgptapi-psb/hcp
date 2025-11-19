@@ -1,0 +1,62 @@
+How to Enable Health Insurance in Housecall Pro
+Source: https://help.housecallpro.com/en/articles/8034617-how-to-enable-health-insurance-in-housecall-pro
+Author: Nate H
+Last updated: Updated over 4 months ago
+
+Summary: This article describes what's required to offer health insurance to your employees.
+
+Enabling Health Insurance
+
+To enable Health Insurance in your Housecall Pro account:
+
+- Navigate to the My Money tab located at the top of the page in your navigation bar.
+
+- In the left sidebar menu, select Employee Benefits under the Payroll and Benefits section.
+
+[Image] https://downloads.intercomcdn.com/i/o/1154902257/3968373f5c64b96eb8c70003/Screenshot+2024-08-22+at+1_19_36%E2%80%AFPM.png?expires=1763567100&signature=6b41bdf3f74242bb2fa665df87fa00d8ca21a2a850a194c3217434488fef0e89&req=dSEiEsB%2Bn4NaXvMW1HO4zdDcz3V%2FfRj2IxxZHwGzsnP9qMasQUClRkKmRyvr%0AsLeb9j1FgJ83K8rSeEM%3D%0A
+
+- Once you select the "Get Started" button on the right, you will see the message describing that Housecall Pro works with Check and SimplyInsured to offer health insurance.
+
+- When confirmed, you will be redirected to our partner’s page where you can set up and manage your health insurance.
+
+[Image] https://downloads.intercomcdn.com/i/o/786881061/0c0ce23421e19434a4a42941/image.png?expires=1763567100&signature=525ffbbcc51f0ab11eb8d99b2e2df7b70866ddba3d0cf5a2976041b1e99af4fa&req=cyghHsF%2FnYdeFb4f3HP0gBESK1723Ww%2BVwWdQuVRf9wLwYWpWUUeMa6LiY8a%0AjynHEe1gEH5FzBCnTA%3D%3D%0A
+
+---
+
+If you're offering health insurance for the first time
+
+In this case, since you're setting up health insurance for the first time, you'll select "Find a Plan" to identify what health insurance plan you want to offer. Plans are pulled based on your zip code and give you an idea of what you'll be expecting to pay per employee per month. Employees are also automatically pulled in from any employees on your payroll in HCP.
+
+[Image] https://downloads.intercomcdn.com/i/o/786883945/4145541d2de3fd5b4e029a2c/image.png?expires=1763567100&signature=14425ec86893d21641e22e98042a625329ee05ea5ae7a477747808c075cd3f8a&req=cyghHsF9lIVaFb4f3HP0gObC%2BVkh1Ssfy3t8AheYemLIlax2GgpTuL1%2FXbmw%0Ab2djOBgeX2IR5efNBw%3D%3D%0A
+
+- Once you've selected a plan, you'll need to fill out an application for this plan. Here you'll fill out company information and employee information, including what percentage of health insurance you'll be covering as the employer.
+
+[Image] https://downloads.intercomcdn.com/i/o/786888163/3be11f7302c7c57c4784a9df/image.png?expires=1763567100&signature=a6f4407a15205e007974cb45edfe7defbccd07f421404604a72166c164d288ef&req=cyghHsF2nIdcFb4f3HP0gEs%2F9P5D9eArQinL5gdyYSqqqM%2FLh7v7u8IFtXTK%0AUttoVeUzZJpNbSQvkA%3D%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/786888360/ae049db4fe81f9aca644c03c/image.png?expires=1763567100&signature=3cbd2e3fd0e529f253be63d903c25a18e6706274a9149ba90547a7afcdc904df&req=cyghHsF2nodfFb4f3HP0gERCvBclUuyshymUP%2Bt04qCqs8qjF60eCm4sxDct%0ApiYmz7jl3J2VjMqckw%3D%3D%0A
+
+- You'll then be asked to fill out business and employee information to complete your application.
+
+- Once your application is submitted, you should receive an email confirming approval!
+
+---
+
+If you're transferring health insurance from another provider
+
+If you already offer health insurance to your employees but are now using HCP's payroll solution, you'll want to migrate your health insurance offering to our offering with Simply Insured.
+
+- Select "Connect an existing plan." Here you'll be asked to fill out some details about your existing plan.
+
+[Image] https://downloads.intercomcdn.com/i/o/786901226/7465ab7ddd3307713b29b542/image.png?expires=1763567100&signature=7cc625909b94cc0d3dfe28ac8440f8cb9cb53c48f79a215f90ee4f028272abb7&req=cyghH8l%2Fn4NZFb4f3HP0gL1BY8AQAi30JeVq57yqoc5Dy5dmvLDtmemWEb%2Bf%0ArnkVVoAYTkjnxklBfw%3D%3D%0A
+
+Once completed, SimplyInsured will now become the Broker of Record for your health insurance policy. In 7-14 business days, your integration will be complete (your benefits and coverage will not be impacted). Once the integration is complete, you'll receive an email confirming this change and will now be able to manage your health insurance directly through Housecall Pro's dashboard.
+
+---
+
+Managing Health Insurance
+
+After you've set up health insurance, you'll now be able to manage this through the new link that appears in the top right corner of the Payroll tab by clicking 'Manage.'
+
+[Image] https://downloads.intercomcdn.com/i/o/1154907166/34c9f48f4e2682deeb8b733b/Screenshot+2024-08-22+at+1_19_01%E2%80%AFPM.png?expires=1763567100&signature=96fe5f90091dd3ee21068b08defdd422c32d9298a56e6e88c7fb066839400603&req=dSEiEsB%2BmoBZX%2FMW1HO4zXAcs%2F2uuWv8RHLwXVs23uKGhTKOM9PZYan6v0dH%0ATTrGK47w%2F5ocvpsWr%2F8%3D%0A
+
+---

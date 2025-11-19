@@ -1,0 +1,104 @@
+Voice on Mobile FAQ
+Source: https://help.housecallpro.com/en/articles/8365583-voice-on-mobile-faq
+Author: Angel A
+Last updated: Updated over a month ago
+
+Summary: Find out more about our voice feature on Mobile, now available for all Pros with the Voice feature!
+
+Housecall Pro's Mobile Voice solution brings the power and convenience of our VoIP feature to your mobile app. Pros with the VoIP will be able to see the global call log, customer call log, and make and receive calls through the Voice feature.
+
+Frequently Asked Questions about our Voice on Mobile solution. You must have the Voice feature on your plan in order to access Voice on Mobile. If you don't yet have the feature, you can visit our Voice Landing Page to learn more and sign up!
+
+---
+
+---
+
+Call Logs
+
+Who has access to Call logs?
+
+- Field techs with the permission Allow user to chat with customers enabled, Office Staff, and Admin users have access to customer call logs and global call logs.
+
+What information can you see on Call logs?
+
+- On the call log screen, you can filter by a list of all calls, missed calls, and voicemails.
+
+How do I see calls from a specific customer?
+
+- To see calls specific to one customer, navigate to their customer profile and then click on the Calls tab.
+
+How do I see my global call logs?
+
+- You can access the global call log by going to the Inbox in your app. Once in the Inbox, you'll see an option for Call Logs at the top of the screen. Click on the Call Logs option to see your list of calls.
+
+---
+
+Call Details
+
+What information is on the Call Details screen?
+
+On the call details screen, you can:
+
+- Create a Job, Estimate, or Lead, and attach it to the call (Office staff and Admins only)
+- See the customer attached to the call (if they are saved in your customer list)
+- Access a link to the customer's job history.
+- Edit the customer attached to a call.
+- Read, add, and edit call notes.
+- Read, add, and edit the call reason.
+- Listen to and share call recordings and voicemails.
+- View the lead source.
+- View call information like the employee who made/received the call, the call date and time, and the call duration.
+
+How do I share a call recording?
+
+- Start by going to the Inbox tab. From there, go to Call log and open the call with the recording. Next, click on the share icon to the right of the recording and choose the app you would like to share the call through. Additionally, you can download the call directly to your mobile device.
+
+What will my Field Tech see on the call details screen?
+
+- Field techs will be able to see call details, including call recordings, voicemails, and call information, if they have the Allow user to chat with customers permission enabled. To hide call logs from your field techs, you’ll need to disable this permission in their employee profile settings.
+
+---
+
+Making/Receiving Calls
+
+How do I set up my app for the Voice on Mobile feature?
+
+- We have a guide on how to Configure your Mobile Device for Calls that will walk you through setting up the Housecall Pro mobile app for the Voice on Mobile feature.
+
+Does my app have to be open to receive an inbound call?
+
+- Yes, you need to be logged into your app on your mobile device with it open in the background in order to receive a call, but you do not have to be active within the app.
+
+Do I need to add my mobile device to a ring group to receive calls?
+
+- Yes, you will need to add your mobile device to a ring group to receive calls.
+
+How do I make an outbound call using the Voice feature vs my native phone?
+
+- Anytime you click the phone icon next to a customer's number in the app (call log, job details, estimate details, customers page, etc), you will see a menu with the option to use Housecall VoIP or your Native Dialer.
+
+How do I add Call notes while on a call?
+
+- On the Active Call screen, you will see a button titled New. Once you click on this, you'll have the option to select Create call notes, and then you will see a form to type in the note.
+
+How do I create a New Intake Form while on a call?
+
+- On the Active Call screen, you will see a button titled New. Once you click on this, you'll have the option to select Create New Intake. This will then open up the Intake form to fill out and save as a job or estimate.
+
+What limitations do my Field Techs have while on a call?
+
+- Field techs will only be able to create call notes on the active call screen and will not have the ability to fill out an intake form, as that feature is currently limited to Office Staff and Admin users.
+
+---
+
+Intake Form
+
+How can I create a new Intake Form on an active call?
+
+- On the Active Call screen, select New, then select Create New Intake. From here, you can fill out the form and save it as a lead, estimate, or job
+
+Why doesn't my Field Tech see the option to create an intake form?
+
+- Currently, only Office Staff and Admin users will see the ability to create a new Intake form on mobile. This is to match the same permissions needed to access the feature on the web, so this is added as a measure of security for your account.
+
+---

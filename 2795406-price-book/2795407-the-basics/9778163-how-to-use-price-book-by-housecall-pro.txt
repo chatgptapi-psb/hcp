@@ -1,0 +1,78 @@
+How to Use Price Book by Housecall Pro
+Source: https://help.housecallpro.com/en/articles/9778163-how-to-use-price-book-by-housecall-pro
+Author: Champagne M
+Last updated: Updated over 2 months ago
+
+Summary: Price book by Housecall Pro streamline pricing with homeowner-friendly descriptions that highlight the value of your work.
+
+What is the Price Book by Housecall Pro?
+
+The Price Book by Housecall Pro is a free collection of common services tailored for your industry. These services come with detailed descriptions aimed at communicating the value you offer to homeowners.
+
+---
+
+How to Access Your Price Book
+
+To access the Price book by Housecall Pro:
+
+- Go to Price book in the top navigation bar of your Housecall Pro account on web.
+
+[Image] https://downloads.intercomcdn.com/i/o/1156269707/0d0bd19d0d75242324db6e82/Screenshot2024_08_23_150518.jpg?expires=1763568000&signature=916746f196eb38d3d977c3dde27579c8b83cf039b5403c694e6c05a9a7b9a291&req=dSEiEMt4lIZfXvMW1HO4zR0EcCZErUxKfkzphpq1vzVwjEy0iEZIk5Azy3NI%0Aq91nutGy%2FMHwBJZMTE0%3D%0A
+
+- In the left-hand menu, select any of the following: - Services
+- Materials
+- Pricing forms
+- Estimate Templates
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1730741071/3ad971645b441dbad2134d6f737b/image.png?expires=1763568000&signature=2bfe6ccac8308aba6f1ab0ed3b833658af91ce3b7db686f4478dc938efabae5a&req=dSckFs56nIFYWPMW1HO4zacelnXa17zVgqWlrci1UldYEius3dXkPwTbo8Q4%0AELvfWJoQHA2twp4bt0o%3D%0A
+
+---
+
+Navigating the Price Book by Housecall Pro
+
+When you access the Price book by Housecall Pro:
+
+- Industries: Categories are organized into a pre-determined industry. (e.g., Plumbing, HVAC, Electrical)
+- Categories: Services are organized into relevant categories. (e.g., Condenser, Filters, Refrigerant) Click on any category to view the available services.
+- Services: Each service includes a homeowner-friendly description designed to showcase the value of your work.
+- Book Online Today Category: We’ve pre-enabled these services for online booking. To make them available, just complete the online booking setup when you're ready. [Image] https://downloads.intercomcdn.com/i/o/1156270741/0e3d2849d7a2fd835f6fde14/Screenshot2024_08_23_150647.jpg?expires=1763568000&signature=a44e903dbae8ba0513f22a983895a3412bd10058f60c4f0e3e5e649c2115459d&req=dSEiEMt5nYZbWPMW1HO4zTkd9ScoXecyJnPXOSkG82Ki%2FCOjZSqfzclBHvPJ%0AM%2BlP%0A
+
+---
+
+Customizing Your Price Book
+
+The Price book by Housecall Pro allows you to customize your services:
+
+- Edit Service Descriptions: Click on any service to modify the description to better fit your offerings
+
+- Enter Your Pricing: Since pricing is not included in the Free Price Book, you’ll need to enter your own pricing for each service.
+
+- Add New Services: If you provide a service not listed in the Free Price Book, you can add it by selecting “Add Service” and filling out the relevant details.
+
+- Add image: Click on any service and add a customized photo.
+
+---
+
+Using the Price book in Estimates and Jobs
+
+You can use the Price book by Housecall Pro to streamline your estimates and jobs:
+
+- Select services from the Price book when creating an estimate to auto-populate descriptions.
+
+- Adjust pricing as needed for each job based on your own pricing structure.
+
+[Image] https://downloads.intercomcdn.com/i/o/1156271814/e2857708da173b47f80bdfef/Screenshot2024_08_23_150848.jpg?expires=1763568000&signature=e6da8c64ea284346c5b9cb7d8edd1063ecb3798d22fdcb893aff89284047bff5&req=dSEiEMt5nIleXfMW1HO4zf7HstktvwiwFFYfVSDuf%2FtTZ1v5gy5YUpiSfHKS%0AmwnOaAFScwVDaT1Exp8%3D%0A
+
+---
+
+Frequently Asked Questions (FAQs)
+
+Can I add my custom services to the Free Price book?
+
+- Yes, you can add, edit, or remove services as needed to fit your business.
+
+How do I update pricing for services?
+
+- You will need to manually enter your pricing for each service in your Price Book.
+
+---

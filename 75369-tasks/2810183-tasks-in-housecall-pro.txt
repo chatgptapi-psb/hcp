@@ -1,0 +1,186 @@
+Tasks in Housecall Pro
+Source: https://help.housecallpro.com/en/articles/2810183-tasks-in-housecall-pro
+Author: Nate H
+Last updated: Updated over 4 months ago
+
+Summary: Learn how to create, edit, and complete tasks.
+
+Tasks Overview
+
+Tasks help you track and organize activities you want yourself or your employees to complete, without the need to create a formal job for them. Admins and Office Staff employees can see the tasks of other employees, while Field Techs can only view their own tasks.
+
+When someone is assigned a task, they will receive a push notification from the Housecall Pro mobile app.
+
+If you are using the Service Agreements feature, tasks will be auto-generated to remind you to schedule upcoming service agreement appointments. The auto-generated tasks can not be disabled, however, you can filter them out of your Tasks list.
+
+---
+
+---
+
+Tasks on the HCP Web Portal
+
+---
+
+How to Create a Task (HCP Web Portal)
+
+To create a task on the HCP web portal:
+
+- Click on your profile picture (or your initials) in the top right corner of your Housecall Pro account.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1084677978/092d265b41482b777a11eb35/AD_4nXeu_7NU1kppJ0q4RxgeAQaqdM0a5UFaGrwGveDilKGVdVfQy2xbpGlMqe6tK0vNUtWl3kSuMHA381k6NMBKw2ML18YrQFkPKsz1GnL3Ui5OpjFkYD9YYvuknTIooLBwfaKVwMPNbkUrlk-ZIZXQJZ9aYsm6?expires=1763568000&signature=f6504a7b269a83441c3f9d118e666553b27b61993c409d934cc669c8bc9a5957&req=dSAvEs95mohYUfMW1HO4zTMAgBI5nXywST91FouBwrpXbnFwpAi%2BCfKSl7PP%0AAEbm99ccPL%2Bcw6L3pJE%3D%0A
+
+- Next, select 'Tasks' from the menu
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1084677991/ca9c63cad42e880219526e6a/AD_4nXdnfb1lvmR5Fx8zO4reAu_I_2OR3NoW0ck7MInGGeXKS7QXtCoyOyMwOoYac4-6VWCBu9J_wIpRw_vQ9LX90t4WwikYyLqDEh_D3XgDovuciqPtCtvJ3jr99LeqEvxRorX3kjLycrQ7elW-PwcuEf5-PWcC?expires=1763568000&signature=a12e643bc355ce57d77797a02a05018d96a5e36475f2d81daaab4535b44a955e&req=dSAvEs95mohWWPMW1HO4zU%2FuBxrA8wpqULqKtFaLR0%2F9fQsP1chalyVay0i7%0A7RqK09goaLzXXarGI%2Bw%3D%0A
+
+- Click the 'Create Task' button in the top right corner of the Tasks page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1338831085/2016b838ff6369c976a6d5b1f0df/Screenshot+2025-01-16+at+3_11_58%E2%80%AFPM.png?expires=1763568000&signature=e9f6d0f1fd1cf28288a85f707113e09e9c7cddaad6e1acaab27802e55391346d&req=dSMkHsF9nIFXXPMW1HO4zWgGmO1eVlT6vQp03jcWQWqeIEFZaTTIoJ14Z5MG%0ALEH6fEaJzhGk%2FrAmpfM%3D%0A
+
+- Enter the task details in the empty fields of the Task window (as needed), then click 'Save' in the bottom right corner to complete the task creation.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1338838197/d3da49862ef5ac84de9ef5c36b71/Screenshot+2025-01-16+at+3_16_16%E2%80%AFPM.png?expires=1763568000&signature=e7eff204130fa03b0cccffaa14d20ba7642c4d4b40261f88f3f1f0bf69784206&req=dSMkHsF9lYBWXvMW1HO4zcl4cscJcLjMyPph1RNnYPS25Qs1MhEn7GkJItLE%0AKrtVMIZClzHZLQkhJ7Y%3D%0A
+
+---
+
+How to Complete a Task (HCP Web Portal)
+
+To complete a task on the HCP web portal:
+
+- Click on your profile picture (or your initials) in the top right corner of your HCP account.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1084678033/01b258456823ac8e31c771fc/AD_4nXeu_7NU1kppJ0q4RxgeAQaqdM0a5UFaGrwGveDilKGVdVfQy2xbpGlMqe6tK0vNUtWl3kSuMHA381k6NMBKw2ML18YrQFkPKsz1GnL3Ui5OpjFkYD9YYvuknTIooLBwfaKVwMPNbkUrlk-ZIZXQJZ9aYsm6?expires=1763568000&signature=356bd4528d11d391ed36323a6ab3ab34e4940bb894d0a202897649f2d2bbc89c&req=dSAvEs95lYFcWvMW1HO4zVk8yurUEY6WcQz7%2Bf%2B%2FyO8mAeKn3BQerj972btL%0AIczPnfX6mRL54j%2Bg1gU%3D%0A
+
+- Next, select 'Tasks' from the menu.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1084678045/29680cf61621b947b361b549/AD_4nXdnfb1lvmR5Fx8zO4reAu_I_2OR3NoW0ck7MInGGeXKS7QXtCoyOyMwOoYac4-6VWCBu9J_wIpRw_vQ9LX90t4WwikYyLqDEh_D3XgDovuciqPtCtvJ3jr99LeqEvxRorX3kjLycrQ7elW-PwcuEf5-PWcC?expires=1763568000&signature=95cf5c5746b10303aae61168f5445953ca3a6b9f47556ffca168c5e1e31f0b81&req=dSAvEs95lYFbXPMW1HO4zUlzU5ruY6yIARO39QN0Dm6P8%2FRbQtSfYtpGDehd%0AzzcPIxbcoau0Ep%2BQUAY%3D%0A
+
+- Find the task you want to mark as complete in the Tasks list, then click the 'Mark complete' button on the right side of the task.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1084678062/4435d8af3f63638dba62cba5/AD_4nXdU4U1SNcmqJV7y8YNI4fIjquVYW-ZUvhlichkuwC1huMrGC81tgal1X4dDLdMW1HNNKLCl8nRbZl7HHVyOVwl1aAXdrJX73OeZ_ZIMxlXwzhyM_iYwI98Q12fgTDpz7u8XeDklwMguZhJm5gKk3X3_v5Y?expires=1763568000&signature=ce78965dcf7b5c37d6438457c1c7a3d407fc360b3f672948bdde0c742c841f9c&req=dSAvEs95lYFZW%2FMW1HO4ze9%2F%2Bu%2B6brPAX8Pa93a03Qm6twXDHNjg3s5Qi3KF%0AYp886tIpFgp0zZwSJjE%3D%0A
+
+- You can undo the action if needed by clicking the 'Completed' button that replaces the Mark Complete button.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1084678075/fb50cf3cc94a6cfe9ac95613/AD_4nXc-riHdxU5xDZexW4zrgbZiik7xU-zEP6wBD9p1LVZTyN32r5rtEklWFJkB39pocq5t2nCk71HUVO5zjv8075c1RRVSbgSyiVvJvfjT_P4K0YtHbWgbALV5wVWJZN_x3mXyUbU_XKu6ULD1EQWW0tP12oMn?expires=1763568000&signature=428498e9ecd85c43215a0f8fe9c8c0920e2d409e4ed486d3d49f5894250a995d&req=dSAvEs95lYFYXPMW1HO4zUru3TpqY00vWaV%2BpuwiZGqD1IUtu8njn8QSINVH%0AAo9ejATFDsz1UNi9qp8%3D%0A
+
+---
+
+How to Edit a Task (HCP Web Portal)
+
+To edit a task on the HCP web portal:
+
+- Click on your profile picture (or your initials) in the top right corner of your Housecall Pro account.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1084678088/994bfcec5d5286f679b1ac24/AD_4nXeu_7NU1kppJ0q4RxgeAQaqdM0a5UFaGrwGveDilKGVdVfQy2xbpGlMqe6tK0vNUtWl3kSuMHA381k6NMBKw2ML18YrQFkPKsz1GnL3Ui5OpjFkYD9YYvuknTIooLBwfaKVwMPNbkUrlk-ZIZXQJZ9aYsm6?expires=1763568000&signature=cc55ba49b7ab1347afed86c45d175dbb8c4c8cb91afd5d95601bac8507861dae&req=dSAvEs95lYFXUfMW1HO4zbrT6JUO4vbqs0U3%2B3P6r4E9Ug7M%2BulJBU4t6RIK%0Ab0yFIh5yYEMSmChmb2s%3D%0A
+
+- Next, select 'Tasks' from the menu.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1084678098/3ee75f5b592c5c34755d9789/AD_4nXdnfb1lvmR5Fx8zO4reAu_I_2OR3NoW0ck7MInGGeXKS7QXtCoyOyMwOoYac4-6VWCBu9J_wIpRw_vQ9LX90t4WwikYyLqDEh_D3XgDovuciqPtCtvJ3jr99LeqEvxRorX3kjLycrQ7elW-PwcuEf5-PWcC?expires=1763568000&signature=b2c57c73e153304082c9faf0f2f09488e827120f8230893dda08d200700e6874&req=dSAvEs95lYFWUfMW1HO4zadaib%2B%2BVACvUxW3SiaVh9fl1NSU1lH8usUkYIzT%0ArRvZ3HUqmV0h5C%2ByJu8%3D%0A
+
+- Locate the task you would like to edit in the Tasks list and click the pencil icon to the right of the task.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1084678116/438b0469dc52d455ecc71228/AD_4nXfl8DgAvQHsBncuq4N6FCC9Eoe9M_F5EoQ5BOYn0VrtFKA-8hNgeSz-nCm8C58Ijo4MT23H63-dwzeBKXD0cAH9C2ODVvRYDxbQPDVr2ReKfgfExrdqmNJw-oqnxkKE9YUIlMsu2rMpylmEwrLLOuCNlrM2?expires=1763568000&signature=34af17d03fda23dab89a758dc101c5bd4d7ee44cabb6959a9471bb66b6b6830d&req=dSAvEs95lYBeX%2FMW1HO4zQYYxLwla66JEfjZxG0inT7Ya6S6InkTuGbUqebm%0Afp8UdD%2B9I5D5zwdSguo%3D%0A
+
+- Make the necessary changes in the Task window, then click 'Save' in the bottom right corner of the window to finalize the edits.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1084678131/5a2d80997d4c5272d28637d4/AD_4nXfGK2mpgKjX43oo4CLG__F5OdV11eWP32J7m1jh40YmARe18-L0Cs2LK64065TLBlfDUv-gEOIt4X0gvkkuBK24Qfq6jUoxPPQK4l3QfklDpOVNVyNq7W9T1ijcKrA0coLhHrxfCdLQ1UZe0q7bqFdJEZYL?expires=1763568000&signature=ddae97d7c6236d63cf186ed778a736711a8181726c395e3ba814020a972b2b17&req=dSAvEs95lYBcWPMW1HO4zWXNXmi2%2BdvLUvXvCo%2Bq7wngeXScx8Pme5ZnVKmW%0AMlQiqXDuhzocLs9DnLI%3D%0A
+
+---
+
+---
+
+Tasks on the HCP Mobile App (iOS)
+
+---
+
+How to Create a Task (iOS)
+
+To create a task in the HCP mobile app on your iOS device (iPhone/iPad):
+
+- Tap on the Tasks icon (3 horizontal lines with a checkmark) in the top left corner of your screen.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1084678143/e1bd8067aa0b5530e97befad/AD_4nXf2TxtSMn5blSejsYIH21d-s34uLGF-NNb9DvHZiiKooW9P8y8hYQgfeeEhp91c22Anm-NGHuoxnli0KJITYgYHUgtNK_f33xLO7iDMjZwBO4pl4RUQQlWOHSJf__TcQQtJjYFsxXHpz3ecfdOPf5y0qZvI?expires=1763568000&signature=68fb8fc39b5cf381dd3a8dae529adec744e91fa7362aeca718345c37d35db8a0&req=dSAvEs95lYBbWvMW1HO4zcWYk%2BuB145bFSyqm6AwQro6mGFNp2doxsRH98mP%0AevoozijRHABaKhALCYs%3D%0A
+
+- Tap the [+] icon in the top right corner of your screen.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1084678153/8657fd21e27359779b289827/AD_4nXfHcCjdS6t-b8fDSPtsZui7jUYhx95phci8XmaPPF1moQN85I6t83w1x6xL8o_UNX2vYH68BfLmMRTGUGWm8iI_jMpgn-UAIoS_2XyLb9hMra0kqlq5jwH3wMFIyUcY2qUg73nwvkUYaFBep5Bik72z7bgw?expires=1763568000&signature=8b8128b7621cc2a652aed50789d0f62642e0a987927597bfcb52a5530c519819&req=dSAvEs95lYBaWvMW1HO4zVbPjGzN6IrEBoWq8089cJZbT7dCrHxo6H47g%2BuV%0AWcQ6%2Fo9cRy5VyOe5CRg%3D%0A
+
+- Enter the task details: Title of the task, description, assigned employee, and the due date, if applicable.​
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1084678157/ab62a17cc3af84640907dd5e/AD_4nXeibXXzofgLu60z8YOaZW9n26MVv6QUHzISGxN1U_15wFsQASTZIR66RMYwxtJtqSbLvmq4BZdrcjkOjl-ZnfMRYtltp2daw7SGP5xIA_dHhP1JNhjUdR4kcjorxedzoox7-vjpNB3Np9fuDxcGOWEbFHsJ?expires=1763568000&signature=d4ed52c8f46b1ee778cd8284d703cd00c1f14e78c51ad43fbf635a797adcbe49&req=dSAvEs95lYBaXvMW1HO4zWq9ls1JEUx8uXOQ3zDVrE7fzaaFG7jELS7jzYtS%0A7UBBmbRAquXVWVQolVM%3D%0A
+
+- You can tap to switch Task views between: - All Tasks: Tasks for the whole company
+- My Tasks: Tasks assigned to you specifically
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1084678165/79e0595cba15fcf00433456b/AD_4nXdE4fsrA07LwOJofEZJ1g0OEX5t6wgMhjkVPke5yTFyiSrqHxlLOaLRJ8ZagGD9DN-RGY_7J63S2EzaIx8Pbx-sOERKh7PSgCCzW3PVDnZNkJSOURvbDnj3R1-8dUgwwfSk0ahQKVWZ5tzGnlaYOb897q8g?expires=1763568000&signature=f79b1807058fd5f41fe73d0aa5b12f6ac98eee0c016f51f72bf5e5059692aa89&req=dSAvEs95lYBZXPMW1HO4zXT3qnX6b3EMCOEVVYUV99w81eXQHkJa07aiF8Rw%0AgcsvOPbvGmUVdkRMylU%3D%0A
+
+---
+
+How to Complete a Task (iOS)
+
+To complete a task in the HCP mobile app on iOS devices (iPhone/iPad):
+
+- Tap the Tasks icon (3 horizontal lines with a checkmark) in the top left corner of the HCP mobile app.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1338899222/bf04fd34977723794708ab9a7a40/AD_4nXf2TxtSMn5blSejsYIH21d-s34uLGF-NNb9DvHZiiKooW9P8y8hYQgfeeEhp91c22Anm-NGHuoxnli0KJITYgYHUgtNK_f33xLO7iDMjZwBO4pl4RUQQlWOHSJf__TcQQtJjYFsxXHpz3ecfdOPf5y0qZvI?expires=1763568000&signature=bd7ebd1fa46069e045f6c403d004f8b6957c5ff9a98609baa241854fe0b5d676&req=dSMkHsF3lINdW%2FMW1HO4zV8ntc%2FVgH5C7ZAKxM%2FF7SSpYDwX%2B3UYc4OF%2BzLd%0A06Od%2BowNPvwVVPXWG7o%3D%0A
+
+- Tap the corresponding circle to the left of the task you need to mark as complete.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1084678178/6ba90f2b25c73c3e6684841d/AD_4nXd4ffk8PEfOQcJQOeJuUAqw57dbQEZ5I4iGHRc3bwHqc2c1JFs-7DTWWORRBc7ctYZECsi3c--8u8sXtg2BpBhD_9ppCcjn3IpKPmhPJ6-2GUQZtvmy14jJgaYgtaDRM5pL2Cqa9zHkw5dCKPaDZGZW-ebA?expires=1763568000&signature=5a4f7da628ca72419e4db98137e5e8ed89c620b11691403133ba0296d82b1599&req=dSAvEs95lYBYUfMW1HO4zcHRZ%2BWPDGYEy38oSY4Y43v8uZrou92ClkdAiP5l%0A5er83LVj36bGfFZ3rhc%3D%0A
+
+- The circle will then change to a checkmark to indicate that the task has been completed.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1084678187/55dc0be1fd552e4c49225879/AD_4nXeezgEnQUCr6H-rP7zuROVo1P8pz4DtsbE4_daX_kN4SwbQSZFlyDKnvV39aDDv_yCHJdTgxje7Ne34H9yC3QJXaKvaGgxM7hgIbRXp3EPTNT6Mu1eWHTHPvd2RNDd9T-UuPJ6HRb2Y2edDAm9HhqOlw3I?expires=1763568000&signature=ef41b48e6d34ab1993434127d6a627b0776ce98e46cab408dbe0dd46eb64b7af&req=dSAvEs95lYBXXvMW1HO4zUrwoJrbZHugNkBAMjgpghraUPseth3hKnakeO2%2F%0AAaTcPUaCYJfBrTdrl6E%3D%0A
+
+---
+
+How to Edit a Task (iOS)
+
+To edit a task in the HCP mobile app on iOS devices (iPhone/iPad):
+
+- Tap the Tasks icon (3 horizontal lines with a checkmark) in the top left corner of the HCP mobile app.
+
+- Select a task from the list.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1084678196/fdab43ed25b4a7e89b2b780b/AD_4nXdi1oRfEniIOwUvXwlX6dtC3kjC4o_HZ7-zVcG6n1nBrrAEEQmoZ_IepjFQ2aLUizCUKQTyH_yzwZEgz91Hruxxs8liWiF6ZVT1Ox1fPxZEWJqUSxnZxNA0budboZP2JKmf3ceAvCYuQYHkSAPUXnACnAnj?expires=1763568000&signature=c637fcd41776676af406a82d22555cbeb5f0321f7372fb91e59fbc10d731da62&req=dSAvEs95lYBWX%2FMW1HO4zbaRGh923U%2FO0rpju0vn04TQhD7bb4mE6KzR4sBf%0AACkm9yT0NAwWhU7IzKM%3D%0A
+
+- This will open the task details for any necessary edits.
+
+- Tap 'Done' in the top right corner of your screen to finalize any changes.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1084678206/8430268678e3a400a499029a/AD_4nXfVdF8g93kQnr3J3QFptKvUxmDA2Waz77vqwI9yjEr6UYNaB-YVVOEM9wrP7a2Wwn9uDGo6xTGgkIJYMrQsOADmFGobHf07Q7vFmtg1aIuK9K6tZogNnkKUf2XDALS0SSHo4AHTr8I880B72-vlg2JZBuxw?expires=1763568000&signature=a1d4b22030cfb89b10d1ce61091deb77497fd2153d5e3a3516e3198fae637eb9&req=dSAvEs95lYNfX%2FMW1HO4zeD9VeBwQ5LVdYvP89GMAdiHVom0RhssAMFrCNIA%0A2UIqJDD3jvf555GCrtI%3D%0A
+
+---
+
+---
+
+Tasks on the HCP Mobile App (Android)
+
+---
+
+How to Create a Task (Android)
+
+To create a task on your Android device:
+
+- Tap on the Menu icon (3 stacked horizontal lines) in the top left corner of the HCP mobile app.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1084678215/61f9a19183f785bdf23d02d1/AD_4nXeDoXhFrdNX5YmfFtdS_jDRLIbbEFbdIOntPMEe2deyx6lxLTrfRYLViHyYkdCSPwSQiyB7wrUBotmfQXI4iqDbZBBQMdIPJJ3lpZSEAWmZ8a7RtiTbtSVXN_r119KoB2Tu4tWgu6gFheervUx6A7E3qqyc?expires=1763568000&signature=62930a3981c4b50d7a8032ecdd6f7e97aea18258f58444824e6a6f1f9e5ee0c7&req=dSAvEs95lYNeXPMW1HO4zV0zRG7dzHLbifDoU%2B7fBLNo4xZE7sRqj8DtioB6%0A7WyJ44%2B%2BaE6eYdXheEA%3D%0A
+
+- Select 'Tasks' from the menu on the left
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1084678221/7fe0b414bac858dac27a7bc4/AD_4nXc11P1_QHmLc_HyYRbMgXs_cbgt93SIoEu7IuHmTi_NMP0FcWvwk-smgw2vj4RnRnKHUmG-35VAuvgoPVkQ64I7diVx16YIsHMS3Y21KPkQpWhfQCA4BBBcojE3GkYA-30w9X0LBYrP3J2oL1DukFB64E0q?expires=1763568000&signature=217327be22f22ab815fb8b4850632e9e084befac2cfba8afbf05fc58baaa208c&req=dSAvEs95lYNdWPMW1HO4zXxhNQmQ0E2lU3AyUFLf1hERonf925YryLWogEki%0AQHY43geo1qGSMBJflB8%3D%0A
+
+- Tap the green plus (+) icon in the bottom right corner of your screen.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1084678231/3894a7a056e4281f444eda3f/AD_4nXfbF1ZQ2t1AnmduIDjSF83x3_3nbeatWXPa-JBogifueu3hpcel0FZzWC67yeaihOntZ0w3aQy0OMrldU_UXffnwo_MEybgwdwm7m2-VzN8zsZfLUABssSgiLAa9AXNPo8nK3KBkHh-gJtFnkyogj0ETLed?expires=1763568000&signature=0fc0b7d86bc5582ad1811ebc8e877448c5d8626a6ac1caa7fafbbcf6bff9c723&req=dSAvEs95lYNcWPMW1HO4zTyp83G5J9qLermAcjel8GLpZIFjQBP2jUE5j9dg%0AwUvKfzwfDYEPjeoybx8%3D%0A
+
+- You can also toggle between Task views: - All Tasks: Tasks for the whole company
+- My Tasks: Tasks assigned to you specifically
+
+- Enter the task details: Title of the task, description, assigned employee, and the due date, if applicable.​
+
+- Tap the checkmark icon once the information has been entered to save the task.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/1084678242/35f74aa999a00bcabba9d169/AD_4nXf5Z0OKMFWggGjuaDHe9GDTwTrPCGAJGDknib8xPjKBH_zssyjgsTwDMOMQB2djv0WBi5e2WL1mCSkGosu6ry8g19DvK_GCXGUArWEb_Bl0EWx7w-KbpQZ7sIqKxLhYwk_YhCA2xmheTCUV9lbsiY1szbma?expires=1763568000&signature=c7c329fa6cf756a1eddc942faa9da31abe08d99873e15da3478ff45d9dd19ec0&req=dSAvEs95lYNbW%2FMW1HO4zcfrWKVZNdF69QPx%2FC3ziLR%2FlLNlMTy62qTJq0hc%0AfWSpz7T0fWcTS%2FDN2sg%3D%0A
+
+---

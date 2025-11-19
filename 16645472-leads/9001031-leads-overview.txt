@@ -1,0 +1,201 @@
+Leads Overview
+Source: https://help.housecallpro.com/en/articles/9001031-leads-overview
+Author: Jeffrey H
+Last updated: Updated today
+
+Summary: Learn how to create a lead by entering customer info, adding services, and managing details like assignees and tags
+
+Leads are a valuable tool for tracking potential business opportunities and managing customer interactions efficiently. Available exclusively to Housecall Pro users with Pipeline, Leads allow you to capture and organize information about prospective clients, streamlining follow-ups and improving your chances of converting opportunities into actual jobs. Adding Leads helps you maintain a clear overview of potential business, prioritize follow-ups, and ensure no opportunity is overlooked. This article will cover how to create Leads effectively.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1827109129/805e3bb4758d6fdbe626b0f2d503/101025-Adding-New-Lead-Animation-Transparent-600x400px.gif?expires=1763596800&signature=5f360881109f35bad8fedfec187bf8d89338f85a0cc307eb5322de50427965ad&req=dSglEch%2BlIBdUPMW3nq%2BgV9wN%2BeKQ85MRPxTprMzpts3oDMimAHC8TNQAEZO%0AXc%2F%2FkjMEECJ3DkTSdSJwzpStJJg%3D%0A
+
+---
+
+---
+
+How to Create and Manage a Lead
+
+To create a Lead:
+
+- Click the New button in the top navigation bar of your HCP account on web.
+
+- Select Lead from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/569230396/f6cad7f5f2289cf0a02aa7a6/Screen+Shot+2022-08-25+at+10.47.16+AM.png?expires=1763596800&signature=1262f9ba90f42d43395cd092e3746c31522bdda19ba52e248bfac767cd920d46&req=cSYuFMp%2BnohZFb4V1XW4gSiNTH1n4HXDNSvFGrMBPmd1KwLfUOA%2BjgrkC5%2Bl%0AeOoqh0w7UPH4iX6s%2B5UToTyz0Q%3D%3D%0A
+
+- In the Customer section at the upper left of the Lead creation page, type the customer’s name into the search box to select an existing profile and address from the dropdown menu.
+
+- If needed, you can add a new customer by clicking + New customer in the lower right of the Customer section. Fill out any relevant fields and click Create Customer in the lower right corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/569233550/5d56de582357de6681c09a5b/image.png?expires=1763596800&signature=8bb60f46a05c0d964463e19d780bdb7c3afbf579b78b981011f7db4e498947a5&req=cSYuFMp9mIRfFb4V1XW4ga24wlQCc%2BJljT1RX%2BZi7PaKUqsk9sZb%2FsuM2L%2FY%0A1hf%2BUsYTEVKQShnRuoDp4iMPqA%3D%3D%0A
+
+- On the left side of the Lead creation screen, you can manage the Lead Assignee, Private Notes, Lead Tags, Lead Source, and attachments. - Adding and editing this information helps you assign responsibility, record important notes, categorize Leads for better organization, track the source of each lead, and attach relevant documents. This ensures efficient follow-up and provides a comprehensive overview of your potential business opportunities.
+
+[Image] https://downloads.intercomcdn.com/i/o/569235486/23ea81e475e47c5fe109343e/Screen+Shot+2022-08-25+at+10.56.47+AM.png?expires=1763596800&signature=16556fe82877e61da34d35618a174d83d0dc69aac332d1cab4214265c26cb365&req=cSYuFMp7mYlZFb4V1XW4gcfG0LuvGmpVFF6VzrVkFcOqn6u36v2Tv8Qg6JHA%0ACfFf17O3TMuNKd5wyZg%2BNAnzRw%3D%3D%0A
+
+- On the right side of the Lead creation page, use the Item name field to search for pre-existing items in your Price Book and then select the item(s) from the dropdown. Above the subtotal section, click + Service Items to add additional service line items and + Material Items to add materials.
+
+- To access the visual service and materials Price Books, click Service Price Book in the upper right-hand corner of the line items section and Material Price Book on the center right-hand side.
+
+- Use the tax rate dropdown at the bottom of the line items section to apply tax rates. If the item is not marked as taxable, use the tax checkbox in the item name field to make it taxable.
+
+- You can also add new items, edit existing line items, or remove items as needed. Click into each field on the line item to modify the Item name, Description, Quantity, Unit price, or Unit cost within the estimate, without affecting the item in your main Price Book.
+
+[Image] https://downloads.intercomcdn.com/i/o/561143991/837b82b44e8642cd7e212c8e/Screen+Shot+2022-08-10+at+3.26.27+PM.png?expires=1763596800&signature=adc64c5045a924c6a6e9870a78522305d6256abeebdde20f9d45586feabadfd7&req=cSYmF819lIheFb4V1XW4gb45rdr0Nz5oqKqOUC9BZ1HbCTCqFjAJk0aXs4Ep%0AP5Gsf%2FQlYsAZkhhBgAsqNQGSyg%3D%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/561144409/2a925aa7a881330a7abb771a/Screen+Shot+2022-08-10+at+3.27.21+PM.png?expires=1763596800&signature=0edc9edf8607817e28eeec8a1af41e32743c6be20db89ef3ec72ca86cdadf39f&req=cSYmF816mYFWFb4V1XW4gQZYT31xTSkx5orEcmPLyJT%2FZzxBL3q1kmwn9Zyp%0ASbrf192U8cSbqCwwILwBXrAVqg%3D%3D%0A
+
+- Once you've confirmed all of the details look correct, click the blue Save button on the top right of the new Lead page, and you will be brought to your Lead details screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/569240036/cfd99ff30dcf3d6a092206fc/Screen+Shot+2022-08-25+at+11.02.54+AM.png?expires=1763596800&signature=ef61cda69ec9f9b6762cd860745341f4a1e39cdf05a6c9b07da6413bbb87fff2&req=cSYuFM1%2BnYJZFb4V1XW4gTAXQHxOD8uIxCUlPPf6WLKYkEP94LuCvFoVgZ45%0AB2Q%2FXDEWwm3pVI5pUlO9oUIceQ%3D%3D%0A
+
+---
+
+---
+
+Automatically Sending Messages to New Leads in Pipeline
+
+Pipeline automatically sends messages to your customers when they are added as new leads. This feature is designed to streamline your communication, ensuring that every new lead receives prompt and professional engagement from your business without any manual effort.
+
+How It Works
+
+When a new lead is created in Pipeline, an automated message (either SMS or email) is immediately sent to the customer to confirm their inquiry and provide them with a personalized welcome or next steps for scheduling a service. This automation helps ensure no lead is left unattended, boosting engagement and conversion rates.
+
+Key Benefits
+
+- Instant Communication: No more delays in reaching out to new leads. Your customers receive a timely message right after their lead is entered, keeping them engaged from the start.
+
+- Time-Saving: Automating initial messages allows you to focus on other tasks while maintaining prompt communication with your leads.
+
+- Consistency: Ensure that all new leads receive a professional, consistent message that reflects your business.
+
+---
+
+How to Configure Automated Messages for New Leads
+
+- Access Pipeline settings: Go to Pipeline in the top navigation bar of your Housecall Pro account and select Automations from the left menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1218008200/9b5d3f148e3963eb568f3eb550f8/1000.jpg?expires=1763596800&signature=8761f4281433bb5270687b2c0cecc084ccfc2e0810356ef75f3aaa71dec6b568&req=dSImHsl%2BlYNfWfMW3nq%2BgRXrt3KIKgrxNOPKNAuI2mu5qWcDdw%2Fhx2nrJA2j%0ArFNwEzvLHRuUcTGleK3F8PwFnfM%3D%0A
+
+- Edit the automation: Click the pencil icon to the right of the automation you need to edit.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1218149282/6975bd803787974b3139fe8b1531/1001.jpg?expires=1763596800&signature=b33e2915a4052fbb64e501da1b6d8e8a95fcdd6ecef687ce1352e1f841baa928&req=dSImHsh6lINXW%2FMW3nq%2BgSoRJQ8x6jnpuxHBJRLl9df7kWtCtO4nEU22e7UF%0AIxxRH1EPWtu6ROja8Jxhc3E5kFw%3D%0A
+
+- Adjust the settings to your preferences: Choose when you want the messages to be sent, whether you want to send an email, SMS, or both, and which status you would like to lead to move to once the message is sent
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1218149567/744c84575c5bb0ece2105c8507fc/Screenshot+2024-10-16+at+9_39_55%E2%80%AFAM.png?expires=1763596800&signature=0333d5dd2a1435d0d670d37515e63a7876f8b2c6ed1ebf23be57930abc4a91ef&req=dSImHsh6lIRZXvMW3nq%2BgRnx2A7niQvG%2Fs2ZqIF2k7i4KNvLxBoi01%2FfpzJr%0Ad1DZom%2FjaC%2B21SBZ41AdWRYbWNY%3D%0A
+
+- Customize your message(s): Personalize the message using dynamic fields (such as [Customer Name], [Service Type], etc.). This ensures that each lead receives a tailored message. Set the tone and information that best represent your business.
+
+- Save your changes: Once your message is customized, save the automation.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1218158535/0b1923d60c7e6397a105db4f2e51/1004.jpg?expires=1763596800&signature=65bd59062e86d904dfae83f0d0542f444c691150c5ce9a632a05507fc4ea4041&req=dSImHsh7lYRcXPMW3nq%2BgebWZ0najRD%2FvdAdS%2BBhKq7PQiEp3bt58OxYpCKk%0AiiYuSaOOlKtuIRwvj1fT313Lbs8%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1218151921/9d2d6b881c51aac32c41a331d4bf/Screenshot+2024-10-16+at+9_43_02%E2%80%AFAM.png?expires=1763596800&signature=bfa82d3d4947e7a3ca7cc7610cb50da2fb9fb6a81af99e4434445efebcc92652&req=dSImHsh7nIhdWPMW3nq%2BgV3jJitj6776mztzpoj7uF2rLMiK4LNMa2pKlFZi%0A9rEy8TaOmQNqn5pIW%2FcqDc4%2Bb10%3D%0A
+
+---
+
+Thumbtack Leads Exclusion
+
+Please note that if you are using Thumbtack for lead generation, Thumbtack leads are excluded from this automation because they come with their own set of automatic communications. This exclusion only applies to users who have a separate Thumbtack subscription.
+​
+
+---
+
+---
+
+FAQ for Leads
+
+Can I import Leads from a file?
+
+- Currently, importing Leads directly from a file is not supported. To create a Lead, start by logging into your Housecall Pro account. Click the black New button on the right side of the navigation bar at the top of your screen.
+
+- In the dropdown menu under Intake, select Lead and enter the required details using the available fields on the lead creation screen. If you’d like to suggest this feature or provide other feedback, please use the blue chat bubble to contact customer support or submit your suggestion through the Product Roadmap.
+
+Where can I find Leads after creation?
+
+- After creating a Lead, you can find it in the Pipeline tab. Navigate to the Pipeline tab on the main navigation bar and ensure Leads is selected from the menu on the left-hand side. To locate a specific Lead, use the search bar or apply filters based on criteria like status, tags, or date. Leads will be organized in their respective columns, making it easy to manage and track their progress.
+
+- For more guidance on using Pipeline, please view our Pipeline collection here.
+
+How can I edit an existing Lead?
+
+- To edit an existing Lead, navigate to the 'Pipeline' tab on the main navigation bar at the top of your screen. Ensure that 'Leads' is selected from the menu on the left-hand side of the Pipeline page. Select the desired lead card to open the Lead details, then click the link at the top of the card popup (e.g., Lead #5) to access the Lead’s details screen.
+
+- Here, you can update information such as Lead Assignee, Private Notes, Lead Tags, Lead Source, and attachments. Click each item to add or update. Above the 'Line Items' section, you will see the Lead Assignee info. Click the 'x' to remove the current assignee or select 'Unassigned' to choose a new assignee.
+
+- In the popup, choose an employee from the dropdown menu and click 'Assign.' The system will automatically save and update all changes as you make them, ensuring the lead's details remain current and accurate.
+
+Can multiple assignees be added to a Lead?
+
+- At this time, you can only assign one employee per Lead. If you'd like to see the ability to add multiple assignees in the future, we'd love to hear from you! Feel free to reach out to our customer support team to submit a Pro Vote! You can also submit a Pro vote on our product roadmap here, as well as find updates on upcoming features.
+
+How to copy a Lead to a Job or Estimate?
+
+- To copy a Lead, navigate to the Pipeline tab on the main navigation bar and select Leads from the menu on the left. Change the Lead’s status to Won using the status dropdown on the Lead card or by dragging it into the Won column. A Mark Lead as Won pop-up will appear with options to Copy to Estimate or Copy to Job. Select your desired option and click Copy in the bottom right corner.
+
+- You can also copy a Lead by opening the Lead details screen. Select the Lead card, click the link at the top of the pop-up (e.g., Lead #5), then in the upper right corner, click the wrench and gear icon. From the dropdown menu, choose Copy to Job or Copy to Estimate, then confirm by clicking Copy in the pop-up.
+
+- Jobs will appear in your Jobs List and the Pipeline Jobs Board under the New Job column. Estimates will appear in your Estimates List and the Pipeline Estimates Board under the Unscheduled column.
+
+- For more guidance on using Pipeline, please view our Pipeline collection here.
+
+How to schedule a Lead and add it to my Calendar?
+
+- Once you copy the Lead to a Job or an Estimate, open the corresponding board in the Pipeline (Jobs or Estimates) and change the card status to Scheduled. This will open a scheduling window where you can set the job date, assign it to an employee, and add it to your calendar by clicking Schedule.
+
+How do I handle duplicate Leads?
+
+- At the moment, merging duplicate leads isn't an option. You'll need to delete any extra duplicates manually. If you'd like to see a feature for merging leads in the future, we'd love to hear your thoughts! You can submit a Pro vote on our Product Roadmap.
+
+How do I delete a Lead?
+
+- To delete a Lead, start by navigating to the Pipeline tab on the main navigation bar and ensure Leads is selected from the menu on the left-hand side. Open the Lead details screen by selecting the desired Lead card and clicking the link at the top of the card popup (e.g., Lead #5). In the upper right-hand corner of the Lead details page, click the wrench and gear icon. From the dropdown menu, choose Delete Lead and a message will prompt you to confirm the deletion. Click Delete in the bottom right of the pop-up to finalize the process. The Lead will be removed from your Pipeline and will no longer appear in your leads list.
+
+How can I mark a Lead as lost?
+
+- To mark a Lead as lost, start by navigating to the 'Pipeline' tab on the main navigation bar and ensure 'Leads' is selected from the menu on the left-hand side. Locate the Lead you wish to mark as lost, then use the status dropdown on the Lead card to change its status to "Lost," or drag and drop the Lead into the "Lost" column. A popup labeled 'Mark Lead as Lost' will appear. Confirm by clicking 'Lost' in the popup.
+
+- Alternatively, open the Lead details screen by selecting the desired Lead card and clicking the link at the top of the card popup (e.g., Lead #5). In the upper right-hand corner of the Lead details page, click the wrench and gear icon. From the dropdown menu, choose 'Mark as Lost.' A message will prompt you to confirm this status change. Click 'Lost' in the popup to finalize the process. The Lead will be updated to reflect its lost status and will appear in the "Lost" column of your Leads Pipeline.
+
+- For more guidance on managing Leads, please view our help article here.
+
+Can I set reminders or follow-up tasks for Leads?
+
+- To effectively manage follow-up tasks, you can create custom columns in your Pipeline. This allows you to track and organize tasks according to your specific needs. For more information, see our help article on custom columns. Additionally, you can set tasks directly within Housecall Pro. For detailed instructions on setting tasks, visit our help article on tasks.
+
+What information should I include in Private Notes?
+
+- Private Notes should include relevant details or observations about the Lead that are useful for your team but not visible to customers. This might include communication history, special requests, or internal comments.
+
+Are there any integrations available for Lead management?
+
+- While Housecall Pro is not a lead generation software, it does integrate with Thumbtack to help you manage leads. For more information on available integrations and how to set them up, visit our help articles on Job Inbox and API usage.
+
+How can I run reports and export Lead data in Housecall Pro?
+
+- To review Lead conversion rates, you can generate reports using the Reporting tab in Housecall Pro. These reports provide valuable insights into your Lead performance. For detailed instructions, check out our help article on conversion rate reporting.
+
+- Currently, while you can export Lead conversion rate reports, exporting Lead details from the Pipeline is not supported.
+
+- If you would like to see the ability to export Lead details in the future, we'd love to hear your feedback! Please submit a Pro Vote on our product roadmap or reach out to our support team via the Blue Chat Bubble for further assistance.
+
+What should I do if I encounter issues while creating a Lead?
+
+- If you encounter issues while creating a Lead, start by checking our troubleshooting help article for guidance on common problems and solutions. If the issue persists or you need further assistance, please contact customer support via the blue chat bubble. Our team is ready to help you troubleshoot any issues or answer any questions you may have.
+
+Is Housecall Pro a lead generation service?
+
+- No, Housecall Pro is not a lead-generating software. We do not provide or guarantee new customers/business.
+
+- Housecall Pro is, however, a cloud-based field service management app for service professionals to automate their workflows. This solution includes a native mobile app and a complementary Web portal and serves a wide range of industries, such as cleaning, plumbing, electrical, and more.
+
+- Housecall Pro allows companies to forego paperwork in favor of digital automation. It offers features such as job scheduling, dispatching, payment processing, estimates, automated receipts and invoices, customer notifications, company chat, as well as postcard and email marketing automation.
+
+- Customers can book services via the Housecall Pro mobile app, communicate through a centralized messaging system, and make online payments. There is the potential for new customers to find you if they happen to have the Housecall customer app. Additionally, while HCP is not a lead-generating software, there are integrations with Thumbtack, as well as APIs to add leads to your pipeline.
+
+- The Housecall Pro mobile app is available on both Android and iOS devices.
+
+- This solution is available across the U.S. and Canada.
+
+---

@@ -1,0 +1,43 @@
+Invoice Actions and Summary
+Source: https://help.housecallpro.com/en/articles/8160826-invoice-actions-and-summary
+Author: Michael Storer
+Last updated: Updated over a month ago
+
+Summary: Learn more about the different actions you can take on the new invoices view of the job.
+
+Invoice Summary Table on Jobs
+
+The Invoice Summary table provides a quick, at-a-glance status update on the progress invoices you've created for a job. This summary also includes a few key actions you can take.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1370443766/d326306126c10b83bd074e0f622b/Screenshot+2025-02-07+at+2_33_28%E2%80%AFPM.png?expires=1763568000&signature=4ec2ef0d535651397729bccbb01072fc734c82d7f7fd834b62adafe66249f69e&req=dSMgFs16noZZX%2FMW1HO4zbZNV4xG%2FIjxnZ59n2go%2B5Ry3bGm%2BCS6Vp5N5cBT%0AEsfJtxmOABSfGlxVHZk%3D%0A
+
+---
+
+Invoice Summary Table Actions
+
+The following actions are available from the Invoice Summary table on the Job Details page:
+
+- Add an invoice to the job - Click the + Invoice button to create an additional invoice for the job.
+
+- Edit invoice details - Click the pencil icon to the right of an invoice to add attachments, edit the invoice message, adjust the payment options, and choose which information to display on the invoice.
+
+- Apply a payment to an invoice - Click the credit card icon next to the invoice you need to apply a payment to.
+ - Note: When paying an invoice directly, you are only able to apply the payment for the full invoice amount.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1370622099/3b574ad4b8efb82e54ddb800e018/Screenshot+2025-02-07+at+4_30_36%E2%80%AFPM.png?expires=1763568000&signature=67b474369c679dcbbfd6d1afba85665859c83a1c9986c4669fa071e3ffa30729&req=dSMgFs98n4FWUPMW1HO4zc46HN7vS%2BZJ%2F%2FA89FfW0cTry457pTdgtd8CVWdC%0AFygSbRU2eDSkmzoOop4%3D%0A
+
+- Click the More icon (3 dots) to the right of an invoice to: - Re-send (or send) 
+ - Note: The invoice will be sent with the settings you created originally.
+- View 
+- Print
+- Export as a PDF
+- Void
+ - Note: Voided invoices cannot be marked as paid. The invoice status will show as "Void" on the Invoice Summary table.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1370604292/b3c86edce164b67fb0d8d0cb15ce/Screenshot+2025-02-07+at+5_06_39%E2%80%AFPM.png?expires=1763568000&signature=98289626ade496c7b74cf1230407ab802cd1bb05e7efff8670e18b4942008984&req=dSMgFs9%2BmYNWW%2FMW1HO4zXQKT0yOEdf2rKLUfGUdPRJ9TT7AMT2J3Tab8MZv%0ATpvNA9GwPv8RJKg3dI0%3D%0A
+
+- Hide or expand the Invoice Summary table by clicking the arrow in the top right corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1370586482/0b95a09b41203a91495e290bc225/Screenshot+2025-02-07+at+4_31_22%E2%80%AFPM.png?expires=1763568000&signature=177033ffed38f5886e36c3cbdfb0a33938b164664a7c667e59a83418b6ec6939&req=dSMgFsx2m4VXW%2FMW1HO4zcWyzb0onUKtQPViLXB3JH6nLSFEEG3xurqwVITs%0ALsQ6N4mB4C%2F0NBFfdR8%3D%0A
+
+---

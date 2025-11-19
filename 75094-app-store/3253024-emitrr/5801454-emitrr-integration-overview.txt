@@ -1,0 +1,28 @@
+Emitrr Integration Overview
+Source: https://help.housecallpro.com/en/articles/5801454-emitrr-integration-overview
+Author: Ian H
+Last updated: Updated over 2 months ago
+
+Summary: Learn how the integration between Housecall Pro and Emitrr works.
+
+How the integration works
+
+Emitrr is an all-in-one communication tool that allows you to interact with customers through phone, text, and chat. With the integration, you'll be able to automate customer engagement through reminders, recalls, reviews and more!
+
+- Log into your Emitrr account and click on Conversations
+- From here you'll be able to view conversations with pre-existing customers from Housecall Pro. On the right side of the conversation, you will see the customer's job info from Housecall Pro. [Image] https://downloads.intercomcdn.com/i/o/432085109/0ea992033a1c71bbf317c6bb/Screen+Shot+2021-12-09+at+3.59.17+PM.png?expires=1763567100&signature=1189ab725b1b3d915b32369bc50e339ed32d0b5edc29d77ec1fbc1a6e1ef3389&req=cCMlFsF7nIFWFb4f3HP0gPFyy050dda58qLy%2BxU4HsLNASodheIPP9huajRi%0AHMQ%3D%0A
+- To create marketing campaigns and automated messages, click on Campaigns on the left panel. [Image] https://downloads.intercomcdn.com/i/o/432085259/8b8d2bb26bb03cc94ec840d8/Screen+Shot+2021-12-09+at+4.00.43+PM.png?expires=1763567100&signature=837ab391a4e1fd863664e195a6e9c71308cb68eec66c8227c9c68de02429d5c2&req=cCMlFsF7n4RWFb4f3HP0gHY9th8D9Nh7ql4Vrc7r2JAASuJ0csWhjayt0hv0%0ATZY%3D%0A
+- You can create multiple custom messages. [Image] https://downloads.intercomcdn.com/i/o/432085688/929091b86ed8bdb84aa8d401/Screen+Shot+2021-12-09+at+4.51.48+PM.png?expires=1763567100&signature=09ecc874c0e2b1751dc6cb15459b1528688fac932c3ad61dd1c4151ff0e3e64a&req=cCMlFsF7m4lXFb4f3HP0gI0r4JENzjySz3rAXZrN9idGO5UQO7je7mpkJ%2B64%0A5a8%3D%0A
+
+Connecting Housecall Pro and Emitrr
+
+With the integration, you'll be able to bring all your pre-existing Housecall Pro customer data into Emitrr to easily communicate with their texting platform.
+
+To connect the integration you can follow these steps:
+
+- Log into Emitrr
+- On the left panel, click on Settings, then click on Integration
+- Under the Housecall Pro card, click Integrate, then click Log in with Housecall Pro
+- Then, you are all set! [Image] https://downloads.intercomcdn.com/i/o/432078834/ef31acc3ac0ea0b739f4086b/Screen+Shot+2021-12-09+at+3.58.38+PM.png?expires=1763567100&signature=de0ded097fb1c83f7bb0b2203f577fe954c64bf4b41338f96a8bcb6b06dab778&req=cCMlFs52lYJbFb4f3HP0gMVxkUDcer0ofmlIWf4pMKZKenblxoKkdvL4d%2Fjz%0A1aI%3D%0A
+
+---

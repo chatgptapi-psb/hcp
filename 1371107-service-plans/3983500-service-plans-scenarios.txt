@@ -1,0 +1,60 @@
+Service Plans Scenarios
+Source: https://help.housecallpro.com/en/articles/3983500-service-plans-scenarios
+Author: Taylor M
+Last updated: Updated over a month ago
+
+Summary: We run through common scenarios and questions for how to best set up and use Service Plans.
+
+Service Plan Scenarios Overview
+
+Service Plans are essential for beating seasonality, guaranteeing recurring revenue, boosting customer loyalty, and keeping your customers satisfied knowing their investment is well taken care of. Setting up your plans in Housecall Pro can significantly enhance your business strategy and streamline your operations.
+
+This article will guide you through the basics, addressing common questions and scenarios to help you leverage Service Plans effectively. For a comprehensive overview and additional resources, explore the Service Plan Starter Kit and unlock the full potential of Service Plans to elevate your business and delight your customers.
+
+---
+
+Scenario #1: Multi-Unit Plans
+
+I have a customer with multiple pieces of equipment who needs a Service Plan for each unit. However, they prefer to be charged a single fee rather than having individual plans for each piece of equipment.
+
+To address this, you can set up a "2 Unit Plan" (or another applicable name based on the number of units) by pricing it based on the total number of units covered. For instance, if a plan for one unit costs $100, you would charge $200 for a "2 Unit Plan." This way, you simplify billing while covering all the equipment under one comprehensive plan
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/oivqci1i87
+
+Scenario #2: In Progress/Already Paid Plans
+
+I have customers that have already purchased Service Plans from me outside of Housecall Pro and they have plans that are in progress and already paid for. How do I now set these up in Housecall Pro?
+
+To set up Service Plans in Housecall Pro for customers who have already purchased and paid for plans outside the system, start by navigating to the customer’s profile. You can do this by searching for the customer in the global search bar at the top of your Housecall Pro account or by clicking ‘Customers’ in the navigation bar.
+
+Once on the customer’s profile page, click the “+ Service Plan” button in the upper right corner and choose the service address if applicable. Under “Select Service Plan,” use the search bar to find and select the relevant service plan. If the plan isn’t listed, click “Create Service Plan Template,” and then click “Next” in the upper right corner.
+
+Set the start date to when the plan was originally sold. Add details about who sold the plan and any add-ons, and mark the plan as taxable if needed. For any completed visits, use the edit pencil icon next to each visit to mark them as completed.
+
+Click “Next” to proceed, then accept the plan for the customer and check “Plan has already been paid for.” Finally, click “Accept and Pay” and confirm by clicking “Accept” in the pop-up window that appears. This process will ensure that the service plans are accurately recorded and managed within Housecall Pro.
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/s17c385hd6
+
+Scenario #3: Custom Add-Ons
+
+When a customer is purchasing a Service Plan that requires a special air filter, part, or another custom item not included in your standard plans, you can easily accommodate this by adding a custom line item to the service plan.
+
+Start by navigating to the service plan visit where you need to include the custom item. Add a new line item with a clear and descriptive name, such as "Custom Air Filter: XYZ Model." Be specific about the item to ensure accuracy and transparency.
+
+You can further enhance this by including details such as the part number, description, and any specific requirements related to the custom item. This additional information will help avoid any confusion and ensure that both you and the customer are on the same page regarding what is being provided.
+
+By incorporating these custom line items into the service plan, you can effectively manage and track the inclusion of non-standard parts or services, ensuring that your customers receive exactly what they need while maintaining clarity in your billing and service records.
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/llo8eip8db
+
+---
+
+For more information on Service Plans please see our Service Plans Collection or Service Plans FAQs.
+
+Check out how recurring revenue helps your service business grow.
+
+---
+
+---
+
+​

@@ -1,0 +1,29 @@
+How to Submit a Time Off Request on Behalf of an Employee
+Source: https://help.housecallpro.com/en/articles/9681091-how-to-submit-a-time-off-request-on-behalf-of-an-employee
+Author: Angela G
+Last updated: Updated over a month ago
+
+As a PTO admin, you can easily submit time off requests on behalf of your employees. Please follow these steps to make sure the process is smooth and efficient.
+
+Steps to Submit a Time Off Request:
+
+1. Navigate to the Time Off Page: - Go to the Payroll & Benefits section in your Housecall Pro account.
+- Click on Time Off.
+2. Submit the Time Off Request: - Click the Submit Time Off button.
+- Fill out the form with the necessary details:
+ - Employee Name: Select the employee for whom you are submitting the request.
+ - Policy Type: Choose the type of time off policy (e.g., sick leave, vacation).
+ - Days Off:
+ - Full Days: Default to 8 hours.
+ - Custom Days: Specify custom hours and dates.
+- Once the form is complete, click Submit Time Off. The requested time off will automatically be deducted from the employee’s available balance.
+3. Managing Submitted Requests: - Edit the Request: You can edit the time off request before the first day of the requested time off.
+- Delete the Request: After the first day of the request has passed, you cannot edit it. Instead, you must delete the request and submit a new one if changes are needed.
+
+By following these steps, you can ensure that your employees’ time off is accurately tracked and managed. If you need further assistance, please contact Housecall Pro support.
+
+---
+
+---
+
+​

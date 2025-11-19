@@ -1,0 +1,109 @@
+How Customer Lists Work for Different Campaign Types
+Source: https://help.housecallpro.com/en/articles/9415860-how-customer-lists-work-for-different-campaign-types
+Author: LaNee B
+Last updated: Updated over a month ago
+
+Summary: Understand the differences in how customer lists work for one-time campaigns versus campaign flows.
+
+Housecall Pro Blueprint to Success Workshop
+
+If you're looking for more advice on how to effectively use Marketing Center Campaigns, along with other great features, register for the Housecall Pro Blueprint to Success Workshop!
+
+[Button] Register Here -> https://docs.google.com/forms/d/e/1FAIpQLScM2b6NgGEvrjkOFAZPunvol2CoR4FIIFiVgR7DmTRqgd3gQg/viewform?usp=pp_url&entry.1047718727=HCP+Help+Article
+
+---
+
+---
+
+How Customer Lists Work
+
+In marketing, the strategic use of customer lists can significantly enhance the impact and efficiency of your campaigns. At Housecall Pro, we provide two distinct types of customer lists in our Marketing Center—static and dynamic—each serving unique purposes across various campaign formats. This article will delve into the functionalities of both types of lists and help you understand how to leverage them effectively in your marketing strategies.
+
+Static lists: Fixed groups of recipients that do not change once they are defined.
+
+Dynamic lists: Automatically update to include new qualifying customers based on specific behaviors or triggers.
+
+---
+
+One-Time SMS and One-Time Email Campaigns
+
+One-time campaigns utilize Static Customer Lists. When you create a one-time campaign the list includes a predetermined set of customers based on criteria you selected at the time of the campaign's creation.
+
+The recipients on this list remain the same and does not automatically change for any reason after the list is compiled and the campaign is sent. Even though these lists are not updated after they are created, we store each customer list for your reference and convenience.
+
+One-Time Email and One-Time SMS campaigns are designed for direct and immediate communication with your customers. These campaigns are ideal for
+
+- Announcements
+- Promotions
+- Updates that are relevant at a specific time and do not require a specific follow-up
+
+---
+
+Campaign Flows
+
+Campaign Flows are designed for ongoing engagement and are structured to adapt based on customer interactions and behaviors over time so they utilize Dynamic Customer Lists.
+
+This means that the list updates automatically as customers meet the criteria set for the flow. There are 3 possible criteria that can trigger a Campaign Flow:
+
+- Job Completed - This is a predefined flow template that is created for sending an SMS after a job is completed, the delay to send it can be configured, you can use this and adapt it to add it more steps or customize the messages.
+- Job Satisfaction - This is a predefined flow template that is created for sending a thank you email and SMS after a job is completed, the delay to send it can be configured, you can use this and adapt it to add it more steps or customize the messages.
+- Estimate Declined - This is a predefined flow template designed to re-engage customers who previously declined an estimate.
+
+Once you setup a campaign flow for any of these 3 triggers and determine the customer list criteria, customers will automatically be added to the Campaign Flow as they meet the criteria.
+
+This dynamic functionality makes Campaign Flows perfect for nurturing leads, customer onboarding sequences, or long-term engagement strategies where continuous adaptation to customer behavior is beneficial.
+
+---
+
+Benefits of Each Approach
+
+- Simplicity and Focus: The static lists in One-Time campaigns provide a straightforward and focused approach, making them easy to manage and execute. This ensures that your message reaches all intended recipients at the best time without requiring adjustments post-launch.
+- Relevance and Engagement: The dynamic lists in Campaign Flows allow for more targeted and personalized communication that evolves with your customer's interactions with your business. This ongoing adaptation helps in building deeper relationships and increasing engagement over time.
+
+---
+
+Conclusion
+
+Understanding the distinct behaviors of customer lists in One-Time Email and SMS campaigns versus Campaign Flows allows you to leverage each type effectively according to your marketing goals. Whether you need to send a one-off announcement with a One-Time campaign or engage in behavior-driven communications with Campaign Flows, Housecall Pro’s Marketing Center equips you with the tools necessary for successful communication and marketing management.
+
+Note: While dynamic customer lists are not available for One-Time campaigns at this time, we are looking at the possibility of adding this feature in the future.
+
+---
+
+How Customers List Exclusions Benefit Your Campaigns
+
+Learn how automatic exclusions improve campaign effectiveness and compliance.
+
+It is our priority to ensure that your marketing campaigns are both effective and compliant with regulations. To achieve this, we have implemented automatic exclusions to refine your customer lists. This helps you reach the right audience and optimize your campaign results. Below, we explain each exclusion and how it benefits you as a Pro.
+
+---
+
+Automatic Exclusions and Their Benefits
+
+- Customers Without a Valid Email Address on File - Why: Emails sent to invalid addresses result in bounces, which can harm your sender reputation and affect deliverability rates for future campaigns.
+- How It Helps You: By excluding these customers, we ensure that your emails reach real inboxes, improving your campaign’s effectiveness and maintaining a good sender reputation.
+- Customers Without a Valid Phone Number on File - Why: SMS campaigns sent to invalid phone numbers will not be delivered, wasting your resources and potentially leading to carrier penalties.
+- How It Helps You: This exclusion ensures that your SMS marketing efforts are directed towards reachable customers, maximizing the impact of your messages, avoiding unnecessary costs, and maintaining a good sender reputation.
+- Customers Who Have Not Opted In for Consent - Why: Sending marketing communications to customers without their consent can violate privacy regulations and lead to legal repercussions, including fines and customer complaints.
+- How It Helps You: By excluding these customers, you comply with privacy laws (such as GDPR and CAN-SPAM) and build trust with your customer base, knowing you respect their communication preferences.
+- Customers Who Have Not Been Serviced Within the Last 3 Years - Why: Customers who have not engaged with your services for an extended period are far more likely to mark your messages as spam, which can negatively affect your sender's reputation and email deliverability.
+- How It Helps You: By excluding these inactive customers, you reduce the risk of your emails being marked as spam, helping to maintain a positive sender reputation and ensuring your messages reach those who are more likely to engage.
+
+---
+
+New Default Exclusions
+
+In addition to the above, we have introduced new default exclusions to further enhance the efficiency of your campaigns while increasing visibility and control. These exclusions will auto-populate as the first two conditions on each customer list, allowing you to edit and update them as you see fit:
+
+- Customers with Notifications Turned Off - Why: These customers have chosen not to receive notifications, indicating a preference to not be contacted through your marketing channels.
+- How It Helps You: Respecting their preferences by excluding them ensures that you are targeting an audience that is open to receiving your messages, which can lead to higher engagement rates and better overall campaign performance.
+- Customers Who Are Contractors - Why: Contractors typically do not fall within the target audience for most Pro marketing campaigns, as they are not the end consumers of the services offered.
+- How It Helps You: By automatically excluding contractors, your marketing efforts are more precisely focused on potential customers who are more likely to benefit from your services, thus increasing the efficiency and ROI of your campaigns.
+
+---
+
+Conclusion
+
+Implementing these automatic exclusions in the Marketing Center helps you, as a Pro, by ensuring that your marketing campaigns are more effective, compliant with regulations, and respectful of your customers’ preferences. This results in higher engagement rates, better deliverability, and a stronger relationship with your customer base.
+
+---

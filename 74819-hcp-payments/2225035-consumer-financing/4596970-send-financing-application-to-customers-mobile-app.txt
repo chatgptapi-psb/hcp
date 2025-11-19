@@ -1,0 +1,51 @@
+Send financing application to customers - mobile app
+Source: https://help.housecallpro.com/en/articles/4596970-send-financing-application-to-customers-mobile-app
+Author: Nate H
+Last updated: Updated over 4 months ago
+
+Summary: Learn how to send Wisetack financing applications to customers from the HCP Mobile App.
+
+Overview
+
+With Housecall Pro’s consumer financing option turned on, customers will automatically have the option to finance their jobs when you send estimates and/or invoices.
+
+You now will also have the ability to easily send your customer an application to finance their job with Wisetack directly from your job details page on the mobile app.
+
+---
+
+How to Send Financing Applications to Customers from the HCP Mobile App
+
+With Housecall Pro’s consumer financing option, you and your employees will be able to offer financing while in the field on your mobile devices via the HCP mobile app.
+
+If your job falls within the approved lending range with Wisetack*, you will see a banner on the Job Details page alerting you of the potential monthly payment.
+
+To send financing applications via the HCP mobile app:
+
+- Navigate to the Job Details page for your customer's job and tap 'Pay' from the menu at the top.
+
+- If the total cost of your job falls within the consumer financing range, the option for your customer to check out with financing options will appear.
+
+- To initiate the financing process, tap the 'Qualify Now' button.
+
+- You can also tap the ‘View Details’ hyperlink to show the customer more information on their financing options.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/1187735242/fd892ccfd42f9ea386bf1310/Pay+Mobile.png?expires=1763568000&signature=ca725de5c820a24928a11aee1e10ab1ad7bd121a40bc6e8208d470894dd94372&req=dSEvEc59mINbW%2FMW1HO4zav7XySjcIlT3VtKVOi4g6B%2FFMOp4E5K8kiF7PFL%0AcuGn%0A | [Image] https://downloads.intercomcdn.com/i/o/1187736272/615083a12c4df1dae3271c74/Qualify+Now+Mobile.png?expires=1763568000&signature=5871ec9e9fb5bfff40398c2ec33ab5d212ab17c08a5b356341172abaa4d7935a&req=dSEvEc59m4NYW%2FMW1HO4zRPhEYKEvq40JTc36QDn9dDgp1wGap2cDW4tCiNb%0Ar2jA%0A
+
+- You'll then be directed to the "See if you qualify" screen, where your customer's phone number will automatically populate.
+
+- Confirm the phone number, then tap 'Send Financing Options' to send your customer a text message with a unique application link to apply for financing through Wisetack via their mobile phone.
+
+- From here, your customer will need to fill out the application on their own device using the link they were provided.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1226725785/86985d653e1c2c4b6cff02eb1775/Screenshot+2024-10-23+at+3_49_50%E2%80%AFPM.png?expires=1763568000&signature=f32e0f8566774c6eecf01b8d29e8563a01a242f3aca5115e83097c3530413cc4&req=dSIlEM58mIZXXPMW1HO4zSV6JC5XxLxoDIhDwDTzOvu5sBOvAmvaIDRAMFk7%0AyTJeNR%2FdFddKsJq9gR8%3D%0A
+
+- Your checkout screen will let you know when your application was sent and if it was approved or denied.
+​
+- If approved, the purchase amount will be applied to the job total and reflected in the Activity Feed on the Job Details page. 
+​
+- You will receive the payment for the job after the job’s completion on the specified service date.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1226728720/372b227bf81e531e9114859f3280/Screenshot+2024-10-23+at+3_58_01%E2%80%AFPM.png?expires=1763568000&signature=9acd0b9d852c50eaef698494711a24b1d0481b1753aea300f2649f97bb6d13f3&req=dSIlEM58lYZdWfMW1HO4zTjIUHhK9hUgsXdd02%2FA1bjQyHYgrl7yCLol1E5t%0AKuNfRuZD81wRxrZ8P5I%3D%0A
+
+---

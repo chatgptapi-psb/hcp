@@ -1,0 +1,50 @@
+Updating Business Name and Tax ID
+Source: https://help.housecallpro.com/en/articles/5742711-updating-business-name-and-tax-id
+Author: Charlie H
+Last updated: Updated over a year ago
+
+Summary: Below you’ll find helpful information regarding your Business Name and Tax ID (or EIN) if the provided information doesn't match the IRS
+
+Re-Verifying Your Business Name and Tax ID
+
+Housecall Pro will initially ask for both your business name and Tax ID/EIN when your business first connects its bank account to Housecall Pro for payouts.
+
+After this information is entered, Housecall Pro's payments partner performs a validation with the IRS to ensure this data is correct. This process may take up to a few days, or as little as a few hours.
+
+If the business name and Tax ID/EIN entered do not match IRS records:
+
+- Housecall Pro will request that you check your tax documents and re-verify the information.
+
+- You will see a red banner in your Housecall Pro account if your business information needs to be re-verified and submitted.
+
+- Click 'Review Info' in the red banner, and you will be redirected to the update the information.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1235587960/9e741d33fcad111a4597690528b7/ReviewInfo.png?expires=1763568000&signature=dea6070c417e4e4006c8dbc75adeda708a4e86039e160a1529706d5bb15e84b8&req=dSIkE8x2mohZWfMW1HO4zd0ZeGqIc7JVR%2BJB4SRW6NZd5W2EVjCzVARW0m2C%0AT2G8AjjN3smqH00LmMg%3D%0A
+
+- Once you re-enter your information correctly, you will get a message verifying that Housecall Pro received your information. If information is still incorrect, you will receive another notification to update.
+​
+
+---
+
+Reasons for Re-Entering Your Business Name and Tax ID
+
+- Tax ID or EIN is missing a number or a number was entered incorrectly.
+
+- The business name isn’t exactly the same as what is on file with the IRS.
+
+- The business name entered does not include the second line of your entity name, as recorded on your Letter 147C, provided by the IRS.
+
+- The business name entered is the name of your DBA ("doing business as") and not the correct entity name given to the IRS.
+
+---
+
+Troubleshooting and Getting Help
+
+- If you’re unsure about your tax information, you can request a Letter 147C by calling the IRS Business & Specialty Tax Line toll-free at 1-800-829-4933.
+
+- If your info on the account matches your IRS-issued documentation, but we are still unable to match it with IRS records, please reach out to our Chat Support team via the Blue Chat Bubble in your Housecall Pro account for additional support.
+
+- If you’re stuck at any point, use the Blue Chat Bubble in your Housecall Pro account to reach HCP support. Obtaining the correct information is vital for payment processing, and we are here to help!
+​
+
+---

@@ -1,0 +1,132 @@
+Reviews FAQs
+Source: https://help.housecallpro.com/en/articles/11481139-reviews-faqs
+Author: Anna E
+Last updated: Updated over a month ago
+
+How are review request links sent?
+
+- Review requests are sent via email and SMS.
+
+- If your customer does not have a phone number in the Mobile field of their Customer Profile, they will only receive the review request via email.
+
+When are review requests sent to customers?
+
+- By default, email and text review requests will be sent automatically when the job is marked as finished.
+
+- You can choose to send review requests automatically when a job is paid by updating your Reviews settings (Settings > Marketing Center > Reviews).
+
+- Under the Send a review request when section, select the radio button for Job is paid.
+
+- When selecting to send a review request automatically when the job is paid, the request will be sent once payment is complete. For jobs with multiple invoices, the request will be sent when the job is fully paid.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1641672596/8a95d27eb3ed87fcc839cf928625/image.png?expires=1763568000&signature=59875ffa178c9c032510bb8e349b401be98c5745793b6f4015fcf8680f39181d&req=dSYjF895n4RWX%2FMW1HO4zaVc31F%2BeXn0f4kqnHNjyUA8nvGUAJAa%2Fjhpl0z5%0AnQocO%2BO0hZSZtE8Ze50%3D%0A
+
+How can I see that the Review email and text were sent out?
+
+To view all recent Review activity:
+
+- Go to Marketing in the top navigation bar of your HCP account on web.
+
+- Select Reviews from the left menu.
+
+- Click View activity in the upper right corner of the page to see a list of all recent reviews that have been sent out.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1547179001/3b2d08769e4fa723b2fe6db268de/AD_4nXfrgm1p4jGh1uVhQ-8QTTRzSYaCMAJaixznV4U_pghVMiiiVl-_6MBUvGuqOs9eYQDaGvpqR1YqDInI9zhu9I-OAuPvcLn5-2x8DrOqLAk7NZ5DooSO0UpY1MyuqkWZmFretnUY?expires=1763568000&signature=ea956db2203e725816522cad82d380e748b849ed930d8ba8ee5fc3550e1ed6e9&req=dSUjEch5lIFfWPMW1HO4zfuqedw0Q4ezx2b0Cl2lejGzhXVVY1D2k4BJiTJg%0APfijLgIKCuaJyzBh8js%3D%0A
+
+- You can also look at the Activity feed on a Job to see when the Review Request email and/or text were sent out.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1547179009/99668db0ea4d334cce4a78cf7a92/AD_4nXdWVF0H1Qbclkdf8tqWDuGi8wfztlZWlDRk2-4ml96kJ77A-UqF0OnNBgA3u68GM1qdRGnCXnQb_56npH6vIR0nQ2HzhnWFoQkzwskC0RnHDydGYvyunL2jlG6qeMse76PRv2TuwA?expires=1763568000&signature=bed893812b3259e1ec199604ab6507bd032cd59374d7553b26b097dea3e4f378&req=dSUjEch5lIFfUPMW1HO4zeTxxtS6KlkGVQTrl8QWuiBzBYhbAycWUnnSKqT%2B%0A6YE0keiX4pzsYou22K8%3D%0A
+
+Will customers with notifications off receive Review requests?
+
+- No, only customers with “Notifications enabled" as “yes” will receive Review requests. You can override this in your Reviews settings by turning the toggle on next to "Send to notifications off” in your review settings.
+
+- You can view a Customer’s notification status by viewing their Customer Profile.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1547179008/9da0a171e29795fca02027292dc2/AD_4nXcLfRaJGXIQcf7bs1-Mnu41YmOfdUu7pE0xo-YXItFx6JCDk9epEUIOwOBX-XZSuNkK4IFLY-4ediV1iL7-UxWo6SRAWLXjWhGtdcQ4K4wKpdvBETlPXqUlnCoVJ_8dg1uYX2AAvA?expires=1763568000&signature=a2d897edcb30979c393c1befd2cff6e43f884667e8f955da07f35500343d0eeb&req=dSUjEch5lIFfUfMW1HO4za7GacXaYHsNGCjQogObHYQxRiMCw%2BaEq9kYYEzC%0AesOPX1qBnx8eEVo%2BJMA%3D%0A
+
+What do the email and text messages look like?
+
+- You can preview the email and text that is being sent out by adding yourself as a customer and going through the job process. You are unable to edit the email or text at this time.
+
+Table:
+Row 1: Email Preview | Text Preview
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1547182740/c2f84af27bea50a0aa557c10d3f9/AD_4nXerDx0lWyzEdgNVwsh7tBJ53Lz2QW70Jg6NPnR7WkOQaC_OVtV6YDDcKIk0MSAglyIDJ0yEmjLnTF5JVpeRCjZbI-qZliL0--rOiWSE-LEhQbB884A51IZSfPCMlooT5MPsqCwIng?expires=1763568000&signature=9f06f8049d0580cfec6dfb8d4ed4a1038665848f1057da569b3b12d205a2b8b9&req=dSUjEch2n4ZbWfMW1HO4zQYo5giBsTis5Im43%2Ba9U87sixo8ZrAKgKOQ3DRR%0AUMbn%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1547183277/7cbc9f3bd29a2cb1e91783f99d2b/AD_4nXcRFW8z4wrh4goNAZlSC56bZMQm63Z1SedygqCalR8mu11ZvIUKnZQwMtOD5PreTNBgsEXGNAjjLiab1XEkch4vrZ0MawWzvstBHZ99nusSw82a8InZXoeieNq-EEUzytKMkCsB?expires=1763568000&signature=dfe0d47c5620d08160406664014cfee0caa2b87621d75791220780c0a9b2f999&req=dSUjEch2noNYXvMW1HO4zcoLpRtLuqHZNsSGQWV1GAaU1T6QIquzlALu%2FIoF%0AlDM1%0A
+
+How do Reviews work with Segments?
+
+If your Job has Segments, you can choose when to send a review request, either after the first segment or after the last one:
+
+- To send a review request after the first segment: Mark the first Segment as finished to trigger the review request, then tag the remaining segments with a job tag that excludes them from receiving additional review requests.
+
+- To send a review request after the final segment: Add your review-exclusion job tag to all segments at the start, then remove the tag from the final segment before marking it finished, which will send the review request to your customer.
+
+How can I resend a Review Request?
+
+- To resend a review request, go to the Job Page, click Undo to unfinish the job, then click Finish again. This will resend the review link to your customer.
+
+---
+
+Premium Review FAQs
+
+How can I tell what percentage of my requests are going to each source?
+
+- In your Reviews dashboard (Marketing > Reviews), click Edit distribution to view your distribution settings.
+
+- If you have chosen to override optimization, then you can update the percentage of requests that are from each source.
+
+- You can also connect Reviews on Google or Facebook.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1547179004/86a1d869760d2130b1a6e2cc457c/AD_4nXc7H9WU1xbzd86gDdNiH3YGPxrSUOoU57T96gwIq6cqYD9pRQbGtPqhkYYwCAWpIzkEP7g3mXwXD7-l81tLK9lU2PT6_PTtUc-770qH9yJo_z33BeEruf_05dM-RRvUsOYWpfPklw?expires=1763568000&signature=a1c8ec717714394940b16730693092a389d2e16dfaf5d4e33129941c156ef0f1&req=dSUjEch5lIFfXfMW1HO4zYU6w8SlD3UCrDtmjIUvja%2BDZZYPrF9e6rdzrERT%0Av8JZe4E6VM1q1U55Yc0%3D%0A
+
+How does it work when my reviews are optimized?
+
+- By default, we will optimize your review requests for you. This means that we will send all of your customers with a Gmail email address straight to Google to leave their reviews (this is because customers need to have a Google account in order to leave a review on Google Business Profile). The rest of your customers will be split equally between your Facebook page and reviews that you can collect for your website.
+
+How does it work when I set my own distribution percentages?
+
+- Your review requests will be split based on the percentages you set & are based on when you hit the 'Finish Job' button.
+
+- For example, if you have it set to 40% Google, 30% Facebook, and 30% reviews for your website, then when you hit the Job Finished button, 40% of the time your customer will be sent a request that takes them directly to Google, 30% of the time your customer will be sent a request that takes them directly to Facebook, and 30% of the time your customer will be sent a request for a review for your reviews website.
+
+How can I increase my Google Reviews?
+
+- Boost your Google reviews in under 10 minutes with this one-pager built by Caleb Wininger, one of our Certified Business Coaching by Housecall Pro Coaches.
+
+How can I tell that I've replied to a review?
+
+- Any review with a green dot on the right side under the Reply column has been replied to.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1547179003/fd84de2b9b49cfe837cb830a3575/AD_4nXeV4sg4YDi8iH81FTKdtS6R_51PkDfjbbbGZgHim7FdeNBGCh7IqwMMlkycyExsDzE57BxzGHgOC0yALB-m1x3yQQknXQGzR_WldqLW6yLrnajlfxXhOs4wL_JftnL_9qZ8JWDy8Q?expires=1763568000&signature=217f06bfcbfa4ffce65adb62802b748828ccc3cce68bd44c994d1fcd78530e80&req=dSUjEch5lIFfWvMW1HO4zburBIrPKUPY7qRVqftO99prkW2lnbEV4UnG2fxs%0A%2FF%2FuP7MyVQ%2Ffkl355t4%3D%0A
+
+What does the email to my customer look like when I reply to a review for my website?
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1547178991/4c41e1649ad4629e40d3f71f00e9/AD_4nXe-Whsi2RAImUHvrWXeoco4vHeT-F8cdWqFLjeqk9eTgxIcbIqWqtrEcZcjD4VX5FoGLN73YYKGqW4oiF87-m9Je3TavNRo98jE3Kh4HdmPPIg7Torl3q-AxtnneH319oXizBV05g?expires=1763568000&signature=25c2e6d02f4c097ee57adad474146bc757f249ca0970baefea405ed4b1a5bab8&req=dSUjEch5lYhWWPMW1HO4zQl9wOFZbsgLe1ognjPoj42WavUS26aAJLp6gl8%2F%0Ao616m6sRiNnBO6tOHJA%3D%0A
+
+Can I edit my review reply?
+
+- Yes, just click the reply button again, and you can edit your reply. It will update your reply on Google/ Facebook or send your customer an updated email, depending on where the review was left.
+
+Why isn't my business showing up as an option after I connect my Google account?
+
+- The first thing to check is that you have selected the Google account that manages your Google Business Profile page to connect within the Housecall Reviews App.
+
+- If you are using the correct Google account and your business still isn't showing up, you likely need to verify your business with Google first. You can follow these steps in order to get Google verified.
+
+Which of my customers are sent to Google to leave their reviews?
+
+- Any of your customers who have a @gmail.com email address will be sent directly to Google to leave their review, unless you have distribution set up differently.
+
+I have customers who don't have Gmail accounts. Can they leave reviews?
+
+- Only customers with @gmail.com in their customer profile email addresses will be directed to Google to leave their reviews. Those customers who do not have a Gmail email will be directed to leave a Housecall review. Google requires you to sign in when leaving a review, so customers who do not have a Google email address would not be able to leave a review on your Google Business page.
+
+I tried connecting my Google Business Account to Reviews, but it says there are no Locations found. What does that mean?
+
+- If you don’t have any locations found, it means your Google Business Account isn’t set up all the way. Finish setting up your Google Business Account, and then try connecting again.
+
+Can my HCP reviews be transferred to Google?
+
+- No, existing reviews collected in Housecall Pro cannot be transferred to Google. However, once your Google Business Profile is connected to HCP Reviews, any future requests sent to customers with a @gmail.com email address in their customer profile will be sent directly to Google to leave a Google review.
+
+---

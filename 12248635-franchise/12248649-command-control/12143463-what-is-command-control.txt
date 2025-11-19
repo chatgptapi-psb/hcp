@@ -1,0 +1,31 @@
+What is Command & Control?
+Source: https://help.housecallpro.com/en/articles/12143463-what-is-command-control
+Author: Nate H
+Last updated: Updated over a month ago
+
+Command & Control
+
+Command & Control is a feature set that helps your Franchise enforce brand standards and operational consistency across your entire franchise network. It works by restricting what Franchisees can change in their HCP account and automatically enforcing Franchises to have the same values for specific settings that you have set on your template account.
+
+Specifically, Command & Control:
+
+- Prevents franchisees from creating, updating, or deleting certain settings.
+
+- Automatically applies the values from your template accounts to those specific settings on the Franchisee's account.
+
+- Ensures locations follow your brand standards and operational requirements.
+
+This gives you centralized control while reducing the risk of franchisees accidentally or intentionally deviating from your established guidelines.
+
+In order to use Command & Control, you need to have at least one Template Account set up on your Franchise. If you do not have a Template Account, please reach out to your Account Manager to get started.
+
+---
+
+List of Command & Control Help Center Articles
+
+1. Command & Control: Lead Sources
+2. Command & Control: Job Fields
+3. Command & Control: Tags
+4. Command & Control: Price Book Services
+
+---

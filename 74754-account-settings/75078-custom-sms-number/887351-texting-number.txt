@@ -1,0 +1,60 @@
+Texting Number
+Source: https://help.housecallpro.com/en/articles/887351-texting-number
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: What a texting number is and why you have it.
+
+What is a Texting Number?
+
+The ability to add a texting number is available on all plans once you complete the registration process. It allows you to select a custom, randomly generated phone number within the area code you choose. This phone number will be the number that your text messages to customers come from.
+
+Setting your texting number gives your customers the ability to reply to your automated and direct messages! Their responses will go straight to the Customer Inbox. If your customer calls that number, it will forward to the business number you have set in your company settings.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1538646808/2c791a9b40b51f2a39db454859da/AD_4nXfLz_t45hi3TtGRa4hV6vYM9Sf_OroFnXwTHgFZYxd7pa5PaT8mCGawdg2jkMuPtuvvor7RO4rMCu0oBE3wTAU_386KzUG73Eo6TVz_rLSlU6pUHjARamyaUPun6ejHevphC71VnA?expires=1763567100&signature=8dd4fb1528135d3f99de8c0bb2b78f313ec68a134da9d6d63dd87b091af580c3&req=dSUkHs96m4lfUfMW1HO4zeXH3ST%2F5cGuztAIIYIjL97WQps%2Bx%2Frgqv1v%2FS6a%0AE%2F%2Fk5F0HWRxes1Iza%2BU%3D%0A
+
+---
+
+Register for Text Messaging
+
+Register for Text Messaging to send and receive customer communications via text. After your registration is approved, you will be able to send important job-related communications like invoices and estimates through text and receive customer replies directly in your HCP account.
+
+To register for Text messaging:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Communications from the Settings menu on the left.
+
+- Click the Text Messaging tab in the Communications settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1649291349/bda1416f923336dc2e3fb6faa5e0/image.png?expires=1763567100&signature=c9751c1be65493d95cfc20dd46b6933a2c332e700c4683b4a77f81cdcc179f95&req=dSYjH8t3nIJbUPMW1HO4zYtb%2F%2BBg7Ltg1dIJsGsEPGdfNi5j2%2FwgG83pUHeN%0AaDCLhztigdYkIWaCdeY%3D%0A
+
+- You’ll then see instructions on how to prepare for registration. We recommend having your CP-575 letter on hand prior to beginning. Once you’re ready, click the Begin registration button to proceed.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1536628596/a9643f3b9d74c93ca7906aba51f5/AD_4nXfaeO2iGInwAJgV6dbkhbUdDOpBWSl-vjD1IPBvtuFrJKAAgjoVix4wE882-t0jm1q7kkrUPot84Hha6hXGqDZ9kVaLvQa9DnQhuJlkUfpjrs0IiAQUMyovrOlkJ4L4gJotssVC_Q?expires=1763567100&signature=580498c47db7bd471bd68a9061d81c6384cedba036136c1b52b159ca2d21270a&req=dSUkEM98lYRWX%2FMW1HO4zXdWItE9diteVymm8OZt8trJ9dh9iD3NKsDzDlMx%0AF6beD3GrOEbFCPWXxC4%3D%0A
+
+- You will then be prompted to select your business structure. If you have any questions, please consult the Help Articles linked in the registration flow or reach out to Support via the Blue Chat Bubble.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1536629685/573a4bb5124b4ccbff801af0e2fa/AD_4nXcGHdHelNHwmpun-vuKY4-2JuPQ77V5DNadd65mBmNgW6o-2fU3946kIq6h3YSE0s0RbOXgf0qoYT52GnNvYSYx3Bz65ePqms4CMcL1MXCso7qN_9nsy4vBc1TFZqyHGCCCvnhY?expires=1763567100&signature=80d0f2156695b60d74a2772b77563f4730231af075698b509e35e7ba022c3467&req=dSUkEM98lIdXXPMW1HO4zed%2Fk3cZo3vyMakrrnZ3DzyZ1OwC8NuduUUBcw%2BE%0AwZAt%2FRSxYmXy7X7Md%2FA%3D%0A
+
+---
+
+Set Up a Texting Number
+
+Your texting number is the number your manual and automated texts will come from, and it gives you the ability to send your customers invoices and estimates via text.
+
+Once your texting registration has been approved, you will be prompted to set up your Texting Number:
+
+- Enter your area code and click the arrow button to the right.
+
+- Select your Texting Number from the list of available numbers.
+
+- Click Save Number to complete the setup process.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1649382819/ba48e37e1673998ebc2053863520/image.png?expires=1763567100&signature=0901bb0900fe155258707a7dd457368eceefe7ef0b9979fa1f6080cd02ba424d&req=dSYjH8p2n4leUPMW1HO4zUVtPFmTVnLMI6ihrBA2e9YFG5Ng0MOTxCJvccWN%0AE6phS1U4cUAnCTSQghY%3D%0A
+
+- Your texting number has now been set!
+
+[Image] https://downloads.intercomcdn.com/i/o/561153558/bd7446adbe87aab4d0795b71/Screen+Shot+2022-08-10+at+3.44.46+PM.png?expires=1763567100&signature=6833da9706985aa35f734df411e816e79c02425907c453e329a99787c938faca&req=cSYmF8x9mIRXFb4f3HP0gD3%2FGrfIRhU0V%2Fd%2BQMRyJoCjN1e4RcJrqq2HNZHR%0AdMkY707Htvn52xE2gA%3D%3D%0A
+
+---

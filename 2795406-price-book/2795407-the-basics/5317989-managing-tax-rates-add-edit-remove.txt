@@ -1,0 +1,127 @@
+Managing Tax Rates: Add, Edit, Remove
+Source: https://help.housecallpro.com/en/articles/5317989-managing-tax-rates-add-edit-remove
+Author: Layla K
+Last updated: Updated over a month ago
+
+Summary: Learn how to add, edit, and remove tax rates from your Price Book for service items and invoices.
+
+Adding, Editing, and Removing Tax Rates
+
+Create and manage tax rates for your service items and invoices. You can set up multiple tax rates, each with a visible description for your customers. These tax rates can be easily edited or deleted as needed.
+
+After creating your tax rates, you can apply them directly to job invoices to ensure accurate and transparent billing.
+
+---
+
+How to Add, Edit, or Remove a Tax Rate
+
+For new users:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Price Book from the Settings menu on the left.
+
+- Click the Tax Rates tab on the Price Book settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643793155/55558cecb721bdcef43f6ea407d2/image.png?expires=1763568000&signature=823ea4b30ab2027772b6dc58015af34c8f95c153f0e1690ec45077dfcf2d2fb2&req=dSYjFc53noBaXPMW1HO4zSXjKhuKtmJHJ2UuIN4F14GZ8mGiI6aJbzIyOvyk%0AkG%2FBG0%2FR6Z37sZnrVbk%3D%0A
+
+If you're on the previous version of settings:
+
+- Click the Price Book tab at the top of your navigation bar.
+
+- From the left-hand menu, select Tax Rates.
+
+[Image] https://downloads.intercomcdn.com/i/o/740828425/9a345835ada03d46082f8e49/image.png?expires=1763568000&signature=63529d217814b6425ccab3e0408f492fe0c1da960a3b6b254bb2ed61bbdfb8b1&req=cyQnHst2mYNaFb4f3HP0gLq%2B6uxqHoLixPNq5MYqBnAuyVvjYzy2HK%2FSOC%2Be%0AccVoEhAmmmAOTAJqLA%3D%3D%0A
+
+To add a Tax Rate in your Tax Rates Settings:
+
+- Click the Edit button.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643798091/3d21b6599ef28ece18f2b479fa2f/image.png?expires=1763568000&signature=8dfe8f1e12dd92371986cb36b8f425e5e2192fe0e9110de656968363b282c413&req=dSYjFc53lYFWWPMW1HO4zR0jx646ac85C7WE9FCQpplRNQyh6m4yM%2FfRZY9r%0Axx%2FC142YJZyWVrNgu7I%3D%0A
+
+- To add a new tax rate, click the + Tax rate button.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643807193/87f7d92e3508f4b21bed0c32a1cc/image.png?expires=1763568000&signature=00baed38bc639a131de9d660fbedf250f44fef0c4b7f24582193817e8d54179b&req=dSYjFcF%2BmoBWWvMW1HO4zcIjUNecxi7u5ZdraVerc8D6h%2Ff4SiOZZ7dl9xZe%0ALRPKVn2D5FeGlxNWs3E%3D%0A
+
+- Enter the new Tax rate description and Rate, then click the blue Save button to save your new Tax rate.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643809807/1214640ba5799493c699e96811d1/image.png?expires=1763568000&signature=bee23e563a6fd64b867d9bc3e2a3c80decf9e83b01966c7e1607497625aa27a0&req=dSYjFcF%2BlIlfXvMW1HO4zRVSNFdscQppj9meOI6hmBWXdEu3%2FHCgbiljy%2FSn%0AmqjQxfQhM3E57r66uxY%3D%0A
+
+To edit an existing Tax Rate in your Tax Rate Settings:
+
+- Click the Edit button.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643812954/fad3dee796bf4b4c316e9a2e6a2e/image.png?expires=1763568000&signature=6cfb3ff5c120e2365c6a1244a1c9d048017fb4660adc74e8fae097ff48579219&req=dSYjFcF%2Fn4haXfMW1HO4zbvQo5im7ZyYCYv%2BGw2mfDinA0jcGftmqffk%2F1b%2B%0Ab4zCRiarysBKzVsbp2Y%3D%0A
+
+- Edit the Tax Rate Description and/or Rate field, and then click Save when you're done.
+
+To delete a Tax Rate in your Tax Rate settings:
+
+- Click the Edit button.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643816407/7d37b4f7a1caac3e375c2d3c5046/image.png?expires=1763568000&signature=5afc105c31b6368ef9f78b8754d9914767954190d28b1b012ab6a59b509e5069&req=dSYjFcF%2Fm4VfXvMW1HO4za6QR3S2WtqlWyJ3EnB7USCkWng12hzuR54iNSlD%0AEGKm0jcGOo0kvFk%2BS%2Fo%3D%0A
+
+- Click the x icon on the right-hand side, and your rate will immediately be deleted.
+
+- Select the Save button to save your changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643821127/1a891c27db28402c5dc20bce0051/image.png?expires=1763568000&signature=614f9f4ce7c03792ab7eaefcaf26911958aa4d7ebc5c951057fa5c58a64c43bd&req=dSYjFcF8nIBdXvMW1HO4zRYqJH5adWZGXc7bPJouuQPHU6Fvw%2B9k5cwNvaUA%0A8%2B21THTwme%2BVOMtwYU8%3D%0A
+
+---
+
+Apply Tax Rates to Services
+
+Once you've created your tax rates, you can:
+
+- Make a service item always taxable (through price book)
+- Apply tax on individual invoices
+
+This will default the service item to be taxable whenever added to an invoice
+
+- Click into your Price Book
+
+[Image] https://downloads.intercomcdn.com/i/o/740832100/600e934148a6b5acfd7138fd/image.png?expires=1763568000&signature=c35a13420a858e2f409aff811a98f0128aa00dc430159cce2ee3b711f227d371&req=cyQnHsp8nIFfFb4f3HP0gDIN8WvA4SzccYlpIcyfaGWPwLtyePDrGsf3cRFX%0A8YW05OaKB%2FH5H13wnA%3D%3D%0A
+
+- Select either Services or Materials.
+
+[Image] https://downloads.intercomcdn.com/i/o/740832456/a440be11d08db24ca20dad71/image.png?expires=1763568000&signature=7299705942a7fe47d01fda5978e35695ed95af7f3340c1724a310f5ca9d090b4&req=cyQnHsp8mYRZFb4f3HP0gJ5YvAKJaQOS1251mKr9cHchtI6CKsuGQnCAgd4U%0AI0knOrae3OQxVjeTIg%3D%3D%0A
+
+- Then continue until you are in your desired service or material.
+- Toggle on Taxable. - Blue = On
+- Grey = Off
+
+- Click the blue save button in the top right
+
+[Image] https://downloads.intercomcdn.com/i/o/740833854/56fd22355677bc8a257e3281/image.png?expires=1763568000&signature=32fc113edded62620d4fee72390c887b4828cc025b03d5daa40e5d0e5b148514&req=cyQnHsp9lYRbFb4f3HP0gEkSlVaekbuKJb20Uc5lX2eIWWyr3bsG0KBoDaD%2B%0ACfl%2B6gASmG6OEhB7eQ%3D%3D%0A
+
+The service item will now be pulled with the Tax box checked any time you add it to an invoice.
+
+- You can turn this off for individual invoices by unchecking the box
+
+[Image] https://downloads.intercomcdn.com/i/o/740834377/396663eeb2ecaa5dec677a25/image.png?expires=1763568000&signature=5143e5c7743c5a69765a5f9ce51f927b726c4bc4b229dce7d08890bd756534ce&req=cyQnHsp6noZYFb4f3HP0gDUV%2F0k1gmrU5jL2pf%2FkPuoy3DVl%2F7mGinlbt7gA%0AfWyT9djMpINBi%2FDQEA%3D%3D%0A
+
+---
+
+ADD TAX TO INDIVIDUAL SERVICE ITEM ⬆
+
+To add tax on an as-needed basis:
+
+- Check the tax box next to the service item once in the invoice.
+- Select the tax rate you'd like applied from the drop-down underneath the Subtotal line. ⬆ (see photo above) ⬆
+
+---
+
+Callouts
+
+- The system does not allow you to designate a default tax rate; it defaults to the first tax rate in alphabetical order. To work around this, you may prefix a tax rate with 'A-', such as 'A-Florida Tax,' to ensure it appears first.
+- Please note that only one tax rate can be applied to an invoice at a time.
+
+---
+
+Want to see a specific feature in Housecall Pro? Your voice matters!
+
+​Visit our Product Roadmap to suggest and vote for the features you'd love to see. Your feedback helps us improve our services to better meet your needs!
+
+---
+
+---

@@ -1,0 +1,65 @@
+Bill Pay: How to Create & Manage Vendors
+Source: https://help.housecallpro.com/en/articles/9320436-bill-pay-how-to-create-manage-vendors
+Author: Nate H
+Last updated: Updated over 2 weeks ago
+
+How to Create and Manage Vendors with Bill Pay
+
+Every bill submitted through Bill Pay must be associated with a vendor. Luckily, Bill Pay allows you to easily create and store vendor information, eliminating the need to re-enter vendor details with each new bill.
+
+You can also view past and future invoices associated with each vendor, along with the outstanding amount due to a given vendor.
+
+The Vendor List in Housecall Pro allows you to add new vendors and access existing vendor information.
+
+---
+
+Create a Vendor in Housecall Pro
+
+To create a vendor in Housecall Pro:
+
+- Go to My money in the top navigation bar of your Housecall Pro account on web.
+
+- Select Expenses > Vendors from the left menu.
+
+- Click the blue New vendor button in the top right corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1252335386/6db583ddcc9839a02142bc7345cd/NewVendor.png?expires=1763568000&signature=de3627540a6ef71fb05342954a015e5d7393927cd2a64682403b5fa4d4f14937&req=dSIiFMp9mIJXX%2FMW1HO4zexM%2FpgXUO9zf3IaiDTlwHpvBzK8NsZnjSVLgF2t%0A8KLeBmJv7tbLEjJPK3c%3D%0A
+
+- Input the following vendor details: - Vendor name
+- Address
+- City
+- State 
+- Zip code
+- Vendor phone number (optional)
+- Vendor email address 
+- Your account number with your vendor
+- Notes (optional)
+- Vendor bank account information (optional)
+
+- Click Save, and your new vendor will be added to your Vendor list.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1252337865/95989e7e2fb3e7794b72db36a7e2/NewVendor2.png?expires=1763568000&signature=a884f322cf0ce1e0dcb75035beed27e53babe94b283703a09a2d0c5f1a92ac64&req=dSIiFMp9molZXPMW1HO4zTbjxs8Er7RVvqyv%2F26rJ85iBu7RKJuPUKQREgK1%0A7iRkkWz7fdMiANHD8Ww%3D%0A
+
+---
+
+Review and Edit Vendor Information
+
+To access your Vendor List and review your vendors in Housecall Pro:
+
+- Go to My money in the top navigation bar of your Housecall Pro account on web.
+
+- Select Expenses > Vendors from the left menu to view your Vendors list.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1252277142/af9a2060f0eb0bf745eb6d2518b6/Vendor-2BOverview.png?expires=1763568000&signature=60efab1fdf3bf03a770eb9dc31d76cc0a9a858c432044b82b62142d7b52a6dd4&req=dSIiFMt5moBbW%2FMW1HO4zSqtHLu7NiSfm8CSbB0BjN732AJgaTHhcYIsw7S7%0A8JIlQBjIspMs5INIqlU%3D%0A
+
+- Select a vendor from the list to review their details.
+
+- The Vendor details page provides an overview of the number of bills you've paid to this vendor, the status of the bills, and any relevant notes for that vendor.
+
+- Click Edit to update the vendor's information as needed.
+
+- Click Save when you're done, and that's it!
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1252277143/c7f8b17912b6488736805a076b20/screencapture-pro-housecallpro-staging-pro-my-money-bill-pay-vendor-directory-vendor-bpv-4179521bdab7445b8f322cfc6500f0e3-2023-06-30-13_03_48.png?expires=1763568000&signature=72ee4e58c89c7ce4a502bfc0dff07206fdcec798b1807ed673fb72e3ec189204&req=dSIiFMt5moBbWvMW1HO4zYKrSV1eIeaDiovS03TKkxyECARvenauc0Ahqx9N%0AEvBgOZ2WYwnF7eMMYDI%3D%0A
+
+---

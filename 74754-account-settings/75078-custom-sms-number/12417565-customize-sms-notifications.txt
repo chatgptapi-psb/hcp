@@ -1,0 +1,91 @@
+Customize SMS Notifications
+Source: https://help.housecallpro.com/en/articles/12417565-customize-sms-notifications
+Author: Nate H
+Last updated: Updated over 3 weeks ago
+
+Customize Job/Estimate SMS Notifications
+
+Once your Texting number is set up, you’ll have full control over the automated SMS notifications customers receive when a Job or Estimate is scheduled, when your technician is on the way, and when the work is complete. Here you can learn how to access your text messaging settings, turn notifications on or off, and personalize the message content to match your business’s tone and style.
+
+---
+
+Step 1: Access Your Text Messaging Settings
+
+For new users:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Communications from the Settings menu on the left.
+
+- Click the Text Messaging tab in the Communications settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1744619493/d7d93d73ab2aa7eb1e4e8abb7784/image.png?expires=1763567100&signature=a1d57254aa711c06719b97c3059d0e0fd79ca1f449b8e57a70497c922b3fc7e5&req=dScjEs9%2FlIVWWvMW1HO4zSN5tL8y%2B0DAPIhR4pPMef7bAKh%2FKmcAXWwCTjtx%0A9IzKoPWWFJWs3aJhUGc%3D%0A
+
+For users with the previous version of Settings:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Next, select Text Messages from the Settings menu on the left.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1744619497/50ffa6d76c47ec2f21ab0c8f633e/image.png?expires=1763567100&signature=062af60ed740b6d0a6326ea26f83f0bd00253c9d0fc67a2adddc9cfe2cab73d0&req=dScjEs9%2FlIVWXvMW1HO4zQe8emWNx3YyTIgohk8L2%2FTpGR3yCC0NpJEmd1G5%0A%2BNgWJ69cnTM2sMNvDQQ%3D%0A
+
+---
+
+Step 2: Customize SMS Notifications
+
+To customize your Job scheduled, On my way, and Job finished SMS notifications, follow the steps below!
+
+Turn SMS Notifications On/Off
+
+By default, text message notifications for jobs will be automatically enabled after registering and being approved for Text Messaging. However, you can disable or re-enable these notifications at any time.
+
+In your Text Message settings:
+
+- Click the toggle to the right of each text message you'd like to enable or disable: - Job scheduled
+- On my way
+- Job finished
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1744787164/bacf727dba9547043942afe4ecbc/Screenshot+2025-09-25+at+2_52_09%E2%80%AFPM.png?expires=1763567100&signature=5e404cd1924c57616a3d9d077f196ffa68bd385c67f9b0f9788aff9db84c83b1&req=dScjEs52moBZXfMW1HO4zQ%2FjwwrhmClcrpqBRp2zFFQaA9NFyqPlWSeT5W2l%0ASXr3aOsxutzjbmLH7sk%3D%0A
+
+Edit Text Messages
+
+When a job notification is sent to a customer, the smart variables set up for each text message will determine the correct information for that particular job and send a text to the customer with the appropriate information.
+
+You can customize these notifications in your Text Messaging settings by following the steps below:
+
+- Click the pencil icon to the right of a text to customize the message content - Job scheduled text
+- On my way text
+- Job finished text
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1744787805/d848f6ef34b4d1903392ef60c8c8/Screenshot+2025-09-25+at+2_53_45%E2%80%AFPM.png?expires=1763567100&signature=08c7f19fa24e3bc61f3eec50c787e1b044ad542e11b90dfb54bdc8a862a460e9&req=dScjEs52molfXPMW1HO4zV3gdPlqIoMmlGEHg68LIKuMHX3xH5qjPRwzMJP3%0A9%2FPPeNn7XmpZ%2BHvIZG4%3D%0A
+
+- Within the edit window, click the Add variable dropdown to add the following available smart variables to your text notifications:
+​ - Job scheduled text: Customer first name, Company name, Technician first name, Technician last name, Invoice number, Job date, and Job time.
+​
+- On my way text: Customer first name, Company name, Technician first name, Technician last name, and Invoice number.
+​
+- Job finished text: Customer first name, Company name, Technician first name, Technician last name, and Invoice number.
+
+- When typing a custom message into the edit text area, the smart variables will display a preview with a sample message on the right side of the page. This represents exactly what a customer will see when they receive the text notification.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1755065298/e0f0d24249a020ed56a3a02a3a0e/image.png?expires=1763567100&signature=697cc27c8957480ebe0460cd7ddf2ae40994f99002c4cd361826e93e5ec7b238&req=dSciE8l4mINWUfMW1HO4zSb7aH0vA2GM%2FTSz0h%2BhxeE%2FWaltHk2m4lugfm%2B0%0Au3i9WMDp35oarDKPvMU%3D%0A
+
+- To remove a variable, click the X icon next to the added variable.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1755066353/a5acc2684a3f373802aad3a8bb21/image.png?expires=1763567100&signature=2119f69febcfabc3d63fbef2cd0423d69b194440b28cf17ef7b88fdcbaeee652&req=dSciE8l4m4JaWvMW1HO4zXcxDs%2BoAI%2FVvutO00QYn4lu5Xa9CvkHdSKz8%2FY3%0Ak%2F6sAspBNkNUuimjCz8%3D%0A
+
+- Click Save to save your changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1755066354/dc4cc29e10540acf7412f60690ce/image.png?expires=1763567100&signature=41aab3f338f8678de4130277d83d747f9a315e9ded84f28d0470f077691c94df&req=dSciE8l4m4JaXfMW1HO4zX%2BRvlgWXhgi5hYvYYXJ2ydFpE1FydXmOCQrR%2BaH%0AQl83VoCbAsz%2FS53TXns%3D%0A
+
+Show Tech's Picture for On My Way
+
+In your Text Message settings:
+
+- Check or uncheck the box next to Show technician picture in the On My Way text setting to control whether your technician's photo is included in the message sent to customers.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1744760770/e88dc44b7a0ad8da9f05ac5a6b80/image.png?expires=1763567100&signature=19fd81d533301f980c923e163c49a3623e1798c666b642cd8a49302356fb6aef&req=dScjEs54nYZYWfMW1HO4zYZwQKeZZB2X5YtoWn3oiyzuO0bdQ4QGEonO98WJ%0A%2B%2FG62mpBeYylTQdC5wE%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1744793668/ffbd51b8e80cd1828378d7bc0b01/IMG_D7C9F5FADED5-1.jpeg?expires=1763567100&signature=11213c6146f80447a5ea461146a55fb7c8a01861ede5d31f34b3e455a328efeb&req=dScjEs53nodZUfMW1HO4zd%2B5UDArOyH5nHpcoyfoxiVV35JDM3ol6ahN%2F%2BLY%0AOEN3HPxV1I3Ugri52zc%3D%0A
+
+---

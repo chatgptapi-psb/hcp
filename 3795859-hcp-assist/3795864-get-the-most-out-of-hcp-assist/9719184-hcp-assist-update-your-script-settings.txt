@@ -1,0 +1,86 @@
+HCP Assist: Update Your Script & Settings
+Source: https://help.housecallpro.com/en/articles/9719184-hcp-assist-update-your-script-settings
+Author: Gillian H
+Last updated: Updated over 5 months ago
+
+Making Updates to Your HCP Assist Set-Up
+
+To make updates with HCP Assist, please contact our team. We are happy to assist you with any questions you have!
+
+---
+
+How do I contact HCP Assist?
+
+We are happy to assist you with any questions you have! You can contact our team in a few ways:
+
+- Send a reply message via the HCP Assist call log.
+
+- Go to the Blue Chat Bubble > General Support > HCPA Answering Service.
+
+- Call us at (858) 842-5746 M-F 8AM-8PM EST, Sat-Sun 11AM-7PM EST.
+
+---
+
+How do I update my script for HCP Assist?
+
+Our team is happy to add to your troubleshooting questions and Pricing FAQs in your HCP Assist script. To ensure a smooth process, please provide our support team with the question or FAQ you would like added.
+​
+​Troubleshooting Example:
+
+- "What is the age of the system?"
+- "Do you have cooling in your home?"
+
+Pricing FAQ Example:
+
+- "Our Service Call of $___ covers the cost of getting a skilled technician to diagnose the issue you are experiencing and will go towards the total cost of the job if you choose to go forward with service."
+
+---
+
+How do I update the hours that HCP Assist schedules?
+
+Our team is happy to make an update to the hours you would like our Virtual Assistants to schedule your appointments!
+
+To ensure a smooth scheduling process, please let our team know the time frame you'd like jobs to be booked in.
+
+You can also update other scheduling specifics, such as:
+
+- How long to schedule (1 hour, 2 hours, 3 hours, etc)
+- What to schedule (Estimates or Jobs)
+
+---
+
+How do I update which technician HCP Assist schedules?
+
+Our team is happy to make an update to the technician assignment specifics in your script so that our Virtual Assistants can most accurately schedule for your team and your customers. Our team can help you add, remove, or swap technicians.
+
+When you’re ready to make the change, please contact our team with the technician’s name as it appears in your HCP account, along with the service type you’d like them added to or removed from.
+
+---
+
+How do I update the services I provide with HCP Assist?
+
+We're happy to update the services you provide to ensure our Virtual Assistants can create appointments as accurately as possible.
+
+Your current service list is based on the industry categories selected during your script setup. We can add or remove industries at any time to reflect changes in your offerings.
+
+If your services have changed, just let us know—we’re here to help!
+
+---
+
+How do I update my service area with HCP Assist?
+
+Your service area is stored in a separate file within our system and is not connected to the service area set in your Housecall Pro settings. If you'd like to make an update, just let us know—our team will be happy to update your file to ensure we’re assisting your customers as accurately as possible.
+
+To ensure a smooth process, please provide our team with the cities and zip codes that you would like to add or remove from your service area.
+
+- For US pros, HCPA only supports standard 5-digit zip codes, we are not able to support extended zip codes at this time (e.g., 12345-6789). - If you have these, they must be removed from the customer profiles.
+
+- For Canadian pros, Cities are used for service area validations.
+
+---
+
+How do I update the pricing that HCP Assist provides?
+
+If you would like to change the price that our Virtual Assistant provides during a call, all you need to do is update the price in the associated line item. If you do not know which line item is being used by HCP Assist, you can reach out to our team for assistance!
+
+---

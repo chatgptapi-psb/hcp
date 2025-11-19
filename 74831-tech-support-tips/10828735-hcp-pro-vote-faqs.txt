@@ -1,0 +1,123 @@
+HCP Pro Vote FAQs
+Source: https://help.housecallpro.com/en/articles/10828735-hcp-pro-vote-faqs
+Author: Lauren G.
+Last updated: Updated over a month ago
+
+Summary: A guide on how Housecall Pro uses your submitted feedback.
+
+Pro Vote Overview
+
+The Pro Vote system gives users the chance to influence Housecall Pro’s feature development. It’s a feedback and suggestion box where users can upvote features they want prioritized. The most supported ideas are more likely to be built.
+
+---
+
+Pro Vote FAQs
+
+How do I access the Product Roadmap to submit feedback in the form of a Pro Vote?
+
+- Click the Blue Chat Bubble in the bottom right corner of your HCP account.
+
+- Then, select Customer Support to open the Blue Chat Bubble window.
+
+- On the Home tab in the BCB window, click on the Check out our latest product updates section to open and access the Product Roadmap.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1767671960/d7eae91491cd5dafd4722d45e0a8/ScreenRecording2025-10-08at7_50_11AM-ezgif_com-video-to-gif-converter.gif?expires=1763568000&signature=00f721483fc704999bb223004c84b8dff2be9e9898b03e3e1714f901f40b299b&req=dSchEc95nIhZWfMW1HO4zbuJcQlmiIVmcrNp2Y10jO20J78DtcwIqnbr9ZvX%0AInUBd071%2FSnxE4pf5Z8%3D%0A
+
+How can I submit my feedback in the form of a Pro Vote?
+
+- Go to the Public Feedback Tab on the Product Roadmap - Enter a title and description for your suggestion
+- Submit it to appear publicly for upvotes
+
+- Message our support team through the Blue Chat Bubble
+
+- Post in our Facebook community, and a community manager can submit it for you.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1430723607/8229faa61b7f53f84ebbf0a36b45/image.png?expires=1763568000&signature=ed1e69ec14b875708a8e701625f3614560f9fe6e36e7f9ce9feda193806e1777&req=dSQkFs58nodfXvMW1HO4zYT39mPVVsreCdmn643zL2NgH9o62K0Np7DBxNMP%0AQeNAPlPM%2FCPAWUTJTO0%3D%0A
+
+Why are Pro Votes important?
+
+- They influence what our team works on, allowing us to prioritize high-demand features and build what matters most to Pros. Voting fosters community discussion and helps shape the Product Roadmap.
+
+How long does it take for a Pro Voted feature to be built?
+
+- Timing varies based on complexity, resources, and demand. We don’t guarantee specific release dates, but encourage voting to help prioritize development.
+
+How do features move from Pro Votes to development?
+
+- Once a feature gains support, product managers evaluate it based on feasibility, complexity, and resources before moving it into development.
+
+Why don’t all Pro Votes get built?
+
+- Some suggestions can’t be implemented due to: - Technical limitations – Major infrastructure changes required.
+- Resource allocation – Competing priorities in development.
+- Regulatory constraints – Compliance issues with security or privacy.
+
+How can I track my Pro Vote?
+
+- Check the Product Roadmap for updates on Pro Voted features.
+
+How does Housecall Pro announce completed Pro Votes?
+
+- Pro Vote Spotlights
+- Product release updates
+- Email newsletters
+- Facebook posts
+- Community lives with the Product Managers
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1430719187/073fd0d5331d27b42cbb830855ae/AD_4nXfc3nmtUjGcFMG-ndDxeDfpTDZAlboNNLR9UOoB_qtxV-7Cszpnz5iNWdJ-V5wgE2QijKdikI19eOH5P4_C1f30pG61-z3zXgsa17WY4Hq-dXGacz3jI4HeRh4USZ55V9-2veSAtA?expires=1763568000&signature=e9efc3e294abfa0cd9317b962d306280ef25f20205f94797837f08940cf8a6b9&req=dSQkFs5%2FlIBXXvMW1HO4zZgHZFUl9XasRHLzABtRiWQ46%2B9YRi6VhLVrDu9R%0ALmlOKfauLre1QKW%2B%2BVk%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1655292492/19e7eacbb9b9c8d87cc1eb32d27f/image.png?expires=1763568000&signature=c631d4d5f3fac8ab0f4306fdff8dc0e570b64a546169a74cf3c29e9352cd0408&req=dSYiE8t3n4VWW%2FMW1HO4zRW6CnSu1XXBeNz26fK4cuVNeBFAc7EjIJ9V0LhL%0A4oVjyKnc9VeECjCAb5c%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1655292811/f245e6d0093ee400edd434541907/image.png?expires=1763568000&signature=f07778cfd21b4aa59a626934f5adf3df7a932c055f444d9b71fe1286e5da49ee&req=dSYiE8t3n4leWPMW1HO4zcPjXv%2FHtYUD7jvDCiKw7Kvucu%2Fl2mnfUWvtq2mH%0A2TpFxcUxLFE8F2B2en4%3D%0A
+
+What makes a good Pro Vote?
+
+- Write a clear, actionable request that benefits many home service businesses. - Example: “Allow payments on estimates upon approval without converting to a job.”
+
+What makes a challenging Pro Vote?
+
+- Vague, overly niche, or unrealistic requests. - Example: “Make everything easier.”
+
+---
+
+Product Roadmap FAQs
+
+What is the Product Roadmap?
+
+- This is a public page where you can track features in development, recently released updates, and submit feedback.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1430726710/e6d2ba01af1cb410bcd67a39b3e9/Screenshot+2025-03-19+at+1_24_03%E2%80%AFPM.png?expires=1763568000&signature=ada800202b80837f9127c5b888c348c4e3b27144a1e7652b5e6a6dcf911ba0fb&req=dSQkFs58m4ZeWfMW1HO4zd9H6q%2BKoirbR2ooM1tccHU7xHdUfUul8iXB0Xbm%0APDp%2BBmtv1u7%2F73liQ9A%3D%0A
+
+How do I use the Product Roadmap?
+
+- Building List – Features currently in development
+- Shipped List – Recently released updates
+- Click a feature card for more details, votes, and the option to comment
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1430732182/45fcce49a5ca7944558d73c8020c/Screenshot+2025-03-19+at+1_27_17%E2%80%AFPM.png?expires=1763568000&signature=87e667202b6e962d083b705857715702bd4779f5e8209627e6dd79b8e77c746a&req=dSQkFs59n4BXW%2FMW1HO4zReyfrRdrC4rvFDfZrRcffTP52NZsTx7ZvQGoPZB%0AtKgbT45jfFP55zeZgs8%3D%0A
+
+How do I submit feedback on Roadmap features?
+
+- Click on the feature tile
+- Write your feedback in the 'Share your thoughts' field
+- Click Submit
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1430729509/8ccb96ea21b5cd1a436a8aec5065/image.png?expires=1763568000&signature=c0333eb412ea9a3356645e86dc2c59a7f5950d32a56ec372d825df3a4a5f72e2&req=dSQkFs58lIRfUPMW1HO4zYv6owSzHbCOFYl3syQ784E1e5xLXhQDszpU6LE2%0AVpmAD7DD%2BBANvGKBYyw%3D%0A
+
+How do I create an account to submit a pro-vote?
+
+- Sign in using Google for easy access without creating a separate account.
+
+How do I get more votes on my Pro Vote?
+
+- After submitting, copy your Pro Vote’s URL link and share it in the community by making a post and encouraging others to upvote.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1430733815/34743fc51c9ae6e0311a39132b87/Screenshot+2025-03-19+at+1_28_21%E2%80%AFPM.png?expires=1763568000&signature=a318d63679343d61623f363d5595add85fc0eeed6cbd9641ecc57ff0bbfdc805&req=dSQkFs59noleXPMW1HO4zTfk2zOfOlKo6ntHyKmC0q5BCOXKIi9VZ%2FvOSNgA%0AYT8qdzjF%2BE4ixNhjhIk%3D%0A
+
+How can I filter feedback or find something specific?
+
+- You can filter and sort by most votes, least votes, newest, or oldest requests. You can also use the search bar at the top and search for keywords.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1430735134/eb1154f0c06d666dd698aa793689/image.png?expires=1763568000&signature=46a1b46c94032477b210c3fe711965ba9476e4f63968640946133fa1950fb047&req=dSQkFs59mIBcXfMW1HO4zXhUtEHKi6OZQ3FjO5lNcOFH74UKfhW0ly06iGW6%0ANWfsE6JL9aG%2F0nV%2BqCI%3D%0A
+
+---

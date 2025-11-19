@@ -1,0 +1,40 @@
+HCP Assist: Forwarding
+Source: https://help.housecallpro.com/en/articles/9731385-hcp-assist-forwarding
+Author: Gillian H
+Last updated: Updated over a month ago
+
+Where is my forwarding number?
+
+- Your forwarding number is the number you forward your calls to so that they can be answered by our team of Virtual Assistants.
+
+- If you cannot find the forwarding number that was provided during your onboarding with HCP Assist, please reach out to our support team, and we can provide it to you!
+
+---
+
+How do I set up call forwarding?
+
+- Forwarding settings will vary based on the carrier/service you use to handle your calls.
+
+- If you are forwarding directly through your carrier, you can find the instructions on how to manage forwarding on their website.
+
+- If you are using a VoIP, it will vary by platform.
+
+- If you cannot find instructions, need assistance with getting it set up, or just want to run a non-billable test call, our support team is ready to help you via a chat or call to ensure everything is flowing smoothly!
+
+---
+
+Do I need to forward my caller ID or business number?
+
+- While you can forward either way, we always recommend forwarding your caller ID so that our system can improve your experience by automatically linking the customer profile based on the caller ID. If you have any questions, you can reach out to our support team for assistance!
+
+---
+
+How do I update my forwarding settings with HCP Voice?
+
+- Access your voice settings to configure how you want your call flow to operate.
+
+- Please note that when forwarding to HCP Assist, you will need to set the transfer time to 15 seconds in order for the transfer to run smoothly.
+
+- If you need any assistance setting up your call flow, please let our support team know, and we will happily assist you in getting it set up as well as run a test call to ensure the flow is working as intended.
+
+---

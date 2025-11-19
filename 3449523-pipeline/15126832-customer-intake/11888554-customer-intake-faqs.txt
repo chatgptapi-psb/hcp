@@ -1,0 +1,90 @@
+Customer Intake: FAQs
+Source: https://help.housecallpro.com/en/articles/11888554-customer-intake-faqs
+Author: Nate H
+Last updated: Updated over a month ago
+
+---
+
+Customer Intake FAQs
+
+The FAQs section is always available on the left side of the Customer Intake form, regardless of which page you are on—Request, Schedule, or Contact. This setup ensures that you and your employees can access important information at any stage of the intake process, making it easier to find necessary details and enhancing overall workflow efficiency.
+
+Each FAQ entry includes a Question and an Answer. These FAQs are searchable from the intake screen, allowing you to include a wide range of questions while still ensuring that you can easily find the relevant information. Common FAQs might cover topics such as warranty terms, discounts offered, company details, or accepted payment methods.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1646078212/a3edb30f87aaf82963697075e133/image.png?expires=1763568000&signature=ee122166461ab10b53a26533cccce6b53e073d84a40b1c5a2d29997b89ba0832&req=dSYjEMl5lYNeW%2FMW1HO4zW1A7byF1%2Bi98YMHdmrT24MJmVFjfccFt8etioh2%0AinfUcYaHhxnKT4l0K58%3D%0A
+
+---
+
+Add FAQs to Your Customer Intake
+
+This process makes it easier for you and your employees to find relevant information quickly, providing a better customer service experience by ensuring that answers are readily available.
+
+To add FAQs to your Customer Intake:
+
+- Click the gear icon in the top right corner of your account to access your Settings.
+
+- Select Customer Intake from the Settings menu on the left, under Feature Configurations.
+
+- Click the FAQs tab at the top of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1660883332/45146a856ca2f7f85d141a761268/Screenshot+2025-08-08+at+11_48_42%E2%80%AFAM.png?expires=1763568000&signature=ca5dcb4c27e91f78a1c5afe9ca170cc2d67e4afc746cf9b3f316656f4daa4554&req=dSYhFsF2noJcW%2FMW1HO4zaHZ1%2FZ%2BIU0dUSZmfJH5WBwyW9XyA82dSNodl5tj%0AxCzuob902XtgYkG0494%3D%0A
+
+- Click + Question to add a new entry.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1660889971/9a7a4ec977dc92933fa6211d9499/Screenshot+2025-08-08+at+11_53_49%E2%80%AFAM.png?expires=1763568000&signature=3db520e87bf9a21776bd344b19c0b4ed7c159aa851adbff2dfbd29d2b4a7404b&req=dSYhFsF2lIhYWPMW1HO4zX7VRndtIpkFyPTJzyQtNEZMEma4pzKp1rYYp0a3%0A3EjvRd7LW2MEg1ruxNA%3D%0A
+
+- A sidebar will pop out from the right side of the screen where you can enter a Question and an Answer into their respective fields.
+
+- After filling in these fields, click Add in the upper right-hand corner of the sidebar to save your FAQ.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1660903634/96e78c25ab24260104d3869452bf/Screenshot+2025-08-08+at+12_02_05%E2%80%AFPM.png?expires=1763568000&signature=5c17f4e9946d6ea36e7c3816850c97c329860dfacbcb69b07f64805ea767fa48&req=dSYhFsB%2BnodcXfMW1HO4za6NBWBxIdfaYHo%2FG1g7WlUPa6eOU4dWxYJZ6iMA%0Ar7nlP0Fb0q3gVwLv4qE%3D%0A
+
+---
+
+Manage Customer Intake FAQs
+
+Keep your FAQs section accurate and up-to-date, providing valuable information quickly for an improved customer service experience.
+
+To manage existing FAQs in the Customer Intake form, follow the steps below:
+
+- Click the gear icon in the top right corner of your account to access your Settings.
+
+- Select Customer Intake from the Settings menu on the left, under Feature Configurations.
+
+- Click the FAQs tab at the top of the page.
+
+- Click the More icon (three dots) to the right of the FAQ.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1661026364/78439cba4c140ef91b75b1c35b6c/Screenshot+2025-08-08+at+12_16_30%E2%80%AFPM.png?expires=1763568000&signature=159d1fac8246c217ae2d23b4ba8d3e257773dbeec4695afe6f402d96a2157881&req=dSYhF8l8m4JZXfMW1HO4zQYyE0QWR0NtqSQnB0LWQHNzYZNwfn9l6F8ma6o%2F%0ALeYgHA9H0kvTx5ec%2F%2Fw%3D%0A
+
+To edit an FAQ's question or answer:
+
+- Select Edit from the drop-down menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1661028983/329324f339c377895447d7465816/Screenshot+2025-08-08+at+1_05_15%E2%80%AFPM.png?expires=1763568000&signature=fee64f45ed3767933cb4c9fb262a9cbd5851a335f2446e931213577a9dff6fa1&req=dSYhF8l8lYhXWvMW1HO4zT00ib%2FzDC3RPQdeqrwil5ANRaAZFuU2UibBZG%2BB%0AAZvb2uTiCe4NAjbTrVo%3D%0A
+
+- A sidebar will pop out from the right side of the screen, allowing you to update both the Question and Answer fields.
+
+- After making your changes, click Save in the upper right-hand corner of the Edit FAQ sidebar to ensure your updates are applied.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1661032172/44f3ed9c12d5d1973ca02276e9cf/Screenshot+2025-08-08+at+1_06_57%E2%80%AFPM.png?expires=1763568000&signature=bc3585fe69b4a13da3039ba0ac444b69f540018c68f8baa566d14e6cc1d8bb03&req=dSYhF8l9n4BYW%2FMW1HO4zdpYY9EhBN%2F3ZB35Z0jtUNb5NNQc0Epqd9ebdQKm%0A9ojHw7fnILxbsPSbQE4%3D%0A
+
+To move an FAQ:
+
+- Select Move Up or Move Down from the drop-down menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1661032741/4d5a32fe482eb03b61e1a1ab10de/Screenshot+2025-08-08+at+12_19_16%E2%80%AFPM.png?expires=1763568000&signature=a2aadc39e071c8321f05b594d1b347a637e03d1a806ce320bdcc6d7afead9877&req=dSYhF8l9n4ZbWPMW1HO4zSshGLGVPEkOOW4X%2FO8Ceur1vBSz2mVW%2FGhEpSpM%0AdyitSNlhsmN%2BSHMYMEM%3D%0A
+
+To delete an FAQ:
+
+- Select Delete from the drop-down menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1661037523/26e0f8d8d03105203fc608f42a6d/Screenshot+2025-08-08+at+1_03_25%E2%80%AFPM.png?expires=1763568000&signature=32fd79bd2b64f447ee515dfa61da189701f6c8cfc5a1d54b84e915ec6e4e2d85&req=dSYhF8l9moRdWvMW1HO4zXucQac%2BnKIx6IkuB1lDzljuRXZFmIkfFyUZSucm%0AsmoldkSAY63X6WujvQo%3D%0A
+
+---
+
+Video Walkthrough
+
+[Video - loom] id=891d03fd53c24c5cad2eaa1a019832e8
+
+---

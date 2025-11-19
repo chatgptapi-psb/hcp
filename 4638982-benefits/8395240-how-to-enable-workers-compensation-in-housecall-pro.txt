@@ -1,0 +1,34 @@
+How to Enable Workers' Compensation in Housecall Pro
+Source: https://help.housecallpro.com/en/articles/8395240-how-to-enable-workers-compensation-in-housecall-pro
+Author: Nate H
+Last updated: Updated over 4 months ago
+
+Enabling Workers' Compensation
+
+In Housecall Pro, as a Payroll user, you'll now be able to see a new sidebar navigation item called "Employee Benefits." This is where you can see which benefits you'd like to offer to your employees.
+
+- Start by navigating to the My Money tab located at the top of your home screen in the navigation bar.
+
+- In the left menu under Payroll, you will find the 'Employee Benefits' tab.
+
+[Image] https://downloads.intercomcdn.com/i/o/834955267/f19e516d5d4b239e5561be2c/image.png?expires=1763567100&signature=5fe386cd31198a74cd3ac5268774081d54960fc9b4f3d904017c2972cd3cf2bf&req=fCMjH8x7n4dYFb4f3HP0gNYG3x%2FwmJ%2F05FKSPselvqsNHAI9HLIkg9cg9BKR%0AU7uyGp%2F40DKa7y7dEQ%3D%3D%0A
+
+- To set up workers' compensation, you'll click the "Get Quote" button on the Employee Benefits page. This will take you to an experience provided by Next Insurance to help give you a quote and potentially purchase your workers' comp package.
+
+- From here, you'll start the quote process by entering various business details like the type of work you do and where.
+
+[Image] https://downloads.intercomcdn.com/i/o/834959290/dcb3dc64e4e96513f0d408a7/image.png?expires=1763567100&signature=f3ab61a1ffa37cf8d63108c547b51aaf38d0940ce1d7db93806950eb3b72f721&req=fCMjH8x3n4hfFb4f3HP0gBZyp%2FCluEZMxv3MaU42oq%2Fov3zUgBEj%2B23y56IQ%0AYGrxgmAfAKETqZsd7A%3D%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/834972941/79ed757932dcbf4bba8ed755/Screenshot+2023-09-20+at+9.05.49+AM.png?expires=1763567100&signature=5a3e3faa18831d5c466406c5ef89308926fb47f7036315357eb83f548042844e&req=fCMjH858lIVeFb4f3HP0gOpnFLCzCkU8%2BZm4nvDGomjZvFtLIDkNBwGlyILU%0AQFJuvzR6n%2BY5Z%2Fcltg%3D%3D%0A
+
+- After filling out a series of additional information, you'll either be provided with a quote or a set of actions to follow up with to get a quote.
+
+[Image] https://downloads.intercomcdn.com/i/o/834977653/f7ffbc52c6c7b12fefc9b9d1/Screenshot+2023-09-20+at+9.09.02+AM.png?expires=1763567100&signature=038688de277739d5e36c73628a0c676c6cb554a0af079fb237e48de4324621a3&req=fCMjH855m4RcFb4f3HP0gFvb%2FkpNUubAQpxOh%2BBpSYAHV%2BEnYmfz9tideAZh%0A%2FzrtfEYDmV34e%2F9PKw%3D%3D%0A
+
+- You'll then be sent to a screen where you can set up an account with Next and start billing. Payment for workers' compensation happens directly via your paycheck.
+
+[Image] https://downloads.intercomcdn.com/i/o/834981858/9356e3cc004a5f23f35e89c3/image.png?expires=1763567100&signature=a8f3836de4192769bc30c97b2a29debedbebc766489e488774bc5a36b965024f&req=fCMjH8F%2FlYRXFb4f3HP0gG1pi9vJ02bL7uRAzlxMWY47HYFJVh7XyR1rbbsV%0AgsRnnG8ftupEkQEXOA%3D%3D%0A
+
+- If you need to come back to your workers' compensation profile, you can always get there by going back to "Employee benefits" in Housecall Pro and clicking "Manage" again - this will take you back to Next Insurance where you can then manage your policy.
+
+---

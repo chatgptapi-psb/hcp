@@ -1,0 +1,62 @@
+Create Service Plan Templates
+Source: https://help.housecallpro.com/en/articles/2369524-create-service-plan-templates
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: How to create Service Plan Templates for your company to sell to your customers.
+
+---
+
+Video Tutorial
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/sbqtnyg82z
+
+Creating a Service Plan Template
+
+To create a Service plan Template:
+
+- Go to My Apps (3x3 square) in the top right corner of your HCP account on the web to view your Service plans dashboard.
+
+- Click the + Service Plan button in the top right corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/280307180/30d70cdb91b4f4c1ee712996/image.png?expires=1763568000&signature=219031d1596a01315bf4731547df88f5c8c75bb6c147733e531ffd45079af596&req=dignFcl5nIlfFb4f3HP0gHaiudzz9eceZhoB9sSZN1wzxRpO%2FUXIWoNvSkks%0AoRAIPKG3Jxn3CDk4uA%3D%3D%0A
+
+- Name the plan and add a description.
+
+- If you wish to automatically apply a discount to all jobs for customers on this service plan, enter the discount name and amount. Then press NEXT in the top right corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/624963230/ea7a9d72278d1eebc7e34f4a/D089CA1A-53CA-4C66-B4D0-63D9730510F2.png?expires=1763568000&signature=318885432676f74814e66603735ef481b1d38f204b79cf9b2aa2eb64d27aefdc&req=ciIjH899n4JfFb4f3HP0gH25qpF3Xn0A1snb4Y9ypqpi30OLKD%2BYQFtsjRMt%0AQtrK28uW8aSldp6%2F6w%3D%3D%0A
+
+- Set the number of included visits per year (up to 12), the plan duration, and payment options. Then press NEXT in the top right corner.
+
+- For plans made entirely of Add-ons, keep the price at $0 at this step. Be sure to select the billing cadence customers can choose from, such as monthly, quarterly, annually, etc. Then press NEXT in the top right corner of the screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/262448855/efeb777a6bb84021830b78dc/image.png?expires=1763568000&signature=2309dd25619160158db91c9507cbe9aec391d42d3e1850714bb9960cfa5df788&req=diYlEs12lYRaFb4f3HP0gIviKb%2B9angWpJ7Z%2Ff%2BXSyPoMUVb%2FUsvAMhnoiag%0AeoTnv3BdZ3ozk%2FuJyw%3D%3D%0A
+
+- Create any Add-ons for this plan. Common Add-ons include additional units or premium optional services that complement the standard plan. Then click CREATE PLAN in the top right corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/262451983/fd14e64615feefe16650be09/image.png?expires=1763568000&signature=ade3679740cadaf4b38963a5288bce577a1c856400608135c97d581e84da8a25&req=diYlEsx%2FlIlcFb4f3HP0gFSTW4IeAeSh2eyxB%2FQp%2Bw25QC81bg5e1hcmHnJQ%0Ab6qZV3vkLF08X1hYUg%3D%3D%0A
+
+​
+
+Up Next: How to Sell A Service Plan
+
+---
+
+What are Service Plans?
+
+Service plans, also commonly referred to as maintenance plans or service agreements, are contracts that define an ongoing service arrangement between your business and your customers. Customers make payments to ensure preventative maintenance, or as a form of insurance should an issue arise, and your business performs dedicated visits and services detailed within the agreement.
+
+Why are Service Plan Memberships Vital in the Home Service Industry?
+
+Service plans are a great way for you to generate dependable revenue for your business, strengthen your employee relationships, and increase your customer loyalty. They allow you to develop revenue streams to help smooth out those seasonal variations in your business while keeping you well-connected to your best customers.
+
+See What Our Pros Have to Say
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/vlbtcw54k2
+
+[Button] Take Tour -> https://app.storylane.io/share/pj2dyri7viog
+
+---
+
+---

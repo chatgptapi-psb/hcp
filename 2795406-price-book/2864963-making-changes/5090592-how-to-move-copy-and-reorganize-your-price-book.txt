@@ -1,0 +1,305 @@
+How to Move, Copy, and Reorganize Your Price Book
+Source: https://help.housecallpro.com/en/articles/5090592-how-to-move-copy-and-reorganize-your-price-book
+Author: Layla K
+Last updated: Updated over a month ago
+
+Summary: Streamline your Price Book: learn to move, reorder, and copy items efficiently for better organization and smoother operations.
+
+Benefits of Efficient Price Book Organization
+
+Keeping your Price Book organized is key to smooth operations and accurate pricing. Whether you need to move items to new categories, reorder services, or copy them across industries, knowing how to manage these tasks can make your work easier and more efficient. This article will show you:
+
+- How to Reorganize: Quickly move and reorder items to keep everything in the right place.
+
+- How to Copy Items: Easily duplicate services and materials for different categories and/or industries.
+
+- How to Save Time: Use practical tips to streamline your Price Book and focus on other important tasks.
+
+Learn these skills to make your Price Book management simpler and more effective.
+
+---
+
+Reorder Industries in Your Service Price Book
+
+To reorder industries in your Price Book:
+
+- Click the Price Book tab in the top navigation bar of your Housecall Pro account. - If you have a lot of features in the top navigation bar, your Price Book may be nested under the More drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/876682846/566d222766cb53b675613f0a/Screenshot+2023-11-06+at+3.43.09+PM.png?expires=1763568000&signature=e5e4982480c6c3382982426c2b7dfdfe4a47877cd87c791ce7b637623744af3d&req=fCchEMF8lYVZFb4f3HP0gBxxQH%2BwFl%2BgfmJxK2dzMK8Wg0DES9EDF8LkaMv1%0ACvjSz3Zlqp7BqvW%2F7g%3D%3D%0A
+
+- Ensure that Services is selected from the Price Book menu on the left.
+
+- You will see all your industries presented here in a grid format. Click on the More icon (three dots) on an Industry and select Reorder from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/1129763066/47329f6fa875637c4f143b98/Screenshot+2024-07-30+at+6_21_57%E2%80%AFPM.png?expires=1763568000&signature=b308bf7fb328884a95158d6aacbcdec308ab12bca5248883dd78376b7d2fb9f2&req=dSElH854noFZX%2FMW1HO4zUqAtdYAkb9OGPerVX4lRR6RpOSfyjSlDBfdpeCf%0A%2B%2BbjFkGInTR5HeXqRLw%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/1132145336/84714a2b11b2367c015dd159/Screenshot+2024-08-01+at+4_20_09%E2%80%AFPM.png?expires=1763568000&signature=3c5c8698bd694f972158f93e9ea3425a880f19d24bae7ffe48c998720eb0bcea&req=dSEkFMh6mIJcX%2FMW1HO4zYdaUagcoPwCSwxC0napPCil0xyS8ZHdC%2BDNS5vF%0Abx4uMJsE1bzB2XmaChk%3D%0A
+
+- Use your mouse to drag and drop the industry blocks to your desired positions.
+
+- When you're ready, click Save Order in the top right corner of the page to apply the changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132146049/c36fbb3654aca44997b5df9b/Screenshot+2024-08-01+at+4_21_00%E2%80%AFPM.png?expires=1763568000&signature=76638b9ffc91148e543516c0d2447db48980e27bcee9f6ca35f0f87a315b35b5&req=dSEkFMh6m4FbUPMW1HO4zd%2FcDJJXeXa77FEvHZbDypGNESAD9Igv6B7kv7%2FX%0Apnf6R8amp%2Fj6k8Vkvqg%3D%0A
+
+---
+
+Reorder Categories in Your Service Price Book
+
+To reorder Service categories in your Price Book:
+
+- Click the Price Book tab in the top navigation bar of your Housecall Pro account. - If you have a lot of features in the top navigation bar, your Price Book may be nested under the More drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/876682846/566d222766cb53b675613f0a/Screenshot+2023-11-06+at+3.43.09+PM.png?expires=1763568000&signature=e5e4982480c6c3382982426c2b7dfdfe4a47877cd87c791ce7b637623744af3d&req=fCchEMF8lYVZFb4f3HP0gBxxQH%2BwFl%2BgfmJxK2dzMK8Wg0DES9EDF8LkaMv1%0ACvjSz3Zlqp7BqvW%2F7g%3D%3D%0A
+
+- Ensure that Services is selected from the Price Book menu on the left.
+
+- Next, select the industry that contains the categories you want to reorder.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130650495/c579d754f85b33bfa30791c8/Screenshot+2024-07-31+at+12_08_34%E2%80%AFPM.png?expires=1763568000&signature=5c6386772cd2d49c1c935e4f10ed1da84718d25a65f668f293addfe3639ff7a4&req=dSEkFs97nYVWXPMW1HO4zRGNg01x2wGEMqwgeX3xLVM6iDR4kv012DZMHiX5%0A3nkB4ZGprZ2vwFYQq8s%3D%0A
+
+- To reorder categories, find and click the three vertical dots icon in the lower right corner of any category and select Reorder from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130668421/97cc0ad584207b21ee7dd734/Screenshot+2024-07-31+at+12_43_32%E2%80%AFPM.png?expires=1763568000&signature=3cdf1d12452824714a5b95778f396d8dd72aa14c3b0d5a415af5a5a00d1a1f62&req=dSEkFs94lYVdWPMW1HO4zZ2%2FH245jTUYcgPz06ZQyT26sqfiAc%2BRm6iOIbx0%0AN5KDumtNyu2ZfdvK5a8%3D%0A
+
+- Select Reorder from the drop-down menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132158874/ddb9b34243dae25a56c32567/Screenshot+2024-08-01+at+4_35_36%E2%80%AFPM.png?expires=1763568000&signature=1d0bf4f82d2d89a6ac69ca1cb325082ebb00e8eaa98833929c6442a067c7f81c&req=dSEkFMh7lYlYXfMW1HO4za0MUN7PFiDWebM7lsqkth9%2FNJZ9mS7sAsMNtSyA%0AwVw77Cz7y1etmSNwbJU%3D%0A
+
+- Use your mouse to drag and drop the category blocks to your desired positions.
+
+- When you're finished, click Save order in the top right corner of the page to apply the changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132160461/776a6b32def800b447bd4a53/Screenshot+2024-08-01+at+4_37_42%E2%80%AFPM.png?expires=1763568000&signature=43baa54fd40ff22624eed4220538e2f5fe00a1587425eb28851640a2da00fe42&req=dSEkFMh4nYVZWPMW1HO4zctrA5Ckkqe5yJgv5wwmpDS%2FiaDrLKvxGSt4tnoW%0AbX6EJRAftODEFmW96dc%3D%0A
+
+---
+
+How to Reorder Categories in Your Material Price Book
+
+To reorder Material categories in your Price Book:
+
+- Click the Price Book tab in the top navigation bar of your Housecall Pro account. - If you have a lot of features in the top navigation bar, your Price Book may be nested under the More drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/876682846/566d222766cb53b675613f0a/Screenshot+2023-11-06+at+3.43.09+PM.png?expires=1763568000&signature=e5e4982480c6c3382982426c2b7dfdfe4a47877cd87c791ce7b637623744af3d&req=fCchEMF8lYVZFb4f3HP0gBxxQH%2BwFl%2BgfmJxK2dzMK8Wg0DES9EDF8LkaMv1%0ACvjSz3Zlqp7BqvW%2F7g%3D%3D%0A
+
+- Once you have navigated to your price book, ensure that Materials is selected from the left-hand menu, located directly beneath the Price Book heading.
+
+- To reorder material categories, find and click the three vertical dots icon in the lower right corner of any category.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132207363/5f5a0577602f376b4c2bdeda/Screenshot+2024-08-01+at+5_36_41%E2%80%AFPM.png?expires=1763568000&signature=d32dbe26b1a54291ef0965e5ea1c86c6e07709e3b4fd6a765ced4f4f83a362cb&req=dSEkFMt%2BmoJZWvMW1HO4zdGsjuk3P3sXEP%2FVylh4OyhGOxoTMnoeCWPu%2FlO4%0AZy1v%2FajVnQcsiL2yQZw%3D%0A
+
+- From the drop-down menu, select Reorder.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132207825/aaf56aea9cfe60a5fe0c31a4/Screenshot+2024-08-01+at+5_37_39%E2%80%AFPM.png?expires=1763568000&signature=713f427f2e3029e33c68a4be94f6fdf778e86843d230ac0b77065340057edeeb&req=dSEkFMt%2BmoldXPMW1HO4zZ2AwAgCv2O%2FKzyc6%2BFr1YdIIEuRVkVX60rF0%2BbI%0AjRET5TXjzFgjJ9VfaGY%3D%0A
+
+- Use your mouse to drag and drop the category blocks to your desired positions. When you're finished, click Save order to apply the changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132208242/343400b0a1318b4a2da4c4ff/Screenshot+2024-08-01+at+5_38_23%E2%80%AFPM.png?expires=1763568000&signature=df355bfa894274d708dcfb3a3162a48e27ceb6fb8a4fedbb2931e662311713eb&req=dSEkFMt%2BlYNbW%2FMW1HO4zVESLOI162%2Fm7ptCkGjsoem8ptlKAddRfxnX%2B%2F2U%0AgfL%2BDLe5qy7fdXIvjUY%3D%0A
+
+---
+
+Reorder Services in Your Price Book
+
+To reorder services in your Price Book:
+
+- Click the Price Book tab in the top navigation bar of your Housecall Pro account. If you have a lot of features in the top navigation bar, your Price Book may be nested under the More drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/876682846/566d222766cb53b675613f0a/Screenshot+2023-11-06+at+3.43.09+PM.png?expires=1763568000&signature=e5e4982480c6c3382982426c2b7dfdfe4a47877cd87c791ce7b637623744af3d&req=fCchEMF8lYVZFb4f3HP0gBxxQH%2BwFl%2BgfmJxK2dzMK8Wg0DES9EDF8LkaMv1%0ACvjSz3Zlqp7BqvW%2F7g%3D%3D%0A
+
+- If you have multiple industries, select the industry where you want to reorder services.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130650495/c579d754f85b33bfa30791c8/Screenshot+2024-07-31+at+12_08_34%E2%80%AFPM.png?expires=1763568000&signature=5c6386772cd2d49c1c935e4f10ed1da84718d25a65f668f293addfe3639ff7a4&req=dSEkFs97nYVWXPMW1HO4zRGNg01x2wGEMqwgeX3xLVM6iDR4kv012DZMHiX5%0A3nkB4ZGprZ2vwFYQq8s%3D%0A
+
+- From the industry menu, select the category where you want to edit a service.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130862181/d4d32171e52ba71da2085533/Screenshot+2024-07-31+at+3_39_40%E2%80%AFPM.png?expires=1763568000&signature=c7788e891358822f414abac51d09dbf2989d822f5532a91cc944c2d86ca0edf0&req=dSEkFsF4n4BXWPMW1HO4zeJ0u%2BOHvRbXQz63R6KIVFrfKFKEuHJFUq2K6Jj%2B%0A37Pd7k8MQc1d6JWQIIQ%3D%0A
+
+- On the Services page, click the More icon (three dots) to the right of any service.
+
+[Image] https://downloads.intercomcdn.com/i/o/1131022922/4f096f2226b06edc5700fc03/Screenshot+2024-07-31+at+7_18_18%E2%80%AFPM.png?expires=1763568000&signature=36ebb4b3e8abf5e7fc6203cff04f5d3e95c14fe8d97abf17fef65443ccd8adb0&req=dSEkF8l8n4hdW%2FMW1HO4zevPAzJ0%2FElWA0Hi0eTqUEV1VSeftw%2FQu6wxMD2N%0ARhj32NA1EOokd%2BZWrnk%3D%0A
+
+- Select Reorder from the dropdown.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132165802/0376b811513febab7340ea83/Screenshot+2024-08-01+at+4_43_18%E2%80%AFPM.png?expires=1763568000&signature=e7630c2f01a96fddffd724bb450f95bb8ddb6312fa0f37a3063ad05977e8bc63&req=dSEkFMh4mIlfW%2FMW1HO4zeLoew9UVXW1wrIEAc73j54%2BpFvK5Id5ufKHBbDM%0AhAZw3zHGkvN%2FUtBcgl4%3D%0A
+
+- Use your mouse to drag and drop the services to your desired positions. When done, click Save order in the top right corner to apply the changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132167517/a1025ab4904b3db975b71b2c/Screenshot+2024-08-01+at+4_45_19%E2%80%AFPM.png?expires=1763568000&signature=fcf0568bcc02d9085738b06c8f268b4430408e6a7d9f95f40a754887f6c65069&req=dSEkFMh4moReXvMW1HO4zbuRL00qEOZY1iCdt0avfBCAorv3w7nQxJbAE4%2Bs%0AbEtxBYXQfceLVpq%2BXbo%3D%0A
+
+---
+
+How to Reorder Materials in Your Price Book
+
+To reorder materials in your Price Book:
+
+- Click the Price Book tab in the top navigation bar of your Housecall Pro account. If you have a lot of features in the top navigation bar, your Price Book may be nested under the More drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/876682846/566d222766cb53b675613f0a/Screenshot+2023-11-06+at+3.43.09+PM.png?expires=1763568000&signature=e5e4982480c6c3382982426c2b7dfdfe4a47877cd87c791ce7b637623744af3d&req=fCchEMF8lYVZFb4f3HP0gBxxQH%2BwFl%2BgfmJxK2dzMK8Wg0DES9EDF8LkaMv1%0ACvjSz3Zlqp7BqvW%2F7g%3D%3D%0A
+
+- Once you have navigated to your price book, ensure that Materials is selected from the left-hand menu, located directly beneath the Price Book heading.
+
+- If you have multiple categories, click on the category where you want to reorder materials.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132211758/544cc597aab5b1ef0538b203/Screenshot+2024-08-01+at+5_43_41%E2%80%AFPM.png?expires=1763568000&signature=681771a2840e99f49e74340c036643b38291cdc736c5fc5b6e8a98822004d766&req=dSEkFMt%2FnIZaUfMW1HO4zZ16ickDQuJSbk8%2FHI4Y38%2FyjP7A27Rg1Hig%2F8Ze%0Al1AdJ71gkmyeYz%2FEqMc%3D%0A
+
+- On the Materials page, click the three-dots icon to the far right of any material to reorder materials.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132212304/547e7f2245f07605e68e96b1/Screenshot+2024-08-01+at+5_44_50%E2%80%AFPM.png?expires=1763568000&signature=7ecf46831d10725811836098f72548377bbb376f6f60e74799bfb5c78bc81f98&req=dSEkFMt%2Fn4JfXfMW1HO4zVyIEbypDBGHRnbImZPF50%2F9qzLpS6L4s3eyT%2Fs4%0A3zGsta49%2FSWHwjP8Jeo%3D%0A
+
+- From the drop-down menu, click 'Reorder'.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132212626/60224eb5c004c19c4af33177/Screenshot+2024-08-01+at+5_45_23%E2%80%AFPM.png?expires=1763568000&signature=41369377e9a64fe873baa6159df9e17b2ff20a882e4ca0007fbd30b4a5cc93d5&req=dSEkFMt%2Fn4ddX%2FMW1HO4zX0%2FDy%2Fdb2Im%2FfOVT6XCYQzFdmI99vjaCaWEPSLK%0AJKREXR6%2BxHFYxDGj5%2Bs%3D%0A
+
+- Use your mouse to drag and drop the services to your desired positions. When done, click 'Save Order' in the upper-right-hand corner to apply the changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132212951/6358f35c950f5d0c55db16fa/Screenshot+2024-08-01+at+5_45_57%E2%80%AFPM.png?expires=1763568000&signature=5851de91c778ab767d3e8ccf4bf119d6c5e120cac3a00d3257e7963fa136e546&req=dSEkFMt%2Fn4haWPMW1HO4zYhZLho87e36rhWdfZS%2BASYq6t4jwfAS1QhZAyet%0AANU%2BDTDMbtiOobMv6eY%3D%0A
+
+---
+
+Moving Services and Materials in Your Price Book
+
+If you need a simple and efficient way of reorganizing your price book, you can use the bulk move tool.
+​
+​This allows you to do the following actions:
+
+- Move up to 100 services and/or materials to an existing location in your price book
+- Move up to 100 services to the 'Materials' section of your price book
+
+---
+
+Moving Services to a Different Location, Industry, and Category in Your Price Book
+
+To move a service to a different category and industry in your Price Book:
+
+- Click the ‘Price Book’ tab in the top navigation bar of your Housecall Pro account. If you have a lot of features in the top navigation bar, your Price Book may be nested under the More drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/876682846/566d222766cb53b675613f0a/Screenshot+2023-11-06+at+3.43.09+PM.png?expires=1763568000&signature=e5e4982480c6c3382982426c2b7dfdfe4a47877cd87c791ce7b637623744af3d&req=fCchEMF8lYVZFb4f3HP0gBxxQH%2BwFl%2BgfmJxK2dzMK8Wg0DES9EDF8LkaMv1%0ACvjSz3Zlqp7BqvW%2F7g%3D%3D%0A
+
+- If you have multiple industries, click the industry where the service you want to move is located.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130650495/c579d754f85b33bfa30791c8/Screenshot+2024-07-31+at+12_08_34%E2%80%AFPM.png?expires=1763568000&signature=5c6386772cd2d49c1c935e4f10ed1da84718d25a65f668f293addfe3639ff7a4&req=dSEkFs97nYVWXPMW1HO4zRGNg01x2wGEMqwgeX3xLVM6iDR4kv012DZMHiX5%0A3nkB4ZGprZ2vwFYQq8s%3D%0A
+
+- From the industry menu, select the category where the service you want to move is located.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130862181/d4d32171e52ba71da2085533/Screenshot+2024-07-31+at+3_39_40%E2%80%AFPM.png?expires=1763568000&signature=c7788e891358822f414abac51d09dbf2989d822f5532a91cc944c2d86ca0edf0&req=dSEkFsF4n4BXWPMW1HO4zeJ0u%2BOHvRbXQz63R6KIVFrfKFKEuHJFUq2K6Jj%2B%0A37Pd7k8MQc1d6JWQIIQ%3D%0A
+
+- On the Services page, find the service you want to move and click the three-dots icon to the far right.
+
+[Image] https://downloads.intercomcdn.com/i/o/1131022922/4f096f2226b06edc5700fc03/Screenshot+2024-07-31+at+7_18_18%E2%80%AFPM.png?expires=1763568000&signature=36ebb4b3e8abf5e7fc6203cff04f5d3e95c14fe8d97abf17fef65443ccd8adb0&req=dSEkF8l8n4hdW%2FMW1HO4zevPAzJ0%2FElWA0Hi0eTqUEV1VSeftw%2FQu6wxMD2N%0ARhj32NA1EOokd%2BZWrnk%3D%0A
+
+- From the drop-down menu, click 'Move Location'.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132175998/3cd8e3345c6c6c8ab9056885/Screenshot+2024-08-01+at+4_53_43%E2%80%AFPM.png?expires=1763568000&signature=4d64e548fc1d66c25563dbecc0995d6b8c4e65efce5b31a634b3aa85e708f87d&req=dSEkFMh5mIhWUfMW1HO4zT671fTo4YceJxgp5ST1W%2F75dnNYjRYrN%2FJcHjKi%0AG9TwVXxdBlmV%2FtACTVw%3D%0A
+
+- Checkboxes will appear next to the services. Check the boxes next to the services you want to move. To select up to 100 services at once, click the top checkbox next to the 'Services' sub-header.
+
+- Once you’ve selected the services you wish to move, click the 'Move Services' button in the upper-right corner. The number of selected services will be displayed on this button.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132185654/5420bd895920abffddc47312/Screenshot+2024-08-01+at+5_07_13%E2%80%AFPM.png?expires=1763568000&signature=40d591cccb461041242bddb8eaf94526f2383f389f650d9c28558ae961520e69&req=dSEkFMh2mIdaXfMW1HO4zbZE%2FeOrOtI3QFSeAKajdGMVExWM0x8bLE1yrS%2B0%0Acs4Ghzuzt32Z2raxBIM%3D%0A
+
+- A pop-up will appear. From here, you can choose the location for either Services or Materials. You will also be able to select the industry and category from a drop-down menu displaying the options you’ve created.
+
+- Once you’ve selected the location, industry, and category, click 'Save' to apply the changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132190191/beb4cc8ca6dc015f7a09b907/image.png?expires=1763568000&signature=7b4abb31c37231834101b8649efbcdbabfa0f90cff177a9f6a5f4e79591ad379&req=dSEkFMh3nYBWWPMW1HO4zcBU6wtwNssRK5bMsgesvtk1nEe0MiovtHwzW0Jv%0At1wmqMIxeoDGathhK0E%3D%0A
+
+---
+
+Moving Materials to a Different Category in Your Price Book
+
+To move materials to a different category in your Price Book:
+
+- Click the ‘Price Book’ tab in the top navigation bar of your Housecall Pro account. If you have a lot of features in the top navigation bar, your Price Book may be nested under the More drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/876682846/566d222766cb53b675613f0a/Screenshot+2023-11-06+at+3.43.09+PM.png?expires=1763568000&signature=e5e4982480c6c3382982426c2b7dfdfe4a47877cd87c791ce7b637623744af3d&req=fCchEMF8lYVZFb4f3HP0gBxxQH%2BwFl%2BgfmJxK2dzMK8Wg0DES9EDF8LkaMv1%0ACvjSz3Zlqp7BqvW%2F7g%3D%3D%0A
+
+- Once you have navigated to your price book, ensure that Materials is selected from the left-hand menu, located directly beneath the Price Book heading.
+
+- From the category menu, select the category where the material you want to move is located.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132211758/544cc597aab5b1ef0538b203/Screenshot+2024-08-01+at+5_43_41%E2%80%AFPM.png?expires=1763568000&signature=681771a2840e99f49e74340c036643b38291cdc736c5fc5b6e8a98822004d766&req=dSEkFMt%2FnIZaUfMW1HO4zZ16ickDQuJSbk8%2FHI4Y38%2FyjP7A27Rg1Hig%2F8Ze%0Al1AdJ71gkmyeYz%2FEqMc%3D%0A
+
+- On the Materials page, find the service you want to move and click the three-dots icon to the far right.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132212304/547e7f2245f07605e68e96b1/Screenshot+2024-08-01+at+5_44_50%E2%80%AFPM.png?expires=1763568000&signature=7ecf46831d10725811836098f72548377bbb376f6f60e74799bfb5c78bc81f98&req=dSEkFMt%2Fn4JfXfMW1HO4zVyIEbypDBGHRnbImZPF50%2F9qzLpS6L4s3eyT%2Fs4%0A3zGsta49%2FSWHwjP8Jeo%3D%0A
+
+- From the drop-down menu, click 'Move Location'
+
+[Image] https://downloads.intercomcdn.com/i/o/1132221680/848d935fbd5c84b241bc5772/Screenshot+2024-08-01+at+6_00_21%E2%80%AFPM.png?expires=1763568000&signature=a3c5c115cfa204edfbfff521f5376de2bb69e8118aad4741750eb7a36315e8b3&req=dSEkFMt8nIdXWfMW1HO4zUjf3WcT7xzvj%2BWaoXjCtSXwJi3VCHWzMrUAf0P6%0A6dSzeilUxzkD8g8Mizw%3D%0A
+
+- Checkboxes will appear next to the services. Check the boxes next to the materials you want to move. To select up to 100 materials at once, click the top checkbox next to the 'Materials' sub-header.
+
+- Once you’ve selected the services you wish to move, click the 'Move Materials' button in the upper-right corner. The number of selected materials will be displayed on this button.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132222173/8544687338d36262ec14298c/Screenshot+2024-08-01+at+6_00_58%E2%80%AFPM.png?expires=1763568000&signature=1b7b2735b15fbd8914da2f070a8cfa76c9f7b8d36cad7f046eded60af623c227&req=dSEkFMt8n4BYWvMW1HO4zchLqmjQNXaUruqrc9F3Gdb0nkqD%2FkBlevVfDKNK%0AhZz7W%2FY5ttdd%2FkjxQhw%3D%0A
+
+- A pop-up will appear. From here, select a category from a drop-down menu displaying the options you’ve created.
+
+- Once you’ve selected the category, click 'Save' to apply the changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132222490/190e17a7cfc6f9b6ea5b84f7/image.png?expires=1763568000&signature=4ba5237fb4e430aad2a95be5c843aba4e6065a8c35610825cee4235a287c6646&req=dSEkFMt8n4VWWfMW1HO4zWu%2BrEm1kqBkou7g6sZ8Eq1Aqf4nkyUwut9RTjVG%0At9uURwyrxqphS4x0oxA%3D%0A
+
+---
+
+How to Copy Services in your Price Book
+
+To copy a service in your Price Book:
+
+- Click the Price Book tab in the top navigation bar of your Housecall Pro account. If you have a lot of features in the top navigation bar, your Price Book may be nested under the More drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/876682846/566d222766cb53b675613f0a/Screenshot+2023-11-06+at+3.43.09+PM.png?expires=1763568000&signature=e5e4982480c6c3382982426c2b7dfdfe4a47877cd87c791ce7b637623744af3d&req=fCchEMF8lYVZFb4f3HP0gBxxQH%2BwFl%2BgfmJxK2dzMK8Wg0DES9EDF8LkaMv1%0ACvjSz3Zlqp7BqvW%2F7g%3D%3D%0A
+
+- Ensure that Services is selected in the left menu.
+
+- From the industry menu, select the category where the service you want to copy is located.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130650495/c579d754f85b33bfa30791c8/Screenshot+2024-07-31+at+12_08_34%E2%80%AFPM.png?expires=1763568000&signature=5c6386772cd2d49c1c935e4f10ed1da84718d25a65f668f293addfe3639ff7a4&req=dSEkFs97nYVWXPMW1HO4zRGNg01x2wGEMqwgeX3xLVM6iDR4kv012DZMHiX5%0A3nkB4ZGprZ2vwFYQq8s%3D%0A
+
+- From the industry menu, select the category where the service you want to copy is located.
+
+[Image] https://downloads.intercomcdn.com/i/o/1130862181/d4d32171e52ba71da2085533/Screenshot+2024-07-31+at+3_39_40%E2%80%AFPM.png?expires=1763568000&signature=c7788e891358822f414abac51d09dbf2989d822f5532a91cc944c2d86ca0edf0&req=dSEkFsF4n4BXWPMW1HO4zeJ0u%2BOHvRbXQz63R6KIVFrfKFKEuHJFUq2K6Jj%2B%0A37Pd7k8MQc1d6JWQIIQ%3D%0A
+
+- On the Services page, find the service and click the More icon (three dots) to the far right to copy it.
+
+[Image] https://downloads.intercomcdn.com/i/o/1131022922/4f096f2226b06edc5700fc03/Screenshot+2024-07-31+at+7_18_18%E2%80%AFPM.png?expires=1763568000&signature=36ebb4b3e8abf5e7fc6203cff04f5d3e95c14fe8d97abf17fef65443ccd8adb0&req=dSEkF8l8n4hdW%2FMW1HO4zevPAzJ0%2FElWA0Hi0eTqUEV1VSeftw%2FQu6wxMD2N%0ARhj32NA1EOokd%2BZWrnk%3D%0A
+
+- From the drop-down menu, select Copy.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132196458/9c3ae78dd0004d3918847b66/Screenshot+2024-08-01+at+5_21_01%E2%80%AFPM.png?expires=1763568000&signature=7b1af0c6cf56f7ad842ceed5c55247dae56bf133694b7bc354412a80a3b3eb9b&req=dSEkFMh3m4VaUfMW1HO4zYg5hvOFzVERFJbkNTUaK4nxA%2BZ5CWTL%2BtgR5%2BU2%0A05VQ2T2W6LS94Xf%2FI8Q%3D%0A
+
+- A pop-up will appear. From here, select the industry and category where you’d like to copy the service using the drop-down menus displaying the options you’ve created.
+
+- Once you’ve selected the industry and category, click Save to apply the changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132199106/996c55bf46a0cb6cd971a16f/image.png?expires=1763568000&signature=97a4eea6c1ace7af02b004d13cf810541c7afa268d89ebca41fe107dd44281f1&req=dSEkFMh3lIBfX%2FMW1HO4zXsjBnmc7ek9CouoOe27LHIa1fjz8o9RCBGcCFKJ%0Ab2DsVjeoYlE4Dfv%2BfEQ%3D%0A
+
+---
+
+How to Copy Materials in Your Price Book
+
+To copy a material in your Price Book:
+
+- Click the Price Book tab in the top navigation bar of your Housecall Pro account. If you have a lot of features in the top navigation bar, your Price Book may be nested under the More drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/876682846/566d222766cb53b675613f0a/Screenshot+2023-11-06+at+3.43.09+PM.png?expires=1763568000&signature=e5e4982480c6c3382982426c2b7dfdfe4a47877cd87c791ce7b637623744af3d&req=fCchEMF8lYVZFb4f3HP0gBxxQH%2BwFl%2BgfmJxK2dzMK8Wg0DES9EDF8LkaMv1%0ACvjSz3Zlqp7BqvW%2F7g%3D%3D%0A
+
+- Select Materials from the left menu.
+
+- Select the category where the material you want to copy is located.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132211758/544cc597aab5b1ef0538b203/Screenshot+2024-08-01+at+5_43_41%E2%80%AFPM.png?expires=1763568000&signature=681771a2840e99f49e74340c036643b38291cdc736c5fc5b6e8a98822004d766&req=dSEkFMt%2FnIZaUfMW1HO4zZ16ickDQuJSbk8%2FHI4Y38%2FyjP7A27Rg1Hig%2F8Ze%0Al1AdJ71gkmyeYz%2FEqMc%3D%0A
+
+- Find the material and click the More icon (three dots) to the far right to copy it.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132212304/547e7f2245f07605e68e96b1/Screenshot+2024-08-01+at+5_44_50%E2%80%AFPM.png?expires=1763568000&signature=7ecf46831d10725811836098f72548377bbb376f6f60e74799bfb5c78bc81f98&req=dSEkFMt%2Fn4JfXfMW1HO4zVyIEbypDBGHRnbImZPF50%2F9qzLpS6L4s3eyT%2Fs4%0A3zGsta49%2FSWHwjP8Jeo%3D%0A
+
+- From the drop-down menu, select Copy.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132227878/90a2bd4386dd683306aa7a26/Screenshot+2024-08-01+at+6_10_41%E2%80%AFPM.png?expires=1763568000&signature=e9e170b288f64083e28c097d491232c15bb32b343646b6ff5c53c96ab5bb9e25&req=dSEkFMt8molYUfMW1HO4zZ5gRnEp%2BtJn1eJRFDVdYH%2BydTUcRPYKUH28MaCA%0A8WVXXpTjNG6z%2FGMgugU%3D%0A
+
+- A pop-up will appear. From here, select the category where you’d like to copy the material using the drop-down menus displaying the options you’ve created.
+
+- Once you’ve selected the category, click Save to apply the changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/1132227030/81e2bcdcf579e53be0bd0111/Screenshot+2024-08-01+at+6_09_17%E2%80%AFPM.png?expires=1763568000&signature=8c3901cd52dd78f7789fa45c9cc9ef83368eec70afa41c72bd67fa6a5bfec9e8&req=dSEkFMt8moFcWfMW1HO4zR0oez5lqYTb0KtX6xiDbFB7saIJv3yG1AIt9AXa%0Aw0LurbEMRF0ycD7sD5s%3D%0A
+
+---

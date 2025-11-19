@@ -1,0 +1,112 @@
+QuickBooks Online: Class Tracking
+Source: https://help.housecallpro.com/en/articles/6558287-quickbooks-online-class-tracking
+Author: Roland Ligtenberg
+Last updated: Updated over 7 months ago
+
+Summary: Housecall Pro can now import, save and export QuickBooks Online classes
+
+QuickBooks Online Class Tracking in Housecall Pro
+
+QuickBooks Online Class tracking is now available in Housecall Pro. Classes from QuickBooks Online are imported as Business Units in Housecall Pro.
+
+- Import Classes as Business Units on Jobs
+- Send Business Units as Classes on Invoices to QuickBooks
+- Apply Business Units to Service Agreements and visits in Housecall Pro
+- Business Units applied to Service Agreements will send to QuickBooks as Classes on the Invoice.
+
+What is Class Tracking?
+
+Class tracking allows you to track transactions by department or any other meaningful breakdown of your business. This allows you to breakdown your profit and loss statements by areas of your business.
+
+For example, if you have a multi-trade business like HVAC, Plumbing and Electrical, you can class your transactions by each of those areas to show in P&L statements. Or if you are an HVAC company and would like to breakdown your business by new install, repair or maintenance. Breaking down your areas of business help you understand where your business is making money and where you potentially need improvement.
+
+Prerequisites for Class Tracking in Housecall Pro
+
+- Available for QuickBooks Online users.
+- Class Tracking must be turned on in QuickBooks Online.
+- Available to pros who use class tracking on the ENTIRE TRANSACTION.
+
+---
+
+How to Enable Class Tracking in QuickBooks Online
+
+- Log in to your QuickBooks Online account.
+
+- Click on the gear icon in the upper right corner.
+
+- Click "Account and Settings" from the menu.
+
+- Select "Advanced" from the left navigation.
+
+- Open the "Categories" section.
+
+- Turn on Classes and select "One to entire transaction."
+
+[Image] https://downloads.intercomcdn.com/i/o/580328200/34e363c6e2545df1edba27c4/Screen+Shot+2022-09-14+at+10.02.48+AM.png?expires=1763568000&signature=db934aa656ddd29971125d6ca8587e36be2c567d10e73c8e04bff2874692a764&req=cSgnFct2n4FfFb4f3HP0gLgEd8hXqb5%2FvJCwZZdkqSt5lk2krps7zVgpmi1o%0AjhNrJ1JHnXmOhiKUxg%3D%3D%0A
+
+---
+
+Importing Classes from QuickBooks Online
+
+Pros who import data from QuickBooks Online will also import classes. Classes are imported as Business Units in Housecall Pro.
+
+- Imported jobs from QuickBooks Online will include any class that is applied to a job. These will appear as business units on the job.
+
+- You can find Business Units in Housecall Pro under settings>job fields> business units.
+
+[Image] https://downloads.intercomcdn.com/i/o/580335815/4de5a9ed7df630c1f18a0a9a/Screen+Shot+2022-09-14+at+10.15.13+AM.png?expires=1763568000&signature=220fe7ea270e7eddf5fd628e80af3b2c843a9cd50d4ed2455415bc566c7670ae&req=cSgnFcp7lYBaFb4f3HP0gFV%2BinFsqjo0KBJ5pI7ajW6D%2BthB83s7toyTHXUx%0AToz4vJVt8zxi4hgLow%3D%3D%0A
+
+---
+
+How to Get Existing Classes in Housecall Pro as Business Units
+
+There are two ways to get classes in Housecall Pro as Business Units.
+
+- Import from QuickBooks Online: - Log in to Housecall Pro and go to the QuickBooks App Details Page from the Apps icon in the navigation.
+- Click Import
+- Once the import is complete, your Classes will appear as Business Units.
+
+- Add Classes as Business Units to Housecall Pro: - Log in to Housecall Pro and go to the gear icon in the upper right corner
+- Select Job Fields
+- Scroll down to add Business Units.
+- You must add the Business Unit exactly as it appears as a Class in QuickBooks Online. Otherwise, a new class with a similar name will be created in QuickBooks.
+
+---
+
+Applying Business Units to jobs in Housecall Pro
+
+- Apply a Business Unit to a job on the Jobs page.
+
+- Create a new Business Unit or Apply an existing Business Unit to the Job. Imported classes from QuickBooks Online will also appear in the list.
+
+[Image] https://downloads.intercomcdn.com/i/o/580340745/618a642e6eeb94454f21970c/Screen+Shot+2022-09-14+at+10.21.20+AM.png?expires=1763568000&signature=239879b09e69233b51b6e129ce65ce91a00d50a984ffa68e6ccd30d2fde6f087&req=cSgnFc1%2BmoVaFb4f3HP0gMbivIZvgzc%2B4mQPdyfxe93MRt061tseZ0aAJZio%0AjgUbr6lpS8GSynhtAw%3D%3D%0A
+
+---
+
+Exporting Jobs with Business Units to QuickBooks Online as Classes
+
+- Jobs exported to QuickBooks Online that include a new or existing Business Unit will be exported to QuickBooks Online automatically as a class is applied to the job.
+
+- New classes will be created in QuickBooks Online if one does not already exist.
+
+[Image] https://downloads.intercomcdn.com/i/o/580344345/9cae4256f0de5bcda3292493/Screen+Shot+2022-09-14+at+10.27.13+AM.png?expires=1763568000&signature=958f964ef0aba179d7343bb8c33066ef9a4b90a264caba644bdce18570e3dcac&req=cSgnFc16noVaFb4f3HP0gN1bNXxomfccs8n4uv5Ijm2PSF3cURAByk0ShJyy%0AUDDN5wFmu1bRg9dZaQ%3D%3D%0A
+
+---
+
+Applying Business Units to Service Agreements in Housecall Pro as Classes on Invoices in QuickBooks.
+
+- When creating a new Service Agreement in Housecall Pro you can now apply a Business Unit.
+
+[Image] https://downloads.intercomcdn.com/i/o/738283141/223a7eca746ebb391bd6474a/Screenshot+2023-05-09+at+3.19.19+PM.png?expires=1763568000&signature=afb75bb937e4803d57d25691da2a64fff6ecb0adfa0d56e1947cb7ed6193d521&req=cyMvFMF9nIVeFb4f3HP0gJfnQCGUfczRsSF64rWaBtScHXFpnea30wYV3hxX%0AYX%2FQtXrJno%2BAiYpVTw%3D%3D%0A
+
+- When a Service Agreement is applied to a customer, the business unit will also be included.
+
+- Once a Service agreement is paid and sent to QuickBooks. The Business Unit will apply to the Class on the Invoice in QuickBooks.
+
+[Image] https://downloads.intercomcdn.com/i/o/738285362/35a1230f3641588458e63a70/Screenshot+2023-05-09+at+3.24.30+PM.png?expires=1763568000&signature=bae6baec4592f1fc4a3a65c7ca655a569a67370bc00f7223eb762e8cf3ab06a4&req=cyMvFMF7noddFb4f3HP0gCzJ9ZSa02PbHY6TFEnQCdQnwZHgnPo5fqrRQtbj%0ApFG4X5x9gQga5150qg%3D%3D%0A
+
+- Visits from Service Agreements will also apply the Business Unit and retain the Business Unit as the Class on the invoice in QuickBooks.
+
+[Image] https://downloads.intercomcdn.com/i/o/738287833/d4a9058d98bbbc4689cf9ba7/Screenshot+2023-05-09+at+3.30.27+PM.png?expires=1763568000&signature=d7f3eb1b268813aa70f7ef22a9ef1b023fd3336eb325ba96f2f8ef78d296c5ef&req=cyMvFMF5lYJcFb4f3HP0gPlK7UbHTVQ%2FCzOodM2w39VG8DepoSJdNU3SSliY%0AjUPkmXtSIAH8dqlaDw%3D%3D%0A
+
+---

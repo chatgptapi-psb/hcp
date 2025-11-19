@@ -1,0 +1,84 @@
+Customer Intake: Reminders
+Source: https://help.housecallpro.com/en/articles/11888418-customer-intake-reminders
+Author: Nate H
+Last updated: Updated over a month ago
+
+---
+
+Customer Intake Reminders
+
+Reminders will appear at the top of each of the three pages in the Customer Intake form: Request, Schedule, and Contact. These reminders are shown for each step in the intake flow, helping you ensure that critical information is addressed during customer interactions.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1646063466/0fba55cd68050e19c431f8ab691f/image.png?expires=1763568000&signature=33bde7dbb90a878ee365730f95f52a2e9bf7708518ecd7c3b2a041530b9a2c04&req=dSYjEMl4noVZX%2FMW1HO4zYZB4ticeLNCAfPS%2BmE8fN%2F5MO3m9Pi28Wkqq37G%0AkI1WZ9T40JILQefowgA%3D%0A
+
+[Video - loom] id=1be64525074c40bfa3a9acec8b81dd1d
+
+---
+
+Add Reminders to your Customer Intake
+
+To add reminders to your Customer Intake flow, follow these steps:
+
+- Click the gear icon in the top right corner of your Housecall Pro account to access your Settings.
+
+- Select Customer Intake in the left Settings menu, under Feature Configurations.
+
+- Click the Reminders tab at the top of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1661204111/c5ed14defee17e5350d7335ccdaa/Screenshot+2025-08-08+at+2_51_46%E2%80%AFPM.png?expires=1763568000&signature=21afb365e92c5c95f896a4a548198da3028100dfa90f0cded741287f1df976af&req=dSYhF8t%2BmYBeWPMW1HO4zSl87RVG7V0yNdEDE%2BxRThlrS3Xma2%2FjfnQ3nXpy%0Al%2Fhkx2ZUTS3qUQv1xgU%3D%0A
+
+- Add a reminder by clicking + Reminder under each step: Request, Schedule, or Contact.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1661200799/06fd22cd73b4bf24b41f2d55c075/Screenshot+2025-08-08+at+2_50_21%E2%80%AFPM.png?expires=1763568000&signature=849410021ec21a8fa88670df5afdf87ed0daf9818760f3e309086eeb24438ba1&req=dSYhF8t%2BnYZWUPMW1HO4zZ%2Bw4%2FrOqgmvyrdwCuwZo%2BFODJzcdnT0OvWqzXpV%0AtpuiY6OSmIEkVAwCGo0%3D%0A
+
+- When you click + Reminder, a sidebar menu will pop out from the right side of the screen. In this sidebar, enter a Title and a Note into their respective fields.
+
+- Once you’ve entered your information, click Add in the top right corner of the Add reminder sidebar.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1661205662/97aebfd75d58fbb0dd08faef6ee4/Screenshot+2025-08-06+at+7_39_28%E2%80%AFPM.png?expires=1763568000&signature=22e602f096bac73e506bd0ec4d7308c29de91e5d0428b71483c4b4e04e36f4cf&req=dSYhF8t%2BmIdZW%2FMW1HO4zZFhQskXve9Z4B9bB7yatlj2Ali8Goh5jl5ls2bu%0A0sYtb1mFzy22VVhMBBk%3D%0A
+
+- You can continue to click + Reminder to add additional reminders for each step, ensuring you have all relevant details covered.
+
+---
+
+Manage Customer Intake Reminders
+
+Follow the steps below to edit, move, or delete Customer Intake Reminders:
+
+- Click the gear icon in the top right corner of your Housecall Pro account to access your Settings.
+
+- Select Customer Intake in the left Settings menu.
+
+- Click the Reminders tab at the top of the page.
+
+- Click the More icon (three dots) to the right of a reminder.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1661271058/e9100106cd1b0bf5b42f7dd5a042/Screenshot+2025-08-08+at+3_09_21%E2%80%AFPM.png?expires=1763568000&signature=f334dc036973673cca538e42ace5413ec52f26fd5d4c85b03c39975a8bf563e7&req=dSYhF8t5nIFaUfMW1HO4zdMHK%2Fj4SoB%2FcIMFhzPVFtdClNctwaHMkxJaDJ48%0AdUjXdWxc4OyA0oTSi9Q%3D%0A
+
+To edit the reminder:
+
+- Select Edit from the drop-down menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1665154838/1d81823968ed312802dea16b5209/Screenshot+2025-08-11+at+11_25_01%E2%80%AFAM.png?expires=1763568000&signature=bd5a722ca9aa28a8643ff879be52f6616969095d4f17b0a78fa45886cb88bcbb&req=dSYhE8h7mYlcUfMW1HO4zU0wcg8KNdcHQntRD%2FFm2oFKRJFx2EVgVASBF1Kc%0AXH%2BPi592tcDhu0hdETc%3D%0A
+
+- A sidebar will pop out from the right side of the screen, allowing you to update both the Title and Note fields.
+
+- After making your changes, click Save in the top right corner of the Edit sidebar to ensure your updates are applied. This will allow you to keep important information current and relevant to your intake process.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1665155326/553f2ba4dd78ab6eb32277b425ac/Screenshot+2025-08-11+at+11_25_05%E2%80%AFAM.png?expires=1763568000&signature=3eb01887c391cd17e685080fd65cdacc39aea79c572ebd34ccc78a5703b40107&req=dSYhE8h7mIJdX%2FMW1HO4zdItCmdY%2BJShCHVXwbopobrZVXUaI%2BnA2L0DPdIr%0APDIeSEtaIIqVKCdmSDM%3D%0A
+
+To move the reminder:
+
+- Select Move Up or Move Down from the drop-down menu.
+
+- After making the adjustments, your reminders will be repositioned accordingly.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1665155576/e6cad8e6740c238390e7f4f57b18/Screenshot+2025-08-11+at+11_26_58%E2%80%AFAM.png?expires=1763568000&signature=2376f7e2cf8d0ddfce8a58b337d359795a19d5cc00c0d27fc3191680b8c8f7e5&req=dSYhE8h7mIRYX%2FMW1HO4zcVXcWHB1lHU%2F5sOZ11a%2BccGqm5b7oGOSwTuCP7l%0ALojQ8KH4muE%2Boqi8UAU%3D%0A
+
+To delete the reminder:
+
+- Select Delete from the drop-down menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1665155937/b6c774c5177b68548504c52f46ff/Screenshot+2025-08-11+at+11_27_29%E2%80%AFAM.png?expires=1763568000&signature=5f0254f67e0d7af53f5cdc5f7db2e6a60ab4b34a1a500ee0702792ce3ac64a78&req=dSYhE8h7mIhcXvMW1HO4zXP%2BaP%2FS1uKvvbhB%2BvmjShFQ0zeWtq6m4CL2aW5f%0AisOkU%2FsVFCAoPlyGeQU%3D%0A
+
+---

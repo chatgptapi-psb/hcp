@@ -1,0 +1,58 @@
+Line Item Photos in Sales Proposals
+Source: https://help.housecallpro.com/en/articles/9173490-line-item-photos-in-sales-proposals
+Author: Nate H
+Last updated: Updated over 4 months ago
+
+Summary: Present service and equipment photos when presenting proposals
+
+Presenting Line Item Photos on the HCP Web Portal (Default Line Item Photos Visibility Settings)
+
+You can now present the line item photos from Price Book in your proposals (created with the Sales Proposal Tool).
+
+This feature enables you to present the services and equipment you intend to offer to your customers in a visually appealing manner, which enhances the attractiveness of your proposal.
+
+As a result, your customers can better understand the services and equipment they are about to approve, allowing them to make more informed decisions.
+
+You can present the line item photos on both web and mobile proposals. To do so:
+
+- First, ensure that you're using service and material line items from your Price Book and that those line items have images added to them.
+
+[Image] https://downloads.intercomcdn.com/i/o/1016079551/61a3f84f9eb917cb6d3b37a9/Screenshot+2024-04-09+at+12_38_44.png?expires=1763568000&signature=d8788cd5dff9f8bb48ef456ae906c78cd92b3ac4a86cf6b2203705d541cc728e&req=dSAmEMl5lIRaWPMW1HO4zS4jCxlwwwsaS39MQlI1P68MW6qTi%2B9kqoHya8Jw%0AWADZMmYBRHEePw6Y%2Bc0%3D%0A
+
+- Then, add the Price Book line items to your estimate.
+
+[Image] https://downloads.intercomcdn.com/i/o/1016080097/32f1b3d396e21c8644a39e65/Screenshot+2024-04-09+at+13_02_18.png?expires=1763568000&signature=dd9ea1557ebcc2dff6e4f8232f47ca6006f316d1abcb30997ac895b7d50a60cf&req=dSAmEMl2nYFWXvMW1HO4zYLJ6LHC3CgLBQbMR9Td0cBtDVddsKSCf82ND2Op%0AZA3mo3pN6XwlGqVNVGs%3D%0A
+
+- Next, click 'Present' to present your estimate as a proposal, and navigate to the option view. The line item photos will appear next to the line item names and descriptions.
+
+[Image] https://downloads.intercomcdn.com/i/o/1016086325/c69fc44c0c1cfd6892c9cb4b/Screenshot+2024-04-09+at+13_14_27.png?expires=1763568000&signature=b0b0ba26eebd563693c8a4c1951d3b433ccd7086a6f93dde91c1f8cfa8cab721&req=dSAmEMl2m4JdXPMW1HO4zXs1LF%2Bgey1Yc6Fx5e8xttuVSxTIQIrJAV8eNTja%0ADuZZI4iPbT%2B57O%2B7kZc%3D%0A
+
+- You can turn the visibility of the line item photos on or off separately for services and materials using proposal settings.
+
+[Image] https://downloads.intercomcdn.com/i/o/1016090511/d0f077b2649c1938d9aff6d9/Screen-Recording-2024-04-09-at-1.gif?expires=1763568000&signature=0dee15105c24a3f97915cdb766075fd79ea621e9ef01023ef72a1df98629df6d&req=dSAmEMl3nYReWPMW1HO4zblb3wvIhi6d5mkfUG3GAQmRRJ6e8vv7T%2Fuj71IK%0A0MQ9uVHX9rWYZnhYdXo%3D%0A
+
+- You can also change the default visibility of the photos (for all proposals you create in the future) by going to your estimates default settings.
+
+[Image] https://downloads.intercomcdn.com/i/o/1016092897/786fefb3491afd5660643f0e/Screenshot+2024-04-09+at+13_20_37.png?expires=1763568000&signature=6f4b0716aec3e50b6dacfe9bb776ad24a3274331d23ee65e1978fce3d193cdc2&req=dSAmEMl3n4lWXvMW1HO4zejYLxRByacLPuXPrvxEN7yb2INhBYkv1e%2FuzCK9%0AZ576Io75PtjsGDgkThs%3D%0A
+
+---
+
+Presenting Line Item Photos on Mobile
+
+Line item photos can also be presented on mobile, and you can turn the visibility of your images on or off using mobile proposals settings.
+
+To present the images:
+
+- Open an estimate and tap the 'Present' button.
+
+- Navigate to an option screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/1016098407/18240296ef1b53aa91befe80/IMG_3483.jpeg?expires=1763568000&signature=19d5cc1e3248e73ee1106341fc60d3dd42a623d27e84651730e6fab3ed57ef72&req=dSAmEMl3lYVfXvMW1HO4zf1C1PBCXPRcoh%2F%2Fqndr6KDtojWA7ucuYWIX8vNl%0A8iDoN2wYbMVfRGt0Amc%3D%0A
+
+- To turn the visibility of the image on or off, go to proposals settings.
+
+[Image] https://downloads.intercomcdn.com/i/o/1016099034/4ffcc015a596ed565064f631/IMG_3484.jpeg?expires=1763568000&signature=8377d954fa57ac0120fcd093ef22814414b35f4b1646b3d507f962c8e92eb624&req=dSAmEMl3lIFcXfMW1HO4zafMdAtYO%2Bns1%2FuUT2Doj63aQuyBhVYHxQTF2fuG%0Ai1TxJXvb%2FXHUdA4cdhQ%3D%0A
+
+---
+
+---

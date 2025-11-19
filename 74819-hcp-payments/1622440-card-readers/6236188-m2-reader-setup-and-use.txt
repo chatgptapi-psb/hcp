@@ -1,0 +1,77 @@
+M2 Reader Setup and Use
+Source: https://help.housecallpro.com/en/articles/6236188-m2-reader-setup-and-use
+Author: Charlie H
+Last updated: Updated over a year ago
+
+Setting Up Your M2 Card Reader
+
+Using our card reader is fast and simple! There are many benefits, including an enhanced customer experience and ease of mind knowing that both your and their account information is secure. You will also be protected from disputes reported as fraudulent activity.
+
+When you first receive your Card Reader:
+
+- Fully charge it using the charging cable provided.
+- Verify that the Card Reader's firmware is updated.
+
+---
+
+Updating Your M2 Card Reader's Firmware
+
+You'll update your M2 card reader's firmware by going through the steps of taking a payment on your mobile device (without actually processing the payment).
+
+- Turn on the card reader by pressing the power button. The first LED will turn on, indicating that the card reader is ready for payment.
+
+- Select a job on your HCP mobile app. - You can create and select a test job rather than a job for a customer.
+
+- Tap the 'Pay' icon at the top of your screen, then tap 'Next' on the Checkout screen and select 'Credit Card' as the payment type.
+
+- Tap the 'Card Reader' button, and your device will automatically begin searching for the card reader.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1235746081/acadfc56a4bff3e00278898f98e2/image.png?expires=1763568000&signature=03b67dde8dcac134093760155bbe16dfad856e9849ab04809f736934e30dc7d3&req=dSIkE856m4FXWPMW1HO4zRMVudO%2BrvgGsrdrAeSCMe15%2BCnsnQGQWlISR8Xp%0ABSFYoWQ0%2BBvJcg77Cd0%3D%0A
+
+- Tap 'Pair' when prompted. - For Android devices, tap 'Pair, then 'Pair & connect.'
+
+- Once your card reader connects, the firmware update will start automatically, if needed. This should take between 2 and 10 minutes to complete.
+
+- Once your M2 card reader has been connected and updated, you'll be prompted to run the card.
+
+- You can then cancel the transaction.
+
+Table:
+Row 1: iOS (iPhone/iPad) | Android
+Row 2: [Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/516715683/88eff40d175e9924e0da8f26/LoEvx_pDLNB42z4W0a7gmbIW63MrVrNTKk2l-OAzFRVgI1LThD1QtoUkgFF3L7dyhRB0N3HquyHK5vvxJo1HYdfIx-gvprp8kKHfFrBl3KO3ZzUOQCi-qNzY8RrjTVdJ6zTU-avZlGinLagrTQ?expires=1763568000&signature=82f01631d0ce91a0100d00f8a102efcd25f0910a555e3174b93083eb3bf04f79&req=cSEhEch7m4lcFb4f3HP0gHcd%2FAsIE%2Bz8YloRWUimfq5SxvYifMmNPwBxkAzZ%0AdaI%3D%0A | [Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/516715704/c959efbecdc909a4753171b1/A7ZkducpF6mCfH4clqu9t8IYbiP4Ua4YJKV-9u4NHsGQcApWwtFLuGt6e6KOAZXd02rMl2kSMJVApexCNUSgWKFYYDHlnCSdAO6rgwcG_wnB_3vBzYBeKXyCPyi5iCAT11LctAxqB9ThOYk6Cw?expires=1763568000&signature=2c995d1c6f9d9fa9d75eed7690faa8298e9ef2414dd57f03fff06facb1675d2f&req=cSEhEch7moFbFb4f3HP0gB0vDpS9DDQcV9a8iWfpCvi9v5tJ4MjqrilGZom1%0Ah%2Fg%3D%0A [Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/516715694/eba67062956d5dd2b471ffac/H57FG2QaTF8DqEUQdSGtcKaiD4KpwQfuLNKsXy9YGYxacKTf40I5W6FigT89tFCFMDKySeZ0T1d9kVqxj2ABdy1Cj8-YGnjNZqiyjBMKfl92kElOapc7_1hL90VyGLdgr5hf6gpsfLsQmFyUKA?expires=1763568000&signature=83bd9ec1710762ec6c53c6a4966f5747045a813bfb3e4b290aef6ebc0bd7f2aa&req=cSEhEch7m4hbFb4f3HP0gBr1a0Wk94kQR033hpTTyQw14WisNfc3RRGbfPy9%0AZ6I%3D%0A
+
+---
+
+---
+
+M2 Card Reader LED Indicators
+
+When your M2 Card Reader is turned on, the LED lights located on the top of the card reader indicate its current status.
+
+Status Indicators:
+
+Table:
+Row 1: Lights | Meaning
+Row 2: None | The reader is off
+Row 3: First LED ON | Ready for payment
+Row 4: LEDs ON in consecutive order | Reading card information
+Row 5: 4 LEDs ON + “BEEP” | Card read successful
+Row 6: First LED flashing | Reader is in standby mode
+
+Battery Indicators:
+
+Table:
+Row 1: Lights | Meaning
+Row 2: 4 steady lights | Fully charged
+Row 3: 3 steady lights | 75% charged
+Row 4: 2 steady lights | 50% charged
+Row 5: 1 steady light | 25% charged
+Row 6: 1 steady light + 1 blinking light | Charging
+
+---
+
+---
+
+Check out these simple tips on collecting payments from your customers!
+
+---

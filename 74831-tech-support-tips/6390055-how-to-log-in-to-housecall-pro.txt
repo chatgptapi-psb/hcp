@@ -1,0 +1,90 @@
+How to Log In to Housecall Pro
+Source: https://help.housecallpro.com/en/articles/6390055-how-to-log-in-to-housecall-pro
+Author: Taylor M
+Last updated: Updated over a month ago
+
+Summary: How to sign into the web portal and mobile apps to access your Housecall Pro account
+
+Signing in on the Web Portal
+
+When you navigate to https://pro.housecallpro.com/app/log_in to sign into your Housecall Pro account on the web, you will find a few sign in methods.
+
+[Image] https://downloads.intercomcdn.com/i/o/569995871/598d350303ea708395c31c95/image.png?expires=1763568000&signature=bb43d8d6122042f53d6f15c6fd9095eab0a89a944540fd7960afcdd4aeda845a&req=cSYuH8B7lYZeFb4f3HP0gAY2tBEQrsTu9KD%2FfscOUK14gLL4ud9I2O3xFiy%2F%0A6JXz2nsvkQZhOAuurg%3D%3D%0A
+
+Sign in with Google:
+
+- If you created your Housecall Pro account through your Google account, you can sign in using your Google account credentials.
+
+- You can also sign in using this method if your email address associated with your Housecall Pro account is a Google email.
+
+[Image] https://downloads.intercomcdn.com/i/o/569996044/ec9f925cff8a6893e79185d2/image.png?expires=1763568000&signature=b9baf9ac7f9beea5d8ab3f089999ece870b50bb7c009bdaf86de0f64490f68d4&req=cSYuH8B4nYVbFb4f3HP0gBEH%2BkZuxfZRlbzmNYymhvRmrX6jfCErFMb51WIr%0A%2FdVHYuPSVy%2Bq0mTZvA%3D%3D%0A
+
+Sign in with Apple:
+
+- If you created your Housecall Pro account through your Apple ID email address, you can sign in using your Apple ID credentials.
+
+[Image] https://downloads.intercomcdn.com/i/o/549585294/99d3e53fe2e613ffbea5385d/image.png?expires=1763568000&signature=3f08c23669e36dbf483f0e44f815b9ae5c96ed41fdb9e313e390b965c3784dbf&req=cSQuE8F7n4hbFb4f3HP0gKdJANt4vRsNKCnOwW1d9Y9hIPKxNWeGt%2Bswowdl%0An9BNfGcVudjhb3DOQQ%3D%3D%0A
+
+Email & Password:
+
+- You can sign in to your Housecall Pro account using your email and password.
+
+- If you forget what your password is, you can always click Forgot Password, and you'll receive an email with instructions to reset it.
+
+[Image] https://downloads.intercomcdn.com/i/o/549586133/48646c1803a9e4b5dc71a548/image.png?expires=1763568000&signature=bd5c6ec64c3be18286f3bd9c172fff721a6db81bd5730fcb929581d0b045cc46&req=cSQuE8F4nIJcFb4f3HP0gA58Cg%2FuoEk14rhml95Uot5n%2FM1b4seohgW3%2BNNc%0AU9xJHaDJZ95dKnSqag%3D%3D%0A
+
+---
+
+Signing in on the Mobile App
+
+When you open the Housecall Pro Mobile App to sign into your Housecall Pro account on the web, you will find a few sign in methods.
+
+[Image] https://downloads.intercomcdn.com/i/o/549626985/797fea07cbb5e92d049268e8/image.png?expires=1763568000&signature=caaf0b224d04aa5c9f8efea2c14433818f277edb4b1b9068be1cba4ea054ed98&req=cSQuEMt4lIlaFb4f3HP0gB2gruiG49s1Qon16Li7NscZsLQl2vjZmoYPYuMk%0AVKGJw%2B9%2BUIc77YhJXw%3D%3D%0A
+
+Sign in with Apple:
+
+- If you created your Housecall Pro account through your Apple ID email address and are on an iPhone or iPad you can sign in using your Apple ID credentials.
+
+- Click Continue with Apple.
+
+[Image] https://downloads.intercomcdn.com/i/o/549628481/d7649a2b055b5005ff2cbedc/image.png?expires=1763568000&signature=4522fc5c56ffe497fd25bb04ef69d5d9f99b9c1af741154986d3a5b6c86f3e23&req=cSQuEMt2mYleFb4f3HP0gKoqIjzUb0ujoty0EyjrFmk%2FLXHfcNXpM%2BJAa1m0%0AOJVWE98E5B8tx7onvA%3D%3D%0A
+
+- Then continue to sign in with your Apple ID and passcode.
+
+[Image] https://downloads.intercomcdn.com/i/o/549628211/104be88e3b490877789520bd/image.png?expires=1763568000&signature=cc8a061f145d0ef18bf49daf874f4f70540fedd72dc7fe8e59ad59a79d789663&req=cSQuEMt2n4BeFb4f3HP0gLWZflMvxWz2q%2BbOzYGqQ40HsFede48hgM4fa3pH%0AmYNyEQruI0aP%2BR%2FVzw%3D%3D%0A
+
+Sign in with Google:
+
+- If you created your Housecall Pro account though your Google account, you can sign in using your Google account credentials.
+
+- You can also sign in using this method if your email address associated with your Housecall Pro account is a Google email.
+
+- Click Continue with Google.
+
+[Image] https://downloads.intercomcdn.com/i/o/549628906/1f8175ba46a33f735c810239/image.png?expires=1763568000&signature=a545165f2dbcecf9f1af1c0a312cf06b398896d948f1b88c29697bf2f88cb5fb&req=cSQuEMt2lIFZFb4f3HP0gAsha%2FkZsgI1EnSPIJ79bEJVYpsuYLdogkk8WoKy%0AWTwePsSABMuVoSsyfw%3D%3D%0A
+
+- Grant Housecall Pro permission to sign in with your Google account.
+
+[Image] https://downloads.intercomcdn.com/i/o/549629531/e93708f6f070173717d8ce53/image.png?expires=1763568000&signature=d9ef4d8e2fec4a1fb7cf8754a41cdfc81ba7a162ee25e19c7aae91d1ccaa3004&req=cSQuEMt3mIJeFb4f3HP0gC4bDgok6bhcr6JbAnLgFwCIeKBdOHyTODLlEBdM%0AblrfU5l7sUScQlGIDw%3D%3D%0A
+
+Email & Password:
+
+- You can sign into your Housecall Pro account using your email and password.
+
+- Click Sign In.
+
+[Image] https://downloads.intercomcdn.com/i/o/549630031/74c9ac7c0aa42f0cd980f147/image.png?expires=1763568000&signature=82a453a89ff83936580ba0f98642146606cf723d7abd5be61bb269582c22f58a&req=cSQuEMp%2BnYJeFb4f3HP0gMlQ1T9QKFhWxgLNgqXBdjz7PDSRFYf3nLg5VACP%0ApAibJBECQ%2FO1xnldtw%3D%3D%0A
+
+- Then, enter your email and password and click Sign In once more.
+
+- If you forget what your password is, you can always click Reset Password, and you will receive an email with instructions to reset it.
+
+[Image] https://downloads.intercomcdn.com/i/o/549631019/28903c3143831b5dbbcad857/image.png?expires=1763568000&signature=4f16eb65a014afffc1ee201779c92bc3376ccd4bc6dc1c1d951eb1df30ff6807&req=cSQuEMp%2FnYBWFb4f3HP0gDqfxycUwUjnJH9CLizsD3K9oH31vcevlYPJWKU0%0AKcjGUC7zVYtn%2Fi54fg%3D%3D%0A
+
+---
+
+Signing in on Your Mobile Browser
+
+Please try to access this link on your cell phone: https://pro.Housecall.io/pro/log_in
+
+---

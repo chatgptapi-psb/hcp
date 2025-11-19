@@ -1,0 +1,96 @@
+Dashcam Video Monitoring: Set Up
+Source: https://help.housecallpro.com/en/articles/8887977-dashcam-video-monitoring-set-up
+Author: Joanna D
+Last updated: Updated over a month ago
+
+Summary: Learn your next steps after purchasing Dashcam Video Monitoring powered by Force Fleet Tracking
+
+You have just purchased Dashcam Video Monitoring and are ready to get started! This article will walk you through the next steps for your new Dashcam device(s).
+
+If you're looking for an overview of what Dashcams are and how to add them to your plan, check out this article.
+
+Dashcam Set Up
+
+There will be two different paths for getting set up depending on if you already use the Vehicle GPS Tracking integration with Force Fleet Tracking, or if this is your first time getting devices from Force.
+
+Dashcam Set Up if you already have Vehicle GPS Tracking
+
+You are already familiar with the Force Fleet Tracking integration and have just purchased Dashcam Video Monitoring - let's get started!
+
+Once you have purchased Dashcam device(s), you will receive a confirmation email from Housecall Pro. This email will detail your next steps, and information to look out for from Force via email.
+
+If you are replacing some/all of your Vehicle GPS Trackers with Dashcams, you will receive a second email from Housecall Pro that includes return label instructions and penalty fee information if you do not return your GPS Tracking device(s). For more information, please review this article.
+
+In your HCP account, you will see a banner at the top of your Housecall Pro homepage instructing you to fill out your shipping information. This is the first crucial step of onboarding, as you must confirm this information in order to receive your Dashcam(s).
+
+Note: Your devices will not ship until you confirm your shipping information.
+
+[Image] https://downloads.intercomcdn.com/i/o/955314470/ff5a276c3f564de664fe58d9/Screenshot_2024-02-06_at_9_52_16%E2%80%AFAM.png?expires=1763568000&signature=317be89236ad0d41a72c2d37fe31b662bb0a29353144374859389cd96a52418c&req=fSUiFch6mYZfFb4f3HP0gMtk%2FXSblLnmd77Cdwco7fZXXD%2FteXM%2BSVTGfIXd%0ABF477zQgCkKj4DMHlw%3D%3D%0A
+
+Clicking the ENTER SHIPPING ADDRESS link on the banner at the top of your homepage will bring you to a popup window in your Vehicle Management app card page. The boxes will be prefilled with the information that Force currently has. Make any changes necessary, and then click SAVE SHIPPING ADDRESS at the bottom right of the popup window.
+
+Note: This will also be the address that Force uses to send you a return label if you are replacing any Vehicle GPS Tracking devices.
+
+[Image] https://downloads.intercomcdn.com/i/o/956767935/f67dd5b7b314d17b86be0a79/Screenshot_2024-02-07_at_3_31_50%E2%80%AFPM.png?expires=1763568000&signature=e027efd5bdc0878d1688f25f34eeb2da732ac0ef9ef17f7fa852f3c7fea5cae1&req=fSUhEc95lIJaFb4f3HP0gEJz4XTkJGAUIo0Zeaiqu3UlV7GRtNP0IPRN1vXU%0AF1TjjJVC8%2BO45MCo0w%3D%3D%0A
+
+After saving your shipping address, you will see a new popup window titled "Force Fleet Tracking account access". This window will remind you which email is already associated with your Force account. If you know your password for your Force account, click the I KNOW MY FORCE PASSWORD button. If you do not know, click the blue RESET FORCE PASSWORD button.
+
+[Image] https://downloads.intercomcdn.com/i/o/956771088/d624654274636790685156cf/Screenshot_2024-02-07_at_3_39_21%E2%80%AFPM.png?expires=1763568000&signature=9ff3436d142af82a0b1d034914727ecf4a9ca08f0b702d0d960be1f8572ea806&req=fSUhEc5%2FnYlXFb4f3HP0gEJXDnMsH%2Bjx0S9gwo%2FFzdLfh4y05TeWLLVmsry%2B%0An%2FqbgDv3onQWcNo%2BlQ%3D%3D%0A
+
+You will then receive an email from Force Fleet Tracking, sent to the email address associated with your Force account, prompting you to reset your password.
+
+Note: This is important because you will need your email and password to login to the Force mobile app for Dashcam onboarding when you receive your device(s).
+
+After either confirming that you know your Force account password, or beginning the process to reset your Force account password, you will see a confirmation window. This popup window will say "Your device order has been placed" and you will see a QR code. Scanning this QR code on your phone will download the Force Fleet Tracking mobile app.
+
+[Image] https://downloads.intercomcdn.com/i/o/956773197/fd6f6e0bd48caa318e25a40d/Screenshot+2024-02-07+at+3.44.05%E2%80%AFPM.png?expires=1763568000&signature=ef5e46678337894e9aed2ed4d595261c1879c1aeaab6370bf7caa278ea0bd1a6&req=fSUhEc59nIhYFb4f3HP0gMm7pEvobB%2FJIkgIBwLhilnjpOEcrmcq6EriDJpH%0AkkX9jS9ludz%2BRiposA%3D%3D%0A
+
+You have now successfully placed an order for your Dashcam device(s)! Get a head start on your onboarding by downloading the mobile app to your phone and logging in. You will be using your Force account on the mobile app to complete the setup of your Dashcam(s) once they arrive.
+
+Stay on the lookout for additional onboarding instructions from Force Fleet Tracking in your email! Check out Force's help articles to support you through the next part of the installation process:
+
+How to Install
+
+Troubleshooting
+
+Dashcam Set Up as a new Force user
+
+If this is your first experience using a Force Fleet Tracking device - then let's get started! These are the steps you will follow:
+
+Once you have purchased Dashcam device(s), you will receive a confirmation email from Housecall Pro. This email will detail your next steps, and information to look out for from Force via email.
+
+In your HCP account, you will see a banner at the top of your Housecall Pro homepage instructing you to fill out your shipping information. This is the first crucial step of onboarding, as you must confirm this information in order to receive your Dashcam(s).
+
+Note: Your devices will not ship until you enter your shipping information.
+
+[Image] https://downloads.intercomcdn.com/i/o/955315113/d44f09a822c1a92e1e892435/Screenshot_2024-02-06_at_9_52_16%E2%80%AFAM.png?expires=1763568000&signature=00e6c08ab3f14ade63743c3fa96b270c27b0fece7c8eb1299de9a3855e62c70f&req=fSUiFch7nIBcFb4f3HP0gEyLV%2Bz9SodnLLWaGzKHuj8hZM9wPzijJNFRfIrw%0AiOpFVnheNP6tMzH3GQ%3D%3D%0A
+
+Clicking the ENTER SHIPPING ADDRESS link on the banner at the top of your dashboard will bring you to a popup window in your Vehicle Management app card page. Fill out all of the information and then click the blue SAVE SHIPPING ADDRESS button in the bottom right corner of the popup.
+
+[Image] https://downloads.intercomcdn.com/i/o/956768067/2a65107d24312091bf87c648/Screenshot_2024-02-07_at_3_31_50%E2%80%AFPM.png?expires=1763568000&signature=553a8096504b6cc9dafb0bfc055f75df38e50c7127f6de3f1deb0efa6cc179f2&req=fSUhEc92nYdYFb4f3HP0gJO%2BwYP4RC0koAjV5KH622Y2%2FAkoYC6i1wPgl2bM%0AfyHXuQKXOrXJSyR6xg%3D%3D%0A
+
+After saving your shipping information, you will see a popup screen asking you to select which email address you would like associated with your Force Fleet Tracking account. Click the blue CONFIRM EMAIL button to continue.
+
+[Image] https://downloads.intercomcdn.com/i/o/956774658/d6702e125a96fbe68c02d1f3/Screenshot_2024-02-07_at_3_46_56%E2%80%AFPM.png?expires=1763568000&signature=df31cad350b0b2a19200593eb6617a241387dcae45e60e085c37c62c3ff05ae3&req=fSUhEc56m4RXFb4f3HP0gMGUjveApsGftgUuCoVRIxLkv4NHyqtqbZKnU5gx%0AOvkXDZ8zyNfRQUiXvg%3D%3D%0A
+
+Force will be notified of your account creation. Keep an eye out for an email from Force to create a password and finish setting up your Force account.
+
+Note: This is important because you will need your email and password to login to the Force mobile app for Dashcam onboarding when you receive your device(s).
+
+After beginning your Force account creation by selecting the email address you would like to be associated, you will will see a confirmation window. This popup window will say "Your device order has been placed" and you will see a QR code. Scanning this QR code on your phone will download the Force Fleet Tracking mobile app.
+
+[Image] https://downloads.intercomcdn.com/i/o/956773197/fd6f6e0bd48caa318e25a40d/Screenshot+2024-02-07+at+3.44.05%E2%80%AFPM.png?expires=1763568000&signature=ef5e46678337894e9aed2ed4d595261c1879c1aeaab6370bf7caa278ea0bd1a6&req=fSUhEc59nIhYFb4f3HP0gMm7pEvobB%2FJIkgIBwLhilnjpOEcrmcq6EriDJpH%0AkkX9jS9ludz%2BRiposA%3D%3D%0A
+
+You have now successfully placed an order for your Dashcam device(s)! Get a head start on your onboarding by downloading the mobile app to your phone and logging in. You will be using your Force account on the mobile app to complete the setup of your Dashcam(s) once they arrive.
+
+Stay on the lookout for additional onboarding instructions from Force Fleet Tracking in your email! Check out Force's help articles to support you through the next part of the installation process:
+
+How to Install
+
+Troubleshooting
+
+Video Installation Guide
+
+[Video - vimeo] id=930934872
+
+---

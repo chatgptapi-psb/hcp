@@ -1,0 +1,57 @@
+How to Resize a Photo to Upload for Use in a Postcard Campaign
+Source: https://help.housecallpro.com/en/articles/2549035-how-to-resize-a-photo-to-upload-for-use-in-a-postcard-campaign
+Author: Layla K
+Last updated: Updated over a month ago
+
+Summary: Learn to resize photos for postcards effectively with our guide. Ensure your images fit perfectly for impactful marketing.
+
+Housecall Pro Blueprint to Success Workshop
+
+If you're looking for more advice on how to effectively use Campaigns, along with other great features, register for the Housecall Pro Blueprint to Success Workshop!
+
+[Button] Register Here -> https://docs.google.com/forms/d/e/1FAIpQLScM2b6NgGEvrjkOFAZPunvol2CoR4FIIFiVgR7DmTRqgd3gQg/viewform?usp=pp_url&entry.1047718727=HCP+Help+Article
+
+---
+
+---
+
+How Can I Resize a Photo Online to Upload for Use in a Postcard Campaign?
+
+To resize a photo for your postcard campaigns, visit a free website like www.simpleimageresizer.com
+​
+
+Start by clicking on the dot next to 'Dimensions' and enter '1875' in the width field and '1275' in the height field. Next, click 'Select Image' to choose your image file from your computer. Click the green 'Resize' button to complete the process.
+
+[Image] https://downloads.intercomcdn.com/i/o/89359215/0f6e9510e13d330d1407a1da/Simple_Image_Resizer__resize_online_images_without_losing_quality.png?expires=1763568000&signature=9a62ab6a734fd6db2b30f998cb37addf74147d95bcc465f1c337554fbbd3946c&req=fCkkE8B8nIQTWLcX3D%2B5hiakXf1iaMILlje0zUVRdh1TyGSYRz990BOkvGA9%0A31nydG50UI07l6jS%0A
+
+Then, press 'Download':
+
+[Image] https://downloads.intercomcdn.com/i/o/89359689/4f82b42595a2101ffc1df152/Simple_Image_Resizer__resize_online_images_without_losing_quality.png?expires=1763568000&signature=c5594df6cc91a0afdd56815eb66a3ecc88365dbc9bc6b58c892224c4e565734c&req=fCkkE8B4lYgTWLcX3D%2B5hgGA%2Bvgl6W15EBiQnfSclvcCpfapfcZkQ9ROAR0m%0AlnD2YYROHTpaBAKK%0A
+
+This will open up the file in a new tab. Right-click on the photo and select 'Save Image As...'
+
+[Image] https://downloads.intercomcdn.com/i/o/89360010/f6df68daccac3c835fdf777c/hcplogo2_1875x1275_jpg__1875%C3%971275_.png?expires=1763568000&signature=a532629ff3211d522ecc2e4b2f15f52c18661f52849ea6f0fbf32f95be1a0419&req=fCkkEMl%2BnIETWLcX3D%2B5hoEx4EO3VIgpf1Yw6MUxDpd3WNrDiul8lfdq4lnY%0A4G6Qx3w2XBknBFn6%0A
+
+Then click 'Save' and your photo is ready to be uploaded.
+
+[Image] https://downloads.intercomcdn.com/i/o/89359928/30fdfb97b3391affddb78f06/hcplogo2_1875x1275_jpg__1875%C3%971275_.png?expires=1763568000&signature=9b40598fccd4a0db3611b2b1d3ca16270f3c266cb07150aa6bc2968223f35885&req=fCkkE8B3n4kTWLcX3D%2B5hvEVdvndXsOahQ%2FzvPlfdgdUPi8bkM1fkejVogCo%0A3yC5%2BocT0inwioT1%0A
+
+---
+
+How Can I Resize a Photo to Upload for Use in a Postcard Campaign on a Mac?
+
+First, locate the photo on your computer and click on it to open it in 'Preview'
+
+On your top menu bar, find and click on 'Tools' and then click 'Adjust Size...'
+
+[Image] https://downloads.intercomcdn.com/i/o/89290049/702425527a4c7da72398991c/Tools_and_Menubar.png?expires=1763568000&signature=745330578ab70f5e94dbf64e692d37c1e60f56ffca6bcdb4a2b6f4f4fafe4651&req=fCklH8l%2BmYgTWLcX3D%2B5hkKP4U8ASStS4vfjqWR4ktmE3eah%2FPmAPPuPeca9%0AklFr3DBAtGTV2Vub%0A
+
+In the pop-up window, uncheck the box next to 'Scale proportionally', change the Width to '1875' and the Height to '1275' and click 'OK'.
+
+[Image] https://downloads.intercomcdn.com/i/o/89292222/6fdb72feeaa15b9f70bebb18/Menubar_and_hcplogo_jpg.png?expires=1763568000&signature=2f0c9829564f7b05aa1c2abb15f9d52a794c20ff837c6879f6d54f8de7b749f2&req=fCklH8t8n4MTWLcX3D%2B5hsKZU7wzXC8F%2FXbdZUvz1TBHEVOVhgXVO7FBcyQa%0A9lfXICqAouGkFNWt%0A
+
+Then, from the top menu bar, click 'File' and 'Save' and the photo should be ready for upload.
+
+[Image] https://downloads.intercomcdn.com/i/o/89291838/bc9a09d5f2704615d3ac2676/File_and_Menubar.png?expires=1763568000&signature=6aa772767afa41012b0f85e5f39f205272c756cb7325c299f8eb28d29d1130bf&req=fCklH8h2nokTWLcX3D%2B5hpXXBA6Csvde8NGZnWm1iclfBvM7ilrlT2pNFZNv%0AD8LP6O3yvLfl%2Fp3T%0A
+
+---

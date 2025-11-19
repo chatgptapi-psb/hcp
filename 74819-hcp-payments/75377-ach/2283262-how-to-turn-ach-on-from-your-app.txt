@@ -1,0 +1,24 @@
+How to turn ACH on from your app
+Source: https://help.housecallpro.com/en/articles/2283262-how-to-turn-ach-on-from-your-app
+Author: Nate H
+Last updated: Updated over a month ago
+
+How to Enable ACH from the HCP Mobile App
+
+To enable the ACH payment option from the HCP mobile app for specific invoices:
+
+- Open a job and tap Invoice at the top of your screen.
+
+- On the invoice preview page, tap the dollar sign (💲) in the top right corner of your screen. This will bring you to your Settings page for that specific invoice.
+
+- From here, you can tap the toggle next to Accept ACH payment to enable or disable the option.
+
+- Tap Done in the top right corner of your screen once selected, and you can proceed with sending the invoice to your customer.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1229264794/69b0b5fae3622e75feb04e9adcca/IMB_UGX1ls.gif?expires=1763568000&signature=9b2001da7d4465905f6d233ec1c4d0ee85a736a15c452055dfb432ca675c9f1d&req=dSIlH8t4mYZWXfMW1HO4zUy4xp7YvHDGJt0BiKBSAqvfrkM1QlB9w7QbS%2FOP%0AtQN55xMhmCkfRxAVKSk%3D%0A
+
+---
+
+Having trouble collecting from your customers? Check out these simple tips!
+
+---

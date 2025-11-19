@@ -1,0 +1,27 @@
+Card Reader - What do the lights mean?
+Source: https://help.housecallpro.com/en/articles/2775170-card-reader-what-do-the-lights-mean
+Author: Nate H
+Last updated: Updated over a year ago
+
+Summary: Know what the different lights on your card reader mean.
+
+BBPOS Chipper Card Reader LED Indicators
+
+When the BBPOS Chipper 2X BT (Black) Card Reader is turned on, the LED indicators located beside the power button show the card reader's current status.
+
+Table:
+Row 1: Status Light | Meaning
+Row 2: None | The reader is powered off
+Row 3: Flashing blue every second | The reader is on & ready to connect. (Will turn off after 5 minutes).
+Row 4: Multi-colored flashing | The reader has been discovered using Bluetooth Proximity and is ready to connect.
+Row 5: Steady blue | The reader is connected to a device.
+Row 6: Flashing blue every 5 seconds | The reader is in Standby mode. (Will remain in Standby indefinitely).
+Row 7: Alternating red and magenta | The reader is charging.
+Row 8: Flashing red | The reader's battery is low.
+Row 9: Rapidly flashing blue and orange | The reader has finished installing a software update. If the reader is unresponsive after the update completes, restart the reader by turning it off and on.
+
+---
+
+Check out these simple tips on collecting payments from your customers!
+
+---

@@ -1,0 +1,210 @@
+Homepage Overview & FAQ
+Source: https://help.housecallpro.com/en/articles/6974306-homepage-overview-faq
+Author: Jim S
+Last updated: Updated over 2 weeks ago
+
+Homepage Overview
+
+The Home page in Housecall Pro provides a powerful snapshot of your business activity, giving you quick access to your most important information, including open items, stats, employee status, recent activity, and your schedule.
+
+The Homepage is designed to give you an informative, actionable, and relevant launch point into the software by providing immediate answers to questions like:
+
+- What do I need to take action on?
+- How is the financial health of my business?
+- What is happening today?
+- What have I done recently?
+​
+
+---
+
+What happened to the Dashboard?
+
+- The dashboard has been the homepage of Housecall Pro for a long time, but it is not as good at providing the kind of day-to-day, actionable pathways into the product as our new Homepage.
+
+[Image] https://downloads.intercomcdn.com/i/o/814087952/b2f729146cd924969e2854f1/Homepage-dashboard.png?expires=1763568000&signature=155ee24e442d53fc5f39296a14d0af201c431a86636337f222402c0286305fd5&req=fCEjFsF5lIRdFb4f3HP0gGqKh%2BFNQwL7G8jIqpCyW46TYvNUC4WMlvMJnH63%0AZHTKzfYpJLEHPGLTiQ%3D%3D%0A
+
+If you have recently joined Housecall Pro and do not see Dash in your top navigation bar, that is intentional. We encourage you to use the Reporting suite of tools to get the kind of business insights you need to track and run your business.
+
+If you currently have the dashboard and still want access to it, don't worry - the dashboard will still be available at the same URL or by clicking on Dash in the top navigation bar. The only difference is that a new page called "Home" is being added to the product and will be set as the default "home" concept.
+
+We are working on combining Reporting and the Dashboard for more tenured Pros, and do not want to show you a page that will eventually be combined with Reports
+
+[Image] https://downloads.intercomcdn.com/i/o/814089001/91854911bd3a9f053dfed4f4/Homepage-only.png?expires=1763568000&signature=3ea738de30b8ffb5e2527426404fb5134e8f2843f2399baed866cd489ee259eb&req=fCEjFsF3nYFeFb4f3HP0gKP4RlawxhXtSsqgCt7o3214E5eBK2mdteBPP75w%0AWYAT%2F%2Fg6SDAkcwTuGA%3D%3D%0A
+
+---
+
+---
+
+Accessing Jobs, Invoices, and Estimates
+
+You can now use the Open Items section at the top of the homepage, which provides 2 ways to access this information:
+
+- Clicking on an open item like "Open invoices" to see a list of invoices that need action taken.
+
+- Clicking on a link to the right of the open items list takes you to all of your invoices.
+
+[Image] https://downloads.intercomcdn.com/i/o/814086849/a8d5ca6b4fbb41cfd334cc33/Homepage-open-items.png?expires=1763568000&signature=8e846b8276f7d090cb464436a320efafd1359edae85e333bdf36ffa88d433141&req=fCEjFsF4lYVWFb4f3HP0gFT3ehExBwoxPH7%2BBTo3Od%2FWvujTeahpqvTiNrCk%0A1YH48KbVwWCdXpKskg%3D%3D%0A
+
+- You can also access the full list of your Jobs and Estimates by clicking on Customers in the main navigation bar.
+
+[Image] https://downloads.intercomcdn.com/i/o/814087261/4bc0923c21fac26fdb033e44/Homepage-customers.png?expires=1763568000&signature=95f338bb2a0ebc4ea0452bd9f6eabc6ed9615660bbb6a096f320b824b38962a4&req=fCEjFsF5n4deFb4f3HP0gAnzmaGAqbE2Qk0K%2FHjUUduUWZzPgflvzSnGbtRN%0ATADlqhhIB9AEbxt0wQ%3D%3D%0A
+
+- Click on Jobs or Estimates in the left rail. From this page, you will be able to search for any job/estimate, filter by date or lead source, and import or export your data.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/668696826/1cb7f8ae87a252cb5b6a9ccb/u61wiaIQxnCYPzmCX7GWYrRfp1FS5OFzeG3G0AJ3pjCnh_xjbvee3JsTJweUJ1-rzJDW7HnPcibUSPOX4xtjyYNqAaPqB-Ns7xzZusuj6XqXvwx7M5BTXxsi45I8L3YN6ckFedSgpvLXVMCETUqF_SA?expires=1763568000&signature=c4acf788e62416c3cb76d8895e46edbfa58fc781cd0bf5f729cae2883d5f4370&req=ciYvEMB4lYNZFb4f3HP0gFVtGj1OJbm5vtKiIWRzocMsuS%2FGZgaQ1KZYyKH2%0AGToSVG3AfgC1cMKq2A%3D%3D%0A
+
+---
+
+---
+
+Open Items
+
+The first section you will notice on your new homepage is your open items. This serves two main purposes:
+
+- Get a quick look at outstanding jobs, estimates, invoices, service plans, etc.
+
+- Quick gateway into those areas of Housecall Pro.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355510411/aec18590e33a8eeca61867aaf51f/Homepage-open-items.png?expires=1763568000&signature=870ab782b4f2231679eefab19e9ff059c57e35aa8c3d0aa0805b22181c907e04&req=dSMiE8x%2FnYVeWPMW1HO4zaYb5sPMOJ%2FwFiyPhtPDY082oAnlF0ou%2FzK33zU7%0AIcB%2BAqEsNM4dIcTTDZ8%3D%0A
+
+---
+
+Open Item Definitions
+
+Each open item is defined in the table below:
+
+Table:
+Row 1: Open item | Primary value | Secondary value | Links to
+Row 2: Open estimates | The number of estimates that are not yet approved | The total dollar amount of all open estimates | Reporting > Open estimates
+Row 3: Open invoices | The number of invoices that have not been paid | The total dollar amount of all open invoices | Open invoice list
+Row 4: Unscheduled jobs | The number of jobs that do not yet have a scheduled time and date | The total dollar amount of all unscheduled jobs | Reporting > Unscheduled jobs
+Row 5: Unscheduled service visits | The total number of service visits that have not yet been scheduled in the next 2 months, including the current month. (If today were August 15, you would see all unscheduled service visits for August, September and October) | The total dollar amount of all unscheduled service visits | Service agreements
+
+---
+
+Customizing Open Items
+
+You can hide any open item by clicking on the dropdown and unchecking the box next to that open item.
+
+Hiding an open item also hides the corresponding link on the right side of this component.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355510409/70ad66a85cb835e0f873d28b0588/Homepage-open-items-customize.png?expires=1763568000&signature=087e0bc7a13d2a57205aab4f35a3f40a30abd9de7e7c46dfa242f48fe4f22cc1&req=dSMiE8x%2FnYVfUPMW1HO4zaZBjDbIypTvbAq5fGzs80T82PqJcoDOqdxY9pCl%0A8wwxX3IoGO397VzE4aw%3D%0A
+
+---
+
+---
+
+Stats on the Homepage
+
+Much like Open Items, Stats acts as a quick look at your most important KPIs with links directly into the area of the product to get more detail.
+
+[Image] https://downloads.intercomcdn.com/i/o/814096544/eb0844e353c2bd10b1409e6e/Homepage-todays-stats.png?expires=1763568000&signature=72227436247648f903512c9eba551f059d2e545dc2a0f709231f0599cd1a8ab3&req=fCEjFsB4mIVbFb4f3HP0gKheh05H9PnolajIVak1eujlWySAr4kyWlVtZlim%0AMpUVh6biTSDZfJDczA%3D%3D%0A
+
+---
+
+Setting the Time Period
+
+Stats allow you to look at the following period of time, which will also show a comparison to the same period of time from the previous year. The available periods are:
+
+- Today
+- Week to date
+- Month to date
+- Quarter to date
+
+Let's look at an example. Say it is 1:00 pm on Wednesday, August 23, 2023, and we are looking at the "Job revenue earned" stat section.
+
+Table:
+Row 1: Period | Main metric | Comparison metric
+Row 2: Today | Total job revenue earned from 12:01 am Wednesday, August 23 to 11:59 pm Wednesday, August 23, 2023 | Total job revenue earned from 12:01 am Tuesday, August 23 to 11:59 pm Tuesday, August 23, 2022
+Row 3: Week to date | Total job revenue earned from 12:01am Sunday, August 20 to 11:59pm Wednesday, August 23, 2023 | Total job revenue earned from 12:01am Saturday, August 20 to 11:59pm Tuesday, August 23, 2022
+Row 4: Month to date | Total job revenue earned from 12:01am Tuesday, August 1 to 11:59pm Wednesday, August 23, 2023 | Total job revenue earned from 12:01am Monday, August 1 to 11:59pm Tuesday, August 23, 2022
+Row 5: Quarter to date | Total job revenue earned from 12:01am Saturday, July 1 to 11:59pm Wednesday, August 23, 2023 | Total job revenue earned from 12:01am Friday, July 1 to 11:59pm Tuesday, August 23, 2022
+
+Where:
+
+- Period: The period of time selected in the Stats section
+- Main metric: The dark bold number in the "job revenue earned" section
+- Comparison metric: The green or red pill beneath the main metric that displays a percent increase or decrease compared to the same period from the previous year
+
+---
+
+Stats Definitions
+
+All Stats have an info tooltip that appears when you move your mouse over the "i" icon that describes the metric. Those definitions are also included below:
+
+Table:
+Row 1: Stats metric | Tooltip
+Row 2: Job revenue earned | Sum of revenue from jobs marked complete during the specified time period compared to the same period in the previous year
+Row 3: Jobs completed | Sum of jobs marked complete during the specified time period compared to the same period in the previous year
+Row 4: Average job size | Average revenue from all jobs marked complete during the specified time period compared to the same period in the previous year
+Row 5: Total new jobs booked | Sum of new jobs booked during the specified time period compared to the same period in the previous year
+Row 6: New jobs booked online | Sum of new jobs booked online during the specified time period compared to the same period in the previous year
+
+---
+
+Customizing Stats
+
+You can hide any Stat by clicking the dropdown and unchecking the box next to that open item.
+
+[Image] https://downloads.intercomcdn.com/i/o/814175637/27fe61404280be5e269b785a/Homepage-stats-custom.png?expires=1763568000&signature=94eabd91d3a1e06533bddd4ba59ff5b996b3cc86fb2d022d3690b4169b10bd5c&req=fCEjF857m4JYFb4f3HP0gE7O3aj%2FDOR0Cl8AhrHRT1o5ycHFaeM8xJZ1%2BW2H%0AUKlGGEmC5XwyeZ2N7Q%3D%3D%0A
+
+---
+
+Employee Status
+
+All of your current and upcoming jobs will live on an interactive map, giving you insight into where your employees are now and where they are going next.
+
+[Image] https://downloads.intercomcdn.com/i/o/814803743/c08fadb6bd8b34b5e0e1b20a/image.png?expires=1763568000&signature=d2526db609fcf950d481463fc685648094231a4ee2a69d2e70b91c84ee5be729&req=fCEjHsl9moVcFb4f3HP0gAEFBxfxVDMKOPix0fZnjX%2FuCxs0DawMFTHy9uo9%0AsiAZb3Zs2gPvEbb5xw%3D%3D%0A
+
+All employees:
+
+The default state of Employee Status is to display the time of every job that is scheduled for the current day on the left, organized by the employee assigned to the job, and show the location of all current jobs on the right. This gives a quick view of the jobs happening now and later, with links to do the following:
+
+- Call the technician
+- Chat with the technician
+- Open the job
+​
+
+Individual Employee Status and Tomorrow view:
+
+Clicking on an employee's name will change the left side of Employee Status to show only the jobs for that employee, and on the right, display the location and order of each job. Clicking on "Tomorrow" will show either any view for the next day.
+
+[Image] https://downloads.intercomcdn.com/i/o/814835987/72c8372248fa1579650c8154/employee-status-gif.gif?expires=1763568000&signature=e2a35da3d72edc069d4a160dba8c5056c399599af80a858c44d5fe3b74a4cb86&req=fCEjHsp7lIlYFb4f3HP0gCVub94ilfyWdv01qdU77jSDm9J5NdTWdAzWQg4s%0Ar50eayqNuzQGINRnHg%3D%3D%0A
+
+---
+
+Recent Activity
+
+Every action taken in the business is listed in chronological order in the Recent Activity component of the homepage.
+
+[Image] https://downloads.intercomcdn.com/i/o/814839666/8bc0ceaf94b1743c1c4837f6/image.png?expires=1763568000&signature=bc5782a74aa7bd6241b919bb5a6c1838fa81829f6a0b2c43b0e90d71e6e70736&req=fCEjHsp3m4dZFb4f3HP0gGQ4mTid%2F6IgQSp%2FCpAN5%2FigzA4FkAvH4kPlP7aF%0Ai9R2KCbCgFV1YFtnFg%3D%3D%0A
+
+You can click on any event in Recent Activity to immediately access the job, invoice, estimate, etc., from which the activity was generated.
+
+---
+
+Schedule
+
+The schedule component shows a quick list view of all scheduled items in the business, allowing you to scroll into the future to quickly review and find any near-term planned activity in the business.
+
+[Image] https://downloads.intercomcdn.com/i/o/814839666/8bc0ceaf94b1743c1c4837f6/image.png?expires=1763568000&signature=bc5782a74aa7bd6241b919bb5a6c1838fa81829f6a0b2c43b0e90d71e6e70736&req=fCEjHsp3m4dZFb4f3HP0gGQ4mTid%2F6IgQSp%2FCpAN5%2FigzA4FkAvH4kPlP7aF%0Ai9R2KCbCgFV1YFtnFg%3D%3D%0A
+
+There is also a link to the main scheduling section of Housecall Pro which can be accessed by clicking "View schedule" or simply clicking on "Schedule" in the top nav bar.
+
+---
+
+---
+
+Homepage FAQs
+
+Can I continue to use the existing Dashboard?
+
+- If you already have the dashboard in your account, it will remain there for now. Our team has taken feedback from our pros that the dashboard is an essential part of their business and before reporting and dashboard can be combined, we need to make sure all existing functionality in the dashboard is maintained in reporting and easy to use.
+
+- As of August 28, 2023, all Pros who start new accounts in Housecall Pro will not be given the dashboard.
+
+Can I customize the Homepage?
+
+- You can choose which Open Items and Stats you want to see but at this time you cannot rearrange the components on the page.
+
+---

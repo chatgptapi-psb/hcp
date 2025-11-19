@@ -1,0 +1,39 @@
+How do Field Techs use Checklists on Mobile?
+Source: https://help.housecallpro.com/en/articles/3971521-how-do-field-techs-use-checklists-on-mobile
+Author: Taylor M
+Last updated: Updated over a month ago
+
+Summary: Learn how to use checklists in the field on the mobile app. Make it easy for employees to complete job specific tasks on a checklist.
+
+Housecall Pro Blueprint to Success Workshop
+
+If you're looking for more advice on how to effectively use checklists, along with other great features, register for the Housecall Pro Blueprint to Success Workshop!
+
+[Button] Register Here -> https://docs.google.com/forms/d/e/1FAIpQLScM2b6NgGEvrjkOFAZPunvol2CoR4FIIFiVgR7DmTRqgd3gQg/viewform?usp=pp_url&entry.1047718727=HCP+Help+Article
+
+---
+
+---
+
+Completing Checklists on Mobile
+
+Your field techs will easily be able to see and complete checklists while out in the field.
+
+If you haven't already created a checklist, you will need to do so and then add those checklists to a job.
+
+When your field technician opens up the job details of a job that they are assigned to that has a checklist, they will see that checklist below the action buttons of On My Way, Start, and Finish.
+
+They will see Checklist Incomplete until the checklist has been completed
+
+[Image] https://downloads.intercomcdn.com/i/o/204464667/19ae0ef7914cdf78b6356145/image.png?expires=1763568000&signature=c247059f324c527b612ed63c11e4e0f5ba5b6bb8318ff927b2a3ad3bb520f944&req=diAjEs96m4dYFb4f3HP0gGSJXECd1%2FXJsnaYRJf%2Bz1QlsVGkRk5V2%2FUu7DNq%0AMr3Rzdnl8jNYSwjLpA%3D%3D%0A
+
+After clicking on Checklists Incomplete they will see a list of all items. Simply tap on each one to mark it as complete and then the checkbox will fill with a checkmark. 
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/204466345/75c5711a26008badb0bf3374/image.png?expires=1763568000&signature=0d62c9dfe4a6c664638937dd733c51db55ad247cfa1cff579e8bbfd582f11879&req=diAjEs94noVaFb4f3HP0gMNqFgv%2FsdqgMv860AdD%2FWlXVLF8zXpdak4y81em%0AEkm%2FseLhkC8GlgO%2Bdw%3D%3D%0A
+
+Once all items have been completed they will see Checklists Complete on the job details page.
+
+[Image] https://downloads.intercomcdn.com/i/o/204466476/6fee3a0421b427f2774a70a0/image.png?expires=1763568000&signature=6f401db5e30a03ba87eecbfd25b01cb9a73720d1c178343d356f878d06b7c5ac&req=diAjEs94mYZZFb4f3HP0gEbHlRm%2BfwtF7g1uw3qv36PA5iR7%2Ffs8XkgNg4V%2F%0Aem6g3TprCpkjm%2BeORA%3D%3D%0A
+
+---

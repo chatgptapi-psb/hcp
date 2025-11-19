@@ -1,0 +1,30 @@
+Activity Feed
+Source: https://help.housecallpro.com/en/articles/4154392-activity-feed
+Author: Taylor M
+Last updated: Updated over a year ago
+
+Summary: Accountability is important. Keep track of all changes, edits, and updates made to jobs and estimates with your Activity Feed.
+
+Activity Feed: Overview
+
+Efficiently managing and monitoring your jobs and estimates is crucial for maintaining seamless operations. Housecall Pro’s activity feeds provide a comprehensive way to track every action taken on your jobs and estimates. This feature helps you stay informed about employee activities, from payment processing to invoice adjustments. In this section, we will explore the two types of activity feeds available: the global activity feed and the job-specific activity feed. Learn how to access and utilize these feeds to ensure you have a complete overview of your operations and can swiftly address any issues that arise.
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/t43ctnaqlv
+
+Guide to Activity Feeds
+
+In Housecall Pro, you can easily track all activity on your jobs and estimates through the activity feed. This often-overlooked feature lets you monitor every action your employees take, from capturing signatures and adding notes to processing payments and editing line items on invoices.
+
+There are two types of digital paper trails, or activity feeds, accessible via the web portal:
+
+Global Activity Feed: To access this feed, click on the profile icon in the upper right-hand corner of your screen and select "Activity Feed" from the menu that appears. This feed displays activities in chronological order, with the most recent at the top. Entries are color-coded for easy identification: green for successful payments (including cash, check, or credit card), red for issues (usually emails that failed to send), and black for general updates. Expand each entry by clicking the down arrow icon to view details such as the employee involved, the device used, and the job number. For red entries, expanding will reveal the reason for the failure. To navigate directly to a job, click the job number in the expanded view.
+
+Job-Specific Activity Feed: Found on every job and estimate detail page, this feed provides a focused view of activities related to a specific job. Scroll to the bottom of the details page to locate the activity feed. The color coding is the same as in the global feed. To see a complete list of activities, click "See All Activity." This will show a live list of actions taken on the job, including attachments added, notes, invoice changes, updates to the service address, and button presses (e.g., scheduled, on my way, start job, finish job, invoice sent, payment made). Click the downward arrow to expand each activity item and review the details. When finished, click "Done" to exit.
+
+These features provide comprehensive oversight, ensuring you stay informed about every aspect of your jobs and estimates.
+
+---
+
+Having trouble finding what you need?
+
+Use the blue bubble to reach out to our chat team for live customer support. If you’d prefer to talk it out over the phone, call our support number at 858-842-5746.

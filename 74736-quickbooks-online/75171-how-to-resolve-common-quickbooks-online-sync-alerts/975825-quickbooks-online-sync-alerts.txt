@@ -1,0 +1,279 @@
+QuickBooks Online: Sync Alerts
+Source: https://help.housecallpro.com/en/articles/975825-quickbooks-online-sync-alerts
+Author: Nate H
+Last updated: Updated over 7 months ago
+
+Summary: Learn what causes QBO Sync Alerts and how to resolve them.
+
+Overview
+
+The following QuickBooks Online sync alerts are the most common that we see here at Housecall Pro. Each alert is outlined below with the resolution options available for each.
+
+Once you have resolved the alerts, you'll need to reprocess them to ensure that Housecall Pro and QuickBooks Online will finish syncing the information, and so the alerts no longer show on your Sync Alerts page.
+
+---
+
+How to Reprocess Sync Alerts
+
+To reprocess Sync Alerts in Housecall Pro:
+
+- Click on the QuickBooks icon in the top right of your Housecall Pro navigation bar to be directed to the QuickBooks Online Sync Alerts settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/1183242955/735901bdf88cee8da179565b/QBAlertCenterIcon.png?expires=1763568000&signature=1869ee647a69026fad382a91cce546dabcd556cbe8021af2ced223845f937e8b&req=dSEvFct6n4haXPMW1HO4zRK3pZVu3t%2FQ2zNO2zl0wgXEmLs5B7c5hjdTIx94%0AGwvZQyxNHMoWK7rLPMY%3D%0A
+
+- Hover your mouse over the alert that you need to reprocess, and two icons will appear on the right side of that alert. The Reprocess button is the icon on the left that looks like a circular arrow rotating clockwise.
+
+- Click on the Reprocess button.
+
+[Image] https://downloads.intercomcdn.com/i/o/1183242949/0391e1f307bda043016cedba/DisplayName2.png?expires=1763568000&signature=660b2f4824f3016db43819d34d380fb10814284f270d4f9faca2d771174bf9f6&req=dSEvFct6n4hbUPMW1HO4zUxAIHkF2A0S27q7YLQ%2F8r6xXpNnhzvtmkcUTnpt%0ALX0VYS%2F0e0IUEOPIu3s%3D%0A
+
+- You may be prompted to provide additional information depending on the type of alert you are reprocessing. 
+​
+- Once you have clicked the Reprocess button and dealt with any pop-ups, the alert will disappear from your QuickBooks Alert Center.
+
+---
+
+How to Dismiss Sync Alerts
+
+When you encounter an alert on the QuickBooks Sync Alerts page and have taken the steps to manually resolve it in QuickBooks Online, you can choose to dismiss the alert in Housecall Pro.
+
+To dismiss Sync Alerts in Housecall Pro:
+
+- Click on the QuickBooks icon in the top right of your Housecall Pro navigation bar to be directed to the QuickBooks Online Sync Alerts settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/1183242954/27ceea633ebc164e23780a46/QBAlertCenterIcon.png?expires=1763568000&signature=8aad83fb26ee91d4c4dddd8ae876127b0d3e8d908277942e8fc24307b4cd55e6&req=dSEvFct6n4haXfMW1HO4zRqTaojZyKBr6%2Fik6TCWRb%2F7P4N6ataldQupe2lP%0AcFKHfWp8Z1fCp3MU1UI%3D%0A
+
+- Hover your mouse over the alert that you need to reprocess, and two icons will appear on the right side of that alert. The Dismiss button is the 'X' icon on the right.
+
+- Click on the Dismiss button.
+
+---
+
+Alert: "Invalid Item Ref"
+
+The most common alert that is produced for auto-reconciliation in QuickBooks Online is the 'Invalid Item Ref' alert.
+
+This alert usually occurs when your bank account that Housecall Pro was configured to use to auto-reconcile your credit card payments has been deleted in QuickBooks Online.
+
+- The most frequently deleted account in QuickBooks Online is the checking account.
+
+If you see this alert:
+
+- First, navigate to your QuickBooks Online settings in Housecall Pro by clicking the QuickBooks icon or the Gear icon in the top right corner of your HCP navigation bar.
+
+- Then select 'Banking' in the QuickBooks Online drop-down from the settings menu on the left side of your screen and verify that the correct bank account is connected.
+
+- If the bank account has been deleted, this will be noted on the Banking settings page.
+
+To resolve this alert:
+
+- In QuickBooks Online, click 'Make Active' next to the deleted account in your Chart of Accounts.
+
+- Contact our Chat Support team via the Blue Chat Bubble in your Housecall Pro account to work with a support representative and provide the name of the your checking account in QuickBooks Online. This account should be where you want the credit card payments to reconcile to.
+
+---
+
+Alert: "Display Name Conflict"
+
+This alert occurs when an invoice is created in Housecall Pro for a duplicate customer and is sent to QuickBooks Desktop.
+
+[Image] https://downloads.intercomcdn.com/i/o/1179589791/f4ffcf4ac45e5a9f6be0b6f6/Alert+-+Display+Name+Conflict+%281%29.png?expires=1763568000&signature=17208e1e184738a8df9844387640bffce83b0a1a21a05c0a394bb074a3bded9c&req=dSEgH8x2lIZWWPMW1HO4zYYKrD%2BAG%2B1UE2FsVp4NwSnGoUTM6Pp1WuzXSWO%2B%0A63Trz6K3r%2F%2BWxPjQNcA%3D%0A
+
+To resolve this alert, you can either:
+
+- Change the name of the customer whom the invoice was created for, or
+
+- Merge the Customer Profiles if they are duplicates.
+
+- Click the Reprocess button on the Sync Alerts page in Housecall Pro. 
+​
+
+---
+
+Alert: "Duplicate Name Exists Error"
+
+This alert occurs when a customer, Service Plan, or Product/Service name in Housecall Pro is not linked to a customer with the same Display Name in QuickBooks Online.
+
+[Image] https://downloads.intercomcdn.com/i/o/1179607799/8c61f5686df04e02f4e8afb1/DuplicateNameExists.png?expires=1763568000&signature=7cc354d732a4f704a685fe0605065f97e4a7b78b085be42d40aa6578cb3c711c&req=dSEgH89%2BmoZWUPMW1HO4zYk5WJTf0R1R5R%2FJLaa9z3B%2Fay%2FjMrZrYWM%2B3I%2Fl%0A0r%2F5zkgl02xlilZlhHU%3D%0A
+
+To resolve this alert:
+
+- Click the Reprocess button on the Sync Alerts page.
+
+- If the alert does not clear, or the Reprocess button does not disappear, please reach out to our Chat Support team via the Blue Chat Bubble in your Housecall Pro account and request that the alert be manually repaired.
+
+- If you have multiple "Duplicate Name Exitsts Error" alerts, please try to reprocess as many as you can, then reach out to our Chat Support team to correct what remains.
+
+---
+
+Alert: "Name Already Taken"
+
+Alert Description: "We found a customer, vendor, or employee with the same name."
+
+[Image] https://downloads.intercomcdn.com/i/o/1179471054/a498ad72dbdf10c0ef64bc33/NameAlreadyTakenAlert.png?expires=1763568000&signature=dfc6c87356c4e09c1190f86fc62d8e6370eb01aeff84b1b503166b2d237e4884&req=dSEgH815nIFaXfMW1HO4zRytYm5zrbbS8usDk3KZKmCNNx%2FloAgMSFmUy%2Bxo%0Aq%2Fnv5Wj6DBGDF1mmy%2FM%3D%0A
+
+This alert indicates that the name of the customer on an invoice that has been pushed from Housecall Pro to QuickBooks Online matches a customer, vendor, or employee in your QuickBooks Online account.
+
+QuickBooks Online requires all employees, vendors, and customers to have unique names. This alert usually occurs when an employee or vendor (someone you pay) needs to pay you for something.
+
+To resolve this alert:
+
+- Update the Customer Display Name in Housecall Pro to something else that doesn’t collide with the name.
+​
+- Once you have changed the Display Name, go back to the QuickBooks Online Sync Alerts settings page in Housecall Pro, then hover over the alert and click the Reprocess icon. 
+​
+
+---
+
+Alert: "Tax Rate Unavailable"
+
+Alert Description:
+
+- "The tax rate % with name (tax rate name) was not found in QuickBooks."
+
+[Image] https://downloads.intercomcdn.com/i/o/1179604813/05d377873c54f30c5123ccab/screenshot_2024-09-13_at_12_26_44___pm.png?expires=1763568000&signature=8d2f96e5be7f988695548566b07330ae8fc51ceaea0043d4d76942eed8282b01&req=dSEgH89%2BmYleWvMW1HO4zcjhW52gl9a2DeM04zO1VFifGpnyWIhhDdV9VQsx%0Ax%2F70Ackme4mLnYVq0XI%3D%0A
+
+This alert usually occurs on invoices that have been imported from QuickBooks Online, or on new invoices that have an applied tax rate that has only been added in Housecall Pro, and the system has found that the tax rates are not identical between your QuickBooks and your Housecall Pro account.
+
+The integration requires that the tax rate in Housecall Pro and QuickBooks Online must match exactly. This includes spelling, capitalization, punctuation, or any empty spaces at the end of the name, etc.
+
+You will need to review the saved tax rate in Housecall Pro and match your tax rate in QuickBooks Online.
+
+To resolve this alert, you can either:
+
+- Create the tax rate with the same exact name and rate in your QuickBooks Online account, or
+
+- Open the Job Details page in HCP, and select a tax rate that you already have in both Housecall Pro and QuickBooks Online. If you have no taxable line items on the job, you can remove the tax from it.
+
+After you have resolved the alert, you'll have to reprocess it in the Sync Alerts Settings page in Housecall Pro. Once the alert has been reprocessed, it should no longer show on the Sync Alerts page.
+
+---
+
+Alert: "Account Period Closed"
+
+Alert Description:
+
+- "The account period for this invoice has been close in QuickBooks. Invoices created on or before (date) cannot be pushed until the books have been reopened."
+
+[Image] https://downloads.intercomcdn.com/i/o/1179360371/c4a023bf643227ec7ecb084a/screenshot_2024-09-13_at_12_22_36___pm.png?expires=1763568000&signature=43c3e45539d8ebac754f642cc1bc14d53b663e5d7242e75866aa43f54caf5545&req=dSEgH8p4nYJYWPMW1HO4zaW2CBji7kHbQHojGRqOZbs%2FymPdcH2Yfp1SRPuE%0AyCvYV8rpG1W9YB6XxQY%3D%0A
+
+This alert indicates that an invoice that was previously sent to QuickBooks Online from Housecall Pro is attempting to be updated, and that the invoice was added to an accounting period in QuickBooks Online that has been marked as closed.
+
+To resolve this alert:
+
+- Reopen the accounting period in QuickBooks Online, then click the Reprocess button on the Sync Alerts page in Housecall Pro.
+
+- If the invoice is squared away in QuickBooks Online, contact our Chat Support team via the Blue Chat Bubble in your Housecall Pro account and request for us to remove the alert.​
+​
+
+---
+
+Alert: "Invoice Number Already Taken"
+
+Alert Description:
+
+- "We found an invoice in QuickBooks Online using the same invoice number as job #______"
+
+[Image] https://downloads.intercomcdn.com/i/o/1179635918/e9945c74fd97d74c10184913/InvoiceNumberAlreadyTaken.png?expires=1763568000&signature=292e5b307b938c9affe53bd499320d74051a20adbb1912bac469705d8c7d4c9a&req=dSEgH899mIheUfMW1HO4zd%2BQYoojWUR0Jkuh4NomS%2FJrZlBj0RE8nY1c1V2q%0AB5UqzAiH7RwoCm8YBC4%3D%0A
+
+These alerts occur when a you attempt to sync a Housecall Pro Job/Invoice with the same invoice number as an already existing QuickBooks Online invoice.
+
+To resolve this alert:
+
+- Sign into your QuickBooks Online account, click on the magnifying glass icon in the upper right hand corner of your screen and type in the invoice number. Then, click on the invoice.
+
+- Change the invoice number in QuickBooks Online and click the 'Save' button to save the changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/336332176/7a286e06d6dc1e36054f4cea/Screen+Shot+2021-03-26+at+2.47.09+PM+%281%29.png?expires=1763568000&signature=6780047858f7715da7e7a113199c989e9eef01fc4a34d151eb6691008eba54a6&req=dyMhFcp8nIZZFb4f3HP0gAEuVNbE%2Fkt%2BPx20VOTjoqimruUUdPnTm7UUEsvb%0A%2Fy4gbGeI13LL4octpg%3D%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/336332250/302a424a2de82a3a3d05a9ac/Screen+Shot+2021-03-26+at+2.48.02+PM.png?expires=1763568000&signature=435cdfdde94bf59323fdca8785daefdcae851e26f802e42460183f67e2330592&req=dyMhFcp8n4RfFb4f3HP0gBHHDc2NKuXjQLAJmAol0W6o4Kjjvbe8jmA37DN%2F%0ARdCgXvew73AXO4NtOQ%3D%3D%0A
+
+---
+
+Alert: "Line items At least 1 line item is required"
+
+This alert indicates we are attempting to send an invoice that has no Service or Material Price Book (line) items.
+
+To resolve this alert:
+
+- Add a line item to the job, then reprocess the alert.
+
+---
+
+Alert: "QuickBooks Service Unavailable"
+
+This alert indicates that the connection to QuickBooks Online was dropped when an operation tried to occur.
+
+To resolve this alert:
+
+- Click the Reprocess button to clear it.
+
+---
+
+Internal Server Error; errorCode=003100; statusCode=500"
+
+This alert indicates that the connection between your Housecall Pro and QuickBooks Online account was interrupted or not completed.
+
+To resolve this alert:
+
+- Click the Reprocess button to clear it.
+
+- If the alert does not clear, and you see them successively, it's an indication that QuickBooks Online is not responding. You will be able to reprocess the alert(s) once QuickBooks Online recovers.
+
+---
+
+How to Resolve QuickBooks Online Automated Sales Tax (AST) Issues
+
+QuickBooks Online has made its Automated Sales Tax (AST) feature an automatic setting for new QuickBooks Online users.
+
+It automatically calculates tax rates based on the location on an invoice. Because we don’t initiate the integration until an invoice is sent to QuickBooks Online, it may cause tax rate discrepancies in your QuickBooks Online account.
+
+What is Automated Sales Tax?
+
+With the Automated Sales Tax feature activated, QuickBooks Online checks the job address and automatically assigns the sales tax for that location. There is no place to manually create tax rates in QuickBooks Online. Instead, it requires you to enter your business address and add in the correct tax agency. It calculates the rest.
+
+How Does Automated Sales Tax Work?
+
+If Quickbooks Online determines that you've applied the incorrect sales tax for a job created in HCP, QuickBooks Online will then overwrite the rate you’ve chosen with the "correct" tax rate, based on their Automated Sales Tax calculator. This will adjust the amount on the invoice in QuickBooks Online.
+
+If the Automated Sales Tax rate is higher than the one applied (and the invoice has been paid for in HCP), it will show an outstanding balance in QuickBooks Online. If the Automated Sales Tax rate is lower than the one applied (and the invoice has been paid for in HCP), it will show a credit on that customer's account in QuickBooks Online.
+
+Solutions
+
+If you believe that Quickbooks Online is forcing you to use a tax rate that is incorrect, you must contact Quickbooks Online.
+
+The only way to get the feature turned off is to prove that there is a flaw. You can take the guesswork out by using the QuickBooks sales tax calculator.
+
+Immediate fix
+
+If the invoice has NOT been paid for:
+
+- You can change the tax rate to the rate that QuickBooks Online is suggesting on the invoice in Housecall Pro before resending it to the customer.
+
+If the invoice HAS already been paid for:
+
+- You can override the Automated Sales Tax rate on transactions within your QuickBooks Online account. Once you override, there should no longer be a discrepancy between Housecall Pro and QuickBooks Online.
+
+How to Override the Automated Sales Tax Rate
+
+- First, open the invoice detail page in your QuickBooks Online account.
+
+- Click the blue ‘Sales Tax’ link below the subtotal.
+
+[Image] https://downloads.intercomcdn.com/i/o/1183245810/cfcbe82f460c9b7d033e8f3c/i0-nK1VrCW5mSMGDV7btulYOicRHwcQG3tnftj7_c_zgszpu7r_qjeM3r-5mKHnfRTezLCYWbUkT_BPxcCrRmj89TbPCQilFUJ009FpsXHnDaARALZlDug_KIiyR0US7SsN7-I8G?expires=1763568000&signature=92c77644c45f4986ad228a59f13cc86dc7796ba56ee1ebdf90aaadd4b781a4f1&req=dSEvFct6mIleWfMW1HO4zas%2Fq7G8%2BpOx2b8LrKN7MH5T42BOy%2Fk2KkK9MoXr%0AEy6lZM6BbsEqrEQZP6Y%3D%0A
+
+- On the screen pop-out, click 'Override this amount' in the bottom right corner of the window.
+
+[Image] https://downloads.intercomcdn.com/i/o/1183245809/98c1f59d598aa74454dd12b9/I0lwDQJnj_6cImAGwbi_xMeRIi9JXtfWYeo9u5IqxSdKB9A0YY-OC9NuFWD5HsPCpw_m7bNYqNKZMPQGQAoTqthygHp7bcxqV3TSf6ZI6y7HwUmhe2p7pcLGRKejFtxWbGjBRLBJ?expires=1763568000&signature=ecd05bd0e341f8fc559fd07a62a0def5ff8e078dffcb44f9a38b20b72105f654&req=dSEvFct6mIlfUPMW1HO4ze8lxk6kxazz%2BdwiWCmTZjww9L5XqU55A%2B56ozTl%0APotCXhwMI4XaRw9hcVY%3D%0A
+
+- Finally, enter the dollar amount or percentage you wish to use as the tax rate, select a reason from the drop down, then click the green 'Confirm' button.
+
+[Image] https://downloads.intercomcdn.com/i/o/1183245808/b1d6db2318eafa232b4ca9bf/XB7-l-FdoIP1_dN5Ki6mMEVYxpr7UOsVbhRv4FgScP--sTGeQqZb9QysFoMVOrCykW6blZPmPEVEk4GvHXdJ7bNY-6IvoCf9OEDLopkdjmZny8pjW3Eaoo4pAeTULQQyu5ptKOmy?expires=1763568000&signature=fc9f4abae79d6c4fff4cfc78043315f356cda0443c97d634d5daf598178cb2d4&req=dSEvFct6mIlfUfMW1HO4zdnZSMi1xqaVZuffgA6ISwSTIi9dKZOZyzeFv9DF%0ANMP5VQAPtxkFlBNBA1o%3D%0A
+
+---
+
+---
+
+Learn more about how Housecall Pro easily integrates with your
+
+QuickBooks Online account.

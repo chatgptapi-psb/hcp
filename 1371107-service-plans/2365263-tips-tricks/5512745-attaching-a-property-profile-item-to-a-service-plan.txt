@@ -1,0 +1,23 @@
+Attaching a Property Profile Item to a Service Plan
+Source: https://help.housecallpro.com/en/articles/5512745-attaching-a-property-profile-item-to-a-service-plan
+Author: Roland Ligtenberg
+Last updated: Updated over a month ago
+
+Summary: Quick steps to associate the details in your customers' Property Profiles and their respective Service Plans.
+
+How to Attach a Property Profile Item to a Service Plan
+
+If you utilize our Property Profile feature for recording Make, Model, and Serial Number information of equipment belonging to your customers, you can associate these items with their corresponding Service Plan.
+
+- Go to the customer's profile and select the correct Service Plan.
+- On the Service Plan details page select the Property Profile Item you'd like to associate with the plan.
+
+[Image] https://downloads.intercomcdn.com/i/o/381780791/c3072d569f7da80660a7be40/Screen+Shot+2021-08-27+at+3.56.00+PM.png?expires=1763568000&signature=eddc69e026941cc29f069ed9be7826b1a606c4bfe4bd0c7a7b76b142b8e0dbe0&req=dygmEcF%2BmoheFb4f3HP0gCGQIVbEHvGLZiJGCaiOgEOzjIKgjaSGPUkBYg4z%0ARe3%2B%2F8RA9ZIZFgsXXg%3D%3D%0A
+
+- Once the item has been added to the Service Plan you will now see this relationship reflected in the Property Profile details.
+
+[Image] https://downloads.intercomcdn.com/i/o/381781460/467d657c9c6923adf6f77630/Screen+Shot+2021-08-27+at+2.36.06+PM.png?expires=1763568000&signature=f63d57dee91818ff496bc76724ee6db6a78543de3f97bb52537d9ee47e533a9d&req=dygmEcF%2FmYdfFb4f3HP0gDHgmnhe2l%2BvS%2FdeH%2FTD2O2Y5h%2ByTk6T0U0IUK7s%0A1CyBONLv8MEu5cYwkA%3D%3D%0A
+
+---
+
+---

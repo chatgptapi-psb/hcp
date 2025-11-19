@@ -1,0 +1,118 @@
+CompanyCam Integration Overview
+Source: https://help.housecallpro.com/en/articles/5138242-companycam-integration-overview
+Author: Cathlin H
+Last updated: Updated over a month ago
+
+Summary: How to use the CompanyCam App with Housecall Pro
+
+Integrating CompanyCam and Housecall Pro
+
+CompanyCam is a must-have app when working with homeowners, subcontractors, and other crews. The photo + video capture tools, automatic organization, and easy annotations make communicating with every stakeholder painless.
+
+What does this mean for you? Well, for starters, it means:
+
+- More organized jobs
+- Fewer work photos on your phone
+- Improved communication with clients
+
+And that’s just scratching the surface!
+
+CompanyCam is offering Housecall Pro customers a 14-day free trial and 50% off your first two months. Learn more and get started in the Housecall Pro App Store
+
+---
+
+How the Housecall Pro Integration Works with CompanyCam
+
+- Create a new Estimate or Job in Housecall Pro.
+
+- Choose a previously created customer. A new project in CompanyCam will be made for that customer if one hasn't been already created.
+
+- Or create a new customer, and add multiple addresses, if needed. Each address will have its own CompanyCam project created at that point.
+
+- Save the Estimate or job in Housecall Pro and it will receive photos and documents added to the CompanyCam project.
+
+Please Note:
+
+- The integration will not sync properly with CompanyCam if the First and Last name fields are not filled out on the Customer Profile, as CompanyCam requires this information.
+
+- You can now have multiple CompanyCam projects created for the same Address.
+
+- You can not sync photos back to jobs created before the integration was set up. A new Estimate or Job must be created to make the link back to Housecall Pro.
+
+- CompanyCam Photos and Documents will sync to the ACTIVE Housecall Pro Estimate or Job. - Photos or documents added to a CompanyCam project will automatically sync to the active estimate or job linked to the project.
+
+Here's a walkthrough of the integration:
+
+- Find the Customer Project in CompanyCam at the correct address and then add photos for the current Job.
+
+[Image] https://downloads.intercomcdn.com/i/o/323868144/3e1f5e08352790ac66f773f2/companycam6.png?expires=1763567100&signature=a6c054a19e9ee8c7f4083094b273f50967b688e9c2c4eef5b2121ac1fb34a007&req=dyIkHs92nIVbFb4f3HP0gJ6V3vlnMjBpOa9sE%2Fb%2FDu4AO4h13ZzNMdh219SL%0AEMTpMtw8jrttJ0nJWA%3D%3D%0A
+
+- All of the Jobs in Housecall Pro that are added for that Customer will be organized under the Customer's Project in CompanyCam. Photos and Documents will be added as attachments for the newest Housecall Pro job at that address. You can also edit the photo and add annotations. A copy of the photo will be sent to Housecall Pro each time an edit is saved in CompanyCam.
+
+- You'll see a link to the customer project at the bottom left of each Job just below Attachments.
+
+[Image] https://downloads.intercomcdn.com/i/o/323868866/1d0de43108bd77733f280063/companycam9.png?expires=1763567100&signature=a3740337efb350456af733c1e1a4687a96115cae1eb421e9da200b859b726f60&req=dyIkHs92lYdZFb4f3HP0gKKRBsDFkzxK7lt45GSpgRdjePs3sWhhuf3p7d3N%0AXlayMJWAy5cweAD9fA%3D%3D%0A
+
+---
+
+Video Walkthrough
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/r7g5ctbotn
+
+---
+
+How to Connect Housecall Pro and CompanyCam
+
+To connect CompanyCam with Housecall Pro:
+
+- Open CompanyCam and sign in. Click your User Profile icon in the top left and select Integrations from the drop-down menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/331191566/d4b3a66aec02b9eefd013ddf/Screen_Shot_2021-04-30_at_8_55_55_AM.png?expires=1763567100&signature=4b7ffea3758cdd97fa24a4305260c431d7a14bdcd3a60301ec4fe201df8f9e74&req=dyMmF8B%2FmIdZFb4f3HP0gOrB506FU1RTIfAvQWTLr6hNqA0rEWVHFY%2B1TmJb%0A3tl1kMBhNsutVM2OCQ%3D%3D%0A
+
+- Look for the Housecall Pro card and click Integrate.
+
+[Image] https://downloads.intercomcdn.com/i/o/323867676/ab46588e18cd0058eb3047dc/companycam2.png?expires=1763567100&signature=7d57849d05b52d10ad2fbc7c5c5756802cdf6d5cca39070aee3aa1967b599b33&req=dyIkHs95m4ZZFb4f3HP0gCZ8nL4zvhRCVfX5q1vELl2m6vwth3Ov9gmEpwki%0ADEzWu616DBK6MV%2BHUQ%3D%3D%0A
+
+- Click Connect Integration.
+
+[Image] https://downloads.intercomcdn.com/i/o/323867735/5e4f00a580c1f02a67a93eb0/companycam3.png?expires=1763567100&signature=eb2deda59b504bb0dea1daee6d34011dae0f36a6c50a02824b3e8721659c1c1b&req=dyIkHs95moJaFb4f3HP0gOQHMZq4FivT%2FvgqZYTb%2Flj6fpdd26pxyohm6stN%0AZ4Ux5HNbEo8hTMwPBA%3D%3D%0A
+
+- If you're not already signed in to Housecall Pro you'll be prompted to sign in to your account.
+
+[Image] https://downloads.intercomcdn.com/i/o/323867809/6f19bc2f16e7e46f158d445a/companycam4.png?expires=1763567100&signature=234be474c5691ee7d3b184859d0d09e9419d3cf7f605bf77d4aaff13be2e8fb1&req=dyIkHs95lYFWFb4f3HP0gHJlOdLQFRFKaqlo6csVsQbG1qo4WKkIph89%2FXH0%0AfUi3htlpQ0VWy48MAg%3D%3D%0A
+
+- That's it! You're ready for seamless documentation for your Customers in Housecall Pro using CompanyCam. The Connect Integration will change to "You're all set!" once the integration is connected.
+
+[Image] https://downloads.intercomcdn.com/i/o/323867879/ff092f1136c2340c16885b9b/companycam5.png?expires=1763567100&signature=7e2c438fd8ca0c7b96aa43f109de519d765f59f0e29d92ee9f0dd6e71865bc53&req=dyIkHs95lYZWFb4f3HP0gOYtdw6ukHs04rtaBMXZE1%2B8AMTDy2v3Je3U7F9i%0Abk67sSDCZaKUuRaY2g%3D%3D%0A
+
+---
+
+Creating a Project when you have an Existing Customer
+
+If you're looking to create a project from existing customer information that was in Housecall Pro before you integrated with CompanyCam, you can use this simple process to push that information over:
+
+- Go to the Customer profile for the customer who needs a project created for them.
+
+- Click the pencil icon to edit Contact info.
+
+[Image] https://downloads.intercomcdn.com/i/o/323868504/4118c213f074b219626787ed/companycam7.png?expires=1763567100&signature=a688401f0afa8eeecb40a14336b86a5c0bebe7d5e38df2af548ed8c6f1981262&req=dyIkHs92mIFbFb4f3HP0gB%2FOHhMooZpRPgkjFqgPLmBsYiUZ2U2zgyVv9x0o%0AnF1HCVuHc%2BKlO90sxg%3D%3D%0A
+
+- You can edit any information in their Contact info and then choose Update. If you don't actually need to change any information, the simplest option would be to hit the + Email Button. You do not need to add an email address there, you simply need to click that button and then press Update.
+
+[Image] https://downloads.intercomcdn.com/i/o/323868703/b45713cb1a8c8478442355d7/companycam8.png?expires=1763567100&signature=95e92033b21039bf767f517469fef0398d92b7c7e1bb305a65fe14621d96969e&req=dyIkHs92moFcFb4f3HP0gPM0A2L4l4DJY8imL7LGwGYLjGSKfpiUtvKzl1Bg%0AY27lUxdubR8E9vOigw%3D%3D%0A
+
+---
+
+Known Limitations of Integration
+
+- Existing jobs on the schedule before integrating CompanyCam will not appear in CompanyCam. To get your pre-existing job to show up, simply edit the customer on that job (it could be as simple as hitting the +Email button). This change to the customer will trigger CompanyCam to update.
+
+- Recurring jobs will not function properly; only the most recent occurrence will show up as a project in CompanyCam.
+
+---
+
+Support
+
+For support with the CompanyCam integration, please email support@companycam.com or chat with them on the web or mobile app.
+
+---

@@ -1,0 +1,86 @@
+Service Area Overview
+Source: https://help.housecallpro.com/en/articles/362750-service-area-overview
+Author: Steve S
+Last updated: Updated over 3 weeks ago
+
+Summary: Set your operational area to control where jobs can be booked and how your business is represented across Housecall Pro tools.
+
+✨ New: Create Multiple Service Areas
+
+You can now define multiple service zones instead of just one! Each zone can be set by city or zip code, and includes optional trip charges and assigned technicians to match how your business operates.
+
+---
+
+What is a Service Area?
+
+Your service area determines which customer locations you’re willing to serve. It ensures jobs are only booked within the regions you support, helping with accurate pricing, smarter routing, and better technician assignments.
+
+Service area settings are used across job booking tools like Online Booking, and (soon) more products like CSR AI and HCP Assist.
+
+---
+
+How to Set Your Service Area
+
+You can set your service area by following these steps:
+
+- Go to Settings > Company > Service area in your web dashboard.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1793567379/ee4773f3bf137bfcdf582c666faa/Screenshot+2025-10-23+at+2_08_30%E2%80%AFPM.png?expires=1763567100&signature=e7dc29b8ef9779ba0b126699e22792bd892d657accd739a645fbf3fba6227d56&req=dScuFcx4moJYUPMW1HO4zXbQcGTa1brUjfuZ6hoxPzUdnhoJSe6xPA7Lhs3S%0AeXEBsCv4R07GxoXdSyo%3D%0A
+
+- Select Set up service area if you don't have a Service area configured yet.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1793594090/6579218ad9a20c1982be78c06715/Screenshot+2025-10-23+at+2_14_59%E2%80%AFPM.png?expires=1763567100&signature=79b45f4aee19c7a5fd04dcd6bccc47299131c401b9788349df0dbcde1e1fe90b&req=dScuFcx3mYFWWfMW1HO4zT%2BP1pSaNtzgjHx6A5Lj8vqCs%2FDWESXnNyTGKnuX%0ALGmcep8pst5%2BDkTBgsg%3D%0A
+
+- To edit an existing service area, click the arrow to the right to expand the zone details, then select Edit.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1793833837/d92bf72a795edf8f7de11e559adb/Screenshot+2025-10-23+at+5_10_56%E2%80%AFPM.png?expires=1763567100&signature=a1d01032c9f7fb12aba6bdcb65eb8533ac8830d004a5f5366c0dec05c0af1fba&req=dScuFcF9nolcXvMW1HO4ze5Toa9n7h5OFGvWRHBNB3ydG%2B6c4apwy%2FZ7t%2Fvb%0Aoo1DmYrBkcfi%2BTiKci4%3D%0A
+
+- To add a new zone, click Add service zone above the map in the upper right corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1793588554/e6139379ea931302044a4a8fb5ba/Housecall-Pro-10-23-2025_02_23_PM.png?expires=1763567100&signature=51bf691422578e34cd3ddf8922a43e1d6faccc42dc8dd4dce0cf95afcf421374&req=dScuFcx2lYRaXfMW1HO4zaQhFKbE%2FtB%2BD0IE0jNaactd%2BP8byCTXZaqdk1W6%0AVU0i%2B6OxBYLg6%2BE8ZP4%3D%0A
+
+- Add one or more zones using: - Cities (e.g., San Diego, CA)
+- Zip Codes (e.g., 92101)
+​
+- (Optional) For each zone, you can: - Assign technicians
+- Add a trip charge (fee and label)
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1793521139/a8fdedb9ad85d22c5ab4565a036f/81c8d46e-80ea-4e81-9b89-be0e55725715?expires=1763567100&signature=d250f28d173c6be736467bfb8dfdbb82d617a472f8bb7258f87b0bba31ec9dc2&req=dScuFcx8nIBcUPMW1HO4zTCgkgxfy2lm%2FbXPL9Et5CAKF8n76fxNeuJUnR3n%0AUflFGurrmMaUr3BpqCQ%3D%0A
+
+- You can add zip codes by inputting them in the text box and pressing Enter on your keyboard, or by clicking areas on the interactive map.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1793825961/01f2d9e071c9027ea728b2019eb0/AD_4nXeTgzOxTEffgU4VL6R9fU0j7tDXxaqSC3sDZ-y1Qo6Mwh66-ZV5-KGecsET_eHXLOTI2zBS9LIuU4cQy0d8js6xc8BtNlTJOanSto80xXOfLtjxw7q15vP_jIEAm7xAfxAJpiU3YQ?expires=1763567100&signature=7c8eb4b87dc7fc622585701edda3385025aacee905b2289e2fe5540b2474c248&req=dScuFcF8mIhZWPMW1HO4zTmMtZXnUivmlDCIh8eoi2DueWnUD62875PCome2%0Ajq22qUprP8jjr4yC9Fg%3D%0A
+
+---
+
+❓ FAQs
+
+Is the map used for booking logic?
+
+- No. The map helps you visualize your service zones, but Service Area uses text from the zip code or city name from the customer address for matching—not the drawn boundaries.
+
+Can I still use just one service area?
+
+- Yes! If a single service area works for your business, you don’t have to change anything. You can add more zones only if and when you need them.
+
+How are assigned technicians used?
+
+- If a service zone has assigned technicians, job booking tools like Online Booking, CSR AI (soon), and HCP Assist (once migrated) will use that information to filter technicians who are the most appropriate team members for that area.
+
+How are trip charges applied?
+
+- If a service zone includes a trip charge, that fee will automatically be added as a line item when a job is booked through Online Booking, CSR AI (soon), or HCP Assist (once migrated). You can customize the fee amount and label per zone.
+
+How does Service Area work across Housecall Pro?
+
+- For Online Booking, CSR AI (soon), and other customer-facing tools, your service area rules—like zones, trip charges, and assigned technicians—are enforced if you enable the “Use service area to gate booking” option in your settings.
+
+- For HCP Assist, our team will reach out to migrate your current setup to these new settings. If you’d like to switch sooner, let us know and we’ll apply it right away.
+
+- For jobs you schedule yourself, service area rules aren’t going to be enforced, but you’ll begin to see helpful suggestions based on your zones—like showing trip charges or recommended technicians—to guide your team's workflow.
+
+---
+
+Click Here to Set Up Your Service Area Now
+
+---

@@ -1,0 +1,100 @@
+Viewing Your Schedule in the Field
+Source: https://help.housecallpro.com/en/articles/1029139-viewing-your-schedule-in-the-field
+Author: Alyssa Moretti
+Last updated: Updated over 10 months ago
+
+Summary: Find your schedule and job information at the tip of your fingers, on both iPhone and Android apps.
+
+Viewing Your Schedule (Calendar) in the Field
+
+The Housecall Pro mobile app makes it easy to have your schedule and job information on hand at all times, whether you use an iPhone or Android.
+
+Clicking directly into a job or estimate on the schedule will bring you to the Job Details page where you will see the details for that specific job, including who your customer is, service address, and notes on what needs to be done.
+​
+
+---
+
+View Your Schedule in the Field (HCP Mobile App - iOS)
+
+View your company's schedule on the iPhone mobile app with just a couple of quick steps.
+
+- Select the 'Schedule' icon in the navigation bar at the bottom of your screen.
+
+- Tap the menu icon in the top left corner of your Schedule.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/1050908368/3a5a0c6a548717d4655ca8e3/1.png?expires=1763568000&signature=c395a8abd927ea2f2c4c27c669200acdd72f28d2f5d7a3d57742d6617f0a546b&req=dSAiFsB%2BlYJZUfMW1HO4zdRNO6jzc2bWgw8Uut%2FGv%2BIOT8nTUITtjuPtoD2e%0Am7LE%0A | [Image] https://downloads.intercomcdn.com/i/o/1050909286/dbff996c3f23ab6bdc542d5c/2.png?expires=1763568000&signature=16623508f17f218d7c0251305a43aa45ec3cd9d0b483e7bf48de6eff15b7ff98&req=dSAiFsB%2BlINXX%2FMW1HO4zWZTHudeWG92rB0lrOzGCwECf0jWriVHbcmk%2BauV%0AUqQi%0A
+
+- From here, you can select to view the calendar by 'List view' or 'Day view.'
+
+- As an Admin/Owner or Office Staff employee, you can choose which view you'd prefer to see on the app in the field. Change the calendar view to see your jobs in a way that makes the most sense for you.
+
+- Admin/Owners and Office Staff employees can choose to view: - All employees' calendars by selecting the checkbox next to "Team calendars."
+- Specific employee calendars by checking the checkbox next to their names.
+
+- The Schedule will then update to reflect those changes and only display the calendars of the employees you have selected.
+
+- Tap the gray area outside of the calendar menu to go back to the Schedule screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/1050909885/68ce4145931d3beb7e3646db/3.png?expires=1763568000&signature=67a88a4be707d90feb8758bec6f496e72fc0a4bbfadfff36f4e358c0b4dd06d3&req=dSAiFsB%2BlIlXXPMW1HO4zcTVx34iSJU1e3vQPznDqOYN2zQ%2BH1l41E8uYJUF%0A%2FJaujRcBBeoHq2ajNPQ%3D%0A
+
+---
+
+What are the schedule view options on Android?
+
+- Tap the Schedule icon at the bottom of your screen. This icon is located second to the left and appears as a little calendar in gray. - Once selected, the icon will turn blue and you will see your schedule on the screen.
+
+- The default view in Android is the List view, which will show the jobs assigned to you in a list format.
+
+- Tapping the filter icon in the upper right-hand corner of the screen next to the schedule icon brings up your calendar filters.
+
+- The calendar can be filtered by List View, 1-Day View, or 3-Day View.
+
+- To change to a 1-Day or 3-Day view, click the stack of three lines in the top left-hand corner of the screen. A menu will open to allow you to choose between views. Simply select the view you prefer from the list and the calendar will adjust accordingly.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/548248247/150ed5aa74bc655b24306f90/Screenshot_20220718-175044.png?expires=1763568000&signature=a0622a5a7a28d6a95f1bd9373386c29cf1f962e18e6771b20e3a62ec41ae40f3&req=cSQvFM12n4VYFb4f3HP0gHa1ybzkP5DVJqq65AVs8rQ185wWgZo%2FkjJlf82p%0AekA%3D%0A | [Image] https://downloads.intercomcdn.com/i/o/548244771/f1d685704fc9e09041824615/Screenshot_20220718-175002.png?expires=1763568000&signature=bffbb24b020fcc6f661179d28aeca413032d54e00b39358d427fb0bb9c0bae06&req=cSQvFM16moZeFb4f3HP0gBCG4GIhg%2FrXwpgg7NzGrHxEhoIfrVtPFVytTxp7%0AhEQ%3D%0A
+
+- After you have selected one of the views, you can select or deselect the employee calendar(s) you want to see.
+
+- Once selected, close the left side panel by clicking on the 'Menu' icon once again, the calendar will then update to reflect those changes and only display the calendars of the employees you have selected.
+
+- Tap to the left of the menu to return to your calendar.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/548296305/8a718062e1313b0aa00c7ee5/Screenshot_20220718-175115.png?expires=1763568000&signature=b30da72e1b18de54502c11974e9de0802ea0bdc74e83364c1b4bbb851ebee518&req=cSQvFMB4noFaFb4f3HP0gJl7W5QqWRvJrEq9YJb0fgRvCOqVYB3sEz%2FzAxn8%0AGgA%3D%0A | [Image] https://downloads.intercomcdn.com/i/o/548296575/50a13a27788c0c31d9d21741/Screenshot_20220718-175149.png?expires=1763568000&signature=82dd8dbb1181c272deaec48577d340135803a97806e55dda9340a7c961c9a7f7&req=cSQvFMB4mIZaFb4f3HP0gC6wSnkIlQA8IDyvykrxBXXfDNhFIJ37vifcVDt8%0AKpo%3D%0A
+
+---
+
+What are the schedule view options on my iPhone?
+
+- Tap the Schedule icon at the bottom of your screen. This icon is located second to the left and appears as a little calendar in gray. Once selected, the icon will turn blue and you will see your schedule on the screen.
+
+- On the iPhone app, the schedule displays a 2-week calendar overview at the top of the page, featuring all dates for the current 2-week period.
+
+- The default view is the List view, which will show the jobs assigned to you in a list format. To change to a calendar or Day view, click the stack of three lines in the top-left corner of the screen.
+
+- A menu will open to allow you to choose between views. Simply click on your preferred view and it will immediately be reflected in the schedule.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/1100721282/488bc740d193c19eb98a4c44/Calendar+Bars.jpeg?expires=1763568000&signature=dad36ffaf6a654407201862770f6f439512f7ba053971363d55f5a425f4fe9e8&req=dSEnFs58nINXW%2FMW1HO4zbENR9uC9IdLKKYY1CdwRs704Pyst%2Frrc73w1VcN%0AfKUB%0A | [Image] https://downloads.intercomcdn.com/i/o/373695647/93766673a7ba2fe8fe7ef448/File+%282%29.jpg?expires=1763568000&signature=a482a54904e994ff444acc8fd927b989e613989727d369ac2cc57e44a59d1435&req=dyckEMB7m4VYFb4f3HP0gPi1EwAkU%2Bu34IfBADw2vEmV15EPIFq1RRhleqtG%0A5o8%3D%0A
+
+- After you have selected your preferred view you can select or deselect the employee calendar(s) you want to see.
+
+- Tap to the right of the menu to return to the calendar.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/373697769/c5e326a77bc828895d65efc7/IMG_8529.jpg?expires=1763568000&signature=8b22a24aef3758b3eb0fe4a07c062ac66c1051ac75b4c7554bc0a6213a770c70&req=dyckEMB5modWFb4f3HP0gLArgyCnqu4I6i9rKnR5XspdEhZo3jtp6UQ%2FzCPo%0ADYI%3D%0A | [Image] https://downloads.intercomcdn.com/i/o/373699251/cf763934c3103798a368b2ff/File+%283%29.jpg?expires=1763568000&signature=9ad18622f3230cd54fe7e0a5aea0ff06576635e9d3bff2d450f608f057268007&req=dyckEMB3n4ReFb4f3HP0gFFfC%2BUoLUIXgrI4cRhThb%2FaP0WV8jDC9TewKw2A%0Amm0%3D%0A
+
+---
+
+Key Reminders
+
+If you've added a job, estimate or event on the web version of Housecall Pro, remember:
+
+- Information about new jobs, estimates and events, refresh every minute in the app.
+- You will have to reload the chosen view screen in order to see any new jobs, estimates and events.
+
+See Your Schedule Now
+
+---

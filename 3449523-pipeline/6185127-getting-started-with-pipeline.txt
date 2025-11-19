@@ -1,0 +1,334 @@
+Getting Started with Pipeline
+Source: https://help.housecallpro.com/en/articles/6185127-getting-started-with-pipeline
+Author: Kasia S
+Last updated: Updated over 3 weeks ago
+
+Summary: Get the most from Pipeline: Tips on Leads, Estimates, and Jobs Boards plus how to manage archived items and automate tasks.
+
+Introduction to Pipeline: Key Features and Benefits
+
+In this article, we'll guide you through essential aspects of Pipeline, including how to effectively use the Leads Board, Pipeline Estimates Board, and Pipeline Jobs Board. Discover the benefits of Pipeline Automations and learn how to manage Archived Items on your desktop. This comprehensive overview is designed to help you get started and optimize your use of Pipeline for better efficiency and organization.
+
+[Image] https://downloads.intercomcdn.com/i/o/702199580/0abd1c4c30831a630880ee23/Pipeline_ProductTour_temp.png?expires=1763568000&signature=bf329ccbcc8b28130fbb50495eed41bffa0537bdf471d84e6411441ceb868401&req=cyAlF8B3mIlfFb4f3HP0gITDzmYcjy317Nl%2BndtvlQKirlgCMZPakFAoJMpI%0AWzL5tetBJwqfSWzjbw%3D%3D%0A
+
+---
+
+Get Started with Pipeline
+
+Take a moment to familiarize yourself with Pipeline and set up your automation to fully leverage this powerful tool.
+
+After logging into your Housecall Pro account, click on Pipeline in the top navigation bar to access your Pipeline tab. Here, you will see all your current leads, estimates, and jobs organized into their respective boards. You can easily switch between these boards by clicking 'Leads,' 'Estimates,' or 'Jobs' from the menu on the left-hand side of Pipeline.
+
+- Learn how to set up estimate automation
+- Explore ways to customize your Intake flow
+
+Once you’ve completed setting up your Intake, test it by clicking the +New button on the top navigation bar, selecting Intake from the drop-down menu, and filling out the form.
+
+Finally, make sure to encourage your Admins to use the Intake form to ensure that all incoming calls and inquiries are consistently handled!
+
+---
+
+Pipeline Boards
+
+Pipeline provides a visual view of your existing jobs, estimates, and leads. While Pipeline doesn't create these items for you, it allows you to view and manage them all in one central location.
+
+After logging into your Housecall Pro account, click on Pipeline in the top navigation bar to access your Pipeline tab. Here, you will see all your current leads, estimates, and jobs organized into their respective boards. You can easily switch between these boards by clicking Leads, Estimates, or Jobs from the menu on the left-hand side of Pipeline.
+
+- Leads Board: Includes cards for all your open leads. Each card represents a lead, which is tied to a customer.
+- Estimates Board: Includes cards for all your open estimates. Each card represents an estimate and includes all the options within that card.
+- Jobs Board: Includes cards for all your open jobs. Each card represents a job, or if a job has multiple segments, it represents an individual segment of a job.
+
+---
+
+What is the Pipeline Leads Board?
+
+The Leads Board provides a clear, visual overview of all your incoming leads, allowing you to efficiently manage and track their progress. It does not create leads, but helps you view and organize them all in one central location. For guidance on creating leads, please review our help article on creating leads here.
+
+- To access the Leads Board, sign in to your Housecall Pro account and click Pipeline on the top navigation bar. Then select Leads from the menu on the left side of the Pipeline tab. Each card on this board represents a Lead, which you can convert into an estimate or a job if needed.
+
+[Image] https://downloads.intercomcdn.com/i/o/1145767520/9215b8e8d396f8e13093d88a/Screenshot+2024-08-14+at+1_50_39%E2%80%AFPM.png?expires=1763568000&signature=576fa45ab1a23c6d9794c0ff9f9e59a499e104cadca04bae86f39df2460ce65a&req=dSEjE854moRdWfMW1HO4zWWq3qe4ngUZ65%2BEjCgMdP71sIOGZPcvmMkXBso1%0A92tWgqfR%2FqLDIEi3qb0%3D%0A
+
+How is the Leads Board Organized?
+
+The Leads Board is organized into six columns:
+
+- New Lead: A new lead that has been created and is either Unassigned or Assigned.
+- First Contact: Leads manually moved to this status indicate that you have made initial contact and are working to progress them towards an estimate or job.
+- Second Contact: Leads moved to this status represent that you have made contact twice, continuing to follow up.
+- Third Contact: Leads in this column show that you have reached out three times.
+- Won: Leads that have successfully been converted into an estimate or job.
+- Lost: Leads that did not convert into an estimate or job.
+
+---
+
+Video Guide: Understanding the Leads Board
+
+[Video - loom] id=d223150c64914cfc8a796f1d02013608
+
+---
+
+What is the Pipeline Estimates Board?
+
+The Estimates Board offers a visual representation of your open estimates, helping you manage and track their status effectively. Each card represents an estimate and includes all the options within that card. It does not create estimates, but provides a centralized view for easy management and organization. For guidance on creating estimates, please review our help article on creating estimates here.
+
+- To access the Estimates Board, sign in to your Housecall Pro account and click Pipeline on the top navigation bar. Then select Estimates from the menu on the left side of the Pipeline tab. Each card on this board represents an estimate, which you can manage and track as needed.
+
+[Image] https://downloads.intercomcdn.com/i/o/1145904022/bfaafcbe95bc1fdbb025272c/Screenshot+2024-08-14+at+3_51_56%E2%80%AFPM.png?expires=1763568000&signature=b91aa794663589a56e7f47d33734a0b86d4fac90a82d33fd3d5792de49d352d6&req=dSEjE8B%2BmYFdW%2FMW1HO4zS3XHbMQznz3po1UNoGWFdf0n4dn%2FQiXXmjZP84K%0AxO3DP08uFIvPam%2Bv%2B4I%3D%0A
+
+How is the Pipeline Estimates Board Organized?
+
+The Estimates Board separates your estimates into these columns:
+
+- Unscheduled: An estimate is considered unscheduled when it has not been marked as 'On My Way,' finished, sent, approved, or rejected.
+- Scheduled: An estimate with a scheduled date that has not been marked as 'On My Way,' finished, sent, approved, or rejected.
+- In Progress: An estimate that has been marked as 'On My Way,' but is not yet finished, sent, approved, or rejected.
+- Completed: An estimate that has been marked as 'Finished,' but has not yet been sent, approved, or rejected.
+- Created on Job: An estimate that has been created and linked to a job but has not yet been sent to the customer. This column is available only to those who have enabled 'Estimates on Job.' For more information on this feature, please visit our help article here.
+- Sent: An estimate that has been sent to a customer, but no options have been approved, or all options have not been rejected.
+- On Hold: A sent estimate for which follow-up automations are paused, or for any other reason (e.g., waiting to hear back from the customer on changes).
+- Approved: An estimate where one or more options have been approved within the last 7 days, but the estimate has not yet been copied to a job.
+- Rejected: An estimate where all options have been rejected within the last 7 days.
+
+---
+
+What is the Pipeline Jobs Board?
+
+The Jobs Board provides a clear, visual overview of your ongoing and completed jobs, allowing you to manage and track their status efficiently, with each card representing either a job or a specific segment of a job. It does not create jobs, but helps you view and manage them all in one central location. For guidance on creating jobs, please review our help article on creating jobs here.
+
+- To access your Jobs Board, sign in to your Housecall Pro account, click Pipeline at the top of your navigation bar, and select Jobs from the left-hand navigation menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/1145904757/89eb9db9e83ac9d9289ab2e0/Screenshot+2024-08-14+at+3_52_48%E2%80%AFPM+1.png?expires=1763568000&signature=cbf66ab8db6bd7e6a1e7c603dbb1d562d125aa78dc9f8f93fce0ce890d254023&req=dSEjE8B%2BmYZaXvMW1HO4zX3%2F2voi4ptCWbE1SbRHwQ64IYvQNZXQMlkaltJW%0A67j1Q88qq9jHdaw5vFs%3D%0A
+
+How is the Pipeline Jobs Board Organized?
+
+- Unscheduled - An unscheduled job is a job that has not been scheduled, sent, approved, or rejected.
+- Scheduled - A job with a scheduled date that has not been marked as On My Way, Started, Finished, has not had an invoice sent, and has not been paid.
+- In Progress - A job that has been marked as On my Way and/or Started, but has not been marked as Finished, has not had an invoice sent, and has not been paid.
+- Completed - A job that has been finished, but has not had an invoice sent and has not been paid.
+- Invoice Sent - A job where an invoice has been sent, but has not been fully paid.
+- Invoice Paid - A job that has been fully paid within the last 7 days.
+
+---
+
+Pipeline Boards: Search, Filter, and View Options
+
+To search, filter, or change the view of your Leads, Estimates, or Jobs Boards:
+
+- Sign in to your Housecall Pro account and click Pipeline on the top navigation bar. Then, select Leads, Estimates, or Jobs from the menu on the left side of the Pipeline tab.
+
+[Image] https://downloads.intercomcdn.com/i/o/1146011352/d5f0c62104e09a931cadce65/Screenshot+2024-08-14+at+5_51_00%E2%80%AFPM.png?expires=1763568000&signature=eecfe2cd85ea1b42456f75307fe859bed6dad48b6ebbce9fa8e7a287f14f851b&req=dSEjEMl%2FnIJaW%2FMW1HO4zRirbiGxKpeJ0D9hjSAz%2BDXGT3%2FlHN76Q1lnYIEK%0AfHeyEFaSVy37sjowijw%3D%0A
+
+- Use the search bar at the top of the Pipeline board page to find specific items.
+- Refine your search with the following drop-down options: - Leads Board: Lead # (exact match), Lead # (contains), Customer name or address, or employee name. 
+- Estimates Board: Estimate # (exact match), Estimate # (contains), Customer name or address, or employee name.
+- Jobs Board: Job # (exact match), Job # (contains), Customer name or address, or employee name.
+
+[Image] https://downloads.intercomcdn.com/i/o/1146012043/cc6b79ecf9dbaf8a6363f6de/Screenshot+2024-08-14+at+5_51_48%E2%80%AFPM.png?expires=1763568000&signature=fe6080fa83d9a91a0937d6bc6df88c86910e582ff46c17b65ea0e94845163913&req=dSEjEMl%2Fn4FbWvMW1HO4zRDMn2URI35Qdo66yQxMWOuR%2FPn%2B2XdN3dUNbkYc%0ADY6z%2FXUiqpkkCxZCiro%3D%0A
+
+- Click the Filter button to open a sidebar on the right-hand side.
+- Filter by Employee name, Tags, Customer, Created Date, Status, Value, or Scheduled Date.
+- Click Maintain Filters at the top of the sidebar to apply your filters, which will be saved for future visits.
+- Click Clear All in the upper right corner of the sidebar to remove all filters.
+
+[Image] https://downloads.intercomcdn.com/i/o/1146013972/8c484ab884cf76abba37f2a6/Screenshot+2024-08-14+at+5_54_44%E2%80%AFPM.png?expires=1763568000&signature=657616ec7f594261392cf2544bb8245483d9ccd0e1abfa9dd62e249464ac475d&req=dSEjEMl%2FnohYW%2FMW1HO4zUoikglmpNgty74WQHw0mWOv0GAk7PDCHiXyEHNl%0Aw5pKt4rkyojSB%2F%2FfAnk%3D%0A
+
+- You can also toggle between the Board view, which will display cards representing each Lead, Estimate, or Job. The Table view displays as a list view.
+
+[Image] https://downloads.intercomcdn.com/i/o/1146013518/bddbe99d9bab712e94811656/image.png?expires=1763568000&signature=9ffd95452fb0893551f8b3aaa65c82e04628b385c186e96b26524e992487d658&req=dSEjEMl%2FnoReUfMW1HO4zZeCZr453jbfPIp1Q2jQwXKdRfwR8fchUzAIKW6Q%0AiCuMEK0lRd%2FQzla7W3A%3D%0A
+
+---
+
+Updating a Lead, Estimate, or Job in the Pipeline
+
+Managing your Pipeline is essential to keeping your workflow smooth and efficient. Whether you need to update the status of a lead, estimate, or job, there are several methods available to ensure your Pipeline reflects the most current information. After signing into your Housecall Pro account, click on Pipeline in the top navigation bar to access your Pipeline. Explore each method below:
+
+- Drag and drop to update cards: While on a Pipeline board, you have the ability to click, hold, and drag a card into a new column, which will trigger a dialog box. This dialog will guide you through the actions needed to update the card, such as entering scheduling information. If you click CANCEL, the card will return to its original column.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/506517314/ff9a745f28fda05a45f65f09/DQYNy4g9P3iwSmbGCGZMr98PsVDZXjzxEtswie2D5cdqZ3B3c2ISSxFZFqT-s_Pz3Bar5TNjydK08npeE8nDi_Pw618uy-LjQBfUdC03s1v2sikm4aGAWAxBtnQjb0WB3TAhG7sEvUcHadmBPuTvxA?expires=1763568000&signature=20da81a70550dbad6598ab30dff088a6fd6082b564ca2e1f8563d165886a6d56&req=cSAhE8h5noBbFb4f3HP0gM5znGQMwbsmYVfIr5ryXQuCors2vaGcH8dN6ulL%0AkDFhjv1etE7ofmyiJg%3D%3D%0A
+
+- Status dropdown to update cards: On a Pipeline Board, you have the ability to click the dropdown on a card to select a new status, which will allow you to update the card’s progress. Some statuses may require additional actions, like entering scheduling information, before they can be updated.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-1.com/i/o/506525876/33e4286d61bc74fd5ec5ee35/ezgif-1-31a386607f.gif?expires=1763568000&signature=f79804ccdcf8f7bcbcdd1fd8980f4bff563664698ff4a56c6a01b5a1f762003c&req=cSAhE8t7lYZZFb4f3HP0gDdr%2B7nuLigyUmi7sgLcDmiEsnLsSCQ6tds7mUHj%0Ao1wm5QJq3hRSm3IRHw%3D%3D%0A
+
+- Updating from the details page: You have the ability to update the status of a Lead, Estimate, or Job directly from its details page, either on the web or mobile app. This will ensure that the Pipeline remains up-to-date with the latest information. For quick access to a job, estimate, or lead's details page, click an item on the board and then click the hyperlink at the top of the pop-out (e.g., 'Lead #2').
+
+- Quick views: While on a Pipeline Board, you have the ability to click on a lead, estimate, or job to view more information. This will allow you to access actionable options like CALL, CHAT, or EMAIL to contact the customer. You can also add, update, or delete notes by clicking View and Edit Notes on the pop-out that appears after selecting the item. To exit, click the X in the top right corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/557230740/496fbd16778308310fd0f491/quickviewsgif.gif?expires=1763568000&signature=4dcb2d2ecb928e423c6b1ac06286c3f2ef890fa6181d2119070078960893c5fe&req=cSUgFMp%2BmoVfFb4f3HP0gJYxaU%2BqPTcpKLaDtAlwXsK78mTtWnAyideedT%2B9%0Am7cwLEm7cxCNVt75Og%3D%3D%0A
+
+- Pipeline status on the Lead, Estimate, or Job Details page: You can view the Pipeline status in the top left corner of the details page for any Lead, Estimate, or Job. To update its status, click the Open in Pipeline button to view the item on your Pipeline board, where you can use the dropdown menu or drag-and-drop to make any necessary changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1656997902/3858adb8c0e8f2856f470f9f299c/image.png?expires=1763568000&signature=aabc43a915b352e12c19a2ed48f59c8dbf6e800df2ad3f889d192d51ee9b8156&req=dSYiEMB3mohfW%2FMW1HO4zafmv8JqkDCVcYa6iriK3quw8xMNLAxUNYUMHgN1%0AZXsIbZS30h2a6sAwGJc%3D%0A
+
+---
+
+Automation Overview
+
+Pipeline automations are designed to enhance your efficiency by automating routine communications and actions. By setting up triggers, you can ensure that your customer interactions are timely and consistent, without requiring manual effort. This feature helps keep your pipeline organized and your customer communications seamless.
+
+Why Use Pipeline Automations?
+
+- Efficiency: Automate routine tasks such as follow-ups and notifications to save time and reduce manual work.
+- Consistency: Ensure that communication with leads, estimates, and jobs happens on a regular schedule, enhancing professionalism.
+- Organization: Automatically manage pipeline items, like archiving or moving them based on predefined criteria, to keep your workflow smooth.
+
+What Are Pipeline Automations?
+
+Pipeline automations allow you to set up triggers that handle specific actions and communications automatically. This eliminates the need for manual follow-ups and keeps your pipeline running smoothly.
+
+Most automations are activated by default and work to keep your customers informed. These automations will trigger for any existing leads, estimates, and jobs with updated conditions within the selected timeframe, as well as for all new entries moving forward.
+
+Example:
+
+- Automation: Set to trigger 7 days after an estimate is sent. Estimate A: - Status: 7 days have passed.
+- Action: The follow-up will be sent immediately. The estimate will be resent, and the status will be updated to 'First Follow-Up.' Estimate B: - Status: 5 days have passed.
+- Action: The follow-up will be sent in 2 days. Once 7 days have passed, the estimate will be resent, and the status will be updated to 'First Follow-Up.'
+
+The follow-up message will be delivered via email or text to the same contact information used for the original estimate.
+
+---
+
+Pipeline Automation Settings: How to Access, Edit, and Customize
+
+- To access Pipeline automation settings, sign in to your Housecall Pro account and click Pipeline from the top navigation bar. In the left-hand menu, select Automations to open the Automation settings.
+
+[Image] https://downloads.intercomcdn.com/i/o/1145975038/9b0f237d7c70bf996b640cf1/Screenshot+2024-08-14+at+5_04_52%E2%80%AFPM.png?expires=1763568000&signature=86f49ec5aecdf8c4dec715a63d01e8fc94e5b0034ea22c9ba5a919f343bf8c40&req=dSEjE8B5mIFcUfMW1HO4zb2Y0RW%2BIpywPmzjE4VWjgfkOFlIcwQBYJbW9XFz%0Ax4GF7c%2FFZOKTnNJoZPw%3D%0A
+
+- At the top of the screen, you'll see options for Leads, Estimates, and Jobs. Click on one to edit the corresponding board. On this page, you'll find various automation options listed under the 'Automations' column. To the far right of these automations is the 'Actions' column. Use the toggle under 'Actions' for any automation to turn it on or off.
+
+[Image] https://downloads.intercomcdn.com/i/o/557225681/c04ebb4ceb89f809b0755b26/Turnonatuomations_small.gif?expires=1763568000&signature=46e2332a9a6c493d109b857ed1918d730f16b94887b30cb6dd0c6be78606a999&req=cSUgFMt7m4leFb4f3HP0gHSTez1PWQ6cTTXpL6rwgi6VKuIPkN7s09u4VwZd%0ATErUULvQz0NAIYXhVA%3D%3D%0A
+
+- In addition to the action toggles, click the pencil icon to the far right of any automation on this page to edit it.
+
+- After clicking the pencil icon, you’ll see a screen where you can adjust the time period between messages using the up and down arrows or by manually entering a number
+
+[Image] https://downloads.intercomcdn.com/i/o/835872617/58240d81628402b0cbd0f13f/image.png?expires=1763568000&signature=d9e4859ecc7f5ebd0a4d21646df72b077dce314ce9b39a79d517f902dd49cf35&req=fCMiHs58m4BYFb4f3HP0gI5OZS5p0RASnZNwzKc9jt8ZqiJ%2BM4pBXWWl7Z54%0AkNZ2aDmVs%2ByC10hpGQ%3D%3D%0A
+
+- For automations that send messages to customers, you can add or exclude customers based on specific tags by clicking the Add condition button located directly below the time frame settings.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1794853869/72eb45805a0dc30c247f208f8294/79210126-4c06-4c1b-b036-e6179350eb1c?expires=1763568000&signature=40abd2a9ff8605f11f065b53d17d4ad6ea9754b544e942e21dbcfd98b3d78ec4&req=dScuEsF7nolZUPMW1HO4zfdBkIjwVEOxCD%2F7WXg6yUnmpRyM%2F9QljNZsn7fM%0Ax4C%2BDEhRUpmfOfaZo0s%3D%0A
+
+- For Jobs and Estimates, you can use Tags, Job Types, and Lead Sources as conditions.
+
+- For Leads, you can use Tags and Lead Sources as conditions.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1787198927/b42c4fa2672198220b78e86d7814/30002a99-953b-4ac1-b687-a46aa512e7e6?expires=1763568000&signature=090218d287364dc8094b13b9c6cc33357963debeb9e2e4adc2c4b82eb626ef5c&req=dScvEch3lYhdXvMW1HO4zbkEHV9Xdh9TzohB9OixCiMTVpXPq3cFPYtzuMi1%0Ax%2FxNFN3mbYmucPl7oio%3D%0A
+
+- To customize the content of the message, click the Edit button next to Automated message. A sidebar will appear on the right side where you can add and edit messages. Editable content includes: - SMS message (only available if you have Custom SMS set up/enabled) 
+- Email subject
+- Email body
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1794871872/138efd2a8cd669ff0b141f8f6e12/image.png?expires=1763568000&signature=077f00f06dccdd61067ff141f26b7a5d0230f0631d8e29932b6f39655973b515&req=dScuEsF5nIlYW%2FMW1HO4zb1DrRyn5E9HvVrkcCYDsjhUvHUrIgbzxVDhChtZ%0AhopUgs29RP%2B1S%2FTyR2w%3D%0A
+
+- On the Customize Message screen, use the Add variable dropdown to insert dynamic variables like Customer First Name and Company Name to personalize your messages.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1794899505/8af8845ad154622a4b58ac01088b/image.png?expires=1763568000&signature=5b25daba3a8c0d0bb7a6b71924d6f8ea10a818390b74dbc49813e690d1cd98d3&req=dScuEsF3lIRfXPMW1HO4zf4bTNiysrdLWxP4rKkAM5mBxkDOSU6n%2Fjl%2FLD9l%0AR8vMND8%2BdsNT%2FV26lFI%3D%0A
+
+- Make sure to click Update and Save to save any changes to the message content and time frame.
+
+What Do Pipeline Automations Do?
+
+Pipeline Automations automate communications, status changes, and other parts of your workflow. Below is a description of each automation and what it does. You just have to toggle it on to activate.
+
+Note that all automations default to our recommended cadence and even have suggested language, but you can customize both the timeframe and message copy.
+
+Leads
+
+Table:
+Row 1: Automation | What it Does
+Row 2: When a lead is First Contact for [X] days, send SMS and update status to Second Contact. | Follow up communication after you made initial contact with the customer and get their approval to send SMS messages.
+Row 3: When a lead is Second Contact for [X] days, send SMS and send email, and update status to Third Contact. | Second follow-up communication to a customer.
+Row 4: When a lead is Third Contact status for [X] days, update status to Lost. | Updating lead to lost after no communication.
+Row 5: When a lead is Won for [X] days, archive the lead. | Getting lead out of the Won column and off the board after a customizable amount of time.
+Row 6: When a lead is Lost for [X] days, archive the lead. | Getting lead out of the Lost column and off the board after a customizable amount of time.
+
+Estimates
+
+Table:
+Row 1: Automation | What it Does
+Row 2: When an estimate is Sent for [X] days, resend the estimate to the customer and update status to First Follow-Up. | Initial follow up after estimate is sent out.
+Row 3: When an estimate is First Follow-Up for [X] days, resend the estimate to the customer and update status to Second Follow-Up. | Second follow-up after estimate is sent out.
+Row 4: When an estimate is Second Follow-Up for [X] days, resend the estimate to the customer and update status to Third Follow-Up. | Third follow-up after estimate is sent out.
+Row 5: When an estimate is Third Follow-Up for [X] days, decline the estimate. | After estimate has been followed up on multiple times and still not not approved, declining that estimate.
+Row 6: When an estimate is Accepted for [X] days, archive the estimate. | Getting estimate out of the Accepted column and off the board after a customizable amount of time.
+Row 7: When an estimate is Rejected for [X] days, archive the estimate. | Getting estimate out of the Rejected column and off the board after a customizable amount of time.
+
+Jobs
+
+Table:
+Row 1: Automation | What It Does
+Row 2: When a job changes to Completed and the total is $0, archive job. | For callbacks and/or $0 jobs, removing those jobs from the board once they reach a certain status.
+Row 3: When a job is Unscheduled for [X] days, send SMS to customer and send email to customer and update status to First Attempt. | First attempt to schedule a job with a customer.
+Row 4: When a job is First Attempt for [X] days, send SMS and send email and update status to Second Attempt. | Second attempt to schedule a job with a customer.
+Row 5: When a job is Second Attempt for [X] days, send SMS and send email and update status to Third Attempt. | Third attempt to scheduled a job with a customer.
+Row 6: When a job is Invoice Paid for [X] days, archive the job. | Getting job out of the Invoice Paid column and off the board after a customizable amount of time.
+
+Smart Recommendations
+
+Smart Recommendations are available for Estimates. You’ll find a toggle in the upper right-hand corner of the Estimate board’s automation settings labeled Use Smart Recommendations. Click this to enable or disable the feature.
+
+To maximize your estimate conversions, Smart Recommendations use a data-driven approach, considering factors such as industry and seasonality to auto-adjust your automations for optimal results. This feature automates three estimate follow-ups, setting the timing to the most effective duration for your business, which adjusts over time. While you can edit the content of the messages, you cannot change the timing or disable a follow-up with Smart Recommendations enabled.
+
+[Image] https://downloads.intercomcdn.com/i/o/671692350/bd7e9d2830e0fa5556f2a310/automations.gif?expires=1763568000&signature=c25215c957fe251f3f18be1d950cb12b16ccae4c414edf5159a931008d365d8f&req=cicmEMB8noRfFb4f3HP0gBPWGhA0dcmUnzAMeEn73HVSlJRPZHwFlwi45awO%0AR3D50yC%2F6fUF%2FnPtkw%3D%3D%0A
+
+---
+
+Video Guide: Understanding Pipeline Automations
+
+[Video - loom] id=279259d4f8604b4891bb8a6e00c6ecfc
+
+---
+
+Viewing and Managing Archived Items in Pipeline
+
+- To view archived items in Pipeline, sign in to your Housecall Pro account and click Pipeline on the top navigation bar. From the left-hand menu, select Archived Items.
+
+[Image] https://downloads.intercomcdn.com/i/o/1146032046/8278d9e62f3f28c11f558f85/Screenshot+2024-08-14+at+6_20_36%E2%80%AFPM.png?expires=1763568000&signature=d4debe544b06c9293b7bd8b402e8abde03b7ee5176acd404e7c6f9d4af569ddf&req=dSEjEMl9n4FbX%2FMW1HO4zRInQP13m5%2BVOtXaVJXW1NOmnwfyxhheGPkqHvZ4%0ApjStsbYT9Cu3S%2BQ5Klw%3D%0A
+
+Searching Archived Items:
+
+- Use the search bar at the top of the Archived Items page to find specific items.
+- Refine your search with the drop-down options for Job # (Exact Match), Job # Contains, Customer Name, Address, or Employee Name.
+
+[Image] https://downloads.intercomcdn.com/i/o/1146032454/edcfcd4cbe15b689c75d759e/Screenshot+2024-08-14+at+6_21_12%E2%80%AFPM.png?expires=1763568000&signature=f8b287e2c62e0459367c463b6a17cf11a65ec51a660c2a21c3bac966ec47eb29&req=dSEjEMl9n4VaXfMW1HO4zQSAuCeP4Cyqxjm4aPMRo2cmLo9esOzqAHBtXrKr%0Avqs6%2F%2F5w7Fx0BEDsQQE%3D%0A
+
+Filtering Archived Items:
+
+- Click the Filter button to open a sidebar on the right-hand side.
+- Filter by Employee, Job Tags, Customer, Created Date, or Scheduled Date.
+- Click Maintain Filters at the top of the sidebar to apply and save your filters for future visits.
+- To remove all filters, click Clear All in the upper right corner of the sidebar.
+
+[Image] https://downloads.intercomcdn.com/i/o/1146032868/e483e9ca9769290b2fb5e088/Screenshot+2024-08-14+at+6_21_56%E2%80%AFPM.png?expires=1763568000&signature=3d4252623485f658a6bb6e8dbe4c621565e65760b0f47f7c0350e1432e547644&req=dSEjEMl9n4lZUfMW1HO4zdaQlBSZ3GH%2BJovj4G27A6dD2N95raGlrTiZZscX%0AbzXMRANveAu4AEOdWzQ%3D%0A
+
+Unarchiving Items:
+
+- After completing your search, you can unarchive an item by clicking the blue arrow icon to the far left of the selected row. This will automatically unarchive the selected Estimate, Job, or Lead.
+
+[Image] https://downloads.intercomcdn.com/i/o/1146033277/52958559f450b7c0cbceeb70/Screenshot+2024-08-14+at+6_22_41%E2%80%AFPM.png?expires=1763568000&signature=2fbc676f45d1485a6cd110feee8640161e7fe711814872bfd65127a0ce723ade&req=dSEjEMl9noNYXvMW1HO4zTk1KQF5wCVjDlSw37tNQrahXpa2s7BZ8S1fRPTa%0AKX3snqKIIMwBRzC2vzE%3D%0A
+
+Status Column:
+
+- Displays the Pipeline status of each item (won, lost, approved, paid, etc.). If an item did not previously have a Pipeline status, the Status column will show a dash (-). This helps identify the current status of each item and determine if it’s ready to be unarchived.
+
+[Image] https://downloads.intercomcdn.com/i/o/1146034359/bf51bc420b2af1536d265596/Screenshot+2024-08-14+at+6_24_31%E2%80%AFPM.png?expires=1763568000&signature=d4ca7ee16cf24d0fd7c7ab29bbfc6979cfda9eb9043208502d7ff8bea3e8c3c2&req=dSEjEMl9mYJaUPMW1HO4zV2QGLxi0TffEDHGUW7jGNb4bbhhHPOVl3U4wq%2B9%0AxTRORBsWsTRYXtz4dW8%3D%0A
+
+This feature helps you narrow your pipeline search and quickly access archived items with your desired filters.
+
+---
+
+Pipeline to Profit Webinar
+
+Want to master this feature? Watch our Pipeline to Profit webinar for an in-depth demo of Pipeline in action—including boards, automations, reporting, and reactivation strategies—with SuperPros showing exactly how they manage estimates and keep work moving forward.
+
+[Video - youtube] https://www.youtube.com/watch?v=dwIcs6V2J4M
+
+---
+
+Need more revenue in your Pipeline?
+
+Check out Business Coaching by Housecall Pro to learn how certified coaches can teach you the Business Coaching playbook to drive your business growth.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1405401593/fcec5e54841a4ccd01762836e50b/Business+Coaching+by+Housecall+Pro+%28Article+Footer%29.jpg?expires=1763568000&signature=659bf81bfdf5725f2e400ee43db09888af8bbf4b509c0e5bd90055d169a8688b&req=dSQnE81%2BnIRWWvMW1HO4zfCTicafIRkMtUvJ7PfpmjLKrLibwm15Xq6reFx2%0A9VUi0gYjvWuhqZ3Isc8%3D%0A
+
+---

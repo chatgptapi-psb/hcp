@@ -1,0 +1,393 @@
+How to Use the Schedule Tab (Calendar)
+Source: https://help.housecallpro.com/en/articles/6367496-how-to-use-the-schedule-tab-calendar
+Author: Taylor L
+Last updated: Updated this week
+
+Summary: This article describes everything you need to know about using the Schedule tab (calendar) in Housecall Pro
+
+Where can I find my Housecall Pro calendar?
+
+Want an in-app walkthrough of the most updated calendar features? Click here!
+​Note: If you are not currently logged into your Housecall Pro account, you will need to come back to this help article and click the link again to start the walkthrough.
+
+There are four different places in Housecall Pro where you can access the calendar:
+
+- Schedule tab
+- Job page
+- Estimate page
+- Customer Intake Flow
+
+---
+
+---
+
+Accessing the Calendar
+
+To access your calendar, click the Schedule tab in the top navigation bar of your Housecall Pro dashboard.
+
+From here, you can view and manage all your Jobs, Estimates, and Events in one place, including unassigned or unscheduled items you can easily drag onto the calendar.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1615159254/27619ab9ce84311c2c1b703d79b2/image.png?expires=1763568000&signature=64398aea37a051bd9aa3b2d39e2be3690fb11d70e378d6925e6ff053b15d14c4&req=dSYmE8h7lINaXfMW1HO4zc12DPrftT%2Bjqil8WYtDhZU78wSXrqiic8%2BgdxLq%0AFGLCoeFWjegc6ksmS1M%3D%0A
+
+---
+
+Key features of the Housecall Pro Calendar
+
+What you'll find on the calendar:
+
+- A Schedule Menu with a monthly calendar view, a search bar to filter by Employee name or tag, Areas, and your Team Calendars.
+
+- A list of all Unscheduled jobs, including unscheduled jobs made through Online Booking.
+
+- Calendar view options.
+
+- Calendar Settings, where you can choose which details appear on your Job and Estimate tiles by customizing your calendar item display options.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1615722686/29f7c1279d490da463652c62f835/image.png?expires=1763568000&signature=97400820b2242635231eada2cbeb9011e7bc86dfdcab714c92802b84b7a316ab&req=dSYmE858n4dXX%2FMW1HO4zbKANDtHbfjkq64RdTwWtU93maGvyfBLKeLdm%2BzB%0AN%2B%2Fe7dnk9vyeu6fBsQs%3D%0A
+
+Click here to see your calendar now
+
+---
+
+How to use the Schedule Menu
+
+To access the Schedule Menu, click the Menu icon (three horizontal lines) in the top left corner of your Calendar. The panel will slide open from the left side of your screen. To hide the panel, click the menu icon again.
+
+​Monthly Calendar View
+
+- If your main calendar is set to display by day, you can click any date on the monthly calendar to quickly jump to that date.
+
+- Your main calendar will update to reflect your selection, allowing you to view scheduled Jobs, Estimates, or Events, or create a new Job directly for that date.
+
+Filter
+
+- Use the filter by option to customize your calendar view by Team member name or tag. You can type in a team member's name directly or by a tag you’ve added to their profile. The calendar will then display only the jobs, estimates, or events assigned to that team member or team member tag.
+- Unassigned jobs can also be filtered using the Unassigned checkbox.
+
+Areas
+
+- Enter a ZIP code to define a service area. You can assign a color to that area. If you’ve enabled Color By: Area on your calendar view, Jobs in that ZIP code will appear with the selected color.
+
+Team calendars
+
+- Here, you can select which employees’ calendars to display. Check the box next to each team member’s name to view their scheduled and assigned Jobs, Estimates, and Events.
+- You can also check or uncheck the box next to Unassigned to display or remove all unassigned Jobs and Estimates.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1810583259/1cf8d859902743982ba037fa4a8a/image.png?expires=1763568000&signature=29c5ff8b2a71c06f9d19e654321c0642bddb3fadc1835211b5d9b68dc03cb655&req=dSgmFsx2noNaUPMW1HO4zVxPoM4jgTtjx%2BkeYLV4JANU15iaiPPT0iAeQElr%0ABR8yxsm9wrkXFaAWhi4%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/157721005/ca75d48c370f77d5e239b6e4/Breaker.png?expires=1763568000&signature=aa8f773ebffdcd4ff0a53285910d650e3ad1abbdcb003d37c20366df02a47c2c&req=dSUgEct%2FnYFaFb4f3HP0gNd4ulZBbngk44RJXSmjEHyhtfulaILUqBdHTNWh%0ANllepFVNvNglgp9AhQ%3D%3D%0A
+
+Unscheduled Jobs
+
+- To view your Unscheduled Jobs, click the Unscheduled icon in the top left corner of the calendar page, right next to the Menu icon.
+
+- The icon looks like a small calendar with an X through it.
+
+- If you have unscheduled jobs, you’ll see a pink bubble in the corner of the icon with the number of jobs listed.
+
+[Image] https://downloads.intercomcdn.com/i/o/157720886/afc1024ea0dc510e03a22839/Screen_Shot_2019-10-22_at_2_39_08_PM.png?expires=1763568000&signature=be4df80e3b2f2dafbb3e1f2ced7e6d5d0bd196cbff0374c76f417f5d3dc8c286&req=dSUgEct%2BlYlZFb4f3HP0gECXuKYI0dnspHp6ICKeKGAI7RZbE2guInBgMW8k%0AcW%2FzzYqVBhWwwj3nMA%3D%3D%0A
+
+- Once clicked, you’ll see a list of your unscheduled Jobs displayed as gray boxes. This list includes both manually created jobs and jobs booked through Online Booking, with the most recent job at the top.
+
+To schedule a Job from your Unscheduled Jobs list:
+
+- Drag and drop the gray Job tile onto the calendar in your desired time slot.
+
+- If you need to adjust the time, simply drag and drop it again to the correct spot.
+
+If customer notifications are enabled on their profile:
+
+- A pop-up will appear asking if you'd like to notify the customer about their scheduled job.
+
+- Choose between Notify Customer or Don’t Notify Customer based on your preference.
+
+[Image] https://downloads.intercomcdn.com/i/o/153253016/0891f3760d95a51dcc9e3380/Screen+Shot+2019-10-03+at+12.53.09+PM.png?expires=1763568000&signature=75f1c5c304a5f0d3e8fa9a8c8ac67812c512e4f60fa1f1e47d54a38e4802d37a&req=dSUkFMx9nYBZFb4f3HP0gOi7RDxSMieuyaVjJwHgKHS4aPUr9dDzT9KLRYlR%0A1TUdgJw7DnwyXzQUTQ%3D%3D%0A
+
+---
+
+Anytime Jobs
+
+- Jobs scheduled as Anytime will appear in the top section of the calendar on the schedule, day, week, Monday - Friday views of the calendar. This section can be expanded or collapsed.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1741931243/0c786582df9f97a87ffdf8803a2a/image.png?expires=1763568000&signature=f0c78811217a7f95ad60377dd54dc462f859ca7f0acaf76a514e0345cf8aff5e&req=dScjF8B9nINbWvMW1HO4zQeGN1qsm0Q%2FtOb1xl51FdBUt6f9djisSdpJWljY%0A9tZgrxoB0glLWvzTnpc%3D%0A
+
+- On the dispatch view, Anytime jobs will appear for the entire day based on your business hours.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1741933640/de76c21f96100443b965c90eeb57/image.png?expires=1763568000&signature=c5774360284e9f393c30a1983077f02f410e0d2f9a6253830295061960118b31&req=dScjF8B9nodbWfMW1HO4zVcSrijTJg5QqfKawObiHtkuNBf0KLl8LpXgAkLw%0A%2FNQk9jbp8bjEClaKdXk%3D%0A
+
+- On the month view, Anytime Jobs will appear at the top of the list with "Anytime" next to the customer name.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1741935115/8d8ac45dffc1deac8ab4463976de/image.png?expires=1763568000&signature=a667ba6685dfae4e1f6c2715daa3137b34d118ad84806ffdfd1bd694ec46e484&req=dScjF8B9mIBeXPMW1HO4zZjEfGJwQrGReLn%2FWhZgMj0KyiUNxk0v9dDyvHjf%0AFFG%2B3p9fSRcncye%2BcTY%3D%0A
+
+---
+
+Unassigned Jobs
+
+- Unassigned Jobs will appear as dark grey tiles with a light grey Unassigned avatar.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1711133076/4194d32cfca0fabf1ae811b00166/image.png?expires=1763568000&signature=c2148271aca4e52ece1c412716409fd574f6ed82fda0497e65a375712f24671a&req=dScmF8h9noFYX%2FMW1HO4zdQtCUGLRWi4SqNJdf8hykWGlWBV0hYCBg%2FDfHFd%0AmUxtNCEDvoDvt39ryf0%3D%0A
+
+- When looking at the Dispatch or View by employee calendar view, Unassigned will appear first as a column. This order cannot be changed.
+- You can display or remove the Unassigned column in your calendar by going to the Schedule menu and selecting Team Calendar. From there, check or uncheck the box next to Unassigned to toggle the column’s visibility.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1711136666/6a4c3797a776b2778938e567e1b8/image.png?expires=1763568000&signature=fa4afc11bc1e84c9ec91f6b4eaad6729f8460c7de35401b24d59286e47eaf54e&req=dScmF8h9m4dZX%2FMW1HO4zdfooOuaVz13Mjy1H1kdcChxoZJGSZQeGbxZSCh3%0Aa2CFckvoxUp98DeIW2M%3D%0A
+
+---
+
+Multi-Day Jobs
+
+- Jobs that span more than 1 day will appear on the top row of the calendar.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1741936861/b16bb14437b23279123264261610/image.png?expires=1763568000&signature=45e856c2fde22e7d71edd4a8433295c4ea8e784dbad05ff22e6a95ab7f212bcf&req=dScjF8B9m4lZWPMW1HO4zRN8XOGs%2BVFfDi8bM2ZT7Gn9DDmvCbnuIkioUhLm%0AmtivtiIAoSLoVbz9V2s%3D%0A
+
+---
+
+Calendar & Map Views Overview
+
+Your Housecall Pro calendar offers several flexible views to help you manage and optimize your schedule based on your business needs, technician availability, and job locations.
+
+Calendar Views
+
+To set your calendar view:
+
+- Click the oval drop-down button next to the gear icon in the top right corner of your calendar.
+
+- Choose from these available options: Schedule, Dispatch, Day, Week, Monday–Friday, Month, and View by Employee.
+
+- The Calendar view will then update to reflect those changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1615095972/8cfea0b1d23e773bec6887b15035/image.png?expires=1763568000&signature=240188ff577fc3839a5ba071b067cdb3c59bf3fb498960489bffdaff5a8e8926&req=dSYmE8l3mIhYW%2FMW1HO4zfjM8mSzlnL20%2FEOtMN62GnyZCdL7kLqlBPF%2FQnx%0ApTP8JQ2rMOGNLGtMiuY%3D%0A
+
+View by Employee
+
+The View by Employee option lets you easily compare each team member’s availability and scheduled jobs side-by-side. Each employee is displayed as a column with their profile picture shown at the top. Hovering over their picture shows the employee’s name.
+
+In this view, easily scan your calendar for empty spaces, showing availability across all of your employees’ schedules at once, and feel confident knowing every job is scheduled correctly, with zero double bookings. Jobs that are unassigned will appear in the first column of this view.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1621319153/b61f1b2cafbbd941e2cce28ceda8/image.png?expires=1763568000&signature=b1ab2616e5d7091100bbf0b14de3f677b29e5bface5fb54260185c6b167890c2&req=dSYlF8p%2FlIBaWvMW1HO4zW4frODBL9%2FQvUfcckeWEvW6bBCv6NTIOCsagXm6%0A5nJ5ebWp0dcC4aCE968%3D%0A
+
+To enable View by employee:
+
+- Choose Day, Week, or Monday–Friday from the calendar view dropdown.
+
+- Then check the View by employee box at the bottom of the dropdown.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1615111160/bd1af2b76a3c7bc67bc049eb38eb/image.png?expires=1763568000&signature=fe5a93c5ebaf1b208e2ca50a0a10591a0c62864265d74f35224632d76278c4e3&req=dSYmE8h%2FnIBZWfMW1HO4zfK5c6DkeMUkEMz4ZiPaFoxf6NEP9Iqaec7BWndk%0Avjmv3bgAXnfD0dBFMMY%3D%0A
+
+Color by Area or Employee
+
+You can color code your calendar in two ways:
+
+- Color by Area: Assign a unique color to each ZIP code to visually organize your schedule by service area. You can set colors while adding or editing Areas from the left-hand Schedule Menu or by clicking the pencil icon next to an Area in the dropdown. Once you select Color by Area, your calendar will display jobs in the corresponding color, making it easy to spot which jobs belong to which area at a glance. If a job does not have a zip code color, the tile will be grey.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1654957475/c8e4f0f7d7165b70dfcc4a7392b4/editing%2Bareas.gif?expires=1763568000&signature=525503f2fa6a968330d518201e585f9e95aa4a25007da0a6e51ef9dba8bac2f8&req=dSYiEsB7moVYXPMW1HO4zXCyQuw9IxGV6bK%2BixMhOZbFFQjygZZLoNDn%2BZUB%0A61z5Nv6qIPsmE9hNDfo%3D%0A
+
+- Color by Employee: Use View by Employee with color-coding to distinguish routes and schedules per team member. This helps streamline multi-tech job planning and reduce overlap. Employee colors are based on the Employee profile. To make updates to the employee's color, navigate to the Employee profile within settings. Unassigned jobs appear dark grey on the calendar.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1619252160/8df91aeeff532db7e5488cb08ee4/image.png?expires=1763568000&signature=fdae09356c2728f4ccfd1a5942db725b851281d2ad5ea43ec2c0a4c97886eaee&req=dSYmH8t7n4BZWfMW1HO4zdVZIlOprKu%2BxCAm6FvvOQSz%2FkhLOa8ptupyXJ4Z%0AVLxEjNrslQTFRkuLmyE%3D%0A
+
+You can easily switch between Color by Employee or Area when viewing your calendar:
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1654959956/fad4b81ad6f191164fb12b2b1e0a/color%2Bcoding%2Bby%2Bzip%2Bcode%2B1.gif?expires=1763568000&signature=45f251e639337f3837a595379eaf7da9d15b8be69a95a4ff50ca218b346e5458&req=dSYiEsB7lIhaX%2FMW1HO4zZmUHmFLbMjKi8dxX8jiqwQKT9bNgvUfmHtrCxzQ%0AIMGgmh6SORVAwF6lNRA%3D%0A
+
+Calendar Map View
+
+The Map View gives you a visual layout of your scheduled Jobs, Estimates, and Events based on location, helping you optimize routes and assign work based on proximity.
+
+To switch to Map View:
+
+- Click MAP from the calendar view at the top of the schedule page.
+
+- You'll see all Jobs, Estimates, and Events (that have an address) pinned on the map for the Day, Week, or Monday–Friday views.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1619255116/1469ce8ab1bcb75f03b4ee395326/image.png?expires=1763568000&signature=0f3db85dcc95c38e8d155515fe6b11e486f093d50cd4e82be0546ad21e8da4fb&req=dSYmH8t7mIBeX%2FMW1HO4zZobw8VWPq7wZvnQC39WLwbdprhVxqgxBqQ6qoQU%0A1bdLi%2F6WJqpWUUNSxIc%3D%0A
+
+Each item is represented with a pin, and the icon on the pin shows the type of visit:
+
+- Wrench = Job
+
+- Clipboard = Estimate
+
+- Calendar = Event
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1619271784/8a76937d6ed4798e815a0edf43ad/image.png?expires=1763568000&signature=da1fa47a6ac987b1cb1daee11f2951d2b5cf5e526fabd59bd0238f64095456fc&req=dSYmH8t5nIZXXfMW1HO4zXz7lrZmVLcBFav5qaGBjXge5dIH6jA%2F3XFVMZKN%0AN5dxoNZfBRSAdudffmY%3D%0A
+
+- If multiple visits are in the same area, they’ll be grouped into a round, blue cluster. Clicking on a cluster zooms in to reveal each individual visit.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1619272781/9763723253ab32f8462fb1d13ed4/image.png?expires=1763568000&signature=cabb409016ddec425187270a404455d42d929e54fb652235a9ca27e41da136be&req=dSYmH8t5n4ZXWPMW1HO4zVnHaPhtANOXUocN8TV9iD9qHB2VUKhjsxsWQb9C%0AYKQwXm8z%2BUj1jegjyeM%3D%0A
+
+- Hovering over any pin shows a white preview tile with visit details, based on your calendar’s display settings.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1619280383/b54084773105f23b1e1cfcd993f3/image.png?expires=1763568000&signature=0d3bdaadd01d7c22c1cc7b07da6d13db596558cd72eac7b9c73dbb15b6e4e531&req=dSYmH8t2nYJXWvMW1HO4zXB27sYvL2ag%2Bnn%2FVDIeNlkeuYyOEXeEAgHb3bEm%0AWTUUTLgWh2hIx392Je8%3D%0A
+
+Routing Map View
+
+In the Day view of the Map, routing and estimated travel times between scheduled jobs are automatically displayed. The routes appear as lines connecting each job on the map. When you hover over a route, you'll see the distance and expected drive time between stops. Clicking on a route will open Google Maps in a new tab with turn-by-turn directions. This routing feature is only available while viewing the Map in Day view.
+
+To enable Routing in the Calendar Map view:
+
+- First, click the oval drop-down button next to the gear icon in the upper right corner of your calendar. From the dropdown, select Day view.
+
+- Next, click MAP at the top of the schedule page to switch to the map view.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1654918072/3aabafdc7e42166eda65c726cf89/image.png?expires=1763568000&signature=d88d20810d6099e26be450e117ea566a8e400bc11907973dbdc1496b45dffe0c&req=dSYiEsB%2FlYFYW%2FMW1HO4ze%2Brx3R0lCWdfeKhTyIxTT3IyAYplLp6cSU5WnZg%0AiTREbAkiL4vBVHkAeP8%3D%0A
+
+- Then, in the upper left corner of the Map view, click the Routing dropdown and select Routing on.
+
+- To filter routes by employee, open the Employee dropdown in the top left corner of the map. Check the box next to the name of the employee whose route you’d like to view.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1654923176/e2765f4ce764ea1e99b1dc633d32/image.png?expires=1763568000&signature=1d02deb85c984d61b98d8e7d30d190818e60978f574ff3a6f97ae4b9b0e96826&req=dSYiEsB8noBYX%2FMW1HO4zf8QlK7pEsCIhaX2lMgVxf7Q8GJczk947eLqFobv%0A1N3Y7vHLON78q9y7IM0%3D%0A
+
+Important notes about routing:
+
+- Each employee has their own individual route.
+
+- Each route will be the color of a single employee.
+
+- If there is more than 1 employee assigned to a job, the color of the pin matches what you will see on the calendar. So there could be cases where the route is a different color from the pin.
+
+- If you have selected many employees, the employee routes will be prioritized based on the order you have set in the calendar left rail.
+
+- If there are employees traveling the same route or working in crews, the employee routes will be prioritized based on the order set in the calendar left rail.
+- Anytime jobs will not be included as a number on a route. The pins will always be the wrench icon and not connected to another job via a route.
+
+- Unassigned jobs will appear as grey pins, but are not connected to a route.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1654926564/cb76688b7c6e32dc4fe8515688f0/image.png?expires=1763568000&signature=c4624f1e1be039ea41ed42d44b906821a0fb937f412c8cdaed02e4d556dd28f8&req=dSYiEsB8m4RZXfMW1HO4zcm52B9aeXCzdUOJqoWn6FxFJazrG4AwTmzSI7Fp%0AKcCOcbcyCsuYmdeZCFk%3D%0A
+
+Calendar and Job/Estimate/Event Display Options
+
+When you hover your mouse over a Job, Estimate, or Event on the schedule or map, you will see a preview tile showing you information about the Customer, Job, Estimate, or Event.
+
+To customize what details display on your Calendar:
+
+- Click the gear icon in the top right corner of your calendar to open the Calendar Settings.
+
+- Check or uncheck the box next to any of the following Calendar item options: - Amount, Arrival window, City, State, Customer, Description, Job name, Job number, Job tags, Phone number, Schedule, Street, Team, Zip code.
+
+- Select Done to confirm.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1619291189/1a94b481e5f3e96e984e84a78649/image.png?expires=1763568000&signature=b732aa97ddf850150a13c2378bb6cd2eb98e596578a255d661763d645642a728&req=dSYmH8t3nIBXUPMW1HO4zRcszOX8RaJEEpuTWJMceSglawKxXwp95NYLiXB5%0AkgpYP5gqN1FmHTxgaxc%3D%0A
+
+---
+
+Calendar Timezone
+
+- After you have selected the timezone of your calendar via the Calendar Settings gear icon and drop-down menu, you will notice that the start and end times of jobs and estimates will show adjusted for the timezone selected. For example, a job with a start time of noon Eastern Standard Time will show up as 9 am when the calendar is set to Pacific Standard Time.
+
+[Image] https://downloads.intercomcdn.com/i/o/173614071/8c95f47d203198683cdb54a6/image.png?expires=1763568000&signature=b4c6c7263196f50eb88266227a6896eecee014e7cd287778d2b16ca9f14a88da&req=dSckEMh6nYZeFb4f3HP0gDVZljC46s8%2FP54PPgtq3m2xXAnlpXA%2BZfgngUAz%0A0Kipzs77rQlHVsYJLA%3D%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/173613710/d8ab1c90f3c74d17ffb3bc45/image.png?expires=1763568000&signature=fec29259790354949d53718de5775b539db4e8225f17cf2d6c4a37bd8b1830fa&req=dSckEMh9moBfFb4f3HP0gBkf5cYXDip0Rpe2AlICi%2FgjhCIgVCWgOF8722%2FY%0Aeie6YottcZL2%2BkzWaA%3D%3D%0A
+
+Opening the Details Page Straight from the Calendar
+
+When on the calendar, you can right-click on the job, estimate, or event, followed by Open Link in New Tab to open the job details page in a new tab or window. Alternatively, click directly on the job or estimate to open it in the same browser tab.
+
+[Image] https://downloads.intercomcdn.com/i/o/153245780/56da03f19aef2027943c72a8/Screen+Shot+2019-10-03+at+12.18.07+PM.png?expires=1763568000&signature=53407ca262566632792e08c8987e94088dbf13b81d9b0b1b70f9cc13585d1be0&req=dSUkFM17molfFb4f3HP0gHuYgSujUXywbtBQXl8Gx2bu%2FWTWcx9LSkMgR%2FsW%0AM3aaKa%2FZNrV2us%2FLMg%3D%3D%0A
+
+---
+
+Reschedule a Job/Estimate/Event from the Calendar View
+
+To reschedule a Job, Estimate, and/or Event to a different date or time directly from within the calendar, follow the steps below:
+
+- Navigate to the main calendar page, located in the navigation menu at the top of your Housecall Pro home page or dashboard.
+
+- Locate the job, estimate, or event you wish to reschedule. Click on it and hold, while dragging and dropping it to the new date and time on the calendar.
+- If you are rescheduling a job or estimate, determine whether or not you will notify your customer of the schedule change. 
+​
+
+[Video - loom] id=14895e25e06b4f30904d110c41685def
+
+---
+
+What do the different tile colors on the calendar mean?
+
+- The tile colors on the schedule are based on Employee, Zip code, and Job/Estimate status.
+
+- Colors on your schedule are a great way to easily organize your calendar based on what's most important to you. When scheduling jobs, colors are a great tool to optimize your schedule based on Employee or location. Once the job has started, colors help to easily display the status of the job.
+
+- The colors on the schedule are based on either the Employee or the zip code when the Job/Estimate status is scheduled. Once the job/estimate begins, coloring reflects the status of the job.
+
+Table:
+Row 1: Job Status | Example | Definition & Notes
+Row 2: Job - Scheduled | [Image] https://downloads.intercomcdn.com/i/o/1015125649/162bda8a04bfbc7fbe940069/image.png?expires=1763568000&signature=9f1b47cbc7eab5c2481f0d103078c2244a450856573bc99dabb211d067436aee&req=dSAmE8h8mIdbUPMW1HO4zcvNl7tecLSuvqKm%2Bi0aMj1sLhW8cY9Ovc%2BeKD5E%0AziUX%0A For Anytime Jobs [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1741938677/082a3e64788541b3d2718bf325fa/image.png?expires=1763568000&signature=c5c28aa1136dfc376034e44ba2cd060eabbdea3ec3bcaf0569a77fb573c9841b&req=dScjF8B9lYdYXvMW1HO4zTqKfr9D%2BeIbczBHlCtIuIC0c8yee%2B43dsLiRqds%0ALB9N%0A | Color is based on the current view of the calendar, either area or employee.
+Row 3: Job - OMW & In Progress | [Image] https://downloads.intercomcdn.com/i/o/1015116176/946259454e482d72588880f3/image.png?expires=1763568000&signature=52b2cbb5abc060b86422253e40077d0fb1571d8bdc314ab3081ba428b2fa12be&req=dSAmE8h%2Fm4BYX%2FMW1HO4zZiHxPxdILoa%2BSROmyERbRTNZ%2FFM1klF2w8ONYv7%0AyEgR%0A For Anytime Jobs [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1741940388/eb0fc066a1c87d42a9a887cf4cde/image.png?expires=1763568000&signature=2a2948bd39185854c0f85bd21b20eaa58fbe403a67ab09b94e5da7429a46582c&req=dScjF8B6nYJXUfMW1HO4zWqPfcq1OILRCGJEJQI2q36Z%2FxKThlSxyL8S20iD%0A8zIm%0A | Tile will be white and outlined in the color based on the current view of the calendar, either area or employee.
+Row 4: Job - Completed | [Image] https://downloads.intercomcdn.com/i/o/1015122251/63fb3221a277fff2c72b34d6/image.png?expires=1763568000&signature=f88f69b7ba56c5f80c0d720a8e01e54edb9467a3737cb98ac3ac0f30646a1455&req=dSAmE8h8n4NaWPMW1HO4zfGVFqRAj9PhaI2GVovvBnAjNvrmadFvF%2BYFtPY5%0A8Gmn%0A For Anytime Jobs [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1741941424/9d6e0d09a29ac5936cbacc88ecec/image.png?expires=1763568000&signature=6d52192315b0af034224dfa4b83abb734bb58bc90c8cf547a1dd1521e1a7cbd4&req=dScjF8B6nIVdXfMW1HO4zXZ%2B8PQRDAtMzWF3zhB4eYl%2FhLqPX5J9CPQDPNsy%0A71AM%0A | This tile will be grey, and the status is applicable if the value of the line items = $0.
+Row 5: Job - Completed and unpaid | [Image] https://downloads.intercomcdn.com/i/o/1015118888/4bbc005a3a72961eaa1a4c26/image.png?expires=1763568000&signature=9a158a3f4c43bcf994d193804616873ef7767823bb4fa565b28edb6d25364a64&req=dSAmE8h%2FlYlXUfMW1HO4zTMZwLTzAc%2BdMVS3A4vyBaG4wqyNCmyLat1rnEEs%0A0tzw%0A For Anytime Jobs [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1741943468/d6e8195afca4f50c51e5bd5d4eda/image.png?expires=1763568000&signature=9bda6884df4fff863c3c84ebc286995ca32c7d034ee270b3e4d102e2e9f4cdca&req=dScjF8B6noVZUfMW1HO4zSO0HGmMw2Ipx%2F16Jsxn92MXJHP3rlP8J6tmrWS3%0AS1PS%0A | Tile will be grey with a red outline.
+Row 6: Job - Paid | [Image] https://downloads.intercomcdn.com/i/o/1015120870/9d33eff32604e2a350f3e53e/image.png?expires=1763568000&signature=82a1e907c5f90862768c83c7513057a59e6eec7e35d32ea758caff1c946f9b7a&req=dSAmE8h8nYlYWfMW1HO4zdVbkKqcZx%2BA2gjAcYsIS5Vta%2Bng0OO2qhBh4Njk%0AOF0M%0A For Anytime Jobs [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1741941968/64839920fa033b4ee4f3bb3971e9/image.png?expires=1763568000&signature=0abe269894d85c5853821041e808373de43737f5d942263d4f581fb18bd97f10&req=dScjF8B6nIhZUfMW1HO4zRWwW8BzW%2BXVynZJtwNbHgcWhkIz4UnBMyGFqat%2F%0ASoOv%0A | Tile will always be grey.
+Row 7: Estimate Status | Example | Definition & Notes
+Row 8: Estimate - Scheduled | [Image] https://downloads.intercomcdn.com/i/o/1015130690/11021e1714b50d134b9500cf/image.png?expires=1763568000&signature=50944ef284bfc56676f94ad8413fcce2358d1d1cf7dc74385d5a344a8b5199e8&req=dSAmE8h9nYdWWfMW1HO4zcKyvq0nUZwgl%2FhE3t8XpYyNVCZXpwGDO8AWqIuZ%0AO2t7%0A | Color is based on the current view of the calendar, either area or employee.
+Row 9: Estimate - OMW & In Progress | [Image] https://downloads.intercomcdn.com/i/o/1015131905/2b203aebb84cd13f6b080afc/image.png?expires=1763568000&signature=48a03a04439821b4e6ef9b9d14483390be88259617136095e42f8fbec676c05f&req=dSAmE8h9nIhfXPMW1HO4zaJuhAViw%2BwkwxB1MjHTpKvioIVO70B2Oa5FF6pA%0A66us%0A | Tile will be white and outlined in the color based on the current view of the calendar, either area or employee.
+Row 10: Estimate - Completed and/or Pending Approval | [Image] https://downloads.intercomcdn.com/i/o/1015132602/04545d0e55fa2fc2a188e044/image.png?expires=1763568000&signature=c9970ad7adc447ad33c314af4671a8c727595f888278471bcbeff2b64d04d558&req=dSAmE8h9n4dfW%2FMW1HO4zWIIwfUsHw0J%2FdgJoNE9RczCNcj%2FSq%2FYC46iAydh%0AcxfX%0A | Tile will always be white.
+Row 11: Estimate - Approved, Declined, or Copied To Job | [Image] https://downloads.intercomcdn.com/i/o/1015134335/cedde04fee51db08d47b4fed/image.png?expires=1763568000&signature=839d1335098c4628aca0362ffae6106e540a5a91dec675c519898cdbfa8b5310&req=dSAmE8h9mYJcXPMW1HO4zXFFOSYbY4Z3%2BwdmWIPshdlsv875bXOLqM15MxU9%0Ajblj%0A | Tile will always be grey.
+Row 12: Events | Example | Definition & Notes
+Row 13: All Events | [Image] https://downloads.intercomcdn.com/i/o/1015143421/92fc2e720e5f78aae5ee8fbc/image.png?expires=1763568000&signature=520b59c8a5672c42b385c66498fbe90f4e9efac2e169dd7d93b42e50b7254d4e&req=dSAmE8h6noVdWPMW1HO4zVfPELxYDsPmeEYSKC%2FPA%2ForuOWFfLZO3np8zIBQ%0A3A2%2B%0A | Color is based on the current view of the calendar, either area or employee. It will always be a lighter variation of the chosen color.
+
+---
+
+Calendar FAQs
+
+What do the colors on mobile mean?
+
+- The colors on mobile are based on the Employee and then the job/estimate status.
+- Coloring by zip code is not currently available on mobile.
+
+Will my employee see these colors?
+
+- These are company-wide settings, so everyone in the organization will have the same colors available to them.
+
+---
+
+Additional Calendar Features
+
+Public Holidays on the Housecall Pro Calendar
+
+The Public Holidays feature shows the following US public holidays on your calendar:
+
+- New Year's Day
+- Martin Luther King's Birthday
+- Washington's Birthday
+- Memorial Day
+- Juneteenth
+- Independence Day
+- Labor Day
+- Columbus Day
+- Veterans' Day
+- Thanksgiving
+- Christmas Day
+
+Where can I see public holidays?
+
+Information about public holidays is visually presented on all calendar views. There are two ways that public holidays are shown on a calendar:
+
+- The name of the public holiday is shown at the top of the column
+- The whole day is greyed out (in an 'outside of business hours' case)
+
+Who can see public holidays?
+
+- Each employee with access to the web/browser version of Housecall Pro can see information about public holidays.
+
+Why can't I see the public holidays?
+
+- To show or hide public holidays information from the calendar, first click into the Schedule tab in the main navigation menu at the top of your screen in Housecall. 
+​
+- Click on the Settings gear icon located in the top right corner of the HCP calendar and toggle on or off the Display US holidays setting.
+
+[Image] https://downloads.intercomcdn.com/i/o/789157590/48de6a89ffd28c305df60a75/Screenshot+2023-07-20+at+10.28.43+AM.png?expires=1763568000&signature=944bda2781cb58d00290dde05b4421f6748297213afe564a8b301b3cbee5eddf&req=cyguF8x5mIhfFb4f3HP0gKAAdZBe0gj6%2FZTi0anVGaJZP6Ah7d8GgYuIMlcl%0AXcYxO0HPIR3SR5hl6w%3D%3D%0A
+
+Is my Schedule (calendar) printable?
+
+At Housecall Pro, we strive to make your business journey from pen-and-paper to the Cloud a seamless one. We hope that you love going digital so much that you never look back! With that in mind, our web pages are not optimized for printing at this time.
+​
+However, we have a helpful suggestion for you!
+​
+Why not integrate with Google Calendar and easily print your schedule from there? We hope this tip will make your experience even smoother, whether you are currently making the transition to the digital running of your business or simply want a print-out of your calendar.
+
+Learn how to integrate your Housecall Pro account with Google Calendar
+​
+Once you have the two platforms integrated, you can then print your Google Calendar (which will feature your Housecall jobs and estimates) by following Google's steps here.
+
+Click here to see your calendar now
+
+---

@@ -1,0 +1,181 @@
+How Do I Set My Bank Account for Payouts?
+Source: https://help.housecallpro.com/en/articles/358424-how-do-i-set-my-bank-account-for-payouts
+Author: Nate H
+Last updated: Updated over 3 months ago
+
+Summary: Learn how to connect your bank account in Housecall Pro so credit card payments and bank transfers (ACH) can be deposited.
+
+Setting Up Your Housecall Pro Account for Payments
+
+Before credit card or ACH funds can be deposited from our processor to your bank account, you'll need to connect your bank account to Housecall Pro by entering your bank deposit information and providing verification details about the business, the business owner/representative, and any additional business owners.
+
+This article covers the process for connecting your bank account to Housecall Pro in 3 easy steps:
+
+- Step 1: Connecting your bank account to Housecall Pro (via Plaid or manually).
+- Step 2: Verifying your business information.
+- Step 3: Verifying the identity of the business owners.
+
+Once you've set up your bank account to take credit card payments through our processor and enabled online payment options for your invoices, your customers will have the option to quickly and conveniently pay their balance online through email or text.
+
+---
+
+Step 1: Connecting Your Bank Account
+
+The first step in the process of setting up your Housecall Pro account for payments is to connect your bank account.
+
+In the following sections, we cover everything you need to know about connecting your bank account with Plaid, and how to connect your bank account manually if you run into any issues.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1218392237/6c65b14cc2cbf1a2b10fe4f3ab69/Step1ConnectBank.png?expires=1763568000&signature=9f5dcf298c4b42bc1aa46c4df57b268250aa28585a4851848535de9db8a647e9&req=dSImHsp3n4NcXvMW1HO4zas6yhZ5WEDhkBUD7NUf%2B%2FtdVIoj7badjc0%2BRWjw%0At5l14mBJ9IPX5XIL19A%3D%0A
+
+---
+
+How to Connect Your Bank Account with Plaid
+
+Follow these steps to securely connect your bank account with end-to-end encryption using Plaid to receive payments from your customers directly through Housecall Pro.
+
+To connect your bank account with Plaid in Housecall Pro:
+
+- Click 'My money' in the navigation bar at the top of your Housecall Pro account.
+
+- Next, click the 'Set Up Payments' button on the Payouts screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1212117103/06916eecb7ba4bd1253bbb3cdd66/SetUpPayments.png?expires=1763568000&signature=723e0436cc6b98f12a79111518a17560536bc1618193613b0f06a0ed19acf9ae&req=dSImFMh%2FmoBfWvMW1HO4zS%2Fis5eEGWU3sgjZLuDSQvfcknPM%2FgszWRjMGdWC%0AIfPHNXhbX1YcWmRffco%3D%0A
+
+- Click 'Connect Bank' to proceed, and the Plaid window will appear on your screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1212114168/df173993832cdb84c8d5c1ddb269/ConnectBank.png?expires=1763568000&signature=bf065891ce8e5dcb5cff7922884eee4f39ff092b1c7d28726d5696b47df86088&req=dSImFMh%2FmYBZUfMW1HO4zUuZzKsew7f4w1FNsqk3alqiPsPWuz4eNNNRq7wo%0AkU5afF2ARCMTPVuSMGE%3D%0A
+
+- Click 'Continue' to securely connect your bank account with end-to-end encryption using Plaid.
+
+- If you already have a Plaid account or would like to sign up, enter your phone number and click the 'Continue' button. 
+​ - Otherwise, select the 'Continue as guest' option. 
+​
+- After entering your phone number, an authorization code will be sent via SMS to the phone number entered.
+
+- Once you enter the code, your bank accounts will be shown, where you can select the account you'd like to connect to Housecall Pro.
+
+- From there, continue to the next step to verify your business information.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1212120197/3b00eb54ef08d7cfdb5dc2ee86dc/Continue.png?expires=1763568000&signature=9e278aa0003ce7bca8b7acc65d7a55762b1298b33704d5c873ce6c758b0042ed&req=dSImFMh8nYBWXvMW1HO4zcboObfH%2Bowlly7d0HsEr5VVYg7TjvemH9CrA9b0%0AuVk8%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1212121689/339b2f82ad08b57282e2c55a4667/PlaidPhone.png?expires=1763568000&signature=883c77f2fc0eeae47893c863a652ba1d31c8b87206fc3357c0f049c8c4cb2231&req=dSImFMh8nIdXUPMW1HO4zTnhC%2BRMIEGo%2BD4ZllIdQeXut5JYjsbgm0u2ubwH%0Au06y%0A
+
+- If you select the 'Continue as guest' option, you can search for and select your banking institution.
+
+- Click on the 'Continue to login' button to be taken to your banking institution's log-in page.
+
+- You'll then enter your credentials used to log in to your online banking account.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1212124645/a54797011825c20fb4b31ed5fdf4/SelectBank.png?expires=1763568000&signature=8d7160c945c78976b3d62b226a3e3cd843a0f825ec6442db684ae5f074a61ad7&req=dSImFMh8mYdbXPMW1HO4zaBJnHgu3v2nChCKl6EIevOGZFPY8JDFy8WVaaWO%0AT8iX%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1212125315/39a02af296663f8dd11955929b13/BankLogIn.png?expires=1763568000&signature=4824279d85c7d4f6fe510854f304b158658309c1240d9d53e7e710affed420e3&req=dSImFMh8mIJeXPMW1HO4zXI7DUkUQWjZKteIgtWaQoWixOKFrFSBw2oZWmOD%0A301i%0A
+
+- You may get a screen for a two-step verification depending on your bank and/or account settings. 
+​ - In this case, select whether you'd like to receive your verification code via email or SMS, then enter the code.
+
+- Your bank accounts will then be available in the Plaid window. Select the account you'd like to connect, then click the 'Continue' button.
+
+- The Plaid window will then show that your bank account has been successfully connected.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1213007009/532674a9c20372357007b72ccdf9/BankAccountSelect.png?expires=1763568000&signature=afb4bce502fde9299ab81a881e69932cd7dbc8f0f70d7ee7cd8ceae620c4848b&req=dSImFcl%2BmoFfUPMW1HO4zUQcE9BYcyUa2WBBDeh%2ByBCIOIPnIHiTqSBaG0zC%0AK6Jf%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1213007117/1ca63c33822304d6b2bb5ed4896a/BankAccountSuccess.png?expires=1763568000&signature=be099758ced39bde007e7ca548f53cfab857747ce6c738ec0a580f8a8bbb9957&req=dSImFcl%2BmoBeXvMW1HO4zXLt3gNky3OC%2F1LV%2BHmEWSJSk2da6p%2FudSTpZeE7%0AS569%0A
+
+- You can then move forward to the second step to verify your business information.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1213021655/fb98646638f87b426278f177bff2/NextStep1.png?expires=1763568000&signature=3d1f8bc27ef13782877f14682077f68b914c4415a5c23d26dbd7b421ebae5736&req=dSImFcl8nIdaXPMW1HO4zcXlw%2F%2Ba0DuOAsfeKFPS7DZvIIjXW%2Fv8qw74p1Qs%0AFgUgXbcBCRaVOu%2FbuUo%3D%0A
+
+---
+
+Step 2: Verify Your Business Information
+
+Using Housecall Pro to process payments requires keeping your tax and payment information up-to-date and accurate.
+
+The second step in the process of connecting your bank account to Housecall Pro for payments is to enter your business details for verification.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1217238716/304484badf9e9df2f2bd8a224d45/Step+2.png?expires=1763568000&signature=ec129b091a45af1e4da60f629bd00c40bed4633f7741c406e8b67207c820cb89&req=dSImEct9lYZeX%2FMW1HO4zYatLnMMMIE0bxipiUZx1vSJT2xxVdJSjPArUu13%0AVgA7UA9088okZpMbmiE%3D%0A
+
+To verify your business information:
+
+- Select your business type (Individual or Corporate) from the 'Business type' drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1213030144/f3102e43e09d41b892a64df82e92/BusinessVerification.png?expires=1763568000&signature=01a3e74ce5a2bf1904f6c1fc257091da71f6647217bf4e7647bdcd0fcae07d18&req=dSImFcl9nYBbXfMW1HO4zdBKRTzDhXmXWsQsvFS%2FxrfuYBRCMAK%2B6iiiwi7D%0A6Hdfo%2FC4Vhu2HJJrc68%3D%0A
+
+- If your business has not been issued a Tax-ID number or EIN by the IRS, please select the 'Individual' business type and fill out the required information: - Registered business address
+- Business phone number
+- Website or social media page link (if applicable). If not applicable, select 'No.'
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1213040128/7689b6a35db052ab69feafae8e7d/BusinessIndiv.png?expires=1763568000&signature=ab1ffacb65cf26ad36aaa29eb9269b203b53778f5ccf4a01d0e3902d2c264d42&req=dSImFcl6nYBdUfMW1HO4zeKfkASFgVMKdfvymhKm3FARtWxdojZeLC8VmtnA%0A4pze8SQIv%2BWQbZmWfH4%3D%0A
+
+- If your business has been issued a Tax-ID number or EIN by the IRS, please select the 'Corporation' business type and fill out the required information: - Tax-ID number/EIN
+- Legal business name
+- Registered business address
+- Business phone number
+- Website or social media page link. (If not applicable, select 'No').
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1213042857/4928aab910453863632ee691b0d0/BusinessCorp.png?expires=1763568000&signature=5fd4045ce04b8d49451e7262f39326a3cd5ad809ace9e58dac22862c476ce588&req=dSImFcl6n4laXvMW1HO4zVp45NR2Tf2B672P1hcdg9e4HSo%2FN4HX%2BNBirjrb%0AsIjea%2FZyn3a8Gdw3Jcs%3D%0A
+
+- Once you've filled out your information, click 'Next' at the bottom of your screen.
+
+- You'll continue the process of setting up your Housecall Pro account for payments by verifying the identity of the business owners/representatives. 
+​
+
+---
+
+Step 3: Verify Business Ownership Details
+
+The third and final step to setting up your account for payments in Housecall Pro is to verify the identity of the business owners, also known as your business representatives.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1217249330/5c3e190ff2bd76eebad385c7c811/Step3OwnershipDetails.png?expires=1763568000&signature=fe549e0b562618ff6261a8e28209a1e73b8e03ff79771f2c823c23c5a98fa6e6&req=dSImEct6lIJcWfMW1HO4zUArJHHuEyPdoHf3RKz4Qit%2BKdcNvZ1J6KFiGO4Q%0AXC9UT0v%2FHCfRfQ4ROyU%3D%0A
+
+To verify your business ownership details:
+
+- The business owner will need to fill out the following fields under the "Business representative" section: - First name
+- Last name
+- Birthdate
+- SSN (Social Security number)
+
+- They will also need to upload a photo of their Driver's License or Passport.
+
+- If the individual whose information was entered owns 25% or more of the business, check the box at the bottom of the page to confirm.
+
+- Check the last box at the bottom of the page to confirm that you agree to our Terms of Service, Celtic Bank Privacy Policy, and HCP Money Terms of Service.
+
+- After those boxes are checked, click the blue 'Next' button.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1217147618/ea79c66bc131421d14b8cb71c2f7/BusinessRep1.png?expires=1763568000&signature=8e44d45d307c1b86b5fd946cc373aebfe587fe756d4a417fadc6a1429ed962a2&req=dSImEch6modeUfMW1HO4zVVGNcUXz1OW4LffSHuYOzQ4TsG8qFMG5xhltSlm%0AOd%2BHza5CTCeOJ1zk0g0%3D%0A
+
+- If you selected 'Corporation' as your Business Type in the Business Details section (Step 2), you'll be asked if there are any additional owners of the business. 
+​ - This is required only if the bank account being connected is associated with a business. 
+​
+- Answering 'Yes' indicates there are other individuals who have significant responsibility for the control and management of your business and own at least 25% of the company. 
+​
+- Click the '+ Another owner' button in the "Business owners" window to add all owners who own more than 25% of the business. 
+ - A maximum of three additional business owners may be added.
+​
+- After clicking 'Next,' the information for these individuals can be collected on the "Add additional owner" window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1235556449/1e398bf815a5e5630d064c7f72b2/MwGOoQlSm1kv3K6hAygF9DmM6dUNOGQnrtggqY3wEQG98FB2eY0-JX-EGyQzTvjNFDf8ME7hDW48SExlGHs_34cJPuy13EuTAzdeayAHx7_CmLawsdmCwO74gi4rUdLy5WWIosv9UXxudnwlzQ?expires=1763568000&signature=ef7739ac5b397ba6d089e3d3101021e918c4fcfec8325a8a5db1d9a9edb73421&req=dSIkE8x7m4VbUPMW1HO4zQ04VLcWA4BHsDAGq9XWxurzGL%2BowFuLeQC9F5v5%0AO%2BYSjTSKFfXxSpdtR40%3D%0A
+
+- After all information has been submitted (including ID and Social Security number), the data is encrypted and verified through Housecall Pro's payment processor, Stripe.
+​ - This information needs to be verified because of the obligation by regulators to satisfy certain Know Your Customer (KYC) requirements to continue to allow for payment processing.
+
+- You will then be redirected to the My Money page where you will see a 'Pending' status on your account in the Settings panel on the right side of your screen.
+
+- Once Housecall Pro’s payment processor successfully verifies the business details and ownership, the status in the Identity verification section of your Payout Settings will change from 'Pending' to 'Verified.'
+
+- You can then start accepting credit card payments through Housecall Pro!
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1229426053/bf5813b6f73de4b6982d2779d11e/unverified.png?expires=1763568000&signature=308df4fe1370f640fe4eb2f16db86f5c0cb03cb787b39e25bbdf4a27a147e3e0&req=dSIlH818m4FaWvMW1HO4zZE0rhi5x2Y%2F9xdcYEU7UC7IxoD8WWOkEmb0JeY8%0AzJQJ%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1229427533/aaee12f042fd9b3da2b3b6975579/verified.png?expires=1763568000&signature=a6422724882d583e4db8fcb9f5c9248af1abaee959a3bec535b81c933dd60c2d&req=dSIlH818moRcWvMW1HO4zaoM%2FTsZEEhqA2Yt5m9mlrrTJUu1vW%2FHbMU76PxA%0AZdTo%0A
+
+---
+
+Video Tutorial
+
+How to connect your bank account with Plaid:
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/oc90qxotuj
+
+---
+
+Check out these simple tips on collecting payments from your customers, and learn how Instapay can typically have your card and bank (ACH) payment in hand in less than 30 minutes!
+
+---

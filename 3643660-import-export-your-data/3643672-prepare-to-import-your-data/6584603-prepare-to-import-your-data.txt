@@ -1,0 +1,242 @@
+Prepare to Import Your Data
+Source: https://help.housecallpro.com/en/articles/6584603-prepare-to-import-your-data
+Author: Sienna M
+Last updated: Updated over 10 months ago
+
+Summary: Import your customer, job and price book data from another software
+
+If you use spreadsheets or another software system to manage your business data, you can get started more quickly with Housecall Pro by importing it from a file. We currently support importing your Customers, Jobs and Price Book from a file into Housecall Pro.
+
+If you use QuickBooks Online or QuickBooks Desktop as your most up-to-date source of business data, you can import your customer list, price book, and job history directly.
+
+- QuickBooks Online: Review our QBO Integration Onboarding Guide to learn how.
+- QuickBooks Desktop: Review our QBD Integration Onboarding Guide to learn how.
+
+---
+
+---
+
+Exporting Your Data from Another Software System
+
+This help article can help you learn how to export your data from another software system:
+
+- Export your customer data from another software system (such as ServiceTitan, FieldEdge, Jobber, Wintac, DispatchMe, Joist, Service Fusion, and more)
+
+---
+
+What to Know Before Importing
+
+- Some fields are required and some are optional.
+
+- If you do not have any data for the optional fields, you can leave it blank.
+
+- If you have a field that is not listed here, we recommend that you copy into either the Customer or Job Notes or Tags sections in your spreadsheet software before importing.
+
+- We recommend that you have column headers or names for each field. If your data does not have a column header (meaning the first row has customer data), we recommend adding a new row at the top and using the field names in the table below.
+
+- If your files require additional formatting prior to upload (merging sheets, combining multiple fields into a single field, etc.) you can consult our Data Formatting Guide for some tips and tricks.
+
+---
+
+Customers Fields
+
+There are some required customer fields and many optional customer fields. If you do not have any data for the optional fields, you can leave it blank. The table below shows which fields you can import.
+
+Table:
+Row 1: Field | Description | Format/Notes | Required/Optional
+Row 2: Customer ID | Unique customer identifier | Any number up to 191 characters. each customer should have unique ID | Required - if you do not have an ID, we will use Display name
+Row 3: Display name | Usually full name or company name |  | Required - if you do not have it, we will use First name/Last name or Full name
+Row 4: First name | Customer first name |  | Must have one of name, company, or email
+Row 5: Last name | Customer last name |  | Must have one of name, company, or email
+Row 6: Role | Customer role / title at their job |  | Optional
+Row 7: Company | Associated company |  | Must have one of name, company, or email
+Row 8: Service address | Address where you perform the work | Zip code must be a real USA zip code states can be either the full name or 2 digit code | Optional
+Row 9: Service address notes | Private notes on the service address |  | Optional
+Row 10: Billing address | Address where you bill the work | Zip code must be a real USA zip code states can be either the full name or 2 digit code | Optional
+Row 11: Billing address notes | Private notes on the billing address |  | Optional
+Row 12: Mobile number | Customer mobile phone number | Must be 10 or 11 digits | Optional
+Row 13: Home number | Customer home phone number | Must be 10 or 11 digits | Optional
+Row 14: Work number | Customer work phone number | Must be 10 or 11 digits | Optional
+Row 15: Additional phone numbers | Customer additional phone number | Must be 10 or 11 digits | Optional
+Row 16: Emails | Customer emails | Multiple emails must be separated by commas | Must have one of name, company, or email
+Row 17: Lead source | Source of the customer lead | One per customer | Optional
+Row 18: Customer notes | Private notes on the customer |  | Optional
+Row 19: Tags | Tags that you wish to use to categorize customers | Multiple tags must be separated by commas | Optional
+Row 20: Type | Customer | Values can be either homeowner/ owner or business | Optional
+Row 21: Notifications enabled | Whether the customer chooses to receive notifications | True/false, yes/no, t/f | Optional
+Row 22: Is a contractor | Whether the customer is a contractor for which you subcontract | True/false, yes/no, t/f | Optional
+
+---
+
+Jobs Fields
+
+The Jobs import has specific fields in addition to all of the Customer fields above. There are some required fields and many optional fields. If you do not have any data for the optional fields, you can leave it blank. The table below shows which fields you can import.
+
+Table:
+Row 1: Field | Description | Format/Notes | Required/Optional
+Row 2: Invoice number (note: currently interchangeable with job number) | A number | Any number up to 191 characters, must be unique | Optional - if you do not have it, the system will assign one
+Row 3: Assigned employees | Comma separated list, i.e (Daniel, Salomon, Sienna) | You must have a user in system with identical name | Optional
+Row 4: Job ID | A number, with maximum length validator at 191 characters) | Any number up to 191 characters, each job must have a unique ID | Optional - if you do not have it, the system will assign one
+Row 5: First line item description | Name of a job |  | Optional
+Row 6: Notes | A note/text for the job |  | Optional
+Row 7: Subtotal | Amount in dollars for the job |  | Optional
+Row 8: Tax | A number in dollars |  | Optional
+Row 9: Payment amount | Amount in dollars |  | Optional
+Row 10: Payment method type | A string, e.g. ‘Cash', 'Check’ |  | Optional
+Row 11: Payment notes | A note/text for the payment |  | Optional
+Row 12: Scheduled date | Date |  | Optional
+Row 13: Schedule time | Date |  | Optional
+Row 14: Start date | Date |  | Optional
+Row 15: Completion date | Date |  | Optional
+Row 16: Invoice Sent date | Date |  | Optional
+Row 17: Payment date | Date |  | Optional
+Row 18: Tags | Comma separated list, e.g. ('Tag one', 'Tag two') | Multiple tags must be separated by commas | Optional
+Row 19: Message | Custom message | This will show on the invoice | Optional
+Row 20: Lead source | list that maps to lead sources in HCP | One per job | Optional
+Row 21: Business unit | list that maps to business units in HCP |  | Optional
+Row 22: Callback | true/false | True/false, yes/no, t/f | Optional
+Row 23: Job type | list that maps to job type in HCP |  | Optional
+
+---
+
+Price Book Services Fields
+
+Table:
+Row 1: Field | Required | Description
+Row 2: Industry | True | The industry that a service lives in. The name of this category must match the name of one of the industries in HCP to be imported.
+Row 3: Category | True | The top-level category that a service lives underneath. All services must have a category within an industry
+Row 4: Subcategory_x | False | The levels of categories a service lives in underneath the top-level category
+Row 5: Name | True | Name for a service.
+Row 6: Description | False | Description of the work included in a service.
+Row 7: Uuid | False | Housecall Pro generated ID for a service. This will only be present when importing a list that was previously exported from Housecall Pro.
+Row 8: Price | False (defaults to $0) | The amount that will be charged to the customer for performing the service. Use the standard format of $0.00.
+Row 9: Cost | False (defaults to $0) | The amount that it cost your company to perform their service. This will be used to calculate profit on jobs. Use the standard format of $0.00.
+Row 10: Taxable | False (defaults to false) | Whether tax should apply to this service when added to a job.
+Row 11: Unit_of_measure | False (defaults to each) | The unit of measure for a single unit of this item. (ex. each, square foot, gallon)
+
+---
+
+Price Book Materials Fields
+
+Table:
+Row 1: Field | Required | Description
+Row 2: Category | True | This is the top level category that a material or your material sub-categories live underneath. This is required.
+Row 3: Subcategory_x | False | The levels of categories a material lives within your top level category. This allows you to nest and create further categorization. 
+​
+​
+Row 4: Name | True | This is the name of your material or part.
+Row 5: Description | False | Description of the material or part.
+Row 6: Price | False | The amount that would be charged to the customer. Use the standard format of $0.00. 
+​
+Note: If you use flat rate pricing and material mark ups within Housecall Pro, we will calculate this for you based off (cost * mark up tier) automatically for you.
+Row 7: Cost | False | The amount that this material or part costs your company. This will be used to calculate price if this is a material mark up enabled part. Use the standard format of $0.00.
+Row 8: Taxable | False (defaults to false) | Whether tax should apply to this service when added to a job.
+Row 9: Unit_of_measure | False (defaults to each) | The unit of measure for a single unit of this item. (ex. each, square foot, gallon)
+Row 10: Material mark up enabled | False (only applicable if you have enabled flat rate pricing) | This will automatically calculate price for your materials imported when true. We will calculate your cost field* material mark up tier.
+
+---
+
+---
+
+Data Formatting Guide
+
+Housecall Pro’s newest tool, our data Import Wizard, makes it easier than ever to transfer your customer data from a different software directly into Housecall Pro. By uploading a file of historic data, our wizard will enable you to map each field to the appropriate corresponding field in Housecall Pro (see more within our Import & Export Your Data section).
+
+However, the simpler and cleaner your data is, the easier it will be to import into Housecall Pro. With the following formatting guide, we will help you prepare your data with transformation tips and tricks, making it simpler to work with and easier to import into Housecall Pro.
+
+To make this accessible for all users, we’ve added instructions below on how to complete reformatting tasks using Excel formulas (when the task is simple enough) and through a third-party software called Ablebits for Google Sheets (Google’s free version of Excel).
+
+---
+
+Merge Columns
+
+Scenario: You have multiple columns in your file that you want imported into the same field within Housecall Pro.
+
+For example, you have three different columns of “Notes” in your spreadsheet and you want them all to be placed into the Customer Notes field in Housecall Pro.
+
+If you have multiple phone numbers, email addresses, or tags, you should separate these with commas when merging into one field.
+
+Merge columns in Ablebits
+
+Textjoin in Excel
+
+---
+
+Add Text
+
+Scenario: You have a field in your data with information you’d like to transfer into Housecall Pro, but there is no corresponding field within Housecall Pro.
+
+This guide lists the different fields you can currently map to. Custom fields cannot be created.
+
+In this example, let’s say you are a water treatment or pool cleaning business, and you record the pH level for each visit using a pH level field within your data.
+
+Although you can enter information in any field using the guide above, we recommend putting information like this in the customer or job notes field. In a case like this, you can first add a label (ie pH Level: ) in front of each value within this column to avoid confusion on a job or customer profile. So for this example, “7.2” in the notes, would change to “pH Level: 7.2”.
+
+Add Text in Ablebits
+
+Concatenate in Excel
+
+---
+
+Combine Duplicate Rows
+
+Scenario: The exported version of your data is split into multiple rows per job/invoice.
+
+For example, invoice #100 is spread across four different rows, with each row having a different line item.
+
+With our Import Wizard, each row should correspond to one job or invoice. If multiple rows of data are used for the same invoice or job, it will not upload successfully. Although you can choose to just upload the first occurrence of that job, additional data existing in subsequent rows (such as the additional line items) will not import. In order to get all information to import, you will need to merge the different rows into a single row for every job or invoice.
+
+Combine Duplicate Rows in Ablebits.
+
+---
+
+Merge Sheets
+
+Your exported data is on multiple sheets that need to be merged into one sheet for import.
+
+Some software exports your data into multiple reports. However, Housecall Pro will only import one sheet.
+
+For example, an invoice report might have all the information you need except the details of the job. Your software may also provide a job detail report that provides the line items for each job. Since you aren’t able to import more than one spreadsheet for invoices/jobs into Housecall Pro, you’ll need to merge these reports together.
+
+This is a more advanced process in both Ablebits and Excel, so chat into the blue chat bubble for additional support. In most merge cases, there needs to be linking data that is the same on both sheets for the merge sheet function to work properly. For the above example, you would need to have the invoice number on both the invoice report and the job detail report for the line items from the job detail report to merge successfully with the invoice report.
+
+Merge Sheets in Ablebits
+
+VLOOKUP or XLOOKUP in Excel (advanced process)
+
+---
+
+Replace Text
+
+Scenario: You need to update the text or labels in your data to make it more useful and intuitive.
+
+Replacing text can be a useful way to change one value within a column or entire sheet with another value.
+
+For example, if you want to put the job number in the job notes section of your invoices, but the exported value is #111 and you want it to be Job Number: 111, you can replace each “#” value with “Job Number: “ all at once.
+
+Important: Be sure to highlight ONLY the cells that contain the data you want to change. Otherwise, you may end up changing the data elsewhere in the sheet. A warning will appear before this occurs to ensure you’re replacing the data you intend to replace.
+
+Find and replace text in Google Sheets
+
+Find and replace text in Excel
+
+---
+
+Split Text
+
+Scenario: You need to separate text from one column into two or more columns to import it properly.
+
+There may be instances when your data exports in a single column, but Housecall Pro requires the data to be imported into separate columns for correct display.
+
+There are several examples of when splitting text might be used:
+
+- The job date and time are in one column on your export, but need to be in two columns for Housecall Pro.
+- Your previous software combines names into one field, and you need to split into Housecall Pro’s first and last names fields.
+- Separating an address that is in line break format into multiple columns,
+- Separating a job number from a job description.
+
+Split Text in Ablebits
+
+Convert Text to Columns Wizard in Excel
+
+---

@@ -1,0 +1,48 @@
+Variables for Invoice and Estimate Default Messages
+Source: https://help.housecallpro.com/en/articles/6823184-variables-for-invoice-and-estimate-default-messages
+Author: Michael Storer
+Last updated: Updated over a month ago
+
+Summary: Learn more about what the variable option can do as you set up your custom invoice and estimate email or SMS message
+
+What are variables?
+
+Variables are pre-set options you can add to your message to help fill in the 'blanks'. 
+​
+For example, if you want your invoice or estimate default content to always address your customer personally, rather than having to manually fill in that blank you can use the 'Customer First Name' variable to allow our system to auto-fill that information for you.
+
+What do different variables mean?
+
+Table:
+Row 1: Variable Name | Description of Variable
+Row 2: Company Name | This is your company or business name that you have outlined in your 'Company Profile' section
+Row 3: Customer first name | This is the field called 'First Name' from the contact info of the customer who you have created a job or estimate for
+Row 4: Customer last name | This is the field called 'Last Name' from the contact info of the customer who you have created a job or estimate for
+Row 5: Invoice Due | This will autofill the due terms of your invoice, for example 'Net 30', 'Upon Receipt', 'Upon Completion' etc.
+Row 6: Invoice Number/ Estimate Number | The number that is generated for the job/invoice you are sending out to a customer
+Row 7: Invoice Total | The total price value of a job
+Row 8: Service address | Your customer's service address
+Row 9: Customer billing address | The customer's designated billing address (if applicable)
+Row 10: Total estimate value | The total price value of your estimate 
+​
+ Note: This variable is recommended if you want to display the price value of your estimate and do not use multi-option estimates as this will be a sum price of all options
+Row 11: Estimate option value low | The lowest price value range of your estimate
+​
+Note: Using this variable is only recommended if you are primarily sending multi-option estimates and would like to provide a range
+Row 12: Estimate option value high | The highest price value range of your estimate
+​
+Note: Using this variable is only recommended if you are primarily sending multi-option estimates and would like to provide a range
+
+Best practice tips
+
+We highly encourage you to only use variables in your default messaging that you are consistently using. For example, if you do not always fill out the 'billing' address field for all your customers that is not a variable we recommend using. 
+​
+If for any reason, you have added a variable that is blank for a particular scenario, you will need to adjust your messaging ahead of sending out your invoice or estimate to fill in additional details. 
+​
+
+Key Notes
+
+- Certain variables are only available on the email body and not for the SMS or subject line section due to their estimated character length
+- There are variables that are only available for estimates and not invoices and vice versa (ex. Estimate option value high)
+
+---

@@ -1,0 +1,143 @@
+How to Run, Track, and Manage Payroll
+Source: https://help.housecallpro.com/en/articles/11584523-how-to-run-track-and-manage-payroll
+Author: Nate H
+Last updated: Updated over 5 months ago
+
+How to Process Payroll
+
+Running payroll is a routine but critical task to ensure your employees and contractors are paid accurately and on time. This guide walks you through each step to complete payroll quickly and correctly.
+
+Step 1: Start a New Payroll Run
+
+- Go to Payroll > Overview in your HCP account.
+
+- Click the Run Payroll button on the right side of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1573663869/dff917e77b88615e87c7b6b83cd5/AD_4nXc7IPpblNa2ioBNBgraCQmJinsXbkFCh2JWTtLp8TkHxMk-h4HfpBhD3rzE4KvBfNyPrlcFYSt4_r08qpSmmTHupzL5G7ILKjlAtwRxDAR26rDimbJLoJbIH9EZY3jUtQ-i0amtQQ?expires=1763568000&signature=aca655c208a4eee3ab91dc80f50c76929d9bef8d0a46ec322ff06e804e954a6f&req=dSUgFc94nolZUPMW1HO4zWeQUfc54%2FVHM6v%2F3OedFuFEudixkl5eVEQQpMje%0A%2BTKs384wFdFnpg2NBeE%3D%0A
+
+- Enter your 2MFA (Two-Factor Authentication) text code when prompted.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1580798376/1309eaa67d4bb746a4c9a1b02455/AD_4nXedDW-Q6BmGeqtuZDcudoXBJruKHfGGK2AbQzCCbhmzDwTLQyE2TK4zBsHhSJTM9pV8ltw9ntUIzm9Ll5qc7E0pOd9sGjhsErCEDxs2u1n85lxmMrxU0SMxuqfymHgxLsN7LWtgCg?expires=1763568000&signature=f8ef67162876666b4b39a0b23e12a531cef7a1cc17bfdf263e6defe922e49a20&req=dSUvFs53lYJYX%2FMW1HO4zRBkSTwe6ovZ3rTJgJOlItiOjgrJkB9eaQKbaeB1%0AGWB7plSuda9rjl%2BQhAg%3D%0A
+
+- Select New payroll and choose the Upcoming pay period option.
+
+- Click on Create Payroll.
+
+- Input the hours worked or payment amounts for each applicable person.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1573663870/f3bf8e4496e5218d78b1869461db/AD_4nXcI_YiiDh0ZDo3jhtwKXr615l2P8p1Y5Cd51OLAR9OGNBnyqw2ZxmVbaXdvhRM3BXzNYYeplAnHQtaYCs5KYTBAz1eGJBBq3l8H-vcLH-HFaZr51w5R2_TlvBjxNXslSzw5NIvQcw?expires=1763568000&signature=bd8e817adcc0408e49ed66ccafc2eaa13109c53776932b52f1097ac075e65aa6&req=dSUgFc94nolYWfMW1HO4zTX76sr4PWmEd8TG7CWbI418vhDbgsLDiZJoL%2FvJ%0A6nL8JI%2FkVtnHW1PAeZk%3D%0A
+
+Step 2: Enter Payroll Details for Employees & Contractors
+
+Under each employee or contractor’s name, fill out the following fields:
+
+- Payment Method – Choose Direct Deposit or Manual Check based on how the employee/contractor should be paid.
+- Workplace – Select the individual’s assigned workplace, if applicable.
+
+If you're paying an employee:
+
+- + New Earning – Select the type of earning (e.g., Hourly, Salaried, Bonus).
+- Description (optional) – Add any description needed for the earning the employee is receiving (e.g., “holiday bonus”).
+- Earning rate – You can set up the employee's earning rate by clicking the dropdown button and selecting + New Earning Rate.
+- Hours – Enter the number of hours the employee has rendered (only if applicable to the earning type).
+- Amount – Enter the amount of payment the employee should receive (only if applicable to the earning type).
+
+If you're paying a contractor:
+
+- Amount – The amount to be received by the contractor for the pay period.
+- Reimbursements – The amount of reimbursements to be deposited for the pay period.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1573663872/d58520cc35fec13a927b9401dbd1/AD_4nXceEN-PrLuFkqQGFRgcnAtuGSyek9ZntgT7jeJlBH_9BOKNHI26wpxdjENO_pCCtvRP15mPV3U4SeruoU2nv2IbdEGN3yDAzsFsAhRzCdkrGJS70eXKtcmaxvJ7zmAmDaDNra6s7A?expires=1763568000&signature=17e60031fbeba94b9c6ace09791b818d08f6aac5700ab6f57a32ca8ba7302b33&req=dSUgFc94nolYW%2FMW1HO4zS8geBb%2FD%2FxwRiiGxtyCQwMiUls%2FxCoIha0rKJcL%0AXM8G19cMqdJfuwrtAAk%3D%0A
+
+Step 3: Review and Submit Payroll
+
+- Click Preview Payroll to review all entries for accuracy.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1580811433/80e006c591d2692102c3ce355ef4/AD_4nXcU_7uw88IMAJbwYbi4HrwzjBdTnVeGjJfWdSoe5xKnwlbyEVpdxb0We0lfqdVkcbV-z7bOp-6E3c7yrWQP7RoLyiCb6I8cYY3imglFR-Nt_pzQm6cKeLT2QcmKYNyByVTI6PbgLA?expires=1763568000&signature=5ad25158d387eb8b63acddb71cf28e85e966b238f9beb867d5870dc03fbe7ef6&req=dSUvFsF%2FnIVcWvMW1HO4zb6ondkTHRena%2FeOyQTFHrGgn%2FgPfhlM2Pdein5f%0AmXxlkM3GFEre07t6h%2Fg%3D%0A
+
+- Once confirmed, click Submit Payroll before the deadline shown on the Preview page.
+
+- You're all set! Your payroll will be processed according to the selected check date. If you have any questions or encounter issues during the process, don’t hesitate to reach out for support!
+
+---
+
+How to Check Payroll Status
+
+You can easily check the status of any submitted payroll directly from your dashboard. Follow the steps below to view detailed information about a specific payroll run.
+
+Step 1: Navigate to Submitted Payroll
+
+- Go to Payroll > Overview in your HCP account.
+
+- Click Run Payroll in the top-right corner.
+
+- Select the Submitted tab.
+
+Step 2: Review Payroll Details
+
+- Locate and click on the specific payroll run you’d like to review.
+
+- You’ll see a list of all submitted payrolls, with the Payroll Status displayed next to each one (e.g., Pending, Processing, Paid).
+
+What the Payroll Status Tells You
+
+The Payroll Status section provides up-to-date information about the current state of the payroll. It may include one of the following statuses. If additional action is needed, the system will provide prompts or guidance within that section.
+
+Table:
+Row 1: Payroll Status | Description
+Row 2: Draft | Payroll has been started but has not yet been submitted.
+Row 3: Pending | Payroll is submitted and awaiting processing.
+Row 4: Processing | Payroll is being processed for payment.
+Row 5: Paid | Payroll has been successfully completed and paid out.
+Row 6: Partially Paid | Only part of the payroll has been paid (may require follow-up).
+
+---
+
+Payroll Debit Timing
+
+Understanding the timing of payroll debits helps you manage your cash flow and avoid surprises. Here's how and when payroll funds are withdrawn from your business checking account.
+
+When are Payroll funds debited from my bank account?
+
+Payroll funds are debited on the day of the payroll approval deadline, not the pay date. The exact timing depends on when the payroll is approved:
+
+- If Payroll is approved on the deadline day, the debit is submitted for processing approximately 60 minutes after approval.
+
+- If Payroll is approved before the deadline day, the debit is submitted for processing at 7:00 AM ET on the day of the approval deadline.
+​
+
+When do Payroll funds show up in my bank?
+
+After processing, the debit typically posts to your business bank account between 12:00 PM ET and 11:30 PM ET on the same day (the approval deadline).
+
+---
+
+Access Your Payroll Reports & Documents
+
+If you're a Payroll Admin, accessing these reports in your HCP account is a breeze.
+
+Check out the simple steps below to quickly get your Payroll and Tax Reports. Let's make tax time and payroll management easy and stress-free!
+
+To view additional Reports, Tax Documents, and Company Documents:
+
+- Go to Payroll > Documents in your HCP account.
+
+- Select one of the following tabs: - History
+- Reports & taxes
+- Company documents.
+
+- Locate the report or file for which you would like to download, and click the More icon (three dots) to the right.
+
+- Select Download CSV from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1575659807/d9dff78d857c7241c7ce255d8e67/AD_4nXfa55cxWx7iGdTgpJf7y1eUhevzIS0ooT-Anc5w7wE05XDBoc9Y4EnONzeA_BWi-vFGd3gae1Bb3ICzcbWIPs92Ma7rkx6LIte4BYg8hSU5j8PnvaXMmCWtBJBDbwL9dMzgSrgQ2A?expires=1763568000&signature=8cb97744fd707ae067e78ead11777e337b5cfe649995cd5fc8d96f6f5fe95bd9&req=dSUgE897lIlfXvMW1HO4zQSDRakDzVgUqZ%2BBheRut7intIWxIbEJWDj71Wna%0AF2T59gQiTR9dsZ%2Bq1OM%3D%0A
+
+Below, you can find a quick breakdown of what each section provides:
+
+- History: Detailed summary reports per payroll that include information such as gross pay, net pay, deductions, reimbursements, and more.
+
+- Reports & taxes: Documents to download such as tax liabilities, W-2 previews, W-4 exempt status, contractor payments, and more.
+
+- Company Documents: Documents you've previously signed during onboarding, such as your Federal 8655 and any state documents applicable.
+
+---

@@ -1,0 +1,41 @@
+Credit Card Tipping
+Source: https://help.housecallpro.com/en/articles/2862335-credit-card-tipping
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: When using the HCP credit card processor, you can enable credit card tipping so customers can thank you for your great service!
+
+How to Manage Tipping Options (HCP Web Portal)
+
+To accept credit card tips when taking payments, you must first enable the option in your Housecall Pro account.
+
+To set your default tipping options for all future invoices:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Invoices from the Settings menu on the left.
+
+- Click the Configuration tab on the Invoices settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1641725555/10cb3f87798bed6e61fa167af0cc/image.png?expires=1763568000&signature=e6e377d7f3360bb13497dd68d60537ba23320dc802926f008a86bca52f6c3bb1&req=dSYjF858mIRaXPMW1HO4zTfcBOmh4e6KvytoTjtpu2jEHkr6BMu3zrMTfKRm%0Ah%2FU0E8aiLrGTI5KCOxE%3D%0A
+
+- Click on the toggles under the Tipping section to enable or disable the following tipping options: 
+​ - Accept tips on online payments
+ - When this setting is enabled, customers have the option to add a tip to their payment. Tip is only available when taking a credit card payment. 
+​
+- Use a separate tipping screen on checkout
+ - If this option is enabled, your customers will see a more obvious tipping prompt on a separate screen before signing off on the payment.
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1229198283/4c2f51f6b64330fdc302853dc5b8/TippingOptions.png?expires=1763568000&signature=1a7988952464f3119794d79e004f975c716537f1089c82f3f72ebd9b2e089b20&req=dSIlH8h3lYNXWvMW1HO4zcXKUbG7fjIWfc1kvRGX4FEdRBmdP5tRYGkrohK%2F%0A%2FWRk3mTmS%2FhSTHiaO0E%3D%0A
+
+- Click the toggle next to the options you want to enable or disable, and you're all set! Your tipping options will be available on all future invoices sent to customers.
+​
+
+---
+
+---
+
+Learn how Instapay can typically have your card or bank (ACH) payment in hand in less than 30 minutes.
+
+---

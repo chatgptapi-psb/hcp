@@ -1,0 +1,192 @@
+Expense Account: How to Fund Your Account
+Source: https://help.housecallpro.com/en/articles/6904850-expense-account-how-to-fund-your-account
+Author: Laney T
+Last updated: Updated over 3 months ago
+
+Summary: Learn about funding your Expense account by setting a minimum balance or transferring money from an external bank account.
+
+Managing your Expense Account Balance
+
+Funding your account is the first step to using Expense Cards, Bill Pay, and Mobile Check Deposit.
+
+There are 2 main ways to fund your Expense account:
+
+- Setting up a minimum balance.
+- Transferring money from an external bank account.
+
+---
+
+---
+
+Setting Up a Minimum Balance
+
+Using a minimum balance makes it easy to maintain sufficient funds without having to manually transfer money from a bank account into your Expense account.
+
+The minimum balance feature diverts card payments and funds from mobile check deposits you take within Housecall Pro into your Expense account. Diverting some of your payments that would normally be sent to your regular bank account keeps your Expense account balance at a target minimum amount that you set.
+
+When your balance is below the minimum amount you have set, we will automatically reload your available balance by sending money from your credit card payouts into your Expense account.
+
+---
+
+How to Set Your Minimum Balance
+
+To set your Minimum Balance:
+
+- Go to My money in the navigation bar at the top of your Housecall Pro account.
+
+- Select Expenses > Funding from the left menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694463298/1413ebd643784759ec36128c6695/Screenshot+2025-08-26+at+2_58_56%E2%80%AFPM.png?expires=1763568000&signature=fba18c0e1690bccc97262c23db2393cd74e558f96de3dabcdd51982b84976cff&req=dSYuEs14noNWUfMW1HO4zV3IRgfv%2BoBw1AbvLnux9JxkR%2B2qUz66RionZtkR%0Ao6tP6ljl35GWBnR%2BnG4%3D%0A
+
+- Click the blue Add funds button in the top right corner of the page. - Depending on your account settings, you may be prompted to enter an authorization code for security purposes (sent to your mobile phone).
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694471400/18921a133b59b62e09178b20c036/Screenshot+2025-08-26+at+3_03_07%E2%80%AFPM.png?expires=1763568000&signature=1e4156dc2b12de6315635782da8b3a128363799dd48df493282f26ae22a3d906&req=dSYuEs15nIVfWfMW1HO4zQHjsZ9U%2Ftz8letZ1b0GwWBp09X2gBgfZ9ZMRGnp%0A2N6EeyaGGlin18biUig%3D%0A
+
+- Select Set up Minimum Balance in the Add Funds window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694449851/f27efa240049c913a6ed8c9d9fac/ExpenseMgmt4.png?expires=1763568000&signature=cb1d8108dd4c873c9a9f5b70a84b4f8a6d12ac4b06dfc4a5368d5b914d998981&req=dSYuEs16lIlaWPMW1HO4zYZ7si1XF1o%2BC%2F6l9RFcepU9VRnXebRuuWJc2AB8%0A1XEmugiyXWDoA4S5fIo%3D%0A
+
+- Enter your desired minimum balance, then click Review.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694547645/e43e5a92e1356006896071d47c2f/Screenshot+2025-08-26+at+3_05_56%E2%80%AFPM.png?expires=1763568000&signature=9b49a8644ce547c9de8152d7210bf9a5194797357afb1132eadb9797f677e6ab&req=dSYuEsx6modbXPMW1HO4zfZUhVGmDzlJG6JoNMTAjzpKAyLHA1zyfYmh7xiP%0AO9zpaWpuj15CszNNfXM%3D%0A
+
+- After reviewing your minimum balance, click Confirm to save your changes.
+
+- We will send your credit card payments to your Expense account until your targeted minimum balance has been reached, at which point all credit card payments will be sent to the external bank account they’re regularly sent to.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694549785/1b105997268d3e10e25d4d815cbb/Screenshot+2025-08-26+at+3_06_33%E2%80%AFPM.png?expires=1763568000&signature=f15844824189151ea379d8f4e5e43bec7d1933efae7d83dc6a0f9400460f43fd&req=dSYuEsx6lIZXXPMW1HO4zU1sL%2FfE0jxIQr4mKYuoHhA4ffwHsYNANGFMWDhJ%0AF3QO5lPv6vXzc1B0m38%3D%0A
+
+---
+
+Edit or Delete Your Minimum Balance
+
+To edit or delete your current minimum balance:
+
+- Go to My money in the navigation bar at the top of your Housecall Pro account.
+
+- Select Expenses > Funding from the left menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694528295/6b3bc565206767c89cad68a4be05/Screenshot+2025-08-26+at+2_58_56%E2%80%AFPM.png?expires=1763568000&signature=893a6f32b4e70b59f1fe97ea1befd2d47954c1c7dc650c0254f02c7d1fdfe4d2&req=dSYuEsx8lYNWXPMW1HO4zcf7OY0Ee%2FkqRG3V%2FBqOjE6UNBU41CV%2FfCF9fspM%0AwLSXxps8%2FTpkn994TQc%3D%0A
+
+- Click the pencil icon to the right of the funding schedule you'd like to update, and the Update funding schedule window will appear.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694557235/51c71daa617b028e726952d5b7ed/ExpenseMgmt6.png?expires=1763568000&signature=4d63cbb400d83ef190ee02891b567b827e58764f8e0afe2c54a7f59a91f9de50&req=dSYuEsx7moNcXPMW1HO4zTCDRXq99fIBAlKdz2s64Knby%2BKoR1NGlthn%2FMLB%0A8cfvAYzhcfTxmWbVNSY%3D%0A
+
+- To edit your minimum balance, update the amount, then click Review. Once you've reviewed the details, click Confirm on the final screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694706997/29f2ef23d336f1ff9e37f3f45a5a/Screenshot+2025-08-26+at+5_37_30%E2%80%AFPM.png?expires=1763568000&signature=a39d9b22c0a5048cadd7f0ea0b2d7934a9771ea348e9d693af0138fbb26f77e5&req=dSYuEs5%2Bm4hWXvMW1HO4zbtuLEk8e0F7XfQho6iH6eXu8FBc%2BgRsLSr42ngf%0AW5BRr8Pk9qMV9NA%2BI6Q%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694708093/caa55d6173a60dceb82e0fa80e5c/Screenshot+2025-08-26+at+5_38_40%E2%80%AFPM.png?expires=1763568000&signature=ca8dfdeb72d21bb48e63e66db3d723b4ccce2846faf81c2f4f7bf1d2f14da6a7&req=dSYuEs5%2BlYFWWvMW1HO4zeHW1aFnfSPf7yTZDudkPTuLIBZIzcSKwzH9vgJG%0Aey6%2BIIhlysar5BRpG2s%3D%0A
+
+- To remove the minimum balance, click Delete minimum balance, then click Delete to confirm.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694709555/1b3b21d6471d7e71043daf6b5390/Screenshot+2025-08-26+at+5_39_35%E2%80%AFPM.png?expires=1763568000&signature=7f16a8366e90d42b6a91250c6150ac2510b626fefc1b0829582a407ea49a8707&req=dSYuEs5%2BlIRaXPMW1HO4zcr31wf3WORCviP4MMkr8aKHzsxgwboAQG3qv2fa%0AtZ88AI1DXtjaKrKSS4c%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694709970/3437c6ab7ec8e9f037fee1809c2f/Screenshot+2025-08-26+at+5_40_12%E2%80%AFPM.png?expires=1763568000&signature=9314b520100fc3c7fdd1268609b7b2a3e22520ea29f8258f35adb5c8657ad2ba&req=dSYuEs5%2BlIhYWfMW1HO4zRmZVIoPTP9hgr0M0XwgRzfCDSl3iFy9YatrZI0S%0A7qCXvdxFKamejrUtP7k%3D%0A
+
+- After confirming your changes, the Funding page will reflect your updated selection.
+
+---
+
+---
+
+Transferring Money From an External Bank Account
+
+You can fund your Expense account by either transferring money from the external bank account connected to Housecall Pro for accepting payments, or you can add a separate external bank account.
+
+---
+
+How to Transfer Money from an External Bank Account
+
+Once you have connected an external bank account, you will be able to make one-time or recurring bank transfers.
+
+To edit or cancel your transfer schedule, simply return to the Funding page.
+
+To transfer money directly to your Expense account, follow these steps:
+
+- Go to My money in the navigation bar at the top of your Housecall Pro account.
+
+- Select Expenses > Funding from the left menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694527869/b82e223d1e40c5984ff1540cb558/Screenshot+2025-08-26+at+2_58_56%E2%80%AFPM.png?expires=1763568000&signature=38ca6b47cce84320f900caa42d90befbd3874ee3517526e4a675fc58005826c4&req=dSYuEsx8molZUPMW1HO4zWzAYFsRYroQJzSrBh3oFb5Gg09c6zBKFKnIzObZ%0A%2BW50P%2FzoJ2OOeZc4%2B4Q%3D%0A
+
+- Click the blue Add funds button in the top right corner of the page. - Depending on your account settings, you may be prompted to enter an authorization code for security purposes (sent to your mobile phone).
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694611722/66dca649b8600a67c1de118643e4/Screenshot+2025-08-26+at+3_03_07%E2%80%AFPM.png?expires=1763568000&signature=065e8c76cc5677050ae2a884495f98a1311a90598db8bb78d04b0cb3224a3157&req=dSYuEs9%2FnIZdW%2FMW1HO4zVGok2Ca%2Fxm684eVjgg%2ByQYgs5UdMH3s6MmqickE%0AvBgadj%2B3ZXE5rGJuPns%3D%0A
+
+- Select Transfer money from your external bank account in the Add Funds window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694620255/a0791c31ee398d5edb4bdc5fce29/Screenshot+2025-08-26+at+4_40_07%E2%80%AFPM.png?expires=1763568000&signature=d106ba01ef1512ef4d7010d636a6a06fe95730ac5563ec103966de032f59cc08&req=dSYuEs98nYNaXPMW1HO4zTjebJmgdhIA6AhXAAt9sp%2FtIwJeaYtY7s2FohYW%0A1hApQLQPbiElft4V5nI%3D%0A
+
+- Enter the transfer amount in the amount field at the top.
+
+- Select Standard transfer (1-3 business days, no fee) or Instant transfer (Get your funds within seconds, 1% fee).
+
+- Choose which bank account you'd like to transfer funds from. Select an existing account, or select Add another bank account, from the drop-down.
+
+- With Standard transfers, you can select the frequency of your deposit if you'd like to make it recurring: - One-time (initiated on the same day)
+- Every week
+- Every other week
+
+- When you're ready, click Review to proceed.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694647596/10cb3cb58501e9eb4d5116c71caf/Screenshot+2025-08-26+at+4_54_48%E2%80%AFPM.png?expires=1763568000&signature=0377a320b19974b3811b7c31bbcce1e693bf3d2d30d7c3a8ba33985c68d063e4&req=dSYuEs96moRWX%2FMW1HO4zfYYqLVMg11mA%2BJWioKXr%2FMqr8rYJhocXoJsBAW3%0Aae8vUGcCSBt3R1tQDeY%3D%0A
+
+- To authorize the transfer, click Transfer in the bottom right corner of the window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694664264/6218bf16a69492fe66db76eb0dac/Screenshot+2025-08-26+at+4_57_11%E2%80%AFPM.png?expires=1763568000&signature=f5eeb363e6cf96e02d959d962953b89eb49f00ebeebf737dd88a529beb64f6a3&req=dSYuEs94mYNZXfMW1HO4zedS1VbX8%2Ffjsdmy8i%2FO60YW7Q31oZZ5AnjBXeTq%0A7UrP6nWM0SDtnwGSnYA%3D%0A
+
+---
+
+Add an External Account and Transfer Money
+
+To add an external bank account for transferring money to your Expense account:
+
+- Go to My money in the navigation bar at the top of your Housecall Pro account.
+
+- Select Expenses > Funding from the left menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694665444/05e8157267e751ba302bac8d9891/Screenshot+2025-08-26+at+2_58_56%E2%80%AFPM.png?expires=1763568000&signature=be8cae02921375e09cde0fa729abd8acd72e882cc2a178a8f04ac3a1e57ef922&req=dSYuEs94mIVbXfMW1HO4zbUZ3X6euMZzW%2ByUodGxg16Tq7g7YZB3KfAxlia8%0A6PeO5Isvoc96hh5r4Yw%3D%0A
+
+- Click the blue Add funds button in the top right corner of the page. - Depending on your account settings, you may be prompted to enter an authorization code for security purposes (sent to your mobile phone).
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694665917/520379f914f8e8fc795eeada436d/Screenshot+2025-08-26+at+3_03_07%E2%80%AFPM.png?expires=1763568000&signature=4fff3e739a4769a49acd69e32c46e39d233805b13bc4502a51b4ff9e0fbc3b04&req=dSYuEs94mIheXvMW1HO4zctK6tPd7ec5%2Bt1M99%2Fd11qNOsdL0lYzXHcgrQdX%0A5%2F0o1WHpkp73HfqKvvU%3D%0A
+
+- In the Add Funds window, select Transfer money from your external bank account.
+
+- Enter the transfer amount in the amount field at the top.
+
+- Select the transfer type and frequency (if applicable): Standard transfer (1-3 business days, no fee) or Instant transfer (Get your funds within seconds, 1% fee).
+
+- Open the drop-down menu to the right of Transfer from, then scroll down and select Add another bank account.
+
+- You will then be redirected to another page where, through our partnership with Plaid, you will provide your bank information to safely and securely connect your account.
+
+- Once you’ve connected your external bank account, you will be able to transfer funds to your Expense account.
+​
+
+---
+
+Edit or Delete a Recurring Transfer
+
+To edit or delete a recurring transfer:
+
+- Go to My money in the navigation bar at the top of your Housecall Pro account.
+
+- Select Expenses > Funding from the left menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694711519/b86c4669aa14a86ed0de21c266b3/Screenshot+2025-08-26+at+2_58_56%E2%80%AFPM.png?expires=1763568000&signature=0b0d35ba6e38cb836e0c1817d8d66c50102c576061b1c45e2ee9e21e79531a5d&req=dSYuEs5%2FnIReUPMW1HO4zQjOY%2BaCNL30mFnRH5TmOSCiYL5KRJs0B5Wsyfjp%0AeZN4WztuqiGei73vHz8%3D%0A
+
+- Click the pencil icon to the right of the funding schedule you'd like to edit or delete.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694687799/cc832e3b052b2c6939a70e6d8ab1/ExpenseMgmt6.png?expires=1763568000&signature=f4c09b9630e29554241ad65e2a9f895155102bd64ed16c9a84b6b52ff23d732a&req=dSYuEs92moZWUPMW1HO4zUOfhJkv%2BgJvjy0bR42w2G40rNwlsdHppOAdKDDw%0AiaOFA3vqOXDiE5LRbgs%3D%0A
+
+- To remove a recurring transfer, click Delete in the bottom left corner of the window, then click Delete once again to confirm.
+
+- To edit the recurring transfer, update the amount, frequency, or scheduled start date, then click Save to confirm.
+
+- The Funding page will now reflect your new or canceled recurring transfer.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694713940/61b3eb8304fd3def2417863a9cff/Screenshot+2025-08-26+at+4_28_18%E2%80%AFPM.png?expires=1763568000&signature=ecb6601cc2e34b18ee78df937ec0184d9aeda75bca13732ab3157beabd512f9f&req=dSYuEs5%2FnohbWfMW1HO4zQ3bNKaGcHBct410QAFecjdjbEdoyILpG0pihXxp%0AmAnNb684J4FavFeT1DU%3D%0A
+
+---

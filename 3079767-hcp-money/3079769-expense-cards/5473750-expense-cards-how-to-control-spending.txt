@@ -1,0 +1,176 @@
+Expense Cards: How to Control Spending
+Source: https://help.housecallpro.com/en/articles/5473750-expense-cards-how-to-control-spending
+Author: Nate H
+Last updated: Updated over 9 months ago
+
+Summary: How to limit the amount of money your employees can spend.
+
+How to Control Spending on Expense Cards
+
+Controlling spending on your Expense Cards is essential for staying within budget and maintaining financial oversight. In this article, we'll go over how you can manage your Expense Cards efficiently.
+
+- Setting spending limits for each Expense Card allows you to restrict how much can be charged, ensuring expenses don’t exceed your desired thresholds.
+
+- Setting notifications for Expense Card transactions can help you stay updated in real-time, giving you more control and awareness over spending.
+
+- Using the HCP Money Overview Dashboard allows you to review spending by employee and category, along with a full list of Expense Card transactions. Regularly reviewing your transaction history helps identify spending patterns and spot any unusual charges.
+
+- Accessing/downloading monthly Expense Card statements is another valuable tool for tracking expenses, giving you a detailed breakdown at any time.
+
+- Exporting Expense Card transactions allows for easier accounting, better financial oversight, and more efficient expense tracking. It streamlines record-keeping, improves reporting, and helps ensure accuracy and compliance in your financial management.
+
+By utilizing these features, you can better manage your finances and prevent overspending on your Expense Cards.
+
+---
+
+Set Spending Limits for Expense Card Cardholders
+
+To set spending limits on an Expense Card:
+
+- Click on the 'My Money' tab in the navigation bar at the top of your Housecall Pro account.
+
+- Select 'Expense Cards' from the menu on the left, under HCP Money.
+
+- Click the three dots icon to the right of the employee whose card you need to activate.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1233132629/f33ea4bf5560ffdb0b3f7679a08e/ActivateEC1.png?expires=1763568000&signature=b936798c952e61af85de19b905bf7feb3c07d6ac24915a32a65707e7617c2139&req=dSIkFch9n4ddUPMW1HO4zYG4of5PylR0gzKwUFM2hoD%2FjifZ6s3CmLYUc4IL%0A2XKT9O9lzb2VEcL99DM%3D%0A
+
+- Select 'Manage card' from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1233132627/aff0557d712e467e17dc50b62a97/ActivateEC2.png?expires=1763568000&signature=d34edef8d01646d20c4f8b756126c3153c78b99c8f85452e06b5d82b1e87f726&req=dSIkFch9n4ddXvMW1HO4zVeJatcyWGsTnNbDTYTcwJirUA63GE5R6X6EjtIA%0ATPBzmalsTZFWycbiNew%3D%0A
+
+- Ensure that the Card Status is set to 'Active.'
+
+- Under "Card spending limit," select whether you would like the spending limit to be: - Off
+- Per transaction
+- Daily
+- Weekly
+- Monthly
+
+- Then, enter the spending limit amount in the 'Limit amount' field.
+
+- Click 'Save' in the bottom right corner of the "Edit card" window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1232946345/8ca329303c9783cdd5e3f30ce730/dcPQzFV4Agvbyji0Nj6PuDFQLgpkLx8NVGhwGU5H2BuIg9dzhMzxvViPd99MvbtUWp5mOYLO022mbMLj-QElo3szefvbDA3hG_LKg7C866rc89DRpZt-Ua_YzXguC0vcWfcnVBqHa9W7N88SPAXqdGD41XfW6UxJkau-gQQa2zfPbVv7JrqQCHNj4xRszA?expires=1763568000&signature=19c9bb41698306cf90a77f586496516a374126be190b5ff2d7f1d648242155dd&req=dSIkFMB6m4JbXPMW1HO4zYfZt5Vz5AhGLNgxlDPoXQXAV80XAtKgB%2FglIYPm%0A6Z41HD5sR%2BIg%2Fb0snHU%3D%0A
+
+---
+
+Set Up Expense Card Notifications
+
+To enable or disable Expense Card notifications:
+
+- Click on the 'My Money' tab in the navigation bar at the top of your Housecall Pro account.
+
+- Select 'Transactions' from the menu on the left.
+
+- Click the 'Manage Notifications' button.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1250762479/b38d3e418e9db0a15ef4f08eebcd/Manage-2BNotifcations.png?expires=1763568000&signature=f98a7e4d5f1b34ed5a5a29b1b6320f1449df93763a4856b2b74432c984979b6c&req=dSIiFs54n4VYUPMW1HO4zdt1c3HLv%2BdkbzoW2AbmF5JRsIyil2pYH6XqwBin%0ASG%2FK6QKt534%2FeW4%2Fsqs%3D%0A
+
+- There are four notifications you can turn on/off based on specific card activity:
+​ - Receipt upload reminders (push notification)
+ - After an Expense Card purchase is made, you can enable automatic reminders for the cardholder to upload their receipt.
+​
+- Purchase notifications (text & email)
+ - With any successful card purchase, admins on the account will receive an alert that includes the cardholder's name, purchase amount, the store name, and the date and time.
+​
+- Declined notifications (text & email)
+ - This notification will alert the admins on the account that an Expense Card purchase has been declined. A card decline may be the result of:
+ - Insufficient funds in the HCP Money account.
+ - If the card is inactive at the time of purchase.**
+ - If the cardholder spending limit has been reached.**
+​
+- Low balance notifications (text & email) 
+ - When your HCP Money balance falls below this threshold, you will be sent an alert, warning you of the low account balance. This notification will only be sent once while your HCP Money balance remains below this threshold.
+
+- Click the toggle next to each notification to enable or disable them. (Blue = enabled; gray = disabled).
+
+- Once you've made your selections, be sure to click 'Save' in the bottom right corner of the window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1250762480/61ee0f897ba53633f67cb4faa9b7/Receipt-2BUpload-2BReminders.png?expires=1763568000&signature=0ca5bd53c38a70734485a3d02829d4f32e76ee6af55f1b793e3224d1dbbc984a&req=dSIiFs54n4VXWfMW1HO4zVNiJ8drJb9lE9gUP0eANyBr1iiz316HHv%2BPz2qx%0A3khShDUQJLKhD8jKH3k%3D%0A
+
+---
+
+Use the HCP Money Overview Dashboard to Evaluate Spending & Transactions
+
+To learn more about transactions and spending:
+
+- Click on the 'My Money' tab in the navigation bar at the top of your Housecall Pro account.
+
+- Select 'Overview' under HCP Money.
+
+- You will automatically land on the HCP Money Dashboard, where you can view trends and a running transaction list of your business's most recent transactions.
+
+View Spending by Employee:
+
+- To view spending by employee, click the drop-down menu above the spending chart and select 'Who is spending the most money?'
+
+- You can also change the time period to the past month, three months, or year.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1250773195/f9d237158351b23e877c33264338/Screenshot-2B2023-05-24-2Bat-2B8_52_45-2BAM.png?expires=1763568000&signature=6c5727f8f95368746e144eddf5fdd01db55021654d8fb597ab9bbd29bf9b262a&req=dSIiFs55noBWXPMW1HO4zTyHH4qa%2FosnPcKFq2qJnzee3zBU0jNfaogw9n18%0AaawaEs%2FMXrQ74OUJkmY%3D%0A
+
+View Spending by Category:
+
+- To see spending by category, use the drop-down menu above the spending chart and select 'What categories am I spending on?'
+
+- You can also change the time period to the past month, three months, or year.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1250773193/afc563fb4dbedd665947f86dca6f/Screenshot-2B2023-05-24-2Bat-2B8_53_08-2BAM.png?expires=1763568000&signature=3e4e28850925b4821690b1fed21da09e838f8733cb44ffea6f2f953c5fe7dba3&req=dSIiFs55noBWWvMW1HO4zaSmRHWvGPM6i%2FnlApN3RoMBnnpDfpy%2F%2FQUKmdvp%0A42%2FDDVWB4MiMCVFTKg8%3D%0A
+
+To view a full list of transactions:
+
+- Click the 'View All' button directly above your list of completed transactions on the HCP Money Dashboard. 
+​
+- You can use the arrows at the bottom right of the list to view more transactions directly in the Expense Cards interface.
+
+- Alternatively, select 'Transactions' from the menu on the left of the My Money page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1250773196/c0cc36a068aa9987e59e9ad58c72/Screenshot-2B2023-05-24-2Bat-2B8_53_29-2BAM.png?expires=1763568000&signature=ef519d76648304ac8ea0e60028c9edc3373ea337390b2cb6ddef05b700417ea5&req=dSIiFs55noBWX%2FMW1HO4zROMwRmYXQaxGsHIitMS82vRL2sMZfAoNyFluvz9%0AOk8F1wGG0wlI4pKSlSA%3D%0A
+
+---
+
+Access and Download Monthly Expense Card Account Statements
+
+Expense Card account statements are generated on a monthly basis, generally by the 10th of the subsequent month. They are available in PDF and CSV format.
+
+To access your monthly account statements:
+
+- Click on the 'My Money' tab in the navigation bar at the top of your Housecall Pro account.
+
+- Select 'Statements' from the menu on the left.
+
+- Click on the 'Download CSV' or 'Download PDF' link, depending on your desired format.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1250691526/7b8d87c1cd8af28dbbd5c8ab4a4c/Screenshot-2B2023-05-24-2Bat-2B8_47_48-2BAM.png?expires=1763568000&signature=2d8ea43d0622d7010c1b5df44d5e3787084925ba7a84016959ad0503e613e096&req=dSIiFs93nIRdX%2FMW1HO4zZ7QunxXmT0YTMNYwq4w8EPaRLGHSSZ5Jg%2B1h7WS%0AKbZee9zDFzNgAtoZC60%3D%0A
+
+Table:
+Row 1: Example: Expense Card Account Statement (PDF)
+Row 2: [Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/612398313/5e262a842a3c475ce9c1b807/t7xydMr4ndsp-8Lti434ze1v2-4AjGpJiUQqGaSckYnoxmprTmbl4X9H11QC9PevVTmwDpu7qERz34pzDlXR7M7GgQzf2tA_E4STTRizJLSQP0hZPkYqDarfV_ERiiuG7Iw9-DT6yY_StwY2XQZ2vX6xqFfIjewJCkn3XBIRjLp8LzAuT8S2NGF9z7Ms?expires=1763568000&signature=487b750d3a8c0711a943782c56a6be4fd5972421b9cc1513cee28702671893f5&req=ciElFcB2noBcFb4f3HP0gJoWVz2K5A52ueBBweGZa%2F8ZwpCGbzCPstl5CHHn%0ANVM%3D%0A
+
+Table:
+Row 1: Example: Expense Card Account Statement (CSV)
+Row 2: [Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/612398315/c390a115959aba3f59db60bd/UZqw9wCyUPPGsKt9Kdd0RB_7-AHGVZabaiQsntvI2aHiThy7_oG-r4DcggCd7PoPfnfD4FhaZpTxLNaVdS110zZ9r9BVI2MVozjmdaMit7afs58iZvLEuoJlseygVQ7oq0Y-gPLH-E7IDz7UpZ3ZoCNmPX7Z0sVd4aW1CR1nZfCzlZVufukb2TN3XGwi?expires=1763568000&signature=6194c462748dcbcc50faaca6e193216c18e6bb880cd4ab7b0489f0c4e3d71382&req=ciElFcB2noBaFb4f3HP0gBkG45b0KBp4WHMmwvGw4MM5HyNDp%2BXA7ti30Jxk%0Agnc%3D%0A
+
+---
+
+Export Expense Card Transactions
+
+Follow these steps to export your Expense Cards transactions:
+
+- Click on the 'My Money' tab in the navigation bar at the top of your Housecall Pro account.
+
+- Select 'Transactions' from the menu on the left.
+
+- Click the 'Export' button on the right, above your list of completed transactions.
+
+- Choose the date range of transactions to export and confirm your choice.
+
+- Within a few minutes, you will receive an email with a .csv file that you can download with a list of the transactions from the specified date range.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1250691527/15e3e1179c53de84ce7d735f27ca/Screenshot-2B2023-05-24-2Bat-2B8_49_39-2BAM.png?expires=1763568000&signature=f5ed2e89fd5308563a86dc1a49362a8962630e8952bf004e49c40e5657863469&req=dSIiFs93nIRdXvMW1HO4zaZ2xVAFgF87DW9Q3magU2ESGssZCti7sNvEptMK%0ALPTFYxl2I9bY8%2BE7VUk%3D%0A
+
+---
+
+Housecall Pro Expense Card is a Visa Commercial Credit Card, powered by Stripe and issued by Celtic Bank and is subject to approval. Housecall Pro partners with Stripe Payments Company for money transmission services and account services with funds held at Fifth Third Bank, member FDIC.
+
+---

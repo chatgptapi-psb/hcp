@@ -1,0 +1,96 @@
+HCP Assist: Create Events to Indicate Schedule Changes
+Source: https://help.housecallpro.com/en/articles/6853944-hcp-assist-create-events-to-indicate-schedule-changes
+Author: Ben B
+Last updated: Updated over 5 months ago
+
+Summary: Step-by-step guide for creating event blocks that help avoid unwanted bookings onto your schedule .
+
+Creating Events to Indicate Schedule Changes: Overview
+
+HCP Assist is here to handle your calls and convert them into jobs on your calendar. We want to ensure you only get booked during times when you and your team are available, therefore, we suggest creating events to block off sick time, holidays, weather closures, etc. to make your availability clear to our HCP Assist agents. 
+​
+To ensure our agents do not book during times you and your team are unavailable, we recommend creating an event following the process outlined in our recurring event help center article with a few critical adjustments.
+
+---
+
+How to Schedule a Recurring Event to Indicate Schedule Changes
+
+To schedule a recurring event:
+
+- Click the New button in the top navigation bar of your HCP account.
+
+- Select Event from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/1096975025/525a10f16b3080043c377c1a/event%2BskitchAM.png?expires=1763568000&signature=6f52638b9b5e6f142c0387c80d360e278dee0ec80f0ab84daff18f36fa2cc027&req=dSAuEMB5mIFdXPMW1HO4zXMj0kxaaFmeDSf5bdoRpXXSZizIq%2FpBn0PESiaa%0AQqiEMFQaSULesb15uTA%3D%0A
+
+- Once Event is clicked, a new window will appear. On the left-hand side of this window, you will see the scheduling and dispatching fields under 'Schedule'. These two fields are mandatory to create the event.
+
+- Make sure to list every tech that is unavailable on that day. For example, if the Company is closed for a holiday, we would list every employee on that event.
+
+- On the right-hand side of the screen, you will see the event details fields (Name, Note, Location). Ensure to label each event. - For example, Closed, Not Accepting Calls, Sick, Vacation, etc.
+
+[Image] https://downloads.intercomcdn.com/i/o/1096974964/27735e4d0310cae219fdfe3c/image.png?expires=1763568000&signature=d4718c75d536be88e63ba8c6164821992421fc466a603343e72692a082f9c6b6&req=dSAuEMB5mYhZXfMW1HO4zWsamSkbJsTXaEiMfh6aUjUo%2B3C2fa7jYYS15Yeb%0AnWPmyi6GJxsev04wbLc%3D%0A
+
+- Next, click the pencil icon next to 'Schedule' to place this event on your schedule.
+
+- The scheduling window will open. If you are creating a recurring event, click the Recurrence button in the upper-right-hand corner of the schedule.
+
+[Image] https://downloads.intercomcdn.com/i/o/1096981356/1b66234afa4ecf896ac67ff3/x+Schedule+a+time.png?expires=1763568000&signature=df496a15fafe9c9e5cd863a6c2bcc4401d9f7a278402540d89e5086b9b21d5aa&req=dSAuEMB2nIJaX%2FMW1HO4zbBqICCtQVmicCdH620nPzRBz%2Buo3akfhx1O%2FHb%2F%0A10Yr1%2B7i68ZFC6pmY0w%3D%0A
+
+- Next, a screen labeled "Event Schedule" will appear. Only block out the times during after-hours and business hours that you are not available. - If unavailable during the entire day, create an event for 1:00 AM-11:00 PM on a daily cadence. This will allow for an entire event to be blocked for after-hours service (if applicable).
+
+[Image] https://downloads.intercomcdn.com/i/o/1096984186/72c9fef1a233b52aaee1db96/image.png?expires=1763568000&signature=4abea92e7a204875822aa45ef6551bea1813942e4901a0546be549abdbe523c8&req=dSAuEMB2mYBXX%2FMW1HO4zdBMEITRYNLcTm%2BTwBkUbjHz77uVXccyzSoaBY39%0ANLJ9aEB0MlLcZhbVZ54%3D%0A
+
+- Next, click the 'Repeats' drop-down. For a weekly recurrence, the day selected will default to whatever day you are creating the job on. Be sure to change the start date if that is not when the event will be taking place. ​
+
+- For a monthly & yearly recurrence, choose a specific day of every month (example: the first Tuesday of every month) OR choose a specific date of every month. Be sure to choose a date that occurs every month (example: the 31st is not available in February, April, June, September, or November).
+
+[Image] https://downloads.intercomcdn.com/i/o/1096991956/8609e7fdd39e5d9fe0a40344/image.png?expires=1763568000&signature=7e4f0d093ea3654b3f69fbd13a5399a09583133d52b5cb2e482deae0d24459d9&req=dSAuEMB3nIhaX%2FMW1HO4zZxHLDwFG7KY%2BgwGxXHZa0kFgLyvssiM2YI%2Blshx%0An%2FdAI%2Bzowq939OfOXkU%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/1096996425/86efda54d9eff9d89641f13d/image.png?expires=1763568000&signature=a352d685542f4c1225677638e574fecd24708454263050f1acb71ad0ff4604bb&req=dSAuEMB3m4VdXPMW1HO4zUqpEgh%2FOvs0WnwL91ATGgWG0o%2FdZIUDl7Xawuk5%0Ab7C%2Fti7Rc5boH0Hiu7I%3D%0A
+
+- Next, choose an end date for this recurring event by selecting a specific date for the recurrence to stop OR setting a number of occurrence(s) that will take place.​
+
+- Next, click 'Done' once you've finished and then click 'Save' at the top right corner of the schedule. Finally, click 'Save Event' on the Event screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/1096995048/369c38a2dc00621f97de1cd6/image.png?expires=1763568000&signature=a7f9abbf99fb55ac90f5598ef5d0d2d9f041b7be7f7c1ba1ea402ad859ca6386&req=dSAuEMB3mIFbUfMW1HO4zcHcy3MQc%2BUoxpOiCwJkzAxrWCP1zZ04xS9gQO7h%0ABr%2Bv3MWzbXh%2F2uJ2uVw%3D%0A
+
+---
+
+How to Schedule a Single Event to Indicate Schedule Changes
+
+To schedule a single event:
+
+- Click on the black New button located on the right-hand side of the navigation bar found at the top of your account.
+
+- Select Event a new window will appear.
+
+[Image] https://downloads.intercomcdn.com/i/o/1096975025/525a10f16b3080043c377c1a/event%2BskitchAM.png?expires=1763568000&signature=6f52638b9b5e6f142c0387c80d360e278dee0ec80f0ab84daff18f36fa2cc027&req=dSAuEMB5mIFdXPMW1HO4zXMj0kxaaFmeDSf5bdoRpXXSZizIq%2FpBn0PESiaa%0AQqiEMFQaSULesb15uTA%3D%0A
+
+- On the left-hand side of this window, you will see the scheduling and dispatching fields under 'Schedule'. - These two fields are mandatory to create the event. Make sure to list every tech that is unavailable on that day. For example, Ben is sick, so create a single event.
+
+- On the right-hand side of the screen, you will see the event details fields (Name, Note, Location). Ensure to label each event. For example, Closed, Not Accepting Calls, Sick, Vacation, etc.
+
+[Image] https://downloads.intercomcdn.com/i/o/1096974964/27735e4d0310cae219fdfe3c/image.png?expires=1763568000&signature=d4718c75d536be88e63ba8c6164821992421fc466a603343e72692a082f9c6b6&req=dSAuEMB5mYhZXfMW1HO4zWsamSkbJsTXaEiMfh6aUjUo%2B3C2fa7jYYS15Yeb%0AnWPmyi6GJxsev04wbLc%3D%0A
+
+- Next, enter a date and time in the From and To fields.
+
+- Finally, click 'Save Event' on the Event screen.
+
+- That's it! You'll then see your single event appear on the calendar.
+
+[Image] https://downloads.intercomcdn.com/i/o/1097000874/6b92bc563b18c5ef9881dde5/image.png?expires=1763568000&signature=42e79cbf35fc08247b76ec18b2548ebc302220a6da2b044a01efb6740d5c83fd&req=dSAuEcl%2BnYlYXfMW1HO4zXD1HKH6rpdqbMu9am7kawQHC3y1%2BIWOBAz3hqM4%0Amt%2BZ4yacB8XWHCEUTMM%3D%0A
+
+---
+
+Video Tutorials
+
+Recurring Event Workflow:
+
+[Video - loom] id=cd9a3090e17e4c279040b6addb38ef02
+
+Single Event Workflow:
+
+[Image] https://downloads.intercomcdn.com/i/o/1130580487/150d620a155ca19ee3a6c9ae/ezgif_com-video-to-gif-converter.gif?expires=1763568000&signature=7079cd1b2304ad460c2cb1071662475984a1242d3c8ae2169fdf92cbac428098&req=dSEkFsx2nYVXXvMW1HO4zQ1pTmR1CgWmJY4WgLOm5HRlEH0KXcLOnwg%2BRl%2Bk%0A%2F8RDnZuL8pQLgU4Nw0s%3D%0A
+
+---

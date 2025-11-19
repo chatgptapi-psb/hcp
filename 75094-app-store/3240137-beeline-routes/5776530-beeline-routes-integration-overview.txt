@@ -1,0 +1,45 @@
+Beeline Routes Integration Overview
+Source: https://help.housecallpro.com/en/articles/5776530-beeline-routes-integration-overview
+Author: Nate H
+Last updated: Updated over 4 months ago
+
+Summary: Learn how the integration between Housecall Pro and Beeline Routes works.
+
+How the integration works:
+
+Beeline Routes is an automation tool that will optimize routes based on your scheduled and unscheduled jobs and propose dates and times for unscheduled appointments.
+
+Step 1: Select the Daily tool, then Select the day that you would like to Beeline and find an optimized route schedule.
+
+[Image] https://downloads.intercomcdn.com/i/o/426896815/0edc735288bc9d472ae8f034/step+1+how+to+.png?expires=1763567100&signature=4b5ae4a657d3f2b7d68430e396cf513774fe751d67d2274ae1d883e0306fb069&req=cCIhHsB4lYBaFb4f3HP0gGvrqiBPtHLnqciEDILlTdXW7HLnhmIvAmX4%2F4p0%0AAH8AbKu3wisk1HUaJw%3D%3D%0A
+
+Step 2: Select the field tech and their assigned jobs in order to create a proposed schedule for them. Make sure to include additional details that should be accounted for when scheduling, such as an arrival window.
+
+[Image] https://downloads.intercomcdn.com/i/o/426897809/1e06d9a4a5b7b183f95f689e/Step+2+-+How+to+.png?expires=1763567100&signature=f3d9090c2320b08fda0ee159cbcf9d0d31acf7111db6678ed6f898ef21a7cc5d&req=cCIhHsB5lYFWFb4f3HP0gMQ0hkbf4zqLct%2F4LD%2BywfJjVyCyWIohIyFv3MRE%0A1REwHVn%2BDEaqGuMwWA%3D%3D%0A
+
+Step 3: Click Beeline Crew Member. On the left side, you will see your crew member's scheduled jobs. On the right side, you will see the unscheduled jobs. Beeline will present the most optimized route based on your crew member's parameters/settings.
+
+[Image] https://downloads.intercomcdn.com/i/o/430797123/35981f329322de232c9b8518/step_2.png?expires=1763567100&signature=1c8b0706e6955f13f5b905fcf0c9f3cfc55f902c8f0d4a1b2baffc919b9a45f8&req=cCMnEcB5nINcFb4f3HP0gHaFdUVb3NoZyaRECEHj7IyN05CcBZijnCtGnWfz%0AGzpn64l5K47RcDbzdg%3D%3D%0A
+
+- Update time means that this job was already scheduled, but needed to be moved slightly out of the arrival window to accommodate for the chosen unscheduled jobs to be optimized. Don't worry, you can pick and choose what routes work for you!
+- Set time means that this job was unscheduled and needs to be scheduled.
+
+Step 4: Once you Update or Set the time, you will have the option to notify the homeowner of their appointment time. Then once you toggle back over to your Housecall Pro account, the appointment times will be updated on your calendar!
+
+---
+
+Connecting Housecall Pro and Beeline Routes
+
+How to connect Housecall Pro to Beeline Routes and what the integration does.
+
+To Connect the Integration:
+
+- Click on the Beeline Routes app card in Housecall Pro
+- Click Learn More to get redirected to Beeline Routes and sign up for an account with your business email [Image] https://downloads.intercomcdn.com/i/o/426885228/2e54e968e9102e375e01f63c/step+1.png?expires=1763567100&signature=a348a31b9098a8c225aee17cbf964a8c72425e113e6c65b8f7fcc5dc4c72a485&req=cCIhHsF7n4NXFb4f3HP0gHOopJbLZwpTISrvWmtFWYnwYCpwCvExcLi3pso3%0ACwE%3D%0A
+- Beeline Routes will send you an email link for confirmation [Image] https://downloads.intercomcdn.com/i/o/426885365/7efbec46adf16ec7e1b727b0/step+2.png?expires=1763567100&signature=f73db973a9fea94f7eb04bebb784c78dc1b75a326208940cbe5c4da88c6746ee&req=cCIhHsF7nodaFb4f3HP0gEhYj0vXijvvmXT0BdnVx5vbitnRWD5wrBbJdiWg%0Ax3c%3D%0A
+- You will be prompted to sign into your Housecall Pro account so Beeline Routes can access your appointments and crew. [Image] https://downloads.intercomcdn.com/i/o/426886042/99703e97f105e2ac1a1b59d8/step+3.png?expires=1763567100&signature=32d4421c386cb8d7d6fca85a11f7df6bb91cd4b1746e92b7fc88253477bbbb25&req=cCIhHsF4nYVdFb4f3HP0gIpDIvxsMAJShbNlYaGdFyLmak17Idpwi3KsziW7%0AUtc%3D%0A [Image] https://downloads.intercomcdn.com/i/o/426886225/f03f0ecece0e7c882e0d9eba/step+4.png?expires=1763567100&signature=6084bd75ce2f0e044f2440ca571a0fa8c5ec09781c31a8ddb95fa71654d24014&req=cCIhHsF4n4NaFb4f3HP0gLJyfHYWyh1szXKj8PHA6uLyNRGsgRn6hxmIoA3z%0A6Q4%3D%0A
+- From there, you can sync with Housecall Pro and start to Beeline your routes! [Image] https://downloads.intercomcdn.com/i/o/426886405/97041f7848a40cc6bd882273/step+5.png?expires=1763567100&signature=9cf68736e392b2a6c3e5151392239e9c15546a0a10bb9e222231da891f6bede7&req=cCIhHsF4mYFaFb4f3HP0gFzY6UcoingXQss62UyQork2JltlgxCO%2BOtxjJD8%0Aqrw%3D%0A
+
+Having trouble finding what you need?
+
+Use the blue bubble to reach out to our chat team for live customer support. If you’d prefer to talk it out over the phone, call our support number at 858-842-5746.

@@ -1,0 +1,85 @@
+Controlling Payroll Access
+Source: https://help.housecallpro.com/en/articles/8264304-controlling-payroll-access
+Author: Nate H
+Last updated: Updated over 4 months ago
+
+Summary: Learn how to control who has Payroll access in your account.
+
+Payroll Admin Settings
+
+To control who has access to your payroll settings and who can run payroll in your company, we've introduced a new employee permission called Payroll Admin.
+
+- If you were running payroll before Aug 16, 2023, all Admins on your Housecall Pro account have received this new permission. They were able to run payroll previously and they retained this option. See the section below on how to change it.
+
+- If you're onboarded past Aug 16, 2023, the permission will be assigned by your Implementation Specialist during onboarding.
+
+---
+
+Who has Payroll Admin in my account?
+
+To determine which of your Housecall Pro account users are listed as Payroll Admin:
+
+- Select the 'Payroll' tab in the navigation bar at the top of your Housecall Pro account. - Depending on the size of your browser window, you may need to select the 'More' tab and then select 'Payroll' from the drop-down.
+
+- Click on the 'Employees & contractors' tab from the menu on the left.
+
+- The users on your account with Payroll Admin access will have a gray "Payroll admin" label next to their name on the Employees & contractors list.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1265237791/694d4d7b12ef8719c9dca512d114/Payroll1.png?expires=1763568000&signature=47a273aa27c6da9e81355e12af70b8d031b70c7e7e5840524cd5b1b59f979778&req=dSIhE8t9moZWWPMW1HO4zTXY%2FSA%2B2g6xIs8ZyvxZzJjcEXgDakDZpbs%2BUZbR%0AQQGv4mIZaoeWZMqF%2Fo8%3D%0A
+
+- From here, you can also view your team members' Employment Type, Onboarding Status, and date of the last data sync.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1265246302/7add61e33b27a75665505044fb2c/Payroll2.png?expires=1763568000&signature=c92d4afa1d5ea1d84e96d0449f6dbce1c9d42237dd7f2211cefb3b9f7f57e611&req=dSIhE8t6m4JfW%2FMW1HO4zUlMk2GZUGSx3AF0EBdHlHURv2jsdqTT6Fc%2FszRW%0AF7ZKNtMAjI9dVmgENo4%3D%0A
+
+- If needed, you can manage all Housecall Pro users by selecting the 'Settings > Employees' hyperlink at the top of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1265249881/0fbffa43cd778531a80ff044e8b5/Payroll3.png?expires=1763568000&signature=d96d50de01deda3908d462909ddfcb5b8633a950fa6d3ae8fc527ceda9eb0722&req=dSIhE8t6lIlXWPMW1HO4zXppk4cCwormS0Xy17FhZWlArW8liE%2Fdz4Zjdee0%0AL7E018CluFHBABowdV0%3D%0A
+
+---
+
+Payroll Admin Not Included in Payroll
+
+If the person processing payroll for your organization is not included in your company's payroll, they will not be listed in the Employees & Contractors table in Housecall Pro.
+
+You'll first need to add the user as a team member within your Employees & Contractors list to ensure they are included in the system and eligible for the necessary permissions.
+
+Here are the two most important requirements for Payroll Admin permission:
+
+Table:
+Row 1: Requirement | How to Check
+Row 2: The user has a Housecall Pro license. | The user can sign in and access the Payroll tab from the navigation bar.
+Row 3: The user is set up for payroll in your Housecall Pro account. | The user is listed in the Payroll → Employees & contractors table.
+
+---
+
+How to Add a Payroll Admin
+
+To add a Payroll Admin:
+
+- Click on the 'Payroll' tab in the navigation bar at the top of your Housecall Pro account. - Depending on the size of your browser window, you may need to select the 'More' tab in the upper navigation bar, then select 'Payroll' from the drop-down.
+
+- Then, select the 'Employees & contractors' tab from the menu on the left.
+
+- Click the blue 'Add team member' button in the top right corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1265300383/8f911a015b74075889828247a04b/Payroll4.png?expires=1763568000&signature=bb5cba7316908e5f972106c33823bd1caedc5b767125da91858eaceb132ba22a&req=dSIhE8p%2BnYJXWvMW1HO4zbk6aOPfOginS9TyuNgM3ePE%2FQ3asE1V%2B%2BJQp3S9%0ARCGKyL8rqyY1sNyOg0g%3D%0A
+
+- Select an existing team member, or select the "New team member" option, then click 'Add' in the "Add team member" window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1265303498/6e5aa65dcbb1c5456ad9646d8237/Payroll5.png?expires=1763568000&signature=a8915c204b8a4fe0b095fdef637da2ad778c4f7e84f8a604c86c1990337b229d&req=dSIhE8p%2BnoVWUfMW1HO4zduK24QAj8Ls17vwI5ALw5ZVNTa5by7fYYRnLArl%0A5FFmfzs6%2FFKgAwd%2FJxU%3D%0A
+
+- Enter the required information: Date of birth, employment type, start date, address, employee/contractor full name.
+
+- Click 'Save' in the top right corner once completed.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1265306093/3eb04092c53dfffa266446c40cb2/Payroll6.png?expires=1763568000&signature=44f40ef07ccc2a3bc9f34dc82f542960e24deea7a35360f8d3ac4cad5c3e8a7a&req=dSIhE8p%2Bm4FWWvMW1HO4zQP6Yb1eBZsx%2F2A6aazc1SRpT4hajy8ROP8ToDMU%0AaIr9kpW3jHzvaPEeD3k%3D%0A
+
+- Once saved, your team member will show up in Payroll → Employees & contractors and you can proceed to contact Housecall Pro using Blue Chat Bubble and request the Payroll Admin role for this new user.
+
+---
+
+How to Change Payroll Access
+
+To make changes to Payroll access, chat into the Blue Chat Bubble and ask for the Payroll team. Let us know which user(s) you would like to remove (or include) from Payroll Admin permission, and our team will take care of that on your behalf.
+
+---

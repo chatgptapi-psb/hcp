@@ -1,0 +1,136 @@
+Service Plan Template for HVAC
+Source: https://help.housecallpro.com/en/articles/2463437-service-plan-template-for-hvac
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: Kickstart your HVAC preventative maintenance program with free service plan templates—helping you lock in recurring revenue and keep your schedule full year-round.
+
+If you’re an HVAC professional looking to enhance customer loyalty, drive recurring revenue, and stand out from competitors, implementing a tiered Service Plan or Membership Program is the perfect strategy. This guide explores how to design Service Plans tailored to your HVAC business, showcasing tiered membership options and even a complimentary tier to entice new customers.
+
+- Tiered membership examples
+- Complimentary example
+
+For more information on how to get started with Service Plans, visit the Service Plans Starter Kit.
+
+[Button] Get Started -> https://app.intercom.com/a/apps/h6f82l2e/knowledge-hub/article/208289/edit
+
+Housecall Pro's Service Plan Template Guide is available for download Here:
+
+Potential Components of an HVAC Service Plan
+
+1. Regular Maintenance Visits: Ensure customers receive seasonal tune-ups to keep their systems running smoothly.
+2. Priority Scheduling: Give plan members faster access during peak seasons.
+3. Discounted Repairs and Services: Offer savings on parts, labor, or additional services.
+4. Exclusive Perks: Add unique benefits like loyalty credits or extended warranties.
+5. Transparent Pricing: Clearly outline costs and benefits for each membership tier.
+
+---
+
+Tiered Membership Approach
+
+A tiered membership approach lets you appeal to a wider range of customers with varying needs and budgets. Below is an example structure for HVAC businesses:
+
+Yearly HVAC Maintenance Agreement
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1306523263/82a1b4b488d45539a26edec1e7b6/Screenshot+by+Dropbox+Capture.png?expires=1763568000&signature=45a0f3db963d2b4fe916888caaeb52ece5898df7677f90f71438405dc288149d&req=dSMnEMx8noNZWvMW1HO4zUxyzTaq5e4TaP1JJj61bDwvaMfjgUOqgSyD4vEf%0AWOMpciPR2wfiZ%2Bp%2BxxI%3D%0A
+
+Duration: 1 year
+
+Included visits: 2 visits
+
+Price: $175 per year or $16 a month
+
+Preventive maintenance is the best way to avoid costly breakdowns and repairs. By enrolling in our maintenance program, you’ll see greater energy savings, ensure maximum system life, and ensure your home systems are performing in top condition. Member benefits include
+
+- 2 maintenance visits per year
+- 15% off all repairs
+- 24-hour Emergency service
+- Priority Scheduling
+- Discount off Normal Diagnostic Charges
+- Exclusive Member Promotions
+
+Tiered Offering
+
+Check out the templates below for HVAC orgs for a tiered service plan offering.
+
+Table:
+Row 1: Gold Plan | Silver Plan | Bronze Plan
+Row 2: Duration: 3 years | Duration: 2 years | Duration: 1 year
+Row 3: Included visits: 2 per year | Included visits: 2 per year | Included visits: 2 per year
+Row 4: Price: $450 ($150/year) | Price: $350 ($175 per year) | Price: $200
+Row 5: Our Gold Plan provides you with year-round, worry-free protection. The benefits include:
+​
+- Inspection and cleaning of your system during service visits (air filters included)
+- Same-day scheduling & 24-hour emergency service
+- Full coverage for labor on repairs due to equipment failure
+- 15% discount on additional system installation | Our Silver Plan provides you with year-round, worry-free protection. The benefits include:
+​
+- Inspection and cleaning of your system during service visits (air filters included)
+- Next-day scheduling & 24-hour emergency service
+- Full coverage for labor on repairs due to equipment failure
+- 10% discount on all parts for repairs and upgrades
+- 5% discount on additional system installation | Our Bronze Plan provides you with year-round, worry-free protection. The benefits include: - Inspection and cleaning of your system during service visits - Priority scheduling & 24-hour emergency service - 10% discount on parts and labor for repairs and upgrades
+
+Sample Inspection Checklist
+
+- Cooling
+- Lubricate motors
+- Check fan belts
+- Change filters, standard pleated filters included.
+- Check evaporator air temperatures
+- Check wiring & connections
+- Check refrigerant charge
+- Check operating pressures
+- Check voltage and AMP draw
+- Clean condensate line
+- Check the performance of the system
+- Check contactor points
+- Check pressure switches
+- Clean condenser coil
+- Check temperature differential
+- Clean evaporator coil*
+​
+*Evaporator cleaning is included. If the coil is plugged and needs to be removed, additional labor will be charged with a discount.
+​ Heating
+- Lubricate Motors
+- Adjust controls if needed
+- Adjust combustion air to burners
+- Check fan belts
+- Change filters, standard pleated filters included.
+- Check air temperature rise
+- Check wiring & connections
+- Clean burners
+- Check for gas leaks in the furnace
+- Check the heat exchanger for cracks
+- Check the performance of the system
+- Check heat strips
+- Check the heat pump in heating mode
+- Check the heat pump in defrost
+- Clean heat exchanger
+
+You can follow these steps to set up your service plan templates in Housecall Pro.
+
+Complimentary Tier: Starter Membership
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1306526836/f6d37f99a235a0bcef2ff668f03a/Screenshot+by+Dropbox+Capture.png?expires=1763568000&signature=d0ec2b970d5bb6f41bcd2d2ffe990dd15135def7f91d9f73b134c05adf6680af&req=dSMnEMx8m4lcX%2FMW1HO4zYHzHpvoQXElK7wy%2BF%2BnEWEMe%2Bx6je%2BNxaUjOAPx%0AdfBHBCBmAame%2FAt1Av4%3D%0A
+
+The Starter Plan is designed for follow-up customers who want to stay ahead with basic system care and maintenance reminders. It’s a no-cost way to maintain the reliability of your HVAC system and keep your comfort uninterrupted.
+
+What’s Included:
+
+- Follow-up system check-in: A quick, professional check to ensure your system remains in great shape.
+- Seasonal maintenance reminders: Stay on top of regular tune-ups with friendly, timely notifications.
+- Exclusive promotions: Unlock special member-only offers and discounts on services and repairs.
+- Digital maintenance records: Easily access your service history to keep your HVAC system’s performance on track.
+
+Cost: Free
+
+Visits: 1
+
+Duration: 1
+
+Inspiration: Use the complimentary tier as a lead generation tool, enticing potential customers with low-commitment entry points while showcasing your professionalism and service quality.
+
+---
+
+---

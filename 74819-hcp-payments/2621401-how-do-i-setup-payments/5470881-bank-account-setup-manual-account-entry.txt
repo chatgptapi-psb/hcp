@@ -1,0 +1,43 @@
+Bank Account Setup - Manual Account Entry
+Source: https://help.housecallpro.com/en/articles/5470881-bank-account-setup-manual-account-entry
+Author: Nate H
+Last updated: Updated over a year ago
+
+Summary: How to connect your bank account manually in Housecall Pro.
+
+How to Connect Your Bank Account Manually
+
+If you can't find your bank using the search bar or prefer not to connect your bank account using Plaid, you can manually add and verify your bank account by entering your account and routing numbers.
+
+To add your bank account information manually:
+
+- Select 'My money' from the Housecall Pro navigation bar at the top of your screen, and you will automatically be directed to the 'Payouts' tab.
+
+- Click the blue 'Set Up Payments' button.
+
+- Connect Bank on the main page in this tab.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1229157971/91a892068ff24ae145dbf0f2ec35/Screenshot-2B2024-05-08-2Bat-2B12_45_58-E2-80-AFPM.png?expires=1763567100&signature=f1c658fe7053dbe1b88177094705a210762a99ee7c846d0dff873b5bbd385651&req=dSIlH8h7mohYWPMW1HO4zej6w3VCBGKwB2wOk%2FQr3opIFEtqhg80KZeRI8nm%0Avf%2Fh0auvK3e%2BVZf%2BOSE%3D%0A
+
+- The Plaid window will then appear on your screen. Click 'Continue' to proceed to search for your bank.
+
+- If you are unable to find your bank or would like to connect your account manually, click the 'X' in the top right corner of the window.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1213195498/8385e8d47932e640b21fbe1a8105/Continue.png?expires=1763567100&signature=c5001fcd1b66d961bdd3ed73f3eeeda326d77de321dead381e2046cf65bb12c3&req=dSImFch3mIVWUfMW1HO4zVX4ERZs5NalVpADn5gsIy1tT856vF0sY3emyvs9%0A2yX%2B%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1213194239/b9af1f07c5961f81fa0d49636cd6/SelectBank-png-605%C3%971005--10-11-2024_03_54_PM.png?expires=1763567100&signature=5b9a23f25457061c8ab12fad9cc2898723f69f3bd0451af6655a8dfdd7506836&req=dSImFch3mYNcUPMW1HO4zdC9584eDdvVcjPyIv86BpvPCark%2BfvJXI48IRwA%0AOUOw%0A
+
+- Click 'Yes, exit' to confirm that you would like to close the window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1229157974/bdf5ef12479f493e7d7875b89e7e/Screen-2BShot-2B2021-08-05-2Bat-2B3_25_37-2BPM.png?expires=1763567100&signature=e57087238b4d80ea9bb7ebb52bff756a96e7cd382c810c50c8b1e9bc3922f401&req=dSIlH8h7mohYXfMW1HO4zd9v82lJYX6btVzclqYZ2%2BonvMSYJQjhZlK3w0V5%0AdNOjW%2FFPxiNVZy%2BNzqM%3D%0A
+
+- Next, enter your account and routing numbers on the "Having trouble connecting your bank?" screen, then click the 'Add Account' button. This will connect your bank account so you can start receiving your payouts from your customers.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1229157973/44d802acdaa09a21d6acc5e76178/ManuallyConnect1.png?expires=1763567100&signature=13d802bcba06aa1010f277d57d15a80c80069d1b95365221155004538b5e7705&req=dSIlH8h7mohYWvMW1HO4zchzAZX27wkGDOcPCfrsTMjpz3gFwP1tSqv0avQT%0AJ2eWd5q5RLFRX0heOcE%3D%0A
+
+- Since you are doing this flow manually, be sure to double-check that you are using the correct account and routing numbers for your bank account. It is recommended to take a $1 test charge after this setup to ensure you have connected to the right account.
+
+---
+
+Learn how Instapay can typically have your credit card payment in hand in less than 30 minutes.
+
+---

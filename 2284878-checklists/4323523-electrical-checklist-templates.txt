@@ -1,0 +1,63 @@
+Electrical Checklist Templates
+Source: https://help.housecallpro.com/en/articles/4323523-electrical-checklist-templates
+Author: Taylor M
+Last updated: Updated over a month ago
+
+Summary: Find templates for JSA, Rough-In, and Risk Assessment checklists specific to the electrical industry.
+
+Housecall Pro Blueprint to Success Workshop
+
+If you're looking for more advice on how to effectively use checklists, along with other great features, register for the Housecall Pro Blueprint to Success Workshop!
+
+[Button] Register Here -> https://docs.google.com/forms/d/e/1FAIpQLScM2b6NgGEvrjkOFAZPunvol2CoR4FIIFiVgR7DmTRqgd3gQg/viewform?usp=pp_url&entry.1047718727=HCP+Help+Article
+
+---
+
+---
+
+JSA (Job Safety Analysis) Checklist
+
+Pro Tip: Use the Text type for checklist items to ensure technicians record the steps they take to ensure electrical work is carried out safely.
+
+- Date
+- Type of work
+- Potential hazards or risks
+- Control measures
+- Protective equipment
+- Job steps
+
+Rough-In Checklist
+
+Pro Tip: Use a combination of Text and Pass/Flag/Fail types for checklist items to make the inspection easy to run through while still being able to capture custom information.
+
+- Inspector's name
+- Location of inspection
+- Reason for inspection
+- Check wiring methods for support and suitability
+- Check cable installation for clearance or protective plates
+- Check the boxes for suitability
+- Ensure box present and accessible for junctions
+- Ensure box present and accessible for outlets
+- Ensure box present and accessible for pull points
+- Confirm cables are firmly secured to boxes
+- Check boxes for conductor fill
+- Check the positioning of boxes intended to be flush.
+- Verify the presence of key splicing devices
+- Check equipment grounding conductors
+- Inspect boxes in floors and ceiling fans for signs of listing
+- Check recessed luminaires are clear of combustibles and insulation
+- Inspect cables installed in contact with thermal installation
+- Ensure wall switch locations have grounded conductors
+- Additional notes
+
+Risk Assessment Checklist
+
+Pro Tip: Use the Text type for checklist items to allow technicians to record present risks and avoidance measures.
+
+- Date of risk assessment
+- Risks present on job site
+- Risk avoidance measures used
+- How to further minimize risks
+- Additional notes
+
+---

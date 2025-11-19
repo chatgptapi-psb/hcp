@@ -1,0 +1,30 @@
+How to Enable Webhooks
+Source: https://help.housecallpro.com/en/articles/5683520-how-to-enable-webhooks
+Author: Nate H
+Last updated: Updated over 4 months ago
+
+Summary: Webhooks allow you to send real time notifications for actions happening in Housecall Pro to your own web app.
+
+Activate Webhooks
+
+To enable webhooks in your Housecall Pro account, follow these steps:
+
+- Click the My Apps icon (3x3 square) in the top right corner of your HCP account, then click Go to App Store.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1428666453/eae9313d30788fca59be7c29baa6/Screenshot+2025-03-18+at+12_36_16%E2%80%AFPM.png?expires=1763567100&signature=d200de6878c111ff521b03d12c23f9f2b78f8452ce51c5625ab2ae05cf7ae201&req=dSQlHs94m4VaWvMW1HO4zZQmsTkCMhuiQk3u9f28Zt8QyLkXFxHftXT1sr3W%0AKrO%2BwVyKvmYy2DfRKiI%3D%0A
+
+- Scroll down or search for the Webhooks app and click the app card or the "View Details" button.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1428692841/887643a0a0e29d16d6c0306ed058/Screenshot+2025-03-18+at+12_41_46%E2%80%AFPM.png?expires=1763567100&signature=4a9db48de07b7683d1c038b736d7d740b7542d070ffb39fbc8cd651eb53b63f5&req=dSQlHs93n4lbWPMW1HO4zZ2ialq9s%2FXAQV%2FVL%2BehwB%2B8J4mLhwViltKq0H6w%0AWI3INX4ScHM7YnsCqSQ%3D%0A
+
+- You'll then be directed to the App details page. Click the toggle in the top right section of the page to enable Webhooks. The toggle will turn blue and the word "Active" will appear to the right when enabled.
+
+- Then enter the URL you would like to receive webhook events on when they occur in Housecall Pro and click Save.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1428702898/c4498e2abf17773e059115c21b4a/Screenshot+2025-03-18+at+12_54_10%E2%80%AFPM.png?expires=1763567100&signature=e21754184ee02c73879fb39590c078c9720efd5d44cb85b2213a051d2a078b79&req=dSQlHs5%2Bn4lWUfMW1HO4zSLTYVD7yuMp%2F4jDJHIPEURDkKAQZlWZx2WQn2gi%0AnsfjvzULa%2BTAvLC5wFQ%3D%0A
+
+- Once you add and save your webhook URL, we’ll return a signing secret and give you the ability to choose which webhook events you’d like to enable.
+
+[Image] https://downloads.intercomcdn.com/i/o/410013936/d2465e5d82259c50d2c2cfa6/step+4.png?expires=1763567100&signature=fe11c2c3c9ef0afe7cf92e98ad4f6cb6a78afeeac62afaaa3c90049e2f4db5b4&req=cCEnFsh9lIJZFb4f3HP0gJ6MgrSAvFuNXOlXhSaiFeO%2Bd5TnwA7sSlZnQeVM%0AXQqYb8us9krxaZXk8g%3D%3D%0A
+
+---

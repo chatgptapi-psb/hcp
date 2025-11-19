@@ -1,0 +1,99 @@
+Purchasing a Domain | Websites by Housecall Pro
+Source: https://help.housecallpro.com/en/articles/8007693-purchasing-a-domain-websites-by-housecall-pro
+Author: Roland Ligtenberg
+Last updated: Updated over a month ago
+
+Summary: To ensure you have full ownership and control over your website's domain, we recommend purchasing from Google Domains.
+
+Housecall Pro Blueprint to Success Workshop
+
+If you're looking for more advice on how to effectively use Websites by Housecall Pro, along with other great features, register for the Housecall Pro Blueprint to Success Workshop!
+
+[Button] Register Here -> https://docs.google.com/forms/d/e/1FAIpQLScM2b6NgGEvrjkOFAZPunvol2CoR4FIIFiVgR7DmTRqgd3gQg/viewform
+
+---
+
+---
+
+Click here to learn more about Housecall Pro's Websites add-on.
+
+Section 1: Purchasing Your Domain through Google Domains
+
+Step 1: Create a Google Domains account
+
+- Open your web browser and go to the Google Domains website: https://domains.google/.
+- Click on the "Get Started" button to create a new account.
+- Follow the prompts to set up your account by providing the required information.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/762809423/42d22ff24ea02306cd3e40b7/vKzfdm37njeHPVRwszRetjihc4ZXsdAxrMt5lA39yXVZjDhjFYbvzBOVrQp733adcV6tcQosHGgzYlq6ILgKVIlz5HS5TvTUjaSjmzkIWx2I0npdf3mvPuuN0LUPSUEtkvDzT07mD0_iE26xag7pztY?expires=1763568000&signature=da438c42bf367e1ab2b6c95278acaa11bf05b133d73a54c6a211c51732e352df&req=cyYlHsl3mYNcFb4f3HP0gJdne%2BtvRm69DGW6V7UWoqVyTiNyTIrl00CbwcEk%0AWCd2VokqzZSuQDKJGw%3D%3D%0A
+
+Step 2: Search for and select your desired domain
+
+- Once you've created your account, sign in to Google Domains.
+- Use the search bar on the homepage to enter the domain name you want (e.g., "yourdomainname.com").
+- Google Domains will display a list of available domain extensions (e.g., .com, .net, .org). Select the extension that best suits your needs.
+- If your desired domain is available, click the "Add to cart" button next to it.
+​
+
+Step 3: Fill out domain contact information
+
+- In the cart, review your domain selection and ensure it is correct.
+- Select the desired registration length (e.g., 1 year, 2 years) from the drop-down menu.
+- Fill out the domain registration contact information.
+​
+
+Step 4: Complete the purchase
+
+- After configuring your domain settings, review your cart to ensure all the details are accurate.
+- Click the "Checkout" button to proceed with the purchase.
+- Follow the on-screen instructions to provide the necessary payment information.
+- Once the payment is successfully processed, you will receive an email confirmation from Google Domains.
+
+Section 2: Emailing Your New Domain to Housecall Pro
+
+After successfully obtaining your domain through Google Domains, it's important to email your new domain to us to complete the setup process for your new website.
+
+Step 1: Compose an email
+
+- Open your preferred email client or webmail service.
+- Create a new email addressed to [email protected]
+
+Step 2: Include the necessary information
+
+- In the subject line, enter "New Google Domain: [Your Domain Name]."
+- In the body of the email, include the following details: - Your name and contact information.
+- The domain name you purchased through Google Domains.
+- Any additional instructions or specific requirements you may have.
+
+Step 3: Send the email
+
+- Double-check the email for accuracy and completeness.
+- Click the "Send" button to email your domain information to Housecall Pro.
+
+Conclusion
+
+Congratulations on successfully setting up your domain using Google Domains! By following the step-by-step instructions in this help article, you have taken an important step towards establishing your business website with Housecall Pro. If you encounter any issues or have further questions, please don't hesitate to reach out to our support team for assistance. We're here to help you succeed!
+
+Setting up a GoDaddy Domain Name for Your Website add-on
+
+Instructions for Setting Up a GoDaddy Domain
+
+To set up your new GoDaddy domain for your Websites add-on, please follow these simple steps:
+
+- Visit GoDaddy's website: Go to www.GoDaddy.com in your web browser.
+- Search for your desired domain name: Use GoDaddy's domain search tool to find an available domain name that suits your business. Enter your desired domain name in the search bar provided. [Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/769269933/bb1b49b6863bd6df8bf8e43c/d9xoXJbsO9mK2RqeU0KpQW2zVR2j5a3n1ruzfJr3X029-nFbwPdmlUszofpErWOUilciAASQGS9vf-uaaSDCkG4A99wYF_v2CEkBcJGGEFAfMgByYuCY0qPUX_QfxgSJeCdDWuamHvPL_JYh6TCTW0k?expires=1763568000&signature=ebfce967ec35e9eab55ff180e2c36fb733452627a2d7fd4b736ea851eefa9eca&req=cyYuFM93lIJcFb4f3HP0gOJXoTJqMT%2BrUI0dXx7zjAEJ2g82CSr2fBh2zXT1%0AQ2U%3D%0A
+- Select your domain: Once you find an available domain name that you like, select it and proceed to the registration process. [Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/769269940/0b4bf507022a6df6684ace50/ecCxcBKNy99Wb6ln2rn7-hmoVCtrOZgUT9z1J4qHUC1VwSLEHLWEivBzVWQf4QFM8CwJIYqU1gyRPKXS73Fq6jGfVu5GqT2fSmKF0YJy2E3JVWdMx2EO7Re5MVXAvWAoXCQUb0XUozJv96R-vGLtYHQ?expires=1763568000&signature=d9366aa903ffe5040075da25efc5f5c071a7a338812753590bc61df4d57d28dd&req=cyYuFM93lIVfFb4f3HP0gGI0%2F1Jh%2FacezMjXJHzXXpvatjOj%2B4kWmuIrIoon%0Ay00%3D%0A
+- Complete the registration process: Follow the on-screen instructions provided by GoDaddy to register your chosen domain name. You will need to provide your contact information and complete the payment process.
+​ [Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/769269950/e60aaa00153842fc9113960d/hGjbr05aSdXfCCzUIZAjMqrGxrQYAXxsdX3Yzz7eClT_IffpxkvqXZK71CLE2gYD9KLZvtXYM797-U2JgrTDVfIbJVILa8EOEK79_hVq2OODmc2NuBDqVgOwjwi9X8MLa4tT8EbNCTtkJ-iUoeNxzFc?expires=1763568000&signature=c95ed65010dd69543272465de5f94f561b6f31e9cdc6a18399f0163f6931047b&req=cyYuFM93lIRfFb4f3HP0gB%2By9y3850cxrP3j4n4K9TF%2F35gCS9jlhaRqc2bP%0Ahgk%3D%0A
+- Verify your domain ownership: After successfully registering the domain, GoDaddy may require you to verify your ownership. Follow the verification steps provided by GoDaddy to complete this process.
+- Notify Housecall Pro: Once you have registered your domain successfully, please contact your Housecall Pro Success Advisor and provide them with the new domain name. This will allow them to re-point the domain to your new website content once it is ready to be published.
+
+By following these steps and promptly notifying Housecall Pro, you will ensure a smooth transition of your new domain to your Website by Housecall Pro.
+
+Note: If you encounter any issues or require additional assistance during the domain setup process, please reach out to GoDaddy's customer support for further guidance.
+
+Related Articles
+
+- Websites add-on
+
+---

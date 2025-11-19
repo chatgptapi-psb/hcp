@@ -1,0 +1,76 @@
+Service Plan Template for Plumbing
+Source: https://help.housecallpro.com/en/articles/2463501-service-plan-template-for-plumbing
+Author: Ian H
+Last updated: Updated over a month ago
+
+Summary: Service plans are a game-changer for plumbing businesses. They help you build trust, secure recurring revenue, and maintain a consistent customer base, even during slower months.
+
+In this guide, we’ll show you how to design a tiered Service Plan for your plumbing business. We'll provide real-world examples, a “good-better-best” model, and a complimentary option to attract new customers.
+
+Jump to examples of how to structure your plan:
+
+- Tiered Membership
+- Complimentary
+
+---
+
+What Is a Plumbing Service Plan?
+
+A plumbing Service Plan, or maintenance membership, is a program that offers customers exclusive benefits in exchange for a recurring fee. These benefits might include regular maintenance, discounts, and priority service. Service Plans help customers prevent costly plumbing emergencies while giving you predictable income.
+
+Why Plumbing Pros Should Offer Service Plans
+
+- Steady Revenue: Secure recurring income with predictable monthly or annual fees.
+- Customer Retention: Build loyalty by creating an ongoing relationship with your customers.
+- Upselling Opportunities: Leverage routine checkups to recommend additional services.
+- Less Downtime: Smooth out slow seasons by scheduling regular maintenance visits.
+
+---
+
+Plumbing Membership Program
+
+Good/Better/Best Service Plans create predictable income, build customer loyalty, and reduce emergency disruptions. They offer customers cost savings, flexibility, and peace of mind while positioning your business as a professional, year-round solution.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1306542383/d8c6650290b35e692f6a9c763fc2/Screenshot+by+Dropbox+Capture.png?expires=1763568000&signature=505b88e84ccb5b04dbfe9f01c5c4a78d274bebbfe382f4310774168e9948b4f6&req=dSMnEMx6n4JXWvMW1HO4zewT0qGyvBFjV3fsrAbp5i1RyL5fjlJ2PNentjCe%0A8oJDziHB%2FTW5lPMv6qQ%3D%0A
+
+Table:
+Row 1: Total Comfort (Best) $40 per month | Complete Care Plan (Better) $30 per month | Essential Care Plan (Good) $10 per month
+Row 2: The Total Comfort Plan is the ultimate membership for customers who demand the best. This plan offers complete plumbing protection with unlimited inspections, complimentary minor repairs, and exclusive perks like loyalty rewards and annual water heater or sump pump maintenance. Experience VIP service and total peace of mind, knowing your home’s plumbing is in expert hands. | The Complete Care Plan is an excellent choice for homeowners who want more comprehensive plumbing protection. With additional inspections, waived service fees, and faster emergency response times, this plan provides peace of mind and enhanced value for proactive homeowners. | The Essential Care Plan is your affordable first step into plumbing maintenance. It’s perfect for homeowners looking to keep their plumbing system running smoothly with minimal investment. Enjoy the basics of preventative care and priority support to ensure your home stays comfortable year-round.
+Row 3: - Unlimited Plumbing Inspections (max: 5)
+- 20% Discount on repairs and additional services
+- Unlimited Priority Service (no additional fees)
+- Complimentary Minor Repairs (e.g., faucet adjustments, small leaks)
+- Annual Water Heater Flush or Sump Pump Inspection
+- Loyalty Rewards for yearly memberships (e.g., service credits, gift cards) | - 2 Annual Plumbing System Inspections (Spring & Fall)
+- 15% Discount on repairs and additional services
+- Waived Service Call Fees
+- Emergency Service Response within 24 hours | - 1 Annual Plumbing System Inspection
+- 10% Discount on repairs and additional services
+- Priority Scheduling for routine service visits
+
+---
+
+Complementary Plan
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1306548326/2ee2dc27855fa225b6b26d740948/Screenshot+by+Dropbox+Capture.png?expires=1763568000&signature=1bc1f7627689651e883da195eb8dcc61b61f9e47ed14f6279ce42e369174da9d&req=dSMnEMx6lYJdX%2FMW1HO4zRXfI0hAEgbF2R9Yv7ym62UbIYK3SEuUyCVF0by1%0AHCrQlecj0xvJNbbYjzs%3D%0A
+
+Starter Plan
+
+The Starter Plan is a free, hassle-free way to keep your plumbing in great shape. With this plan, you’ll receive a professional check-up, seasonal reminders, and access to exclusive savings—all designed to give you peace of mind and keep your home running smoothly.
+
+- One complimentary plumbing system check-up.
+- Seasonal maintenance reminders via email or text.
+- Access to exclusive member-only promotions and discounts.
+- Digital maintenance records are used to track the health of plumbing systems easily.
+
+Price: $0
+
+Duration: 1 year
+
+Visits: 1
+
+Follow these steps to set up your service plan templates in Housecall Pro.
+
+---
+
+---

@@ -1,0 +1,44 @@
+Dispatch.Me Integration Overview
+Source: https://help.housecallpro.com/en/articles/5453224-dispatch-me-integration-overview
+Author: Nate H
+Last updated: Updated over 4 months ago
+
+Summary: Learn how the integration between Housecall Pro and Dispatch.Me works
+
+How the Integration Works
+
+Dispatch allows you to receive, manage, and centralize the jobs you get from Home Warranty companies and other service providers. This makes the job easier for dispatchers and technicians while improving the overall customer experience.
+
+By connecting the integration, you will be able to see the jobs that come into Dispatch.Me on your Housecall Pro app. This way, you don't have to deal with multiple apps or emails.
+
+- The job will appear in Housecall Pro as 'Unscheduled' with the customer information, job notes/description, and a tag for Dispatch.
+
+- Once it is scheduled, started, and finished on the Housecall Pro side, this information will be reflected within Dispatch.Me.
+
+- Once you complete the job in Housecall Pro, the job will simultaneously be closed out in Dispatch.Me
+
+[Image] https://downloads.intercomcdn.com/i/o/369762080/c35befb9edad737974ce00f3/176653470_10226497892899878_1683986812889952720_n.jpeg?expires=1763567100&signature=d3e8b07ad579f56ed8fbcc353ee60fc496d9555a9f58da279e83cece7d65ad15&req=dyYuEc98nYlfFb4f3HP0gFutk8RSeNcmXFbDIsrGg1ro%2FyH60gB916mp%2BQ7N%0Agt4f3dMf0l9VZMwGGA%3D%3D%0A
+
+---
+
+Connecting Housecall Pro with Dispatch.me
+
+You can now easily receive and manage the jobs you get from Home Warranties and other service providers through Dispatch in Housecall Pro.
+
+To connect the integration:
+
+- Make sure you already have an account with Dispatch and Housecall Pro.
+
+- Chat with Support via the Blue Chat Bubble in your Housecall Pro account to get started with the integration.
+
+- Once you enable the app and accept the terms, your app will move into processing.
+
+- At this point, Dispatch will be matching your Housecall profile with your Dispatch account to ensure you are linked up correctly.
+
+- Once you are linked up and ready to go, you will receive an email from Dispatch letting you know you are ready to go.
+
+[Image] https://downloads.intercomcdn.com/i/o/253886493/956623c76b8bad729582d708/image.png?expires=1763567100&signature=623827a1cff021b4fa81be42c64b1aa10343060ff512aaa5134e55f07a122b77&req=diUkHsF4mYhcFb4f3HP0gA0esnkXY3tC4ZWDsvb8ytHuBAHDaIcoKn5S%2BemK%0AG7lqlM4c%2FgRceSMMqw%3D%3D%0A
+
+[Button] Dispatch App Page -> https://pro.housecallpro.com/pro/apps/details/dispatch
+
+---

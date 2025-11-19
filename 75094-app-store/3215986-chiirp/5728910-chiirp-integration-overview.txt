@@ -1,0 +1,46 @@
+Chiirp Integration Overview
+Source: https://help.housecallpro.com/en/articles/5728910-chiirp-integration-overview
+Author: Ian H
+Last updated: Updated over 2 months ago
+
+Summary: Learn how the integration between Housecall Pro and Chiirp works.
+
+How the integration works
+
+Chiirp is a communication automation software. Communicate more effectively with your leads and customers using SMS, email, and Ringless Voicemail.
+
+Chiirp focuses on creating the ability to blend automation and actual human interaction to create quality customer communication at scale.
+
+When an event is triggered in Housecall Pro, this automates follow-up communication from Chiirp's side. You can choose which customized campaigns to use for each Housecall Pro event.
+
+---
+
+Follow these steps to build and assign campaigns to Housecall endpoints.
+
+- Navigate to the Campaign Builder tab in Chiirp to create and edit campaigns. [Image] https://downloads.intercomcdn.com/i/o/418193861/10029b496eead40134357eb8/step+1.png?expires=1763567100&signature=519800f992c73aba5def0e8efc837bc23fa20742b3c4afeef75454561116fd53&req=cCEvF8B9lYdeFb4f3HP0gNtQqGoOYTNhMEHEN39hf1Bjil%2F%2ByiJuOg42THD%2B%0A6qQ%3D%0A
+- Once you've created your automated campaigns, click on the Integrations tab, then click on Housecall Pro. You will then click the tab labeled Events. [Image] https://downloads.intercomcdn.com/i/o/418193937/9ab84bd8d9f70e7917d54684/step+2.png?expires=1763567100&signature=d13c251b9b3f041c73f36c3732b5cf4635cbe7a13aa3069ffe39855c3eea2d60&req=cCEvF8B9lIJYFb4f3HP0gLCN13drAl34tjCIdJJkOk9%2Bk1Z2QusZX4Den0zG%0A0nQ%3D%0A
+- Click on each Housecall Pro Event to apply a campaign to it. [Image] https://downloads.intercomcdn.com/i/o/418193981/a31a82a9d986b66ae0ffe49a/step+3.png?expires=1763567100&signature=3c4d7e061b3fe9f101f981093d73e833300d17e0e103425cf401ab529b31a208&req=cCEvF8B9lIleFb4f3HP0gEx1uiBhq%2BBXqxTHhAHcMh0padPwqUGTxPFKdEkH%0ASuE%3D%0A
+
+*IMPORTANT: Make sure to turn off customer notifications in Housecall Pro, so that the customer does not receive duplicate notifications.
+
+---
+
+Connecting Housecall Pro and Chiirp
+
+How to connect Housecall Pro to Chiirp and what the integration does.
+
+Chiirp is a communication automation software. Communicate more effectively with leads and customers using SMS, email, and Ringless Voicemail.
+
+To connect the integration
+
+- Log into Chiirp
+- Click on Integrations, then click on Housecall Pro [Image] https://downloads.intercomcdn.com/i/o/418203353/fbd4053957291dad5fad4b35/step+1.png?expires=1763567100&signature=662f37dfc60a65bac1634e711e791da373683a007e013f8fe36f1a3aff70d6d8&req=cCEvFMl9noRcFb4f3HP0gA0f4kNTfqY0jbEYVpVsQiwCAbPPoAXayPI1OJ2f%0A%2B30%3D%0A
+- Click Not Connected [Image] https://downloads.intercomcdn.com/i/o/418203443/131aa5565a6bb997797bd319/step+2.png?expires=1763567100&signature=25bea8af4da47117f0d9f329089de8f5bc7ff664a038067ca24aa9c135d33563&req=cCEvFMl9mYVcFb4f3HP0gHchkOeZx%2BpLWAl41ZWWwMphyEZNRUsgdGSTxMsD%0A%2B2M%3D%0A
+- You will be prompted to log into Housecall Pro to connect the integration [Image] https://downloads.intercomcdn.com/i/o/418203492/090973169e5b897a5a305455/step+3.png?expires=1763567100&signature=8dee89382d5627d1ef890aaaae570ed0b17aae8c39c4746550b4f3a61cc75a69&req=cCEvFMl9mYhdFb4f3HP0gI3VCS0khQt02ctYK8OimUeYmJsTXCfcKlWdJNOT%0AxjI%3D%0A
+- Once the integration is connected, you will see a green check mark [Image] https://downloads.intercomcdn.com/i/o/418203693/9e2f448a39dce50197e9792d/step+4.png?expires=1763567100&signature=b29ef1c01f82f82ead20010702b42c38c0459bbc5acac9917c5091d34fb01f11&req=cCEvFMl9m4hcFb4f3HP0gMfC6FNQW%2FAszWbL1wv5TmsiwPqSKdncRChSNob1%0AUag%3D%0A
+
+From here, you can assign campaigns to Housecall events/endpoints using the Events tab.
+
+*IMPORTANT: Adjust your automated SMS messages in HCP so that the customer is not getting multiple messages.
+
+---

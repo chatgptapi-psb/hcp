@@ -1,0 +1,26 @@
+Finding Account and Routing Numbers
+Source: https://help.housecallpro.com/en/articles/2959357-finding-account-and-routing-numbers
+Author: Nate H
+Last updated: Updated over 5 months ago
+
+Summary: Know where your account and routing numbers can be found when manually connecting you bank account for payments in Housecall Pro.
+
+Where to Find Your Account and Routing Numbers
+
+There are a couple of places you can find your account and routing numbers:
+
+- Your Bank's Online Banking Portal
+​ - You should be able to find your account and routing number by logging into your online banking account (that you should have set up through your bank).
+​ 
+- If you're having trouble locating it within your bank's online portal, try searching "routing number" in the search bar within the portal.
+
+- Checks
+​ - If you have a checkbook, you can find your account and routing numbers at the bottom of a check.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1229171047/437069bc0217a5ad753620b9bc01/Account-Number-on-Check.gif?expires=1763568000&signature=bc55045b6a6861f41bf9d2777329898d99efc9b0f15b72bc5e8bcd933d49ad7a&req=dSIlH8h5nIFbXvMW1HO4zVOFgmFf52Mv3Qz2v6jwVYtuvxJuKaxW2gzxWfL4%0AtHcd%2BpF4lsIue%2BdH1sA%3D%0A
+
+---
+
+Learn how Instapay can typically have your card or bank (ACH) payment in hand in less than 30 minutes.
+
+---

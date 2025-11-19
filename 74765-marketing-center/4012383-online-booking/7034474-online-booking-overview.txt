@@ -1,0 +1,219 @@
+Online Booking Overview
+Source: https://help.housecallpro.com/en/articles/7034474-online-booking-overview
+Author: Kasia S
+Last updated: Updated over 2 weeks ago
+
+Summary: Learn how to set up Online Booking.
+
+Housecall Pro Blueprint to Success Workshop
+
+If you're looking for more advice on how to effectively use Online Booking, along with other great features, register for the Housecall Pro Blueprint to Success Workshop!
+
+[Button] Register Here -> https://docs.google.com/forms/d/e/1FAIpQLScM2b6NgGEvrjkOFAZPunvol2CoR4FIIFiVgR7DmTRqgd3gQg/viewform?usp=pp_url&entry.1047718727=HCP+Help+Article
+
+---
+
+---
+
+What is Online Booking?
+
+Online Booking lets customers book and pay online directly from Google, your website, or a direct link anywhere, helping your business grow 24/7.
+
+Setting up Online Booking for the first time is located in the Marketing Center, making it easy to reach more customers, book more jobs, and build your reputation—all in one place.
+
+Once you've set up your Online Booking, you can view jobs and estimates that your customers have booked online by clicking the Marketing tab in the top navigation bar of your Housecall Pro account and selecting Online Booking from the menu on the left.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1549186002/db0043152d89389e15d352493755/AD_4nXefM1FlGkniF7jkQ2yFHh2t2SBO8arOQ1ZtyYFgY3tWt02XjuIfevx5aVAu0ZofmvZsVY21M1pT5tLLAJF96c3odldwlUj1Kx1YM8SKtMDtP40A_3GsTvwYo1VJjxhcAVOZdhTzSA?expires=1763568000&signature=0de1197ba9cb2dd8f10fc13c766443a9b0d15119f0e49107850a28b0693d818a&req=dSUjH8h2m4FfW%2FMW1HO4zcH0NuLaU2eRyRUCcdnnLJjEXati50EXwrQojbvK%0AfVD0x%2FtfD0iR99ywNfE%3D%0A
+
+---
+
+Online Booking Settings
+
+After setting up Online Booking in the Marketing Center, you can adjust your settings anytime by heading to Booking under your account settings.
+
+To get to your online booking settings, follow these steps:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Booking from the Settings menu on the left.
+
+- In your Booking settings page, click any of the following tabs: General, Services & Pricing, Online Booking, Reserve with Google, or Lead form.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643931476/7526659d70fdb084d894fa2ab22b/image.png?expires=1763568000&signature=93f49cba160909c9cb3d56423ff1f8a4a03ac8b824368bf1319059d259c3aed0&req=dSYjFcB9nIVYX%2FMW1HO4zXHO%2F9q8HQvo%2BOVOw1wb%2BpZnYnHHRC%2FscOz6%2FMBp%0AZZ9M8iW3uZ4uF8JFqzQ%3D%0A
+
+The Booking Settings section allows you to edit everything in your online booking form, including:
+
+- Available services → Rearrange, enable, or disable your services and categories on your booking page or edit service settings.
+
+- Available pricing forms → Set dynamic pricing based on the size of the home, property, or other variables.
+
+- Booking settings → Choose which days and times you want to be available for online booking.
+
+- Available employees → Manage your employee availability for online booking.
+
+- Payment options → Show and hide prices from your online booking page, enable payments, and charge deposits.
+
+- Service area → Add zip codes to your service area.
+
+- Preview → See how your online booking page will look to your customers.
+
+- Booking page → Share your booking page via a link or embedding code.
+
+- Google → Connect your online booking page to your Google Business Profile by enabling Reserve with Google.
+
+---
+
+Available Services
+
+The Available Services page lists all the services from your Price Book that are enabled for Online Booking. By using the pencil icon on the right-hand side, you can edit the settings for a particular service, rearrange the order of services by clicking and dragging the two lines, or manage all services in your Price Book in the right-hand corner, as well as changing the order of your pricing forms.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643936523/d1f962d624bd342f865c0b7d5d9d/image.png?expires=1763568000&signature=f31188b343b48fca641002498d94c49c25e51b7ebb277c2946c823df164424b0&req=dSYjFcB9m4RdWvMW1HO4zfU3wmnlqYjdaQiGVz1VZ1ysktJikTZLC0ZPCT82%0AqQeXgiFt4GXUi%2FH2JTI%3D%0A
+
+---
+
+Available Pricing Forms
+
+The Available pricing forms page lists all the pricing forms from your Price Book that are enabled for Online Booking. By using the pencil icon on the right-hand side, you can edit the pricing form directly or manage all pricing forms in your Price Book in the right-hand corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643938597/0a19695e842bc2062501b22069b3/image.png?expires=1763568000&signature=90695cb8dc66187fb74cf27577d3b56587171cf104af4a124bc10dc9bf74a241&req=dSYjFcB9lYRWXvMW1HO4zZKomWwjXN4CqPtuT908qGXQB2PTCIhqsuuW%2FnI%2F%0Aoqn4BQR1vO4vZsu8b9s%3D%0A
+
+---
+
+Booking Settings
+
+The Booking settings page allows you to prevent duplicating customers with matching contact information, set your preferred booking method, and manage your availability. Configure your settings to offer flexible scheduling, set specific service start times, or choose manual booking.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643940107/c90489ccfd8ae75f91b7a3de3a2c/image.png?expires=1763568000&signature=aca10964922da21cf66793100cca33c724b02c4b4f35c8986ede7b1c9601f65b&req=dSYjFcB6nYBfXvMW1HO4zRCjwUpsxDmFbsmRUwRY0jx4I9Yw7KuhusiokN5E%0A%2Fqhv2ZkoYJvrrUrmPLA%3D%0A
+
+Existing Customers
+
+- Toggle ON when you want to stop duplicating customers with the same contact details. If a customer has the same contact details as an existing customer, we will connect them to your Customer's profile.
+
+Booking Preferences
+
+Choose between three different settings for when a customer can book you:
+
+- Flexible Scheduling: Use this option if you want to enable your customers to pick the date and time of booking. Flexible scheduling allows customers to pick from a range of different time slots, set by the start time and end time of available booking hours.
+
+- Set a specific start time: Defining fixed start times for your services will allow customers to make bookings during the exact date(s) and time(s) you make available. Use this configuration if you only want to offer booking times at specific, exact start times.
+
+- Manual booking: To avoid allowing customers to choose a date and time, select the "Manual" setting instead. This option requires customers to only pick the service, enter their contact information, and confirm the booking during checkout. It will generate an unscheduled job or estimate in your system that you can then use to contact the customer and handle scheduling.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1549186004/6b5977c120ced291da03c89cc28d/AD_4nXdl1pE6PnLnTa02z600kD3Es-Z7xfyslldO2S_kTJWs73sq1RQF3J-sJOEi7Jv30gz22NV6cLXH7LTXiHUOQIzgF1ZJdv_SqIfJqk-iKBKL5ydjXKw5HNqheB8eHVNrUCgEx3RHAw?expires=1763568000&signature=5a4145e05af31d1fb7c08b84774c2b93705a5604141f709aafa6a7b0a17871e1&req=dSUjH8h2m4FfXfMW1HO4zdXOd5gXHBxCoM1tAoPJd5fKzHxecfzKryBxB8Gd%0AzdHYTsxA%2Fn6sIQqOvw4%3D%0A
+
+Scheduling Type
+
+The Scheduling Type setting lets you define how the Jobs and Estimates booked online will be scheduled.
+
+- Manual: When scheduling is set to Manual, all the Jobs and Estimates booked online will be placed in the schedule of the employee marked as the Point of Contact. Those bookings will have to be dispatched manually to the right technician. This setting is optimal if you have a large number of technicians and complex scheduling rules.
+
+- Auto-scheduling: If you set the Scheduling to Auto-scheduling, the Jobs and Estimates booked online will be placed directly in your employees' schedules. To ensure that the right employee gets the right booking, you'll need to assign employees to the services.
+
+Select Your Booking Hours → The Booking Hours setting allows you to add your booking availability for each day.
+
+- Use checkboxes to select and deselect days on which you want to accept bookings. You can add one or multiple time slots per day.
+
+Set Your Arrival Window → If you want to inform your customers that you will not arrive at an exact time (e.g. at 10 am), but instead you will arrive in a given window of time (e.g. 10 am to 12 am), use the Arrival Window option.
+
+- Editing the Arrival window here will also change the default arrival window for all Jobs and Estimates that you schedule, even outside online booking.
+
+- The arrival window affects the booking options available for your customer in the booking flow.
+
+Table:
+Row 1: 3-hour arrival window | Arrival Window set to: None
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1554178966/ffa644cc012bc7fcbc8ed7fcfceb/AD_4nXez2nse0QkEtdCbAlmg0-5UxDiPXfY2vCSWK-Ybf3egQ73hBaKM0ChR6J7XeH2JnxIg2lsR5JJJfRTn-lw6rwAnk2l9aM9UfS972rX9QRR0EA30mBsMwAMZYubVECPLEw4cDoTIlg?expires=1763568000&signature=8cdb341c914cac89481131bc4b4168ad50f057b07a416ed56844b2b58311bbc7&req=dSUiEsh5lYhZX%2FMW1HO4zR1vxp3J5UC8hriqv4IFNIeU0adxbRogtxodHq%2F%2F%0AmR5V%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1554179674/d8d7477a4e75880e7be6e54f98dc/AD_4nXeOHhEliU0hlMKxYHJUpWTtDSlbUCGXhyCZHEJjT2dlDmsbiQ-HPyKl5ZQKddz5XftEWP5iD9LuQchfrQqfkK_1o4Ynkl-3Yyd5W4qmTTzWjE_z9GMbK864h3cLTLcC2d0MRjwpmQ?expires=1763568000&signature=ea479b82b1b7996c533152cc523ea5af2c2a7b30fbd59f63254f91c6defb0253&req=dSUiEsh5lIdYXfMW1HO4zbmq4m7hZcMXO%2FA4HoC5vMz4tRL0d9ow%2BImS%2Bwyp%0A%2BEgp%0A
+
+- The Arrival Window also affects what is displayed in the notification sent to your customers once they make a booking.
+
+Earliest Availability → Earliest Availability allows you to set how soon from today you want to allow for online bookings.
+
+- You can set it to as early as "Same day" booking, and other options are 1day, 2 days, 3 days, and 1 week out.
+
+---
+
+Available Employees
+
+You can select which employees are available for Online Booking. If you select an employee as available for booking here, it means that the Online Booking scheduler will take into consideration the availability and schedule of this employee when presenting free time slots for the homeowner.
+
+To set available employees for Online Booking:
+
+- Use the toggle under the Available for booking column next to each employee’s name to enable or disable their availability.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643944286/2813368fd5efbe0a0fef9c7cc78b/image.png?expires=1763568000&signature=7f13491a5274274581d0a1bdd6e253d868481f5ff37c2be249d08a96d193b6a0&req=dSYjFcB6mYNXX%2FMW1HO4zUMVFqLs0SDvKZathlHfbQ3A7Q0hzIO6L5WSWB2M%0A3%2FijVP1dlTyRLjgv8nc%3D%0A
+
+---
+
+Payment Options
+
+Enabling payments in your booking flow allows you to collect deposits or full upfront payments when a customer books a job.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643945809/10554daee947778dd1a2d6b359f5/image.png?expires=1763568000&signature=2326fae09de3b3cbf1de597c724c0db5d8147a442dd0bc304f0a10fa3d1bc943&req=dSYjFcB6mIlfUPMW1HO4zfhcNg5m%2F%2F%2FoK84vXtFw%2BV4dHUOqtUwvIvX4SSl%2B%0A8CKWmIgPh%2B9o%2BSxa2BU%3D%0A
+
+---
+
+Service Areas
+
+If you toggle on the Service area settings, it will add one more step to your Online Booking form.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643947807/01c028f51128177c77291b84bfb7/image.png?expires=1763568000&signature=75a5ad49dadfaab0d63f0f2ddfdcf2151cce9e465ad4a2b55ca976524a8ee9b2&req=dSYjFcB6molfXvMW1HO4zYmqfqiPu3UYrMc4xgHRmF%2ByR2IZJbN%2BqVAHN4Tl%0AU56ZZpsr5aFM0PAMRwQ%3D%0A
+
+---
+
+Preview Your Online Booking Page
+
+The Preview section allows you to see exactly what your customers will see when clicking your online booking link.
+
+- In the Preview section, click on the Book online button to open the homeowner flow.
+
+- Everything that you have set up so far in the online booking will be reflected in this flow (Services and their descriptions, Pricing forms, etc.)
+
+- This is the exact flow that will open on your actual website; therefore, if you complete it and confirm the booking, a job will be created in your HCP account.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643949608/ebf562bab7c574fdda7fce5409a1/image.png?expires=1763568000&signature=86108544759b08084bdbcdfd1f87addf11f02b45edf1ad5d2e7d71e21597cdd7&req=dSYjFcB6lIdfUfMW1HO4zU20fyQFokMwob2ZjuUYE3CuD339Gp%2B5iqimvj9d%0ABQDR9l%2Fm3k0DtFKraH8%3D%0A
+
+---
+
+Share Your Booking Page
+
+Once you have your Online Booking page all set up, you can share it in a few different ways.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643951613/afe746233fce2f5343c22be6607d/image.png?expires=1763568000&signature=ac250ac45c01cdc7789ee3cd5c308433f83f53e08d583ee3a27c13f251e215b2&req=dSYjFcB7nIdeWvMW1HO4zWNSDzrW09wa7c6RQ0Mzz%2F%2FoqvTcL5CYxfaCJsrt%0ATAkjfEUAh87IJTDPNvA%3D%0A
+
+- Booking Button → You can copy and embed the code to be placed on your website. Simply copy this code and send it to your webmaster or the company that runs your website. This code will place a "Book online" button on your website, which will open the online booking flow on top of your website in a modal window.
+
+- Booking page link → If you want to link to your online booking page directly (e.g., from your Facebook or Instagram page, or your email footnote), use the second button, Copy link. This is a link to the same online booking flow, but hosted on the HCP website's address.
+
+- Tracking Attributes → Unlock deeper insights into the source of your Online Bookings by adding tracking attributes to your booking links. This allows you to see which marketing channels - social media profiles, emails, website, etc. - are generating bookings so you can optimize your marketing strategy accordingly. Once you use an online booking link with the attribute, the job or estimate resulting from that link will be tagged with the applicable tag.
+
+Booking Redirect → The booking redirect feature allows you to redirect your customers to a custom link. Once the customer books successfully, the booking flow will immediately redirect them to that link.
+
+- The redirect link: - Must use https protocol (transmits all data in an encrypted form).
+- Is the domain of your company's website listed in the Profile section of your account settings. This means that all pages within that domain (for example, https://www.poundshvac.com/thank-you) will be accepted as a redirect link.
+
+- The redirect feature also allows you to redirect to the following domains: google.com, facebook.com, fb.com, housecallpro.com, instagram.com, pinterest.com, tiktok.com, wix.com, and youtube.com.
+
+---
+
+Google Settings
+
+You can integrate with your Google Business Profile so that you can capture the customers who come across your company when searching for Pros online. This feature will embed your Online Booking form in your Google Business Profile.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643952723/b08feffde76ce233519dd702792e/image.png?expires=1763568000&signature=9a382554ddfb1a881f24e086823c21cdd2064048691997d4fb9faafb28e36250&req=dSYjFcB7n4ZdWvMW1HO4zUn8pg8v1muqGCUhVBuhW4n0xK9Nqn7pQTG1ymRt%0A6Y8mUYqt5WNv8VDLoSg%3D%0A
+
+---
+
+Online Booking Notifications
+
+Once your customer confirms a booking using the Online Booking tool, you will receive a text message notification on your phone, as well as an email. Your customer will also get a text and email notification with confirmation of the appointment details.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1549230489/d23fe3b2ce7fe15b6dcbaaf419f6/AD_4nXdqPYhRE2098xKILFX88bveuhRGj78dVz9GE6OQBvCvCKjhqwp70Eirqemu4gN-9PM5vLCd_WGgNNEAG80O6cF7L7k_3ILfYgjp380D3JPgK9kmWCxwJkkwGQM7Ce1SGnF9_g4V?expires=1763568000&signature=f429acf7118ba452b154ca62627d8d39e10b68000be0ca4dc20c2524c3cee410&req=dSUjH8t9nYVXUPMW1HO4zUp5FJaz5O6Mh%2BzChsbqrVzbtrKr5m05sXSSWpj3%0Aq9nG26dEQQ5UK4w4ZdI%3D%0A
+
+---
+
+Need more jobs to grow your business?
+
+Check out Business Coaching by Housecall Pro to learn how certified coaches can teach you the Business Coaching playbook to drive your business growth.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1405413871/b7c435eb7fb5364692788491978f/Business+Coaching+by+Housecall+Pro+%28Article+Footer%29.jpg?expires=1763568000&signature=2ea5348a51cfa2a84d6b9e1d2a289e78e0e2b2ef5c9420bec4956ca88903db54&req=dSQnE81%2FnolYWPMW1HO4zTEaXITIHxLiiHI756VjPtTZseSE3IhFjhZ0%2FuZD%0ARHtG2YcbsNp45tlYpdc%3D%0A
+
+---

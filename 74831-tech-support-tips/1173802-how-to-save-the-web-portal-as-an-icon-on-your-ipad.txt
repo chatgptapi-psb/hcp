@@ -1,0 +1,30 @@
+How to save the web portal as an icon on your iPad
+Source: https://help.housecallpro.com/en/articles/1173802-how-to-save-the-web-portal-as-an-icon-on-your-ipad
+Author: Jil O.
+Last updated: Updated over a month ago
+
+Save the web portal as an icon on iPad
+
+[Video - youtube] https://www.youtube.com/watch?v=_d3Z31qiSwk
+
+To save the web portal as an icon on your iPad, follow these steps:
+
+- Open your web browser and sign into your HCP account
+- Click the folder icon to the left of the '+' button at the top right of the page
+- Click the '+' button titled 'Add to Home Screen'
+- Click 'Add'
+- A new icon will be created on the home screen to access while in the field.
+
+A few notes:
+
+- This is for use by Admins right now. The employee permissions are not yet fully implemented.
+- This is NOT an app that you download through the app store. It is our web portal working great on your tablet.
+- Use the Safari browser to add the icon to your home screen. The web portal works on other browsers, but they don't have the 'add icon' feature.
+- Watch the vid above to see how.
+- Whatever page you are on when you 'Add to your Homescreen' will be the page the app opens to. So we recommend the Dashboard or Schedule page.
+
+Check out 8 shifts in home service business trends that may be affecting your business.
+
+---
+
+---

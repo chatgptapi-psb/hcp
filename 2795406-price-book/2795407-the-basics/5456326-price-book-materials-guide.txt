@@ -1,0 +1,404 @@
+Price Book: Materials Guide
+Source: https://help.housecallpro.com/en/articles/5456326-price-book-materials-guide
+Author: Layla K
+Last updated: Updated over a month ago
+
+Summary: Understand how to use the materials section of your price book for flat rate pricing and other needs.
+
+Getting Started with Your Materials Price Book
+
+Effectively managing your Price Book is crucial for maintaining a well-organized and efficient business. By keeping your materials and categories up-to-date and accurately priced, you streamline the process of generating invoices and estimates. This not only helps reduce errors and save time but also ensures you provide clear and precise quotes to your customers. A well-maintained Price Book supports smoother daily operations and enhances your ability to adapt quickly to changes in your materials or pricing.
+
+Setting up materials is a critical first step for implementing flat-rate pricing. However, even if you're not using flat rate pricing, having your materials well-organized is beneficial for easily adding them to jobs, invoices, and estimates.
+
+This article will guide you through manually adding and managing materials and categories. For instructions on importing data, please refer to our articles on importing materials using a file or CSV.
+
+---
+
+---
+
+Price Book Material Categories & Sub-Categories
+
+---
+
+Add a Material Category to your Price Book
+
+To add materials to your Price book, you first need to create a category.
+
+- Go to the Price book tab in the top navigation bar of your Housecall Pro account. - If you have a lot of features in the top navigation bar, your Price Book may be nested under the More drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/876682846/566d222766cb53b675613f0a/Screenshot+2023-11-06+at+3.43.09+PM.png?expires=1763568000&signature=e5e4982480c6c3382982426c2b7dfdfe4a47877cd87c791ce7b637623744af3d&req=fCchEMF8lYVZFb4f3HP0gBxxQH%2BwFl%2BgfmJxK2dzMK8Wg0DES9EDF8LkaMv1%0ACvjSz3Zlqp7BqvW%2F7g%3D%3D%0A
+
+- Next, select Price Book from the options on the left-hand side of the settings menu.
+
+- Once you have navigated to your price book, ensure that Materials is selected from the left-hand menu, located directly beneath the Price Book heading.
+
+- If you opt to build your materials from the ground up, select the Start from Scratch option to get started.
+
+[Image] https://downloads.intercomcdn.com/i/o/1064678585/5544c82e781446ff6e94475c/IMAGE+4.png?expires=1763568000&signature=67b93a5087b1452d38114c33efc3a2b4056242554c5fa6de27c77377a6ec9395&req=dSAhEs95lYRXXPMW1HO4zUvbM9sS6e4YV2RdX8o4Vr0Ty%2F1XG6VDDBZzfRVW%0Ah0fziN9xyoLYQW1k3z0%3D%0A
+
+- Once you select Start from Scratch, a new page will appear displaying, "Let's get started with materials."
+
+- Click the Add Category button to begin adding your first category.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136728754/ddcc5fa6c66381bcb7aded6a/image.png?expires=1763568000&signature=497b3253eec5e7d1f34d6ac78e2a1c267a8cca04887c7d408b18ebcab2a5dbe5&req=dSEkEM58lYZaXfMW1HO4zbgfNPNqUGhWYewe3uIptsf%2F5%2FSLEsg3cZjADBet%0AS5n%2FE%2FFT6LptCUlbOms%3D%0A
+
+- If you have previously added categories, you can create additional categories by clicking Add Category in the upper right-hand corner of the Materials page.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136871192/888f5b48f70594f75cba67fb/Screenshot+2024-08-06+at+2_23_48%E2%80%AFPM.png?expires=1763568000&signature=c6ce66a861b72bc60e34efcddc05f6d27099cdab7c2d1e7db220de58721e2943&req=dSEkEMF5nIBWW%2FMW1HO4zQ21QUecKZJwvK5%2BthUYJlxykn3pTSjgU48T2xZX%0AyQIJ%2FqZ4MAWD7ReK66A%3D%0A
+
+- A pop-up window will appear, allowing you to enter the category name.
+
+- You can also add an image to represent the category. If you prefer, you can add an image later.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136733860/89f35d4fb31daf89e1d9f844/image.png?expires=1763568000&signature=8b3ddda4c0598715861c3f5f63c39c9873e68fba14eb6877a69ce21ece43b5c3&req=dSEkEM59nolZWfMW1HO4zYyNzVqtbBGxJVkVJH7QjTeWzwZFHRbV3ssZ%2BdFl%0AdWQUx%2FPMvAfEGl6Jztw%3D%0A
+
+- If you choose to add an image now, click Add Image in the center of the pop-up window.
+
+- Select the file from your device and then click Open.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136733461/51afbd66f614044a7101a9c7/image.png?expires=1763568000&signature=b0fb9c8aeb96ec6bfa15f319b28808047e7d41db987f367dc9be210ad233b39e&req=dSEkEM59noVZWPMW1HO4zXi6UY2SGpxpTkNcCTQZyMjWWwTpGzjRp56XyQKC%0ARiij3y96X%2FamWwchJog%3D%0A
+
+- You will then have the option to crop the image.
+
+- Adjust the image by resizing the blue box and/or using the + or - magnify icons to zoom in or out until the image looks the way you want it for that category.
+
+- To adjust the image orientation, use the left or right orientation icons to rotate the image as needed until it is positioned correctly.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136752281/a7979f8ab9e4f357a617c827/Screenshot+2024-08-06+at+12_37_55%E2%80%AFPM.png?expires=1763568000&signature=5bdb610be8710218816f11c39111f60754d790024433901e0a841a3ea31116a1&req=dSEkEM57n4NXWPMW1HO4zS1pt2mYUy8Lc07BMdmRFoDGbgSO1jR%2FxBD4TsJ3%0ApWAZrzDbwp7fCvuNfN8%3D%0A
+
+- Once the category name is entered and, if applicable, the image is uploaded, click Save in the lower right corner of the pop-up window.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136756183/0aa60111aeed49f492ee43f5/image.png?expires=1763568000&signature=a3d0b27a06488c200e240d3e6d866d1eb8c3b5876e38f2935304d298971f858d&req=dSEkEM57m4BXWvMW1HO4zUY6hhvJ%2BpnRNmozZz7lvVMrCmImXTxKjyuZoIyJ%0At%2BAwCSIlMTWsSlJl3P0%3D%0A
+
+---
+
+Add a Material Sub-Category
+
+Sub-categories help you organize materials more effectively by allowing for better management and clearer differentiation. For example, you might create sub-categories such as "Electrical Supplies" and "Plumbing Parts" to classify materials based on their use or type, making it easier to manage and track different materials within your Price Book.
+
+Keep in mind that once you add a material to a category, you will no longer be able to add sub-categories to that category. To maintain better organization and structure, consider adding subcategories before you add any materials.
+
+To add a material sub-category to your Price book:
+
+- Go to the Price book tab in the top navigation bar of your Housecall Pro account. - If you have a lot of features in the top navigation bar, your Price Book may be nested under the More drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/876682846/566d222766cb53b675613f0a/Screenshot+2023-11-06+at+3.43.09+PM.png?expires=1763568000&signature=e5e4982480c6c3382982426c2b7dfdfe4a47877cd87c791ce7b637623744af3d&req=fCchEMF8lYVZFb4f3HP0gBxxQH%2BwFl%2BgfmJxK2dzMK8Wg0DES9EDF8LkaMv1%0ACvjSz3Zlqp7BqvW%2F7g%3D%3D%0A
+
+- Once you have navigated to your price book, ensure that Materials is selected from the left-hand menu, located directly beneath the Price Book heading.
+
+- Next, click on the category where you’d like to add a new sub-category.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136782057/48d8f1e608666ae44c189b64/Screenshot+2024-08-06+at+1_05_15%E2%80%AFPM.png?expires=1763568000&signature=37bebaf56ba385755e9e700166cc30f13f519865d80d1d44ff1dab9650a4f5a2&req=dSEkEM52n4FaXvMW1HO4zeqUGs87VyxGKkWRCknnUzFtkK5rYEkRikDHdVl0%0AMwcVhb2bSk6w7MpWd%2Fw%3D%0A
+
+- If there are no materials listed under that category, you will see options to either Add Item or Add Category.
+
+- To create a new sub-category, click Add Subcategory.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136788111/389b44d1505749730a90e515/Screenshot+2024-08-06+at+1_09_39%E2%80%AFPM.png?expires=1763568000&signature=6b57cf6bc3087eb7b6fc5c47e5e34e0cc2f2187ea1f81fec3d2b8b031526c32a&req=dSEkEM52lYBeWPMW1HO4zX3CrpeFnbZif1G8bVmdScCTOHxlHyEyJoXtblg2%0Ai0zQDof55mD84GEm%2F4M%3D%0A
+
+- A pop-up window will appear with a field for the sub-category's name.
+
+- Enter the name of your sub-category.
+
+- You can also add an image to represent the sub-category. If you prefer, you can add an image later.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136794327/1267324efbd47213aca2844e/image.png?expires=1763568000&signature=dbb8ba6eb3129077cba14c0bb529682928322536d87f2b38a4d2a6a8a6a2f89f&req=dSEkEM53mYJdXvMW1HO4zUSrbkUy8jtmJWlzBXLvqel5jKoZdXlTy8pDgleQ%0ALqTaX9TcNG1I0LyJ%2BBE%3D%0A
+
+- If you choose to add an image now, click Add Image in the center of the pop-up window.
+
+- Select the file from your device and then click Open.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136796263/58782b44853dcadf200551a1/image.png?expires=1763568000&signature=a95accd1a50479abdb7e5c5407d0aa0538a24fbaf4f9b7f1f7f7943ef55e4ada&req=dSEkEM53m4NZWvMW1HO4zRYiPCa2fArZVVuxKIOmOj3U9OlHgFX2HvVgWPJR%0ABWhO49PYvdxyUJnuOTk%3D%0A
+
+- You will then have the option to crop the image.
+
+- Adjust the image by resizing the blue box and/or using the + or - magnify icons to zoom in or out until the image looks the way you want it for that category.
+
+- Click Save to apply your changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136798424/051510aeeb1f9ca6f09991d2/Screenshot+2024-08-06+at+1_18_28%E2%80%AFPM.png?expires=1763568000&signature=441ab6144f23f7041c0d756052db3bef9b2614649fdeeffdd34f669063357ee2&req=dSEkEM53lYVdXfMW1HO4zRSEWlENjU32XQ3Y29JvhvYZy4jp1vxZOeGeB921%0ABetfSaXaUm2kS5a%2BEHU%3D%0A
+
+- Once the sub-category name is entered and, if applicable, the image is uploaded, click Save in the lower right corner of the pop-up window.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136798813/b104fea8f2236475e0ab238f/image.png?expires=1763568000&signature=8df89b0e5d85fbc1613adefd59d0043b98bdc7c92b244b6a204959df4ae7b856&req=dSEkEM53lYleWvMW1HO4zSh9ZgAKmsVotD1DUu1V5StlauRrxifBGkbgDp8%2F%0AeotyGWX63RWI6idntaM%3D%0A
+
+---
+
+Edit a Material Category/Sub-Category
+
+To edit a material category or sub-category in your Price Book:
+
+- Go to the Price book tab in the top navigation bar of your Housecall Pro account. - If you have a lot of features in the top navigation bar, your Price Book may be nested under the More drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/876682846/566d222766cb53b675613f0a/Screenshot+2023-11-06+at+3.43.09+PM.png?expires=1763568000&signature=e5e4982480c6c3382982426c2b7dfdfe4a47877cd87c791ce7b637623744af3d&req=fCchEMF8lYVZFb4f3HP0gBxxQH%2BwFl%2BgfmJxK2dzMK8Wg0DES9EDF8LkaMv1%0ACvjSz3Zlqp7BqvW%2F7g%3D%3D%0A
+
+- Once you’ve navigated to your Price Book, make sure Materials is selected from the left-hand menu under the Price Book heading.
+
+- Next, click on the category you want to edit.
+
+- To edit a subcategory, first select the main category that contains the subcategory you wish to modify.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136782057/48d8f1e608666ae44c189b64/Screenshot+2024-08-06+at+1_05_15%E2%80%AFPM.png?expires=1763568000&signature=37bebaf56ba385755e9e700166cc30f13f519865d80d1d44ff1dab9650a4f5a2&req=dSEkEM52n4FaXvMW1HO4zeqUGs87VyxGKkWRCknnUzFtkK5rYEkRikDHdVl0%0AMwcVhb2bSk6w7MpWd%2Fw%3D%0A
+
+- To edit an existing category, find the category or sub-category you wish to modify and click the More icon (three dots) in the lower right corner of that category or sub-category.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136829729/c1c9ecc04bd38dddc7a1a809/Screenshot+2024-08-06+at+1_29_49%E2%80%AFPM.png?expires=1763568000&signature=db0dcf848bb9cc45338b5602f79646868aa0bfe0b5fed4e019551aca9da99142&req=dSEkEMF8lIZdUPMW1HO4zRy4eeLOQoEEVNCKVKZQhx53W9Wt5Jr3rjDuz7Q8%0AF4DcdzPQdZhLEffRmUc%3D%0A
+
+- From the dropdown menu, select Edit.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136833326/a20bba62717955f8111411fb/Screenshot+2024-08-06+at+1_48_31%E2%80%AFPM.png?expires=1763568000&signature=409f97a4856f9f587ce6cbad28747afb617be589636b501c3af6664dfbd8e2e0&req=dSEkEMF9noJdX%2FMW1HO4zW4wtKgDIpKa%2FNuvdpssONZQPYepuDA%2FtmG3GVl9%0Acu4L13%2BxomA0mgzI0M0%3D%0A
+
+- In the edit window, you can update both the category name and the image.
+
+- To update the category name, simply modify the text field as needed.
+
+- To add an image, click Replace Image in the center of the pop-up window.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136840686/6d2bf2eea51f1683543989ab/image.png?expires=1763568000&signature=4b903fd645d66d8ab72014a94e11ced2fbc5b1c5cfe232b75bc371532e0145f3&req=dSEkEMF6nYdXX%2FMW1HO4zaUwikL9wg3XCPcl7k7u0tvDFan5vjyc%2FcWC%2BmVX%0AarUnw5Y%2BPyH2x%2Ff3J4g%3D%0A
+
+- If you want to replace an existing image, click Replace Image on the existing image in the center of the pop-up window.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136841034/899bb6864bb70913e76dfb5f/image.png?expires=1763568000&signature=6606c6d2ce4c558430261bf299a523b7fa237e36c923022bbf58c59ea601d4dd&req=dSEkEMF6nIFcXfMW1HO4zSyv0g7n0AlPPfeH4U%2F64CzG5Zc7w2TrGyYdF4J3%0AEIhBaWRgVGmNUBxLa0o%3D%0A
+
+- Select the image file from your device and click Open.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136842648/c946f64f0f2f58d65290c219/Screenshot+2024-08-06+at+1_59_31%E2%80%AFPM.png?expires=1763568000&signature=a62309a9b7fda5007ed8b9c6fb022979203c033968763d05b9faf207560a6354&req=dSEkEMF6n4dbUfMW1HO4zVjOuPfGkag4NBKHoV%2BNvJdjmbM%2BiO%2FwEHtKDo4u%0ACB52BcIXKIkkTjhWOQw%3D%0A
+
+- You will then have the option to crop the image.
+
+- Adjust the image by resizing the blue box and/or using the + or - magnify icons to zoom in or out until the image looks the way you want it for that category.
+
+- Click Save to apply your changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136844034/9f406c48795516ad75d5d5da/Screenshot+2024-08-06+at+2_00_02%E2%80%AFPM.png?expires=1763568000&signature=9999e944cd1d702f1d9deae37f9de5dcc7d414be1211f1c0716dc6d952c4528c&req=dSEkEMF6mYFcXfMW1HO4zSg1als2UyPxXwsbB0HXnsRg0ZkTNhla56WSw0R0%0ADoVqyd0WbwtA0MN%2BpIE%3D%0A
+
+- Click Save in the lower right corner of the edit window to apply your updates once you’ve made the necessary changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136844498/729307ea0dec24f665715560/image.png?expires=1763568000&signature=9a42f7a9b26aa33fd511494471bf8fed06378dd2c4c5641873a46c5491ffbc12&req=dSEkEMF6mYVWUfMW1HO4zdmGK1AV2TP%2FzKNNtP1bR%2Flya4bu8WPwBTgy8q8C%0AMeyKKbn6nNTHl%2BUZYug%3D%0A
+
+---
+
+Delete a Material Category/Sub-Category
+
+To delete a material category or sub-category from your Price Book:
+
+- Go to the Price book tab in the top navigation bar of your Housecall Pro account. - If you have a lot of features in the top navigation bar, your Price Book may be nested under the More drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/876682846/566d222766cb53b675613f0a/Screenshot+2023-11-06+at+3.43.09+PM.png?expires=1763568000&signature=e5e4982480c6c3382982426c2b7dfdfe4a47877cd87c791ce7b637623744af3d&req=fCchEMF8lYVZFb4f3HP0gBxxQH%2BwFl%2BgfmJxK2dzMK8Wg0DES9EDF8LkaMv1%0ACvjSz3Zlqp7BqvW%2F7g%3D%3D%0A
+
+- Once you have navigated to your price book, ensure that Materials is selected from the left-hand menu, located directly beneath the Price Book heading.
+
+- Find the category you wish to remove, or click on the category that contains the subcategory you want to delete.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136829729/c1c9ecc04bd38dddc7a1a809/Screenshot+2024-08-06+at+1_29_49%E2%80%AFPM.png?expires=1763568000&signature=db0dcf848bb9cc45338b5602f79646868aa0bfe0b5fed4e019551aca9da99142&req=dSEkEMF8lIZdUPMW1HO4zRy4eeLOQoEEVNCKVKZQhx53W9Wt5Jr3rjDuz7Q8%0AF4DcdzPQdZhLEffRmUc%3D%0A
+
+- Then, click the three vertical dots icon in the lower right corner of the category or sub-category and select Delete from the dropdown menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136855293/7c4977732111fd236ad6d12d/Screenshot+2024-08-06+at+2_09_32%E2%80%AFPM.png?expires=1763568000&signature=6826d92613247d504576471e1580fdd2a03a3558d0ad10e44ed92cef86a3f782&req=dSEkEMF7mINWWvMW1HO4zXRnLeKXUi06t6hcI8yYWooIRpuo%2FbKhtn5%2Fw8ib%0Ap%2BPb%2BaRGhMxf4HGnd30%3D%0A
+
+- Alternatively, categories can be deleted by selecting the Edit option from the dropdown menu that appears when you click the three vertical dots icon in the lower right corner of the category.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136833326/a20bba62717955f8111411fb/Screenshot+2024-08-06+at+1_48_31%E2%80%AFPM.png?expires=1763568000&signature=409f97a4856f9f587ce6cbad28747afb617be589636b501c3af6664dfbd8e2e0&req=dSEkEMF9noJdX%2FMW1HO4zW4wtKgDIpKa%2FNuvdpssONZQPYepuDA%2FtmG3GVl9%0Acu4L13%2BxomA0mgzI0M0%3D%0A
+
+- In the pop-up window that appears, click Delete in the bottom right-hand corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136856489/6e37a2af5ab08eb820b3a38b/Screenshot+2024-08-06+at+2_10_42%E2%80%AFPM.png?expires=1763568000&signature=20a4e8d57dd995bb218dca212ce802fbb015448dfd1b75b179632740a10d7397&req=dSEkEMF7m4VXUPMW1HO4zdl6wQPMpG7pVVsFtfXEDwpvGdi3efN2hkk%2FgzVL%0ALceW92QxwWDpfMmLmdU%3D%0A
+
+- A confirmation window will appear with the message: “Are you sure you want to delete this category? This will also delete all sub-categories or materials under it.”
+
+- To proceed with the deletion, click Delete once more.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136856829/2f2ca332521c2d07de196914/image.png?expires=1763568000&signature=d6a35796310f4be266a8767d2b2c1920ae9c1f064cbafbe62d5e6178f6f5677e&req=dSEkEMF7m4ldUPMW1HO4zY9fW1If38S7ndPeEQ4Lb4PfifkpVRbkqI318%2Bd%2B%0Ah8zJMYVXSkT2DA1%2Fz%2BU%3D%0A
+
+---
+
+---
+
+Price Book Materials
+
+---
+
+Add a Material to Your Price Book
+
+Adding materials to your Price Book is essential for accurate quotes and streamlined operations. Keeping your materials updated helps ensure your pricing is current, reduces mistakes, and facilitates efficient management. Materials are particularly crucial for flat rate pricing, as they provide the detailed cost information needed to set consistent and transparent rates.
+
+By regularly updating your materials, you maintain accurate cost information, improve quote precision, and enable quicker responses to changes. Learn how to add and update materials to enhance your business operations and support effective flat-rate pricing.
+
+To add materials to your Price Book:
+
+- Go to the Price book tab in the top navigation bar of your Housecall Pro account. - If you have a lot of features in the top navigation bar, your Price Book may be nested under the More drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/876682846/566d222766cb53b675613f0a/Screenshot+2023-11-06+at+3.43.09+PM.png?expires=1763568000&signature=e5e4982480c6c3382982426c2b7dfdfe4a47877cd87c791ce7b637623744af3d&req=fCchEMF8lYVZFb4f3HP0gBxxQH%2BwFl%2BgfmJxK2dzMK8Wg0DES9EDF8LkaMv1%0ACvjSz3Zlqp7BqvW%2F7g%3D%3D%0A
+
+- Once you have navigated to your price book, ensure that Materials is selected from the left-hand menu, located directly beneath the Price Book heading.
+
+- If you have multiple categories, find and click on the category where you want to add materials.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136782057/48d8f1e608666ae44c189b64/Screenshot+2024-08-06+at+1_05_15%E2%80%AFPM.png?expires=1763568000&signature=37bebaf56ba385755e9e700166cc30f13f519865d80d1d44ff1dab9650a4f5a2&req=dSEkEM52n4FaXvMW1HO4zeqUGs87VyxGKkWRCknnUzFtkK5rYEkRikDHdVl0%0AMwcVhb2bSk6w7MpWd%2Fw%3D%0A
+
+- Under the sub-header Add Items, if there are no materials listed under a category, you can either click Add Item to include materials within that category or click Add Subcategory to create additional subcategories within the empty category.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136866917/85b1fd8831ba0287d5a5fdc7/Screenshot+2024-08-06+at+2_19_39%E2%80%AFPM.png?expires=1763568000&signature=3adbd6bec7d15e0884f3ef1b8a0a8bb0eb0874c993ef284f88b4c1b870720d04&req=dSEkEMF4m4heXvMW1HO4zX5k7qI1v17RWJICUJu9bTZ5MptsaKXXO7SZ2hM7%0ARQvXBx6a4RMamvXzIbs%3D%0A
+
+- If you already have materials listed under a category and want to add a new material item, click the Add Item button in the upper right-hand corner of the category.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136885106/d453cd96bac360fe6bc9b1df/Screenshot+2024-08-06+at+2_36_30%E2%80%AFPM.png?expires=1763568000&signature=c827b84a7c87452e1224ef13a94f62de052f4905de5631a8d900fdf61220c21a&req=dSEkEMF2mIBfX%2FMW1HO4zUKG5ous%2FfW0SxBu8RJ%2BC8pSMsfBS4yYXd25UXUB%0ACEJKLTHAH%2B1gRpcBq3Q%3D%0A
+
+You can then add the following details to the new material item:
+
+- Item Name: Enter the name of the material you are adding.
+
+- Description: Provide a detailed description of the material, including its use and features.
+
+- Part Number: Assign a part number to help organize and search for materials within your price book. This number can also be used to quickly locate items on jobs.
+
+- Material Markups: If you have flat rate pricing enabled, you’ll have a Use Material Markups toggle. This allows you to determine whether the material price will include any additional markup. Simply adjust the toggle to enable or disable material markups according to your pricing needs.
+
+- Item Cost: Specify the cost incurred to purchase or produce the material.
+
+- Item Price: Enter the price that customers will pay for the material.
+
+- Unit: Define the unit of measurement for the material (e.g., per foot, per piece, per box).
+
+- Taxable: Indicate whether the material is subject to tax using the toggle.
+
+- Add Image: Upload an image representing the material. You can choose to add an image later if you prefer.
+
+- Add to Favorites: Click the star icon in the upper right-hand corner to mark this material as a favorite. This makes it easier to access and add this material to line items on jobs in the future.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136889993/717e36f63bf843145a1e42c6/Screenshot+2024-08-06+at+2_39_37%E2%80%AFPM.png?expires=1763568000&signature=57455ed50543514dfd12e296d54a195af1090531777fefc48c222845c1d60642&req=dSEkEMF2lIhWWvMW1HO4zWbD0eMPzUKX7NSnvwptfKv0FEppUHVInlMWx799%0AeVARtTeF5v2tKtd5PWA%3D%0A
+
+- If you choose to add an image during the creation of a material item, click the Add Image button.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136891802/2dc0ed221acb355af23e34cc/Screenshot+2024-08-06+at+2_42_51%E2%80%AFPM.png?expires=1763568000&signature=1c162ab83c29fbf2d33ed9e238ca70922b407ced8419bdfd6be73f974334e313&req=dSEkEMF3nIlfW%2FMW1HO4zbj%2FBJLXwz1noQppBkZvoYNNyvCiRnDZ4Ei9Wq3R%0APmHrkcbC2RRvyanTCrY%3D%0A
+
+- A pop-up will appear, allowing you to choose an image file from your device. Select the file and click Open to upload it.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136893852/11a07476dcf4949f95e6074a/image.png?expires=1763568000&signature=c4d00f3e40a1fe9848b3677d88b3d22110e617ddd2fe152bc9c3d3d446f77f97&req=dSEkEMF3nolaW%2FMW1HO4zUuCwrI4KW1E36UYJKzzLGa8H771Ir%2BDSAB7qVaT%0Au1WytrGtctfsSVMzeY0%3D%0A
+
+Ensure your image has an aspect ratio of 1.5:1 for the best display.
+
+- After uploading, you can crop the image by adjusting the blue box and/or using the + and - magnifying icons to zoom in or out.
+
+- Click Save to finalize your changes when you’re satisfied with the image.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136895484/ddc0a5aa11b993610cb79dda/Screenshot+2024-08-06+at+2_45_38%E2%80%AFPM.png?expires=1763568000&signature=08d24b4f6c2d31591255ddce4b489c6ca0008bc63e495399b941b5d116da8143&req=dSEkEMF3mIVXXfMW1HO4zbNqrSmQmmaZTbXyijjdjqNEbGoopfZpnQ54G7Lc%0A0aj9ctgGpmBXaqfPRHU%3D%0A
+
+- After entering all the details, click the Save button in the upper right-hand corner to save your new material item.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136896744/b53685381b8686d5781dac12/Screenshot+2024-08-06+at+2_47_42%E2%80%AFPM.png?expires=1763568000&signature=08f8dfcdde81ab325bfffabbd57f037ec4f9c8ef268fe02d883e184d9c342999&req=dSEkEMF3m4ZbXfMW1HO4zRK3SGdJwvTHbWIQfhKuxRS2Onh%2FCPL44v6%2FZYZ0%0AZeWdkzWVDyNx0NdcyHs%3D%0A
+
+---
+
+Edit a Material in Your Price Book
+
+To edit a material item in your Price Book:
+
+- Go to the Price book tab in the top navigation bar of your Housecall Pro account. - If you have a lot of features in the top navigation bar, your Price Book may be nested under the More drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/876682846/566d222766cb53b675613f0a/Screenshot+2023-11-06+at+3.43.09+PM.png?expires=1763568000&signature=e5e4982480c6c3382982426c2b7dfdfe4a47877cd87c791ce7b637623744af3d&req=fCchEMF8lYVZFb4f3HP0gBxxQH%2BwFl%2BgfmJxK2dzMK8Wg0DES9EDF8LkaMv1%0ACvjSz3Zlqp7BqvW%2F7g%3D%3D%0A
+
+- Once you have navigated to your price book, ensure that Materials is selected from the left-hand menu, located directly beneath the Price Book heading.
+
+- If you have multiple categories, locate and click on the category where you want to edit the material item.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136900984/8467bc0820ae45058513eab9/Screenshot+2024-08-06+at+2_51_49%E2%80%AFPM.png?expires=1763568000&signature=3bc853ed100c2e1085c50bf301a89e171ff9333a94859ad1a0d2955f89d5b5b5&req=dSEkEMB%2BnYhXXfMW1HO4zaWbW3ij9cP3Bs5zYTg%2F5zL842X2NKUg0%2BQ4hluW%0A0dPqW2DFElX%2FA0UV4y8%3D%0A
+
+- On the Materials page, find the material item and click the More icon (three dots) to the far right to edit it.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136902435/efc6bbd0525e0c72e1af20d8/Screenshot+2024-08-06+at+2_52_25%E2%80%AFPM.png?expires=1763568000&signature=3d2f5e6433970afdf137d2cff516f768c020338de652125b57bedb7004932dce&req=dSEkEMB%2Bn4VcXPMW1HO4zbSgEiX1nNIUw6ph0w08P%2FtX3upUytj1EtaUItO2%0AgaXsrF7CM0ikdsJILuc%3D%0A
+
+- From the drop-down menu, select Edit.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136964061/7c91e6dbf231e24222216ac3/Screenshot+2024-08-06+at+3_53_56%E2%80%AFPM.png?expires=1763568000&signature=aecaacaef5498afa3393aedb647b43806ccef7d9726310b9800682e5c4c4654b&req=dSEkEMB4mYFZWPMW1HO4zYT0VzR0Q5qotsmUv6VTsCSLf1SoKeTNjZCxbMTg%0AqjyNE6lw46LNca5POmk%3D%0A
+
+You can then edit the following details of the existing material item:
+
+- Item Name: Update the name of the material as needed.
+
+- Description: Modify the description to provide more accurate or detailed information about the material.
+
+- Part Number: Change the part number used for organizing and searching materials within your price book. This helps with quick identification of items on jobs.
+
+- Material Markups: Adjust the toggle to enable or disable material markups, determining if the material price will include any additional markup.
+
+- Item Cost: Update the cost incurred to purchase or produce the material.
+
+- Item Price: Change the price that customers will pay for the material.
+
+- Unit: Adjust the unit of measurement for the material (e.g., per foot, per piece, per box).
+
+- Taxable: Modify whether the material is subject to tax using the toggle.
+
+- Add or Replace Image: Change the image representing the material. You can choose to upload a new image later if preferred.
+
+- Add to/Remove from Favorites: Click the star icon to mark or unmark this material as a favorite, making it easier to access for future jobs.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136907398/f585f1a6e5228374008de9ab/Screenshot+2024-08-06+at+2_56_59%E2%80%AFPM.png?expires=1763568000&signature=b7fdc01564851a785729797308a5373fe4a7f419c16a46dc0f49ffe7f6b1b904&req=dSEkEMB%2BmoJWUfMW1HO4zfGUj%2FlOy96YIDrihDMQpQREdE7g2qrw8RyKKsrC%0AgQK24lege0tQxyveeew%3D%0A
+
+- To update the image for the material item, hover over the existing image and click Replace Image.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136908202/e5ea0a6d39b71899c9704470/Screenshot+2024-08-06+at+2_59_12%E2%80%AFPM.png?expires=1763568000&signature=bad0981ce1b733c7d23f73416ea09a014befc9a5b10da343b127f3cceec51231&req=dSEkEMB%2BlYNfW%2FMW1HO4zTcJ4rqmA7%2B0QbXEuDC9i2VgYY%2F0nG%2FTfhl8ACvL%0AYIc3tzilCCweELe%2BuSI%3D%0A
+
+- If no image has been added yet, a placeholder with a gear and wrench icon will be displayed.
+
+- To upload a new image, hover over the placeholder and click the Replace Image option that appears.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136909567/90dc6f62517477d7b6531a47/image.png?expires=1763568000&signature=9ce81c62312e14c4fea90c6512e7b7f688376f227d94795cc6e60bba145a276f&req=dSEkEMB%2BlIRZXvMW1HO4za08RxU377Cz3EDEOcALiEEn6zsZ8PiKbB2H63O3%0AWe1Xso2guyL8Ernfxtw%3D%0A
+
+- A pop-up will appear, allowing you to choose an image file from your device. Select the file and click Open to upload it.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136913996/42e1a70d0896c64a03a49cb6/image.png?expires=1763568000&signature=447fc458851ea0cbd8c5ee46d315b580bea8ecbe92cd29f591db1e442dbd6869&req=dSEkEMB%2FnohWX%2FMW1HO4zVIZ5uiaaqxJ2DVegLgbEaX8ULeoJXEAkUpzgnOC%0AlkxLRbKUkuBuEoTom2o%3D%0A
+
+- Ensure your image has an aspect ratio of 1.5:1 for the best display.
+
+- After uploading, you can crop the image by adjusting the blue box and/or using the + and - magnifying icons to zoom in or out.
+
+- Click Save to finalize your changes when you’re satisfied with the image.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136915351/674514c39b28fa79a7bd9a80/Screenshot+2024-08-06+at+3_05_00%E2%80%AFPM.png?expires=1763568000&signature=208e0d469a91aba9619c51353afbf04c0bdc771628ec3721e16bab65b4c898fc&req=dSEkEMB%2FmIJaWPMW1HO4zf0kuTejCpv%2FNSXRcI7ksjE7Nu0J%2BoJ6msHeZsM5%0ADOTViUz7J%2F%2Be%2FY6VaXQ%3D%0A
+
+- After entering all the details, click the Save button in the upper right-hand corner to save the changes made to your material item.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136916237/c702194c4a3eaa02beb2db31/Screenshot+2024-08-06+at+3_06_39%E2%80%AFPM.png?expires=1763568000&signature=999a071cd178f90ddfa1120909a492f9d04b940acd2ff2cb5104cc039404b856&req=dSEkEMB%2Fm4NcXvMW1HO4zQzZdqUGmosntqAXsjmahLGOys2EKsGJroskQojN%0AhK4wNXG8njdah%2F06Ego%3D%0A
+
+---
+
+Delete a Material from Your Price Book
+
+To delete a material item from your Price Book:
+
+- Go to the Price book tab in the top navigation bar of your Housecall Pro account. - If you have a lot of features in the top navigation bar, your Price Book may be nested under the More drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/876682846/566d222766cb53b675613f0a/Screenshot+2023-11-06+at+3.43.09+PM.png?expires=1763568000&signature=e5e4982480c6c3382982426c2b7dfdfe4a47877cd87c791ce7b637623744af3d&req=fCchEMF8lYVZFb4f3HP0gBxxQH%2BwFl%2BgfmJxK2dzMK8Wg0DES9EDF8LkaMv1%0ACvjSz3Zlqp7BqvW%2F7g%3D%3D%0A
+
+- Once you have navigated to your price book, ensure that Materials is selected from the left-hand menu, located directly beneath the Price Book heading.
+
+- If you have multiple categories, find and click on the category that contains the material item you wish to delete.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136900984/8467bc0820ae45058513eab9/Screenshot+2024-08-06+at+2_51_49%E2%80%AFPM.png?expires=1763568000&signature=3bc853ed100c2e1085c50bf301a89e171ff9333a94859ad1a0d2955f89d5b5b5&req=dSEkEMB%2BnYhXXfMW1HO4zaWbW3ij9cP3Bs5zYTg%2F5zL842X2NKUg0%2BQ4hluW%0A0dPqW2DFElX%2FA0UV4y8%3D%0A
+
+- On the Materials page, find the material item you want to delete, then click the More icon (three dots) to the far right.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136902435/efc6bbd0525e0c72e1af20d8/Screenshot+2024-08-06+at+2_52_25%E2%80%AFPM.png?expires=1763568000&signature=3d2f5e6433970afdf137d2cff516f768c020338de652125b57bedb7004932dce&req=dSEkEMB%2Bn4VcXPMW1HO4zbSgEiX1nNIUw6ph0w08P%2FtX3upUytj1EtaUItO2%0AgaXsrF7CM0ikdsJILuc%3D%0A
+
+- From the drop-down menu, select Delete.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136962933/0349064c0fa2fd01ecccf59e/Screenshot+2024-08-06+at+3_52_54%E2%80%AFPM.png?expires=1763568000&signature=d322fbd1567fb4128f55b181220f5f3482d9036323414bcd4ce3fc444a8ade15&req=dSEkEMB4n4hcWvMW1HO4zd98gttO%2FuWHik8JGjR%2FZDlo2A8DRyV8sv8nAgZe%0AC8A5A2C0JKRFRYVsanA%3D%0A
+
+- Alternatively, material items can be deleted by selecting Edit from the drop-down menu
+
+[Image] https://downloads.intercomcdn.com/i/o/1136964249/ac5f26aae5cc8ae6e36750f0/Screenshot+2024-08-06+at+3_53_56%E2%80%AFPM.png?expires=1763568000&signature=568a47429adfb87154a4ffbacb2e7d37dd7d2f5d7c4aad6b03a2eebbaec88442&req=dSEkEMB4mYNbUPMW1HO4zVFGPngWoyl5B%2FTKsqxFb%2FZybZXBxbTpe9n1rAuk%0AwZiR26K1DxfxDsK9sBc%3D%0A
+
+- Click Delete Item located at the bottom center of the edit screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136965254/252c522921cf525185c0e758/Screenshot+2024-08-06+at+3_55_15%E2%80%AFPM.png?expires=1763568000&signature=5aa38766985421694b21797a2a47cbc80d8c339722d859d6e23bb66a833ba825&req=dSEkEMB4mINaXfMW1HO4zWJ6MsXQsPbXfKJMUyJ72yBi365GHGm7o9wofojH%0A1MzBj0vVs0UD4GU6qmI%3D%0A
+
+- A pop-up will appear with the message, "Delete material? Are you sure you want to delete this material?"
+
+- Click Delete to confirm and delete the material item.
+
+[Image] https://downloads.intercomcdn.com/i/o/1136966043/75d7bfadbb16dd2f40cfbc9f/image.png?expires=1763568000&signature=994e03a2c6c27b6fae7f317781eb264c8d876d8a9bd0bed628a60cedfb569c48&req=dSEkEMB4m4FbWvMW1HO4ze6PxcEUPBIBTKXlZVHved9ybRgcNdAmiCpZgHUD%0AnypLWPrMUXavSXUFZzo%3D%0A
+
+---

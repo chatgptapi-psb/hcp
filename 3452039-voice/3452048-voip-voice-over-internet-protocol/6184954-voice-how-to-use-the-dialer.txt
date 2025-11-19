@@ -1,0 +1,301 @@
+Voice: How to Use the Dialer
+Source: https://help.housecallpro.com/en/articles/6184954-voice-how-to-use-the-dialer
+Author: Roland Ligtenberg
+Last updated: Updated over 2 months ago
+
+Summary: Learn the in's and out's of using the Housecall Pro Voice Solution
+
+Voice Dialer Overview
+
+VoIP allows you to make and receive calls directly from HCP on the web. Our VoIP solution can be used in conjunction with call tracking numbers.
+
+[Button] 🚀 Take a Tour -> https://pro.housecallpro.com/app/public/product_tour/vnkjfglhoag4
+
+---
+
+Accessing the Dialer
+
+To access the dialer:
+
+- Start by clicking on the phone icon to the right of the New button in the webpage header.
+
+[Image] https://downloads.intercomcdn.com/i/o/507024803/c3ab68b23c390aeff2630aae/image.png?expires=1763568000&signature=98c76bc05f33ab4acdea7f0d46d727d7ea37b23a229e9ed93486cac5ffdbcd0d&req=cSAgFst6lYFcFb4f3HP0gC16Eh1trCwg%2BJWmZ815d98oFxQglu7qRZ%2FVEshF%0AnXk%2FHRhpu4mKqZbMJA%3D%3D%0A
+
+- This will open up the dialer. You should ALWAYS keep that open next to HCP.
+
+[Image] https://downloads.intercomcdn.com/i/o/584354514/d47fcc301757a6d7c99e0199/image.png?expires=1763568000&signature=c3c207ae442178a260b2e5b1f91177b44b1f98b8e302db3bf2e58d56a0e2cf9a&req=cSgjFcx6mIBbFb4f3HP0gFKMcJpjMmO05yZtLwWnXa39oZkds2r%2BfGyCh2bq%0A10nGIf8mObLVkb6gCg%3D%3D%0A
+
+---
+
+Configure Your Status
+
+When you are in the dialer, you can set your status as:
+
+- Unavailable: This means the agent is not available to take calls, so they will NOT receive an incoming call, even if they are a part of a call flow. If the agent does not have their dialer open, then they will be considered unavailable.
+
+- Available: This means you are available to take a call. If your agent is available AND they are part of a call flow through a ring group or directly, then they will receive incoming calls.
+
+- On a call: This will occur automatically if you are on a call. We will automatically set you back to your status once the call is complete. While on a call, you will not be able to update the status.
+
+To set your status:
+
+- Click on the arrow directly to the right of your profile picture or initials.
+
+- If you are available, the option will be to "Set to unavailable."
+
+- If you are unavailable, you will be able to "Set to available."
+
+[Image] https://downloads.intercomcdn.com/i/o/742251014/d555f3e6f09befdf978c69f7/image.png?expires=1763568000&signature=6878d0a5f6883a09886b7b3d8ee33b85511333f25ae523768c4a76f221c92676&req=cyQlFMx%2FnYBbFb4f3HP0gIBzPCmpn6YD70ayRVUwtuQ%2Ba2EugHZFxCXl6sVY%0AfNQeA4n6oe64c5yjrw%3D%3D%0A
+
+- Your agent status will also get updated on the global navigation. This will help you to know if your dialer is open and if you are available to make calls.
+
+[Image] https://downloads.intercomcdn.com/i/o/1193463684/234413811b1f614584202a5e/Global%2Bnav%2Bagent%2Bstatus.gif?expires=1763568000&signature=240f60ba2c09e9f61ad0400f3cc5c15786c80d9a0b80f75f98711be448eef896&req=dSEuFc14nodXXfMW1HO4zQZNuj2k0knBi3LDUJLE9V4cYgi8ItPW1BJOKdRG%0AWfbCA8OAm0M1Kn1xNzk%3D%0A
+
+---
+
+Set Your Outbound Number
+
+- On your dialer, you can select which number you call out from by clicking on the "Outbound calls from" button at the top of the dialer.
+
+[Image] https://downloads.intercomcdn.com/i/o/742255459/5bb8cb296522cc47d6a494c6/image.png?expires=1763568000&signature=c269b364dc96510b660193b1213d1120092c4a8759eaf40aab1c4683759eb8d1&req=cyQlFMx7mYRWFb4f3HP0gNQkaMxRzAxRvjB5UGtkadWP%2BB1ZCGD%2FFovNu0kW%0AltcBjt2p4BcZBJlmGA%3D%3D%0A
+
+---
+
+Using the Keypad
+
+- You can click into the keypad field to use your keyboard to enter digits, or you can use the keypad and mouse directly to enter digits.
+
+[Image] https://downloads.intercomcdn.com/i/o/507038689/e4de633ccec7d7b7ec5907ce/image.png?expires=1763568000&signature=a47b6a814488c5360359df91bb2cbd2d93d223f35e16676d9bf79dd3c6879bb0&req=cSAgFsp2m4lWFb4f3HP0gMXKnCXWaFqbiHuScysHn64amvZU2ueaZv2%2BTFKf%0AFLJ174P9M5zITrT3gQ%3D%3D%0A
+
+---
+
+Receiving an Inbound Call
+
+- When you receive an incoming VoIP call, you will receive a desktop notification. Your dialer will also start to ring and show the incoming call.
+
+[Image] https://downloads.intercomcdn.com/i/o/584358438/d80f0a0b26b79ec2ae8f4d91/image.png?expires=1763568000&signature=5b95aab777dca2f093ba5b6fdcfcf32b0613084a91bc7c1710d3738847af66a6&req=cSgjFcx2mYJXFb4f3HP0gHNfoVPTdwd4RpsBBaeli0yCxw4ElLEz5J7O7EOp%0AoKgpMcjkVw3Yt5C11A%3D%3D%0A
+
+- If it is an existing customer, you will see the customer name, number, and the lead source associated with the call tracking number they called into.
+
+- If it is an unknown customer, you will see the phone number and lead source only.
+
+[Image] https://downloads.intercomcdn.com/i/o/584356371/2a4bbd4f395d7599cfcabbd6/image.png?expires=1763568000&signature=d7688f393e1c7a40aff9400d85574d4c79046211f7e8ada4b1aa3516f48f65ac&req=cSgjFcx4noZeFb4f3HP0gMZ7eQvDvCMeL%2BwJNZeclGXX2ZgtMV7FXk8Ayr7R%0AOomxe3skDPCL6EHw2Q%3D%3D%0A
+
+- If the customer you are communicating with has the Do Not Service label, you can see it for incoming calls and active calls.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1547133183/3732ff042b7e530a9d5432ba517a/image.png?expires=1763568000&signature=2dca0f699b0970383d691130c5c97ac0263443a199210cebf90571c646805afd&req=dSUjEch9noBXWvMW1HO4zWSTV7m%2BRoI5s56aAETQvaoncjIVA0w2JwmKXvUn%0AwYVsUyPdTyiCSVTgzBI%3D%0A
+
+- From there, you can click on the incoming desktop notification or answer it through the dialer.
+
+- When you answer the incoming call, it will open up the Customer Intake flow (Request Guide, Reminders, and FAQs) automatically in a new tab.
+
+- After doing this, the customer profile, phone number, and address will have all been populated for you. Simultaneously, you will be connected to the customer.
+
+[Image] https://downloads.intercomcdn.com/i/o/584358816/0d446ec2d5f65901e89c5593/image.png?expires=1763568000&signature=ad350ccd096608ebdb514c86a902569c373e17efe2d08e0c23a1824499329f01&req=cSgjFcx2lYBZFb4f3HP0gFMZ9C1cM7ncjnhpjBFIVLT4%2BQTIlNHuQ8qaxzmj%0AZHR46vgL2f2bhMOzuw%3D%3D%0A
+
+- While on the call, you can Mute or Unmute, Start or Stop the recording, and utilize the Keypad. You can also end the call through the dialer.
+
+- You can also add another person to the call if you need. This feature applies to outbound calls, too.
+
+- When you click Add call, you will be able to see a list of your employees and their phone numbers on the employee profile. - Note: You will only be able to add external numbers to your live phone call.
+
+[Image] https://downloads.intercomcdn.com/i/o/589389829/202ddeefba70fd93a9a5305d/41c28bbf-53c9-4dd8-9523-2a414e3e1150.png?expires=1763568000&signature=72fa653c164ab4f286d55b4e4a7680038d667cc6d4d2333a447eda4293f13c18&req=cSguFcF3lYNWFb4f3HP0gDkp0jEfcBTvHS8c%2B7z6j%2BScpUKK5TRkhgpM1bFm%0AEQQx%2FOT0CB%2FZ6kqB6Q%3D%3D%0A
+
+- Once you click on a row, we will add that person to the call, and you will be able to see two names on your call. At this point, there are three of you on the call.
+
+- You can drop off by ending the call. The other two people will still stay on the line.
+
+[Image] https://downloads.intercomcdn.com/i/o/589389928/1a2b672868f8ac4aaf5cab2a/8c8b26fa-437b-454c-8914-cf1a28f1f9b9.png?expires=1763568000&signature=1c54974c994a779dbd582209fca20387341c9643a3207f608cc968d885182dc7&req=cSguFcF3lINXFb4f3HP0gPlMQlCMcnyB2%2BFB8UA02HxskIRm8fpUPHADtO5t%0A8waDgmlk6mt7qpIFLg%3D%3D%0A
+
+- You can click on the arrow next to the names to view who is on the call and disconnect one caller if you wish.
+
+[Image] https://downloads.intercomcdn.com/i/o/589390249/93ce322b2757d002fb634ce8/b71fc656-3fa5-4947-bb49-20a915def8e5.png?expires=1763568000&signature=e1cf68f03f7f7dce0a56969a930ad07be087e3b10fc73a07166583aa35a29ac2&req=cSguFcB%2Bn4VWFb4f3HP0gOSpC2ZwfDf6U0YMf8cHcGWYg2xf68foX48lam5w%0AAEaJPfOtOpN3M9cZPQ%3D%3D%0A
+
+- If you disconnect one of them, then it goes back to the single call with two people, and you have the ability again to add a call.
+
+- Pros can conference in additional web dialers so other employees using VoIP can join a call or receive a live transfer.
+
+[Image] https://downloads.intercomcdn.com/i/o/770476788/5f856da240dbacbf49f856af/image.png?expires=1763568000&signature=57dad0a1c610c5f20dc43a678dee18bce0cbadaa064f4d53acae8509cd6646dc&req=cycnEs54molXFb4f3HP0gPUS3tRuVmIHOWRV1Jn0ehEvzHfk842aFsRxtsT6%0ANbYWT6d708bFMlvmVA%3D%3D%0A
+
+- The caller who receives the transfer will also see that it's been transferred to them.
+
+[Image] https://downloads.intercomcdn.com/i/o/770478012/a910a0742f22ace25006ee57/image.png?expires=1763568000&signature=33624d94eacd97aad637a086cb4b36f5a3d84d1bac9dccef6bceea40494ba0a5&req=cycnEs52nYBdFb4f3HP0gEiLf3fa1PnikwCrnLFidbitx9R0p%2FxeLGQ73McE%0AfvCR8eOXErqvztXxZA%3D%3D%0A
+
+- Using the Customer intake flow, you can gather information about the customer, schedule the appointment, and update their customer profile.
+
+- Once you are done, you will have the option to save it as a Job, Estimate, or Call notes.
+
+[Image] https://downloads.intercomcdn.com/i/o/584355035/3f8976cbd7be047fbdd8f57e/image.png?expires=1763568000&signature=c03e44f97b31d75d5770bbcababfd392835ad9f1e1e691ce3e8eb82c39d33b93&req=cSgjFcx7nYJaFb4f3HP0gM%2BL%2FGgbMZOFI1E94gBJ0HNvYlU4JraBod86IPaB%0AptDL%2Fj6TVKUzLN9BzQ%3D%3D%0A
+
+- If you save it as a job or an estimate, this information will get auto-added to the call log with that information attached.
+
+- If you save it as call notes, you will have to manually enter the reason and notes associated with the call for them to get added to the call log.
+
+- On the Customer intake form, you can also save the call as “Spam”. This will let you block callers directly from the customer intake.
+​ [Image] https://downloads.intercomcdn.com/i/o/883839228/1eeb08d8792afe71d7cf1e87/Customer+Intake+-+Save+as+Spam.png?expires=1763568000&signature=da3d82c5797715d0da93ae5468bce16c9573a2d3a732204d8d8ac9e383eef4ca&req=fCgkHsp3n4NXFb4f3HP0gOzL1RqKgMeyB5aTfkb9Ks3R4DnXJXWGyhkDegcz%0AZh4%3D%0A
+
+- From there, you will see the call notes dialog with the ability to mark the checkbox and add the number to your block list.
+
+- If it is an existing customer, you will see the customer's name, number, and the lead source associated with the call tracking number they called into.
+
+[Image] https://downloads.intercomcdn.com/i/o/883840342/34bb9d1e39db2798cbc5d3ff/Customer+Intake+-+Save+as+Spam+Dialog.png?expires=1763568000&signature=87cb506ac4ec9bf56e3bc60e431b13a21efa4394fc8d0e49efaeaa789abcb661&req=fCgkHs1%2BnoVdFb4f3HP0gAEwOggC7RiIu%2BiEWrUEvcHLOkHHev5dYh9MRwGI%0ApSUug7k6bq7n8TqmyQ%3D%3D%0A
+
+---
+
+Making an Outbound Call
+
+To make an outbound call, you have a few options. You can either call from the Call details on the global call log or the customer call log. You can also call directly from the dialer.
+
+When calling from the Global call log:
+
+- First, click on the customer's name, then click on the phone icon to the right of the customer's name.
+
+[Image] https://downloads.intercomcdn.com/i/o/506525624/8d6bd29785cb27e9c37992f1/image.png?expires=1763568000&signature=9716f23e41b71a4b48d261b51a3b00028550a4bbb80a1cb8d4e6b26d75f23e39&req=cSAhE8t7m4NbFb4f3HP0gGiyNWAD0fj1TMS1rXMCZymE1NaNofGpbx7tQHUb%0AqtHk0xRsGoTJthKgcA%3D%3D%0A
+
+When calling from the Customer call log:
+
+- Click on the blue Call button in the top right corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/506525475/f64f83a57ceb7cdb10386568/image.png?expires=1763568000&signature=6afd6f09b4f6e3728a23b96ccf2be9d6c07cdbc2df34d4f529db27459ac680c5&req=cSAhE8t7mYZaFb4f3HP0gGhD12YgqS4VWpU%2FMWcU2924425N%2FlmsZYVl0XQ0%0AJ9xXa9Olb13sJTE%2BGg%3D%3D%0A
+
+When calling from the Dialer:
+
+- Enter the customer's phone number and click the blue phone icon to initiate the call.
+
+[Image] https://downloads.intercomcdn.com/i/o/584379778/d1375ce479e0f19686b0dd1f/image.png?expires=1763568000&signature=3cff3595beeeb76cd136ba2e89097bed8db7a96f9905591db93f3094fca384b5&req=cSgjFc53moZXFb4f3HP0gKCkD7qh%2FxW5Gvaqs5F0KlvzyIcm%2Bg%2Br9N5Wa5S8%0ABoFrdzQlymg3w6tu4Q%3D%3D%0A
+
+- Once you click the call button, the Customer Intake flow (Request Guide, Reminders, and FAQs) will open automatically in a new tab with the outbound call initiated on your dialer.
+
+- Just like with an inbound call, you will be able to add notes, edit the job, etc., and then that data will appear on the call log.
+
+---
+
+Search for Customers
+
+To search for a customer:
+
+- Enter a number or a name in the customer field located towards the top of the dialer keypad.
+
+[Image] https://downloads.intercomcdn.com/i/o/507036693/26486c8dc9158b487c3ec2df/image.png?expires=1763568000&signature=31b7f03ac57b2742d7110bc428d292bee0b32e769334b738d5646de4871288b3&req=cSAgFsp4m4hcFb4f3HP0gPXR%2BKFXfrPBydFxhMwasOH2vQvaN%2FzTx21Jq1Ru%0AjjISUbrENi%2FUNVTr1A%3D%3D%0A
+
+- This will then populate with customers that match your search.
+
+[Image] https://downloads.intercomcdn.com/i/o/507037196/0e173afa1f20101cd951db4c/image.png?expires=1763568000&signature=cca4ceecfc33c61a2986b83a8ed153d0d6efd66e920b287b99569137b802c31a&req=cSAgFsp5nIhZFb4f3HP0gDxP3PHklr%2FTbWm%2BZ7kjvteVZIZGW%2BYmA1alS6nH%0AIBoRqm11eqe3M7i5fg%3D%3D%0A
+
+- Once you click on the customer, the name will populate in that field, and the number will populate in the keypad field.
+
+- You then have the option to call or backspace the numbers you have entered.
+
+[Image] https://downloads.intercomcdn.com/i/o/507038000/000c8d57a2d764b22b110b05/image.png?expires=1763568000&signature=79d3616bb50ace6693d6a1c0897d8125499a7277bfeb3ebdb9ac8417a6468f19&req=cSAgFsp2nYFfFb4f3HP0gDVS%2BKk%2Fh8J9lw9RzFAvSc36NuMCVabPskJ95Adz%0AiyXr9WP86bvWZQ%2BWMg%3D%3D%0A
+
+---
+
+Call Queue
+
+Our call queueing feature allows you to:
+
+- Handle multiple calls at the same time
+- Understand what your agents are doing at a given time
+- Place calls on hold
+
+When you open up the dialer, you will see your call queue now instead of the keypad.
+
+- If you need access to your keypad, you can select the blue floating action button to use the keypad.
+
+- All active and queued calls will show up here.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/1196042745/743c7edf6b2d9f5fd512990e/YOHjhGQTZhfSWjafuO2YsVpgIIWPiP7iAAahbk24j93M2ZlFBd-wwVUrlq0wSr4meAEx4zQUU3nTu1O_DtoRirLHGfIjVEYvTflqjdK4G4nv52pZiEEDTBffP2o7kVuB0R7Zdwgk85myHYOVZOrT570?expires=1763568000&signature=81221fd2c69804a22d99d26cd40aae55c4c80c56c9e8d0f4b35171bb25bf8cad&req=dSEuEMl6n4ZbXPMW1HO4zemztjvBRCfwkjD7YIVO%2BeKj3l2U041cvAfP30%2FR%0AMUS%2B%0A | [Image] https://downloads.intercomcdn.com/i/o/1196079783/8b37f98a0bcee0cfb42aa458/Dialer-2B--2BActive-2BCall-2Band-2BCall-2Bon-2BHold.png?expires=1763568000&signature=280afd80a3fb97602694f742ba4e29429f777f423a089786f1e9c053b7e04062&req=dSEuEMl5lIZXWvMW1HO4zb5CtwskXHbC1kVqDaUaQzJ7Lz1wWtE2Y9IS2tec%0A0Jfr%0A
+
+- If the customer you are communicating with has the Do Not Service label, you can see it for incoming and active calls
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1547136245/21766a78c2b0f46356b3d3b006ae/AD_4nXecEX9d8Gj80oR2r5bArSk0LwseyFtoFDxHMxdEXFjBLLmMmIGCqL7DNGTaPMHk73shK970_L4XEnr6iqZgHnRpGWml7zIbLzy70N91khVyee4Bn6sUEb-x-r2QZKBwE3XUc1ZD?expires=1763568000&signature=689d7e6abf9651b5af9c569d189a3b1a14552f2561fbbb8c9b64bb77f9181388&req=dSUjEch9m4NbXPMW1HO4zTg5oUoYEdvIV6BxwzDAPmW298Aff1wcZlOaLCi5%0Acl98%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1547136480/dd0eab54ccffa2732d035b617d38/AD_4nXctI9VQCIW-AOV7NCdC0i5ywAbLi7IE6cND1mt45pye9ksyiblO4SVNrFYU4WPeIZPya7PfBCfycb7nnfUG16QMTz3yzOcaX9i7YDRxJik28mCI9lgLd8yYoBAqvxhw0wk2G9ca?expires=1763568000&signature=939a9471f7a35363a217337a4405a086fb03ceb2200d65397c02d22c6ce16cd0&req=dSUjEch9m4VXWfMW1HO4zbEsOvFTSVDw9bnrS8MLycCC4NyW7JbiMAerp9yA%0AFz7t%0A
+
+- When a call enters the queue, you’ll see the customer’s name and lead source. You’ll also be able to view how long the call has been waiting. From there, you can either decline the call, ending it for the caller, or answer it, which will update the queue to show that you’re currently on an active call.
+
+- On an active call, you will see the customer name (if known), phone number, and lead source. You will also see the duration of the call.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/1196081418/d8c11a4a752da09809ef3a57/559--YgzTV2RNrDKjoWyFHGrUaC7U-T1p5EgbF3z2DDFEWtD0TWpT5mBz3fwnPPYXPnm1NDTWHT0eY0Nbl69icXX6gl21Bfw0KgnYYxJOyiQW38WAdhR1KGFsRputK9ZxXBAwV5NrFx3wAnZNl4KKkA?expires=1763568000&signature=0772da2da12751fd9cc28d6b1122c9e54e331056fc4da14c79dd72db3e3c281e&req=dSEuEMl2nIVeUfMW1HO4zZ4Gpu4PXd186C1au11E5mwN3m02TvZ9zfVuhbW6%0Aiu42%0A | [Image] https://downloads.intercomcdn.com/i/o/1196082563/aefe526786aeb66ea31700d2/Dialer-2B--2BActive-2BCall-2BCard.png?expires=1763568000&signature=e02f42d2c0fe3616a49acb821f3b7e2ea483f194c672c9ade664f3a9500c5e36&req=dSEuEMl2n4RZWvMW1HO4zbnKx1eJJlUWFPLIdzHKq8rz3Ano1E%2BO%2BVarIF1e%0A6H%2Bf%0A
+
+- The first button (pause icon) allows you to place the call on hold. Once on hold, the call will appear in the queue with a clear indication that the caller is waiting.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/1196098774/ebdcdfa7665c8fc7b36a3d72/Active-2Bcall-2Bcard-2B--2Bcold-2Btransfer+5+2.png?expires=1763568000&signature=7f8dacdd5e241729d3fb2431d51cafa5a59152424764166ceee6136077d0f131&req=dSEuEMl3lYZYXfMW1HO4zYf8v0EGyYQD5gTNqTcx5nomgb%2FwJ1kgFioPyLoh%0AYWTL%0A | [Image] https://downloads.intercomcdn.com/i/o/1196086644/f5896887282b0b2565eb0548/kafewwukAOEXf2v-Hbln6mxciCln3N0Cdcs5WeU6WSbRBx53m1eTQK6SUQx64GyFM8DXCLpreOCs_pUg2vr0itxnSJimoN8cE_oDDMDsJV8h2055K-J89RqlvIRos5JVTJv33QXrJVaM0FgmYMhhxzo?expires=1763568000&signature=4ef80ea0c8e885dbac583b09510fa3e934457948072f131d1ca98e4f769047c6&req=dSEuEMl2m4dbXfMW1HO4zWUsT%2FPvvriWsdqM2g%2Bqjmhxy6n19KdiK7rR1cJE%0A0IG1%0A
+
+- The second button (phone icon with arrow) lets you cold transfer a call to someone else without speaking to them first. This is different from our Add a call feature, which is essentially a conference call and is the next button.
+
+- The third button (phone icon with a plus mark) lets you add someone to your call. This is the conferencing experience so all three of you will be on a call and then you are able to hang up from there.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/1196097322/f1c8d0aadcc9872d7340bf41/Active-2Bcall-2Bcard-2B--2Bcold-2Btransfer.png?expires=1763568000&signature=63772af7efe268359ec7ef68d300896719cb2e2990a584036067bbd7009fb8a7&req=dSEuEMl3moJdW%2FMW1HO4zVegmLS9d9lAKSTsWO1VLOhqF4eIS1Zjb%2BaTIUGM%0AqM%2B0%0A | [Image] https://downloads.intercomcdn.com/i/o/1196101205/eb31932b022ee46f2a51ec92/Active-2Bcall-2Bcard-2B--2Bcold-2Btransfer+2.png?expires=1763568000&signature=79d7e1711811e7cf726662751cef00403586b78f338d564c1753919cec4d359d&req=dSEuEMh%2BnINfXPMW1HO4zTVxp16wfdQHr4bxzSA23Oi%2B0QTGSkbiUQ%2FgM5%2FF%0Avau0%0A
+
+- The fourth button (microphone icon) is to mute or unmute a call.
+
+- The fifth button (circle within a circle icon) lets you turn on and off recording.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/1196103532/45c854db86795f357430f896/Active-2Bcall-2Bcard-2B--2Bcold-2Btransfer+3.png?expires=1763568000&signature=7b7c524c78b63da75c24d14dff2d8ac39600471e0d20f9ca30640940bd55d55a&req=dSEuEMh%2BnoRcW%2FMW1HO4zSVyDI31sISGk3PkPFF3stS7g2ltM%2FFuzgaSAYzs%0A3AAy%0A | [Image] https://downloads.intercomcdn.com/i/o/1196106034/06e396ba39172a9fee870fdf/Active-2Bcall-2Bcard-2B--2Bcold-2Btransfer+4.png?expires=1763568000&signature=99b507b7bc243d743ab8c0f656867bc7c4dde23f3402d737e86972f198415078&req=dSEuEMh%2Bm4FcXfMW1HO4zaFi97N5PEeFAcY3qFr7wBM6icvEper6lT%2BJAafS%0ArA1m%0A
+
+- The sixth and last button lets you end the call. Once you end the call, the call disappears from the queue.
+
+[Image] https://downloads.intercomcdn.com/i/o/1196107192/37823a31f67187c43993d585/Active-2Bcall-2Bcard-2B--2Bcold-2Btransfer+5.png?expires=1763568000&signature=8ca15e8125257d79093209e3416bb35c152bd715408c6739d10ec0477821f1a8&req=dSEuEMh%2BmoBWW%2FMW1HO4zXJEONEdNOuqPcZsJ1KDjjCxnxWg%2BhN4st5y7sMm%0AiTBRjIIfuIuoCe%2FFfrs%3D%0A
+
+---
+
+Accessing Voicemails
+
+If a customer leaves you a voicemail, you will be notified in a few ways:
+
+- Desktop Notification
+
+- Through the global call log in the Inbox - Note: You may need to refresh to see it
+
+- Through the dialer
+
+[Image] https://downloads.intercomcdn.com/i/o/584382688/db5d2fefb31c6fab030babc6/image+%287%29.png?expires=1763568000&signature=acb743ec705cec08e571690905e2bcf118a28850de421af823790e09a30d0e11&req=cSgjFcF8m4lXFb4f3HP0gJOxSDmRjsBllIy7bsgM%2F%2F5gpZMmfRrJnXj40myh%0APpGjUB6n31xjW7Xkxw%3D%3D%0A
+
+---
+
+Listening to Voicemails
+
+To listen to Voicemails through the dialer:
+
+- Select the Voicemail button in the bottom navigation, to the right of the Keypad icon.
+
+[Image] https://downloads.intercomcdn.com/i/o/507041765/c978fe6b679672ce8a5f20d5/image.png?expires=1763568000&signature=b7250b7845a4c96cea13d72b700e267092e346f9d03bec706abb5d3b4bebf29b&req=cSAgFs1%2FmodaFb4f3HP0gBFFXrpcaKHK%2FiYfCsyCgpPrJp80LEjbUOIS3RRj%0AXst07AXd1P79xQuAHg%3D%3D%0A
+
+- Voicemails work very similarly to the Dialer call log. The only difference is that it is filtered down to only calls that resulted in a voicemail message.
+
+[Image] https://downloads.intercomcdn.com/i/o/507042347/87afd08e41c8af014c2fb555/image.png?expires=1763568000&signature=2188e151ef6339b5d2a1847b1b60bc46dac4c1c9c4d72d39676ec3adfd786672&req=cSAgFs18noVYFb4f3HP0gKBfk0mhDymwcIn1MZnD9HHrHQ2KaURX8xbK5LvB%0ArC0zBVQWsJDuEs0TdA%3D%3D%0A
+
+- Selecting a call in the list will open up the Call details, where you can listen to those voicemails.
+
+[Image] https://downloads.intercomcdn.com/i/o/507042855/10da84430f790253c26f49d6/image.png?expires=1763568000&signature=5d89a0279159fdee926f6c34dee0e543bec0e142b1242e365fc8ac2d034db09d&req=cSAgFs18lYRaFb4f3HP0gOVjaQZlnpfUi4xHjGLKPY9809%2BK9CiMnIXflEUO%0AaCt5abL%2BLp15bWxnKw%3D%3D%0A
+
+---
+
+Accessing the Call Log
+
+You will have access to a call log within the dialer. This call log will provide the most real time data. It should match the call log within HCP web but there may be a slight delay with what you see in HCP web.
+
+To access the dialer call log:
+
+- Click on the Call log button to the left of the Keypad icon.
+
+[Image] https://downloads.intercomcdn.com/i/o/507039034/c530d6c8e9dcae084ad5c617/image.png?expires=1763568000&signature=c7e81fed5fd3ddcca5f66a005badcc560f7606507c15cc210858d4c75e272c78&req=cSAgFsp3nYJbFb4f3HP0gIEZgfj0bMh3cHd71y4A0C4VIqPGK1k5Y7Lhhl2K%0AEGs9FPz3LOLe7m%2B4Ig%3D%3D%0A
+
+- In the call log, you can see All calls or Missed calls.
+
+- You will also see notification badging for any missed calls. In order to clear the notification badge, you will need to click on that call row.
+
+[Image] https://downloads.intercomcdn.com/i/o/507040163/ca2411413a1433d6107dd46c/image.png?expires=1763568000&signature=d927850ae0b75d1cf4c18b67a1d08d7f22c8e0b40133771558330a501f95adac&req=cSAgFs1%2BnIdcFb4f3HP0gLLrSGyHIZdGhK%2FaN45mMtfJp3HUJrB8cbuFjn4q%0A3M7h0uSl%2Bo4wjl54%2BQ%3D%3D%0A
+
+- Clicking on a call will open up the Call details, where you can see what type of call it was, the number, name, lead source, and call recording.
+
+- You can also make an outbound call through the Call details.
+
+[Image] https://downloads.intercomcdn.com/i/o/507041240/acd72ba6dac8fd36ee3bd336/image.png?expires=1763568000&signature=0ba136546a130940e0d5014840b3b8ab22fa5ff3146388fb12e2ba80ccdf3183&req=cSAgFs1%2Fn4VfFb4f3HP0gA9zDgQAueQES1StHrIN2jGuYx%2BUESxrz961pT8m%0A8xwPmwwAqgxEsyW%2BVg%3D%3D%0A
+
+---

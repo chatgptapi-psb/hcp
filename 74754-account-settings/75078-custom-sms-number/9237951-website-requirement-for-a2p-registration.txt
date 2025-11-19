@@ -1,0 +1,27 @@
+Website Requirement for A2P Registration
+Source: https://help.housecallpro.com/en/articles/9237951-website-requirement-for-a2p-registration
+Author: Olivia R
+Last updated: Updated over 4 months ago
+
+Summary: When registering for A2P, a website is required for the Approval process.
+
+A2P Registration
+
+When registering for A2P in order to use SMS, the section of the form asking for your business's website is required for certain registration types.
+
+It is important to ensure you use a full URL starting with HTTP:// or HTTPS://
+
+If you do not have an active website that is verifiable, please provide a public social media page that is accessible by anyone.
+
+This can include:
+
+- A Facebook page
+- An Instagram page
+- A Yelp listing
+- A LinkedIn page
+
+This list is not exhaustive, but these are the most common forms of public business pages.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1536747066/0403457779555cf33e7fe752a028/AD_4nXcP9OYT6-TvxpnYE_3Nrs7TDxsTzhCrYlYcgaJzxf70QP_nZHmiYY5vjssIqMqd1knEAskSu2PdaPdM9jCeu8FiR1o3kWjewekK9raACGIFDqGaqGHXn1xNPzH6P_a1nuzma64u?expires=1763567100&signature=b0f9351c9d66f64f5d88710600adbf75d41af6b807334fbc42ae1f315d19981b&req=dSUkEM56moFZX%2FMW1HO4zSoGQN0GDaB3j9BVn6hCmhkVi0nuXWOeHGZ2ifgu%0AuiGPYZpAFLoWZcIgSp4%3D%0A
+
+---

@@ -1,0 +1,32 @@
+Transferring Your Domain to Housecall Pro
+Source: https://help.housecallpro.com/en/articles/3852618-transferring-your-domain-to-housecall-pro
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: Transfer your domain to Housecall Pro in order to utilize a Housecall Pro Website Builder website
+
+Housecall Pro Blueprint to Success Workshop
+
+If you're looking for more advice on how to effectively use Websites by Housecall Pro, along with other great features, register for the Housecall Pro Blueprint to Success Workshop!
+
+[Button] Register Here -> https://docs.google.com/forms/d/e/1FAIpQLScM2b6NgGEvrjkOFAZPunvol2CoR4FIIFiVgR7DmTRqgd3gQg/viewform
+
+---
+
+---
+
+How to transfer your domain to Housecall Pro
+
+- Unlock your domain for transfer from your current domain host.
+
+- Receive an authorization/EPP code from your current domain host.
+
+- Chat into the blue bubble with both your domain URL and authorization code so that we can begin the transfer for you.
+
+Things to remember
+
+- ICANN policies state that domains may only be transferred every 60 days. Unfortunately, we have no control over this. If your domain was recently purchased or transferred using another service we will have to wait 60 days before being able to transfer it in. This also applies to transferring domains out of our hosting service.
+
+- The time it takes to transfer a domain can be anywhere from 3-14 days due to the approval process, which is not something we are able to bypass. After we begin the transfer your current domain host will need to approve the request before we can continue. They may be able to manually approve it at your request to speed the process up.
+
+---

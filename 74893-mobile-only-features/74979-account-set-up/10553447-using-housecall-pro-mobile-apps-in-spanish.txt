@@ -1,0 +1,96 @@
+Using Housecall Pro Mobile Apps in Spanish
+Source: https://help.housecallpro.com/en/articles/10553447-using-housecall-pro-mobile-apps-in-spanish
+Author: Sienna M
+Last updated: Updated over a month ago
+
+Overview
+
+Housecall Pro is available in Spanish on mobile devices! If your phone’s language is set to Spanish, your Housecall Pro app will automatically update to display in Spanish. This feature makes it easier for Spanish-speaking Pros to manage their business efficiently.
+
+[Button] Download the mobile app on iOS -> https://apps.apple.com/us/app/housecall-pro/id692833651?platform=iphone
+
+[Button] Download the mobile app on Android -> https://play.google.com/store/apps/details?id=housecall.pros&hl=en_US&pli=1
+
+Please note: While much of the app will be in Spanish, some elements will remain in English, including statuses, alerts, and Pro notifications. Additionally, user-generated content such as Line Items, Job Descriptions, Price Book materials and services, Job Types, Tasks, Notes, and Checklists will remain in English unless manually set up in Spanish.
+
+If you prefer to use Housecall Pro in English, you can easily switch the app language back to English. Follow the steps below to change your language settings.
+
+---
+
+How the Automatic Language Update Works
+
+- If your mobile device's language is set to Spanish, the Housecall Pro app will automatically display in Spanish.
+
+- If your device is set to English or any other language, the app will continue to display in English.
+
+- You can manually switch between English and Spanish within your phone’s settings.
+
+- If you want to switch the app to Spanish and your device is set to English, ensure that you have Spanish added as a secondary language in your phone system settings.
+​
+
+---
+
+---
+
+How to Switch the Housecall Pro App Back to English
+
+If your app is displaying in Spanish and you prefer to use English, follow these steps:
+
+On iPhone (iOS):
+
+- Click on More > Preferences.
+- Select Language.
+- Select Open app settings.
+- Tap Language and select English.
+- Your phone will restart, and Housecall Pro will now be displayed in English.
+
+On Android:
+
+- Click on the menu button in the main header.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1379508753/579c00b6e33adee64a7af208bf92/AD_4nXelzv2gVI1DdGLDOnD3WOXtYhK25SqzCwD7gOOMkK03YUw13B0FHJa1rlsNA5IsgCJPiEKENifYK9hXzsV34f9i6mwphXZO3IjVdv0Cs82co2LP98ha15t-n1MLrpAf2FlEES_yqA?expires=1763568000&signature=5f01b97b995e552bc9f4a30ab6d4e936aceda96422642c2012ad1b2effab4500&req=dSMgH8x%2BlYZaWvMW1HO4zULS1HFnsQZjaQehkHikqOYRKzRUiU%2FqPK42pzls%0A6HC9ky%2Fulubk9laAKWQ%3D%0A
+
+- Tap the triangle to open user settings.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1379508756/a62c8d9e628f72c1e0f2305c40bd/AD_4nXcDdvFr59UK920dt0fc_RWy5usj4dNxQVRAkGlfiP8OQa4-mW_s94-GkI2x_jxF_fSJcPiHlneGFWJIAkXwafzt6ksSsRach9O6URYbglTAu4ZKeF-lYOeWK4e4bYvh_h-e0POs1Q?expires=1763568000&signature=694101865405bfd9cfe4e4eec658b2971aaa6c487dcf90bfe8b90a64af35e267&req=dSMgH8x%2BlYZaX%2FMW1HO4zaixwGEpKEAJ3IRTlPZmtq%2FDib1JPQiXujnLAJWu%0AJOi5dhjfs9brn9uwtSA%3D%0A
+
+- Select Language.
+- Select Open app settings.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1379508752/994863bb61847ef15319f1c1b0e8/AD_4nXdLtM61J0FODViSOYrfFakTCZAH4u38rRx6ymrSLH3yJTPiU4Z0x0hzlRLjp9Hy5dBzDJXmi7nAX1uXaCIOceY_2_1Q3MP1iS-d0IMa8Lvgl8bYSHWAhWF8zkSb5I9MgJFJAyMYjA?expires=1763568000&signature=08c4adf349da16dd45293be2e1530dad28e4e765f55058c30c8691a885e996d8&req=dSMgH8x%2BlYZaW%2FMW1HO4zZgSyPKHuVI39jTTo7OIdLjO44mPdE70uEL5jufR%0A%2Bo8Oage%2B5Pv7XfpnvEk%3D%0A
+
+- Choose English.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1379508748/3ce0772e528afff067f35a16202d/AD_4nXdO1W14Bhdm7nRzSGzDDOP3Xm0dgbYsSiX3XtZhMiPJH0nYUgeD-pgMZiaeB3YQaGJP8FhJqAu7rLt2fFyOrLbkUkobOHxTJMDaR82k_1gaEeOJrxp651BFM6vCPlEQ6DN0YWMB4w?expires=1763568000&signature=c1c5ac7e36ebc59a3edcd3bf43cae6f58c263f06d63fc195b6dc1dcd7bb5b333&req=dSMgH8x%2BlYZbUfMW1HO4zdtvSpjmg3io4nn6HBibUtsgn0%2Fk62MisSNMrzch%0AInvUTmGNsXpI4V%2FL8Oo%3D%0A
+
+- Your phone will update the language, and Housecall Pro will now display in English.
+
+---
+
+---
+
+Frequently Asked Questions
+
+Q: Can I manually set the language inside the Housecall Pro app?
+
+- A: Yes, you can follow these steps to change the language of the Housecall Pro app separately from your phone system language.
+
+Q: Will my customer notifications be affected by this change?
+
+- A: No, your customer notifications will still be sent in English and messages will still be sent in the language you compose them in.
+
+Q: What happens if I set my phone to a language other than English or Spanish?
+
+- A: The Housecall Pro app will default to English unless your phone is set to Spanish.
+
+Q: I am using Android 12 or below, and my app is not switching to Spanish. What should I do?
+
+- A: Housecall Pro’s language switching feature is only supported on Android 13 and above. If you are using Android 12 or below, you will need to update your device’s operating system to access the Spanish language version of the app.
+
+Q: Will everything in the app be translated into Spanish?
+
+- A: Not entirely. Some elements, such as statuses, alerts, and Pro notifications, will still appear in English. Additionally, user-generated content like Line Items, Job Descriptions, Price Book materials and services, Job Types, Tasks, Notes, and Checklists must be manually set up in Spanish.
+
+---
+
+---

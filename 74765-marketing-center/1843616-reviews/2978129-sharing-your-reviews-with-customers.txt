@@ -1,0 +1,83 @@
+Sharing Your Reviews with Customers
+Source: https://help.housecallpro.com/en/articles/2978129-sharing-your-reviews-with-customers
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: Viewing your personal customer reviews page
+
+Housecall Pro Blueprint to Success Workshop
+
+If you're looking for more advice on how to effectively use Reviews, along with other great features, register for the Housecall Pro Blueprint to Success Workshop!
+
+[Button] Register Here -> https://docs.google.com/forms/d/e/1FAIpQLScM2b6NgGEvrjkOFAZPunvol2CoR4FIIFiVgR7DmTRqgd3gQg/viewform
+
+---
+
+---
+
+Share Your Reviews with Customers
+
+Not all your customers have Gmail or Facebook accounts, but we still want them to have the ability to provide you feedback on your wonderful service!
+
+These customers are directed to a page specific to your business to leave their reviews, which you can view and share with others. These reviews are great for employee management as they are tied to a specific job with that customer & make great content for your website.
+
+To share your reviews with your customers, follow these steps:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Marketing Center from the Settings menu on the left.
+
+- Click the Reviews tab on the Marketing Center settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1638607920/a6834d4d924aa9e58c025d3d7cd8/image.png?expires=1763568000&signature=93aba5c8b881bfefd78d82d1bfa450c2afd75c07f3058df8a64feea7c4d72fbd&req=dSYkHs9%2BmohdWfMW1HO4zcgawch5FKHNUG%2Bm2Qy57qTaYeAkN6J6sayzIgaL%0APwkUxB6PHfvvrndSV%2Bg%3D%0A
+
+- Click the My reviews site hyperlink to get directed to your reviews website.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1638613484/d67ab1fbc3f28f3d2a4abb4803ba/image.png?expires=1763568000&signature=7c4399f0f3478eed9cc3db49750c41d36d691c6231baee0f60759f4c792cfcb7&req=dSYkHs9%2FnoVXXfMW1HO4zTIwVbjQZy9v%2BRTwSOJ8fGuUnqwGhPgRCevRWldV%0AHvJZEQsFe9E8deNZOiI%3D%0A
+
+- Your customer-facing review page will look similar to what you see below.
+
+[Image] https://downloads.intercomcdn.com/i/o/120968206/db53560e742e99918c75c9bf/Screen_Shot_2019-05-13_at_11_59_51_AM.png?expires=1763568000&signature=2e2a4da9b9afc791bfdf3805800e4975ef0b20030a81fc683070619ac23c6887&req=dSInH892n4FZFb4f3HP0gOsCtK93IQmxvlAQBmn8uza602jiEqPuGDawmJDC%0A7GrrDiw18kUhz6tmIw%3D%3D%0A
+
+- You can choose which reviews appear on your reviews website (based on star rating) by clicking on the Show drop-down under Add reviews to my website and selecting from the following options: - Five stars only 
+- Four stars and up
+- Three stars and up
+- Two stars and up
+- All reviews
+- No reviews
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1638615646/8dc6cc85b84050efa7297ec9c172/image.png?expires=1763568000&signature=b866be189fd08da88bf84d3b4196759687f4d116d9ad4b59cd05020288bec46b&req=dSYkHs9%2FmIdbX%2FMW1HO4zSldTsdl0Kha7PUgvrnmbnWatNj3RAOA65kzwZ20%0A3Q5EaBrBuRUDJQdLd28%3D%0A
+
+---
+
+How to Set Up Exclusion Tags in Your Reviews App
+
+If there are specific customers or jobs you’d like to exclude from receiving review requests, you can use exclusion tags in your Reviews settings.
+
+To prevent review requests from being sent:
+
+- For a customer:
+Add the exclusion tag to the customer's profile. This will prevent them from receiving review requests for any future jobs.
+
+- For a specific job:
+Add the exclusion tag directly to the job. This stops a request from being sent for that job only.
+
+Then, complete the setup in your Reviews settings:
+
+- Under Exclude specific tags, enter the exact customer or job tags you want to exclude.
+
+- Press Enter after typing each tag to add it.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1638619531/bc0f1d4df41b39dcc9068841b28d/image.png?expires=1763568000&signature=5c2b0d57c6a6663e1d2dd649aa52494fdf4c630181fb60900848cf971614ff80&req=dSYkHs9%2FlIRcWPMW1HO4zdPA7qgYqMR6xw2VtLndfCEEBy1YURe4OclB6f2d%0A4NtWWRuYy58Osco3SvI%3D%0A
+
+---
+
+Need a new Website?
+
+Let our experts build one for you, complete with
+
+integrations to your Housecall Pro Account.
+
+[Button] I want a new website! -> https://help.housecallpro.com/en/articles/8058145-websites-by-housecall-pro
+
+---

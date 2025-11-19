@@ -1,0 +1,76 @@
+Vehicle GPS Tracking: Billing Transfer to HCP
+Source: https://help.housecallpro.com/en/articles/6787416-vehicle-gps-tracking-billing-transfer-to-hcp
+Author: Ian H
+Last updated: Updated over a month ago
+
+Summary: Learn how to transfer your billing from Force Fleet Tracking to Housecall Pro if you signed up with Force Fleet Tracking first.
+
+Billing Transfer to HCP
+
+If you originally created a Force Fleet Tracking account before joining Housecall Pro, but you’d like to enable the integration in HCP, you need to transfer your Force Fleet Tracking billing to Housecall Pro. Here’s how to get started!
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Billing from the left menu.
+
+- Then, click the Explore Plans tab at the top of the page.
+
+- In the Pick your plan window that appears, click the blue Next button at the bottom.
+
+- Here, you can add the number of GPS trackers you currently possess or want to have to your Housecall Pro account.
+
+---
+
+How to Add Your Vehicles
+
+Please add the same number of vehicles that you currently use, or would like to use, on the Paywall pop-up. For example:
+
+- I have 1 device, and want 1 device → Add 1 device to the paywall pop-up
+- I have 1 device, and want 2 devices total → Add 2 devices to the paywall pop-up
+- I have 2 devices, but only want 1 → Contact Force to downgrade to the correct number, and then add 1 to the HCP paywall pop-up
+
+[Image] https://downloads.intercomcdn.com/i/o/626732360/41cc9cc109ec3c496af145d3/paywall.png?expires=1763568000&signature=d839b04fda2d6070f503f16368f3c0ad4f5b5bf0c5e9a7254d92c42b57307a09&req=ciIhEcp8nodfFb4f3HP0gCfiuhMwDbLjq%2BORTLK6a6aXM%2B5Lvq2amH1NyhKh%0AtMEUa3aAGGL2T7R%2FlQ%3D%3D%0A
+
+---
+
+Signing Into Your Force Fleet Tracking Account
+
+After completing these steps, you will see a yellow pop-up box on your Vehicle GPS Tracking app card within Housecall Pro stating:
+
+“We detected an existing Force Fleet Tracking account with your email address. To use Vehicle GPS Tracking, we must link your accounts. You will keep all historic vehicle tracking data.
+
+Check your email for a message from Force Fleet Tracking and consent to link accounts. When complete, all device billing will be handled by Housecall Pro. Billing updates happen every 12 hours, so check back to this page to confirm that the billing transfer has been successful. This page will refresh, and you will be able to enter your shipping address.”
+
+If you see this message, then you already have an email address linked to Force Fleet Tracking.
+
+[Image] https://downloads.intercomcdn.com/i/o/626734459/82d2bbb0ff7476346939a33c/yellow+pop+up.png?expires=1763568000&signature=66ade3e1a276ff7eadc4571af5992df6ab45c420a8a33a328063a141e86c8a84&req=ciIhEcp6mYRWFb4f3HP0gH4045%2BSHdoWDm9dZGB2C4WMBMt6fdCu3A8lCrS7%0AeP5DLdINNKWNsJVnKg%3D%3D%0A
+
+---
+
+Check Your Inbox
+
+To migrate your Force Fleet Tracking Billing, go to your email inbox, and locate the email sent by Force Fleet Tracking titled "Approve Account Transfer". On the Force Fleet Tracking email, there is a button titled “Approve Transfer and Grant Access.” This will disable billing on Force Fleet Tracking and start the integration on Housecall Pro.
+
+[Image] https://downloads.intercomcdn.com/i/o/626736210/57f9d8741d282560faef0704/mojio+email.png?expires=1763568000&signature=92984ef11eec6879d7dbdfeff3bbb7eb6617da45cb9e3085e06637aabb9f17eb&req=ciIhEcp4n4BfFb4f3HP0gC5vagO4fH8i4QIUlH%2FjuTAxFGNTCJFbPKq%2F5QYy%0ATn9bgVvL97I%2Bs299mQ%3D%3D%0A
+
+---
+
+Force Fleet Billing Cycle
+
+Billing updates happen every 12 hours, so check back to the Vehicle GPS Tracking app card to view that the billing transfer has been successful. Once the page is refreshed, you will be able to enter your shipping address.
+
+[Image] https://downloads.intercomcdn.com/i/o/627365417/168a9c5f0a09021505c3c452/enter+shipping+address.png?expires=1763568000&signature=48579fc56301f13b4992924245b08bdcdb2dd254067fe7127b5cb28a1f7efbfb&req=ciIgFc97mYBYFb4f3HP0gF3bQvEWtjoJLpEUbohbLff9E50i3jGlAraNkqhv%0An7f9z9FJHWaQlNiFKQ%3D%3D%0A
+
+---
+
+FAQ
+
+What if I want to add more devices even though I already have devices connected to my Force Fleet Tracking account?
+
+- Just add the number of devices you want in total. For example, if you have 1 device connected to your Force Fleet Tracking account, but you want to add another device. Add a total of 2 devices to your HCP Paywall pop-up.
+
+What if I need to transfer my billing to HCP, but I don't want as many devices as I currently have on my Force Fleet Tracking account?
+
+- You will need to log into your Force Fleet Tracking account to cancel any devices that you do not want so that you are not overcharged on HCP.
+
+---

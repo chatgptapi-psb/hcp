@@ -1,0 +1,55 @@
+Gusto Integration Overview
+Source: https://help.housecallpro.com/en/articles/4678614-gusto-integration-overview
+Author: Ian H
+Last updated: Updated over 2 months ago
+
+Summary: Automate your payroll with our Gusto integration
+
+Using the Housecall Pro & Gusto Integration
+
+Housecall Pro’s integration with Gusto was built to improve your payroll process by automatically syncing employee time-tracking events with Gusto payroll periods. This eliminates the double entry of employee hours.
+
+The Basics
+
+---
+
+- Gusto currently only serves US based businesses
+- All employees in Gusto must have a SSN, a US home address, and a bank account in the US if paid via direct deposit
+- Time is only synced for employees that are matched across Housecall Pro and Gusto
+- Employees must be designated as "Paid by the Hour" in Gusto
+
+How it Works
+
+---
+
+To use the Gusto integration, you must enable Housecall Pro's Time Tracking feature. This allows your employees' time events to be synced with Gusto. While all employees can use the time tracking feature to clock in and out, only office admins with permissions to see reporting can view and edit time tracking across all employees on web.
+
+As time events are created and edited for an employee, Housecall Pro will automatically sync this data with an employee's total hours within a pay period in Gusto. Gusto then handles paying your employees via Direct Deposit or by issuing a check.
+
+When time events are sent by Housecall Pro, any time data already in a pay period in Gusto will be overridden by the new time data coming in. This means changes to time in Gusto that aren't also changed in Housecall Pro will be overridden the next time Housecall Pro pushes time data for that pay period.
+
+Gusto Pay Periods
+
+---
+
+You may set up your pay periods within your Gusto account. Gusto will then track total employee hours worked within that period. These payroll periods are created before the period starts and are closed once they are submitted for payment.
+
+In order to sync employee time with a pay period, the employee time tracking event must happen on a date that falls during an open pay period. If the event is on a date that doesn't yet have a pay period created for it, nothing will be synced.
+
+Editing events and hours in Housecall Pro for a date within a payroll period that has already closed will not affect anything within Gusto. Meaning, the total hours or total payment amount for that payroll period will not change.
+
+Overtime
+
+---
+
+Because of the many different labor laws across state and county governments in the US, Housecall Pro does not automatically calculate the total number of regular, overtime, or double overtime hours for a pay period. Employees' time can, however, be manually calculated and broken up by pay rate. This will then sync and be paid out correctly in Gusto.
+
+For example, if local laws mandate that any hours worked after the first 8 must be paid as overtime, and your employee works 10 total hours, their time cards can be manually broken up to reflect 8 regular hours and 2 overtime hours using the time entry types in Housecall Pro.
+
+[Image] https://downloads.intercomcdn.com/i/o/272541267/ba2700c2cd7092884140be31/image.png?expires=1763567100&signature=42be10d7b64ad6ec22d61a927362d0177f4cba9ef2e05d9759e57f6195d12a68&req=diclE81%2Fn4dYFb4f3HP0gJsHPZtB2VOoiutMDi0S%2BSJb4vizJnDyh2GuFmx%2F%0AwhaHCgidyd5GVcx7RQ%3D%3D%0A
+
+These times will sync with regular and overtime pay periods in Gusto like so:
+
+[Image] https://downloads.intercomcdn.com/i/o/272541021/b0abc813c87b9d8953676cad/image.png?expires=1763567100&signature=f81bb311b188edc19ceada76027da26a616129ad76e33b051c3c5f93c426a15a&req=diclE81%2FnYNeFb4f3HP0gDmgcK45wRIWwrAQl9GoaQLPUi7icNT4A7wzWbdC%0Afm2wDkNQOkGRpgTVPQ%3D%3D%0A
+
+---

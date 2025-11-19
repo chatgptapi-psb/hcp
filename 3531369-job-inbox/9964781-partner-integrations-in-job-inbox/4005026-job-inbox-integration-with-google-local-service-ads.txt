@@ -1,0 +1,113 @@
+Job Inbox: Integration with Google Local Service Ads
+Source: https://help.housecallpro.com/en/articles/4005026-job-inbox-integration-with-google-local-service-ads
+Author: Anna E
+Last updated: Updated over 2 months ago
+
+Summary: Get booked by homeowners directly from the top of Google.
+
+Google Local Services Ads (LSA) is a paid online advertisement that allows Pros to appear at the top of Google search results when customers are searching for local services such as "electrician near me." These ads are designed to help customers quickly find and book trusted professionals in their area.
+
+When you sign up for LSA, your business will need to register for a "Google Guaranteed" badge, which helps build trust with potential customers. Customers can contact you directly through the ad or book your services online. This feature ensures that your business is visible to the right audience at the right time, driving more leads and bookings to your Housecall Pro account.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1708182398/0c60f69bd8cecc0d8f0acfaaff84/3744f057-0177-43a2-b1e3-4053235bb73b?expires=1763568000&signature=0d12130c44a8a6a8f0566f4e95650a58ef2bd4619a7a9470a5b9c0a46bbb4386&req=dScnHsh2n4JWUfMW1HO4zcXLMveRdPKGACV01cvvuxDcvXakHFMyOuvY43cv%0AGX8e7zS8Mi20IWqofzE%3D%0A
+
+---
+
+Enable the Google LSA Integration in Job Inbox
+
+Connecting Google Local Services Ads (LSA) to your Housecall Pro account is simple! Follow the steps below to learn how.
+
+For new users:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Booking from the Settings menu on the left.
+
+- Click the Reserve with Google tab in the Booking Settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1711022375/a4a53820c2437b0b17693a1fd9d2/image.png?expires=1763568000&signature=cef2f5aeaca55f984124437c88f860f923ad380f8f47e85569c58b92d710b122&req=dScmF8l8n4JYXPMW1HO4zWmFrgWHGMMlzZLYTE%2BzLnuBbrEOVItl8vjDf4Ei%0AYJePr%2BtEak8u6HGfAdI%3D%0A
+
+If you're on the previous version of settings:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Then, in the left sidebar, navigate to Online Booking and select Google.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1711022372/693ebf131f2a89680c973a539e01/AD_4nXfG3xcksYwjklSqn_9cKASaGz_fc7HAznGYCNtrdBAtvBlkm4nExAMxQBcdUk4NvWa7hSgABgn1pg_py9e2LFEzg5pcnkeJK3vh_AvTfXgVxmYyQmS0OVzjPJxzxq4BsEdm4rt4Dw?expires=1763568000&signature=349b00cd658eab6cae54ed12573b6e9edc70e2de775c6ed19f8cbcb8b3fd582d&req=dScmF8l8n4JYW%2FMW1HO4zRPL%2BzOEGoLdQfjvEkY24ecXRCyTNdPX8OgOyX4f%0ABKq0AGVwJ5OC2E3x8F0%3D%0A
+
+In your Google Integration settings page:
+
+- Initiate the Connection: If your Google account isn’t already connected, click the Connect button.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1711022377/855c2f2dc76be68928a490db65a6/image.png?expires=1763568000&signature=e8ad0b6d8e631ac857fce0faa9aaf4b3f5bcf37ea2de937de28186b3d89ea0f1&req=dScmF8l8n4JYXvMW1HO4zdmGMMrCdcAj5BCfLei69jz6oBK3yPxmtTSLi5tl%0AwjUca%2F%2FMeQ%2BwdJ%2BJ8pA%3D%0A
+
+- Sign in to Google: Use the Google account linked to your Local Services Ads.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1711022374/fd181011bd20ef86f0ddbca0b94e/AD_4nXe57InpNoQ75EpCMnVhwjPwhY2M8Yidxa-ZgqxIUs8qMfLPIcT3MaTeuEjyz1byPPTMw8w1U7MjV-CDXUdnAIvIn5x7mmkM1tj-XbdMmC3gYARKRFfi8bQJftOQHjM_5pL-pflgaQ?expires=1763568000&signature=e34d91429bccd622ec0cc6b146b4934e0739a2ebbd324e2e6f3568e6e287e616&req=dScmF8l8n4JYXfMW1HO4zRG51vQwLLzwmPaEK3zXiI0wTBe3WkxaI4qBbXAK%0Agf9vakYoi6%2FT%2FO%2BmuQ8%3D%0A
+
+- Grant Permissions: Follow the on-screen prompts to authorize the connection between Google and Housecall Pro.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1711022376/0a7acbd9e704e1808036ec0fa6e5/AD_4nXcUmEW-M2hEu1ksTiqZPVmIfGAftfQwMvloIVTs9cX6xr0XNMyfhy5DK6meRMqxrMjfUuUCpZ0RWAhvPlfBDVWq_tU3AF3IAoCc3CbkPZA45yEDtEuV4h23YZMkQdi6IdXsrGysdw?expires=1763568000&signature=589c987ee11ce427678ee86b519f5a890739397c6d311b3ef6b12ab9b7c1dbf7&req=dScmF8l8n4JYX%2FMW1HO4zRyBliF5%2F1MxjKDMkniJzCBgSykPTsJx57HEtSTw%0AoRt%2BjN3YXzVS8xeP72c%3D%0A
+
+- Wait for Sync: Once connected, all Google Local Services Ads (LSA) and Reserve with Google bookings will sync with your Job inbox, and you will be alerted to new bookings. New bookings will appear under the "Google" channel.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1711022373/277b19c1bffbbed024403ca557d2/jobinbox-google_annotate.png?expires=1763568000&signature=12166ae70c7b57834b47e63fc3352e8a32f919cdfbd8b1ac2d1d1014a7a24585&req=dScmF8l8n4JYWvMW1HO4zTjQoLem7h6tTj8KMraCAmoUKrVdV4C8cykGLDHS%0Ai2GCH2o%2F1tJlAryCJQY%3D%0A
+
+Important Notes:
+
+- It may take up to 24 hours for the integration to activate. This does not mean you will begin to receive bookings or leads immediately. To confirm a successful integration, check for the Book online button on your Google Business Profile.
+
+- Ensure that "booking leads" are enabled in your Google Local Services account to receive bookings. Learn more about booking leads in Local Services Ads.
+
+---
+
+Getting Google LSA Leads in Job Inbox
+
+Once the integration is set up, all new leads from Google LSA will be automatically created as Leads, and you'll be notified of each one by a message in your Job inbox under the Google Inbox.
+
+All bookings from Google LSA and Reserve with Google will appear in the "Google" inbox within your Job inbox in Housecall Pro. While bookings from Google LSA and Reserve with Google appear together in this channel, they are not differentiated. To identify booking details, such as type, you can log into your Google Local Services Ads account to view specific stats and analytics.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1711026127/226fc441d989f2866225b7cd78a0/689b04a6-2b31-452d-aff7-04b8cb9dca62?expires=1763568000&signature=012388de77472ef2a3cee4f372839306d13f4b46a8e456f913ff3e29fd139c18&req=dScmF8l8m4BdXvMW1HO4zSTRgrVqbdwj%2B0N4h1fNVc%2BuVKUWvHAw7itl9t8j%0AhjmwvU0z2GsO%2F4qr5CQ%3D%0A
+
+---
+
+Google Local Services Restrictions
+
+To connect and receive bookings from Google Local Services Ads (LSA), ensure you meet these requirements:
+
+- Google Business Profile: Your business must have a verified and active Google Business Profile. Remember, this is the free offering from Google that allows your business to show in organic search results to potential customers. Learn how to create a Google Business Profile.
+
+- Google Guaranteed: Your business needs to qualify for the "Google Guaranteed" program. This badge is required to activate LSA. Learn more about Google Guaranteed.
+
+- Online Booking Enabled: Ensure that "online booking" is enabled in your Google Local Services account.
+
+- Housecall Pro Online Booking: Your Housecall Pro account must use the new online booking version for compatibility. Learn more about setting up Online Booking.
+
+The integration is currently only available for the following industries:
+
+- Air duct cleaner
+- Appliance repair
+- Carpet cleaning
+- Carpenter
+- Counter top
+- Electrician
+- Fencing
+- Flooring
+- Foundations
+- Garage door pro
+- House cleaner
+- HVAC
+- Junk removal
+- Landscaper
+- Lawn care
+- Locksmith
+- Mover
+- Pest control
+- Plumber
+- Roofer
+- Siding
+- Tree service
+- Water damage
+- Window cleaner
+
+---

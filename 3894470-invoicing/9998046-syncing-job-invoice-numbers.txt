@@ -1,0 +1,86 @@
+Syncing Job & Invoice Numbers
+Source: https://help.housecallpro.com/en/articles/9998046-syncing-job-invoice-numbers
+Author: Taylor L
+Last updated: Updated over a month ago
+
+Summary: This article covers how to turn on the job and invoice sync setting, and answers FAQs so you know what to expect in your account.
+
+Important Note on Syncing Job & Invoice Numbers
+
+---
+
+---
+
+How to Sync Job and Invoice Numbers
+
+We have recently released the ability to keep future job and invoice numbers tied together. This setting ensures that your job and invoice number share the same number ID. To match future invoice numbers with job numbers, follow these steps:
+
+To sync Job and Invoice Numbers:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Invoices from the left-hand menu
+
+- Click the Configuration tab on the Invoice settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1631303853/e7b88d28128b37bb07df6becbcef/image.png?expires=1763568000&signature=f62e1b191612fbd597db24c4ce1fa0afb005962f06a620315ba4f9193949f9db&req=dSYkF8p%2BnolaWvMW1HO4zUEzRJA2gfpRrmkuDCOILvo7wVqAgnXd7CckE1Ra%0ABo7LEjRjJx49CLKUD8Q%3D%0A
+
+- Next to Match invoice and job number, turn the toggle on to enable this setting.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1631323397/58551b01aeae3dc7661f74a31a59/image.png?expires=1763568000&signature=03599ba896d475896aa0fbb88fd331fa62fbd6c2de431a154e1daed8797c2432&req=dSYkF8p8noJWXvMW1HO4zWV9%2BHuEOkJntkTMntECSnQALTgw8D6yyK0C44hC%0AcEQRW%2FVEI5T6VgHyYR4%3D%0A
+
+---
+
+---
+
+Syncing Job and Invoice Numbers FAQ
+
+---
+
+What will my account look like when this setting is enabled for me?
+
+- Once the setting is enabled for you, when you navigate to the job details page, you will continue to see both the job and invoice number. However, you will notice that the numbers will automatically match with no action needed on your end.
+
+- If you ever do need to adjust the number, you will want to click on the 'Job number' and edit it. The job number is the lead number, which will then update the invoice number to match.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1216830873/0149f03a7c89fddf8ec5449f1abf/image.png?expires=1763568000&signature=a37e5b9944c559c7d5ab2dcb511daab57c6dfe9a88067ac707165e8db23b2065&req=dSImEMF9nYlYWvMW1HO4zbtQgORR%2FamlkmD75KLqQByYZqZ%2BWQmj%2Fks6nxqM%0AI7u%2Bowpi219aNFGKPxg%3D%0A
+
+---
+
+Will this sync setting apply to my historical jobs?
+
+- By default, this setting only applies to new jobs moving forward. If you'd like it applied to your historical jobs, please reach out to our Chat Support team via the Blue Chat Bubble in your account. Please note that once historical jobs are synced, this action cannot be undone, though you can still choose not to sync jobs and invoices in the future if you change your mind. 
+​
+
+---
+
+Will enabling this setting impact QuickBooks?
+
+- No, at this time we push the job number as the ID to QuickBooks. In other words, the job number in Housecall is the invoice number in QuickBooks. When this setting is enabled, we honor the job number so that there are no duplication errors caused with QuickBooks. 
+​
+
+---
+
+What if I am using Deposits or Segments, will the numbers still be shared?
+
+- Yes, the numbers will still be synced automatically if you are using Segments and Deposits.
+
+- You will see that deposit invoices will have the prefix D. Example: Job 11503 has deposit invoice #D-11503.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1631198979/1f91b45a999318af9ed4693d4ab0/image.png?expires=1763568000&signature=e9fd867b0698d97e49a2c21bf8bb8ab307fd58e4b276d5b5741f8af28c79a8da&req=dSYkF8h3lYhYUPMW1HO4zWDymJcZteKp7lqlgB1oFfaSGrdn41k7%2FRzTuhtm%0AFm%2FIRrQXtJrJ0r%2FWSp4%3D%0A
+
+- Example: If the original job number is 11503, and it has 3 segments, the segments and invoices would be numbered as follows: - Segment #1: 11503-1, Invoice #11503-1
+- Segment #2: 11503-2, Invoice #11503-2
+- Segment #3: 11503-3, Invoice #11503-3
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1631212688/be6bfe7c4e7d1c5c268da7f02dda/image.png?expires=1763568000&signature=292861258eed3f6ffa57c6258e741a1a79e14d6154dec2cc956028a6c3a67ad1&req=dSYkF8t%2Fn4dXUfMW1HO4zakJDvdZMlQsWPwpGSPk4lWi9FEyKWmslFAtkrb2%0AZ40wi4L6qom74YnvZ3I%3D%0A
+
+---
+
+If I have turned on Progress Invoicing, will this setting also work?
+
+- No, at this time if you are using Progress Invoicing, you will not be able to opt in to this setting given you may have MANY invoices for one job.
+
+---
+
+---

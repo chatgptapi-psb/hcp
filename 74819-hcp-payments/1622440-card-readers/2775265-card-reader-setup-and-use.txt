@@ -1,0 +1,51 @@
+Card Reader - Setup and Use
+Source: https://help.housecallpro.com/en/articles/2775265-card-reader-setup-and-use
+Author: Nate H
+Last updated: Updated over a year ago
+
+Summary: Follow these simple steps to setup and use your card reader in the field.
+
+Setting Up Your Card Reader
+
+Using our card reader is fast and simple! There are many benefits, including an enhanced customer experience and ease of mind knowing that both your and their account information is secure. You will also be protected from disputes reported as fraudulent activity.
+
+When you first receive your Card Reader:
+
+- Fully charge it using the charging cable provided.
+- Verify that the Card Reader's firmware is updated.
+
+---
+
+Updating Your Card Reader's Firmware
+
+You can update your card reader's firmware by going through the steps of taking a payment on your mobile device (without actually processing the payment).
+
+- Turn on the card reader by pressing the power button.
+
+- You'll see the first LED light turn on, indicating that the card reader is ready for payment.
+
+- Select a job on your HCP Mobile App. - You can create and select a test job rather than a job for a customer.
+
+- Tap the 'Pay' icon at the top of your screen, tap 'Next' on the Checkout screen, and select 'Credit Card' as the payment type.
+
+- Tap the 'Card Reader' button, and your device will automatically begin searching for the card reader.
+
+- Tap 'Pair' when prompted. - For Android devices, tap 'Pair & connect,' then 'Pair.'
+
+- Once your reader connects, the firmware update will start automatically, if needed. - This should take between 2 and 10 minutes to complete.
+
+- Once your Card Reader has been connected and updated, you'll be prompted to run the card.
+
+- You can then cancel the transaction.
+
+Table:
+Row 1: Pairing on iOS (iPhone/iPad) | Pairing on Android
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234642902/d41085a7b73ec1a952cf36fec323/LoEvx_pDLNB42z4W0a7gmbIW63MrVrNTKk2l-OAzFRVgI1LThD1QtoUkgFF3L7dyhRB0N3HquyHK5vvxJo1HYdfIx-gvprp8kKHfFrBl3KO3ZzUOQCi-qNzY8RrjTVdJ6zTU-avZlGinLagrTQ?expires=1763568000&signature=54cfb5c9e9d3aad6271bce3c995bf4f862a1e8d362226fed1d9d5196e2030869&req=dSIkEs96n4hfW%2FMW1HO4zZxx1WHq4pu8wpWnF0AZPAfmgmFEng%2F7JYlritWa%0ACg77%0A | [Image] https://downloads.intercomcdn.com/i/o/1198895237/5c7924f3a6cbb2ee0f2e5842/A7ZkducpF6mCfH4clqu9t8IYbiP4Ua4YJKV-9u4NHsGQcApWwtFLuGt6e6KOAZXd02rMl2kSMJVApexCNUSgWKFYYDHlnCSdAO6rgwcG_wnB_3vBzYBeKXyCPyi5iCAT11LctAxqB9ThOYk6Cw?expires=1763568000&signature=bf0739a4e408381639dc8ef2f8e92fc0206598d0d1e3fc67dde5e52150a99a59&req=dSEuHsF3mINcXvMW1HO4zYVnskENjnFiyO3hVcVYQyzLOOcFIZ3Bc7W9dTK1%0AHS%2BN%0A [Image] https://downloads.intercomcdn.com/i/o/1198922865/1a67604091201e8cdf1e2ffb/H57FG2QaTF8DqEUQdSGtcKaiD4KpwQfuLNKsXy9YGYxacKTf40I5W6FigT89tFCFMDKySeZ0T1d9kVqxj2ABdy1Cj8-YGnjNZqiyjBMKfl92kElOapc7_1hL90VyGLdgr5hf6gpsfLsQmFyUKA?expires=1763568000&signature=81aadff893aad2a11613f6fdd378fe337437711ddd46c5b5953256976da2c918&req=dSEuHsB8n4lZXPMW1HO4zSU4uizHnkLLYNgyEgXXP6HvJdq9k8cm%2FQvBDhvy%0AWARX%0A
+
+---
+
+---
+
+Check out these simple tips on collecting payments from your customers!
+
+---

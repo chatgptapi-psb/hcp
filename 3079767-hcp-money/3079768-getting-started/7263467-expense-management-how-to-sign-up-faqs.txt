@@ -1,0 +1,99 @@
+Expense Management: How to Sign Up & FAQs
+Source: https://help.housecallpro.com/en/articles/7263467-expense-management-how-to-sign-up-faqs
+Author: William K
+Last updated: Updated over 3 months ago
+
+Summary: Learn how to get started today to gain access to Expense Management and its solution for tying all of your cash flow together.
+
+Getting Started with Expense Management
+
+Expense Management gives you control over all your expenses. Every purchase, bill, and receipt is linked to the right job, showing who spent what, when, and why, all in one place.
+
+With a comprehensive view of upcoming jobs, completed payments, and pending invoices, Expense Management gives you a full understanding of the state of your money at all times.
+
+Plus, when you add funds to your Expense account, you can use Expense Cards to make business purchases and Bill Pay to pay bills!
+
+---
+
+Expense Management Eligibility Requirements
+
+To be eligible to enroll in Expense Management, you must:
+
+- Be a U.S.-based company.
+- Have at least 2 active employees.
+- Be enrolled in Housecall Pro Payments.
+- Be on the Basic, Essentials, or MAX subscription.*
+
+---
+
+Products Included with Expense Management
+
+Pros using Expense Management have access to three helpful tools:
+
+- Expense Cards - Once you have enrolled in Expense Management, you can order as many Expense Cards as your team needs, and they are already included in your Housecall Pro subscription.
+
+- Bill Pay - Bill Pay will help you take care of bills with a few clicks from wherever you run your business.
+
+- Mobile Check Deposit - With Mobile Check Deposit, you can deposit checks right in the field or in the office without wasting valuable time taking trips to the bank.
+
+​
+
+---
+
+---
+
+How to Sign Up for Expense Management
+
+To sign up for Expense Management:
+
+- Go to the My money tab in the Housecall Pro navigation bar at the top of your screen.
+
+- Select Expenses > Overview from the left menu.
+
+- Click the Access expense cards button and enter your business information on the next screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694718577/653b24c443f26f0a50bc9d964762/screenshot_2025-08-26_at_4_33_51___pm.png?expires=1763568000&signature=8522e9894376bbe4d33f0e3d3532668284746eb3f5a8778d280748c3cd900d6b&req=dSYuEs5%2FlYRYXvMW1HO4zTzqoKhIdJmapv9ITIZ1RF1VqxkaV7fm35zp1%2FOJ%0A3ADP8VF0wPHoV%2BG7Fk4%3D%0A
+
+---
+
+---
+
+Instant Payouts with Your Expense Account FAQs
+
+What is the Expense account and minimum balance?
+
+- Expense account is a financial account that enables Expense Cards, Mobile Check Deposit (Beta), and Bill Pay (Alpha). When you add funds to your Expense account, you can use Expense Cards to make business purchases and use Bill Pay to pay bills.
+
+- Minimum Balance is an exciting new funding method for the Expense account. It diverts card payments you receive from customers to your Expense account. The payments will automatically be sent to your account until the account reaches the minimum balance you set. (For example, it will stop diversity funds when your balance reaches $1,000 if that’s what you set for your minimum balance.) Once you’ve hit the minimum balance, your card payments will route back to your normal external account.
+
+Are there any extra fees associated with instant card payouts with Minimum Balance?
+
+- No. The instant payouts are free. The processing fees at the time of card payment from the customer still apply.
+
+If I already use Instapay can I use minimum balance as well?
+
+- No. You need to use standard payouts to enable Minimum Balance.
+
+Are there extra steps to set up instant payouts with Minimum Balance?
+
+- Not if you’ve already set up a minimum balance. It will automatically default to instant payouts.
+
+How fast are the payouts to my Expense account?
+
+- The card payouts should arrive in your account within 30 minutes of a card payment being processed.
+
+Can I get instant payouts with ACH payments?
+
+- No. This is limited to card payments processed through Housecall Pro.
+
+How do I transfer funds from the Expense account to my external bank account?
+
+- To transfer funds out of your Expense account, go to the “Funding” page or “Transactions” page within Expenses, click the “Withdraw Funds” button, and specify the amount you’d like to transfer out.
+
+Can I update my funding settings at any time?
+
+- Yes. You can review your automatic funding settings by visiting the ‘Funding’ page. To update or cancel any automatic transfers, click the blue pencil at the end of each row.
+
+---
+
+---

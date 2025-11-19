@@ -1,0 +1,124 @@
+Navigating Housecall Pro
+Source: https://help.housecallpro.com/en/articles/6934643-navigating-housecall-pro
+Author: Sienna M
+Last updated: Updated over a month ago
+
+Summary: This guide will help you navigate Housecall Pro efficiently by explaining where to find and how to use its key features.
+
+Exploring Housecall Pro: Navigation Essentials
+
+Housecall Pro's interface is designed for easy navigation. This guide will help you understand where to find key features and how to use them.
+
+---
+
+Menu Navigation
+
+In Housecall Pro, the navigation bar at the top of your account offers easy access to essential features. Click on 'Home' or the company logo on the left side of the navigation bar to return to the home page.
+
+The Inbox lets you access both employee and customer messages, as well as the job inbox, helping you stay on top of all communications.
+
+The Schedule tab allows you to view and manage both scheduled and unscheduled jobs.
+
+The Customers section enables you to handle various aspects of customer management, including jobs, invoices, estimates, and customer profiles.
+
+For financial management, the My Money section provides tools for financing and payment processing.
+
+The Price Book is where you set up services, materials, and pricing information.
+
+Please note that the navigation bar appears white for MAX plan users and black for other plans.
+
+[Image] https://downloads.intercomcdn.com/i/o/554758716/d3230b70c6c0c9eabfa51fcb/Dark+Mode.png?expires=1763568000&signature=38275eb00e462758130738e485a10fb9b077ab1c95654cb29584f6f171bbe840&req=cSUjEcx2moBZFb4f3HP0gPmuAlpXXuCTjQVErxyQ3%2FVqg1gpxCfiYhy9z%2FJP%0AfWXDzYeskqXeGTpyAw%3D%3D%0A
+
+---
+
+My Apps
+
+My Apps can be accessed by clicking the grid icon with nine stacked dots on the upper-right-hand side of the navigation bar. This icon is visible on all screen sizes and provides easy access to applications like email automation, timesheet reports, and postcard campaigns. To explore additional apps and integrations, click on 'My Apps,' then select the 'Go to App Store' link at the bottom of the drop-down menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/554828128/09fd0de8eceee08ca61e5b4c/1.png?expires=1763568000&signature=6d5217d4f7eb7f0dd6e0ad9405ada4edff38428b44397dd2a037d3b16b899447&req=cSUjHst2nINXFb4f3HP0gDVvn43ys9ekqC38g0FNZmyfLmFRSynIqqNPuizQ%0AJJn8atGbempYOX%2FnEA%3D%3D%0A
+
+---
+
+Settings
+
+Settings can be accessed by clicking the gear icon on the upper-right-hand side of the navigation bar, visible on all screen sizes, including laptops and tablets. Here, you can manage company information, logo, terms and conditions, employee permissions, job, estimate, invoice settings, business hours, lead sources, tags, test messages, and more.
+
+[Image] https://downloads.intercomcdn.com/i/o/554832086/466244e8e684c2c0771aa131/2.png?expires=1763568000&signature=e5df684ad3f5588e26420dfd42f2626d1a3180a8f9dd5645a5446cedbdbce57f&req=cSUjHsp8nYlZFb4f3HP0gFJf7C%2FxVMRcw5zan7JrzjvPXGbyw%2BqUe8ohzisG%0AyGd3fhCcMoa4vyze%2BQ%3D%3D%0A
+
+---
+
+Activity Feed, Help, and Tasks
+
+Clicking on the circular profile icon in the upper right-hand corner of your account will reveal additional options such as Activity Feed for viewing account activity, My Account to update your phone number, email, and profile picture, Help for accessing the help center and articles, Tasks to manage, add, and delete tasks, and Refer a Friend for details on the referral program.
+
+[Image] https://downloads.intercomcdn.com/i/o/554831091/9993b1430edd68384e2a8933/3.png?expires=1763568000&signature=3e0fbb43cece87ce05d699891529af1ea5be8d2fb8ff9faea130e2fb933bed24&req=cSUjHsp%2FnYheFb4f3HP0gJevLL30Tvob9k8y1Jj%2F6cxZP0JRb1lpbjzDC%2BxW%0AoWv9PEQAad8q1icHpA%3D%3D%0A
+
+---
+
+"More" Dropdown
+
+When using Housecall Pro on a laptop or tablet, click the More button to access extra items in the navigation bar. The number of options in this dropdown will change according to your screen size.
+
+[Image] https://downloads.intercomcdn.com/i/o/554831771/3e88d4d8dfb4e55d78da2ba5/4.png?expires=1763568000&signature=92f0aec7afb2edfe71a2c24b68d250082ff5a8a475421350a118562452b0006c&req=cSUjHsp%2FmoZeFb4f3HP0gKMPUj7Rtm07QuG%2FCo3TcJzmRtgO8gfMlnwa%2BIcg%0A0TpCD64K0pEtzWVxLA%3D%3D%0A
+
+---
+
+Mobile Devices
+
+When using Housecall Pro on a mobile browser like Safari or the Google Chrome app, the main navigation items are found under the hamburger menu on the upper-left-hand side of the screen. Under the circular profile icon in the upper-left-hand corner of the screen, you will find options including Activity Feed, Help, Tasks, Share the Love, Sign Out, as well as Map, My Apps, Settings, and more. The NEW button for jobs, estimates, customers, and other functions will appear as a + button in the bottom-right-hand corner of the screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/554836757/cd1ae2c6fe6f6efa7ac88f0b/mobileviews1.png?expires=1763568000&signature=95a384427e7715eec2708643866e145e1bd34db5fe2d3fc6be44f1661c71e8a4&req=cSUjHsp4moRYFb4f3HP0gLaExoer6kTANloSewHacHzFdj16pFndfK26rT0N%0Au8XN9uLpOlget6ijKw%3D%3D%0A
+
+---
+
+Price Book Settings
+
+Price Book settings can be accessed by clicking the Price Book tab on the navigation bar. On the left side of the screen, you will see options for Services and Materials. The Settings section will include options for Import/Export Services, Import/Export Materials, Tax Rates, and additional features depending on your plan and add-ons.
+
+[Image] https://downloads.intercomcdn.com/i/o/555918726/af65198cad8c0a197a8d63c4/image.png?expires=1763568000&signature=239863e1c2cce82b3b2556fd57d24332f87631fc8de742c040cc9801594352da&req=cSUiH8h2moNZFb4f3HP0gEW8Ey1VDyt0%2Br76%2FuwLAwJiyWdTWA4v7sZmAskt%0ANg6svmRYDFeJhj3LVQ%3D%3D%0A
+
+---
+
+Main Search Bar Functionality
+
+You can use the main search bar in the main navigation bar at the top of your Housecall Pro account to look up:
+
+- Customers: Find customers along with their related jobs, estimates, and service plans.
+- Job/Invoice Number: Search for specific job or invoice numbers.
+- Estimate Number: Locate particular estimates by number.
+- Serial Numbers: Search for equipment using serial numbers.
+- Addresses: Search for addresses (note that only 20 addresses per customer will appear in search results).
+
+[Image] https://downloads.intercomcdn.com/i/o/660223361/ac8a33e3cfe19bdfe274ca26/Screenshot+2023-01-26+at+9.01.14+AM.png?expires=1763568000&signature=70666e84cee1ecc943956904259feb8fb9d683716ef3fcc7211f6872cf562177&req=ciYnFMt9nodeFb4f3HP0gIZXoXBvRRiQJuPHPmTX021Nx4KKgufparxM1Fn2%0AQaARQuAGfzy9hfFRSw%3D%3D%0A
+
+This search functionality is also available on mobile browsers in the main navigation bar at the top of the screen in your Housecall Pro account.
+
+[Image] https://downloads.intercomcdn.com/i/o/660292114/473c9a40ac3fcd30cd16a3eb/Screenshot+2023-01-26+at+10.34.26+AM.png?expires=1763568000&signature=3537355d414ca74665c6818584ca3bffbc0a00ec7933c2e38806d64de8f86af7&req=ciYnFMB8nIBbFb4f3HP0gC7Vl7IMn%2BMZO%2BP1yrOJfvgGrU00M9Mw4Q%2Fjky71%0AnntB8m1rcZ7nGSoCBw%3D%3D%0A
+
+When you click into the search bar and type your query, a search drawer will open displaying all matching results. You can click on any result to view the corresponding page.
+
+Searching an Invoice Number: You will see results related to that specific invoice number.
+
+[Image] https://downloads.intercomcdn.com/i/o/662611398/2a1ebd9a664a59f79bbb249a/Screenshot+2023-01-30+at+4.34.43+PM.png?expires=1763568000&signature=c307f5359db1f123796db2aa0e9e44a04107cc969495e34b36a3c4d7f830ba0c&req=ciYlEMh%2FnohXFb4f3HP0gNafrjNPfQaqrsWpN7%2BMo9HQnw9IaIOo0to7KUyD%0AwV%2B5CSAGErSbZf1i1A%3D%3D%0A
+
+Searching a Customer Name: Results will include the customer’s name along with recent jobs and estimates associated with that customer.
+
+[Image] https://downloads.intercomcdn.com/i/o/660281236/4aba72c56772799908c07e14/Screenshot+2023-01-26+at+10.21.36+AM.png?expires=1763568000&signature=1f22ecb947a85f66c89f9a9b206df9b09664026e72a003d49c62ec3df4eccca9&req=ciYnFMF%2Fn4JZFb4f3HP0gH4x6kZ5NskR2A1rUgLI%2BxgNYFxu%2BSf36%2BU6oUnw%0A5rUqnX%2BbIXm65Wvg%2FQ%3D%3D%0A
+
+If you cannot find the correct record due to multiple customers with the same name or if you need more details, click on Search All Customers to be directed to the Customers page with your search term applied.
+
+[Image] https://downloads.intercomcdn.com/i/o/677657175/7d5e50eb83e724f1a4930640/Screenshot+2023-02-22+at+12.09.48+PM.png?expires=1763568000&signature=22c596f3b53b2f638dd590c2fdd370f083b16a1ecdadc7142b47760954afc10d&req=cicgEMx5nIZaFb4f3HP0gNcjdYyX7Rfw2gNGGkH9qMyrHISx7N5%2FoljjYSfQ%0Ad9enTFaWtrFoAl46fA%3D%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/677657386/64362c62feb5a636b520b64c/Screenshot+2023-02-22+at+12.11.32+PM.png?expires=1763568000&signature=dc0505597dfa08789947f7e78e7264e5ff53d447f37625b5027add49be709d11&req=cicgEMx5nolZFb4f3HP0gGjGTOWMuWnG8hBpH7FhQ34zonC58JksS4Hm68S7%0Ax6F5LVX%2Fj4h1ECuEDw%3D%3D%0A
+
+Searching a Phone Number: You can find records linked to the entered phone number.
+
+[Image] https://downloads.intercomcdn.com/i/o/662611665/1238adc6cfb5f57d930a5833/Screenshot+2023-01-30+at+4.35.38+PM.png?expires=1763568000&signature=fb31d7ca6a57ac388768184b248f77adf364b379068a07c1c655dbf2c6652abf&req=ciYlEMh%2Fm4daFb4f3HP0gFvzCSLUhz9q8dsllEjSeIwljcoznQygngZ2CAFw%0ATMEP95cp%2FGeJi9GkhA%3D%3D%0A
+
+If no results are found for your search, the system will prompt you to try another search term.
+
+[Image] https://downloads.intercomcdn.com/i/o/660229529/49eb881c7c38b0702a661486/Screenshot+2023-01-26+at+9.17.00+AM.png?expires=1763568000&signature=d9c9c84a9990bb2ba323f3d16c9cd01559bc1f9090392efac4e425dae76e193c&req=ciYnFMt3mINWFb4f3HP0gEjdNzXqRJNdZ8mosq06nrDXu1zcKqKxzu%2Fb%2BQxn%0AUPMG4MfEWjQk0xehIA%3D%3D%0A
+
+---
+
+---

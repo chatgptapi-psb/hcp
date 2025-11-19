@@ -1,0 +1,204 @@
+Postcard Campaigns FAQ
+Source: https://help.housecallpro.com/en/articles/2423114-postcard-campaigns-faq
+Author: Layla K
+Last updated: Updated over a month ago
+
+Summary: Looking to send out postcards to your customers? Learn how to set up a one-time postcard blast, as well as an ongoing postcard campaign.
+
+Housecall Pro Blueprint to Success Workshop
+
+If you're looking for more advice on how to effectively use Campaigns, along with other great features, register for the Housecall Pro Blueprint to Success Workshop!
+
+[Button] Register Here -> https://docs.google.com/forms/d/e/1FAIpQLScM2b6NgGEvrjkOFAZPunvol2CoR4FIIFiVgR7DmTRqgd3gQg/viewform?usp=pp_url&entry.1047718727=HCP+Help+Article
+
+---
+
+---
+
+What are the Benefits of Housecall Pro's Postcard Campaigns?
+
+Explore how Housecall Pro's postcard campaigns simplify customer communication. You can send one-time messages to all customers or set up automatic follow-ups like 'Thank you' notes and '6 Month Follow-ups' when a job is completed. This helps businesses stay connected with customers and show appreciation, which can lead to repeat business. Whether aiming to enhance customer satisfaction or increase business, Housecall Pro's postcard campaign feature offers a straightforward and cost-effective way to maintain meaningful customer relationships.
+
+---
+
+How do I Set up a One-Time Blast Postcard Campaign?
+
+If you are looking to reach all of your customers in your Housecall Pro account at once, creating a one-time postcard blast may be your answer.
+
+To set up a one-time blast postcard campaign, first, navigate to your Housecall Pro app store by clicking the 9 stacked dots to the right of your top navigation bar on the HCP Home Page. Then, select the 'Postcards' app card.
+
+[Image] https://downloads.intercomcdn.com/i/o/1111980537/fd46f0cdf7eace26742391d8/Screenshot+2024-07-12+at+4_06_01%E2%80%AFPM.png?expires=1763568000&signature=01a89fb0fc414c3d6529821a1656590e72a8a0305e22b5b308c2dc4c5b469d7f&req=dSEmF8B2nYRcXvMW1HO4zdXhhNVQgMHP1iPH7SWY6Vti%2BdT2QCn%2FNciqRMpJ%0A%2BDE8XM1YjSr%2Bxhl5Rbs%3D%0A
+
+A new screen will appear. From here, click on the green "+ Postcard Campaign" button.
+
+[Image] https://downloads.intercomcdn.com/i/o/1111981777/3ad23e653fa57fd0dae87897/Screenshot+2024-07-12+at+4_08_41%E2%80%AFPM.png?expires=1763568000&signature=7ea02a5ff5356185a36777a94dd1560581257385723ed84372a047271fcfd01b&req=dSEmF8B2nIZYXvMW1HO4zXRJyvep6tOmHWpuA15JPa0HRl7cOVXmxSp4wI7f%0AI%2FOec0f3wrHzx4PtaoQ%3D%0A
+
+A pop-up with two blue blocks will appear prompting you to choose a 'One-Time Blast' or 'Ongoing' campaign. Click on the 'One-Time Blast' block to create a one-time blast postcard campaign.
+
+[Image] https://downloads.intercomcdn.com/i/o/1111982396/5e56ab0c69b7602bd3c0f572/Screenshot+2024-07-12+at+4_09_19%E2%80%AFPM.png?expires=1763568000&signature=45ff1e296d903298142d7faf8872c7c4ab6f6c72b8882e3fb1766cf6df39ca9a&req=dSEmF8B2n4JWX%2FMW1HO4zXgQNzLnlnUAbdWr8yBZgcjxIdDW96IR6%2B3hHZZB%0AB%2Fv76wQz2G5Ov2MBYjo%3D%0A
+
+There will be four steps you must complete to set up this campaign. Click the tab labeled '1- Front' to choose the image you want displayed on the front of your postcards. To upload your own image, click the blue block labeled 'Upload Your Own' or select one of our pre-existing templates.
+
+Please note: When creating postcards in Housecall Pro, ensure your designs adhere to specific dimensions of 1875 x 1275 pixels (equivalent to 6.25 x 4.25 inches) and are saved in either .jpg or .png format.
+
+[Image] https://downloads.intercomcdn.com/i/o/1111984756/60355f095441b561db8a437b/image.png?expires=1763568000&signature=d9b56ce69e2588cf14dfdaa4a249a845e98f61d154d406924bcf57a31476226f&req=dSEmF8B2mYZaX%2FMW1HO4zWkO%2FI7LulFGAIlgAAA26Yga%2Fav8EXn%2BEaXOJQOw%0A176GptjtSYF8Y9BDpfk%3D%0A
+
+By uploading an image, you certify that you have rights to use the image for distribution.
+
+Check out this article here for where to find commercial use images.
+
+The next step in setting up this campaign is adding a personalized message. To add a message, click the tab labeled '2-Back'. Ensure your message on the back fits neatly within the red dotted lines. Optionally, add 'Or Current Resident' by checking the box under the 'Edit Message' field.
+
+[Image] https://downloads.intercomcdn.com/i/o/1111997773/84105d53619e1f613b4805c4/Screenshot+2024-07-12+at+4_24_10%E2%80%AFPM.png?expires=1763568000&signature=43fef4f94ec27f7ed1515582075b280efb331c777209aa3eb191afa9f9bfbd6f&req=dSEmF8B3moZYWvMW1HO4zY%2FsRvRXdlXQYJpZaTBNBLuC%2FUuUzB7sGf5PacNA%0AJx8fZeBQGld5FqSkdL8%3D%0A
+
+The next step is choosing your audience. To choose the recipients of this campaign, click the tab labeled '3-Recipients'
+
+You can search by specific customers or tags using the grey search bar. Alternatively, you can select all addresses by clicking the blue 'Select All Addresses' button. You can confirm the number of customers selected by viewing the light blue bubble labeled 'Total Selected'
+
+If you select an address for a customer that has multiple addresses, the customer's name will still appear on the postcard, despite the name not appearing next to the address when viewing the postcard campaign creation screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/1119225313/f577891cb1ab525eeddf39fb/image.png?expires=1763568000&signature=d672605be3c7d471498fcaf25cc52d8587def48b4f07ba97ea8e164726ad6442&req=dSEmH8t8mIJeWvMW1HO4zQ8jH1btnfcETPNUUcstzPhIc5NErQhhnTTBB5Mr%0A5vcAOqjgYgaapw%2B7fyA%3D%0A
+
+The next step is naming your campaign and confirming the order summary. To name your campaign and confirm the order summary, click the tab labeled '4-Order'
+
+Next, choose a name for your campaign and input the desired name of the campaign into the field labeled 'Name Your Campaign'. On the right-hand side of the window, you will see an order summary with the cost of each postcard, the amount of cards ordered, and the total cost. The total cost for each postcard, including the stamp, is $0.99.
+
+[Image] https://downloads.intercomcdn.com/i/o/1112006432/c7e2a002203311ff5c7ed510/image.png?expires=1763568000&signature=c013df59c7c15bc6dfd1da8edce8c330b91d24b3391bd6d9944ddb4ef47dddcc&req=dSEmFMl%2Bm4VcW%2FMW1HO4zRH22KaZzwy6b8WMh2YJHAjhxV8VJbEebw6VNU%2FB%0ACOflSihQ3Ght8gXjeK0%3D%0A
+
+Once you have named your campaign and confirmed everything looks accurate in the order summary, click the blue button labeled 'Preview' in the bottom right-hand corner of the window to see how the postcard will look when received by the customer.
+
+The system may provide a loading screen indicating it will take a few moments to generate a preview.
+
+[Image] https://downloads.intercomcdn.com/i/o/1119226888/6bdfa831a2c53f11046cbeae/image.png?expires=1763568000&signature=70e90397018b2d025f77a52d9da26757264b6e13a0261dcbb91dc679d754acd6&req=dSEmH8t8m4lXUfMW1HO4zSP6NYhRkfI4C8gyid9IvSiVVeVofH9zHrbOCMOf%0AMazX%2FuV8Ty8EcAvQ7es%3D%0A
+
+Once the preview has been generated, you will see the front and back of how the real postcards will look (except your customer's name and address will be used) Please ensure you are satisfied with this preview before you order.
+
+[Image] https://downloads.intercomcdn.com/i/o/1119227279/3d09fb780603a5c024aa25d5/image.png?expires=1763568000&signature=3148fa540cbc10c1f1977ee224b6cb72f73631b913e02714b5221924617e897d&req=dSEmH8t8moNYUPMW1HO4zQkAA1gQaIirO8G6oR4f76ss4g2RXP688aSZ1WNd%0AcIBgoqJwJ9FlRtaKDRo%3D%0A
+
+If everything looks good, click the blue 'Send Postcards' button in the bottom right-hand corner of the window. If you'd like to make changes, click the blue 'Cancel' button to go back and make edits.
+
+---
+
+How do I Set up an Ongoing Postcard Campaigns?
+
+If you are looking to send an ongoing postcard campaign, such as a 'Thank you' after your work is complete, or a '6 Month Follow-up' to generate repeat business, you can set up specific campaigns that will trigger to send when you press 'Finish' on the job you are working on. You are able to set up as many campaigns as you would like.
+
+To set up an ongoing postcard campaign, first, navigate to your Housecall Pro app store by clicking the 9 stacked dots to the right of your top navigation bar on the HCP Home Page. Then, select the 'Postcards' app card.
+
+[Image] https://downloads.intercomcdn.com/i/o/1111980537/fd46f0cdf7eace26742391d8/Screenshot+2024-07-12+at+4_06_01%E2%80%AFPM.png?expires=1763568000&signature=01a89fb0fc414c3d6529821a1656590e72a8a0305e22b5b308c2dc4c5b469d7f&req=dSEmF8B2nYRcXvMW1HO4zdXhhNVQgMHP1iPH7SWY6Vti%2BdT2QCn%2FNciqRMpJ%0A%2BDE8XM1YjSr%2Bxhl5Rbs%3D%0A
+
+A new screen will appear. From here, click on the green "+ Postcard Campaign" button.
+
+[Image] https://downloads.intercomcdn.com/i/o/1111981777/3ad23e653fa57fd0dae87897/Screenshot+2024-07-12+at+4_08_41%E2%80%AFPM.png?expires=1763568000&signature=7ea02a5ff5356185a36777a94dd1560581257385723ed84372a047271fcfd01b&req=dSEmF8B2nIZYXvMW1HO4zXRJyvep6tOmHWpuA15JPa0HRl7cOVXmxSp4wI7f%0AI%2FOec0f3wrHzx4PtaoQ%3D%0A
+
+A pop-up with two blue blocks will appear prompting you to choose a 'One-Time Blast' or 'Ongoing campaign'. Click on the 'Ongoing Campaign' block to create an ongoing postcard campaign.
+
+[Image] https://downloads.intercomcdn.com/i/o/1119232651/638a42a92c4df3ace9451459/Screenshot+2024-07-19+at+3_50_23%E2%80%AFPM.png?expires=1763568000&signature=8f859694c97a70c38c2e0a96d9116ac95ac12f286371e6dfc767f4c91de225d1&req=dSEmH8t9n4daWPMW1HO4zabN3lG9qAHonT1QSYdvg0nSHZKl4KIXKzRuIFpD%0A0xNtpbDRakjQrVXuRf8%3D%0A
+
+There will be three steps you must complete to set up this campaign. Click the tab labeled '1- Front' to choose the image you want displayed on the front of your postcards. To upload your own image, click the blue block labeled 'Upload Your Own' or select one of our pre-existing templates.
+
+Please note: When creating postcards in Housecall Pro, ensure your designs adhere to specific dimensions of 1875 x 1275 pixels (equivalent to 6.25 x 4.25 inches) and are saved in either .jpg or .png format.
+
+[Image] https://downloads.intercomcdn.com/i/o/1122474042/c246b17571d757ed6efe616f/image.png?expires=1763568000&signature=2f4b413fe6c0dfee36b9c17a039f2c976d1f6357fd3814617c1edc79c6d0d329&req=dSElFM15mYFbW%2FMW1HO4zcDT6CnhveRs8TUra3FfgOfJicR2d8GL1Vpj5Duy%0ACG7UDV276h3cQ3Q2rd8%3D%0A
+
+By uploading an image, you certify that you have rights to use the image for distribution.
+
+Check out this article here for where to find commercial use images.
+
+[Image] https://downloads.intercomcdn.com/i/o/1119233246/96c40a70790c723994e527fd/image.png?expires=1763568000&signature=3322253cd11fbff91a538c182505aeec6aa00a3f691a2f3aaa95b6b8e8eca0d8&req=dSEmH8t9noNbX%2FMW1HO4ze0K23IbHnmNCdZmtYTnW8ERxbc4Ykv072iZVMvV%0AbcWTFuG84TLErYKPEqs%3D%0A
+
+The next step in setting up this campaign is adding a personalized message. To add a message, click the tab labeled '2-Back'. Ensure your message on the back fits neatly within the red dotted lines. Optionally, add 'Or Current Resident' by checking the box under the 'Edit Message' field.
+
+[Image] https://downloads.intercomcdn.com/i/o/1119235000/464ca5c29224716ded0f1fb2/Screenshot+2024-07-19+at+3_52_59%E2%80%AFPM.png?expires=1763568000&signature=f8716ef9fad69cbd80f1a0ee0edc10488f86a4756668a234acc305c1a9d887d9&req=dSEmH8t9mIFfWfMW1HO4zW9EPYW4RjP8VEruOo7ergdbLLLGCmhOJTovD2NA%0AlcHwbzb%2FZlc3JWrCf%2Fg%3D%0A
+
+The next step is naming your campaign and choosing a rule. To name your campaign and add a rule or trigger, click the tab labeled '3-Rule'
+
+First, name your campaign by adding the desired name to the field at the top of the window labeled 'Name Your Campaign'
+
+Below this field, you'll see the next section labeled 'Rule For This Campaign' This section is where you will set up the rule or trigger for when this campaign will be sent out after a customer's job is marked as completed.
+
+In the field labeled with a pound sign (#) after 'automatically send this postcard,' input the number of days or months after job completion when the postcard should be sent. For example, entering '7' means the postcard will be sent 7 days or 7 months after the job is finished.
+
+Next to the number field, use the dropdown menu to select the duration, either 'Days' or 'Months' depending on your preference for when the postcard should be sent.
+
+[Image] https://downloads.intercomcdn.com/i/o/1119243246/ec6df5b2f05f0b6bea753970/image.png?expires=1763568000&signature=70d9a05678fdbe6d2aa963fc1823fab67162b7635a45efd1f7bbf7b7a47c66bb&req=dSEmH8t6noNbX%2FMW1HO4zSKOnmCrEmwDbvHTrnejWWJT8SgIicQ6lWR28Nlk%0AGNqiEw2eH%2B6JPGVN5a0%3D%0A
+
+Below this section, you'll find three additional options, each represented by unchecked boxes:
+
+'Send to customers with notifications turned off' This option allows you to set conditions for when the campaign should be sent based on customers' notification preferences. Check the box to send the campaign to customers who have their notifications turned off.
+
+'(Unless) customer is tagged with (Blank)' Here, you can define specific criteria for sending the campaign based on customer tags. You have two choices when clicking the drop-down next to this option:
+
+- 'If': Select this option if you want to send the campaign only to customers who are tagged with certain criteria. For example, you might send a campaign only to customers tagged as "VIP."
+- 'Unless': Choose this option if you want to exclude customers who have specific tags. This could be useful if, for instance, you want to exclude customers who have already received a similar campaign.
+
+To apply these conditions, enter the relevant tags in the provided field. Tags help you target your campaign more precisely based on customer characteristics or behaviors.
+
+'Send to parent customer or billing address instead of job's service address' Select this option if you want the campaign to be sent to either the parent customer's address or the billing address associated with the customer's account. This allows you to choose an alternative address option instead of sending the campaign to the service address where the job was completed.
+
+These options provide flexibility in how you target and deliver campaigns, ensuring they reach the right customers under the conditions and addresses you specify.
+
+Once you have named your campaign and confirmed the rule, click the blue button labeled 'Preview' in the bottom right-hand corner of the window to see how the postcard will look when received by the customer.
+
+The system may provide a loading screen indicating it will take a few moments to generate a preview.
+
+[Image] https://downloads.intercomcdn.com/i/o/1122307603/190714d95fad50ecb1121ab1/image.png?expires=1763568000&signature=93b86a68b7053f054c9de4999a5f5869f180d54237c5b8f095214f9c983a77e7&req=dSElFMp%2BmodfWvMW1HO4zZjNCvnAyE90fqINelxboEhn6x6Yosbj12bclfSO%0A3CteyXuuP60ZRJOMH58%3D%0A
+
+Once the preview has been generated, you will see the front and back of how the real postcards will look (except your customer's name and address will be used) Please ensure you are satisfied with this preview before you order.
+
+[Image] https://downloads.intercomcdn.com/i/o/1122310393/69825e60d13d0f6233371bda/Screenshot+2024-07-23+at+11_24_00%E2%80%AFAM.png?expires=1763568000&signature=29f7557a66b51cc2d99f9e0e3fa6564bbbfcd45fd9dbf0d2c63fd9e86a8633c1&req=dSElFMp%2FnYJWWvMW1HO4zU5CFou95QVWnq7pgwt5kWkaLVUtpdXqDWgyONfX%0AT0%2FBfqFOaVRM9ZC8mZo%3D%0A
+
+If everything looks good, click the blue 'Start' button in the bottom right-hand corner of the window. If you'd like to make changes, click the blue 'Cancel' button to go back and make edits.
+
+---
+
+How do I View Existing Postcard Campaigns?
+
+To view your existing campaigns, first, navigate to your Housecall Pro app store by clicking the 9 stacked dots to the right of your top navigation bar on the HCP Home Page. Then, select the 'Postcards' app card.
+
+[Image] https://downloads.intercomcdn.com/i/o/1111980537/fd46f0cdf7eace26742391d8/Screenshot+2024-07-12+at+4_06_01%E2%80%AFPM.png?expires=1763568000&signature=01a89fb0fc414c3d6529821a1656590e72a8a0305e22b5b308c2dc4c5b469d7f&req=dSEmF8B2nYRcXvMW1HO4zdXhhNVQgMHP1iPH7SWY6Vti%2BdT2QCn%2FNciqRMpJ%0A%2BDE8XM1YjSr%2Bxhl5Rbs%3D%0A
+
+You can review existing campaigns within the Postcard app by navigating to the 'One-Time Blast' and 'Ongoing Campaign' tabs. Click on each respective tab to access the campaigns categorized under each type.
+
+Under the 'One-Time Blast' tab, you can also view the cost of each campaign, the campaign names, and the total number of recipients.
+
+[Image] https://downloads.intercomcdn.com/i/o/1122336957/53b8affbd5ad443185c1ebcd/Screenshot+2024-07-23+at+11_27_35%E2%80%AFAM.png?expires=1763568000&signature=166344df0e5d9fa416915f67c26d86dc54c04f6797acae418e5bf3ad84abebb6&req=dSElFMp9m4haXvMW1HO4zT12OifxEESAeQG0EwtQdPLyl6ckMQC10U10G%2Bxa%0A%2Br%2BUBtoXr4fkBu6jsF4%3D%0A
+
+In the 'Ongoing Campaign' tab, along with the cost, campaign names, and number of recipients, you can also view the rules associated with each campaign. Additionally, you can manage the status of ongoing campaigns by toggling them on or off using the toggle switch located next to each campaign. The toggle switch will appear blue when the campaign is active and grey when it is inactive.
+
+[Image] https://downloads.intercomcdn.com/i/o/1122337784/421c777026c50082364fde25/Screenshot+2024-07-23+at+11_27_59%E2%80%AFAM.png?expires=1763568000&signature=1dd0745606a38d23530de13711dc6fb68d008fe1116c708e791c2c0fa00f224d&req=dSElFMp9moZXXfMW1HO4zfCrCJJGQAGL1eaXxFoZilAJ4N3zonhSzCr1l1Tv%0AdoArqp%2BhB5FdDR5C6UM%3D%0A
+
+Click on the campaign you would like to view and a list of the postcards that have been sent will pop up. If the postcard was successfully sent, it will have the status 'processed.' If for any reason it cannot be sent, the status will say 'failed.'
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/28533107/3054080d10bcbeb18286a1b7/HouseCall.png?expires=1763568000&signature=e3c5f06ef25c936d0b49a6698a4faae86a82edbf480be32d444c1d834dc3f51c&req=digiFcp%2FnYYTWLcX3D%2B5hujHFDC%2BxucGrIbf5MRQIqYlFXYqulU71NgMC3ch%0A9PU5jVDFedJ0cqEh%0A
+
+A failed status usually means that the address is not properly entered into the customer's profile. Double-check that the city, state and zip code are in their proper fields and that all of the address information is correct.
+
+---
+
+When Am I Charged for Postcards in Housecall Pro?
+
+Postcards are billed on the first of the month for all cards ordered the previous month.
+
+---
+
+How Am I Charged for Postcards?
+
+Payment is charged to the card saved on file in your billing profile.
+
+[Image] https://downloads.intercomcdn.com/i/o/37866576/11389f8db7e64c4f895c086a/HouseCall.png?expires=1763568000&signature=14f4d9ac1b3c5ca807ee252069c0daee3249cc8d9fe4921393f0c8f481582ee2&req=dycvEM97mocTWLcX3D%2B5htDaN7JRtVpZNeXkErlxNBnkse2SaimDoPLVYiIt%0AvcNeiTt5SO6PnksS%0A
+
+---
+
+How Long Until My Postcards Are Mailed Out?
+
+Delivery times will vary depending on the product and destination. Domestic deliveries typically take 4-6 business days.
+
+---
+
+Video Tutorial:
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/7b7n1tj9li
+
+---

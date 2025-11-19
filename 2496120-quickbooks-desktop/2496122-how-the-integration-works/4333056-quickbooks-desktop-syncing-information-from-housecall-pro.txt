@@ -1,0 +1,258 @@
+QuickBooks Desktop: Syncing Information from Housecall Pro
+Source: https://help.housecallpro.com/en/articles/4333056-quickbooks-desktop-syncing-information-from-housecall-pro
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: Learn what information Housecall Pro will sync to your QuickBooks Desktop account once you have the integration setup.
+
+Overview
+
+After connecting the Housecall Pro and QuickBooks Desktop integration, the integration will become a one-way sync from Housecall Pro to QuickBooks Desktop only.
+
+Information that Housecall Pro syncs (pushes) to QuickBooks Desktop:
+
+Table:
+Row 1: ​ Jobs | - When marked 'Finished'
+- When an invoice is sent through Housecall Pro
+- When the job is marked as Paid
+Row 2: Information on Jobs | - Customer name
+- Address
+- Service date
+- Line items (name, description, price)
+- Tax rates
+- Payments
+Row 3: Customers | - When an update to the "bills to" information is made in Housecall Pro.
+Row 4: Payments | - All payments will sync to Undeposited Funds.
+- Credit card payments will need to be manually reconciled. You will need to create a journal entry to account for the cc processing fees.
+
+Housecall Pro does not support:
+
+- Inventory items
+- Multiple tax codes
+​
+
+---
+
+Sync Information from HCP Manually or Automatically
+
+Syncing to Quickbooks Desktop can be done manually or set up to run automatically in the QuickBooks Web Connector.
+
+How to Manually Sync Information
+
+You can manually sync information as often as you’d like by following the three steps outlined below:
+
+- First, open your QuickBooks Web Connector (QWC).
+
+- From here, check the box to the left of the 'Application' column, next to "HCPQBWebConnectorServicer." 
+​
+- Finally, click the 'Update Selected' button at the top. 
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/235046384/ec8fe2baadccbd4333585de5/image.png?expires=1763568000&signature=7861003788f0d8551a5fd4c353bfdc679adc830696c5988d4a3b520bb284269d&req=diMiFs14nolbFb4f3HP0gNm4KRmZKBy7jXXKHV%2BZf9uLxVZaUoYYgfgw%2F1c6%0AV%2B0wGjPJhLy5lu42Fw%3D%3D%0A
+
+---
+
+How to Sync Information Automatically
+
+To automatically sync information at timed intervals:
+
+- Check the 'Auto-run' box in the QuickBooks Web Connector (QWC).
+​
+- In the 'Every-Min' box, select the increment you would like sync to run in minutes. - Suggested timeframe: 60-minute intervals.
+
+Pro Tip: Manual syncing can be utilized with auto-syncing
+
+[Image] https://downloads.intercomcdn.com/i/o/235045669/d57623ddfea1f812e4d24f07/image.png?expires=1763568000&signature=1eeeb791b31b56cff466f3cc58c1595ae93098c35468544972318d7aeab62ab8&req=diMiFs17m4dWFb4f3HP0gIuvNMpIdhU71wF2Ga59e6vDbG9i%2BrTf7%2FAedNyL%0A7Eyn61NiPqDwrr9Jdg%3D%3D%0A
+
+---
+
+Syncing Customers to QuickBooks Desktop
+
+When you import your customer data from QuickBooks Desktop, your customers are created in Housecall Pro. We then automatically generate a unique link for each Customer Profile. This allows us to sync your customers and link all future jobs for those customers in QuickBooks Desktop.
+
+When you skip the import, we cannot automatically create that unique link; it must be done manually to avoid duplicate customers.
+
+In this section, we'll guide you through managing workflows for two scenarios:
+
+- Adding a new customer profile to QuickBooks Desktop when they're not yet in your QuickBooks Desktop account
+​
+- Manually linking customers between Housecall Pro and QuickBooks Desktop when you create a job for an existing customer in QuickBooks Desktop.
+
+---
+
+How to Sync New Customers from HCP to QuickBooks Desktop
+
+If you create a new customer in your Housecall Pro account and they are not currently in your QuickBooks Desktop account, there are a few different ways to get that information to push over:
+
+- Create a real or test job and click one of the action buttons at the top of the Job Details page ('Finished,' 'Invoice,' or 'Paid').
+
+- Create a real or test job and scroll to the bottom of the Job Details page, click the 3 vertical dots in the QuickBooks section, then select 'Push to QuickBooks Desktop.'
+
+As soon as the QuickBooks Web Connector (QWC) runs, the customer information will be pushed over to Quickbooks Desktop.
+
+Below are the Customer and Address Fields in Housecall Pro and their corresponding fields in QuickBooks Desktop:
+
+Table:
+Row 1: HCP | QuickBooks Desktop
+Row 2: First Name | First Name
+Row 3: Last Name | Last Name
+Row 4: Display Name | Customer (Job) Name
+Row 5: Company | Company Name
+Row 6: Mobile Phone | Main Phone
+Row 7: Home Number | Alt. Phone
+Row 8: Email | Main Email
+
+Note: Address pushes over into the Address details box.
+
+Table:
+Row 1: HCP | QuickBooks Desktop
+Row 2: Street | Street address 1
+Row 3: Unit | Street address 2
+Row 4: City | City
+Row 5: Zip | ZIP code
+Row 6: State | State
+
+---
+
+Sync Existing Customers from HCP to QuickBooks Desktop (No Import)
+
+When scheduling a job in Housecall Pro for a customer who already exists in QuickBooks Desktop, ensure that the 'Customer Name' in QuickBooks Desktop exactly matches the 'Display Name' in Housecall Pro before completing the job.
+
+This exact match is required to manually link the customers between the two systems.
+
+​If the Names Do Not Match:
+
+- If the 'Customer Name' in QuickBooks Desktop does not match the 'Display Name' in HCP, a duplicate customer will be created in your QuickBooks Desktop account when the job is completed.
+​
+- Check out our "QuickBooks Desktop: Resolving Alerts" Help Article to resolve this issue. 
+​
+
+---
+
+Manually Push an Invoice to QuickBooks Desktop
+
+To manually push an invoice to QuickBooks Desktop from Housecall Pro:
+
+- Navigate to the Job Details page for the invoice that you need to push over.
+
+- Scroll down until you see the QuickBooks Desktop section and click the 3 vertical dots to the right.
+
+- Select the 'Push to Quickbooks Desktop' option. This will cause the system to manually push the information from Housecall Pro to QuickBooks Desktop.
+
+Pro Tip: You can push a $0.00 invoice to QuickBooks Desktop. To do this, you must have at least one line item on the invoice totaling $0.00. 
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/374241209/45daad49986bc65261706b99/Screen+Shot+2021-08-10+at+4.09.46+PM.png?expires=1763568000&signature=e0561376f0309f7dad81da7fe42e243b5175db13ea540c850fe7140a92ee2526&req=dycjFM1%2Fn4FWFb4f3HP0gM84ytcfvTLoAizxXBGtVO7QHBYZDmYcfjjakXrG%0Ama4f6C1o1qq%2FcxswwQ%3D%3D%0A
+
+---
+
+Example Scenario: How HCP Pushes Invoices to QuickBooks Desktop
+
+Scenario:
+
+Let's say you have a job that has two line items.
+
+The first line item is $300, and the second is $100.
+
+You have also received a payment of $10 for the job.
+
+[Image] https://downloads.intercomcdn.com/i/o/260749601/b3b14904fbbd593fe96e5a73/image.png?expires=1763568000&signature=1aa5ad32d26b4a2d41ee72008f2b563ef2f8ea7f72691c94d1dc9cd63e68fdcd&req=diYnEc13m4FeFb4f3HP0gGh5ARR74ZAP1lE26MjWalfASgEfbolni7DFI5Yw%0Aowm%2BMch12qBP0%2Fxtyw%3D%3D%0A
+
+What happens:
+
+When a job from Housecall Pro is pushed to QuickBooks Desktop as an invoice, the following occurs in the Chart of Accounts:
+
+- The job is recorded under Accounts Receivable.
+- The payment is recorded in the Undeposited Funds section.
+
+In this example, you’ll see a record of the invoice that shows the date, the amount billed ($400 total), and the amount paid ($10).
+
+[Image] https://downloads.intercomcdn.com/i/o/260747896/4e2ede7bbd0d973e42187550/image.png?expires=1763568000&signature=5b50ca7fc51f46b02265e42ef113809ee66a453f0c911de9984e1103e71c7811&req=diYnEc15lYhZFb4f3HP0gEabk5IkrTbGXIPMm5tLthFrkF6TlI02fhYTX73o%0AUhEi2TuOf1RLBxZmVQ%3D%3D%0A
+
+For instance, if the first line item is $300 and you’ve assigned 'Services Income' as the account for this price list item, you’ll then see a record of the invoice in that account.
+
+This will include the line items from the invoice that reference this account, along with the total income generated from those line items.
+
+[Image] https://downloads.intercomcdn.com/i/o/260748637/06a8aeead01964d5b2a0fdbe/image.png?expires=1763568000&signature=c8dcc562dbda4120f978aaa86057cfffd45752c4f0c914c792fa6efcfe1e5514&req=diYnEc12m4JYFb4f3HP0gM11nknwVy0CENZX4swIDs2UsVbtiLxRngmemOJZ%0AsCFF3GJmm8EjsMUgQg%3D%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/260764501/2d704918a86b0f6c4e46e344/image.png?expires=1763568000&signature=482b67c3ba0699930789cbe6ccf62b94d0e79073c82453463a31fa1035b594d4&req=diYnEc96mIFeFb4f3HP0gOmehShGOqQ9hDlJiTP4BYxjpyDIoNdIoEP4K1d7%0ARI8pH5A2S0sLBOUCKQ%3D%3D%0A
+
+If you assign “Parts and Material Sales” to the second line item's corresponding price list item, it will get recorded under that account.
+
+[Image] https://downloads.intercomcdn.com/i/o/260764630/8e72d95c376656d13eb4d876/image.png?expires=1763568000&signature=28ac367ae2f983cd48721a258eaac2a6a8728bed06faa669e32fd0464c1d2374&req=diYnEc96m4JfFb4f3HP0gJ3Ar9ESlEfGQ2PPqkK4N6t3qNHAxFPOiYXOKZw0%0A6Q0mGSypPPIgczhy4w%3D%3D%0A
+
+Line items made in HCP that aren’t from their price list in HCP will always be recorded against the Income Account you specified when connecting QuickBooks Desktop and HCP. Every line item on an invoice must reference some Price List Item in QuickBooks Desktop.
+
+The $10 payment for the job will be recorded in your “Undeposited Funds” account by default (we don’t ask for the name of this account, it will always go to an account called “Undeposited Funds”).
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/260748309/a0ddbed1684dc8f36074e565/image.png?expires=1763568000&signature=fd012f1a983aaae921a467ce64fb3fddd7a546cdc8ad77a405514a53450b42df&req=diYnEc12noFWFb4f3HP0gMp8UnEp09RjzoUfoaN%2FH6AqI4GzSHTfaQvvHE9E%0Aikx9Q4R2Bi2Fq74nJw%3D%3D%0A
+
+---
+
+Pushing Service Plans to QuickBooks Desktop
+
+Service Plan payments get pushed to QuickBooks Desktop as an invoice and as a payment. This push is triggered when a payment for that service plan is made.
+
+What if I marked the recurring Service Plan as already paid for?
+
+- When you first create a Service Plan and attach it to a specific customer, you have the option to mark that plan as already paid for. Since you are not collecting payment for the plan in Housecall Pro, we will not push an invoice or payment to QuickBooks Desktop.
+
+What if I accept the Service Plan on behalf of my customer?
+
+- If you choose to accept the Service Plan on behalf of your customer, you are prompted to then enter payment information to process the initial payment. Since you are collecting payment through Housecall Pro, we will push the invoice and payment to QuickBooks Desktop.
+
+What if my customer accepts the Service Plan and puts their credit card on file?
+
+- When the first payment is completed for the recurring Service Plan, we will push an invoice and payment to QuickBooks Desktop.
+
+What will I see in my QuickBooks Desktop account?
+
+- In the screenshot below, you will see a Service Plan payment "RSA-5" represented as: - An invoice (account = accounts receivable)
+- A payment (account = undeposited funds)
+
+[Image] https://downloads.intercomcdn.com/i/o/291678921/48d5060b65cbdadf876c7303/image.png?expires=1763568000&signature=f220e76d6182c4fde0c714db1f510527f412c6505fdac8ff91c0d1b112263414&req=dikmEM52lINeFb4f3HP0gF6IDsqM0D7tGDi%2BOI0B%2BPKlq%2FzVqnaBzAk9Nko0%0ArxRQDavm2yda3686IQ%3D%3D%0A
+
+---
+
+Syncing Classes from HCP to QuickBooks Desktop
+
+While Classes are not able to be imported from QuickBooks Desktop to Housecall Pro, they will sync as Business Units from Housecall Pro to QuickBooks Desktop as Classes after the integration has been set up. All you'll need to do is add Business Units to Housecall Pro for each Class.
+
+It is recommended to create a Class in QuickBooks first and then create the Business Unit in HCP to ensure an easy sync. New Classes can be created in Housecall Pro, but it will most likely need to be edited in order for it to sync to the proper account.
+
+[Image] https://downloads.intercomcdn.com/i/o/1162586259/ea8a356d7ad74d0aa891206b/Screenshot+2023-01-18+at+12_22_33+PM.png?expires=1763568000&signature=736d83760dbfd37234b7f82a8b73d20a437603e91778e1f479a951dc4c8f144c&req=dSEhFMx2m4NaUPMW1HO4zQLePrCjmmb1UAtbwtAaGw%2BSFoxSEyZ9%2BqrKQiSp%0A%2FYxpZk9jlxS409zgxjk%3D%0A
+
+To ensure that Class Tracking is enabled in QuickBooks Desktop:
+
+- Open your QuickBooks Desktop company file.
+
+- Click 'Edit' in the top left corner of your toolbar, then select 'Preferences' from the drop-down.
+
+- Select 'Accounting,' then go to the Company Preferences tab.
+
+- Click on the "Use class tracking for transactions" checkbox.
+
+- If you want a reminder when you haven't assigned a class, select the "Prompt to assign classes" checkbox.
+
+- Select 'OK' and you're all set!
+
+---
+
+Video Tutorials
+
+Housecall Pro Customers in QuickBooks Desktop:
+
+[Video - youtube] https://www.youtube.com/watch?v=ok0ryTSbb4Q
+
+Housecall Pro Jobs/Invoices in QuickBooks Desktop:
+
+[Video - youtube] https://www.youtube.com/watch?v=Wn767_QEntI
+
+Housecall Pro Payments in QuickBooks Desktop:
+
+[Video - youtube] https://www.youtube.com/watch?v=zHtz17NZi30
+
+---
+
+---

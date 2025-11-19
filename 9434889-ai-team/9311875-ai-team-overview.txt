@@ -1,0 +1,172 @@
+AI Team Overview
+Source: https://help.housecallpro.com/en/articles/9311875-ai-team-overview
+Author: Joanna D
+Last updated: Updated over a week ago
+
+Summary: Explore how to leverage Housecall Pro's AI Team
+
+Build Your Business with the AI Team
+
+The AI Team is now available for Housecall Pro accounts. There is no Beta program or waitlist. This group of AI-powered Teammates is built directly into your account to help you run your business more efficiently. From answering the phone for you and booking a job to generating custom reports and providing expert guidance, each AI Teammate is designed to save time, reduce busywork, and support your growth. Each Teammate is specialized in their field to support your business growth through analytics, marketing, customer service, and more.
+
+---
+
+---
+
+How to Interact with the AI Team
+
+All AI Team members are included for free with your Housecall Pro account and are set as enabled by default, except for CSR AI, which is an optional add-on that provides a 24/7 call answering service.
+
+---
+
+Access Your AI Team in Global Chat
+
+To access your AI team:
+
+- In your HCP account on web, look to the right-hand sidebar and click the Inbox icon.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1818769173/34ff29c83a020e60d03dd38afda8/f2c272d8-2ee3-4c3f-aa91-d863abb68261?expires=1763567100&signature=ed386a669d1b81f6e902ee154188811694a3ecd2c3a4f3d9d3768300dec17c07&req=dSgmHs54lIBYWvMW1HO4zf6jN7zBTCYuHTO6RHxuAmMQ9ITuA94Yv4T6jV6W%0At9aVFX76%2BuwZpwhXH3M%3D%0A
+
+- You’ll see a list of your chat channels, with your AI team pinned at the top.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1818772073/e12df4c749d53d841e99dd1ab232/b3769d35-81d0-456b-9381-b2085ce8ec92?expires=1763567100&signature=c5d322ed3c3eccdf8683843c8c60f786390f057c0580175e9de38a30ed510dd0&req=dSgmHs55n4FYWvMW1HO4zWpJA5xOyKvax0QG9lXvqqeQ2kqdhx3BWPB8qA3c%0AgsUjr%2FhaaQJTnRWA2UA%3D%0A
+
+- Click the AI Team chat to access your conversation, and that's it!
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1818780259/a0b637b62261e1f5e20d5b959a82/7bf89b9c-e66a-402a-b33f-9aa535942d01?expires=1763567100&signature=48df5f43dc949cc9e4c678c2bf347b3cf8b1a1bd1b9394ed9bb13d05b1c5f810&req=dSgmHs52nYNaUPMW1HO4zY9ZvR0Obk5RZ66JkSxEpzWI84Rtn672Qhq2oOic%0AIDtOUJ5Vw09fWnS%2FXws%3D%0A
+
+---
+
+Access Your AI Team Settings
+
+You will see a section in your Settings called AI Team. Here, you can view the AI Teammates. Currently, you aren't able to enable or disable specific Team members.
+
+To access your AI team settings:
+
+- Click the gear icon in the top right corner of your HCP account to access your Settings.
+
+- Select Team & Permissions from the left menu.
+
+- Make sure Team is selected at the top of the page.
+
+- Scroll down to the AI Team section.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1683268880/c5dfe669b83f0db544150adbd354/Screenshot+2025-08-22+at+10_48_59%E2%80%AFAM.png?expires=1763567100&signature=0b259e105756cc589f576c5bf661420137e022b7182d0cce0d7f03d32710521a&req=dSYvFct4lYlXWfMW1HO4zSumh34MFrs%2BP%2F8U%2F7qruI%2FQoBhUabadEzj%2BIRfJ%0A3ToAkRrLLvngDzzcUbs%3D%0A
+
+---
+
+Start a Chat with the AI Team
+
+To start a Chat with the AI Team:
+
+- First, access the AI Team chat by clicking on the sparkle icon in the top-right corner of your Housecall Pro account under your profile picture or initials.
+
+- Once you click the sparkle icon, it will open your message thread to start chatting with the AI Teammate. Only Analyst AI, Coach AI, and Help AI are currently accessible via the sidebar chat. (The sparkle icon will no longer appear if the AI Team sidebar is already open)
+
+[Image] https://downloads.intercomcdn.com/i/o/1049880617/cd512c334990948c90411755/Cursor.png?expires=1763567100&signature=aee4ff15e9123032ac7e3f4917c037479d405f5d61d27c1ad773dce1e463756d&req=dSAjH8F2nYdeXvMW1HO4zVrphZJQ3Ez0y7rpxAjeWpLuRh5RvsUGBATzvRbe%0Adyy42LXdmFJDgUCFqpQ%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1645570819/db0c08051378b5e29bd9254f002e/AD_4nXfR5AJskX0B4FnSVu5-xbp-WmXEIskPMcTgy68ZPSlWCnlBn0GPLaUjjKrvHQ4iyKEMwt6CSBsU4M6DW7b6j4ON3vVtlqjyQESPIGJFihvoE4Y7j0R0kE-luc73G3rdQPAouVl0OA?expires=1763567100&signature=53e07633f6af3c2114e9b85fdf8aad3ede5f85c0e8c4af8788b9b3258d8f2fdd&req=dSYjE8x5nYleUPMW1HO4zTBmT%2BfeTod28uk1aOBym222VXTfdYNE%2BEQAQ5fO%0ArlpuALaGmCwvDPWWodc%3D%0A
+
+We added the AI Team in the Inbox navigation and in Global Chat. Additionally, we have added a filter dropdown and an unread toggle for Global Chat to filter by communication type or unreads.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1645574566/a63afc6e18de710f69583e84a8bb/AD_4nXfbaSbDlT-OLlvJrK8CQxg5Peu_-H2TA3lIuCGZIOd7XWw-iLYiMsyI2hINj4RMSaiUUhrHRZa_hYFXV96OEpM-esJqtIOqbDr-Xpqxu6hBnX4UBYEXvsSi4qX8a_FjxrgMqdDb9g?expires=1763567100&signature=6777440a9217d67d1e348a0c2272699bcdf53106921269def939fc0d0725514b&req=dSYjE8x5mYRZX%2FMW1HO4zegwNX10wP4TiCJy5F9pIy7MlETeWI8HY3gucI9T%0AWT1aOS9%2FhU3uLNVtFQI%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1645574805/714bbbabc568f3dd7769c40232c2/AD_4nXcRw46rB4zB31nHM5pDfyHNH1QMbKRZijktkKLqnepckdno0SV7_DKUj6WFrUB98ZsU18Pj3EIevnSWCfsRCvmLNktXj80jzF6t6uG6raKDDUSpiekin5HZxU4eJVqsuX-9R3Bo?expires=1763567100&signature=481bbb8e7f57074948590df9404232679729b347364671abfaed500905702a9b&req=dSYjE8x5mYlfXPMW1HO4zaDyv5eg03nBQHi13KeNz0WlKk9DiUSMWQqc4w3m%0AIHuBzYdc%2FTQVOxuUjEY%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1645575084/63b0d0417c7050ab980f255c20ff/AD_4nXcxdpiUOR2c1kcnjVQtXl9Wv9twBGnH1dYY4C0aSHuhRziNzqZF3u7hhaT9DveVVtEc6POIrYB6_G931qUDKIPZr3FF3IzYurz_SlwYkRRuYhzjx_sBZhalfeLhZJK_wSB4obtc?expires=1763567100&signature=785d958dc0ebf02789a74b8e58375a4c13826e788911f4b8ae1424d7daff4525&req=dSYjE8x5mIFXXfMW1HO4zViOMLHRfw%2FWtV4hHccvbmjPur1oAwwtkDW7waHA%0ATzLUokwEWur2CJji%2BGs%3D%0A
+
+---
+
+---
+
+Meet the AI Team Members
+
+With the AI Team, you can offload the busywork, discover new growth opportunities, and take action with proactive insights and personalized coaching.
+
+The AI Team includes five specialized Teammates:
+
+Customer Support Rep (CSR) AI, Analyst AI, Coach AI, Marketing AI, and Help AI.
+
+Each one is built for a different part of your workflow and works automatically inside your Housecall Pro account.
+
+---
+
+CSR AI
+
+CSR AI is the ultimate customer service representative, ready to transform how your business connects with customers. This office admin is fully built into the Housecall Pro that answers every call, books the job, schedules the appointment, and provides a call log so you can know exactly what was discussed.
+
+Check out our CSR AI Overview to learn more!
+
+---
+
+Analyst AI
+
+Ask Analyst AI to generate a report using your real business data. It eliminates manual setup and delivers customized reports you can save with one click.
+
+Example Prompt: "Based on last quarter’s revenue, who’s my top-performing tech and how many jobs did they complete?"
+
+Check out our Analyst AI Overview to learn more!
+
+---
+
+Marketing AI
+
+Marketing AI helps you quickly create effective marketing content like emails, service descriptions, and review responses with just a simple prompt, saving you time and effort. Currently, Marketing AI is all over Housecall Pro with Write it for me Powered by Marketing AI!
+
+Save time and enhance your workflow with Write it for Me, your built-in AI writing assistant designed to help you craft professional, engaging content across the product.
+
+Check out our Marketing AI Overview to learn more!
+
+---
+
+Coach AI
+
+Coach AI shares tips used by 7-figure home service Pros to help you fix what’s not working and double down on what is. It provides expert business guidance, hiring advice, and practical solutions to help you grow, improve profitability, and overcome everyday challenges.
+
+Example Prompt: "What training resources for new hires do you recommend?"
+
+Check out our Coach AI Overview to learn more!
+
+---
+
+Help AI
+
+Help AI provides setup assistance, ongoing support, and tailored recommendations for your Housecall Pro account. It offers expert insights on maximizing HCP's potential.
+
+Example Prompt: "How do I add an employee to Housecall Pro?"
+
+Check out our Help AI Overview to learn more!
+
+---
+
+---
+
+What if I don't get good results from AI?
+
+AI is always evolving and improving, and you might not get the results you're looking for every time. If you don't get a helpful response from the AI Teammate, follow these steps to reach out to a human on the Support Team
+
+There will be a button that says "Talk to a person" beneath the AI's reply if you get a default answer, OR if you click the sad face to the right of "How was this?"
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1645613619/08eb3b8e26d93cc86ac8e5320565/AD_4nXdPZ1lA0Q02eXxbw46bnN7aCJEkCgwr3Mu0Xc0aRZ20eOuPE64NtvxFv9qs47Mmwby7F8xO3ytFXyWLgfiEIwhiKwAzNYrzMYn2EH6FoDJtvv0M7RNshMut8tUPMMTge_62ZreB?expires=1763567100&signature=e2baf6d5cc8905dc4a37345959bc44dd1010c70ff394a263c1b3f8262018ca82&req=dSYjE89%2FnodeUPMW1HO4zbLe9cSHzS1PnD1h%2FkMeDjkM%2FxLKqqa75gH0rR6s%0Ae2kQ9rlTAtiT%2BKDumFc%3D%0A
+
+Clicking "Talk to a person" will automatically open the Blue Chat Bubble and begin a chat with a Customer Support Rep.
+
+The benefit of clicking "Talk to a person" rather than opening the BCB yourself is that this will bring your conversation history with the AI Teammate to the Customer Support Rep. They will already know what questions you had and where the AI didn't give a helpful response.
+
+[Image] https://downloads.intercomcdn.com/i/o/1099211470/8b938f228e9f46107e148652/Screenshot+2024-07-01+at+10_16_24%E2%80%AFAM.png?expires=1763567100&signature=ff678e01706551d49517c2e24376bbace7a4243cec1baf088cef7458fe9e8637&req=dSAuH8t%2FnIVYWfMW1HO4zelTaG4RQKJJ3z99JLYDOBSmBFR9Tl6YhRfAhyBP%0AeL0TNNtBgFYJTNdYSF8%3D%0A
+
+There will also be a prompt, "How was this?" for feedback. You can click the smiley face or the frowning face.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1645633658/35a0df57c24a1be06dbe178212ef/Screenshot+2025-07-30+at+11_39_05%E2%80%AFAM.png?expires=1763567100&signature=d799e7312e4970581a406f2fb4933815c56e9293d4c451deda8c5a3513471def&req=dSYjE899nodaUfMW1HO4zffNVJ3KIDAec%2Ftywp0RC%2BavkCR%2FJXeMc7%2FwtbyF%0AjR3ZlKxZItqzRakJweM%3D%0A
+
+---
+
+---
+
+How to Close Your AI Chat Window
+
+To close your AI chat window, click the collapse (arrow) icon in the top right corner, under your profile picture or initials.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1645629605/88e59110e7b62b9823c07e8597bf/Screenshot+2025-07-30+at+11_37_05%E2%80%AFAM.png?expires=1763567100&signature=23d3394e0dac3eed0ffb8ec329a7d0dabb670584f1a3d89e40093de98c8bca34&req=dSYjE898lIdfXPMW1HO4zWDykjbOPagt7AJ9x5N45xTEfgXvr3psXpLno6Kk%0AjgXiBtqwQBPaBDOdy5M%3D%0A
+
+---

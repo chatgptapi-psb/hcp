@@ -1,0 +1,33 @@
+2025 Business Financial Account Changes
+Source: https://help.housecallpro.com/en/articles/10396838-2025-business-financial-account-changes
+Author: Jamie G
+Last updated: Updated over a month ago
+
+Business Financial Account Changes
+
+Housecall Pro is committed to having the best in class partners to ensure our customer experience remains unmatched. Some of our financial products use an embedded financial account that stores and moves funds in association with the business financial account provided in partnership with Stripe Payments Company.
+
+Starting early February 2025, funds held in or passing through your current account at Evolve Bank & Trust, Member FDIC, will be transferred to Fifth Third Bank, Member FDIC on your behalf, in accordance with our partnership with Stripe Payments Company.
+
+This upcoming change will impact the following products:
+
+- HCP Money
+- Expense cards
+- Bill Pay
+- Mobile check deposit
+
+There are no actions required on your part. Your funds remain secure throughout this process, and you will continue to have uninterrupted access to your money and all account features.
+
+What to Expect
+
+- You can continue to access your HCP Money funds as usual. All features and settings will remain the same. - You’ll continue to be eligible for FDIC pass-through insurance up to $250,000.
+- Your physical and virtual Expense Card numbers won’t change and you can continue to use them as usual.
+- You may see two Account Statements for some months around this account transition period.
+- Your HCP Money transaction page may display duplicate/multiple transactions while we move funds from your old account to your new account.
+- For Mobile Check Deposit users, you will not experience any changes to your experience and you may continue using Mobile Check Deposit as normal.
+
+Reversals
+
+- Any reversals related to your account will be handled as usual with funds transferred from your connected bank account to cover the debit owed.
+
+---

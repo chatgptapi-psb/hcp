@@ -1,0 +1,66 @@
+Add Images to Your Price Book
+Source: https://help.housecallpro.com/en/articles/5090587-add-images-to-your-price-book
+Author: Nate H
+Last updated: Updated over 7 months ago
+
+Summary: Learn how to add images to your Services and Materials.
+
+How to Add Images to Services & Materials
+
+To add images to services and materials in your Price Book:
+
+- Navigate to your Price Book and select Services or Materials from the menu on the left.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1479947831/f7d66b5b2e77818a7a110e868c56/Screenshot+2025-04-16+at+3_28_47%E2%80%AFPM.png?expires=1763568000&signature=580c5eba249a017945d874c821f7dc38e7992dc1cf46b5cafa01be9c004ee4ca&req=dSQgH8B6molcWPMW1HO4zZPVGvM6RGT9GyGOV8a4xaI7Egjopu28%2BP4L1ESh%0Aa02InMIjT16ch6ogcg0%3D%0A
+
+- For Services: Click the More icon (3 dots) to the right of the Industry, Category/Sub-Category, or Service.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1479966653/41e4e20fab2cd6c4524ef04c6507/Screenshot+2025-04-16+at+3_37_45%E2%80%AFPM.png?expires=1763568000&signature=6ce05a80c1d130d0bea802a93a564b24df2192ec8fde478aad78de46b5932bd3&req=dSQgH8B4m4daWvMW1HO4zbFpakH%2BPG6V8%2Bj5446XUV0ffW%2BSxoxnqvawmkRT%0A7a6Cxb3%2FD2tFFkJNS4E%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1482815909/28a867bf16fb56fb770ed07d5fa9/Screenshot+2025-04-18+at+11_32_44%E2%80%AFAM.png?expires=1763568000&signature=17ee38b60649a5e47cb069c6a531e4df402168c9228c8370256f60a7c61daee2&req=dSQvFMF%2FmIhfUPMW1HO4zUyUvNTfVQZBjh0tir%2F1JF0q5pM3%2BRcB5by1pZcb%0AgZEaJsLp3Nu9FBfGnj0%3D%0A
+
+- For Materials: Click the More icon (3 dots) to the right of the Category/Sub-Category or Material.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1479978963/82a8a8321e435fa1a62bc6aa3a90/Screenshot+2025-04-16+at+3_45_19%E2%80%AFPM.png?expires=1763568000&signature=7dde0593ddd282bd9c36e3dc989379ead894a99f1042cc03a38418678dc962b3&req=dSQgH8B5lYhZWvMW1HO4zRwqJ9yl8FLbIgtR8Ful1%2FqR5cpraUM4XnOOCWp6%0AH24Z8Oxmbs6V9%2FcT700%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1482811769/a2c63c555a26b2e4b3ad345f875b/Screenshot+2025-04-18+at+11_28_08%E2%80%AFAM.png?expires=1763568000&signature=dbffd8cb05105a404563a249d7e646e7c8144cc12e6b0dd23d50183e27a6069d&req=dSQvFMF%2FnIZZUPMW1HO4zbPRo6G3qHcFPt8vARyr6RB%2BhA5KV59m6O4dDKOJ%0AoTtm5lL9Y8TbGn3TH%2Bs%3D%0A
+
+- Select Edit from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1479987906/78e81928c55cdae414fcd90a4c49/Screenshot+2025-04-16+at+3_51_42%E2%80%AFPM.png?expires=1763568000&signature=ed9c099cef9bac07201ebf41ef2392cd0cbc6329558dc890e4b99c05d3f9db57&req=dSQgH8B2mohfX%2FMW1HO4zW2IIu6jaXBmDqgmuP85%2FIdZCW4PHtIcXawF5PML%0AEui3NIqrswq6ZfU0qIk%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1480028946/06661a473bc876b09d6f64ffe03a/Screenshot+2025-04-16+at+4_25_10%E2%80%AFPM.png?expires=1763568000&signature=a9b9fb63895a73b56a9f03a2fe14425c84aefd277148cf408abb8b0cc2da2576&req=dSQvFsl8lYhbX%2FMW1HO4zTxSN%2F1e93%2BGeBZGgaT7aaciWQKk%2BATGBwOybeSB%0A2M9GIvrI%2F6nAqn%2FpnO0%3D%0A
+
+- Hover over the image and click "Replace image."
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1479997915/e95f71d15de047f80052663c3a7b/ReplaceImage.gif?expires=1763568000&signature=a069613fd474ffbe41870a6b9e6bc566647086fa3f9c9b7259ccdba30264bd8c&req=dSQgH8B3moheXPMW1HO4zQCs48ShNZD%2FBF2CshniwKrp5bYqI0Zjz5x%2FXM43%0A8l3ZqgTMmEpzDEYEHm8%3D%0A
+
+- For service items with no image, click the "Add image" button under the image placeholder at the top of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1482777975/a0377e0f8a2cbef71f9e3b54c93d/Screenshot+2025-04-18+at+11_03_38%E2%80%AFAM.png?expires=1763568000&signature=2cfeed8cec54f344ee212ebf1ef07a877400f693033f04c987698e4b2092ac12&req=dSQvFM55mohYXPMW1HO4zfng%2BzdDaMpM0%2BCbKDh%2F4VFg0R5IUukFyujDFoeC%0A58aXdr8%2BPFX5bFIlVR0%3D%0A
+
+- If you'd like, you can select a stock image from your Image Library and click "Use selected image" in the bottom right corner of the window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1482788935/299f58786329380834079e40f984/Screenshot+2025-04-18+at+11_08_00%E2%80%AFAM.png?expires=1763568000&signature=11f6c1e353d2f4f0d69d8b845213d71c954e32943a7ae4a2363ab8663330b1d2&req=dSQvFM52lYhcXPMW1HO4zVZ2rlMNQOc1IigPpkIG1hb0lLMLe9QRfv4rtyOB%0AUJq3DuDg53SYShUrK2g%3D%0A
+
+- Alternatively, click "Upload image" in the top right corner of the Image Library window and select an image from your device.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1482788752/91f96042ef298ce3eef46a936e4c/Screenshot+2025-04-18+at+11_10_55%E2%80%AFAM.png?expires=1763568000&signature=b423ac00e7448aae80ead4f2920cce0207137b5bd903ae0c3c7efd76e2f24ab0&req=dSQvFM52lYZaW%2FMW1HO4zc8oh4RuNopNaWd3UreeGshrRi9lGezVTcE2e%2Fgo%0AoBTRHuQ9ncnSMpOasuQ%3D%0A
+
+When uploading an image:
+
+- Select an image file from your device and click Open.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1482855633/3075cd41fd5fa4047752ed1cc1cb/image.png?expires=1763568000&signature=cb04a6de1886e088a7a3e4d5067c4a3f72519eac57cdf16cf354bced264b49a6&req=dSQvFMF7mIdcWvMW1HO4zWakfLz2niQvH1%2Ffa5C5SxVScr2%2Bq%2FP2vwB3cXIk%0At4TnJCaoIv%2Fc82098gs%3D%0A
+
+- You will then have the option to crop the image.
+
+- Adjust the image by resizing the blue box and/or using the + or - magnify icons to zoom in or out until the image looks the way you want it for that category.
+
+- To adjust the image orientation, use the left/right rotate icons as needed until the image is positioned correctly.
+
+- Click Save to apply your changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1479559049/65d9d38a1eee2cb0c63502685267/Screenshot%2B2024-07-31%2Bat%2B1_35_37-E2-80-AFPM.png?expires=1763568000&signature=8c937228855fd61f7068c8f2329425610f3971f9fa6bd07b1a1d1693d2613919&req=dSQgH8x7lIFbUPMW1HO4zeMCbkdlSzy6sSh2BIRJJw%2FJt6VmQ3hrv%2FSmJIwS%0Au90y%2Fh6H3%2FXxrwo1Yx8%3D%0A
+
+---

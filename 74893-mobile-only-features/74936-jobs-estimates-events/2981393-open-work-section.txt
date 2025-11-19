@@ -1,0 +1,73 @@
+Open Work Section
+Source: https://help.housecallpro.com/en/articles/2981393-open-work-section
+Author: Ian H
+Last updated: Updated over a month ago
+
+Summary: How jobs and estimates end up in the Open work section of the mobile app.
+
+Mobile App Open Work Section
+
+The jobs and estimates in the Open work section will only appear on the dispatched employee's app. Owner/admins will not see their employee's open work, only their own.
+​
+
+To locate the Open work section, open your HCP mobile app and navigate to the Open work section on your dashboard. This will be listed under the clock in/out and Timecard section.
+
+The Open Work report on the mobile app includes jobs/estimates that match any of the following:
+
+- Have been completed in the current calendar day (marked as Finished).
+
+- Are scheduled for the day (unless Field Tech permission to view the entire schedule is disabled).
+
+- Have On My Way or Start clicked, but not Finish.
+
+This does not include unpaid or unscheduled jobs/invoices; those can be found in the Needs Attention section (unless they match any of the above, they will appear in both).
+
+Click the number in the right corner of the section to view your open work.
+
+[Image] https://downloads.intercomcdn.com/i/o/121214549/730fca2b25104b5483e70c49/Screen_Shot_2019-05-14_at_8_14_57_AM.png?expires=1763568000&signature=0eef74ea5d389a44339c0f73fd8b266db2ec2560eec51515ec4d91e64e2c2003&req=dSImFMh6mIVWFb4f3HP0gMqmVykwQnlDve7O%2FuZT3GA1AlnonHsZ1WQ9A1Lu%0AAkyg54oOPe0mRSVyXw%3D%3D%0A
+
+---
+
+---
+
+Needs Attention Queue
+
+Overview of the Needs Attention queue seen at the top of the Housecall Pro mobile app.
+
+To locate the 'Needs Attention Queue' section, open your HCP mobile app and navigate to the 'Needs Attention Queue' section on your dashboard.
+
+The Needs Attention Queue or Banner appears at the top of any Housecall Pro mobile dashboard whenever there are Jobs that require action. The two statuses that qualify a Job as needing attention are Unscheduled and Unpaid. Tap the Needs Attention banner to view these items.
+
+[Image] https://downloads.intercomcdn.com/i/o/391120305/06e0a1e03434214651fb2c25/Screen+Shot+2021-09-17+at+4.18.59+PM.png?expires=1763568000&signature=119c199e13190908fc299246656ed778e89df99c208b5db7d48226d2ba9a85d3&req=dykmF8t%2BnoFaFb4f3HP0gAdsk5otERgAFZceJiovV11pqUziObiVxvKTEslJ%0AaEgNoZnTjspX%2BSSYwQ%3D%3D%0A
+
+---
+
+Unpaid
+
+Sign into your mobile app and make sure you are reviewing the dashboard. Click into the Needs Attention section. Lastly, click the Unpaid tab. This section will show any jobs that have a balance and are assigned to the employee viewing their Needs Attention queue. Tap on any job to view the full Job details page.
+
+[Image] https://downloads.intercomcdn.com/i/o/391117483/ad3393937a84bb1b9df318d3/Screen+Shot+2021-09-17+at+4.04.41+PM.png?expires=1763568000&signature=ed7ebfd5ced2d5a5a4052f5a7cae22ae5a9daeb59a8cf4a230aadc5f5e13b62d&req=dykmF8h5mYlcFb4f3HP0gA5rb6cZthKVtvSuWqN0Gxme5SSxwStmCDJhtNm1%0ANqOb0kUZQBDBi6t7JA%3D%3D%0A
+
+---
+
+Unscheduled
+
+Sign into your mobile app and make sure you are reviewing the dashboard. Click into the Needs Attention section. Lastly, click the Unscheduled tab. This section will show any jobs assigned to the employee viewing their Needs Attention queue that remain unscheduled. Tap on any job to view the full Job Details page.
+
+[Image] https://downloads.intercomcdn.com/i/o/391118128/834181adeaf10fbb5a7d59ba/Screen+Shot+2021-09-17+at+4.05.05+PM.png?expires=1763568000&signature=db93f67d3809271b315a6c2a4c213999437f1b7e32db65f9f87276cf31f817cd&req=dykmF8h2nINXFb4f3HP0gLEdkQRJXGLLdFkhdi2o2wsO5H3D%2F9XLBkD6W5gE%0AjEnR85%2FveS50rpIP9Q%3D%3D%0A
+
+---
+
+Removing Jobs from Needs Attention
+
+- Jobs will be removed from the Needs Attention queue once the necessary action has been taken (i.e., payment has been applied or has been scheduled, respectively).
+
+- If neither of these actions is to be taken, but you would like to remove the job from an employee's queue, the employee must be unassigned from the job.
+
+---
+
+For more information on jobs, please see our Jobs, Invoices, and Estimates Collection.
+
+---
+
+---

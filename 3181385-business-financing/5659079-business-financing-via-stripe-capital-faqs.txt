@@ -1,0 +1,161 @@
+Business Financing (via Stripe Capital) FAQs
+Source: https://help.housecallpro.com/en/articles/5659079-business-financing-via-stripe-capital-faqs
+Author: Ian H
+Last updated: Updated over a month ago
+
+Summary: Learn how business financing through Stripe Capital works.
+
+General
+
+What is business financing, and what can it be used for?
+
+- Business financing is funding for your business.
+
+- Through business financing, you can access funds to hire techs, buy materials, and to even just have cash on hand for slower months.
+
+What is Stripe Capital?
+
+- Stripe Capital is a business financing product developed by Stripe. Not only does Housecall Pro use Stripe for payment processing, but Housecall Pro has partnered with Stripe Capital to offer funding to Pros!
+
+What are the advantages of Stripe Capital?
+
+- Simplified application: Apply in a few clicks – applying won’t impact your personal credit score.
+
+- No surprises: Know what you’ll pay from day one with one flat fee. No compounding interest, late fees, or early payoff fees.
+
+- Funds in days, not months: If approved, funds are transferred to your Stripe account in as little as one to two business days.
+
+- Automatic payments*: Payments are made automatically through your Stripe account, so you can focus on growing your business instead.
+
+Is Stripe Capital (via Housecall Pro) integrated with QuickBooks Online?
+
+- Yes! Head on over to this Help Article to learn more: QuickBooks Online Integration with HCP Business Financing (via Stripe Capital)
+​
+
+---
+
+Offers and Application
+
+How does Stripe Capital determine who qualifies for an offer?
+
+- Eligibility is based on a variety of factors related to your business, including the volume of payments within HCP and your account history.
+
+How will I know if I’ve qualified for an offer?
+
+- Housecall Pro will send an email to the address you provided for business communication/account communication. You can also view your offer in My Money under the Business Financing tab.
+
+Will applying for an offer affect my credit score?
+
+- Applying for financing through Stripe Capital might include a personal credit check under some circumstances, but this credit check doesn’t affect your personal credit score. If a personal credit check is required you will be notified during the application process.
+
+After I accept an offer, how quickly will I get my funds?
+
+- If your application is approved, you’ll typically see the funds in your bank account within 1-2 business days.
+​
+
+Can I customize my offer?
+
+- Yes! You’ll see your maximum offer amount in your offer email and in My Money, but you can request any amount up to that offer. The fee and payment rate will be adjusted based on your requested amount and offer type.
+
+What information do I need for my application?
+
+- You’ll be asked to enter the annual revenue of your business. Then, you’ll need to confirm the accuracy of all other pre-filled application information.
+
+What happens when my offer expires?
+
+- If your offer expires, your business will be automatically re-evaluated to see if you’re eligible for an additional offer. Each offer is available for 30 days.
+​
+
+---
+
+Payment Terms and Minimums
+
+How do payments work?
+
+Paying back financing depends on the type of financing you’ve been offered, whether it’s a Flex loan, Fixed term loan, or MCA.
+
+Flex Loan
+
+- Repayment is collected automatically through a percentage of the credit card and ACH payments you receive through Housecall Pro, which means you pay down more when business is busy and less if things slow down.
+- As long as you meet your minimum payment requirement, what you pay each day adjusts to your sales. The timeframe for your minimum payment period will be listed in your loan contract.
+
+Flex Loan minimums
+
+- Stripe Capital loans have a minimum amount due each payment period. If the amount that you pay through sales doesn’t meet the minimum required, your bank account will be automatically debited the remaining amount at the end of the period.
+
+Merchant capital advance (MCA)
+
+- Payments are automatically taken out as a small percentage of your incoming payments.
+- Instead of paying back in fixed monthly payments, a portion goes toward paying the advance when you get paid.
+
+MCA minimums
+
+- MCAs don’t have a fixed term or end date. That means there’s no set final payment date, and no required minimum payments. Instead, you pay the advance automatically as a percentage of your sales. The timeline depends on how much you bring in. When business is slower, you pay back less, and when business is strong, you pay back more.
+
+Fixed Term Loan
+
+- Payments are made through a portion of payments which means a percentage of your payments is taken out as repayment.
+
+Fixed Term minimums
+
+- You’ll have a 7-day minimum payment amount. If the minimum isn’t met through those payments, we’ll debit your bank account to make up the difference.
+- Once the minimum is met for the week, no more is withheld until the next 7-day period starts.
+
+What is the total cost of the financing?
+
+- The total amount you owe is your financing amount plus a flat fee. You won’t pay any interest or any other fees such as late fees, early payment fees, or origination fees.
+
+Do I have to pay interest?
+
+- No, you’ll pay one flat fee that does not change. You won’t pay any interest on top of this fee.
+
+When do I need to pay the flat fee?
+
+- Together with the total amount, you’ll automatically pay the flat fee via a percentage of your sales until the total amount owed is repaid. The fee is not charged up-front.
+
+Can I pay my financing early?
+
+- Yes! Select the white and blue “VIEW DETAILS” button from your Financing overview card. This will direct you to a Stripe dashboard, where you can make a manual payment. There are no additional fees for early payment.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1644385001/cf8fee8ad9847a00e36e64a02f37/AD_4nXcjPo2O1IIMte2phIBFVRKCgPEJ71t0olaq807PZVRn1niOZ2I_8CQFDXrZdZ1vL4uNPjqHFzqUg0nT2ydE0cRjgT_e18AWM3HYBiMxcIDTT0EUanZj5N0srT19bN9AydACsqQhvQ?expires=1763568000&signature=e9187330b8e61067501a03a0e2f2ffc0b33360f5459ae700cdbacc5d9994d572&req=dSYjEsp2mIFfWPMW1HO4zXKKxPrZHiUEw9ETF7tjcDtr6DxmLD8q%2ByjGTMlL%0AKwPimDK2N%2B%2BhMFQZde8%3D%0A
+
+Will I become eligible for a new offer while I’m paying down existing financing?
+
+- Your account will be evaluated for additional funds when you’ve repaid at least 75% of your open financing through HCP payments. Qualifying for additional funds is not guaranteed.
+
+Will paying down my open financing early qualify me for a new offer?
+
+- After you fully pay down your financing, you’ll automatically be evaluated for a new offer. Qualifying for additional funds is not guaranteed.
+
+What happens to my financing payment if a charge gets refunded or disputed?
+
+- You can request that the payment associated with the charge be refunded to you by contacting Housecall Pro (Blue Chat Bubble or support@housecallpro.com) or Stripe directly (capital-support@stripe.com).
+​
+
+---
+
+Other
+
+How should I report these funds on my taxes?
+
+- Tax reporting is often dependent on your specific situation, so we encourage you to talk with a tax advisor to ensure appropriate accounting. In general, Stripe Capital funds would not be considered taxable income at the time of receipt, and the amounts withheld to satisfy your obligations are not tax deductible.
+
+How is this different from consumer financing?
+
+- Consumer financing is for your customers so you can win bigger jobs (when your customers borrow money, they may be able to afford jobs they couldn’t otherwise).
+
+- Business financing is money for your business.
+
+What happens if my earnings decline?
+
+- If your per-transaction withholdings do not cover your minimum payment requirement, Stripe, our partner, will debit the difference from your linked bank account at the end of your minimum payment period. If this debit fails, then Stripe will reach out to you to help you meet your payment obligations and determine next steps.
+
+Who can I contact to learn more about the Stripe Capital program?
+
+- If you have additional questions about how our financing program through Stripe Capital works, you can contact our partners at capital-support@stripe.com.
+
+Stripe Capital offers financing types that include loans and merchant cash advances. All financing applications are subject to review prior to approval. In the US, Stripe Capital loans are issued by Celtic Bank, and YouLend provides Stripe Capital merchant cash advances. See your Dashboard for the terms of your offer.
+
+*Stripe Capital loans have a minimum amount due each payment period. If the amount that you pay through sales doesn’t meet the minimum required, your bank account will be automatically debited the remaining amount at the end of the period.
+
+---

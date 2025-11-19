@@ -1,0 +1,33 @@
+Marking Invoices and Jobs as paid
+Source: https://help.housecallpro.com/en/articles/7062125-marking-invoices-and-jobs-as-paid
+Author: Michael Storer
+Last updated: Updated over a month ago
+
+Summary: How to know more about which invoices will be marked as paid when you take payments with progress invoicing.
+
+This help article will walk you through keeping your invoice reporting clean. If you are someone who invoices via Housecall Pro but isn't always getting paid through the invoice itself, the information will walk you through best practices. 
+​
+
+---
+
+Mark the Invoice as paid with Progress invoicing
+
+We recommend this option if you are receiving a payment that matches up exactly with an invoice that you sent to a customer.
+
+- You can click the card icon to the right of the paper plane from the Invoice summary table on the job details page (which is only available through progress invoicing) and mark the form of payment you are receiving.
+
+[Image] https://downloads.intercomcdn.com/i/o/686870953/e82f4388fad04e4f8099c7d8/image.png?expires=1763568000&signature=50a8764025da0050a88130f8c72f40b92a7588e8b5ba7a4cb831d19652914773&req=cighHs5%2BlIRcFb4f3HP0gLbx5wasqlRuXwmuLDi5odzWHGjC7shdlFBXAO4z%0AGtiFjxxrh58wL2WI7g%3D%3D%0A
+
+---
+
+Apply Payment to a Job with Progress Invoicing
+
+We recommend this option if you're getting an odd sum that does not exactly match an invoice you have sent with progress invoicing, but is less than the total amount for the job. This is also a good option if, for example, you sent multiple invoices with progress invoicing but are receiving one lump sum payment for those invoices.
+
+- Click the Pay button on a job and enter the amount to pay towards the job.
+
+[Image] https://downloads.intercomcdn.com/i/o/790611749/256705abb572665ec1247fae/image.png?expires=1763568000&signature=15ebe5b50b4b6ccc8db8c460534ab89264a763d49404bb378958cc1f3cebac1a&req=cyknEMh%2FmoVWFb4f3HP0gNS3fgGf14L51HZnFU7abZu5Q76V%2BQp%2BgYUC6gKS%0AIVRFF4pVYMTW1qHKUQ%3D%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/790612024/2d5be5e438921cdf79187a23/image.png?expires=1763568000&signature=cd85b7b48de821308092b827ac74286a84a9495d5938e974fd5b1aaa19e16150&req=cyknEMh8nYNbFb4f3HP0gKPrVvdSoD0I4i3FFDtGmTzePBGEhBTdMjW141hI%0ApQk2Ha6cMONgIIV6ww%3D%3D%0A
+
+---

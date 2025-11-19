@@ -1,0 +1,243 @@
+Dashboard Reports Overview
+Source: https://help.housecallpro.com/en/articles/690728-dashboard-reports-overview
+Author: Taylor M
+Last updated: Updated over 10 months ago
+
+Summary: Filter and manage the estimate dashboard
+
+Estimates Dashboard Report
+
+From your Dashboard, the Estimates dashboard report quickly tells you how many estimates you have created, how many have been won, and any that have been lost.
+
+An estimate that is copied to a job is considered a won estimate that has gone from being an estimate performed to a job that will result in a paid invoice for your business.
+
+This dashboard report can be filtered and sorted by date range and table columns. Click the eye icon to edit your report.
+
+[Image] https://downloads.intercomcdn.com/i/o/45305523/d8ba50099cf9fe9d91eaef4a/HouseCall.png?expires=1763568000&signature=9f77d1a7b42f178c0117dd21ced4f60b11e1837f7ca5674e11033df2c130cfae&req=cCUkFsx7n4ITWLcX3D%2B5hhGGKO2%2FVjF1D2Bv%2FRgz93%2FFtkLI%2FqYmDh57hLuM%0Aj4cyr0lwLmCAZzVe%0A
+
+[Button] Click Here to See Your Estimates Report -> https://pro.housecall.io/pro/grid/estimates/13e5d58a96b4b0c9cba5253918fd3391?utm_source=intercom&utm_medium=internalpage&utm_campaign=help-center&utm_content=webportal-estimates-dashboard&utm_site=web-portal&mc=Content&msc=help-center-estimates-dashboard
+
+---
+
+Video Tutorial: How to Run an Estimates Report from the Dashboard
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/zm7456z2gw
+
+---
+
+---
+
+Jobs Dashboard Report
+
+The Jobs dashboard allows you to quickly view the number and dollar value of your jobs for all time. It also allows you to quickly see the number of scheduled and unscheduled jobs along with the amount of money for each.
+
+- The blue bar graph displays the monetary value of the jobs while the number on the left shows the job count.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1350856353/15983e9a67ae1c6542398c03fc39/image.png?expires=1763568000&signature=fc03d6494cc4c8860a60f1160b930a8c53340ddc202ef97f833bfc5d38e0d0bb&req=dSMiFsF7m4JaWvMW1HO4zZi7skwfJZy8B3rlDOqyvJb%2FoHpi6GtjGtqe5E8l%0AJIKv6jPmKkx5F4EFYWQ%3D%0A
+
+- Hover over any section of the graph to view exact numbers for a data point on the graph.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1350856352/819d2d988261e7fdcce5555bff11/image.png?expires=1763568000&signature=c7a3e0d7d36c6427b10e847cc8b38a16b80d198bbeb1bfc262eeb6ed2be2f739&req=dSMiFsF7m4JaW%2FMW1HO4zfP4ToruP3xHaE4KDMx4oFwddJuh9VpQU33WAzbs%0AEDowfh0jgU1omnaqDAo%3D%0A
+
+- By pressing the eye icon, you can view the full job detail report. This report can be filtered based on date range and table columns.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1350856355/50ef6727bd39032a61674ba99346/image.png?expires=1763568000&signature=ba65d9e6fe17fa79990fa4afe7a5649944ecac5482c8719de929f0b3e11e843a&req=dSMiFsF7m4JaXPMW1HO4zeTR6F2sPJ8JBPMg9bp4t%2Bt0AictErKscteevT8V%0A9XlH%2B%2BOiimJH3eNkohQ%3D%0A
+
+- Once you click to View & Configure the report, you will see the ability to change the date range and select the table columns that you would like to see for data about the job.
+
+- You will also see summary data for the number of jobs and their monetary value. You can filter any column by clicking on the light blue funnel icon to the right of each column name.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1350856356/875c354fdad2dc1ec292d5627415/image.png?expires=1763568000&signature=fb31299589c2e7f5c70cfeabf14eed0d5bfe054584b71a083f7c8ed2b4963b78&req=dSMiFsF7m4JaX%2FMW1HO4zeiX9RSB7S8wSEOawpi3pgLyPfb9AXnAGKUUh403%0AsXcsb%2BZr6apaH%2B65BLk%3D%0A
+
+---
+
+---
+
+Job Revenue Earned Dashboard Report
+
+Revenue is one of the most important metrics used to evaluate your business performance. The Job Revenue Earned dashboard report will show you how much job revenue you've earned and how that revenue compares to the past.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355310732/7e68a0b2609a7b44be7d27a8ded8/Bi93dsUWYoa8f6Q16jFM4k-sWtiN6iTElEYy-f6SjGFz5vfEh5p7KJkpfwl7AwGOujh7NafZSrqWJgNk4bMCULcS9e8Tiz0JEsGq2vZYvoHJyOUyhxm1BA5S0ifgjVV3Qzra0DM--3Ds0?expires=1763568000&signature=a2b0127d5b8e96a0d9995e2a43e2a163fe317c47fa6950ead46d5adb370250b6&req=dSMiE8p%2FnYZcW%2FMW1HO4zaWcCUzrmGX6TuDIQpblVbEPn2zegUPCk%2BLfkaG1%0AGpzHOKq%2FEzrOXleCU0g%3D%0A
+
+How it's calculated:
+
+- By default, your Job Revenue Earned dashboard report will show your current week's revenue and weekly revenue over the past quarter.
+
+Table:
+Row 1: Revenue earned = sum of $ value of all completed jobs
+
+- This week includes any jobs that you’ve completed during this calendar week, or revenue earned Sunday through today's date.
+
+- The average revenue line on the chart will show your average total revenue for the selected time frame.
+
+How to drill down into the report details:
+
+- Click anywhere on the revenue chart to drill into the jobs that make up your job revenue earned.
+​
+
+---
+
+Filtering the Job Revenue Earned Dashboard Report
+
+You can filter to a different time period on the chart by clicking on the filter icon in the top right corner of the card.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355310734/1073d18801670948ed60652e80d5/image.png?expires=1763568000&signature=436904c7d0aa9678ae326f7f40a0458d36a6e5290b3e12e9d7a15e7d92d42395&req=dSMiE8p%2FnYZcXfMW1HO4zfGhDzO1s%2B7XCcz72Pr77EgYpt4%2F%2FGnVFG9Okrnb%0ALzl2q148QafOmVKFsqM%3D%0A
+
+After clicking on the filter icon, you can change the reported time frame by selecting Daily, Weekly, or Monthly.
+
+- Daily view = data for the past 7 days.
+- Weekly view = data for the past quarter (13 weeks).
+- Monthly view = data for the past year (12 months).
+
+In all views, the final metric will be your current job revenue, whether it's today, this week, or this month.
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355310727/e6a896d7b140cb73a847f9d3e1be/image.png?expires=1763568000&signature=c0e9d6fe5049855102e5ce1ce1e47c9900c73dd11f8970f0560fa4e550322d88&req=dSMiE8p%2FnYZdXvMW1HO4zY54H1Onpe7wy0LokHav%2BbhSY3saK%2F%2B9kUQtcseh%0AXYqkMZTl6Zc%2BH6J1BDI%3D%0A
+
+---
+
+---
+
+Jobs By Tag Dashboard
+
+This report on your dashboard will show you at a glance which job tags are attached to the most jobs. It's a snapshot views of jobs by tag to gain insights into which Job tags you are using the most.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355232938/f41c260bbfc821f80b5e9f27b872/1.png?expires=1763568000&signature=3a8d107323294d30bdef1fb1a953f01eec93c7694d3ca2fd80cbff5b5d5a39ee&req=dSMiE8t9n4hcUfMW1HO4zWuI1G0eJ0RrpkZblRaiAJYqFlCvZTAGKHdLtFQ7%0A6O%2BSa1OhtEM8%2BQGqGdU%3D%0A
+
+Job tags can be used to keep track of different aspects of a job. For example, a job can be tagged with a certain product name to indicate that a product was used when performing this job. A job can be tagged with a status such as "awaiting part" to indicate why the job is in its current state. A job can be tagged with a specific tag to indicate that an upsell was used as well.
+
+In order to see or filter jobs by tag and see which jobs have been tagged specifically, you will want to run and filter your Jobs Report.
+
+---
+
+---
+
+Average Job Size Dashboard Report
+
+The Average Job Size report appears on the main Dashboard of your Housecall Pro account and shows the total revenue earned divided by the total number of jobs completed.
+
+This report defaults to a weekly view and includes a comparison average job size for the previous week and quarter.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355344327/57297bb0267297518282a6677296/nofilter.png?expires=1763568000&signature=52363be2bc3314a269e6ddfb9ccb830757ee7b533bd088e86f54734299daec85&req=dSMiE8p6mYJdXvMW1HO4zTdPaLoVB%2FclU32rDxYhPqE9Z9VyZ23D1umE0wyS%0ApBQW0G%2FilN%2B1P9jQZo4%3D%0A
+
+The Average Job Size report cannot be deleted, but it can be moved anywhere on the Dashboard.
+
+- To move the report, select the “Reorder dashboard reports” toggle in the bottom left corner of your dashboard.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355344325/c748aa2fc8de03ea2e6820d99aaf/ReorderDashboardReports.png?expires=1763568000&signature=b950b4cc2b6134d8731f44c898389ab1eb94507dd67c9699997891ee53f3c127&req=dSMiE8p6mYJdXPMW1HO4zafWV7cM1fDxny6pmEG4z0IM1866JjtA4g75s35C%0AWyWRWq4L7argvFXBRFw%3D%0A
+
+---
+
+How the Average Job Size Report is Calculated
+
+- Average job size = (sum of $ value of completed jobs)/(count of completed jobs)
+
+- Week = starts on Sunday and ends on Saturday. - For example, if it is Tuesday, this week's job size will consider any jobs completed on Sunday, Monday, or today.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355344326/fe951974f733b64617173cae4a15/image%2B-286-29.png?expires=1763568000&signature=8dbe54d916c4d494fef1204303783063c1a8b4961e0b48dd0e4ede4202670f09&req=dSMiE8p6mYJdX%2FMW1HO4zTFx8I3OYLnh5rfMO3cw1ZPD2LpVhz9x5nzp%2FFhG%0AI5HipDL3Gd34mBhZoqI%3D%0A
+
+---
+
+How to Filter the Average Job Size Report
+
+- You can filter to a different time frame on the chart by clicking on the pyramid icon in the top right corner of the card.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355344323/8d921e2d2f597c09d5f3efffb949/image.png?expires=1763568000&signature=a99f86083b293ce3a3435b8db8735e1396d7a9876b140512deb473fb2aca8a79&req=dSMiE8p6mYJdWvMW1HO4zTSkjOFlc3wQ2SaQEf%2BFzdFh35QblfWDvCrfZ9JR%0AFwWglD3U92o1MUt%2B%2FQI%3D%0A
+
+- After clicking the filter icon, you can change the reported time frame by selecting one of the following options: - Daily (data for the past 7 days).
+- Weekly (data for the past quarter/13 weeks).
+- Monthly (data for the past year/12 months).
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355344324/42df2f77c717246a58ad79174bac/image.png?expires=1763568000&signature=8ab9174e5cd66d211845bce2312210a825b64682308225bd38ab258aa6b58939&req=dSMiE8p6mYJdXfMW1HO4zU%2Bq8Nkxn9jZ5oAE8y0XEUdqYT21EEhWM72vU08%2F%0AZJdXw6IdirhP2XTRviw%3D%0A
+
+- In all views, the final metric will be your current average job size, whether it's today, this week, or this month.
+​
+
+---
+
+How to Drill Down into the Report Details
+
+- Click anywhere on the average job size chart to drill into the jobs that make up your average job size.
+
+---
+
+---
+
+Sales Leaderboard Dashboard Report
+
+Filter and manage the employee productivity dashboard.
+
+The Sales Leaderboard on your main Dashboard is one of our pre-set visual cards to show which employee has had the highest overall revenue assigned to them all time.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1351023457/dd2050a800a52f4753ca3d7e3210/image.png?expires=1763568000&signature=ddee03fabeed8c1a7e5dd7d352d254f666e2adc5f59bbd695f08df8310385c63&req=dSMiF8l8noVaXvMW1HO4zeJQnmkmA2Rd04VmNSFWTKkAmsdhayU7jnJ4fjuh%0A6riGS6ajCM027TAFiRY%3D%0A
+
+---
+
+Sales Leaderboard FAQs
+
+How is this calculated?
+
+- Both the number of jobs and the dollar amount tied to those jobs are based on a job in the system being marked as finished.
+
+What if there are multiple employees assigned to the job?
+
+- The entire dollar amount of the job will allocated to each of the employees assigned to the job. All employees will get credit for the job counting towards the all-time number of jobs they have been on.
+
+If an employee no longer works for us will they still appear?
+
+- Since this dashboard is all time it will show both active and removed employees.
+
+Can this be customized?
+
+- Since this is a pre-set all-time visual, you are unable to customize this report. However, you can get this same data and customize it by employee or date range or tags by creating a Jobs report.
+
+---
+
+---
+
+Repeat Customer Dashboard Report
+
+A repeat customer is any customer who has booked more than one job. The Repeat Customer report on the Dashboard shows you the percentage of repeat customers you've had jobs with over the current month as well as your total revenue from your repeat customers in that month.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1351024672/bc04d9d2b598aaf4cdc4c41376a4/HouseCall.png?expires=1763568000&signature=574f5a39927bd2438d5511c803988f870c0ba27e27394d6a696a0527c57f908b&req=dSMiF8l8mYdYW%2FMW1HO4zd%2FBqkPPeIIx%2FpIcd7qZ9JbVJZjKCqHBRUx6%2FB1O%0ADa8YPxfnnv6LMN6%2FhBE%3D%0A
+
+Table:
+Row 1: Percentage of repeat customers: | Total revenue from repeat customers:
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/111043214/93cd8363bb5fa7c8599ef113/HouseCall.png?expires=1763568000&signature=506683683d040db36b5097d265b1b03775ff81a269bb9ff7c7beaf54f6fdb683&req=dSEmFs19n4BbFb4f3HP0gB3R%2FxiutfKvfnoehJ8xs5S6kqegUj9QVZfR%2BccW%0A1DE%3D%0A | [Image] https://downloads.intercomcdn.com/i/o/111043216/3e31f70b7677c26eafbd6a2c/HouseCall.png?expires=1763568000&signature=637cc215f5bfbcba65c3121942eb8c2ef126634688b2a5adca40939ee7ed06e8&req=dSEmFs19n4BZFb4f3HP0gN6M%2FN%2BiHzBmqtFrGgdLC8lLjUxnvOVj%2FlawM9PU%0AmoA%3D%0A
+
+---
+
+---
+
+Create a Report for Travel & Job Duration Time from the Dashboard
+
+To create a report for Travel and Job Duration time from the Dashboard:
+
+- Go to your Dashboard by clicking the 'Dash' tab in the navigation bar of your HCP account.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355442044/7cf5142a729e3e879b49258d739b/Screenshot-2B2023-08-31-2Bat-2B11_39_05-2BAM.png?expires=1763568000&signature=633369d1c55ee6a8ad156d78da6fb3df68206320d8b8f461a0f3ed4050642fe2&req=dSMiE816n4FbXfMW1HO4zbk7bU0hiPifEj4SuzvgvID%2FhshybzCJdgpyFc3i%0AGo8f8HFgZD%2Bii8sbUxM%3D%0A
+
+- Locate your Jobs report card and click the eye icon in the top right corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355442043/9533cbb8554d568cf7a866015604/Screenshot-2B2025-01-24-2Bat-2B1_24_06-E2-80-AFPM.png?expires=1763568000&signature=e4021711a0e001081a38255d37d3773961400efca3a6f691d0812979290a527e&req=dSMiE816n4FbWvMW1HO4zUO4rNmmRrh%2FIHJH1zWMkGZrFcwIkSi%2BFFCVnXLh%0AHIDjPR50Ep0DAsf6Ru4%3D%0A
+
+- Click the 'Table columns' drop-down at the top of the page and select the following columns to add them to your report: - End Time
+- Travel Duration
+- On the Job Duration
+- Total Duration
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355442049/47f8ab2b9b999e634f3d4111d22b/article2.png?expires=1763568000&signature=4249bb853b0c208773e41c69bea5f572303579141f5d9b91636779532e26d8aa&req=dSMiE816n4FbUPMW1HO4zedlhyHJqR9axLg8CdjUm%2BdzuhQQasv%2BYUX%2BtIHF%0A66fIJvEJTB%2FF8NTUT0s%3D%0A
+
+- Once added you can then filter by a specific employee on the report.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355442047/c441da7e1aad4254395bf415f9b4/article3.png?expires=1763568000&signature=f88fcd0b0c6c7b1bdcb892c53aa32326dd15429e97c76ccc63ee89a5f1931c6f&req=dSMiE816n4FbXvMW1HO4zftSKgD2Vu55eZOPpph3QGiKpB4ge7SZYYkK3%2BPy%0A8CzKWNvr5i7OglMti1o%3D%0A
+
+---
+
+---
+
+​Check out our tips on how to better connect with your customers.​
+
+---
+
+---

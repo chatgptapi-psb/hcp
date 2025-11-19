@@ -1,0 +1,135 @@
+Price Book: Import or Export Services and Materials
+Source: https://help.housecallpro.com/en/articles/7173129-price-book-import-or-export-services-and-materials
+Author: Sienna M
+Last updated: Updated over a month ago
+
+Summary: How to import and export your services and materials into the Price Book
+
+You can import your price book from either an Excel or .CSV file directly into Housecall Pro. We can bring in all industry, category, name, description, price, cost, tax codes, and units of measure for Price book services and materials.
+
+Our in-product wizard will walk you through the process of matching your column names to our system, will ensure that everything is formatted correctly, and will give you a chance to correct any errors to ensure that you end up with everything you need in Housecall Pro.
+
+Below are the fields that can be imported for Price Book Services:
+
+Table:
+Row 1: Field | Required | Description
+Row 2: Industry | True | The industry that a service lives in. The name of this category must match the name of one of the industries in HCP to be imported.
+Row 3: Category | True | The top-level category that a service lives underneath. All services must have a category within an industry
+Row 4: Subcategory_1 | False | The levels of categories a service lives in underneath the top-level category. Typically no more than 3-4 levels are recommended if you will be integration with QuickBooks.
+Row 5: Name | True | Name for a service.
+Row 6: Description | False | Description of the work included in a service.
+Row 7: uuid | False | Housecall Pro generated ID for a service. This will only be present when importing a list that was previously exported from Housecall Pro.
+Row 8: Price | False (defaults to $0) | The amount that will be charged to the customer for performing the service. Use the standard format of $0.00.
+Row 9: Cost | False (defaults to $0) | The amount that it cost your company to perform their service. This will be used to calculate profit on jobs. Use the standard format of $0.00.
+Row 10: Taxable | False (defaults to false) | Whether tax should apply to this service when added to a job.
+Row 11: unit_of_measure | False (defaults to each) | The unit of measure for a single unit of this item. (ex. each, square foot, gallon)
+
+Below are fields that can be imported for Price Book Materials:
+
+Table:
+Row 1: Field | Required | Description
+Row 2: Category | True | This is the top level category that a material or your material sub-categories live underneath. This is required.
+Row 3: Subcategory_1 | False | The levels of categories a material lives within your top level category. This allows you to nest and create further categorization. Typically no more than 3-4 levels are recommended if you will be integration with QuickBooks.
+​
+​
+Row 4: Name | True | This is the name of your material or part.
+Row 5: Description | False | Description of the material or part.
+Row 6: Price | False | The amount that would be charged to the customer. Use the standard format of $0.00. 
+​
+Note: If you use flat rate pricing and material mark ups within Housecall Pro, we will calculate this for you based off (cost * mark up tier) automatically for you.
+Row 7: Cost | False | The amount that this material or part costs your company. This will be used to calculate price if this is a material mark up enabled part. Use the standard format of $0.00.
+Row 8: Taxable | False (defaults to false) | Whether tax should apply to this service when added to a job.
+Row 9: unit_of_measure | False (defaults to each) | The unit of measure for a single unit of this item. (ex. each, square foot, gallon)
+Row 10: Material mark up enabled | False (only applicable if you have enabled flat rate pricing) | This will automatically calculate price for your materials imported when true. We will calculate your cost field* material mark up tier.
+
+---
+
+Prepare your Data for Price Book Import
+
+Before starting the in-product import wizard, prepare to bring in your data by:
+
+- Exporting your data from your previous software system.
+- Verifying that you have all the required fields.
+- Ensuring that your file is in one of the variety of supported file formats, including comma- or tab-separated (.csv, .tsv), Excel (.xls, .xlsx), and others (.xm and .txt).
+
+You can learn more about how to prepare your data for import here. You do not need to modify your data to match a template. Our system will match your fields to the Housecall Pro fields.
+
+---
+
+Import your Price Book Data (Services & Materials)
+
+To import your Services or Materials:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Price Book from the Settings menu on the left.
+
+- Click the Services tab to import services or the Materials tab to import your materials on the Price Book settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643766198/dccc969c44bdd0afe3c07a4fc79c/image.png?expires=1763568000&signature=3a41b26727e06a3514d06c48bb45e565d16c421dc447be9cc2e1279172f263ea&req=dSYjFc54m4BWUfMW1HO4zbm8IS24Tq7RnY4VYAsYfeVo6yNyN2Jee%2BF5jg62%0ALRSiCFBf7wrj%2FRRPudY%3D%0A
+
+- Select the Upload file button.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1642076483/30b6b44949c3c3250ca0a6ddbce0/image.png?expires=1763568000&signature=257a6f4e1c4e979acfc5c206ae5fe7122c05fa982c5363b2e98bc173a5d25acb&req=dSYjFMl5m4VXWvMW1HO4zejfbZC2bEVHRBV273Jh3OHj87IWj%2BdaGLVVRXhc%0ACQCSqWmMzMcjoZH9bPQ%3D%0A
+
+- In the Pricebook Data Import, select Upload file, Add file from, or Manually enter data.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1642082491/f6318a0818cfa611046326a236d7/image.png?expires=1763568000&signature=ba218f56ee87d4011bf0ea35ce26b5408a830e7d47f6312b46ce6de9b4e12277&req=dSYjFMl2n4VWWPMW1HO4zeevpjWdeXuhYnooFWU%2FXfPH1OohAHgwZac8G%2BxT%0AlJTMLhvGYRh9GX8Y6Z0%3D%0A
+
+- If you have multiple sheets in one file, you can select the sheet that you would like to import by clicking on the desired sheet name in the Import box.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1229286848/2d805f32c9a9ac23cbf8d7c94531/Screen+Shot+2022-09-23+at+2_24_46+PM.png?expires=1763568000&signature=3cc0763e275930ba94bf3a39a5aad0d912b1fd9eb7f86b630e4a07b57a225199&req=dSIlH8t2m4lbUfMW1HO4zT%2BDyrkEKefGwJdcQzQyinS7c5SOztoSKwIKV5I2%0AY58nFfm770DLQMV7DXI%3D%0A
+
+- From there, our system will present you with a dialog box and will ask you to confirm if the first row contains column headers.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1229285777/291d5ced2d998cd4bf4be11ffeb5/Screenshot+2023-03-21+at+9_37_14+AM.png?expires=1763568000&signature=00e7283a5a8108cd275b4afcc87d81e79956c147ffaff4a07f70b6d276bf4981&req=dSIlH8t2mIZYXvMW1HO4zWbp%2BlTTnt6uodyxwuxMK6nFjBWowtTD4IM1LSmb%0AULhbJaC6i2g7yfDGHGM%3D%0A
+
+- Our system will then try to map the Housecall Pro field name to the column headers in your file. However, if there are discrepancies (such as in Housecall Pro we have an Industry field and in your data you have an Business Unit field), this is your opportunity to fix so that the data is imported into the correct field.
+
+- Review each one and click the Confirm Mapping button or change to the correct header name in your file. You can also choose to click the 'Ignore this column' button if you do not wish to import it. Once all mappings have been confirmed, click the Next button in the bottom right hand corner to continue.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1229297098/a7af5396e7d7cb0a694df38be0ce/Screenshot+2023-03-21+at+9_37_56+AM.png?expires=1763568000&signature=cb17c209b0f7d627440dae42ea9cc4f3eef998ab5ddd8be30935770ea42e5fcf&req=dSIlH8t3moFWUfMW1HO4zTaYcBN13MK%2BnDMxfZdgN810mznWPt7fOuRCUZby%0Afq91MLdzq99NG5qMCMo%3D%0A
+
+- Finally, our system will validate that the data in your file can be imported.
+
+- If any rows have errors, they will be highlighted in red. You can click on the Show errors toggle to see all of the rows with errors.
+
+- To view the error, hover your cursor over the value and type the adjustment into the field.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1229387414/8517fb3578639dd028b02c070e3e/Screenshot+2023-03-21+at+9_39_10+AM.png?expires=1763568000&signature=f412eb3e7295c27a809e2b763490e14f3078e7c302ac5f470a9405cf0e68f13e&req=dSIlH8p2moVeXfMW1HO4za56ldXikExgkUTcLL12ftducyHzi7U2EKVpxLRq%0A9jVZlPYSuh4XSHNxcto%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/695851292/2242afd695b04852a4269708/Screenshot+2023-03-21+at+9.39.41+AM.png?expires=1763568000&signature=2b77bcbe8d764d4ae9c3fc62ae6b5532d70ce05e68016d7eb730dcca8e2aedbb&req=cikiHsx%2Fn4hdFb4f3HP0gC%2BhdsfNaLts4LpA6ilq5pXRTa%2BN71SpQLh0g%2FN6%0AdHfGfdv3qjI4sdSWlA%3D%3D%0A
+
+- Once you correct any errors, click the Next button in the bottom right corner to continue. From there, confirm that you are ready to upload the file by clicking Yes in the dialog box.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1229389082/820f0ab70278af500fc9398a461f/Screenshot+2023-03-21+at+9_40_32+AM.png?expires=1763568000&signature=ac99a3af4dacb010294a647ea9b212385005d3b008a4e95b15e54846d624d7dd&req=dSIlH8p2lIFXW%2FMW1HO4zfsPsEJXJCV9BN7xJPATrESGiGoXdUGuMqLBHxoH%0Az5SKYMk4oHuv8ijYQMQ%3D%0A
+
+- After uploading the file, you will receive an email once the import is complete. You can navigate elsewhere in the software and continue to use Housecall Pro.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1647555984/46b80a0cd9718af0a810f0560795/image.png?expires=1763568000&signature=700c31768eb8ae386da5bad1cc0e1c058310927956fbc357eda77026d4db342a&req=dSYjEcx7mIhXXfMW1HO4zR0paU7eD6XesapALv5DIYIOm8ubqlRtwk%2FidJy%2B%0AdXJN3%2BWqE4dErCpDIcQ%3D%0A
+
+---
+
+Export your Price Book Data (Services & Materials)
+
+To export your Services or Materials:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Price Book from the Settings menu on the left.
+
+- Click the Services tab to export your services or the Materials tab to export your materials on the Price Book settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643766570/09af9ec9038a49ddc9deb9dacf97/image.png?expires=1763568000&signature=877584b4c02ef9f3097e0e7a721409e5295cc841287ec7d376010936328f274a&req=dSYjFc54m4RYWfMW1HO4zfuH3QaWSJjsg0TqwBQ3ryB4hFxs2PG2kvzAzpGg%0AOvHTGYHboAA8fM9Rf64%3D%0A
+
+- To export your Services or Materials, click the blue Export button.
+
+- Once you select Export, a notification will appear stating, "A CSV file with your Price Book will be emailed to you shortly."
+
+- The file will be sent to the email address associated with your Housecall Pro account.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643758241/f2f06438f39151a173ed341e2edf/image.png?expires=1763568000&signature=af87077595c3d6bc55be096860453e63f04047c500c098afa530c6574a26d74a&req=dSYjFc57lYNbWPMW1HO4zX36p4jM0srB8MAoXD6%2FyG%2FKpOpDHHAXUUhmXMaZ%0AIgGRqhm7xqauAxcJTJU%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643759490/a318b56c066c925d22485bbc29ea/image.png?expires=1763568000&signature=30359388c4a4b7843626846dbb47f42b2b340d2ecbe1197e381ca5be3d8204b9&req=dSYjFc57lIVWWfMW1HO4zQTV6xcK4Bi39xTMgcEz1l07Q0qrsESjmwRmtgzy%0A4ADjPDZLaxFeH18EYZc%3D%0A
+
+---

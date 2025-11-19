@@ -1,0 +1,354 @@
+Command & Control: Job Fields
+Source: https://help.housecallpro.com/en/articles/11850338-command-control-job-fields
+Author: Nate H
+Last updated: Updated over a month ago
+
+Overview
+
+Command & Control: Job Fields is a new addition to the Command & Control functionality suite designed to help Franchisors maintain consistency and control across their franchise network. This feature specifically focuses on Job Field management.
+
+---
+
+What are Job Fields?
+
+Job Fields provide a more structured and organized way of capturing specific information about your work that results in more accurate and consistent reporting. The following Job Fields are available by default on any job or estimate details page:
+
+- Job type: This field can be used to capture the types of services your organization offers.
+
+- Business unit: If you have multiple teams or business units, this field can be used to track which teams are working on which jobs.
+
+---
+
+Job Fields Management through Command & Control
+
+When Command & Control is enabled for Job Fields, Franchisors can:
+
+- Restrict Franchisees from creating, updating, or deleting both Job Types & Business Units on their Franchisee accounts - This includes preventing imports from creating Job Fields
+
+- Automatically sync both Job Types & Business Units from your Template Account to all Linked Franchisee Accounts
+
+---
+
+This Support Article Will Cover the Following Sections:
+
+- What is Command & Control: Job Fields?
+- Important Terminology
+- How to Use Command & Control: Job Fields
+- Limitations
+- FAQ
+
+---
+
+---
+
+What is Command & Control: Job Fields?
+
+Command & Control aims to enforce brand consistency across a Franchise’s network. Command & Control: Job Fields allows Franchisors to either allow or restrict their Franchisees' ability to modify Job Fields (Job Types & Business Units). Command & Control also allows Franchisors to configure Job Fields on their Template Account that can then be synced to their Franchisee’s accounts if they are linked to their template.
+
+- When Command & Control is enabled on the Template Account, then any of the accounts linked to that template will not be able to create, update, or delete Job Fields (Job Types & Business Units) by any means.
+
+- Note: The Command function & Control function happen in lock-step, meaning that the two operations happen at the same time and are not separate operations
+​
+
+---
+
+Background on Command & Control Functionality
+
+Command & Control leverages our HCP Account Cloning functionality and Template Accounts. During the Account Cloning process, the Template Account will create a relationship between itself and the new Franchisee Account that is cloned from that template - this is known as a Linking Accounts.
+
+- Accounts that are linked to a Template Account are the only accounts that can be Commanded & Controlled.
+
+- Accounts can be linked to any Template Account within the Franchise’s Network.
+
+- Template Accounts do not have to fall under a specific parent account to be tied to a Franchisee’s child account.
+
+---
+
+---
+
+Important Terminology
+
+Table:
+Row 1: Term | Definition
+Row 2: Control | The ability to allow or restrict Franchisees from modifying certain settings.
+Row 3: Command | The ability to push and sync specific values of settings across franchise accounts.
+Row 4: Template Account | An account that is used as the source of truth for franchise settings. New Franchisee Accounts can be cloned from this.
+Row 5: Linked Accounts | Franchisee Accounts that have a relationship to a Template Account. Relationships are created by a new account being cloned from a Template Account.
+Row 6: Template Settings Page | This is a page that lives on the Template Account under the Settings page. This is where Command & Control is enabled/disabled.
+
+---
+
+---
+
+How to Use Command & Control: Job Fields
+
+Enable Command & Control: Job Fields
+
+By default, the Allow editing of job fields setting will be enabled, which means your Franchisees have the ability to manage their own Job Fields.
+
+- Access your Template Account and navigate to Settings by clicking the gear icon in the top right corner of your screen.
+
+- Select Account Templates from the left menu.
+
+- Ensure that the Template Settings tab is selected at the top of the page.
+
+- Click Edit to the right of the Job fields section.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1775995288/abe740a7c2133a34824c5562aa92/Screenshot+2025-10-13+at+12_38_34%E2%80%AFPM.png?expires=1763568000&signature=92ec59c34cfe04b160fa47893fba75623af7fe9b114c167cda938b843fbfd121&req=dScgE8B3mINXUfMW1HO4zTZQkuSqUWsInyC1K5k2GdJYF2nc31laUevUk%2Fvs%0A%2F36nnLBwuGCAFx92T9A%3D%0A
+
+- Check the box next to Allow editing of job fields, then click Save. - To restrict your Franchisee’s ability to manage their own Job Fields, deselect the checkbox, then click Save.
+
+- Click Save in the confirmation window to proceed.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1776001178/a1a2358728759cc8463df541187d/Screenshot+2025-10-13+at+12_41_01%E2%80%AFPM.png?expires=1763568000&signature=09c1496d85f93357f1f2194c8c26d9153887e5caacc8c088a81da6de698dda4a&req=dScgEMl%2BnIBYUfMW1HO4zQd7TyULUxFKGTV1R%2Fk8H6wW03Ec8%2B2uf%2BaClTO2%0Ale27LPZqQhlqAhUJpEU%3D%0A
+
+Once you have confirmed your changes, Command & Control: Job Fields will be enabled!
+
+- Your Franchisees will no longer have the ability to manage their own Job Fields.
+
+- Franchisees will also receive all of the Job Fields that exist on your Template Account as their own Job Fields.
+
+- To disable Command & Control: Job Fields, follow the same navigation steps and enable/check the checkbox → save → confirm the confirmation modal.
+
+---
+
+What Happens When Command & Control: Job Fields is Enabled
+
+- Job Fields from the Template Account will replace existing Job Fields in Linked Accounts.
+
+- Linked Accounts will be prevented from modifying Job Fields.
+
+- An alert banner will appear on the Linked Accounts' Job Fields page.
+
+---
+
+What do my Franchisees See When Command & Control: Job Fields is Enabled?
+
+Franchisees are not able to:
+
+- Create new Job Fields
+
+- Edit existing Job Fields
+
+- Delete existing Job Fields
+
+- Will see an informational banner explaining the restrictions
+
+- Job Fields will be synchronized from the Template Account
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1638452494/f8d7805a177fde2531eca048148e/e8b46cc2-bcd2-418c-a91e-683633e6304c.png?expires=1763568000&signature=a826de3a6436718384fa9340e8f93c42ca154c3701cbce73ad7611524e2d7f93&req=dSYkHs17n4VWXfMW1HO4zXd4In1F%2BXnI76zViOP1Cam%2B%2Fjoye5Dry2HEGSfl%0A4yVpslRU5O4BawVFHAo%3D%0A
+
+---
+
+How to Add / Edit / Delete a Job Field from my Template Account so that My Franchisee’s Accounts Have the Same Job Fields?
+
+- In your Template Account, navigate to Settings.
+
+- Select Jobs > Job fields from the left menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1638462001/a4b017df8520af83062557005899/2a9207b2-5215-4818-939a-f2148d4ee25d.png?expires=1763568000&signature=2d9fe0b6ddce4612ef5349e63c85a3a6d3fdf8377bfac9f4b943e37bc3e07283&req=dSYkHs14n4FfWPMW1HO4zQ0VLXsCfaYFyteX1QMIRDW1bhJtdywTLHTXwcQi%0Aeaqqh1rzqKlWMOxU1Yg%3D%0A
+
+- On this page in your Template Account, you can create, edit, or delete Job Fields that will be pushed/synced to your Linked Accounts upon completing the action. - If Command & Control is not enabled in the Template Settings Page, then the changes will not be pushed/synced to accounts linked to this template.
+- Below displays the different banner messages that appear when creating, editing, and deleting a Job Field from the Template Account.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1638462863/a144c351f7777c9acbe929cbbb1d/66e2de41-8b52-4920-be59-dc8a9695242e.png?expires=1763568000&signature=f3dcce72c9fbf9d37eb5d43eeb47c49aee1951cac7499a878f27b7301b31854b&req=dSYkHs14n4lZWvMW1HO4zZjmCttCaJnEJdKH3HplEMXP2RyUcHghz%2Fxj%2FezM%0AdIqQ4bP42aFMs7OXVB4%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1638463477/b9050539b1195d1be3d7a431f84b/65116446-619c-4c42-8d05-f37814fc837d.png?expires=1763568000&signature=35920d02115e8b3adb345382d85d53b0122fce58df690a4793e3cf9c144668fe&req=dSYkHs14noVYXvMW1HO4zW6ZffoIgSpQPot6ugjQGU82uyuBSTMLgCoW1nDH%0AdEY%2BUtgYFt7QG11GCsc%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1638464112/e85cc179600f28d79bbbae272839/521dbceb-2d3f-48ac-8094-a74b4ba17985.png?expires=1763568000&signature=3b36418ea6ab40653d82713e5017017306a6d2d66bdcfaca69a5001db00344e4&req=dSYkHs14mYBeW%2FMW1HO4zdnHvTyM6gZQ1WpdtHJMilC0I8rNlbsbPimVa4i0%0AhkKy6nPVtEas%2FxclVDI%3D%0A
+
+---
+
+---
+
+Limitations
+
+- The feature is available only for Franchise accounts.
+
+---
+
+---
+
+FAQ
+
+Q: What does this Version of Command & Control Cover?
+
+A: This specific version of Command & Control covers Job Fields.
+
+---
+
+Q: What does the Future of Command & Control Look Like?
+
+A: We are planning to build Command & Control for every single copyable setting that is processed through the Account Cloning feature.
+
+---
+
+Q: What is a Template Account?
+
+A: A Template Account serves as the source of truth for a Franchise. It's where Franchisors configure settings that can then be applied to Franchisee accounts through Account Cloning, and then any account linked to the Template Account can be Commanded & Controlled.
+
+---
+
+Q: What are Linked Accounts?
+
+A:
+
+- Linked Accounts are Franchisee accounts that have a relationship with a Template Account. An account becomes a Linked Account when it has been cloned from a Template Account.
+
+- Child Accounts can be linked to any Template Account that is within the Franchise’s network.
+
+---
+
+Q: How Do I Designate an Account as a Template?
+
+A: An Account Manager or BDR from Housecall Pro will be able to mark an account as a Template Account through an admin portal that is specific to Housecall Pro internal employees.
+
+---
+
+Q: Where Do I Manage Command & Control Settings?
+
+A: You can manage the Command & Control settings on your Template Account.
+
+- Access your Template Account > Go to Settings > Select Template Settings from the left-side navigation menu
+
+---
+
+Q: Where Do I Manage Command & Control Settings?
+
+A: You can manage the Command & Control settings on your Template Account.
+
+- In Housecall Pro > Access your Template Account > Go to Settings > Select Template Settings from the left-side navigation menu
+
+---
+
+Q: What Happens When I Enable Command & Control?
+
+A: A confirmation modal will appear to inform you of the changes. Upon confirmation, all accounts linked to the Template Account will:
+
+- Lose the ability to create, update, and delete Job Fields from their account.
+
+- Have their Job Fields replaced with those from the Template Account.
+
+---
+
+Q: What Happens if I Disable Command & Control After it has Been Enabled?
+
+A:
+
+- If Command & Control is disabled after being enabled, Franchisees will regain the ability to manage their own Job Fields.
+
+- Note: Job Fields that the Franchisee may have had before Command & Control was enabled will not be restored. Franchisees will keep the Job Fields that were last synced with the Template Account, but they will be able to create new Job Fields, update existing Job Fields or delete Job Fields.
+
+---
+
+Q: Which Areas are Affected When Job Fields are Locked?
+
+A: Job Fields will not be able to be created. This means that Job Fields cannot be created via:
+
+- Job Field page
+- Customer, Jobs, Estimates, Leads pages
+- Job & Customer Imports
+
+---
+
+Q: I'm a Franchisor setting up Command & Control for the first time. What steps should I follow?
+
+A: Follow these steps to set up Command & Control:
+
+- Work with your Account Manager to designate your account as a Template Account
+
+- Configure your Job Fields exactly as you want them to appear for all Franchisees
+
+- Navigate to the Template Settings page in your account
+
+- Enable the Job Field Control toggle
+
+- Review and confirm the changes when prompted by the confirmation modal
+
+- All Linked Accounts will now have your Job Fields and be unable to modify them
+
+---
+
+Q: I need to add new Job Fields for a national marketing campaign. How do I ensure all my Franchisees have access to these new Job Fields?
+
+A: To add new Job Fields across all Franchisee accounts:
+
+- Ensure Command & Control for Job Fields is enabled
+
+- Go to the Job Fields page in your Template Account
+
+- Add the new Job Fields for your campaign
+
+- The system will automatically sync these new Job Fields to all Linked Accounts
+
+---
+
+Q: I have existing Franchisees who already have their own Job Fields. What happens to their data when I enable Command & Control?
+
+A: When you enable Command & Control for existing Franchisees:
+
+- Their current Job Fields will be completely replaced by those from your Template Account
+
+- Any jobs, estimates, or leads tied to Job Fields that no longer exist will retain the original Job Field name but won't be editable
+
+- For reporting consistency, consider reviewing their Job Fields before enabling Command & Control and adding important ones to your Template Account first
+
+---
+
+Q: We just signed a new Franchisee. How do I ensure they start with our standard Job Fields?
+
+A: For new Franchisees:
+
+- Your Account Manager will create the new account by cloning it from your Template Account
+
+- This will automatically establish the new account as a Linked Account, and create a relationship between itself and the Template Account
+
+- If Command & Control is already enabled, they will automatically have your Job Fields and be unable to modify them
+
+- If Command & Control is not enabled, their account will still start with your Job Fields, but they'll be able to modify them
+
+---
+
+Q: A Franchisee needs a special Job Field for a local event they're sponsoring. How can I accommodate this one-off need?
+
+A: You have several options:
+
+- Add the special Job Field to your Template Account. This will push the temporary Job Field to all Franchisees, but you can delete it at a later date. - Note: Customers with a Job Field that has been deleted will keep the Job Field on their profile for historical data
+
+- If the need is truly one-off, consider using Job Fields or Notes to track this special event instead of modifying Job Fields
+
+---
+
+Q: A Franchisee reports they can't see a Job Field I added to the Template Account. What could be wrong?
+
+A: Check these potential issues:
+
+- Verify Command & Control for Job Fields is enabled on your Template Settings page
+
+- Confirm the Franchisee account is properly linked to your Template Account by checking the Linked Accounts page on the Template Account
+
+- Check if the Franchisee has refreshed their application since the sync occurred
+
+- If issues persist, contact your Account Manager to investigate potential sync failures
+
+---
+
+Q: Why can't I modify my Job Fields?
+
+A: Your account is linked to a Template Account with Command & Control enabled. Contact your Franchisor for any necessary modifications.
+
+---
+
+Q: How do I know if my account is controlled?
+
+A: Look for the alert banner on the Job Fields page, which will indicate management by a Template Account.
+
+---
+
+Q: Can Command & Control be disabled?
+
+A: Yes, the Franchisor can disable the feature, and the Job Fields that were last synced will persist on linked accounts.
+
+---
+
+---

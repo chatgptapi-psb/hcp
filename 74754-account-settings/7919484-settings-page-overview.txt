@@ -1,0 +1,268 @@
+Settings Page Overview
+Source: https://help.housecallpro.com/en/articles/7919484-settings-page-overview
+Author: Shontiquia K
+Last updated: Updated over a year ago
+
+Summary: Easily setup and navigate through your account settings page
+
+Account Settings
+
+We have introduced the Account Settings page, making it easier than ever to find and make the changes needed to run your business more effectively with Housecall Pro. Now, hitting the settings gear on any navigation bar will take you to the settings homepage.
+
+Navigating to Settings
+
+Click the settings gear icon at the top right of the page to navigate to your settings page!
+
+[Image] https://downloads.intercomcdn.com/i/o/744737579/658e8fd5be6d0d5f46f20572/image.png?expires=1763568000&signature=954efda9cb213586eec50dc896138dd1bcc5af30c5674507f0a906d589fb377d&req=cyQjEcp5mIZWFb4f3HP0gPEMouxIlaw6oDYpEuumagpJSPoMTc%2FYj99vV3Hp%0AxICihBCC3qobnTqCVQ%3D%3D%0A
+
+That will open your settings page. Once there, you can use the left rail to find the settings you are looking for.
+
+[Image] https://downloads.intercomcdn.com/i/o/1187561317/3d3d686926f9723d0d29f615/Housecall-Pro+-+2024-09-20T143317_890.png?expires=1763568000&signature=cebcb9d3510767634078b3cc7a6c8c402ac43e8be92819028c85ef4fcc7b8519&req=dSEvEcx4nIJeXvMW1HO4zVR3y71TcSB8ysWTiOTn%2FWE6BUn3%2BnKYbmksSZ0b%0ADEOZVlUYnGIVCAiuWJA%3D%0A
+
+You can now select the title/name of the feature in your left rail to go to that settings page. You will also find that using the settings icon in your navigation bar from certain areas in the product will automatically take you to those specific settings. You can also expand additional tabs by clicking on a title in the left menu and selecting the drop-down arrow.
+
+---
+
+Company
+
+In your company profile, you can enter your company info, manage your employees and service area, view billing, view the AI Team members you have active, and set two-factor authentication for your account.
+
+[Image] https://downloads.intercomcdn.com/i/o/1187546451/c2df3daf7e45cc97575c0ef7/Screenshot+2024-09-20+at+2_19_31%E2%80%AFPM.png?expires=1763568000&signature=686fbb404fc2e31bf5513268e13f0a4d401da517e5d159daaa65731623487ff6&req=dSEvEcx6m4VaWPMW1HO4zbLLfvz4EZi%2BEp4MiVe8dJkKicUy5135%2BDomDpCQ%0AWFSd0VQAnmRxMijGIps%3D%0A
+
+Profile
+
+Your business name, phone number, and address will appear on invoices and estimates to your customers. This will help customers contact the right email address, and allow you to set your industry, which gives you templates, pricebook line items, and other features.
+
+[Image] https://downloads.intercomcdn.com/i/o/1187804379/9f3ff6ea8dd2f63393f73d56/Screenshot+2024-09-20+at+8_03_19%E2%80%AFPM.png?expires=1763568000&signature=1a1738bea21f6a9f973c710dfa298c1e197c0a6d06932bd25c21e1a895988fcc&req=dSEvEcF%2BmYJYUPMW1HO4zbuNWdhyY6566wavDzKwsSczqaYCS8bgCppV8fhP%0AgmNYdslz5D10AkuXbsY%3D%0A
+
+Business Hours
+
+You can set the opening and closing times for your business. You can set your business hours to be displayed on your Housecall Pro calendar as well as your online booking page (if applicable). If you have GPS tracking for your account, you will be able to track your employees within your set business hours.
+
+[Image] https://downloads.intercomcdn.com/i/o/1187804739/4d5b7fd7da3b520c4bf4dfdc/Screenshot+2024-09-20+at+8_05_16%E2%80%AFPM.png?expires=1763568000&signature=501f90db4f5f13915e45249a03ac180bdc73f30891f9a8d30d72d977b159024c&req=dSEvEcF%2BmYZcUPMW1HO4zTonKz1cp8BiqN39wyAKAH%2BjMIKJ89jJLPQsQquD%0ALwvDO3jDiR8D75nnu4Q%3D%0A
+
+Service Area
+
+Your service area determines which customer locations can be serviced. This is where you can set the geographical area where you are willing to travel for jobs. Your service area is now listed in zip codes.
+
+[Image] https://downloads.intercomcdn.com/i/o/1187806222/278a31f2b9bd5c5821d03979/Screenshot+2024-09-20+at+8_08_28%E2%80%AFPM.png?expires=1763568000&signature=b358a3b8a48cf6448bc16aa6e32af420f45b4357560367885e32a459a23c4980&req=dSEvEcF%2Bm4NdW%2FMW1HO4zRpkCXOqewGxFcATCmhIFUy6qKNFbjxC5sBFs4%2FG%0AnCXQVtcCUFJUhEL%2FDFc%3D%0A
+
+Employees and Permissions
+
+You can manage your employees' profiles ensuring your business runs as smoothly as possible. You can add, edit, or delete employee profiles, set up roles and permissions, and restore deleted employee profiles.
+
+[Image] https://downloads.intercomcdn.com/i/o/1187807946/af7d7fee0de5fd32b2affc45/Screenshot+2024-09-20+at+8_11_45%E2%80%AFPM.png?expires=1763568000&signature=1c474a07e98609c4efbeef38a0edf81860ef959ffa4c9b30580016904b44cdfa&req=dSEvEcF%2BmohbX%2FMW1HO4zZtN8YXwh59eU12ty%2B40XmBbmUgXO7wwXjiPbuhC%0A8FfPonytmZoEcXoQp2k%3D%0A
+
+AI Team
+
+You can choose which team members to enable so that you have the power to decide what parts of your business to prioritize. Each member of the AI Team has complementary skillsets to bring you to that next stage of growth, and you will be able to incrementally add individual AI team members to scale.
+
+[Image] https://downloads.intercomcdn.com/i/o/1187808898/0211a124350811fdb4336739/Screenshot+2024-09-20+at+8_15_06%E2%80%AFPM.png?expires=1763568000&signature=fc409d9150fa512c23d739302e5a16057362b5727609a02dc2e42e8b4b5c1d1d&req=dSEvEcF%2BlYlWUfMW1HO4zW06w%2Bk2Ct7Wpy6%2BJH8MjLHIghof%2BgSX3HF4nOXN%0Abjz1G2z%2FhGbZP%2BtkZvE%3D%0A
+
+Billing
+
+You can navigate billing features, review your account billing, and keep your payment information current. Additionally, discover how to switch between different Housecall Pro plans to best suit your needs before considering account cancellation.
+
+[Image] https://downloads.intercomcdn.com/i/o/1187811399/c33154e4cef5828c5bc82db0/Screenshot+2024-09-20+at+8_21_11%E2%80%AFPM.png?expires=1763568000&signature=7d9702f313d46e52dd7ff673b9a89d502fb9765c2fe298784d2a9e536950776a&req=dSEvEcF%2FnIJWUPMW1HO4zd5BnM6tfF28zm2O%2BIgNAXmGogw0A9Aly1sRzs1L%0AG3qiKAjb5teBWd%2FqpA0%3D%0A
+
+Login Communication
+
+You can add an extra layer of security to your account by requiring an additional step to log into Housecall Pro. Instead of just entering your username and password at login, you are prompted to also enter a one-time password (OTP) sent via text to the mobile device registered on your account.
+
+[Image] https://downloads.intercomcdn.com/i/o/1187813117/0bbef66577d3886859954749/Screenshot+2024-09-20+at+8_25_14%E2%80%AFPM.png?expires=1763568000&signature=fe8dabd61d8ff5729ae2dd8f8c76267bcceedea36473baaeccd6c84d102ca8c3&req=dSEvEcF%2FnoBeXvMW1HO4zaG0apXB%2BNCGIunrA3EE081f4Age875Q4BclkS1I%0A1eVTtUOHZUA7t4uciLM%3D%0A
+
+---
+
+Communication
+
+You can register for text messages, use voice to communicate with your customers directly in HCP, use email and SMS marketing features, and offer the customer portal self-service tool.
+
+[Image] https://downloads.intercomcdn.com/i/o/1187814757/0c712bf1eb41e31af5c8cd90/Screenshot+2024-09-20+at+8_30_00%E2%80%AFPM.png?expires=1763568000&signature=c1fea88ce7e9083f9ae0ec9a205650f02e8c70f80743acfc700fe42736c370dd&req=dSEvEcF%2FmYZaXvMW1HO4zeCkBOaScUY516PgqZW%2B8gyQo43VSQ%2FtIrdnuGVQ%0AMC0XaZJKIsFoD07882Q%3D%0A
+
+Text Messages
+
+Pros must now Register for Text Messages in order to set up a Custom SMS number. It allows you to select a custom, randomly generated phone number within the area code you choose. This phone number will be the number from which your automated text messages come.
+
+[Image] https://downloads.intercomcdn.com/i/o/1191439152/299471db0fb57e9c24880a9c/Screenshot+2024-09-24+at+12_31_16%E2%80%AFPM.png?expires=1763568000&signature=dd12a8cc0221e22c091d8e59128e494968dc1b511a40b5c3c03ee0756f976079&req=dSEuF819lIBaW%2FMW1HO4zUPe%2FllqdLL3Gu%2BD%2FVez7bx4tPEb%2F7SO6LpYvE5%2F%0AIMEhEtZhhEK4zQuN2ec%3D%0A
+
+Voice
+
+The Voice add-on will allow you to communicate with your customers directly in HCP. You have the ability to see all of your calls and chats with a customer through our Inbox so that you have a unified and contextual view of your customers.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/1191477332/a2769e5f918b9317c7cd1f01/Screenshot+2024-09-24+at+12_55_07%E2%80%AFPM.png?expires=1763568000&signature=15e85023bb744fcf374783490a2a39d8f506a76ab623fef030bcaf8abba5cf98&req=dSEuF815moJcW%2FMW1HO4zcvqSmBXiJFWD90KYDWKkGEfS3c%2FOKm8%2BHGKogBY%0A53Fd%0A | [Image] https://downloads.intercomcdn.com/i/o/1191477550/5d275965de3b9acf1863e7d0/Screenshot+2024-09-24+at+12_54_58%E2%80%AFPM.png?expires=1763568000&signature=0dcf4298b95e4829ca49766363102722a6f0c56626d60fef2dea3e38583d99fb&req=dSEuF815moRaWfMW1HO4zWnZFsk9a%2FWl2Zl%2B9ia9NPJRJ69Lmn7gZIB9F9b3%0A96Xs%0A
+
+Marketing Center
+
+You can create and use our new SMS and email marketing features. This powerful tool will help you reach out to your customers with personalized communications that are quick and easy to launch. Our campaigns are great for sending out special offers, announcing new services, or just keeping your brand top of mind for your customers.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/1191486806/a9354cab8dd6a8f20b87b7c3/Screenshot+2024-09-24+at+10_01_52%E2%80%AFAM.png?expires=1763568000&signature=a2449504a708367349f4431b8c0c52657e78e19f66e505a253a8c00538c6f8db&req=dSEuF812m4lfX%2FMW1HO4zZHNt4SXttBxZ8fSzuJV9RGjyX8jItCf%2BGCa6gDr%0AVp9q%0A | [Image] https://downloads.intercomcdn.com/i/o/1191486928/d58d53c6e881eb343176138e/Screenshot+2024-09-24+at+10_01_42%E2%80%AFAM.png?expires=1763568000&signature=b4388970608926e6401caebea55cc8d003064a41dfbffdf50e54427f3f8b4319&req=dSEuF812m4hdUfMW1HO4zbDDaV6MzUVqx%2FOFOlsgAFnBmE2iHz8TtoKpiqbK%0A%2F3%2Fa%0A
+
+Customer Portal
+
+The Customer Portal is a self-service tool for your customers to view past and upcoming appointments, pay invoices, view past invoices, and send a message to communicate any appointment changes. This gives your customers independence and saves you time with admin while elevating your brand.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/1191504238/4b6925de65f8bf77c916ee25/Screenshot+2024-09-24+at+10_12_05%E2%80%AFAM.png?expires=1763568000&signature=bf4214dc16c2c4e69a76b844243110e54a5d91f9f7f71f8f9887c4db171c8f1b&req=dSEuF8x%2BmYNcUfMW1HO4zbEUrPnBB2OgTrelg1yuaMNi%2BpVk8Tfdc5UNHvyY%0AGzGg%0A
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/1193320756/4f4ec5e0f900a87123c0f6f7/Screenshot+2024-09-25+at+4_39_04%E2%80%AFPM.png?expires=1763568000&signature=a15e3abb435922d42daeb82d421ea90fed3ed435a93565b8148c10bbf22c1bf2&req=dSEuFcp8nYZaX%2FMW1HO4zdoEyl1QvubPQuAYwBiNjEr8%2F%2BMY%2BklgmMeFbMbJ%0AMxb4%0A
+
+---
+
+Booking
+
+Set up online bookings for customers which will create more jobs and increase revenue for your business. You can also create a customizable customer intake flow to match your business needs.
+
+[Image] https://downloads.intercomcdn.com/i/o/1191512330/b7d65a27689d2ee7e2bf2c87/Screenshot+2024-09-24+at+1_22_16%E2%80%AFPM.png?expires=1763568000&signature=790b1de5d5c447fed66fe9b8e106812fba991a95682193e8ac332a86ce9e7a1f&req=dSEuF8x%2Fn4JcWfMW1HO4zWiADr6wmFnyj79JaHeh8ZE5WLDWuJvbxrcxEw7X%0ANNzh%2FsRLuWMarMmz9KM%3D%0A
+
+Customer Intake
+
+You can customize your Reminders, FAQs, and Request Guide in the Customer Intake section of Account Settings. These features allow you to personalize the intake experience for your customers, ensuring that all the necessary information is collected upfront.
+
+[Image] https://downloads.intercomcdn.com/i/o/1191591781/cd088c580d43039c7854cdf4/Screenshot+2024-09-24+at+2_24_20%E2%80%AFPM.png?expires=1763568000&signature=94db08bd164b96eeac36c0fad320feaab50b2d8c4c3e030a97c8c975fbd0d00e&req=dSEuF8x3nIZXWPMW1HO4zeob5jGHohbJ5%2FoOqUHuF1DIRz1T63dqhDyEe5pP%0ADC3yv0LH3iYlHIH6XpI%3D%0A
+
+Online Booking
+
+Our new and improved Online Booking tool enables you to provide exceptional service and win more jobs by giving homeowners a convenient way to automatically and reliably book their services online 24/7 from any device.
+
+[Image] https://downloads.intercomcdn.com/i/o/1191528101/bb55a2c97e6e23a23edda94c/Screenshot+2024-09-24+at+1_32_02%E2%80%AFPM.png?expires=1763568000&signature=d070cbae8c8f09b1b39dde9b9df96ae30e334763058f5d0dd0e88855fbf51942&req=dSEuF8x8lYBfWPMW1HO4zXZ%2BN2FfD7%2BSmXbKmUq3yno60%2BF6MkgA3SWP2elS%0AS8wqOjFAVMmU%2FuvG8t0%3D%0A
+
+---
+
+Jobs & Estimates
+
+The jobs and estimates section of the settings allows you to effectively manage jobs, estimates, invoice settings, and more!
+
+[Image] https://downloads.intercomcdn.com/i/o/1191532306/e0bd76954de87f913b8f9014/Screenshot+2024-09-24+at+1_38_14%E2%80%AFPM.png?expires=1763568000&signature=62e5c73e7f940b7a2ad642f864894f36f931b61af5583259acdd419bbac0f037&req=dSEuF8x9n4JfX%2FMW1HO4zYcwm8dyPLwamqJwLQEsRYQNG%2FQkoZTBDhbOr9aX%0AlLMi2Lu1dOokhmPRRbs%3D%0A
+
+Price Book
+
+Effectively manage your Price Book to maintain a well-organized and efficient business. By keeping your industries, categories, and services up-to-date and accurately priced, you streamline the process of generating invoices and estimates. This not only helps reduce errors and save time but also ensures you provide clear and precise quotes to your customers.
+
+[Image] https://downloads.intercomcdn.com/i/o/1191533153/d785873657794f66e15612ee/Screenshot+2024-09-24+at+1_39_13%E2%80%AFPM.png?expires=1763568000&signature=9df3e0d571209e95375d9ea3dcc2c5ef12e6427bb19e2b7dc115a15bf70148c9&req=dSEuF8x9noBaWvMW1HO4zbFDLnCEbg5%2BOHSR2%2B9btNyIYMVRfYOTZ%2B3fjxt%2B%0AlE2bvGbHCYUJwcgLkGo%3D%0A
+
+Job Fields
+
+Job Fields provide a more structured and organized way of capturing specific information about your work that results in more accurate and consistent reporting. They can be used while creating a new job or estimate, or on existing jobs and estimates.
+
+[Image] https://downloads.intercomcdn.com/i/o/1191544272/4cb49a4fc66751c9bd2af34b/Screenshot+2024-09-24+at+10_47_53%E2%80%AFAM.png?expires=1763568000&signature=124db9de8ce116aabfe38b86a34ec63ab6451f236a1a213dcf2ad1c9ead67f0c&req=dSEuF8x6mYNYW%2FMW1HO4zWX3glClZs1p6tJFdN7FnB4mZKiw1tMTgzQ4LrE4%0AE%2Be5lfa5Lh4VVY%2FBLnA%3D%0A
+
+Job Costing
+
+Job costing makes it easier than ever to track and report on the costs associated with each job - giving you the power to make decisions that are right for your business. Through a powerful suite of solutions, tracking expenses and profits for each job is simple.
+
+[Image] https://downloads.intercomcdn.com/i/o/1191549900/2b67d9c50d6c666cd6897aeb/Screenshot+2024-09-24+at+10_52_17%E2%80%AFAM.png?expires=1763568000&signature=1ad29e6666a635d0b5c1bff329a00598decc1f7f1c048cda2fa761e587618060&req=dSEuF8x6lIhfWfMW1HO4zUW9iDtFiR3aBNGxElxFpA6LcNoL80fAmQX8TdjX%0A1HUN4WwuDTEdS7sH%2BiA%3D%0A
+
+Commissions
+
+Implementing a commission structure provides employees with the opportunity to earn supplemental income beyond their base salary, which can significantly enhance their motivation and drive in achieving assigned tasks. Once enabled you will be able to accurately report and track commissions.
+
+[Image] https://downloads.intercomcdn.com/i/o/1191615476/0755580d8c7f6300835548a1/Screenshot+2024-09-24+at+2_41_53%E2%80%AFPM.png?expires=1763568000&signature=971eec56ef4c63e517b63a0f88933df02b4fb45c21bbfc763eb9c782faccdf51&req=dSEuF89%2FmIVYX%2FMW1HO4zRL26qPu9k0F8%2BI6zkuNX5fi5jyFYo9IAAB21HV8%0Aeprixqj%2Fa4Zr7LVB6UM%3D%0A
+
+Material Detail Tracking
+
+With customizable fields for source, purchase status, and vendor; you will be able to track where material used on jobs is coming from, what material is being purchased by field employees, and what material may need to be replenished to optimize inventory levels, increase efficiency, and monitor costs.
+
+[Image] https://downloads.intercomcdn.com/i/o/1191619373/67b6fa23c8f588e9529a871a/Screenshot+2024-09-24+at+2_44_48%E2%80%AFPM.png?expires=1763568000&signature=c99f5fa58930137a5a2a038bd02ca964def84d5e5b8b611b1fc922545aa6c4f0&req=dSEuF89%2FlIJYWvMW1HO4zW1%2B42RsUi1V9ctb0BVJC0EiXicFvfNTUM6aRlc%2B%0AOHv0o10KJFwPoQWY1Fc%3D%0A
+
+Signatures
+
+Customer signatures are a useful tool for approving estimates on site, or to capture a signature on the Invoice. Signatures help protect you and your company from possible disputes.
+
+[Image] https://downloads.intercomcdn.com/i/o/1191622787/0cf3ee798de14c9649bbde35/Screenshot+2024-09-24+at+2_47_49%E2%80%AFPM.png?expires=1763568000&signature=9f3ab539cb2dde884df5ad4b4062e80f9d32cadc35003ab9497e3ae36fee802b&req=dSEuF898n4ZXXvMW1HO4zVCVmOhOMH4Y%2BQgDF%2FV4afHTmn8mCmOukC%2BmIVnY%0AwLaDxKjHYfHMzZe1ygM%3D%0A
+
+Appointments
+
+Multi-day job appointments with Housecall Pro allow service professionals to efficiently schedule and manage tasks that require more than one day to complete. This feature enables you to allocate time for extended projects, ensuring that all necessary work is organized and tracked over the course of several days. By utilizing this capability, you can enhance productivity, improve customer satisfaction, and streamline workflow management.
+
+[Image] https://downloads.intercomcdn.com/i/o/1191625542/bdeb114f2b8ae21716125a91/Screenshot+2024-09-24+at+2_50_03%E2%80%AFPM.png?expires=1763568000&signature=809c68c94b1a706f8fef3d9900cc34c8de1fef1f3d8d0af4df1766978fefd5a4&req=dSEuF898mIRbW%2FMW1HO4zfvAh3AuBqst%2BZYizMzNLrKOASe9bf7J%2FE9XKkGe%0ACWRBiKLt%2F4xT1LVk%2B7M%3D%0A
+
+Job Reminders
+
+You can set up SMS reminders so your customers are notified the day prior to their upcoming job. You also have the ability to customize your SMS reminders. Reminders are sent at 9am in your business's time zone the day before your customer's scheduled job.
+
+[Image] https://downloads.intercomcdn.com/i/o/1191642361/e18a6ef5ad21a79567bf9142/Screenshot+2024-09-24+at+3_02_54%E2%80%AFPM.png?expires=1763568000&signature=a7b9764de1c4ebffed1e794b68d57675df65092f4662b0dece7411c283d27cee&req=dSEuF896n4JZWPMW1HO4zbnWS2opnD7%2BbtO23gTO2YmSLXk%2BHl1dBqNmxf1b%0AGN%2FZRui6ZvBTTN0XxCg%3D%0A
+
+Job Templates
+
+Job templates can help you automate capturing information for common types of work to reduce manual steps and errors. Information on jobs helps your employees get the context they need about the work they're doing and gives you better quality reporting.
+
+[Image] https://downloads.intercomcdn.com/i/o/1191755945/630f629c11ffaeb3a9bca885/Screenshot+2024-09-24+at+4_36_43%E2%80%AFPM.png?expires=1763568000&signature=dabd53ed69be2a260b7776a5d466bcab4d1a3e670600e470c714cb08a5eee284&req=dSEuF857mIhbXPMW1HO4zedAmp1H7bDJRo8CpDdN6MxNg09Bwj906tB%2F0hOM%0A3eIKj1DgwV7VopusB30%3D%0A
+
+Estimates on Jobs
+
+Estimates on Jobs allow you to create new estimates directly from the Job Details view, making it easy to sell or upsell on an ongoing job. They are tightly connected to the jobs they were created on, eliminating the need for multiple job-to-estimate-to-job conversions, duplicated entries on the schedule, and disruptions to the tech's time tracking.
+
+[Image] https://downloads.intercomcdn.com/i/o/1191760274/3bdd145da0df54fe3f276360/Screenshot+2024-09-24+at+4_40_56%E2%80%AFPM.png?expires=1763568000&signature=8f620ca62e94c2ea5c806d17985e67e1d7502afac60fcfe725494f8e523529ad&req=dSEuF854nYNYXfMW1HO4zeo%2B0rogN9lqBnvEg%2FJNMsfPUjGtKHGQaO01VL31%0AvhjujdmxKYAj%2Fz16ivk%3D%0A
+
+Estimate Defaults
+
+Default estimate settings give you the freedom to include all of the relevant information in your estimates, while at the same time giving you full control over what details are visible to your customers. Use the settings to decide which parts of an estimate should be visible to your customers and which should not.
+
+[Image] https://downloads.intercomcdn.com/i/o/1191764039/d251ab795c6eb58d5ce198a8/Screenshot+2024-09-24+at+4_44_33%E2%80%AFPM.png?expires=1763568000&signature=4b28f3b0f4ec6127e376eaee5da6c449529d944f64dee2a8d21cc740f910adb8&req=dSEuF854mYFcUPMW1HO4zehiNZPbrP%2Bx%2BIlZeP8hwBLOaoXsdaGqkbVGIzYg%0AxW6eQJpN%2FGhZf4NOwBQ%3D%0A
+
+Estimate Email & SMS
+
+You can easily send estimate emails and SMS messages to clients, providing them with the appropriate relevant information relating to the estimate. This feature enhances communication by allowing clients to receive and review estimates in a timely manner, facilitating informed decision-making. Additionally, it streamlines the approval process, helping to ensure that projects move forward smoothly and efficiently.
+
+[Image] https://downloads.intercomcdn.com/i/o/1191767280/320d70e604e55ef24d5122d0/Screenshot+2024-09-24+at+4_47_28%E2%80%AFPM.png?expires=1763568000&signature=de29bbbeab658a0daadd8928505a8ec31063cf1c05c62fe27cb7af300a4309c9&req=dSEuF854moNXWfMW1HO4zcTQJeEOuigsfi4%2BZS%2FR%2FG0ECv%2FwZ84Gjt9f3BBu%0AF1rJN6I5bQqOZpdJ3BQ%3D%0A
+
+Invoices
+
+Configure your invoice settings to ensure that your invoices include the information you want your customers to see without requiring your employees to change any details when sending an invoice. There are a couple of ways to change these settings: default, job-by-job, and mobile.
+
+[Image] https://downloads.intercomcdn.com/i/o/1191772359/d133f38765f363f6ecdd1cd5/Screenshot+2024-09-24+at+4_52_42%E2%80%AFPM.png?expires=1763568000&signature=76852200f469fe1808dd2d465bcedc31b637bd19f15d13c7d0c2bf855da2a942&req=dSEuF855n4JaUPMW1HO4zddKYLsIDvvyFtPjeX2PT41EapEOjBFvatfAHl5l%0AZijM7jWhpj0dHSpcqIs%3D%0A
+
+Automations
+
+You can generate and send invoices automatically after a job is completed, ensuring timely and accurate billing. By reducing manual entry and minimizing errors, invoice automation enhances efficiency and improves cash flow. Additionally, clients receive their invoices promptly, facilitating faster payment and enhancing overall customer satisfaction.
+
+[Image] https://downloads.intercomcdn.com/i/o/1191774497/4274e3321de1aef3452332c0/Screenshot+2024-09-24+at+4_55_01%E2%80%AFPM.png?expires=1763568000&signature=a595ed52e1235bdc6c11b26a3c18e1d17c9532fad42bc582074f16cd9dabe2eb&req=dSEuF855mYVWXvMW1HO4zezWsGYhtD0BY1%2BOm4g3Rv1RaXy7NELmShRkmqAg%0AN857QmLDcS7Z2sv7IW0%3D%0A
+
+Progress Invoicing
+
+Progress Invoicing lets you confidently manage invoicing for multi-day or multi-week jobs. If you need to collect partial payments throughout a job or have a customer who will not be paying for a full service/job in one complete payment, you can use this tool to take a percentage or fixed amount less than the job in as many invoices as you need.
+
+[Image] https://downloads.intercomcdn.com/i/o/1191776122/6a337e11837bd86d1b728379/Screenshot+2024-09-24+at+4_56_34%E2%80%AFPM.png?expires=1763568000&signature=d63176ea35b287f09520adbfffaa15671ca600e1f7a80da3432db10cbdde8216&req=dSEuF855m4BdW%2FMW1HO4zWaUs6xqkzJlysosl4qERZktkbnUJ15TtPw3bGKo%0AKNaDBShoCaJ0qApOjos%3D%0A
+
+Service Plans
+
+Service plans, also commonly referred to as maintenance plans or service agreements, are contracts that define an ongoing service arrangement between your business and your customers. Service plan reminders are a helpful feature designed to keep both you and your customers organized regarding scheduled maintenance or service appointments.
+
+[Image] https://downloads.intercomcdn.com/i/o/1191784359/c6f2abeb09cf18dcaf4eb36f/Screenshot+2024-09-24+at+5_04_07%E2%80%AFPM.png?expires=1763568000&signature=86b2bb9dda36db5ed1dc1da807e52d8ea841c6955052baccbde16a86fa266633&req=dSEuF852mYJaUPMW1HO4zS%2B%2FSpJWIJjsof0VyrRuRcokvcJCu2a7zpoL8FUt%0AjHYKH5cJeNkDoNWkhzE%3D%0A
+
+Pipeline
+
+The Pipeline feature is designed to streamline and optimize your workflow by providing a visual overview of all jobs and estimates, showing their statuses. This tool allows you to track each project from initial lead through to completion, facilitating effective management of tasks and resources.
+
+[Image] https://downloads.intercomcdn.com/i/o/1191790072/821cbab6e6db4fe6cfb4610b/Screenshot+2024-09-24+at+5_09_53%E2%80%AFPM.png?expires=1763568000&signature=6cb86a3ba022b46ff73e0ac98ed416b404b666f0b1ffad13b1ab78e2e3b6072d&req=dSEuF853nYFYW%2FMW1HO4zWu%2F7Rp7%2FiZ%2FyY6wfy8BB7SJOcZSMUlTXf2K4uDm%0AsmUC6h%2F%2Fh4ZOi07IDjo%3D%0A
+
+Time Tracking
+
+You can better track the time your employees are spending on travel or working on the job site! This ultimately leads to insight into your field employees' efficiency and a more accurate sense of how labor impacts your job profitability.
+
+[Image] https://downloads.intercomcdn.com/i/o/1191792048/2dac01978bf331087e602567/Screenshot+2024-09-24+at+5_11_50%E2%80%AFPM.png?expires=1763568000&signature=cadf58edf929e7fb339c6354d3cdadc39eb639ae73f36a57ca6980052613f2c3&req=dSEuF853n4FbUfMW1HO4zbxr%2Ff%2FlgawrLUFIt%2BZC9nkARGI5mRIR05iccZ3B%0AT5I8Zy5hCcZSecnJi8Q%3D%0A
+
+Lead Sources
+
+You can track where your customers found your business without having to use tags. Lead source tracking enables better reporting so that you can make smart marketing decisions by investing in the sources that bring you good jobs. You have the ability to track your leads on customers, jobs, and estimates.
+
+[Image] https://downloads.intercomcdn.com/i/o/1191796581/f4db95dc5b971cb4c1f61da7/Screenshot+2024-09-24+at+5_16_24%E2%80%AFPM.png?expires=1763568000&signature=4e6964b4ff4b4dbb8c37dba1a52892a607990f866495545685728bf96ef2fb11&req=dSEuF853m4RXWPMW1HO4zWjza9iB8REdVh%2BXcWZUqDjYtv01EWVSiWoEXEtA%0AKaFxccJRoFmBwLlBPyU%3D%0A
+
+Tags
+
+Tags help to categorize your jobs, estimates, and customers which can be used to filter and search within your reports. Tags can be used as internal identifiers - to help pros distinguish specific jobs, customers, and estimate details. Customers will not be able to see the tags.
+
+[Image] https://downloads.intercomcdn.com/i/o/1191798504/1db4ff8613a4a2b54884555f/Screenshot+2024-09-24+at+5_18_21%E2%80%AFPM.png?expires=1763568000&signature=513b97b4576739d2cf1000e781514f003b6a6482ccb76212138cb86486e84bd0&req=dSEuF853lYRfXfMW1HO4zb1WCAFhXyrtT73eEHn3vbn4o4cZ1FuMs8aBUUMF%0Ax%2FB2ATgDwAE5kfMXZ7c%3D%0A
+
+Referral Program
+
+You can earn rewards when a company you refer becomes a customer. If you know of companies that aren’t using Housecall Pro but could benefit from it or have shown interest in the platform, referring them is simple. Use your referral link, available on both the website and the mobile app, to easily share Housecall Pro with your network.
+
+[Image] https://downloads.intercomcdn.com/i/o/1191799976/3f4c623f9379b83c930aa694/Screenshot+2024-09-24+at+5_19_55%E2%80%AFPM.png?expires=1763568000&signature=997e48ad6bf7a30d782718846ce42044d16f2398a321f53b25c9156ac0800b87&req=dSEuF853lIhYX%2FMW1HO4zUqpKOG92slkgtzrejaySVoB3rbfwj94GSMFu0Bx%0AZPOZPmlFP5cvqpRtT0M%3D%0A
+
+---
+
+Having trouble finding what you need?
+
+Use the blue bubble to reach out to our chat team for live customer support. If you’d prefer to talk it out over the phone, call our support number at 858-842-5746.

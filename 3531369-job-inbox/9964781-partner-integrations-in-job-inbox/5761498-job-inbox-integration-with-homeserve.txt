@@ -1,0 +1,84 @@
+Job Inbox: Integration with HomeServe
+Source: https://help.housecallpro.com/en/articles/5761498-job-inbox-integration-with-homeserve
+Author: Ian H
+Last updated: Updated over 3 months ago
+
+Summary: Learn how to complete the job flow for a new job from HomeServe.
+
+HomeServe is a leading home warranty company serving millions of customers across the United States and Canada. Through Job inbox, you will receive real, pre-approved jobs directly on your calendar with a guaranteed trip fee and fast payment within 14 business days. Housecall Pro manages the partnership, so all you need to do is follow a simple checklist, complete the work, and get paid.
+
+This partnership offers you REAL jobs to put on your calendars. You read that right: Real jobs. Not Leads.
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/9fqggyyrcj
+
+---
+
+---
+
+Receiving HomeServe Jobs
+
+You are automatically opted in to receive HomeServe jobs. They will be passed to your inbox if the job is in your area and industry. To make sure you have the best chance of receiving HomeServe job opportunities, ensure your account is up to date in the following ways:
+
+- Set up or make sure your Price book is accurate.
+
+- Connect your bank account or have Payments set up.
+
+- Turn on notifications on your mobile app and desktop.
+
+---
+
+How to Accept or Decline a HomeServe Job
+
+- Admins, POCs (Points of contact), and Office Staff will receive texts on their mobile phones alerting them about a new job in the area.
+
+- To learn more about the job details, click the link in the notification or go to your HomeServe Inbox. Tap the blue learn more button for more details.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1689158803/e1462832421ccea83d982e4c67c8/AD_4nXfUzDL_RBizAUAkqeJc-tPpVzsF4Tu2c4YOPc5JRgMXMjJg7IVE4fknnwI4ry0am3CifsU66SbWljUB_0IzNdzjGS8lnOxveAymc9MeA59Dp39SwFWM1VNnOHMDiuKW5MJKKmiA7w?expires=1763568000&signature=42d5673816ed127e4380bf0c0b3e5b38a73f8a4e0e4d53de5369b7eef9e7b8f2&req=dSYvH8h7lYlfWvMW1HO4zQnRwt9VZiucuCRVNB43XJAMbxitjWXzw7vh9HMk%0ARbKYFuHILe%2F5fNOkc5I%3D%0A
+
+- You will have a limited amount of time to accept or decline the job. This ensures each Pro has exclusive rights to the job. The timer counts down how much time you have to accept the job until it is passed on to another Pro.
+
+- Upon viewing the job, you will have the option to either decline the job and pass it to another Pro or learn more about the job.
+
+- When you decline a job, a red label with Job declined will appear on the job card.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1689158805/635d116ec188d29ef30d8bb9682c/AD_4nXcs3_-tGoe7hZzeJEZ4VwtdXwmB0K6P5sCVXeVcJaS3SaeHbaILvgQ9XV9RL_m285kYmMOMOLYkHfggl1DtZu6obT4onFRK9cHypDxOFlxzm0r-Q5p2HpZbh0dIpyXgkBJ2bbvn?expires=1763568000&signature=e9f3fac225ecb43cea988293a0bf49616a634981e6a00ce22610af10ef287dd4&req=dSYvH8h7lYlfXPMW1HO4zfLwOZFoBGOT4gYooNQH5bGaNEususDIM6moyMOK%0AnEZ8%2FjUBgUD9V7peDNI%3D%0A
+
+Explaining a HomeServe Job
+
+- Timer - The timer counts down how much time you have to accept the job until it is passed on to another Pro to accept.
+
+- Estimated Value - The scope of work may vary depending on your assessment and the homeowner's home warranty plan. The final total will reflect actual work done, but there is a minimum trip fee of $75 in place if no work is completed.
+
+- Arrival Window - If you accept the job, the job will populate into your calendar with this suggested arrival window. You must call the customer to confirm the time or change the date/time.
+
+- Not Interested Button - By clicking this button, it will signify that you do not want the job, and then it will continue being passed to Pros based on service area and industry.
+
+---
+
+How to Complete a HomeServe job
+
+Each Job inbox opportunity has a checklist with instructions on how to complete the job. You will need to complete the checklist in order to finish the job and collect payment:
+
+- Once you accept the job, call the customer to confirm a time and date with them.
+
+- When you arrive on site, diagnose the issue and create line items for the proposed work.
+
+- Call HomeServe at 888-666-8830 and choose option 1 for Cost Authorization.
+
+- Don’t forget to push Start and Finish.
+
+- Get the homeowner's signature to authorize that the work was done.
+
+- Do NOT collect payment from the customer. Click Invoice, and HomeServe will pay the invoice online with a credit card within 14 business days.
+
+And don't worry, all of these steps will be included in the job details for easy access!
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1689169272/41e5496f29c8ae5028d21251a6ef/AD_4nXdL1HJJ2FLtxNDfH_55dGVWwom0lXTNrrkYaEclszhxE5Tb0MhTJ-I8M2UdnxnugVnHq6APOT3ejF8jFzcImBRsYHNBaU1VeZ1rbTxqWpsarn6ilss9-Tde40ia2Qz3VejTJhckPQ?expires=1763568000&signature=41266bf85e4a99238966f78e78bc646aaf622f317a19a6155446e24d3fb9beb9&req=dSYvH8h4lINYW%2FMW1HO4zShTKhANCfsI6nStE4atZD%2FI9Jdwxh9qIpHHafSF%0AjC8eyV1weQWKeVyKjIk%3D%0A
+
+---
+
+---
+
+HomeServe FAQs
+
+---

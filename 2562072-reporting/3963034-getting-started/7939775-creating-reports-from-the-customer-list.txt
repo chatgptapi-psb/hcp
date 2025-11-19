@@ -1,0 +1,58 @@
+Creating Reports from the Customer List
+Source: https://help.housecallpro.com/en/articles/7939775-creating-reports-from-the-customer-list
+Author: Ian H
+Last updated: Updated over a month ago
+
+Summary: Get the data you want in Housecall Pro through the Customer list tab.
+
+Customers List Overview
+
+In Housecall Pro, there are two ways to get the data you need about your jobs, estimates, or customers. Our reporting suite allows you to create custom reporting, which can be saved and returned to, and offers a summary view of your business performance. Our new list views allow you to search through specific jobs, estimates, and customers to get detailed data at the job, estimate, or customer level.
+
+---
+
+List View Searching and Reporting
+
+The best way to search, sort, and filter through your jobs or customer information is through our new list views. Previously, the only way to find certain information, like customer notes or materials on the job, was to use a dashboard report and find creative ways to filter. Now, you will be able to use our comprehensive search, table columns and filters, sorting, and export capabilities to attain the information you need.
+
+- To locate your customer list, select Customers at the top of your HCP, in your main navigation bar.
+
+[Image] https://downloads.intercomcdn.com/i/o/748178519/404eef370c94d3dd7b1c965a/image.png?expires=1763568000&signature=5628f295a7bea92cd537ed3d7520a17c88b8c7713e554bdbbb8b7f2571067b09&req=cyQvF852mIBWFb4f3HP0gECAkiYBBhpOcE9Rg8rXUL66wLMCDSSAWt4vyVLZ%0Aw%2BOHn%2B4vwCEHAh8LkQ%3D%3D%0A
+
+- On the left side of your screen, you will see four main options: Customers, Jobs, Estimates, and Invoices. Use this list to choose which set of data you would like to look through. Here are some examples of what you can do with these tabs: - Customers: View and manage all of your customer information, such as contact details, payment history, and any notes or special instructions.
+ 
+- Jobs: Track and manage all of your ongoing projects. You can create new jobs, assign them to specific customers, and track their progress.
+ 
+- Estimates: Create and send estimates to your customers
+ 
+- Invoices: Send invoices to your customers for completed work and track payment status
+
+[Image] https://downloads.intercomcdn.com/i/o/1108042311/8a54f9c86fd3ef5306dfaba5/Screenshot+2024-07-09+at+11_52_24%E2%80%AFAM.png?expires=1763568000&signature=39d2a0350c3d25cea88567e193aeefa493349f8a7c95440a8a64c5a0b9668ab2&req=dSEnHsl6n4JeWPMW1HO4zS3GLjIGRfD4lP8QBTNmVhLIAh5b0M%2BIt64ssSDb%0AG8dsqVW%2BvPBF1juuVbI%3D%0A
+
+- Once you click one of the list options, you can use our search bar to find the information you are looking for. Any customers, jobs, estimates, or invoices that have the search term will show up in your list.
+
+[Image] https://downloads.intercomcdn.com/i/o/1108044469/4015c7138b62bba9280c4d9f/Screenshot+2024-07-09+at+11_54_16%E2%80%AFAM.png?expires=1763568000&signature=f6ada85f202ebc399a1420ae5a03dd09ea4edb44fb567b1795543689ec90a46d&req=dSEnHsl6mYVZUPMW1HO4zZ41yrRJxesCIdmNm%2Fq8viSIx%2BEaBeLn5MRkM79z%0ABhZrRbcnX4hBgCPSDXY%3D%0A
+
+- Some columns in the lists can be sorted in ascending or descending order. You will see an Up or Down arrow when you hover your mouse over the name of the columns that can be sorted. You can click the up or down arrow to sort the column.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1772137730/20197bfd184d96185521ff6bec28/image.png?expires=1763568000&signature=622f1862bb23c68004d20b5cc899aec46198b38c2cf8d6237f24ed6cfcc77819&req=dScgFMh9moZcWfMW1HO4zWIYLItRcHKyizFfBTxCclCMuvzMgxHWs%2FmVZhPo%0A%2FcN1Izlm926Pedl2%2BFQ%3D%0A
+
+- You can use both the blue Filter button and the blue Edit columns button to the right of the search bar to change your table display.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1721299273/634d65831f80fcdf2c609b7baadd/Screenshot%2B2024-07-09%2Bat%2B11_54_16-E2-80-AFAM.png?expires=1763568000&signature=0f8f5590e1094e8ea9bbe485f53f67698f2ba579440651d35a0755a0837ab7f5&req=dSclF8t3lINYWvMW1HO4zXBZ5jUSjetrSNueP94o0ik3iWHJX%2FqMEv2TNYgx%0AWYW6V1Y4q0FVcfYvwps%3D%0A
+
+- Using the Filter option will allow you to hone in your search based on criteria like tags or employees.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1721301161/7355b17ce8d5f1c7320000da0214/image.png?expires=1763568000&signature=6dff555fc257d9dea07d50ab4cf1e4e528b911661bd3eb8723756699b1666dec&req=dSclF8p%2BnIBZWPMW1HO4zQ6zQNfWim1PnKQroj2kbyOvREriDfBfErGegPoB%0AcbirsOHZu0GhUisJ0T4%3D%0A
+
+- Edit columns will allow you to adjust the data being displayed in your list by checking or unchecking the box next to the data field to remove or display columns.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1721305873/7a9cae15588f56c1ec1af16a6db7/image.png?expires=1763568000&signature=c7e9a63aba786ecee0657d8625e4b7fc19c8f9bbf32e2036aa5fb0da756e2f5c&req=dSclF8p%2BmIlYWvMW1HO4zanT4gfKQhPQ6wqsVgeTbd4D9zEvtD%2B8U0%2FYW8v4%0AUuMiTITixvdM3IfPUj8%3D%0A
+
+- Finally, you can click the blue Actions button and then select Export from the dropdown to export and create an Excel version of your list. From there, you can filter on each column and use the data as you see fit.
+
+[Image] https://downloads.intercomcdn.com/i/o/748182125/580e31601f0163a1662a2448/image.png?expires=1763568000&signature=c08dfe4692cb02ee919a9191b23bfeed7e8068a29301d5c14f8779fd12be4a00&req=cyQvF8F8nINaFb4f3HP0gLbJZTvLFata2faQpeyNork2VsSDAKd8GuMFCSf9%0Ag5stAiW25BfVT1Nw7g%3D%3D%0A
+
+---
+
+---

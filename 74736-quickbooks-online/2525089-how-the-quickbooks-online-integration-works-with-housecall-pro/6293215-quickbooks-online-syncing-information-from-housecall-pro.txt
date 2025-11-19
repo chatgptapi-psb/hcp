@@ -1,0 +1,319 @@
+QuickBooks Online: Syncing Information from Housecall Pro
+Source: https://help.housecallpro.com/en/articles/6293215-quickbooks-online-syncing-information-from-housecall-pro
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: Learn how information syncs from Housecall Pro to QuickBooks Online and how to manually push information to your QBO account when needed.
+
+How the QBO Integration Works with HCP
+
+The integration between Housecall Pro and QuickBooks Online typically functions one-way, with data automatically syncing from Housecall Pro to QuickBooks Online. There are a few exceptions, and there may be times when you need to push information over to QuickBooks Online from Housecall Pro manually.
+
+In this article, we’ll cover everything you need to know about how the integration works between Housecall Pro and QuickBooks Online after the two systems are connected, including:
+
+- How information syncs from HCP to QBO
+- How to manually push information to QBO when needed
+- How certain information from QBO can be pushed to HCP
+
+Whether information is synced automatically or pushed manually from Housecall Pro, the same data will be transferred to your QuickBooks Online account.
+
+Information that Syncs/Pushes over from HCP to QBO:
+
+- Jobs/Invoices
+- Payments (including Service Plan payments)
+- New customer information
+- New Price Book items 
+​
+
+---
+
+How Information Syncs from HCP to QBO
+
+After you have set up the QuickBooks Online integration with Housecall Pro, information from your Housecall Pro account will sync to QuickBooks Online when:
+
+- Jobs are marked as finished
+- Jobs are marked as paid
+- Invoices are sent to customers
+
+To sync invoices and their details from Housecall Pro to QuickBooks Online, create a real or test job, then click one of the following action buttons on the Job Details page:
+
+- 'Finish'
+- 'Invoice'
+- 'Pay'
+
+This will trigger Housecall Pro to sync the information to your QuickBooks Online account within 2-5 minutes.
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/1163927986/bdfaeab01a3335aae0814468/Sync.png?expires=1763568000&signature=26417b6e382bfc2f7cf71b94ddc5db4b83a5d1be033c0ebb5fe28b1d3fa1a66d&req=dSEhFcB8mohXX%2FMW1HO4zdl5bLBwC%2BAVEPBPO%2BGaBDHdb%2Fudv%2Br7QOd6NEzP%0Asfl81renNPsKWmLNCKY%3D%0A
+
+Information from jobs syncs over to QuickBooks Online alongside customer details. Once an invoice syncs to QuickBooks Online for the first time, a link is established between the invoice in Housecall Pro and the invoice in QuickBooks Online, which allows updates to sync to the invoice in QBO once an action has been completed.
+
+- If multiple buttons are pushed throughout the job lifecycle, the first trigger will push the invoice over to QuickBooks and create the link between the HCP and QuickBooks Online invoices.
+​
+- All of the following triggers, such as entering payment or sending the invoice, will update that same invoice via the link moving forward.
+
+---
+
+Syncing Jobs and Invoices
+
+This section provides a brief overview of how the Job # and Due Terms map from Housecall Pro, and what you can expect to see on the QBO side.
+
+Mapping:
+
+- The Job number in Housecall Pro will be your Invoice number in QuickBooks.
+- The Due terms in HCP are the Terms in QBO.
+
+Table:
+Row 1: Housecall Pro | QuickBooks Online
+Row 2: Job # [Image] https://downloads.intercomcdn.com/i/o/1182933194/7a39799e44091001a1bf7a41/image+%2825%29.png?expires=1763568000&signature=595f43900a2501628ba353685e4db00a86279b4a3b865fc55e036054956c2d27&req=dSEvFMB9noBWXfMW1HO4zYPC1n%2B1l6DejDg0bchymANUPvdRqDS7vb878obo%0AkE02%0A | Invoice # [Image] https://downloads.intercomcdn.com/i/o/1182933367/f758420ae77744b4d64305fb/image+%2826%29.png?expires=1763568000&signature=c02fa1ef43ef86dbf1440fff085ef4fc1150edf0fb655a881903a36b2e8f572f&req=dSEvFMB9noJZXvMW1HO4zQPWAJLXKl6DPshqRAfuZ1DeeV2wEWdvfKKWtRGQ%0AFNdL%0A
+Row 3: Due terms [Image] https://downloads.intercomcdn.com/i/o/1182934488/17559bf6cd915c66acc69a7a/image+%2827%29.png?expires=1763568000&signature=cbc0b4db06c09dc91409529b47c3b270a5bc5d67f3e291f684144de8703efb2e&req=dSEvFMB9mYVXUfMW1HO4zbdl3JVNk1896cXc7Wew8Qq9zbMfYriXNb5ubPNx%0AhA4d%0A | Terms [Image] https://downloads.intercomcdn.com/i/o/1182934663/a4651bc57dcf44a1f84afa6e/image+%2828%29.png?expires=1763568000&signature=e85c9bfa1622ea6346e3208c012cf802cf1caaf817c1a85eb007e60477425a28&req=dSEvFMB9mYdZWvMW1HO4zfvDJwF%2BbaSNhP2j3SPv9SYIPH49j4%2FLZwp%2Fvdvh%0AXSVR%0A
+
+---
+
+Invoice Due Terms
+
+Housecall Pro allows you to set invoice terms on the job you have created. When the job is finished or sent to QuickBooks Online, your terms will also be reflected in QuickBooks Online.
+
+How to set invoice terms in Housecall Pro:
+
+- Find the job you would like to set invoice terms for.
+
+- Find the Invoice section of the job and click the highlighted link next to Due.
+
+- Select one of the three options: Upon, Net, or On date.
+
+- Click Done.
+
+[Image] https://downloads.intercomcdn.com/i/o/1182941924/faa9aa35a710ad5d5b9fe505/Screenshot+2023-01-10+at+8_45_12+AM.png?expires=1763568000&signature=96cfa63c820c21a3fec6d80a8917c6f4c86b8b6c5234c89c30202949697175f5&req=dSEvFMB6nIhdXfMW1HO4zUSX1uNkPSOLlyXPHogbKYrBLkHtGttHO3lB2jW%2B%0A2rLEQ%2BN%2Fpqfnzf5P5O4%3D%0A
+
+How invoice terms are mapped to QuickBooks Online:
+
+- Upon: Receipt - The default due date will be the date the invoice was received.
+
+[Image] https://downloads.intercomcdn.com/i/o/1182943479/030ffa69dca9d61dd73ea4d6/Screenshot+2023-01-10+at+8_58_14+AM.png?expires=1763568000&signature=3975f36eb96d705a58eab818c54bb69d99c26f1eed3b1e2388fe7b3a6087c9fe&req=dSEvFMB6noVYUPMW1HO4zY8nSX2zrRsuXtVQJygHXqZLL9B6KH%2B%2BtP3Rri0%2B%0A4GyenHtACc7QXGPf0Nc%3D%0A
+
+- Upon: Start of Work or Completion of Work - The due date will automatically be set to the date the work was started or the date the work was completed.
+
+[Image] https://downloads.intercomcdn.com/i/o/1182943995/1e8a2b5693e6c0c4b10401b2/Screenshot+2023-01-10+at+9_02_51+AM.png?expires=1763568000&signature=744e6cd3da7e28e3ed601672e25c131c9c2f327450f130c15e99bc87c7b82023&req=dSEvFMB6nohWXPMW1HO4zUo1O9h5Zgg3i6wpxCXfMlUCYIX%2FElmKbcoYoo01%0AGmvPbLNF9aagLeZAv7U%3D%0A
+
+- Net: 7, 10, 14, 30 etc. - If the invoice net term is not a term already in QuickBooks Online, we will create the term for you. The due date will also be set to the date indicated by the net term and the invoice date to the date sent.
+
+[Image] https://downloads.intercomcdn.com/i/o/1182944524/04a859c17d59ee8190f1db3b/Screenshot+2023-01-10+at+9_07_31+AM.png?expires=1763568000&signature=e6582060c964583982e94b7c4ab98c6878e034b6ba533d4c6ee76dded066c621&req=dSEvFMB6mYRdXfMW1HO4zXDA3VceGWu85df05nAi1XniXtVuqpIJSE336Tp%2B%0APizXZM89J%2FgiQ%2BWcnMI%3D%0A
+
+- On a Date - If the invoice net term is set to a specific date, we will not set the term and only set the due date and the invoice date.
+
+[Image] https://downloads.intercomcdn.com/i/o/1182945639/71139b4714710efe6eeaa5d1/Screenshot+2023-01-10+at+9_13_53+AM.png?expires=1763568000&signature=14dc2ddce0d6dbc9f7b553d8eb963add7423ed837428d3df423f28a0889198b9&req=dSEvFMB6mIdcUPMW1HO4zZKGCZRKIBe50b4q7sy0DroOnVZvuQipzPFOr4mx%0AI4IVdlxv%2FR1P%2FgQzKeQ%3D%0A
+
+---
+
+Syncing Jobs/Invoices with Separate Billing & Service Addresses
+
+When a job with a separate Billing and Service Address is pushed to QuickBooks Online, the Service Address from Housecall Pro will be found under the "Shipping to" section of the QuickBooks Online invoice page.
+
+The service address will not be added to the Customer Details tab in QBO.
+
+Table:
+Row 1: Service Address in HCP
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/539001827/1ee0eb0cd43ca52d64ac87b7/add1.png?expires=1763568000&signature=b39acc936bae25acedd1c1a6db931d7f40f92ed2a93c780304e3d79b193aeb33&req=cSMuFsl%2FlYNYFb4f3HP0gGtzY6FYnParO58nqttFcBZA4IP2aVOfwUfb3gsm%0A1Mc%3D%0A
+
+Table:
+Row 1: "Shipping to" address on the Invoice page in QBO
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/539001884/1ab94046c1012c8db0288704/add2.png?expires=1763568000&signature=48cb956e132b9c015c60508393d060663f14fee8c0db95f4955573bf9ec7a889&req=cSMuFsl%2FlYlbFb4f3HP0gH3iM2NraSb3Vv10ZqFcd1Y1W7%2F0ogN3qOY7VKIx%0AunA%3D%0A
+
+Table:
+Row 1: Customer Details tab in QBO
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/539001945/14911ef80967ca52ea56bb4d/add3.png?expires=1763568000&signature=d3d267ec04776ffd0c291263404593558abca4ed0f3724374207ff9de2265d5a&req=cSMuFsl%2FlIVaFb4f3HP0gJx91uueOL9KIWvQwaN6je8XdCofiqMrijfzxMq3%0AiyE%3D%0A
+
+---
+
+Syncing New Customers
+
+When a job for a new customer syncs from Housecall Pro to QuickBooks Online, the customer will be created in QBO and a link will be formed between the profiles for any of their future invoices.
+
+When a customer's Display Name is updated in your Housecall Pro account, the name will also update in QuickBooks Online when the next invoice syncs from HCP to QBO for that customer.
+
+- Information will transfer from the Customer Profile page in Housecall Pro to the Customer Details page in QuickBooks Online.
+
+Table:
+Row 1: Customer Profile page in Housecall Pro
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/527555875/b65bfd286f8c562702b9ae1b/customersync1.png?expires=1763568000&signature=ca97a305097449ed2ddfdbe7ebfce4095dc86f341c59b35e52e10b9aa0efb7c8&req=cSIgE8x7lYZaFb4f3HP0gNegzaNdjaN4A6bsY3mohIh2GpWi8UWsyKJoI9Ng%0AYlM%3D%0A
+
+Table:
+Row 1: Customer Details tab in Quickbooks Online
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/527555901/0e2d6765af9e37fe5ae4cac3/customersync2.png?expires=1763568000&signature=1727191c8f1e73326593f0d4622f9438a03ee392ff6428d5e8576c96c774153e&req=cSIgE8x7lIFeFb4f3HP0gDGGU2G%2BR6AubM5WZo%2FFuLCQ9rRjLxtUDNn319Uo%0ASuE%3D%0A
+
+The following tables show which fields in HCP correlate to specific fields in QBO:
+
+- Customer Contact Info Fields
+
+Table:
+Row 1: Housecall Pro | QuickBooks Online
+Row 2: First Name | First Name
+Row 3: Last Name | Last Name
+Row 4: Display Name | Display Name
+Row 5: Company | Company name
+Row 6: Mobile Phone | Mobile Number
+Row 7: Home Number | Phone number (Primary)
+Row 8: Work Phone | Other
+Row 9: Customer Notes | Notes
+Row 10: Email | Email
+
+- Customer Address Fields
+
+Table:
+Row 1: Housecall Pro | QuickBooks Online
+Row 2: Street | Street address 1
+Row 3: Unit | Street address 2
+Row 4: City | City
+Row 5: Zip | ZIP code
+Row 6: State | State
+
+---
+
+Auto-Syncing Price Book Items
+
+As Service and Material items are created in your Price Book in Housecall Pro, they will be automatically synced with QuickBooks Online immediately.
+
+- The first time a new Material item is used and pushed to QuickBooks, it automatically syncs as a service. - If you would like to track the Material item, it will need to be manually changed in QuickBooks Online as an inventory or non-inventory item.
+
+- If a Service or Material Item has already been added to your Price Book, the Product/Service item created in QuickBooks Online will match exactly with the item in Housecall Pro.
+
+[Image] https://downloads.intercomcdn.com/i/o/1178094779/3b7c8a97b9d9cd96bf162fce/new+service+7.png?expires=1763568000&signature=8a406a98ada6a965d22d27ba823cd88ed9d4df8be236ddeea980791eebd8d744&req=dSEgHsl3mYZYUPMW1HO4zSpHShyuLB1fnBnOKMIc2BZyMQ2gijFM1ri5D73x%0Ai9QjdyjOF9AIayPgr5s%3D%0A
+
+- If you add a new Price Book item directly to the Job Details page without first adding it to the Price Book, the item will be categorized generically as Sales in QuickBooks Online.
+
+- A link will be created so the item will be mapped appropriately with any jobs moving forward.
+
+[Image] https://downloads.intercomcdn.com/i/o/1178093282/721c30cf943330a411971afc/new+service+6.png?expires=1763568000&signature=a7b916abea84e3d6205e005ad8351d8559f9d6cefe8407cf18f7550e2e785894&req=dSEgHsl3noNXW%2FMW1HO4zcNcUMibu5IvdorLQ9A%2B3htDO%2BaNvRZUo%2FpEvXeF%0ABDg2asNPf%2BzSpQUL0yo%3D%0A
+
+- If the category that the item is mapped to in QuickBooks Online needs to be updated, it will have to be updated in Housecall Pro. The item will update to the appropriate category the next time a job with that item is synced to QBO.
+
+- Only update the Product/Service information in QBO first when changing the Material Type, or for keeping inventory up-to-date.
+
+Table:
+Row 1: Housecall Pro | Quickbooks Online
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/538996309/794839f23323f41947e29604/line1.png?expires=1763568000&signature=fbb3f473ffcceb02a0f34745d75bff340c08d4e20d58cd94e10d929c401a70cc&req=cSMvH8B4noFWFb4f3HP0gHr701xO4nNpBmu50cDU60Cb66XCe3uBBDFbIQT%2F%0Aoss%3D%0A | [Image] https://downloads.intercomcdn.com/i/o/538996351/1711f78fc3ec90ac5a09224b/line2.png?expires=1763568000&signature=88e28ef214f4cf4564061484a95192eb7a03be624f0456d7e1ea07dd6624ada7&req=cSMvH8B4noReFb4f3HP0gIBYs%2BbO%2FWj80WqRA9IOf1pf%2BjUgMIrV9VOXvt%2Bw%0A2h8%3D%0A
+Row 3: [Image] https://downloads.intercomcdn.com/i/o/538996424/db7a96e48479e1a058382d49/line3.png?expires=1763568000&signature=f49406d55b55f1e30d2ac3022499bc6ef939f68ba35d92cd63e12d972f29589f&req=cSMvH8B4mYNbFb4f3HP0gBVouNpCVH%2FDUMPKCSmT3JvhzAtiYSLhprMgqqzH%0A0hs%3D%0A | [Image] https://downloads.intercomcdn.com/i/o/538996468/acb9ef8896627a429e261766/line4.png?expires=1763568000&signature=d6a932c8d7d8adec4cd2a1f35df5257ac5502071d07577fb6f13004fae441475&req=cSMvH8B4mYdXFb4f3HP0gEA79oGc9Qxr9waHQ3ahGN4MVd20xebLQ1YP1xTX%0AONo%3D%0A
+
+---
+
+Sync & Map Income Accounts for Price Book Items
+
+Price Book items in Housecall Pro that are included in a job and pushed to QuickBooks will include the default income account or the assigned income account. The income account is assigned to the Service in QuickBooks Online.
+
+[Image] https://downloads.intercomcdn.com/i/o/1183412738/e5b99a62ffe6c5acd25d1ea9/Screenshot-2B2023-06-28-2Bat-2B1_03_57-2BPM.png?expires=1763568000&signature=a70897f5934f4e46a30e32cdf4ca5c86b99bdf8687f56633e4e08ddcfbed00a1&req=dSEvFc1%2Fn4ZcUfMW1HO4zY2HpLJZNKhTdC7j5aLQ0gPaMDPrAv6zi7QwWSyt%0AVbvhXTW%2FeopB%2BhqgtS0%3D%0A
+
+You can map income accounts to Price Book items so you can understand your sales transactions for items sold on jobs. By mapping income accounts, you can then analyze your income statements, allowing you to find areas of improvement, including how to improve your margins.
+
+- If you import your data from QuickBooks Online to Housecall Pro, any income accounts linked to your services in QBO will be automatically assigned to the corresponding Service or Material in your Housecall Pro account.
+
+- Each Service or Material in your Housecall Pro Price Book will include a QuickBooks Online Income account section, with the assigned income account imported from QBO.
+
+To change the income account assigned to an existing Price Book item:
+
+- Go to your Price Book in Housecall Pro by selecting 'Price book' from your navigation bar at the top of your account. (If you don't see this option, select 'More,' then 'Price book' from the drop-down).
+
+- Select 'Services' or 'Materials' from the menu on the left.
+
+- Select a Service or Material industry and category, then select the Service or Material item that you would like to change the income account for.
+
+- Select the income account you would like assigned by clicking on the Income account drop-down under the QuickBooks Online box to the right.
+
+- Click 'Save' in the top right corner of your screen to update the income account.
+
+[Image] https://downloads.intercomcdn.com/i/o/1183404926/575999da0fa6d94820744258/IncomeAccountEdit.png?expires=1763568000&signature=525eb240729a1b622a30bbbabc5d735b7bd767ba7c11335a25818870018b2020&req=dSEvFc1%2BmYhdX%2FMW1HO4zU3nmKWihepA4Y1bjj5UjMbY9yBLeb794sp8rXFa%0A72LNFVTegwA7ExLm%2BUM%3D%0A
+
+---
+
+Manually Updating Price Book Items in QBO
+
+Any manual updates made to your Price Book items will not sync between the two systems. If you update a Service or Material Price Book item in Housecall Pro, it will also need to be manually updated in your QBO account.
+
+To manually update your Price Book item in QBO:
+
+- In QuickBooks Online, click on 'Products & services' from the navigation menu on the left side of your screen, then click 'Edit' to the far right of the item you want to update.
+
+[Image] https://downloads.intercomcdn.com/i/o/1178048930/415c8ffac8fa90c8ae83025e/Products-and-Services.png?expires=1763568000&signature=6868a6579f5a5bb980b6476fe7468dbb092bd7678fb61a59ca291970a1957f29&req=dSEgHsl6lYhcWfMW1HO4zfo8YUQBQDdBjv6E2q7Nvlu5nJVFvKQkdWJxtiT%2B%0Ao5Kg8u%2Bdzpv7ft8SP98%3D%0A
+
+- The Product/Service information window will appear on the right where you can update the item information, including the Name, Category, Sales price/rate, and Income account.
+
+[Image] https://downloads.intercomcdn.com/i/o/1183210534/35c7004067e31fc2e3ebf780/materials6.png?expires=1763568000&signature=a96e4aa35a110e10014d3e5b7ab49d08a0b5770daf808ec6ab8606a3bf04cd7a&req=dSEvFct%2FnYRcXfMW1HO4zUEJHfzb2G%2BfnYww0nvTryFwbW%2B6Tb97njn8CIC6%0AfvSJvAnvYgzWAKeT%2BW0%3D%0A
+
+- If you decide to change an income account on a Price Book item in Housecall Pro, you can do so. However, the income account update will only appear for Price Book items used in a job from that point forward. 
+​ - To retroactively update the item for the new income account, click the 'Also update this account in historical transactions' checkbox.
+
+[Image] https://downloads.intercomcdn.com/i/o/1183425051/c144ee6560f871471741fb0d/Screenshot-2B2023-06-28-2Bat-2B1_10_40-2BPM.png?expires=1763568000&signature=50736c68f858a782f0730d6d74ef08ea640821ec10381ada41fb62fc0de4f755&req=dSEvFc18mIFaWPMW1HO4zSFiL3il%2BWZ78rG17thoKCTlAPR6%2BjWVgBh3sLZ3%0A7q%2FdNppyqBUZkk%2BcdW4%3D%0A
+
+- Once you've updated the information, click the 'Save and close' button in the bottom right corner of your screen.
+
+- The information will be updated across any instance of that service across QuickBooks Online, and will then need to be updated in Housecall Pro.
+
+[Image] https://downloads.intercomcdn.com/i/o/1178051988/3103bb00ddc65dec3704330c/Products-and-Services+%281%29.png?expires=1763568000&signature=32f91f622427310481f018687b37ca1aec50f38085b3916603bb5a864e5cbf24&req=dSEgHsl7nIhXUfMW1HO4zW33rD1eBV70RDno5S8dp0eTITfD%2BQfwD7pBeVP5%0Ap6iBsKXZbDEN%2FPeo4tE%3D%0A
+
+---
+
+How to Manually Push Information from HCP to QBO
+
+The integration between Housecall Pro and QuickBooks Online only affects new jobs after the initial setup, so jobs that have been marked as Finished, Sent, or Paid before integrating HCP and QBO will need to be manually pushed to your QuickBooks Online account.
+
+If you need to push an invoice to QuickBooks Online for a job that hasn't been completed and no payment has been received, manually pushing the invoice over will also allow you to bypass marking the job as finished or paid, or sending it to the customer.
+
+To manually push information from HCP to QBO:
+
+- Navigate to the Job Details page for each job, payment, or customer that you need to push to QuickBooks Online. 
+​ - If a job hasn't been created for the information that you need to push over, you can create a real or test job.
+
+- Scroll down to the QuickBooks Online section of the Job Details page, located under the Activity Feed.
+
+- Click on the three dots in the top right corner of the QuickBooks Online section and select 'Push invoice/payment to QBO' from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/538937912/2a158770e4f58452e6f29dee/push2.png?expires=1763568000&signature=dced4b97332e59ced00d152c9e85833da69bcefcb2cab2b22743565fb7bd0678&req=cSMvH8p5lIBdFb4f3HP0gB8Q9eRhtz0ThAXkRlDvOZWBJJ%2FFYUHI1x4wy7L9%0ApKAow1bVGivAPoudpA%3D%3D%0A
+
+If you receive any alerts when attempting to manually push an invoice into QuickBooks Online:
+
+- The QuickBooks Online box will reload and will show "View Alerts" in the top right corner. 
+​
+- Click "View Alerts" to be taken to the QuickBooks Alert Center in your Housecall Pro account.
+
+[Image] https://downloads.intercomcdn.com/i/o/519903874/563e337ad1ff6967c964be3d/jobinvoices4.png?expires=1763568000&signature=cad839230676a5a160c8a5da68d5f4f7b1bcc54ebe47189d639e04fa53ecab53&req=cSEuH8l9lYZbFb4f3HP0gF9baNv5WFz7ealKauzZEjNtuAiJ9dSgf%2BPejdlw%0ABvqJ8RjbgUvOFCP0Tw%3D%3D%0A
+
+---
+
+When is Information Pulled from QBO to HCP?
+
+- During the integration setup, you have the option to import all of your QuickBooks Online data into your HCP account. 
+​
+- In cases where a payment was entered in your QuickBooks Online account instead of your Housecall Pro account, you can manually pull those payments from QuickBooks Online. 
+​
+- Deleting or making a customer inactive in QuickBooks Online will also delete the customer from your Housecall Pro account.
+​
+- If a Parent Customer is deleted or made inactive from a Customer/Sub-customer relationship, the Sub-customer will also be deleted in QuickBooks Online. This change is also applied to Housecall Pro, where both customers will be deleted. 
+​
+- If a Sub-customer is deleted or made inactive in QuickBooks Online, but the Parent Customer remains active, the Sub-customer's jobs will still be found under the Parent Customer's profile in Housecall Pro.
+​
+
+---
+
+Video Tutorials
+
+In this two-part Mastermind Online, James Griner covers how the Housecall Pro and QuickBooks Online integration works so that you understand what happens in your QuickBooks Online account as you do things within your Housecall Pro account.
+
+Part 1:
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/ckv7rugsn8
+
+Part 2:
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/cvruq5t4z0
+
+Housecall Pro Customers in QuickBooks Online:
+
+[Video - youtube] https://www.youtube.com/watch?v=CJIHLfJ0ot4
+
+Housecall Pro Jobs/Invoices in QuickBooks Online:
+
+[Video - youtube] https://www.youtube.com/watch?v=_x5_CISu8Ps
+
+---
+
+---

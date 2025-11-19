@@ -1,0 +1,32 @@
+How to Print Manual Checks in HCP Payroll
+Source: https://help.housecallpro.com/en/articles/10807025-how-to-print-manual-checks-in-hcp-payroll
+Author: Leshlie C
+Last updated: Updated over 8 months ago
+
+Printing Manual Checks in HCP Payroll
+
+One great feature of Housecall Pro Payroll is the ability to print your own manual checks with ease! If an employee has opted out of direct deposit and prefers printed checks instead of handwritten ones, Housecall Pro makes the process simple and efficient. Below, you'll find a step-by-step guide on how to print a manual check, along with our top recommendation on where to purchase check stock for the best results!
+
+The Pro can print checks directly off the Housecall Pro website but they need a specialized check stock paper called DLT159 for the check to be cash-able at a bank. Check’s recommended stock for this is (https://www.deluxe.com/shopdeluxe/pd/laser-top-check-multi-purpose-7-5-voucher/_/A-DLT159) and this link can be provided to the Pro for ordering. The DLT159 check stock must display the company bank account and routing numbers as this information is not included in the manual check that is printed.
+
+---
+
+How to Print Manual Paychecks
+
+Below is a step-by-step on how to print manual paychecks:
+
+- Go to Payroll
+​
+- Select Overview
+​
+- Navigate to Documents
+​
+- Under the History tab, choose the payroll for which you would like to print checks
+​
+- Navigate to the far right and click on the three dots.
+​
+- Select Get Paper Checks.
+​
+- You should now be able to print your paper checks and distribute them to your employees.
+
+---

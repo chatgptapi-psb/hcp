@@ -1,0 +1,206 @@
+QuickBooks Online: HCP Business Financing (via Stripe Capital)
+Source: https://help.housecallpro.com/en/articles/6097449-quickbooks-online-hcp-business-financing-via-stripe-capital
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: Find out how loan payout and repayment get automatically recorded with your QuickBooks Online integration.
+
+Overview
+
+We know how much of a headache accounting can be, which is why we take care of reconciling your Stripe Capital loan payout and repayment in QuickBooks Online. Spend more time thinking about how to use your funds, and less time on tracking repayment!
+
+In this help article, we’ll detail how a few key features of the Stripe Capital product integrate with QuickBooks Online.
+
+We’ll use these loan terms as an example throughout this Help Article:
+
+- Loan amount: $10,000.00
+- Flat fee: $2,000.00
+- Repayment rate: 10%
+
+---
+
+Loan Payout & General Ledger Account Creation
+
+When your Stripe Capital loan is paid out, we will increase the balance of your default checking account by the amount of your loan.
+
+We will also automatically create two new accounts in QuickBooks Online:
+
+- A liability account for recording the amount of your loan (and how much you have left to pay against the balance)
+- An expense account for recording repayment against your loan’s flat fee. We will also create a new vendor to help keep things organized.
+
+[Image] https://downloads.intercomcdn.com/i/o/495389569/4f240be13979e3c250effe6c/Screen+Shot+2022-04-11+at+9.21.50+AM.png?expires=1763568000&signature=53bc7c22bb55d2a25edbdbae49d225f129bc14daf0a0978bf3b41159dfb4479c&req=cCkiFcF3mIdWFb4f3HP0gNPQdY1hK7qnvuqszOddBwttjUkgTi9X%2FCWZfDsS%0ADcpbGzeR2BiuPxdFvA%3D%3D%0A
+
+When your loan is paid out, you’ll see in your Chart of accounts a new liability account (teal) and an expense account (blue).
+
+---
+
+Checking Account
+
+As mentioned above, when your loan is paid out, we will increase the balance of your default checking account by your loan amount.
+
+If we use the example above, the balance of your checking account would increase by $10,000.00 when your loan is paid out.
+
+In this example, a Pro's checking account balance is increased by $10,000.00 when a $10,000.00 loan is paid out. You can see a newly created vendor (purple) and liability account (teal) associated with this deposit.
+
+[Image] https://downloads.intercomcdn.com/i/o/495391319/f61ce0066054989ce1892c52/Screen+Shot+2022-04-11+at+9.22.03+AM.png?expires=1763568000&signature=8ae2db6a46d9010aa0de93736519941c00b674f5cf48509c26edd98c099f6c54&req=cCkiFcB%2FnoBWFb4f3HP0gNg1w3qIwNdYcBxJViXM5WpqyvQAWjqmdGNJsrxM%0AA9hpg10DMowfS8kmIA%3D%3D%0A
+
+---
+
+Liability Account
+
+This short-term liability account will help you keep track of how much of your loan amount remains to be repaid. The balance will decrease as you repay your loan.
+​
+
+If we use the example above, the balance would be $10,000.00 when your loan is paid out. The balance would be $0 when you are done repaying your loan.
+​
+
+This account will be named Stripe Capital (via Housecall Pro) - Loan 2/18/2022
+
+- The date on this account name will correspond with the payout date of your loan. In the example above, the loan payout date is February 18, 2022. The date is so you can keep track of different accounts if you take more than one Stripe Capital loan.
+
+[Image] https://downloads.intercomcdn.com/i/o/495393828/285eb7b23527b19c196ecfe0/Screen+Shot+2022-04-11+at+9.22.10+AM.png?expires=1763568000&signature=ee9b5b935887aadc0f0b9d7d0141c1da3ed2aa8a25459d87979aca17fd19071a&req=cCkiFcB9lYNXFb4f3HP0gH%2FYwNjIBVxXVF9rD5KtlD2fAfKWkc7clLvYu%2BNs%0AWDmF9Ouo6rg7zemv1w%3D%3D%0A
+
+In the example above, this Pro’s newly created liability account had a $10,000.00 initial balance. The account shows $9,975.00 left to be repaid after a $25.00 repayment against the loan amount.
+
+---
+
+Expense Account
+
+The expense account will help you keep track of how much of your flat fee has been repaid (since the flat fee is considered an expense). The balance will increase as you repay your loan.
+
+Using the example terms above, the balance would be $0 when your loan is paid out. The balance would be $2,000 when you are done repaying your loan.
+
+- This account will be named Stripe Capital (via Housecall Pro) - Fees
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/495395248/15358e07dad1b3deb18fd8ef/Screen+Shot+2022-04-11+at+9.22.18+AM.png?expires=1763568000&signature=2f59b016050b4ca7a47994cf8237215ed897c6b5cb6049af16bfca318c92b8ee&req=cCkiFcB7n4VXFb4f3HP0gOLmDD1wwb%2Bn8mURif4D%2FjVFTqXMPBgPgbj1TMSv%0AJtARnCun8knLdAnL%2Fw%3D%3D%0A
+
+In this example, this Pro’s newly created expense account starts at $0.00 (when the loan is disbursed), but shows a balance of $5.00 after a $5.00 repayment against the flat fee processes.
+
+---
+
+How to Record Manual & Minimum Stripe Capital Loan Repayments in QBO
+
+Manual and Minimum Repayments for Stripe Capital loans are currently not automated to reflect on your QuickBooks Online account. Please follow the steps below to manually add these types of transactions.
+
+To record manual & minimum Stripe Capital loan repayments:
+
+- In QuickBooks Online, click on the '+ New' button on the top left corner of your screen, then select 'Expense' under the Vendors column to be directed to the Expense page.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/576250070/16ae4d413711e5cd32455a57/qaA1PpJSNztP50ej4Pj3JeC1HLCvmkJB91sS3BnJeuflCEXhfMKcOlCEGmEyPDkY-Rvh0x_p1YHZ5JWBTBWbrvRrQfoSnpIF6lkESI1x8SYyuL9GL_D6mtmRkGt2GtaPEa-iI5trMZA45lcR6FYoKQUTFLyAxCNbm-3A3AmAraFYkLg8OQaGozCV?expires=1763568000&signature=048db454900dedb3e1dd34025663690ff3571498edbe6713051e980cbc5a9980&req=cSchFMx%2BnYZfFb4f3HP0gDML7eDQox9M8hUtoLoX17I6DzEuW2ydWvzG7RBP%0AljQqDeN%2FhFgfeNmsHg%3D%3D%0A
+
+- Use the Payee dropdown and select “Stripe Capital (via Housecall Pro) - Vendor”.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/576250078/8ea3a1a480a15c963c6e8b70/CZMUmwMp7aVjgwVHYlum65xNPM6dKQXaZxujFg8PzLJjEJdaT1FnIXtHxZ7bgChTqKeiCYn40kSCwLd4BHcMoHvtBOzuocjRjQfOsVU962jC-nR9wzeDz9DESX92MyPE5trsPOdZWyMdsc7l_eR9XReGuuspti5kb310cPGU4zoYIlKDBNCcWd6W?expires=1763568000&signature=ad677497b72946be4423d4d90ebede29e805895e5393a0491c811c166e65622f&req=cSchFMx%2BnYZXFb4f3HP0gPJxwmxIU4BT1lNlUMPPrr%2FQYn8VC%2FrjERHrXUaE%0A3ABLaLHCh5k%2FPrFMQQ%3D%3D%0A
+
+- Use the Payment account dropdown to select the Bank account you used to make the manual payment. This should be your linked Bank account where you receive payouts from Housecall Pro.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/576250085/1be9f5f1b1a45e3eed4ff466/7009Qgi_TGoNGDf1Z1rqEfH8MEMjnxu3TPZLJJe_f0cHCG41IwCdojiU00EUwwTTxNvCRa5bvk1SDe_5455PB7ukOIE2q8zW9mbmIDBpcA-hI0Zx50pUCSzmd65d6dh649SG007NgHRc71t5l9G7IlXahS8sLR2gsZkadKc7sztNXTTQnuYN8kVu?expires=1763568000&signature=03dbb10ff848ec0f22e91c951f931a8cfc90e055974c1ca667b9a645270987be&req=cSchFMx%2BnYlaFb4f3HP0gOGO7BS1hiWY%2F%2FLOHreyMpa3Dh0V0r0JlwwoLNKE%0AnvGPKI7Qbr%2BIQ5Fx5A%3D%3D%0A
+
+- Under Payment date, please select the date you made the manual repayment.
+
+- If you are recording a minimum payment, please select the date the minimum repayment was debited from your bank account. (Please refer to the email you received from Housecall Pro to find this information)
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/576250101/65ac1c0d7706833d8b13522c/ygxtdQXDACednlfvUOT1pSWzdhpHF1NdZdTA9xGrXIHWfXK52bHiIAfT1u-mdOeDxbWFaAAmoAthZ9EEs2GU10soPOEolRinei_ElhXb39NprrwR3ca30yDJBCz2kXjTVgjwZLFfAQM3AjVPrBqgCgIOKKFHu-PeUJ-qlMevn4y2xdD1LiSU2LRz?expires=1763568000&signature=b46927db152b278dd565381f6a9363f785de611a34a155053c63325609a2e979&req=cSchFMx%2BnIFeFb4f3HP0gHRZg%2Fcx%2FBf6JHGmrAHZoQA3CkjFsJznnrnGtE1l%0AkgsvxYdo1%2B6C8vIv3w%3D%3D%0A
+
+- There are two categories that you need to select under the Category details section.
+​ - Line 1:
+​
+ - Category: Select “Stripe Capital (via Housecall Pro) - Loan 05/11/2022”. Please note the date here will match the date when your Stripe Capital loan was paid out.
+​
+ - Amount: Enter the “Principal Amount”. Please refer to the email you received from Housecall Pro to find this information.
+​
+- Line 2:
+​
+ - Category: Select “Stripe Capital (via Housecall Pro) - Fees”.
+​
+ - Amount: Enter the “Fee Amount”. Please refer to the email you received from Housecall Pro to find this information.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/576250109/65c8fdbc1a4a1b8c446f748c/gnhZfjkgFx9CeSikssRRrl_ZciTO9Cr6_iUTAm_PkzXcBt8LbCg4HfeU_9cqsDrdqGY6_wz-bGTSM-2JFEWm-TTnWLcPsXgWanLN4p5wdHb1S8NnUbUfMRLOg1bjzw8VAqlsr0B-n2kTv00-UwVkknuCfTubMjeyl9JcZWBlLA_5z3CDXp873UEM?expires=1763568000&signature=4a18d08346c0ef01de809920c3b989b14a9e0d514b92922f5f1c8947638bbcd7&req=cSchFMx%2BnIFWFb4f3HP0gAm0XxhH%2BWCCDG8slIkJrZRrMPVRyIIC63lljygy%0Auxy313xg0E8mlhTUGQ%3D%3D%0A
+
+- Click on the Save and Close button in the bottom right corner of your screen.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/576250117/4f895edbe763ebe9242370d6/UGy_WttNc4laK1myjyq4pQ1SjIj5GCzenoiOF0VZg7OGrG5t35-26Efllmqn5nu7ejYtRuxdtl_lpqAYWk2rGSORwCDEqgNmn1VnVX3laAme04UCqlCGyJLIjctjDSkfItt7aOOCRQceOENrGnQdCVKFjXG-I26vC4yq-1EWfVLhOIZfglQIAenb?expires=1763568000&signature=d5559226b8f5cdd55e7abba5d1102c1848003b1b784b44add419f0f96bf1643d&req=cSchFMx%2BnIBYFb4f3HP0gPVOH0mB%2F2IkWdnYvzVbd%2Bdbsykweho8byujAziP%0AwZSoXjNaRfOpmvZnwA%3D%3D%0A
+
+---
+
+Vendor
+
+When your loan is paid out, we will create a vendor called Stripe Capital (via Housecall Pro) - Vendor. 
+​
+
+This vendor will be associated with both the loan payout and any repayment bank deposits.
+
+At the time of loan disbursement, you’ll see this newly created vendor, "Stripe Capital (via Housecall Pro) - Vendor," pop up in your QuickBooks Online account:
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/495398408/6b844a772db78f252e9f5ea5/Screen+Shot+2022-04-11+at+9.22.25+AM.png?expires=1763568000&signature=1135b9911d5b9df685bdcc53ad27df36d43cb9bc61b011c4d13e82a92a65dfae&req=cCkiFcB2mYFXFb4f3HP0gFJaSgjvFUilgRFnXtcg4ovfHtS8rewJ5ZTGzLwD%0AFf3Fm6sxCpywgWhSYg%3D%3D%0A
+
+---
+
+Loan Repayment
+
+When you take credit card or ACH charges through HCP, repayment toward your Stripe Capital loan will get automatically and seamlessly updated in your newly created QuickBooks Online accounts. You will see line items in your bank deposits detailing how much of each payment you take went to repayment of the liability (your loan amount) and the expense (your loan’s flat fee).
+
+Example:
+
+Let’s say your customer just sent you a $300.00 credit card payment for a job. Using the example loan terms above, how much would go to loan repayment? What amounts would get reflected in each of your newly created accounts?
+
+Using the same sample terms as above, if you took a $300.00 credit card payment for a job at a 10% loan repayment rate, $30.00 would go toward your loan repayment.
+
+- Some ($25.00) of this repayment would go toward paying down the liability (your $10,000.00 loan).
+- The remainder ($5.00) would go toward paying down your flat fee (the $2,000.00 you’re paying for the loan).
+- The amount of the repayment that goes toward repaying the liability vs. the flat fee is calculated consistently for each payment you take.
+
+In this screenshot, a $300.00 charge has $30.00 being repaid toward a Pro’s loan (assuming at a 10% repayment rate). When this deposit goes through, the Pro’s loan-specific liability account (teal) balance will decrease by $25.00 and the Pro’s loan-specific expenses account (blue) will increase by $5.00. There may be additional line items for things like credit card processing fees, but these are independent of any loan repayment calculations.
+
+[Image] https://downloads.intercomcdn.com/i/o/495402348/fc19e7b000a746d25d41afc5/Screen+Shot+2022-04-11+at+9.39.06+AM.png?expires=1763568000&signature=48d331466cfea59160cc11dc032faee6468064543d1d5732a8c8676a3e0144c2&req=cCkiEsl8noVXFb4f3HP0gMugtU4N%2Bt3f%2BJiRIfhyB%2FzD5yZdNd5Z1kkTUtmI%0AHH828plB0C6ykSqSZg%3D%3D%0A
+
+Here, the Pro’s liability account balance decreases from $10,000.00 to $9,975.00 after repayment from a $300.00 job that had a 10% repayment rate and a $2,000.00 flat fee. In this scenario, $25.00 of the $30.00 went to repaying the loan amount, as reflected in the liability account.
+
+[Image] https://downloads.intercomcdn.com/i/o/495405172/c4baf6c69bc20b45e918032b/Screen+Shot+2022-04-11+at+9.22.10+AM.png?expires=1763568000&signature=1e82af76673d7fa68bcffede7382c5ab3fb1955a74c271da93cee638db7f5c5f&req=cCkiEsl7nIZdFb4f3HP0gNLQtehKjjD8oXxie7hCvVe1g%2Bu%2FQvQNpOqRc%2FKj%0A43Dkakt7fK6YyoEFaA%3D%3D%0A
+
+In this screenshot, the Pro’s Stripe Capital-specific expenses account balance increases from $0.00 to $5.00 after repayment from a $300.00 job that had a 10% repayment rate and a $2,000.00 flat fee. In this scenario, $5.00 of the $30.00 went to repaying the flat fee, as reflected in the expenses account.
+
+[Image] https://downloads.intercomcdn.com/i/o/495405851/7fb7874e94fba80897650028/Screen+Shot+2022-04-11+at+9.22.18+AM.png?expires=1763568000&signature=534aedcf857db9270b9c3e7414b5013cccc4d46ba0b68f88c3d9f2237a848d39&req=cCkiEsl7lYReFb4f3HP0gKt%2FkAwJkmwdGdvGw9T2o2WwJBsJNz0xjNuFlMsY%0AE5lTjEmp3%2Brie5DNkQ%3D%3D%0A
+
+---
+
+Special Cases & FAQ
+
+What if I accidentally delete an account that was created for me?
+
+- You will need to restore the account. Please chat in if you need help with this.
+
+How should I report these funds on my taxes?
+
+- Tax reporting is often dependent on your specific situation, so we encourage you to talk with a tax advisor to ensure appropriate accounting and tax reporting. In general, Stripe Capital funds would not be considered taxable income at the time of receipt, and the amounts withheld to satisfy your obligations are not tax deductible.
+
+Why are my repayments separated into two accounts (liability account and expenses account)?
+
+- This is to reflect the amount paid against your Stripe Capital loan and the amount paid toward your flat fee. Please discuss the appropriate accounting treatment with an accountant or tax advisor.
+
+Why is my liability account of type “Other Current Liabilities” (aka a short-term loan)?
+
+- This is because the anticipated repayment period for a Stripe Capital loan is less than 12 months.
+
+What if I take out more than one Stripe Capital loan?
+
+Please note that it is only possible to have one Stripe Capital loan active at a time. If you do fully repay a loan, it is possible Stripe will offer and fund another. In this scenario, there are a few things to keep in mind:
+
+- Liability account: The new loan will be reflected in a new liability account (which will have a name that corresponds to the payout date of the new loan). - Example, Loan #1: Stripe Capital (via Housecall Pro) - Loan 2/18/2022
+ - Where 2/18/2022 assumes a loan disbursed on February 18, 2022.
+- Example, Loan #2: Stripe Capital (via Housecall Pro) - Loan 11/25/2022
+ - Where 11/25/2022 assumes a loan disbursed on November 25, 2022.
+​
+- Expense account: We will not create a new expense account for recording repayment against the flat fee. Repayment against the new loan’s flat fee will populate to the same expenses account we created for you with the first loan (Stripe Capital (via Housecall Pro) - Fees). You can filter on vendor and date to determine repayment that has occurred specifically against the flat fee of your new loan.
+
+I made a manual payment against my loan. Does this get automatically reflected in QuickBooks Online?
+
+- No. At the moment. Reconciliation of manual payments against your loan is not automatically recorded in QuickBooks Online. For support with this, please chat in.
+
+What if I connect to QuickBooks Online after taking out a Stripe Capital loan?
+
+- Unfortunately, your loan payout and repayment will not automatically reconcile if you connect your HCP account to QuickBooks Online after taking out a Stripe Capital loan. Please discuss with an accountant or tax advisor how to reflect this in your QuickBooks Online account.
+
+---

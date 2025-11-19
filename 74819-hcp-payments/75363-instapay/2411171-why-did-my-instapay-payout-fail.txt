@@ -1,0 +1,34 @@
+Why did my Instapay Payout Fail?
+Source: https://help.housecallpro.com/en/articles/2411171-why-did-my-instapay-payout-fail
+Author: Angel A
+Last updated: Updated over a month ago
+
+Summary: Common reasons for a bank rejecting your instant payout
+
+Reasons for Instapay Payout Failures
+
+If you see that an instant payout has failed on the My Money screen, this means that the bank has rejected our deposit, and we can't release the funds to your account. In this case, the charge was successfully made by the customer, so you do not need to contact them.
+
+Common reasons why an Instapay payout has failed:
+
+- Declined by Bank - Typically, this means that there is a daily limit on this type of transaction that needs to be raised by your bank, or there is some other type of limitation on the type of payout that needs to be resolved before we can deposit the funds. 
+​ - Most level 1 customer service reps at banks will not be familiar with this, so we recommend asking to elevate the issue to a supervisor or someone who is familiar with refunds not linked to transactions to find out what made the payout fail. This isn't a standard payment type that most are familiar with, and they will not be able to locate the issue by looking at your deposits. 
+​
+- Once you have spoken to the bank and determined the cause of the failure, go ahead and chat back so we can give engineering that info and have them retry the payout for you. 
+​
+- Invalid Card - This usually means that your card is expired, a new card has been issued, or the number entered is incorrect. If you re-enter your card on the My Money page, the payout should automatically try again with the new card information. If you have not been issued a new card, you'll need to call your bank and see if they have made any updates. 
+​
+- Lost or Stolen Card - If you have had any fraudulent activity on your card, or have reported your card lost, you will get this message because we cannot issue the payout. You will need to update your account on the My Money page and then we will retry the payout.
+​
+
+---
+
+Next Steps
+
+Please reach out to our Chat Support team via the Blue Chat Bubble in your Housecall Pro account so we can figure out the failure type. We'll be more than happy to get everything sorted out for you!
+
+---
+
+Learn how Instapay can typically have your card or bank (ACH) payment in hand in less than 30 minutes.
+
+---

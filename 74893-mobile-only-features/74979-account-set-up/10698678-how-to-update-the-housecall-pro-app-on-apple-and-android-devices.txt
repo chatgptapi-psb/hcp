@@ -1,0 +1,103 @@
+How to Update the Housecall Pro App on Apple and Android Devices
+Source: https://help.housecallpro.com/en/articles/10698678-how-to-update-the-housecall-pro-app-on-apple-and-android-devices
+Author: Allison L
+Last updated: Updated over 8 months ago
+
+How to Update the HCP Mobile App
+
+Keeping your Housecall Pro app up to date ensures you have the latest features, security updates, and bug fixes.
+
+---
+
+Apple Devices
+
+If you're using an iPhone or iPad, follow these steps to update the Housecall Pro app:
+
+Step 1: Open the App Store
+
+- Locate and tap the App Store icon on your home screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1405445417/2a97ec60adcfea25cf481eff5417/AD_4nXdv5Yxjes3bx29dH9IFn9O29lOvJoBqrDhs0oXRxkAQqjGJlDKTMVn9_oODcBWjK5KBP8M_YZ1Xu2AAxerh7w7kA7idtCPDr_j29VhAx3A_4fEF89gYWvp56W8zK1gPM_yPtakXVw?expires=1763568000&signature=36d372e1989e8404262395a82822731fa223e186c1f7282e32c826ea39e4b6d7&req=dSQnE816mIVeXvMW1HO4zSU8XzPavlYUTh5AXMTkTuC5rTQmdOTJG1P4hrcD%0ATp%2FEnG5ZOvsq%2BkrN330%3D%0A
+
+Step 2: Go to Your Account
+
+- In the App Store, tap your profile icon in the top right corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1405445418/ba668bce44eb85a29228c60af41f/AD_4nXcJas7IJSX_o3uZDlZNOCnK2Q3z6pV2xBUUHafmTfdahA7MM2P69Gf26zgoG1bfQXSORWvqeb6UdAO2neZD_fVnok1kAoI0VbOvL4bfWbNmG-P5V3klpl7FMshUrx4QvgoE5L-2Wg?expires=1763568000&signature=0a977352da888839f8076f6de719f31b74f56534a371befdd93bc35385c7018b&req=dSQnE816mIVeUfMW1HO4zb8bWxr%2Bz4viskHxnFHcy%2FXvIJceKY1dSDZtistp%0ALqOHPUna7892tB6gE1Y%3D%0A
+
+Step 3: Check for Updates
+
+- Scroll down to the Available Updates section.
+- If an update is available for the Housecall Pro app, you’ll see an Update button next to it.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1405445423/268c8ceafbb33032ee04e010849c/AD_4nXdctM9_9kCpqj9FeFPFqiyLhzzbVh7VskqQ3RK5xJZtdCo4je9W89juSulYgmuh6qJ0bFnVCxj85x1dxfyGrLvViglln5OrhTTvP4ZiL86rFcQFOo-bRaCseQ4SQHCI6sYyF6DcaA?expires=1763568000&signature=ff37e155e3c8dd6bfc10e0868f27391714988871f82a3fbcd52684568ddbfc91&req=dSQnE816mIVdWvMW1HO4zTO%2Bvtpwz7MZc8WEJnTow3H4bKMAI6x%2F0ysCjaBT%0Az5ADGvC8yGcac5BoFq4%3D%0A
+
+Step 4: Update the Housecall Pro App
+
+- Tap Update next to the Housecall Pro app.
+- If prompted, enter your Apple ID password or use Face ID/Touch ID to confirm.
+
+Step 5: Wait for the Update to Complete
+
+- The Housecall Pro app will begin updating.
+- Once finished, the Update button will change to Open—your app is now up to date!
+
+Troubleshooting Tips
+
+- If you don’t see an update, try pulling down on the screen to refresh the list.
+- If the Update button is missing, the Housecall Pro app might already be up to date.
+- If you're unable to update, check your Wi-Fi connection or free up storage space.
+- Restart your iPhone if updates are not appearing.
+- Still need help? Contact Support via the Blue Chat Bubble for further assistance.
+
+---
+
+Android Devices
+
+If you're using an Android device, follow these steps to update the Housecall Pro app.
+
+Step 1: Open the Google Play Store
+
+- Locate and tap the Google Play Store icon on your home screen or app drawer.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1407079917/21e1ad95e248732691b4a0d59be7/Screenshot+2025-03-04+at+4_00_10%E2%80%AFPM.png?expires=1763568000&signature=f8abde7fd3b9ce3df8c7c20d0b50ca33189b6873d7da98cd9acbb697a940d249&req=dSQnEcl5lIheXvMW1HO4zc%2F%2F60jySoxhTuApNfE871eAeExvWWrR9xDtX%2B1k%0ATDkYIpVGV0MYI%2BRMyk8%3D%0A
+
+Step 2: Access Your Profile
+
+- In the Google Play Store, tap your profile icon in the top right corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1407067558/948152d7fa2682c8b2ad98c9a729/Screenshot+2025-03-04+at+4_13_26%E2%80%AFPM.png?expires=1763568000&signature=b112fe79bf42db0b7b4b6b3fd9b988ab4b41708365f8098cab0653e1d56eb0e4&req=dSQnEcl4moRaUfMW1HO4zbQf8DCjEyZG8o0VbG8LwVsWC01n1Bve9e437ZwN%0AXQ57H14lHJCj8jSz1Co%3D%0A
+
+Step 3: Go to Manage Apps & Updates
+
+- Tap Manage Apps & Device from the drop-down menu.
+- Under Updates available, look for the Housecall Pro app.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1408465724/906b936e2bbc4c0aba682bb473d0/Screenshot+2025-03-05+at+12_39_54%E2%80%AFPM.png?expires=1763568000&signature=5d9a2cf22957e8a821999b42ee0d635e492ea01b185f509a22e4bd129aa1dea8&req=dSQnHs14mIZdXfMW1HO4zWZWjMFrIteCw6kDNpZ5lTC56jndvQuEgis8Z%2By%2B%0AWuv6dYiPaIJTX%2BTvYjk%3D%0A
+
+Step 4: Update the Housecall Pro App
+
+- Tap the Update button next to the Housecall Pro app.
+- The download and installation process will begin automatically.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1407061924/72c3e47691bb85b0ae59f9fcc4a4/Screenshot+2025-03-04+at+4_15_03%E2%80%AFPM.png?expires=1763568000&signature=75e531f87c92526f14698df9ad4ba58f593fefae54ce33f0bd563c900a217599&req=dSQnEcl4nIhdXfMW1HO4zfdvUZQs2FkTRTm1mBnHewfhMRPTS9NBLneVRsNv%0AWFDmVAarw2vYlYeJKS4%3D%0A
+
+Step 5: Wait for the Update to Complete
+
+- Once the update is finished, the Update button will change to Open—your Housecall Pro app is now up to date!
+
+Alternative Method: Update from the Housecall Pro App Page
+
+- Open the Google Play Store.
+- Tap the search bar and type Housecall Pro.
+- If an update is available, you’ll see an Update button. Tap it to update the app.
+
+Troubleshooting Tips
+
+- If you don’t see an update, swipe down to refresh the updates list.
+- If the Update button is missing, your Housecall Pro app might already be up to date.
+- If the update won’t install, check your Wi-Fi connection and storage space.
+- Restart your device if updates are not appearing.
+- Still need help? Contact Support via the Blue Chat Bubble for further assistance.
+
+---

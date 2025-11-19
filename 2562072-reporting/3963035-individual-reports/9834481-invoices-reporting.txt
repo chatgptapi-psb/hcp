@@ -1,0 +1,148 @@
+Invoices Reporting
+Source: https://help.housecallpro.com/en/articles/9834481-invoices-reporting
+Author: Michael Storer
+Last updated: Updated over 7 months ago
+
+Summary: Understanding and customizing your Invoices report.
+
+Reporting on Invoices
+
+The Invoices report helps you track your open, closed, and past-due invoices, giving you more control of your money.
+
+How to Access Invoice Reports
+
+While logged in to your Housecall Pro account, click on the Reporting tab in the main menu. Once redirected to the reporting page, use the menu on the left of the screen and select Invoices.
+
+[Image] https://downloads.intercomcdn.com/i/o/1171615732/9df155e850bbfcbeb343c0ba/Screenshot+2024-09-06+at+1_51_40%E2%80%AFPM.jpeg?expires=1763568000&signature=1aaed64d426c358420b9ec84fc98b1072c060d07caf1066a948750be3e890d01&req=dSEgF89%2FmIZcW%2FMW1HO4zbnL3hYRh9swTL5yA63AI45d27tVJzYC5s0PDajj%0AX0oNyWY8UWyPmpqse1w%3D%0A
+
+Once you are on the Invoice page, click on the type of Invoice report you want to see. You can choose the below report types or click 'Create Report' to customize the report.
+
+Outstanding invoices:
+
+- Open invoices
+- Aging (past due invoices)
+
+Created invoices:
+
+- Invoices by date
+- Invoices by customer
+
+[Image] https://downloads.intercomcdn.com/i/o/1171616896/67e2ba7f36f291dae9ee5a4b/Screenshot+2024-09-06+at+1_53_17%E2%80%AFPM.jpeg?expires=1763568000&signature=366b23b1424f11849edd3a903b7a27adc83fde9149a75a4a4636c5ce353dd29c&req=dSEgF89%2Fm4lWX%2FMW1HO4zTojbbItWjk5Iulpe5krJBB9XKbsTGC6Z1QQuwD5%0AJWNEdMaFYEHxXhkPJAg%3D%0A
+
+---
+
+Understanding Invoice Reports
+
+Default Invoice Report Metrics
+
+- Total count: The total number of unique invoices generated within the specified reporting period, regardless of their status (e.g., paid, unpaid, or overdue).
+
+- Paid amount: Total dollar amount collected on the invoice, including tax. Excludes tips.
+
+- Invoice amount: Total value of the invoice in dollars, including tax. Excludes tips.
+
+Default Invoice Report Settings
+
+Open Invoices:
+
+- Date Type: Invoice created date
+- Date Range: Last 365 days
+- Group By: Invoice status
+- Chart Metric: Invoice amount
+- Metrics: Total count, Invoice amount, Paid amount
+- Sort By Metric: Invoice amount
+
+Invoices by Date:
+
+- Date Type: Invoice created date
+- Date Range: Last 365 days
+- Group By: Month
+- Chart Type: Bar
+- Chart Metric: Invoice amount
+- Metrics: Total count, Invoice amount, Paid amount
+- Sort By Metric: Month (the segmentation)
+
+Aging (Past Due Invoices):
+
+- Date Type: Invoice created date
+- Date Range: Last 365 days
+- Group By: Days past due
+- Chart Metric: Invoice amount
+- Metrics: Total count, Invoice amount, Paid amount
+- Sort By Metric: Days past due (the segmentation)
+
+Invoices by Customer:
+
+- Date Type: Created
+- Date Range: Last 365 days
+- Group By: Customer name
+- Chart Metric: Invoice amount
+- Metrics: Total count, Invoice amount, Paid amount
+- Sort By Metric: Invoice amount
+
+Invoices by Employee:
+
+- Date Type: Created
+- Date Range: Last 365 days
+- Chart Metric: Invoice amount
+- Metrics: Total count, Invoice amount, Paid amount
+- Sort By Metric: Invoice amount
+
+---
+
+Customizing Invoice Reports
+
+Any of the default reporting settings can be changed, and the report can be saved and added to reporting dashboards.
+
+---
+
+What is the Open Invoices Report?
+
+The Open Invoices Report helps you quickly see what money you’re owed and what invoices require immediate attention to ensure you’re keeping track of overdue payments.
+
+The card includes:
+
+- A visual bar chart of your open invoices by sub-status
+- Sub-statuses such as Past Due - Sent, No Due Date, and Due - Unsent
+- A clear breakdown of which invoices need your attention first
+
+You can click any section of the chart or use the “View/Edit Report” button on your report card to access detailed invoice data, apply filters, and manage your receivables more effectively.
+
+Why does this matter?
+
+The new Open Invoices Report and invoice reporting tools are designed to give you better visibility and control over your finances.
+
+In earlier versions of Housecall Pro, invoices were tightly tied to jobs. While that made things simple, it also created limitations:
+
+- You couldn’t bill separately for different job stages (like deposits or milestone payments)
+- Customizing an invoice could unintentionally affect the job itself
+- You couldn’t create multiple invoices for a single job
+
+To support more complex billing needs, invoices are now structured independently from jobs. This new setup makes it easier to:
+
+- Manage cash flow across different billing stages
+- Track multiple invoices related to a single job
+- Customize invoices without affecting job timelines or progress
+
+This structure allows for more accurate reporting and greater customization, helping you run your business with more flexibility and confidence.
+
+What do the sub-statuses of the Open Invoice statuses mean?
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1488874110/77e3c8b60064cbcf777023c043ee/AD_4nXfjWNB7OYtfETlpsAqARnAPntCZyaCzt2U9Wb4Fd5kxfmdx2cJwYkzfTGpfNpmlcaS4TmW4dc0HyMIKW02Vpx21zriysbrH_h3mhIRL-JKfcNberQoSZf3Un3uXeHtlMXJANMgiZw?expires=1763568000&signature=48309c3059057ebd5a8115bbb5f94946d08bb1ab5fbbabbd65dd86107dfe6710&req=dSQvHsF5mYBeWfMW1HO4zTVG4KLx%2FgJbQeg2W5i%2FImu5sObVVY0utoqEB2K%2F%0A20VB2BDCgpwU02qSvTg%3D%0A
+
+- No Due Date: Invoices that have been created but don't have a due date because the due date is tied to the job completion date. - Example: The job associated with the invoice has a due term of "Due upon completion of work," but the job is not marked as finished.
+
+- Due & Sent: Invoices that have a due date after today and have been sent to the customer. - Example: An invoice is sent on March 20, 2025, but the invoice due date is March 30, 2025. The invoice will sit within the Due & Sent category.
+
+- Due & Unsent: Invoices that have a due date after today and have not been sent to the customer. - Example: An invoice is created or downloaded on March 20, 2025, but the invoice due date is March 30, 2025. The invoice will sit within the Due & Unsent category.
+
+- Past Due & Sent: Invoices that have a due date before today and have been sent to the customer. - Example: An invoice is past due (the due date is March 10, 2025, which is before today) and has already been sent to the customer.
+
+- Past Due & Unsent: Invoices that have a due date before today and have not been sent to the customer. - Example: An invoice is past due (the due date of March 10, 2025, which is before today) and was created and/or downloaded but not sent.
+​
+
+How do I drill into the data to see the invoice list view?
+
+- Click on any bar or point on a line graph on the Open invoices visualization to drill into the invoices associated with that status. - You can also click into any row on a table below the report visualization to access a pre-filtered list view of your invoices
+
+---

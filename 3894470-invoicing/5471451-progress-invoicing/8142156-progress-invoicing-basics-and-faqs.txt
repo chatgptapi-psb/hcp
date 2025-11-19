@@ -1,0 +1,150 @@
+Progress Invoicing Basics and FAQs
+Source: https://help.housecallpro.com/en/articles/8142156-progress-invoicing-basics-and-faqs
+Author: Michael Storer
+Last updated: Updated over a week ago
+
+Summary: Optimize cash flow, track job statuses more efficiently, and communicate effectively with your customers on multi-day jobs.
+
+Progress Invoicing Overview
+
+Progress Invoicing in Housecall Pro allows you to bill customers in stages without sending the full job amount upfront. Once enabled in your invoice settings, you can create a job with all line items and the total cost, then issue separate invoices for partial payments either by percentage or a fixed amount of the total. Each invoice can have its own due terms and payment options, giving you flexibility to bill as work progresses.
+
+You can also edit progress invoices to add attachments or update details, and void invoices if major corrections are needed. This feature provides greater flexibility in managing payments over time, giving you a clear view of each invoice’s status, such as Open, Paid, or Void, directly from your job’s invoice summary table.
+
+---
+
+Looking for a demo walkthrough of Progress invoicing?
+
+[Button] Take a tour -> https://pro.housecallpro.com/product_tour/e06av2ys3lpx?source=intercom
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1220962800/69a8d262bb1ba9f796962425c2d2/Progress+Invoicing+flow.gif?expires=1763568000&signature=b04b655109dbfff69aa009e7059600696527d9f0632036bb9f084dcfdea7ed18&req=dSIlFsB4n4lfWfMW1HO4zb8YLSzp8TRFvWWWAuybkYESuAJ1ODUEvcS0B9Gg%0A%2FDmFqQT4XFTrK54d4eQ%3D%0A
+
+---
+
+Enable Progress Invoicing
+
+To enable Progress Invoicing:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Invoices from the Settings menu on the left.
+
+- Click the Configuration tab on the Invoice settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1631349122/dd22dc2911de5e879e5fb872a555/image.png?expires=1763568000&signature=705210eefb125c341385c5848dbbb990e78af7b7149c8ae4d4e2a254a24027ba&req=dSYkF8p6lIBdW%2FMW1HO4zWMJ01BVj1Eb1H956j%2BX3vcdIx%2B9r4Y5TxeMuIBs%0Az2A%2Bpq3jzYRaHqafj6s%3D%0A
+
+- Click the toggle to the right of Progressive invoicing, and that's it! Progress Invoicing will then be enabled on your account.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1631352794/916c2f5b227d22f76558b303a0a9/image.png?expires=1763568000&signature=2c89e4deffa8f901abf5dc9a5e7540f2e10228dd9936eb1b347c8dff5c96678b&req=dSYkF8p7n4ZWXfMW1HO4zX185IF5V7U4ofUhoBsW5lvL61RIva6Q%2F0RHD82z%0AjiwKPb9RrK69H%2F9qdgY%3D%0A
+
+---
+
+Create a Progress Invoice
+
+To create an invoice with progress invoicing:
+
+- To begin setting up your invoices, a job is required as a first step. You will want to create a new job and then click the + Invoice button or click Invoice at the top of the job details page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1277239235/06b8856ec5e1d949c72799baa42d/image.png?expires=1763568000&signature=a371d5bc32353273e28d4b54fca1a8c3eb37c0eb494aa9f3a09b870f73bf3944&req=dSIgEct9lINcXPMW1HO4zQ7sfFImQLyVeN9CNmpq%2BYgl%2FvgsCyWSCo1Cam%2FB%0AZjji06ExPx%2F%2BGpN6Gfc%3D%0A
+
+- Once you start creating an invoice, you will now have the option to edit the invoice amount by clicking into Details if you wish to create an invoice for a percent or fixed amount of the total job cost. There are no limits to how many invoices you can create, but keep in mind you are not able to over-invoice more than 100% the cost of the job.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1277240390/789fa4dbe572e175a3b31ab82118/image.png?expires=1763568000&signature=d93ad739bb27f6f7f17eef7effcb5b5cf7ea94a0685825ac6947ca272f7b1043&req=dSIgEct6nYJWWfMW1HO4zSHTbwY6yzxDle1WHtM8LZoQ3Bz4Onx8xF%2BsnyiZ%0AOkC%2F1I925ICDOjLTfFI%3D%0A
+
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1277240941/67670015eda00623eb4f520a1551/image.png?expires=1763568000&signature=29d616d8d57890c8e444949114937bcc6cd6a23402ef3cdc70e2f406238b6dac&req=dSIgEct6nYhbWPMW1HO4zbVkBGLDbmAZLtk9WsbSUvorvgO3Tt5gs8ZuP%2FMo%0AMgX7hqEXsfH6FJQM6H0%3D%0A
+
+---
+
+Edit a Progress Invoice
+
+If you made a mistake when creating your invoice or forgot to include important details like attachments, you are now able to make partial edits to a created invoice.
+
+To edit a progress invoice:
+
+- You can either click the pencil icon next to the invoice you want to modify or click on the invoice from the list beneath the Invoices icon to begin making changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1277243926/ceb9d6579f3652bfb11eb2f31690/image.png?expires=1763568000&signature=9a9bfb5092a5f16211bc6d74d0dc783a1684e3e34b63bac6c4d1a33e9ece1cd9&req=dSIgEct6nohdX%2FMW1HO4zSBbGu5tlPIjw3xMksACUCBz5Z2sxc9JFqMFlsKG%0AxW4RimSzXbKNkhoa05g%3D%0A
+
+- When editing a progress invoice, you can add attachments missed previously, edit payment options offered and edit the fields your customer can see. At this moment, you cannot edit the invoice amount or due date.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1277245542/a8d821bc518acff78272fee579a4/image.png?expires=1763568000&signature=ea4b6f4c36fbd507188a6b7e04c3d67944d1bf1020c11e736494e7588a7312c6&req=dSIgEct6mIRbW%2FMW1HO4ze2mJFwOMHreeakmb4FRBKRA4aTWH8guwhtBupV4%0A3GXEHtwyjSK6ZYk%2Fqcw%3D%0A
+
+- If you do need to adjust the invoice amount or make more critical corrections, you will want to instead void the invoice. This will then allow you to re-invoice that amount and create a new invoice with those corrections.
+
+- On mobile, you'll be able to click on the 'Invoice' icon and view a list of all invoices already created for the job.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1288701597/044d32be29eafa3b95d202b615e3/image.png?expires=1763568000&signature=76e30076c91b32c18fdcf20937679321a8adf66329f5eb5f548dfbca61d4890e&req=dSIvHs5%2BnIRWXvMW1HO4zaGU%2FCR5yrbTHluA9WWUM67VR3xifht3niMwJIYi%0AB6DBIpc3%2Bb6x%2FRWoHo8%3D%0A
+
+- Once you click into the invoice you need to edit, you can add attachments missed previously, edit payment options offered and edit the fields your customer can see. At this moment, you cannot edit the invoice amount or due date.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1288705839/b10924a500632fd69beb95bbc28c/image.png?expires=1763568000&signature=38a433895666d9ab49c4cb2c0753a23e9f58aa174969382ee8161a1cfacec503&req=dSIvHs5%2BmIlcUPMW1HO4zUTz2IyjEdBea5ae0e30beCugC5lw7%2ByJkmLEL8H%0ACNHZvpJa6axZQS9O%2FHk%3D%0A
+
+---
+
+Void an Invoice
+
+To void an invoice:
+
+- Open a job and click the More icon (3 dots) to the right of the invoice you need to void in the Invoice Summary table.
+
+- Select Void from the drop-down menu, and a confirmation window will appear.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1370648232/96c7acf3e82f3b3e98703a9ba218/Screenshot+2025-02-07+at+5_55_39%E2%80%AFPM+copy.png?expires=1763568000&signature=506cb7ecb30a1b36f3ca345294347650c14907fa429528ebeff0eb5a500fbaae&req=dSMgFs96lYNcW%2FMW1HO4zWAsn5Kaa9puReQdudDptNHJRjLfB57qlApgilab%0ATZvPicbXMmCWt%2BEhV%2F0%3D%0A
+
+- Click Void Invoice to finalize the action.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1370648044/df1ffb80acc9bff67578c091c54f/Screenshot+2025-02-07+at+4_54_47%E2%80%AFPM.png?expires=1763568000&signature=5cf71ebd899fcaa9d5ce06bbb82e8c778d3f9fd1b0110926c0c6e01a7523f398&req=dSMgFs96lYFbXfMW1HO4zcQnOdnoAlwuv1QFj%2BD4NmudsxF%2F2tzadgSZPmNI%0AaIaIc1uLuKTo5eKUi58%3D%0A
+
+---
+
+Progress Invoicing FAQs
+
+Do I still have to use segments to progress invoicing?
+
+- No, if you prefer to keep the billing all in one 'segment', use this feature to keep a record of all the invoices within the summary table. This allows you to quickly see information like the status of your invoice, the amount the invoice was created, and much more!
+
+Do I have a limit on how many invoices I can create for a single job?
+
+- No, at this time you can create as many invoices as needed. Keep in mind that you cannot invoice over 100% of the total job amount.
+
+Can each invoice have its own due terms?
+
+- Yes, you can adjust each invoice you create to have its own due terms.
+
+---
+
+Invoice Actions
+
+What do the different statuses mean for the invoice?
+
+- Currently, there are 3 different statuses your invoice can be in - Open, Paid, and Void.
+
+- ​Open is when the invoice has been created or created and sent, and there is an outstanding balance.
+
+- Paid, which will be shown when an invoice is fully paid.
+
+- Void is an action you can take when you have created an invoice that you no longer want to be Open and payable. 
+​
+
+​If I made a mistake on my invoice and want to send the correct one to my customer, what should I do?
+
+- If you have an invoice created or sent to a customer and you'd like to be able to correct it, you will want to go ahead and void the invoice. Once that has been done, you can go ahead and create a new invoice, set it with the correct information you'd like, and follow your regular process. Keep in mind that your customers will not be able to pay voided invoices.
+
+---
+
+Invoice Payments
+
+How can I make sure an invoice I created gets paid?
+
+- When taking payment, you can follow your regular flow and mark the job paid or go directly to the Pay action on the specific invoice you want to mark as paid.
+
+- We recommend using the invoice 'pay' icon when you want that specific invoice to go from 'Open' to 'Paid'.
+
+​I like to offer different payment options for my jobs. Can each invoice I create have a different payment option?
+
+- Yes, you will be able to set your payment settings ahead of sending an invoice so you can choose which payment method options you want to give to your customer. 
+​
+
+---

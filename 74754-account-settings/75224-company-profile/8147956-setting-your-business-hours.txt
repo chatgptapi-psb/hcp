@@ -1,0 +1,38 @@
+Setting Your Business Hours
+Source: https://help.housecallpro.com/en/articles/8147956-setting-your-business-hours
+Author: Ian H
+Last updated: Updated over a month ago
+
+Summary: Set the open and close times for your business.
+
+How to Set Your Business Hours
+
+Set your business hours to be displayed on your Housecall Pro calendar as well as your online booking page (if applicable). If you have GPS tracking for your account, you will be able to track your employees within your set business hours.
+
+To set your business hours:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Company from the left menu, under Global Settings.
+
+- Click the Business hours tab on the Company settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1645403961/233193afe1c69ef2c9e685b25c01/image.png?expires=1763567100&signature=753d990cf266f08b13bf5de489075096738d8b8d7ccfd5b91b2e12b80af79677&req=dSYjE81%2BnohZWPMW1HO4zY8R6e5YZjjqTkKuRe76b89k8Fto9bdE4zHl5EzB%0AHeiXF9krTpGFeB%2FoQsI%3D%0A
+
+- Click Edit in the Operating hours section at the top of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1645413057/3643f94dba34049113d577bff92d/image.png?expires=1763567100&signature=0cb05ca1ec5f65a251fb76d64dcc739b02041acda812655a7f6cdfa0d29ea272&req=dSYjE81%2FnoFaXvMW1HO4zctdO3IbS3UBWdccKHGrDTfzOQWkIj2WqGVAqk9O%0A6zDqPotLyfGHSMPBHmc%3D%0A
+
+- Use the drop-downs on the left to select Business Open & Business Closed hours. Then, check the days on which those hours apply.
+
+- Click Save once you've finished setting all of your hours
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1389413165/9100185675febb887813259cae06/Screenshot+2025-02-20+at+12_55_01%E2%80%AFPM.png?expires=1763567100&signature=f4b198d4e9366beb2490e4bc0b4cc8b9712fac1e8677312d7de8a00e5b4d0c63&req=dSMvH81%2FnoBZXPMW1HO4zSXtPbg0JhCVKtxST2%2FoDDFgVcG7vR1XWIrIEnmz%0AXzqC%2F%2F80DJh%2BGN2gNeY%3D%0A
+
+---
+
+[Button] Click here to set your business hours -> https://pro.housecallpro.com/pro/account/business_hours?utm_source=intercom&utm_medium=internal-video&utm_campaign=help-center-hvac&utm_content=backup-plan-business-hours&mc=Content&msc=help-center-hvac-business-hours
+
+👉 Next Step - How to Set Up Your Online Booking Windows & Employee Permissions
+
+---

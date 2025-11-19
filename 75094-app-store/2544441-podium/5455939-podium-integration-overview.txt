@@ -1,0 +1,54 @@
+Podium Integration Overview
+Source: https://help.housecallpro.com/en/articles/5455939-podium-integration-overview
+Author: Nate H
+Last updated: Updated over 2 months ago
+
+Summary: Learn how the integration between Housecall and Podium works
+
+How the integration works
+
+Podium is a marketing tool and interaction platform that funnels messages from all connected sites (Facebook, Instagram, Google) into 1 inbox. This can make it easier for you to message leads, customers, get reviews/feedback, and communicate easily with your team members.
+
+The integration syncs customers to Podium based on any current jobs and sends automated messages based on the Housecall Pro Job Flow.
+
+Here is what that looks like:
+
+Table:
+Row 1: In the Housecall Pro Job Flow: | Podium will send a customized automated message to the customer
+Row 2: Pro schedules a job in Housecall Pro | ‘Job Scheduled Confirmation’
+Row 3: Pro hits ‘On My Way’ in Housecall Pro | ‘Technician Dispatched’
+Row 4: Pro hits ‘Finish’ in Housecall Pro | 'Job Completed/Review Invitation’
+
+Podium handles communication for the entire Job Flow and once the job is finished in HCP, Podium automatically sends your customers a link to leave a review.
+
+After the review is made, no matter the platform (Google, Facebook, Instagram, messenger), they sync directly to your Podium inbox. This will allow you to continue the conversation, creating a strong new relationship with the customer.
+
+---
+
+Connecting Housecall Pro and Podium
+
+How to connect Housecall Pro to Podium and what the integration does.
+
+Podium is a marketing tool that allows you to communicate with your customers via text and keep it all in 1 inbox.
+
+To connect the integration
+
+If you don't already have a Podium account, you will have to set it up on that end.
+
+When creating a Podium account, Podium will ask for your industry information so that they can tailor your dashboards to what’s best. From there, you can connect any review sites and as well as the integration with Housecall Pro.
+
+To finish setting up the integration in Podium:
+
+- Go to the gear icon in the top right corner
+- Press the Review button on the left sidebar
+- Connect Housecall Pro. From there, Podium will ask for authorization to your HCP account.
+
+[Image] https://downloads.intercomcdn.com/i/o/369840777/dbff52c93a13aec8ab49a253/Screen_Shot_2021-07-01_at_4_46_07_PM.png?expires=1763567100&signature=7c92fca0ccbef6affaf2960fdde6ab55eb7243641eeea1df171b67bf160dfb98&req=dyYuHs1%2BmoZYFb4f3HP0gO%2BFMV5xi7U3RKdyY4MQOgfgBAPqs2W%2BcsuUg6X%2B%0AQyFHufj7n32hF2HTFQ%3D%3D%0A
+
+You are all set to use the integration!
+
+*IMPORTANT: Make sure your desktop notifications are enabled. This way, you can see when a message comes in.
+
+*IMPORTANT: Adjust your automated SMS messages in HCP so that the customer is not getting multiple messages from different numbers.
+
+---

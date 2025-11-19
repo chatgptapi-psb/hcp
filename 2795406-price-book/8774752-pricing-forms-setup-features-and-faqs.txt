@@ -1,0 +1,270 @@
+Pricing Forms: Setup, Features, and FAQs
+Source: https://help.housecallpro.com/en/articles/8774752-pricing-forms-setup-features-and-faqs
+Author: Sarah C
+Last updated: Updated over 3 weeks ago
+
+Summary: Set up pricing forms to create dynamic pricing and easy booking for your customers.
+
+What Are Pricing Forms and Why Should I Use Them?
+
+Pricing forms enable you to customize and set prices that align with your business needs. They are designed to help you price jobs based on quantity, hours, frequency, square footage, add-ons, and more. With a straightforward setup and integration with online booking, pricing forms enhance the booking experience for both you and your customers.
+
+---
+
+How to Create and Customize Pricing Forms
+
+These instructions guide you through creating a new pricing form from scratch. To help you get started, industry-specific templates are available for home cleaning, carpet cleaning, and window & exterior washing.
+
+To create a new Pricing Form from scratch:
+
+- Click the Price Book tab in the top navigation bar.
+
+[Image] https://downloads.intercomcdn.com/i/o/925002086/8ea1f061a61347d2cbe6bfcb/1.+Pricebook.png?expires=1763568000&signature=656d52d221c06877f7f7caa42c217ea3cdd308c84ed4ba3fb2265881bec342c4&req=fSIiFsl8nYlZFb4f3HP0gHZ0htA3NzViWGj4OqAchx0W3IrqzwPRrfWGOkwV%0ATfeLaohNK1V%2BB3OQwQ%3D%3D%0A
+
+- Once in your Price Book, select Pricing Forms from the left menu.
+
+- Then, click the Add Pricing Form button in the upper-right corner of the Pricing Forms page.
+
+[Image] https://downloads.intercomcdn.com/i/o/925014275/6be2c3ca357adc08caa3432a/2.+Add+pricing+form.png?expires=1763568000&signature=272ceffb089ecc2d800386813074b93c9a8fe2fec6c125593d66269a2fe4b6ff&req=fSIiFsh6n4ZaFb4f3HP0gOFitWqAsbhrrH00h3vKe20h8OMoJYb9PZahl07f%0Aq7F0ANZ5y2Jd1pQ7ag%3D%3D%0A
+
+- A pop-up labeled New Pricing Form will appear. - You can name your pricing form and add a description (up to 500 characters). 
+- You also have the option to upload an image, which will be displayed in your Price Book and, if enabled, during online booking.
+
+- Below the name and description fields, you’ll find two toggles: - Taxable
+- Automatically Add to New Jobs and Estimates
+
+- Turning on Automatically Add to New Jobs and Estimates will ensure this service is included as a line item on all new jobs and estimates.
+
+[Image] https://downloads.intercomcdn.com/i/o/1125002394/5a18e0bebd462a2fb3a07057/Screenshot+2024-07-25+at+5_06_24%E2%80%AFPM.png?expires=1763568000&signature=17b16e1194b3bad5001bcbe9f63d1ce112b3515c83139a4aa99b9181ebf2bf35&req=dSElE8l%2Bn4JWXfMW1HO4zYnlSkQqfYm24rsEbnOwplr9HovevyugZWU%2BF1o6%0AgQ3W3uEDlj6AYKFmScA%3D%0A
+
+- Below this section, you'll see a toggle labeled Show This Form in Online Booking. Enable this toggle to make the form available for online booking.
+
+- Once enabled, you’ll also see additional Online Booking settings: - Book this as: Choose whether the form should be used to book a Job or an Estimate.
+- Troubleshooting Questions: Add optional questions to collect helpful info from your customer before the visit.
+- Assign to Employee: Assign the booking to a specific employee or team member.
+
+- You can also set the service duration, which determines how much time is blocked off on your schedule when a customer books through this form. There are two options available: - Duration per field: Allocate a time estimate for each service field added to the form—the total time will adjust dynamically based on what the customer selects.
+- Fixed duration: A single time estimate for the entire form (e.g., 1 hour).
+
+- We recommend setting up Online Booking and utilizing pricing forms to provide a smoother, more professional experience for your customers.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1627542908/acb6a0ab1cd5c61f1d35cc5a4b17/AD_4nXf3yW56fS8839DxwUtdguj6Kj_q6KIf-BupNY60vs8gExjPWx3Sk3sTVcaqPoMy4w8hbJ2yC0Ju3oclRHJ09hDtJQyNl7PQlBa9pc4Q510XebztPNbagj3zTwTNr0cVlP6-9Hlb?expires=1763568000&signature=93715c8b4ccf7237a85a9eb0ad2a4fab79621c16b46fd945474a7c0bbe7f40d1&req=dSYlEcx6n4hfUfMW1HO4zTixThcPQWGIxOIVeBva9fqwidEoqyWVKmzYgVEV%0AjqklfHGHbbZJ5n%2FFSMY%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1627543648/51597dc3d81b3bd97bd4139c57a2/AD_4nXenUf-eVwr2a4BDOVLoSFmknJCsMbyKAakSXWFYa_TmlU90Cb8kXzMQgBqWevxMmP80ewfHXoL_TFIViwJvULDJZlmEYzlmDrhDBwD7b2qEEQHq5VUTJg1mNc4m9rq5SFpP2cpnAg?expires=1763568000&signature=704645b2e65d202e688e7ff62061b031f74b0665153541c630c0275cff1e7df6&req=dSYlEcx6nodbUfMW1HO4zdvubQNSShjMin1WZUq8aW37IBPITSyyMJxEcEjL%0AVrNLYjAWFWNjVC%2B07gg%3D%0A
+
+- Next, you'll see a section labeled Fields. - Here, you can customize your pricing form by adding fields that capture the details needed to calculate the service price. 
+ - For example, you can set up pricing based on the number of items, the size of the area, or the type of service.
+
+- Pricing forms make setup and booking easier. - For example, you could create a form for weekly home cleaning that works for all customers, no matter the property size.
+
+- To add a field, click the + Field button in the bottom left-hand corner. - Each field allows you to choose from four types via a dropdown menu: Quantity Select, Numerical Range, Multi-Select, or Single-Select. 
+- Use the three horizontal lines to the left of the fields to drag and drop and reorder them as needed. To delete a field, click the X next to it.
+
+- Quantity Select: Enables you to set a price based on the quantity chosen by the customer. For example, this works well for pricing by the number of bedrooms, bathrooms, or hours worked. Each Quantity Select field includes fields for a name and a price.
+
+[Image] https://downloads.intercomcdn.com/i/o/925049444/d8607ba46f269d6460aec8f5/quantity+select.png?expires=1763568000&signature=2a63d581c4d37d3bd0ed415c86f23f0baf69215a69b5fa38f3cb4fb6cd8f5125&req=fSIiFs13mYVbFb4f3HP0gK6nTdILuHPk55UHaw7JhBE%2FculHQfd1rOKorWyJ%0A9u3EkXEtnQaYkHpx5A%3D%3D%0A
+
+- Numerical range: Lets you define a price based on a range selected by the customer. This is ideal for pricing based on square footage or property size. You can also check the No Upper Bound box if there’s no maximum limit. Each Numerical Range field includes fields for lower and upper limits, along with a price.
+
+[Image] https://downloads.intercomcdn.com/i/o/925049644/e851873618d2afd31fc4a025/numerical+range.png?expires=1763568000&signature=98203cf1f1bb458c65e6916953631f5791a54cf284283c2ab7425600d53f37e4&req=fSIiFs13m4VbFb4f3HP0gFrVMV%2BHA0310Hn4ucfb4cqiPPv0QwRRuxKNO82v%0AX6lZ4oGdf8VTAqktQg%3D%3D%0A
+
+- Multi-Select: Allows customers to choose multiple items from a list, making it suitable for add-ons, extra charges, and additional services. Each Multi-Select option has a name field, an option field, and a price field. Click + Option to add more choices and pricing.
+
+[Image] https://downloads.intercomcdn.com/i/o/925049961/58b3b44056b85fa24e5c25a2/Multi+select.png?expires=1763568000&signature=f92378575c9d6e964d9eddf3db455fd7e85e8cca06734eceebbe894742db12f2&req=fSIiFs13lIdeFb4f3HP0gGW9FIjDqFht3r%2B8rmqUIz75GWdJlmsdZFzKp3CJ%0A9%2F7zoZm9bZb3K439Tw%3D%3D%0A
+
+- Single-Select: Lets customers pick one item from a list, which is great for specific requests like product types or additional fees such as pet charges. Each Single-Select option includes a name field, an option field, and a price field. Click + Option to include additional options or pricing.
+
+[Image] https://downloads.intercomcdn.com/i/o/925050196/cfb47e0ee945bbb4a8a0ab05/single+select.png?expires=1763568000&signature=456ba1ee18412dd00078f3570cd63b57e43b0851316c34a3c26cfc29a947abb4&req=fSIiFsx%2BnIhZFb4f3HP0gNQFtanGx8%2BgaNePfwiTbgYvHH95bOiDEjRYUJ7M%0AQ%2By%2BSxrLS1gNaUZwFQ%3D%3D%0A
+
+- Once you have finalized your pricing form settings, click the Preview and Save button located in the upper right-hand corner to review how the form will appear on the jobs page. If you are satisfied with the preview, click the Save button in the upper-right-hand corner to apply and finalize your changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/1125003445/a9eea43775c77277f9cc0bb9/image.png?expires=1763568000&signature=384005f742ae2bc95311a3d8f079611944e9bad784f2cfa218b0ffb8e2126950&req=dSElE8l%2BnoVbXPMW1HO4zXTof%2FF7LwNm1XdkjrTLOrmqZoffcvWQbif7UM58%0AtDwPkWhpJxRFCk9WR64%3D%0A
+
+- If you are enabled for online booking, this is an example of what your customer will see. When a customer clicks on a pricing form in the online booking system, they initially see the form's name, the picture you added, and the first sentence of its description. After selected, the form expands to display the full description, along with a detailed list of all services and their corresponding prices.
+
+[Image] https://downloads.intercomcdn.com/i/o/1125801882/8abc7d093909b3f46545c6cc/ScreenRecording2024-07-25at6_00_33PM-ezgif_com-video-to-gif-converter.gif?expires=1763568000&signature=c4e98774b3c1911ab22b32ae189646efe4c99fe3f6f0c16f486d6e12555282da&req=dSElE8F%2BnIlXW%2FMW1HO4zUyZjfa1MSyGq4omy7O39WLEhhqZpZUhr3EMPmIH%0AMb%2B%2FKe5%2BQsOb5rHz5dU%3D%0A
+
+---
+
+How to Edit, Duplicate, or Delete a Pricing Form
+
+To edit, duplicate, or delete an existing Pricing Form:
+
+- Start by clicking the Price Book tab at the top of your navigation bar in your account.
+
+[Image] https://downloads.intercomcdn.com/i/o/925002086/8ea1f061a61347d2cbe6bfcb/1.+Pricebook.png?expires=1763568000&signature=656d52d221c06877f7f7caa42c217ea3cdd308c84ed4ba3fb2265881bec342c4&req=fSIiFsl8nYlZFb4f3HP0gHZ0htA3NzViWGj4OqAchx0W3IrqzwPRrfWGOkwV%0ATfeLaohNK1V%2BB3OQwQ%3D%3D%0A
+
+- Once in your Price Book, select Pricing Forms from the menu on the left.
+
+[Image] https://downloads.intercomcdn.com/i/o/1125058415/189da1f1970b482b763ad58d/Screenshot+2024-07-25+at+6_26_04%E2%80%AFPM.png?expires=1763568000&signature=197b0b7540069fe93c9d3cb2ccb87c54f8a01203dce25706b2212a47799c991f&req=dSElE8l7lYVeXPMW1HO4zfU2tCqzYGV2kIc1EV23074N0CwsaIt%2FKdcDrtxa%0AHio39APJyGCe%2BZ1f9JY%3D%0A
+
+- Next, click the More icon (⋮) to the left of the Pricing Form you'd need to copy, edit, or delete.
+
+- A menu will appear. Click Copy to New Pricing Form to duplicate it, Delete to remove it, or Edit to make changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/1125057983/2ae190a155b814e7c1023d79/image.png?expires=1763568000&signature=584df175a4502a77d07341e3b5f02057a880024e52a1c8fc6b052fce723010f4&req=dSElE8l7mohXWvMW1HO4za8HEF4p5XyUq7FTnufBS57ZGgv5eE5wctowTWUR%0AXkkOB8jfYk5fH0Tl1lk%3D%0A
+
+---
+
+Reordering Pricing Forms in the Price Book
+
+Organizing your Pricing Forms in a preferred order can streamline your Online Booking experience. Follow these steps to reorder your Pricing Forms:
+
+- Navigate to your Price book and select Pricing forms from the left menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1545676703/70b247a79539a5e6d27b30695c50/Screenshot+2025-05-28+at+2_54_10%E2%80%AFPM.png?expires=1763568000&signature=9e5cf327bf630538efc953cf6d3e212555bd4d77ec5c3c8ee69bdb24df475a8a&req=dSUjE895m4ZfWvMW1HO4zen5Unc0fpL8tRXUHn1RXdb3q2GIOYv5h9YXWfAN%0A5WQ6cgJ0fWNvrSFZ%2FTc%3D%0A
+
+- Locate the Pricing Form you wish to move and click on the More icon (⋮) next to it.
+
+- From the dropdown menu, select Reorder.
+
+- Click and hold the Menu icon (≡) to the left, then drag and drop it to your desired position in the list.
+
+- After arranging the forms in your preferred order, click Save order in the top right corner of the page to apply the changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1545688618/020eac8796d471940ebf5ba6a735/ReorderPricingForms.gif?expires=1763568000&signature=1e6f836e64a08270c7824ca310559a10532605117d1984e19f51b2866b46be96&req=dSUjE892lYdeUfMW1HO4zcKZhmqE8WJ4kyULlCo%2B3cEvWPJOe5yk%2Fw1Q4%2Btg%0Aiu3P9wgjm6pa7OI40ug%3D%0A
+
+---
+
+Using Pricing Forms on Jobs and Estimates (HCP Web)
+
+- If you have the Automatically add to new jobs toggle enabled, the pricing form will be added to the job automatically.
+
+[Image] https://downloads.intercomcdn.com/i/o/843732894/bbfc2a94bb30c13cbefb1349/image.png?expires=1763568000&signature=f500755bd256ba93931b4e5501b16e2e054a649f4b582ea9927004651c680036&req=fCQkEcp8lYhbFb4f3HP0gEHUVE9HFlVElCcVEohowMnoek5tkdevDMgIucu5%0AzQ0%2F7gAM6MYwSA%2B%2FGg%3D%3D%0A
+
+- If the Automatically add to new jobs and estimates toggle is off, you can add your pricing form manually by clicking the New button in the navigation bar and selecting Job to create a new job. Next, under Line Item > Services, add a new service item by entering the name of your pricing form.
+
+- You can also add pricing forms to existing jobs by navigating to the job, clicking under Line Item > Services, and adding a new service item by entering the name of your pricing form.
+
+[Image] https://downloads.intercomcdn.com/i/o/843736249/1ec9d8e8fc70848b9b64418d/image.png?expires=1763568000&signature=83795721bbf9a3014ed1b4a893972dda8a7be13d932444e90eceb0f5fbf8dba5&req=fCQkEcp4n4VWFb4f3HP0gC7NmItXQvvdpbtoaUZH75LUaQEUrwa%2FXmyXTqj9%0AaaH0AmN6cMjec6PbFA%3D%3D%0A
+
+- After adding the pricing form as a line item, fill out the form according to the job's specifications using the options you added to the pricing form. Select the appropriate size of the job based on the number of bedrooms, bathrooms, and square footage. If you want to add additional services or materials, click on + Service Item or + Material Item.
+
+[Image] https://downloads.intercomcdn.com/i/o/843741498/bf3ca54cb2de25b746b5bc07/image.png?expires=1763568000&signature=b497c5b5d7b0653df7489421900862f286872b2aadb8e410fbbf1c46c044eb66&req=fCQkEc1%2FmYhXFb4f3HP0gBXhmyZ3PDLh6pmMSxVAohHnHrNLGM7fS17uJ3e2%0AUORYsalLYielsD2ZBA%3D%3D%0A
+
+- Once completed, click the Save Job button in the upper right-hand corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/843747814/f87977579c3a42d4af3f3719/image.png?expires=1763568000&signature=37a5b61826f061649252e61390f343054caec2ce7178167cd55bdbe48b7455f3&req=fCQkEc15lYBbFb4f3HP0gJuFTWEVinT26wlQ6jydKtgUP0DJmxreeoO53UEF%0AnlTfBUtXqdfV8l3wAg%3D%3D%0A
+
+- To preview how the pricing form will appear on the invoice, click the invoice icon from the job details page. The invoice will display the name of the pricing form, the description, the options, and the prices.
+
+[Image] https://downloads.intercomcdn.com/i/o/843746524/20cdb0720d73845b1eef42bb/image.png?expires=1763568000&signature=a55e3164f12a0fa262e00fd8f74baa9c481a3af41dcdf2c1aa75b905ae793af3&req=fCQkEc14mINbFb4f3HP0gFooWyCBjjQSOue1cmfetobciHKAixCPKgxwPNOF%0AKmL7S0Ljx%2FW18bz5pw%3D%3D%0A
+
+---
+
+Using Pricing Forms in Online Booking
+
+With easy setup and connection with Online Booking, pricing forms create the ideal booking experience for you and your customers.
+
+If you haven't set up Online Booking yet, go to Settings > Online Booking in your Housecall Pro Account. This page will open an onboarding flow, which will guide you through the setup process.
+
+Step-by-step Instructions:
+
+- Step 1: Make sure you have set up Pricing Forms for your services
+
+- Step 2: Configure Pricing Forms in Online Booking After you have set up Pricing Forms, go to Settings > Online Booking in your Housecall Pro Account to open the Online Booking setup onboarding flow. 
+​
+You will see a list of all of your available Pricing Forms, where you can toggle each Pricing Form on and off in Online Booking as needed.
+​
+You can use the Preview function to see how the Pricing Form will look in your Online Booking flow. 
+​
+You can click the Edit button to customize each Pricing Form as needed.
+
+[Image] https://downloads.intercomcdn.com/i/o/942598078/d70a6547881c946fd308fcd4/image.png?expires=1763568000&signature=e1b53ee8afdb9c33cbd424e4cdc6690fe05500aeec4a9e9768e3cfc43c5f257a&req=fSQlE8B2nYZXFb4f3HP0gKJ0NNYC1Kl1101%2BTF8LQfl%2BtVzdFhAmLCpQYBAq%0A5B0Bq1E8pSEGhpzClQ%3D%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/943190280/d3dea4dc8afca238622242ec/image.png?expires=1763568000&signature=f83f3e779f00d141b7c5940bad00ddee4829afbc7c08ad20482577ea09ab7e28&req=fSQkF8B%2Bn4lfFb4f3HP0gPFOsYfrclTXlWKKg3d1FFJLfAIU17UMNRlUnbkX%0ARpsyk9ntzkdPvGbEKA%3D%3D%0A
+
+- Step 3: Set up Booking Rules In the next step, you will be able to set up your booking rules by defining available booking hours, arrival windows, and earliest availability.
+
+[Image] https://downloads.intercomcdn.com/i/o/778430887/04896f57c49e5acf215aabf5/image.png?expires=1763568000&signature=31bce77d35353cd6a4b5ea93fc0945dbc4d2fb4aaddd67d3cbaa6eb869fe914d&req=cycvEsp%2BlYlYFb4f3HP0gB1Nq833gjnQfay5grs59CD5F5LhVJRzf1zK4KDL%0AdcZf5%2B7XI3Yu3Yt0lw%3D%3D%0A
+
+- Step 4: Preview Online Booking
+​ In the final step, you can preview how your Online Booking will work once it's embedded and live on your website, social media page, etc. [Image] https://downloads.intercomcdn.com/i/o/942611060/889bc8b4657918c07036c219/image.png?expires=1763568000&signature=883c2b2cee1a7b7678690632090653c1136708c2303177cada1cf467a933a755&req=fSQlEMh%2FnYdfFb4f3HP0gEDmNFN4%2FwmaryoylIZ4lrzPoCyJLsfz6at5vxyq%0AJoc%3D%0A If there's something you'd like to change, use the "Back" button to go back to previous steps. If you are satisfied with your Online Booking preview, you can click "Finish onboarding setup". This will complete the onboarding flow and activate Online Booking! You will see an auto-generated embed code and a link, which can be placed on your website, social media page, or email footnotes. This embed code the link will always be available in the Online Booking > Share booking page in your Housecall Pro account.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1642271350/d00afb28157ed7e8211eecf7fd42/image.png?expires=1763568000&signature=996030d7469dc0f65158b9e1bfd32450c3f1a072d22fea9d0210a685aae8a5db&req=dSYjFMt5nIJaWfMW1HO4zf3zKDuTgLUFUOSt8Xs16YiSqiISAbhZLHGqDN2k%0AeqE6Ju2u40dF8ihtlyQ%3D%0A
+
+---
+
+Using Pricing Forms on Mobile (iOS & Android)
+
+Once you’ve created your Pricing Forms on the web, you can easily add them to any new or existing Jobs and Estimates from the HCP Mobile App.
+
+To add a Pricing form to your Jobs or Estimates using the HCP mobile app (iOS):
+
+- Create or open an existing Job or Estimate.
+
+- In the line items section, tap the green + Add services button.
+
+- Select the Pricing form from your list of services and fill out the form according to the specifications.
+
+- Once you’ve filled out the Pricing form, tap the blue Save button to add the pricing form as a Line item.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1795475107/724bad00cc3bb74ab32afae42546/image.png?expires=1763568000&signature=b6e1439379416fd8e928253b5aecdc9af40d8c0dca917967773bfa099e0a1652&req=dScuE815mIBfXvMW1HO4zWxyMsUlA9k4Ss2i8u1HQwPy%2B4HXbeT%2FDm%2F0qPhY%0AWkER%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1795475445/440018c7dd455f55248d5be07348/image.png?expires=1763568000&signature=caa1c976959ea0654d35dd1c431366588065ee14e0facc098105d7de37df3d82&req=dScuE815mIVbXPMW1HO4zbyyqWoSZ0AYJSzCeUPqBTvvStPHFkOsA0%2BsYKm1%0Ah3iV%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1795475776/b9b245f10a13c805bf51f796cae6/image.png?expires=1763568000&signature=4cdf03fea921b7c52d450a997eab9e3c11150ac67dcf13dbed7a92926be12ca9&req=dScuE815mIZYX%2FMW1HO4zQkmcvJflxksOStJop7N619iJ3gTztF9mebgzK8c%0AokTZ%0A
+
+To add a Pricing form to your Jobs or Estimates using the HCP mobile app (Android):
+
+- Create or open an existing Job or Estimate.
+
+- In the line items section, tap the + Add services button.
+
+- Select the Pricing form from your list of services and fill out the form according to the specifications.
+
+- Once you’ve filled out the Pricing form, tap the blue Save button to add the pricing form as a Line item.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1795489489/abd5b34a2889a5ddbdbcfcc51655/image.png?expires=1763568000&signature=cc281ff81125d93ca92715c19f7a0f6ee4b6380236eff51dcf074c5003160811&req=dScuE812lIVXUPMW1HO4zc6B40Sn25KahYX%2B2nUE71TvmDRcmdGttqco9FFS%0AgR2P%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1795489657/10f294c2a98e11996ddbb67be91a/image.png?expires=1763568000&signature=f11e46f8f2465ec2c0fdc8c7010cb453b214843f3aa931cbe55c5898ee29f462&req=dScuE812lIdaXvMW1HO4zRa2gQjvcSDqCc1rQ%2B3fj6kxdQX%2BYjlEJalZQi34%0Agy1P%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1795489841/ab4108795646dc591ad1c61abeef/image.png?expires=1763568000&signature=b6c535fd730ace8085aed849cc5160d5f0e8970ff3801e72d77d9e90dc1473a5&req=dScuE812lIlbWPMW1HO4zZxxMgw3japGRAyc705U%2Fs9PrBKHpZu0LTO606m%2B%0A9ihp%0A
+
+---
+
+Pricing Forms FAQs
+
+What's the difference between a Pricing Form and a service in the Price Book?
+
+- A Service is a single line item with a fixed price. For example, if you clean houses of different sizes, you would need separate line items for each size, such as "1 bed/1 bath" and "2 bed/1 bath."
+
+- Pricing Forms, however, allow you to configure various pricing factors to calculate the total price for one line item. You can mix and match pricing based on the size of the property, add-ons, hourly rates or base price, supplies used, and more, all of which combine to give a single total price for the service.
+
+When should I use services vs. pricing forms?
+
+- Pricing forms are recommended for all recurring industries, especially cleaning. Services can be used alongside pricing forms to handle additional line items and other services you may offer.
+
+Can I add additional services?
+
+- Yes, you can add additional services, upcharges, and add-ons to a job using the Price Book. For more details on setting up your services in the Price Book, please refer to this help article.
+
+[Image] https://downloads.intercomcdn.com/i/o/843744087/acaad1f31d044b9e29bffd42/image.png?expires=1763568000&signature=c6a89db3672bae7980de5ceee26bf3266559961ae532dc5f94886052100db2cc&req=fCQkEc16nYlYFb4f3HP0gEG%2FxEX4yl3wCyUj7Lsl095E97%2FKiGnxMWPqDpw1%0AZ8sEvJk5ZvLJV3hoeQ%3D%3D%0A
+
+I currently offer discounts on services based on job frequency. How can I manage this within pricing forms?
+
+- The recommended approach is to create separate pricing forms for each frequency you offer—monthly, weekly, one-time clean—and adjust the service pricing accordingly. Alternatively, you can apply discounts directly to the job, and these will be reflected on the invoice.
+
+I need to change the price of the form for a specific customer. How can I do that?
+
+- Unfortunately, you cannot adjust the price of a pricing form on a per-customer basis. However, you can create multiple pricing forms or use services to achieve greater pricing flexibility for each customer.
+
+What do I do if I need to change the price on a Pricing Form from the job?
+
+- If you need to change the price on a Pricing Form for a specific job, you'll need to make the adjustments directly in the Price Book.
+
+What if I don't price by everything listed on the pricing form?
+
+- If you choose not to price every item listed on the pricing form, you can leave those prices as $0, and they will not affect the total cost of the job. Currently, there's no option to remove attributes from the pricing form
+
+Can I change the pricing forms on mobile?
+
+- No, you cannot edit pricing forms on mobile. All changes to pricing forms must be made from the web platform.
+
+What will my employees see on the job when using pricing forms?
+
+- When using pricing forms, your employees will see the pricing form with its name and all the options and prices you previously added. This information will be displayed as a single line item on the job.
+
+[Image] https://downloads.intercomcdn.com/i/o/925088464/094a1bd6987245946513dea8/job.png?expires=1763568000&signature=439fc05896d8c78826ce7561385422e6ecf1591c99a8eeb1d7bd5c025b005406&req=fSIiFsF2mYdbFb4f3HP0gIGqwc9CjSSd7MXAGLdv8v%2BxTcYQVw9PSnifjsBr%0AgbmWkzI50xImY1X3mw%3D%3D%0A
+
+---
+
+Want to see a specific feature in Housecall Pro? Your voice matters!
+
+​​Visit our Product Roadmap to suggest and vote for the features you'd love to see. Your feedback helps us improve our services to better meet your needs!
+
+---

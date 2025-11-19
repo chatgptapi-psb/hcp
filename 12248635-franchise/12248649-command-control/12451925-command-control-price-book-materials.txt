@@ -1,0 +1,124 @@
+Command & Control: Price Book Materials
+Source: https://help.housecallpro.com/en/articles/12451925-command-control-price-book-materials
+Author: Nate H
+Last updated: Updated over a month ago
+
+Overview
+
+Command & Control: Price Book Materials allows you to keep your brand's Price Book consistent across every location by ensuring all Franchisees use the same approved materials.
+
+This feature prevents your franchisees from going off-script with their own suppliers, which potentially puts your brand's quality and reputation at risk.
+
+Specifically, Command & Control: Price Book Materials:
+
+- Prevent franchisees from creating, updating, or deleting Material-specific settings: - Material Categories, Materials, and Material Mark Ups
+
+- Sync the Materials from your Template Account to your Franchisee’s Price Book so they only have your brand’s approved Materials
+
+This Support Article Will Cover the Following Sections:
+
+- What is Command & Control: Price Book Materials?
+- Enable Command & Control: Price Book Materials
+- What do my Franchisees See When Command & Control: Price Book Materials is Enabled?
+- Template Account Perspective in the Price Book when Command & Control is Enabled
+
+---
+
+What is Command & Control: Price Book Materials?
+
+Command & Control aims to enforce consistency across your Franchise’s network.
+
+Command & Control: Price Book Materials allows you to restrict your Franchisees' ability to modify Materials. This feature also syncs Materials from your Template Account to your Franchisee’s accounts by replacing their Materials with your brand’s approved list of Materials.
+
+- When Command & Control is enabled, any Franchisee linked to that template will not be able to create, update, or delete: - Material Categories
+- Materials
+- Material Mark Ups
+- Import Materials
+
+- Command & Control: Price Book Materials also come with Additional Controls.
+
+---
+
+What are Additional Controls?
+
+Additional Controls give you more flexibility when locking Materials for your Franchisee’s HCP account. This means that you can lock specific areas of a Material and leave other parts of a Material editable by your Franchisee.
+
+Additional Controls for this feature include:
+
+- Details - Material Name, Image, Description, and Part Number
+
+- Pricing - Material Cost, Material Price, Material Markup toggle on a Material and Unit
+
+---
+
+Enable Command & Control: Price Book Materials
+
+- Access your Template Account and navigate to Settings by clicking the gear icon in the top right corner of your screen.
+
+- Select Account Templates from the left menu.
+
+- Ensure that the Template Settings tab is selected at the top of the page.
+
+- Click Edit to the right of Price book materials.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1776123903/de25fbe133c494b4b64d8b322a1f/Screenshot+2025-10-13+at+1_47_15%E2%80%AFPM.png?expires=1763568000&signature=0ac09e1104282001c36e70bf32ae55a7adbefa18c9fe2743e99bca901b3f001e&req=dScgEMh8nohfWvMW1HO4zRKNXTzaT2TpM45FJMzU%2BZ6iuR5iVleZNwhJhNtw%0A77ulSIiPfUUT5EePqGM%3D%0A
+
+- By default, the setting will be enabled, which means your Franchisees have the ability to manage their own Materials.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1776128268/7442bfcd56c34d8909bf67e21810/Screenshot+2025-10-13+at+1_51_50%E2%80%AFPM.png?expires=1763568000&signature=1a4328053bb779c847be9e787acb6f42bb3c803c87034573fd0a48e1eca52213&req=dScgEMh8lYNZUfMW1HO4zZOsUneN3RbRl72QGVHyflkoWKaDY0OPW5gI4TsY%0Am66IGnjQ%2BISlefHYTjg%3D%0A
+
+To restrict your Franchisee's ability to manage their own Materials:
+
+- Deselect the top checkbox, Allow editing of Price book materials, then click Save.
+
+- If you want to use Additional Controls, you can select the sub-checkboxes for the part of a Material you want to allow Franchisees to edit.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1776128568/04182225bc7067f67b051e414a7c/Screenshot+2025-10-13+at+1_52_05%E2%80%AFPM.png?expires=1763568000&signature=6608223c9dc412eb9393bc99c2d1383c3dabff2c987df88e6e362f758edba418&req=dScgEMh8lYRZUfMW1HO4zZayEBZA9VbVRuFBfLnaZtiYfQ2XAaa0iaqiv%2FEf%0AH9KoO4Sk7%2BsoGMzvEF4%3D%0A
+
+- A confirmation window will appear telling you what will happen after confirming your changes. Click Save in the window to proceed.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1751382022/23c3faf47d6a329c34a7be260890/C-C-PBM5.png?expires=1763568000&signature=b6337c85bcdf2480e4ad56a5869589b15187d0c09b9f76c44ea7083d492af159&req=dSciF8p2n4FdW%2FMW1HO4zSG502fm9j0QT%2FJ5glLqn4dpy%2BP0uqN7DNDwzY34%0AhSh9l5SBNVKYml4Gg8Q%3D%0A
+
+Once you have confirmed your changes, Command & Control: Price Book Materials will be enabled:
+
+- Your Franchisees will no longer have the ability to manage their own Materials.
+
+- Franchisees will also receive all of the Materials that exist in your Template Account’s Price Book as their own Materials.
+
+- Franchisees cannot import Materials, but can export Materials to a CSV.
+
+- For Additional Controls, your Franchisees will still have the ability to edit certain parts of a Material that you choose, but they lose the ability to Create and Delete Materials.
+
+---
+
+What do my Franchisees See When Command & Control: Price Book Materials is Enabled?
+
+- A new banner will be displayed on their Price Book Materials page stating that editing Materials is managed by a Template Account. This banner will be displayed on every Price Book Materials screen:
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1751393803/a3031e21db6d6022344d0cc3dbb0/C-C-PBM6.png?expires=1763568000&signature=99e4e6f8010f27de8490673d6a3e0c5a4b3fd6843d86b99c2c5866b49a02b555&req=dSciF8p3nolfWvMW1HO4zetfmYYW6mjW%2BJJQQzkU4HZYiCW6sITgG7dqUyS6%0ALzoAPUZGEnF44pPeZPw%3D%0A
+
+- If you choose to completely Lock & Sync Price Book Materials, the entire Material becomes uneditable for Franchisees:
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1751394721/a02319c49c324847cd18ded2a969/C-C-PBM7.png?expires=1763568000&signature=bc256002dc7688d2aa6bc4c9e390f19a930b3bba805ff5f27d1d65f852cbb987&req=dSciF8p3mYZdWPMW1HO4zY23NnaJ2Wt3S3a965GB%2FAuVAh4jBJfVg3g20BaA%0AMm2YHhJ9ZVeIJOpsoNY%3D%0A
+
+- If you choose to allow Franchisee to edit a Material's details, but nothing else, the Material will have uneditable sections:
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1751395209/eb6b047d30aa3427bbfef8fa8f2a/C-C-PBM8.png?expires=1763568000&signature=769a8b180e40e1e2630ad311ccfd66c14b41bbd91eeedeff2a78c58dded37b5d&req=dSciF8p3mINfUPMW1HO4zQ31PXu6Ep98WeoFgnJAUylHdZuMcaQjev5cFtV3%0AQ4tO1CZ%2Bq9Vsv09zqbg%3D%0A
+
+- If you choose to allow Franchisees to edit the Material's pricing, but nothing else, the Material will have uneditable sections:
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1751395727/4338848bb829ec4a03ab5775e697/C-C-PBM9.png?expires=1763568000&signature=13b63cc829fb1c4f3494985946e1b148ac5dde5b9041bf8aef52ce852d841ff1&req=dSciF8p3mIZdXvMW1HO4zUm%2BZbucGoozI27PpedTwrVsWeeWaPw6rV4PkAvC%0AkpQmwTrO6kryJgbLPrI%3D%0A
+
+---
+
+Template Account Perspective in the Price Book when Command & Control is Enabled
+
+- In your Template Account, navigate to the Price Book and select Materials.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1751400731/91ba9950814d876248addff98995/C-C-PBM10.png?expires=1763568000&signature=fa1d863d47e5efe9e8b1ad4786c3721e13a1c81807ef8872f17b57041901c373&req=dSciF81%2BnYZcWPMW1HO4zVT4waL8tupEK%2Fy%2F7LK2j2MCGTCceTTByswHCWO7%0Ag9UEQyDOjJHkHdLLZFA%3D%0A
+
+- On the Materials page in your Template Account, you can create, edit, and delete Categories, Materials, and Labor Rates (if you are using Flat Rate Pricing) that will be automatically synced to your Linked Accounts.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1751400967/968944277a08e7a0d05df1d5e82f/C-C-PBM11.png?expires=1763568000&signature=390392e9ff13fc8a884bca8c19039ca12c70b0ea025bc07dbfac3430385656b8&req=dSciF81%2BnYhZXvMW1HO4zZc6Ri0cGGQvQ43Jk%2BJsxNI9xzAzmtF%2BXqmtZhuX%0Ak%2BRTHzm9POI1iFh4rcU%3D%0A
+
+---

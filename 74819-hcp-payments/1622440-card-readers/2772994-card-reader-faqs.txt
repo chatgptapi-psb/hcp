@@ -1,0 +1,121 @@
+Card Reader FAQs
+Source: https://help.housecallpro.com/en/articles/2772994-card-reader-faqs
+Author: Nate H
+Last updated: Updated over 10 months ago
+
+Summary: Order your card reader and review some FAQs regarding how the card reader works.
+
+How to Order Your Card Reader
+
+To order your own Housecall Pro card reader, follow the steps below:
+
+- Click on 'My Money' in the navigation bar at the top of your Housecall Pro account. - Depending on your screen size, you may need to click the 'More' drop-down.
+
+- Next, select 'Card reader' from the left menu, under the Payments drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1333153164/dceabda3cf6252038e000551bcff/MyMoney-Payments-CardReader.png?expires=1763568000&signature=120b1ed078c4a82ff5fbc206079b2d66215e57dd7735c5a86a3db06b9b7f8424&req=dSMkFch7noBZXfMW1HO4zTNaicOxf8O80z1rlSCO%2B3NqT6IN4r%2BzqhMbkS1a%0AvACVatcnyzj9P98957c%3D%0A
+
+- From here, you'll see the Card Reader screen, where you'll have the option to purchase your card reader(s). 
+​
+- You can change the quantity by clicking on the plus and minus icons at the top of the page.
+- When you're ready, click the blue 'Buy Now' button.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234587107/426a8eca3ed578cc9e12c7cfd1f5/image.png?expires=1763568000&signature=71dfe93542e94ad195131b7633b5cd315607f92e6758543f9f6c8119e0af36b5&req=dSIkEsx2moBfXvMW1HO4zbxLEOR8Dg9gLve3udAnxGPFuPs4lv2%2B2RcvMRNp%0Auo%2BINNqoUTOwO5Tck8w%3D%0A
+
+- From there, confirm your shipping address and billing information and click the 'Review Order' button.
+
+- If everything looks correct on the Order Summary screen, click 'Place Order' and you're all set!
+
+---
+
+---
+
+Card Reader FAQs
+
+---
+
+---
+
+What payment methods work with the card reader?
+
+- The following payment methods can be used with our card reader: - Apple Pay 
+- Android Pay
+- Samsung Pay
+- VISA Paywave
+- MasterCard PayPass
+- AMEX ExpressPay
+- Discover D-PAS
+​
+
+---
+
+Does the card reader work with iPads?
+
+- Yes! The card readers are iOS-compatible.
+​
+
+---
+
+Can I use a reader with my Android or Android Tablet?
+
+- Yes! Card readers can be used with Android devices. 
+​
+
+---
+
+​
+
+Can I use one card reader with my iPhone/iPad and Android device?
+
+- Yep! The card reader will work the exact same way with iOS and Android devices. 
+​
+
+---
+
+I live in Canada, will I be able to use the card reader?
+
+- Card readers are not currently available in Canada.
+​
+
+---
+
+​How long will the card reader battery last?
+
+- Out of the box, we recommend fully charging your card reader before you use it in the field. When fully charged, the card reader should last at least a thousand swipes/chip reads.
+
+- The reader automatically shuts itself off after a few idle minutes. That being said, we do still suggest charging them often to ensure the battery is full and good to go. Better safe than sorry! 
+​
+
+---
+
+I purchased a BBPOS card reader from a different company, can I use it with Housecall Pro?
+
+- Currently, only card readers purchased through Housecall Pro can be used with the HCP mobile app.
+​
+
+---
+
+​Where is the Card Reader button?
+
+- The Card Reader button is located in the HCP mobile app.
+
+- You'll see the Card Reader button after tapping the 'Pay' icon on the Job Details page and selecting the Credit Card payment method when going through the checkout process. 
+​ [Image] https://downloads.intercomcdn.com/i/o/375673333/a89a6b149dab541fae6de0a4/image.png?expires=1763568000&signature=c61086ab0053b7f1ee1a457a3c63e5bd369f1af8d474a67ac41d42b88239f730&req=dyciEM59noJcFb4f3HP0gOx3Xuby10i%2BWrfbKR4Z4EPeQgmq4Nb4eKmKGIcC%0AcxE%3D%0A
+
+---
+
+How can I view the payment afterward?
+
+- Navigate to the My Money page in your account and select 'Payouts' from the menu on the left. 
+​
+- From here, you can toggle between Standard Payouts, Instant Payouts, and Check Deposits. 
+​
+- Click on the dropdown arrow to the right of each transaction to expand the details and view card reader payments.
+
+[Image] https://downloads.intercomcdn.com/i/o/534418477/3240d76a6b5d41dd73b7eb07/image.png?expires=1763568000&signature=04b2c34fd2f47d6e46e0e08048702a26329d4a2279c800a8f0b83b3531623e22&req=cSMjEsh2mYZYFb4f3HP0gEsEn95weVuKS39FLZoUW9VrmH19gB4zXIG%2FljwE%0Axd64Get8CggBHl51nw%3D%3D%0A
+
+---
+
+Check out these tips on collecting payments from your customers!
+
+---

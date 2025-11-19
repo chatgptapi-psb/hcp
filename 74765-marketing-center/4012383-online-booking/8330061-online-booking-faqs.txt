@@ -1,0 +1,169 @@
+Online Booking FAQs
+Source: https://help.housecallpro.com/en/articles/8330061-online-booking-faqs
+Author: Kasia S
+Last updated: Updated over a month ago
+
+Summary: Frequently asked questions about Online Booking.
+
+Housecall Pro Blueprint to Success Workshop
+
+If you're looking for more advice on how to effectively use Online Booking, along with other great features, register for the Housecall Pro Blueprint to Success Workshop!
+
+[Button] Register Here -> https://docs.google.com/forms/d/e/1FAIpQLScM2b6NgGEvrjkOFAZPunvol2CoR4FIIFiVgR7DmTRqgd3gQg/viewform?usp=pp_url&entry.1047718727=HCP+Help+Article
+
+---
+
+---
+
+General
+
+---
+
+Where can I find Online Booking?
+
+- Online Booking is located in the Marketing Center.
+
+- To view the Marketing Center, click on Marketing in the top navigation bar of your Housecall Pro account. From there, select Online Booking in the left menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1549086007/6673ce079843d5d90d9de5dfe31d/AD_4nXc12H7uzlMyMJ49mOcDxxC_eXIfJx2rBVWtUSCk1-ZF6SZMaBdJXRO82EhWfwWUIJl7Qv0Ae2vn7ICQ9JK3D8xSpYSc9z9Qvh-zzG94P2ValcorrtRLsDYOXtDEBaSYMSkzkS7r1A?expires=1763568000&signature=1d62eca9a2f0277ee555c341442f76c7609b578e0469996e507cedcc6626af4c&req=dSUjH8l2m4FfXvMW1HO4zYMeo854rurT7rrRasZFpkXCiomWMF45YfzahLO9%0ArS7%2FS2TE%2Fo82OC9l17M%3D%0A
+
+---
+
+Can I rearrange the service order on the booking form?
+
+Yes! To change the order of services and categories, follow these steps:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Booking from the Settings menu on the left.
+
+- Click the Services & Pricing tab from the Booking settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643967031/6897b311675b16abd870ed614954/image.png?expires=1763568000&signature=afaaa94687302fff8ffa63029c5fca60c9fe7faafd919c8363ed4355e1bbecee&req=dSYjFcB4moFcWPMW1HO4zUFd%2BdVKKPOMnzKxA5gaUcrHtZWsLCPbGJsa7CJn%0AUOxIDfMgEFmTX%2FxBr9g%3D%0A
+
+- To reorder categories: - Click the More icon (three dots) to the right of the category name.
+- Select Move up or Move down from the drop-down menu. Repeat as needed.
+
+- To reorder services: - Click and drag each service into your preferred order.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643972948/8d78b74429a57b5622ca2aa4fb46/image.png?expires=1763568000&signature=ced506f9046fe7e1c43fa9843d41adb0d89f3a0e2db0c529acd11c99ca27b3f2&req=dSYjFcB5n4hbUfMW1HO4zQ2pdVY75GM7hRh8iYQoYlPKT20QwfWwVRgyW%2FHw%0A8nNd9eRIu8ntDU8LYa4%3D%0A
+
+---
+
+How can I hide prices in Online Booking?
+
+To hide prices, follow these steps:
+
+- Navigate to Settings.
+
+- Click on Online Booking.
+
+- In the Pricing section, toggle off the Show service prices in online booking option.
+
+---
+
+My Online Booking widget is not showing any services. What should I do?
+
+To enable a service for online booking, follow these steps:
+
+- Go to your Price Book.
+
+- Find the service you want to make available for online booking.
+
+- In the Booking section, toggle on the "Show this service in Online Booking" option.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/849041131/9692813ae9a1cc751b966716/tdMRfcaXvOpScUa04Qkl0UPnt8sPM05CJTz3n6GF6Y8AuDfGUerI7Pq5SP0VOApd6Z5MHs7Rnv5BqES5YR9Jy6t3yBEg93emGn-0xn88lhuMk2uqd8RMVMeBAj5f209Es1YE3ptQeTNCBezUpkyzAQw?expires=1763568000&signature=f265b5ed570f8d0f4eb2d67bddffca092c920ee4417979d0d73d51497e2c66de&req=fCQuFs1%2FnIJeFb4f3HP0gCwaA%2BckiAI4btN5eiTl6%2BFEkzclBa6q91Ld%2F7qt%0ASsu0951BnF5jleVJhw%3D%3D%0A
+
+---
+
+How can I get more online bookings?
+
+To increase your online bookings, consider the following strategies:
+
+- Position the Online Booking button prominently on your website and mobile site, ensuring easy access for visitors.
+
+- Include Online Booking links in your social media profiles, email signature, and SMS marketing messages to make booking effortless.
+
+- Organize and label your services in a way that is crystal clear and easily understandable.
+
+- Enable Reserve with Google by allowing your customers to access your online booking directly from the Google search results page, increasing your online visibility.
+
+---
+
+How does our Online Booking tool support returning customers?
+
+When a customer enters their data in the Online Booking form, we will check if there is a matching existing customer in order to reduce duplicate customer data.
+
+- If there is a match, the booking will be assigned to the existing customer.
+
+- If the address does not match, we will add it as an additional address assigned to the customer.
+
+- If we don't find a matching existing customer, a new customer profile will be created.
+
+We use the following data to find a match:
+
+- First Name
+- Last Name
+- Phone Number
+- Email Address
+
+[Image] https://downloads.intercomcdn.com/i/o/1119064327/7dd36b04a6eaa6d5b39c71de/image.png?expires=1763568000&signature=1764b1dc2cc361335f4ae64c15ace91e06b4e97c9d01e1aa6a9f296794a696ed&req=dSEmH8l4mYJdXvMW1HO4zcGPblzH2B9yJGoWLfsVQtawVURd31mMGAprNqLc%0AKF4Bo5Hl2jXeanMQZZM%3D%0A
+
+---
+
+Can customers cancel jobs they've booked through Online Booking?
+
+- Currently, customers cannot cancel jobs they've booked through Online Booking. To cancel a job, customers will need to contact your company directly.
+
+---
+
+---
+
+Availability
+
+---
+
+How does showing available booking hours work in the new system?
+
+When showing the availability to a customer, the system looks at the:
+
+- Booking hours
+- Duration of the service
+- Available employees
+- Employee or employees assigned to the service
+
+Booking hours define the from/to limits of the schedule in which the system is going to look for available time slots. If you want to add space in your schedule, where no bookings should occur, use the time slot option.
+
+Duration: The system will look at the service duration to know how much available time to look for. If the service's duration is set to 2 hours, the booking engine will go through your schedule (limited by the booking hours) and find options where a 2-hour booking can fit. To set up the duration of the service, go to your Price Book. The system also offers available times in 30-minute increments to give more flexibility to your customers.
+
+[Image] https://downloads.intercomcdn.com/i/o/822725835/f50467e83d35a9ced65bfa40/image.png?expires=1763568000&signature=e21f736131e5f94c813453c96bf0fa2d7790af9dc5283929f50ef83dc5e606d8&req=fCIlEct7lYJaFb4f3HP0gGxBCif89pbbSWF7Kd1w%2FoEanhvgIwLBP6zx%2BczB%0A7YyFosUBKzDjGKw%2BFQ%3D%3D%0A
+
+---
+
+---
+
+Employees
+
+---
+
+How does the "Assign service to an employee" feature work?
+
+If a service is assigned to an employee, it means that only this particular employee can perform this service. This means that the booking engine, when looking for available time slots for booking a particular service, will look only into the availability of that particular employee. Please remember that this employee needs to be enabled for online booking.
+
+To assign a service to an employee:
+
+- Go to your Price Book and find the service you want to assign to the employee.
+
+- You can assign a service to one or many employees. You can also assign a service to an Employee tag.
+
+---
+
+How do I enable employees for Online Booking?
+
+When proposing the available time slots to your customers, the booking system looks only at the availability of employees who are enabled for online booking.
+
+Let's say you have 2 employees who are available on Monday from 1pm to 2pm. This means that Customer 1 will be able to book a job/estimate of 1h duration on Monday from 1pm to 2pm, and Customer 2 will be able to book a job/estimate of 1h duration on Monday from 1pm to 2pm.
+
+If more customers would like to book this particular time, they will not see it as available.
+
+---

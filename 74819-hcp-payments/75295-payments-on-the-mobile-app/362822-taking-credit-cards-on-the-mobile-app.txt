@@ -1,0 +1,85 @@
+Taking Credit Cards on the Mobile App
+Source: https://help.housecallpro.com/en/articles/362822-taking-credit-cards-on-the-mobile-app
+Author: Nate H
+Last updated: Updated over 6 months ago
+
+Summary: Use Housecall Pro to take credit card payments from your customers on the spot.
+
+Taking Card Payments on the HCP Mobile App
+
+One of the best parts of this technology is that you can take credit cards right through the app without any additional downloads!
+
+To take payments on the HCP mobile app:
+
+- Navigate to the Job Details page and tap the 'Pay' icon at the top of your screen.
+
+Table:
+Row 1: iOS (iPhone/iPad) | Android
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/122552461/4c16ff8a5a9e13b0f45b9973/Screen_Shot_2019-05-20_at_12_04_34_PM.png?expires=1763568000&signature=a1041572648b74d3caffd16cf41849e06ade41dc43f32eb55b00f0c4d536c5cb&req=dSIlE8x8mYdeFb4f3HP0gIok8RXdaUUkxDZdGnsuTCj7aZHEKaoyLO7SfvM5%0A68o%3D%0A | [Image] https://downloads.intercomcdn.com/i/o/189815305/40ebf868642a25401bed1822/image.png?expires=1763568000&signature=c0370cbb15967c27d6d52dec259fc2d61ae4ee4e30d518b6b5c1b56cc92cdb90&req=dSguHsh7noFaFb4f3HP0gHuLOoGb4ew3puHUjJgWNcoms2FDv8nWsNJf2PtK%0AcN0%3D%0A
+
+- Next, confirm the payment amount on the Checkout screen.
+
+- If taking a partial payment, tap the Job amount box to adjust the amount that your customer is paying.
+
+- Add any notes for the payment, then tap 'Next' in the top right corner of the Checkout screen.
+
+Table:
+Row 1: iOS (iPhone/iPad) | Android
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/122552989/376698e7a8a3283c6cab0c6b/Screen_Shot_2019-05-20_at_11_57_40_AM.png?expires=1763568000&signature=88fde11f682f783740544279db53817e45f876e318e4b3cb482c1341b3c726a0&req=dSIlE8x8lIlWFb4f3HP0gJ1eTRDofMuxV2ckMO1U%2FQYkGXlvAP7XdHKz04%2Fk%0AdGo%3D%0A | [Image] https://downloads.intercomcdn.com/i/o/189817708/3773f8190ed5a693e8fbcf03/image.png?expires=1763568000&signature=3ad62aca5ca6eda0974adf60e0b7202a13f13b559d9a42dd87a67bf1c07119e7&req=dSguHsh5moFXFb4f3HP0gMsWZBWCGMycf9d0rWJK7hy%2FacV6av1BdIgpWAqH%0A37s%3D%0A
+
+- Next, select the payment type by tapping on the form of payment you are receiving:
+​ - Credit Card (select only if you use our credit card processor).
+- Cash
+- Check
+- Other (select if you are using any other credit card processor).
+
+Table:
+Row 1: iOS (iPhone/iPad) | Android
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/122553171/68e5394f208aa202a3ae9266/Screen+Shot+2019-05-20+at+12.08.20+PM.png?expires=1763568000&signature=42d1ae591894cdeeff1a4b0803a94a546c7bf36ea886f1645a8fc6b7fca3ed1b&req=dSIlE8x9nIZeFb4f3HP0gMZqegyy99zDdwZmcPk6FpO2dsaSJJ6kpmOERCTF%0A%2FbU%3D%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1203394273/eb75f6c759930711482b54be36c2/image+%2829%29.png?expires=1763568000&signature=dc64bbb92f0397c43a568cd4e86dd5cba83170b3b303fbd8d5c65d84af96d438&req=dSInFcp3mYNYWvMW1HO4zfzpHIhVCB1dH6UKxNdmZKvpYrO9oFXIXsf1ysq9%0AoQIe%0A
+
+- When you select the Credit Card payment option, you can: 
+​ - Manually enter the card number.
+​
+- Tap 'Scan Card' to scan the card with your device's camera. 
+ - This will automatically input the card number. 
+ - The expiration, zip code, and CVV must be entered manually. 
+ - The app will need access to your camera, so make sure to allow it permission. 
+​
+- Tap 'Card Reader' if you have a Housecall Pro Card Reader and would like to swipe, tap, or chip the card. 
+ - If the 'Save card on file' option is enabled, you will not be able to use the Card Reader.
+
+Table:
+Row 1: iOS (iPhone/iPad) | Android
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/1194921026/36e9570b3ed30a615079d5ab/Screen%2BShot%2B2019-05-20%2Bat%2B12_12_58%2BPM.png?expires=1763568000&signature=1a4f49bce11be92407838e747b08083c50a0fd6f269fecacfd120ecd82f0622a&req=dSEuEsB8nIFdX%2FMW1HO4zflifgqZkWpeOgtUzapChE6ZjQKJIFYnU8LMOby4%0Ad0Mv%0A | [Image] https://downloads.intercomcdn.com/i/o/189818703/48081d856bcebaefbd250d14/image.png?expires=1763568000&signature=db147b1980d2aa5fc5d2be24dd82868ce0e4a5b963be6bb5841895674f87998f&req=dSguHsh2moFcFb4f3HP0gOXTKSI4E48OieFqmNxRDiw%2BI4EGLoSl31ba4Ce5%0AQW0%3D%0A
+
+- You will then see a screen confirming the completed payment.
+
+- A receipt will be emailed to your customer and to your company's support email address. - If you have the Text Messaging feature on your account and your customer has a phone number in the mobile field of their Customer Profile, they will also receive their receipt via SMS.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1234402536/6c125d1a2d6b99f8fa99bd4ee5e3/PayConfirm3.png?expires=1763568000&signature=34ac22bde90a1243ed4bf27494cfd050e37c25da289e79da9e884e5dbaad7e9c&req=dSIkEs1%2Bn4RcX%2FMW1HO4zZeU5vu%2FJJxN2vwBqUccmpjBgfbq%2BDd%2Fhd%2BDYB7c%0AWstRP1q1Edhdo%2BRwI%2BQ%3D%0A
+
+---
+
+Video Tutorials
+
+Taking Payments on the HCP Mobile App (iPhone/iPad):
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/oecudbee52
+
+Taking Partial Payments on the HCP Mobile App (iOS):
+
+[Video - loom] id=1e44a90b4f42467eb7171343dc3020a9
+
+Taking Payments on the HCP Mobile App (Android):
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/u79mkr3vwd
+
+---
+
+---
+
+Learn how Instapay can typically have your card or bank (ACH) payment in hand in less than 30 minutes.
+
+---
+
+​

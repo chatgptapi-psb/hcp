@@ -1,0 +1,165 @@
+Managing Employees & Contractors in Payroll
+Source: https://help.housecallpro.com/en/articles/8695025-managing-employees-contractors-in-payroll
+Author: Amparo D
+Last updated: Updated over a month ago
+
+Summary: Learn how to add employees and contractors to your Payroll in Housecall Pro.
+
+Add Employees & Contractors to Payroll
+
+To add employees and contractors to your Payroll:
+
+- Click on the Payroll tab in the navigation bar at the top of your Housecall Pro account. - Depending on the size of your browser window, you may need to select More, then Payroll from the drop-down.
+
+- Next, select Employees & contractors from the menu on the left and click the blue Add team member button in the top right corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1580744622/71187fa514c6f53e259d0c63f6a1/Payroll4.png?expires=1763568000&signature=d8b4a3755ddcf3311b62e324b1c2ea6b301bec94bcd32af71ec72860fa3c6f53&req=dSUvFs56mYddW%2FMW1HO4zSEG5zy1AHGncsDvB76B3wCave2nKnos9PMbZEcJ%0Af9%2Bty56bc%2B%2FJtZKMCEs%3D%0A
+
+- Select an existing team member, or select the New team member option, then click Add in the "Add team member" window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1580744617/dd7785ce6e53d3bf15a133ed3843/Payroll5.png?expires=1763568000&signature=a903864c28b10aebec23b7a81ecc891d6a0b9b1845e390c6dc50fba7686cd2e5&req=dSUvFs56mYdeXvMW1HO4zeAGX5NxQ%2Ftqls2TT9w11Xp83snv3P5sEMJKshwn%0A829AE%2FyzYvMSDptjeeY%3D%0A
+
+- Enter the required information: Date of birth, employment type, start date, address, and employee/contractor full name.
+
+- Click Save in the top right corner once completed.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1580744620/5a642f189a4873eb33752aee7d65/Payroll6.png?expires=1763568000&signature=8955824925656d902b529e80284f7ed34ff06561a114535828c81cf4872f16d2&req=dSUvFs56mYddWfMW1HO4zZLkfXDkTnNwk6yurRl8J%2FNvp86GAsONi%2BqCu5je%0AuUmQl%2B9YL4YJt9hBa%2BQ%3D%0A
+
+- Once saved, your team member will show up in Payroll → Employees & contractors.
+
+- If needed, you can request the Payroll Admin permission for your team member by reaching out to our Chat Support team via the Blue Chat Bubble in your Housecall Pro account.
+
+---
+
+Send an Onboarding Link to Employees & Contractors
+
+The Payroll onboarding link will allow your employees and contractors to enter their direct deposit information and social security number, and select their withholdings.
+
+Repeat this process for any Employee or contractor who needs to be added to the payroll.
+
+To send the Payroll onboarding link to employees & contractors:
+
+- Click on the Payroll tab in the navigation bar at the top of your Housecall Pro account, then select Employees & contractors from the menu on the left. - Depending on the size of your browser window, you may need to select More, then Payroll from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1580744614/75ce6c70f9cc9f6a833d5685e62d/Payroll7.png?expires=1763568000&signature=d63c7401e7ff64b881b6eee4df770a64851f594f4c52e1bc6367d8969499cdba&req=dSUvFs56mYdeXfMW1HO4zeztALpz5WPYYOd7kYyek1icPdoSSwvND2wYB3zs%0A1GLiubkHL5VQ2jtAF88%3D%0A
+
+- Locate the profile of the employee you need to send the onboarding link to and click Details on the far right.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1580744618/53125704fa8363eedbcc813cc8a2/AD_4nXeS7J_Mqe7SyuteXRredcz0qTVLrQNqr1StoCFHZKQrloVoIr-ub2Sg5SmboSR3ci6qMRbiMiX14mLljLCSroXQIIm63rTZUuQsdV5ODxHBsvVo0N116d0ms87jpVti1j2GnRhd?expires=1763568000&signature=9d115056cd607914057cfd66bc321e9886ca334aa9e76dc6791d761c44dbedee&req=dSUvFs56mYdeUfMW1HO4zQ4tjo889tI80IRiWT7Qjk0IGA4woKT%2Bo%2BXwem2f%0Ax7UYJNmfIj5XEMljjq0%3D%0A
+
+- Click Send in the top right corner on the yellow banner of your team member's Payroll profile. The onboarding link will be automatically sent to the email address the employee or contractor has set up on their profile, and you're all set!
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1580744619/7f0b0e53abe3cfe84c0ac6b5b81e/AD_4nXdu28oQMulLgQA8l0ObLMCwK0Mk1L0WIzqLD_-uW91scfoms_uw2w15tmjOry33WksClziiCKtIN4RdlzBb1M1fVnzefRbqcjsufkY03uQ3pqYzDkDhs7-m9XkWXdDuWLnvVOg?expires=1763568000&signature=d777b8f9d3dcc988008e8e3842872dd76f9f7bbe18f378515f313a78fa2ad871&req=dSUvFs56mYdeUPMW1HO4zWQ%2B8mZR31DMdsUm0StMZWRizy1Xz3nkdZqCDKBK%0AQJysgWiqHcPvAozW5zU%3D%0A
+
+---
+
+Why can't I see the date of birth or the last 4 digits of my employee's SSN in their profile?
+
+- When onboarding your employees/contractors to payroll, we require their date of birth (DOB) and SSN to complete their profiles. Once provided, we send the information directly to Check (our payroll partner) to complete the onboarding, but we don't store a copy on our servers. - For this reason, you'll only see asterisks in place of the DOB and SSN. This is done to visualize that this info was provided earlier, but we can't (and don't need to) retrieve it.
+
+- When editing a team member's profile, providing new values for their DOB or SSN will overwrite the existing ones.
+
+---
+
+Employee & Contractor Onboarding Statuses (Blocking/Needs Attention)
+
+Wondering why your employee is still showing as "Blocking" or "Needs Attention" in Payroll, even after setup? No worries! Here’s how you can quickly check what’s missing and get it resolved in just a few steps.
+
+By following this process, you can retrieve the required employee or contractor link without it expiring after 24 hours. Let’s make sure your team is all set for payday!
+
+To check the reason why the employee or contractor status is still displayed as needs attention or blocking status:
+
+- Go to Payroll > Employees & contractors.
+
+- Hover your mouse over an employee's current Onboarding status (could be Needs attention or Blocking), and the list of missing information for the employee or contractor will appear.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1580744611/406c1ebbc8224035b5ab7e8c4e89/AD_4nXfSYmFzzbbYi86J_DjGq7k4E4RZkfq3Lz7GHYp8cpkSOAr0UC_4rRniRLmjz5fKVCuaByY-mDHV6nYL9jim71PaJW7rqOKzivf-8Z5Hahmon8IQxJ-pI7K5u7EnXeS4xmIjb0HJ7w?expires=1763568000&signature=eb93efe8854fa439741628dfd83dfd1fb6198c7cb14e9443442ca9e4c8e1553e&req=dSUvFs56mYdeWPMW1HO4zT3Kq2p5gOJUOxVT94zOQkZQfVNG%2FrB99LHp%2FARy%0Ax9HR1KmUbeRIRg44W%2FU%3D%0A
+
+If an employee's or contractor's onboarding is not yet complete, here is how you can obtain the link directly from the Payroll Solution:
+
+- Go to Payroll > Employees & contractors.
+
+- Locate the profile of the specific employee you need to send the link to, and click Details to the far right.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1580744610/2506c5b2dc5a270b0174cf898c78/AD_4nXdSHR08yTvnHtODJMuxKwwfMW2NINOGH-169dft0-w9KMQ3I2nZ6JdNQMAAUgdXsU3O4ykkqMkcnvhjbiCjBeI4MwSfKZ6v8Y_eUgjhYfDM89metW8JTjyPUFNgQjDhHPpQossS2g?expires=1763568000&signature=737d09409e849bacfa4bf074e5ef59bee6b6d24283311497614b8f2a29cf9589&req=dSUvFs56mYdeWfMW1HO4zXCO63spbAG8suJomWW6lywd4ga4WSI3xV1yyDCD%0AKfKlSy%2FzLNDQQK0PCzc%3D%0A
+
+- A yellow banner will be displayed at the top of the page if the onboarding status is still incomplete.
+
+- Click Send on the profile information under Payroll Onboarding Status.
+
+- Once you've clicked Send, they will receive the onboarding link in the email they have set up on their profile.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1580744615/3b1a81ad031f8a37f1dbe133f676/AD_4nXfJ9PeNHpCf0VrgHcsLId6gqNzhUi5FxgGbUiKp0UPRLvy3_CsBgaJAnWuwjv7oYn0_tQCvBpZdWFOm0sMWrj0D7h6AzM2Cb_GScd7JhZKIObuTAENHxMT60o69Ki49uOXlNmBLsQ?expires=1763568000&signature=9b2c6a0dac75aadf40f47342fafdb111f625f2d104ebb77cc0bf55b9859ca38b&req=dSUvFs56mYdeXPMW1HO4zYU2tnpHC7XtvzMh%2BrCbPzR69Ychd5bGK1glNxeB%0Ala%2BepP0z0sBvoSDvRWc%3D%0A
+
+---
+
+How to Terminate & Archive an Employee from Payroll
+
+If an employee is leaving your company and they have an HCP login, you’ll need to archive and terminate them directly through the HCP website.
+
+To terminate a user from Payroll and archive their profile, follow these steps:
+
+- Log in to your HCP account on the web.
+
+- Click the gear icon in the top right corner of your account to access your Settings.
+
+- Select Team & Permissions from the left-hand menu, and ensure that the Team tab is selected at the top of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1656980329/1717b65ff5402738ff90dc0d6d9d/Screenshot+2025-08-06+at+10_45_26%E2%80%AFAM.png?expires=1763568000&signature=e50daa229a9ab59ec205c22dfb0dcaffa1a2c1cf84838c1d2f40580c9197d032&req=dSYiEMB2nYJdUPMW1HO4zdB16l2jIKLmMrNOidlk2TjEMo6vymQvnGZAJ%2FNK%0AWcwwDJ4a6ljZucqDL30%3D%0A
+
+- Click on the name of the employee you wish to terminate.
+
+- Click the Archive user button at the top of the page, and a confirmation window will appear.
+
+- In the confirmation window, uncheck the box next to "Keep this employee on payroll."
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1581086857/a2820f5e843d30f044f2321e0372/AD_4nXepWWzdQ-BtS3v4m32NZjfKJKOA7l-1S0AG0gy5oUDjAIB6rSrB0cY6AfvqXjMUmIvcBWU1jNgm_tp7aUgY8IBeW4SmtibsdJHfkcjo7gbiokiqhNB_B6G1ZuLU9UL7Y1EKR0rAgw?expires=1763568000&signature=952784ed341cd32247a6179bdfa87da18e7a9ebcf3508eeb881cb42ba3be57a3&req=dSUvF8l2m4laXvMW1HO4zWHhno%2Fx4nab6zvDBLrtwjrjS1pWBbjf4qQl9BGR%0AnDirrhaoVVBIAIt3KT8%3D%0A
+
+- Add the employee's termination date.
+
+- Click Archive employee, and the employee will be removed from both the Payroll list and Time Tracking list.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1581086994/e732b8c3001aac0d4a937bd4826e/AD_4nXdg2pUTP5cScW-2_6z-RYGq3B8MpWGa_qr41jfTuVjaQwGyQtp1IT5FwZFG8z7NrmjP8WYCDZxT2FgEDpVn68Dz6hbCZVRzgZMZVTESyreg3Erim9hQWxTMZ2Zans5p3sIxM3dr?expires=1763568000&signature=b9ae6ca0c92096036691142d3de5b07da09676835897e26861d2d44dcfc18837&req=dSUvF8l2m4hWXfMW1HO4zTr58haIRwnnN4Gb67J0yAOJCnzQvxEmgqybidBm%0ApgQibw7ZP7MTPQkDnkk%3D%0A
+
+🔁 Need to Rehire or Reactivate the Employee to the Payroll?
+
+If you ever need to rehire this employee or remove their inactive status, please contact Payroll Support directly. Only Support can:
+
+- Reactivate an archived payroll profile
+- Restore proper payroll functionality
+- Prevent any tax or reporting discrepancies
+
+---
+
+How to Terminate an Employee or Contractor in Payroll
+
+If you need to remove an employee or contractor from your payroll, you can do so quickly through your dashboard. Follow the steps below to complete the termination process.
+
+To Terminate an Employee or Contractor:
+
+- Go to Payroll > Employees & contractors.
+
+- Select the employee or contractor you want to terminate.
+
+- In the upper-right corner, click Remove from payroll.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1580744613/2541cd728db1db301fee093d0f05/AD_4nXclKgMCInBPkLNBHfMcJ9QQfUp0TFxZLul6nnFiAxIyqf2V9kwdN204G7sUkGCMy1LxMg-o3j718bgndaGIJIjlJqKjVz7bse6m1x-4UxYn9DeyUqLcf0Qh2Q0zb7KbFQ4Fg0Tx?expires=1763568000&signature=2967fc1036efc0152911e770ae75e4935228812f2e3ecfc46a64b827bd7e398d&req=dSUvFs56mYdeWvMW1HO4zVkrnMKc0eA%2B7UTJ5JUX8suMeHG8BD3p1QKO64E2%0AM3H7kUbdWbpZRD%2BMIwk%3D%0A
+
+- Enter the termination date, then click Remove. Once removed, the individual's profile will be automatically archived and will no longer appear in active payroll records.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1580744612/95a71e8a31934e1313a4f91e4ebc/AD_4nXfyXZziwSDQ-N-Lr2Ow_MJRI5G0WR1fBWDYzpM_DDEFCE12rStv7qmxcJg5q_4OIHTIeX_rpnUwLr2_EFzGGbDoPy9JmgVISdV28-0a5yASZSp-dXe_goWqt1Ae8uHHy5lcPwfI?expires=1763568000&signature=2939c6ffeef3f2ff9fae46ce2327aca2f29e2bfd26e5f24429ec4bb9eb895cc9&req=dSUvFs56mYdeW%2FMW1HO4zf1CHt1Tv25lYBTNXITFTWr0eZU7WSWOTZt1MGzV%0A4vuwIm2e4yMs4GqIhWk%3D%0A
+
+---
+
+Deactivate or Delete a Pay Rate for an Employee
+
+If you need to remove an existing pay rate for one of your employees, our team can help you with that. Please follow the instructions below to get started.
+
+To proceed with deleting or deactivating an employee's pay rate, please provide the following details:
+
+- Full name of the employee
+- The specific pay rate you’d like to delete
+
+Once we receive this information, our team will take care of removing the pay rate and will notify you once the update is complete.
+
+---

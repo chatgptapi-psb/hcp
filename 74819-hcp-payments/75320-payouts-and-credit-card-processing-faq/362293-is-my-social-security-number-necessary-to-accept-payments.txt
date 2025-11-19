@@ -1,0 +1,19 @@
+Is my social security number necessary to accept payments?
+Source: https://help.housecallpro.com/en/articles/362293-is-my-social-security-number-necessary-to-accept-payments
+Author: Nate H
+Last updated: Updated over 4 months ago
+
+Is my social security number necessary to accept payments?
+
+- Yes, if you’d like to accept payments using our payment processor, you will need to enter your social security number. If you’re not interested in accepting credit card payments you will not need to enter your social security number.
+
+- Providing your Social Security Number and home address is a requirement when applying for most merchant services accounts. This mandate is part of the 2001 U.S. Patriot Act and is used to verify identities to protect against illicit activities.
+
+- Stripe (our payment processor) has been audited by a PCI-certified auditor and is certified to PCI Service Provider Level 1. This is the most stringent level of certification available in the payments industry. To accomplish this, we make use of best-in-class security tools and practices to maintain a high level of security at Stripe. 
+​
+
+---
+
+Learn how Instapay can typically have your card or bank (ACH) payment in hand in less than 30 minutes.
+
+---

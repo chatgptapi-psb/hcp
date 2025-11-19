@@ -1,0 +1,70 @@
+Ply Inventory Management Integration Overview
+Source: https://help.housecallpro.com/en/articles/10431432-ply-inventory-management-integration-overview
+Author: Joanna D
+Last updated: Updated this week
+
+Summary: Learn how the Integration between Housecall Pro and Ply works.
+
+Ply Inventory Management + Housecall Pro
+
+Ply helps businesses across industries streamline inventory and ensure timely replenishment. By syncing Ply with Housecall Pro, all materials and categories from HCP Price Book will be added to the Ply catalog and enable two-way synchronization (including material creation and modification).
+
+From plumbing to HVAC, Ply’s customizable tools adapt to your unique needs, keeping materials organized and ready for every project:
+
+- Scan and Import: Easily audit and manage inventory with one-click scanning, barcoding and seamless integration for importing price book and material list data.
+
+- Manage Truck and Warehouse Stock: Warehouse managers and field technicians can leverage simple workflows to allocate materials, attach them to invoices for job costing, and transfer tools and equipment between locations.
+
+- Automate Replenishments: Enable auto-generated lists and direct requests to purchase managers or suppliers, eliminating the need for manual counting by technicians.
+
+- Centralize RFQs: Manage all replenishment and purchase requests in a single view, with automatic price shopping and detailed status tracking across suppliers.
+
+Table:
+Row 1: Ply Dashboard:
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1353595749/a0780428b7a2ac6b1caac83d3454/AD_4nXeRoqtTQf2qG7nr1JSUCE8SOdNFNgN85xTHK1eHK1viVY4s_twYj2fEPHaG4W8sveCx8zdbw3WZlzY7-xoa4TbEqkimAl_YIBmf8kbioQEAuvCVRvr9I6ijTdEhJ_zopGbYeH97Cg?expires=1763568000&signature=94231258c6fb84888899d25ce72640a1bab8d2193f8a5802837ea2ad145e5b77&req=dSMiFcx3mIZbUPMW1HO4zex%2FBvkg7fswiqdwSh51KYNeR4uNVysL7k%2BpZbJb%0AwUpi%0A
+
+Table:
+Row 1: Order Management:
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1353595750/e6fa1102e9ef070a24b4cfa3dac6/AD_4nXewsklWcZBvpTGVQ1q9rx3Antlz6X8lsWCUuPCWjd15fZIUe1k4fUhTAYaMuCl_eZwbTNNHAYIREAyQAj7JbJbT_lF2F618eafTSCxSvdzETHc9l_HXVYQh5jS1BhT1NZblA7Y6JQ?expires=1763568000&signature=dcf8c2c2210edf4f306deec90d5e9285d06ea7742cd4b4b6b7194b0a72dd1c6c&req=dSMiFcx3mIZaWfMW1HO4zVt%2F2P9OYXRMyC2Br9iKlieZ1xkyXCRrsZQusqw%2F%0AFvjU%0A
+
+---
+
+Connecting Housecall Pro and Ply Inventory Management
+
+How to Connect Ply with Housecall Pro
+
+- Log into your Houscall Pro account.
+
+- From your Housecall Pro account, navigate to the app store and click on Ply Inventory Management.
+
+- From the Ply Inventory Management app store page, toggle the activation switch on the top right, and click connect account on the popup.
+
+- Authorize the connection.
+
+- Select your primary warehouse.
+
+- Optional- Select users and permissions
+
+How to Disconnect Ply from Housecall Pro
+
+- Log into your Housecall Pro account.
+
+- From your Housecall Pro account, navigate to the app store and click on Ply Inventory Management.
+
+- From the Ply Inventory Management app store page, toggle the activation switch on the top right, and click disconnect on the popup
+
+---
+
+Video Tutorial
+
+[Video - youtube] https://www.youtube.com/watch?v=umaV21-bHcM
+
+Pro Power Hour: Ply Inventory Integration
+
+[Video - youtube] https://www.youtube.com/watch?v=amzHs9Q_7K0
+
+---
+
+Ply Support
+
+---

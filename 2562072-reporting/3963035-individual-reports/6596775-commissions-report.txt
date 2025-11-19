@@ -1,0 +1,82 @@
+Commissions Report
+Source: https://help.housecallpro.com/en/articles/6596775-commissions-report
+Author: James N
+Last updated: Updated over a month ago
+
+Summary: Use the Commissions Report to view commission costs and sales performance by employee over time.
+
+Overview
+
+After assigning employees to line items and tracking commissions on jobs, the Commissions Report provides a breakdown of:
+
+- Total commission cost per employee
+- Line item sales data
+- Conversion rates and job count performance
+
+---
+
+How to Access the Commissions Report
+
+- Click the Reporting tab in your top navigation bar.
+
+- Select Jobs from the menu on the left.
+
+- Click Commissions under the Employee section.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1633175021/e5eecd7f685603f83588223f44c3/Screenshot%2B2024-07-17%2Bat%2B4_17_17-E2-80-AFPM.png?expires=1763568000&signature=b876d7715471fcadc0f8b21a0afac8b3947efe5172e5afb57dd29ffe48285fe3&req=dSYkFch5mIFdWPMW1HO4zR642zQJAyCPvLexVojxwHWBhxHnpPVmEplSklr3%0AOgUwoZtj0QUsSSXRa54%3D%0A
+
+You’ll see:
+
+- Commission Cost: The total payout amount assigned to each employee.
+
+- The report includes full customization tools to tailor the data view.
+
+---
+
+Report Features
+
+Customize your report using these tools:
+
+- Date range – Use the top-left dropdown to filter by date.
+
+- Action date – View data by job created, scheduled, or completed date.
+
+- Filters – Use the Filter button to narrow your results.
+
+- Group by – Click Edit columns (bottom right) to group by: - Employee
+- Job type
+- Business unit
+- Tags, lead source, and more
+
+- Metric toggle – Switch between views using the dropdown in the top-right of the graph.
+
+- Save view – Click the Save button to store a custom report setup.
+
+---
+
+On Job Sales by Employee Report
+
+For a more detailed sales breakdown by team member:
+
+- Click the Reporting tab in your top navigation bar.
+
+- Select Jobs from the menu on the left.
+
+- Select On job sales by employee under the Employee section
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1633184813/7a8163af29e808c1f73c2aff06cc/Screenshot%2B2024-07-17%2Bat%2B3_27_15-E2-80-AFPM.png?expires=1763568000&signature=57d3a167a700db933c3769d33b44c3abd987ed6e59e3cd96c1772427186937cd&req=dSYkFch2mYleWvMW1HO4zY9maw0Q%2FYBH%2BjLNDh14Pg2CDYIBxwY1y4tImllC%0A6GNbrhfHDCNuLjy6vSo%3D%0A
+
+You'll see these metrics:
+
+- Total Sales – Total value of all line items assigned to each employee
+- Average Sale – Total sales value ÷ number of sales
+- Sales Count – Total number of items the employee sold
+- Job Count – Number of jobs the employee was dispatched to
+- Jobs with Sale – How many jobs included at least one sale by that employee
+- Conversion Rate – % of jobs where the employee made a sale out of all jobs dispatched to
+
+Click any row to view the full list of line items sold.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1633185086/ba3bf97b430ac9a32ef818103b6a/image.png?expires=1763568000&signature=6a81c5c324ccaabbc35f69a7afa55befa83126c9e086419d1aaf031bbbd6a626&req=dSYkFch2mIFXX%2FMW1HO4zYFOfXuCyiXGBK0SRLlUtLDNYUD%2FfA6xSfuENhBO%0A0%2BGdboRFRaOvpIZVQS0%3D%0A
+
+---

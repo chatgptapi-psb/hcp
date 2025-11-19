@@ -1,0 +1,100 @@
+Service Plans Dashboard Overview
+Source: https://help.housecallpro.com/en/articles/2932107-service-plans-dashboard-overview
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: How to read your Service Plans Dashboard and use each section.
+
+---
+
+Access Your Service Plans Dashboard
+
+To access your Service Plans dashboard:
+
+- Go to My Apps (3x3 square) in the top right corner of your HCP account on web.
+
+- Select Service Plans from the dropdown.
+
+- The Service Plans dashboard includes: - Plan Summary
+- Recurring revenue
+- Plans we offer
+- Due for billing
+- Unscheduled visits
+
+[Image] https://downloads.intercomcdn.com/i/o/625010986/5c628f8335c54f63a70e8e8a/Navigating+to+service+plan+dash.gif?expires=1763568000&signature=aa48dfe4e2851d78d713152e5f8299e3d40ed7877528fd5950b78d3f640e5359&req=ciIiFsh%2BlIlZFb4f3HP0gM4kgFRVAyCBXe1g2gsd9hjerGaFP7ERLejd17hO%0A5oSjdDxAFotkxE%2FMwQ%3D%3D%0A
+
+---
+
+Plan Summary
+
+The Plan Summary section of your Service Plans dashboard displays the total number of Service Plans you have set up with customers as well as all-time revenue.
+
+Several distinct service plan statuses can be viewed from your plan summary page:
+
+- Active: The plan has been accepted. It is upcoming or currently active in duration.
+
+- Draft: The plan has been added to the customer's profile, but hasn't been sent or accepted.
+
+- Sent: The plan has been sent to the customer, but hasn't been accepted.
+
+- Expiring Soon: The plan will expire in 30 days.
+
+- Expired: The plan was active, but the end date has passed.
+
+- Pending Renewal: The Renew button has been pressed on an expired plan, but it hasn't been accepted on behalf of the customer. The customer has been sent the service plan renewal email, but has not yet accepted the plan.
+
+- Renewed: A preexisting Service Plan that expired has been accepted and renewed.
+
+---
+
+Recurring Revenue
+
+- Displays expected monthly revenue based on your current plans with customers.
+
+- Hover over each month to see the estimated amount.
+
+---
+
+Plans We Offer
+
+- Lists all the Service Plans you have created for your business.
+
+- Note: When 'Continues until customer cancels' is selected in the plan duration section, there will be no total cost for the plan (see above: Gold Plan #2)
+
+---
+
+Due for Billing
+
+- Displays upcoming and overdue payments for active plans.
+
+- Clicking on View All will allow you to filter and sort due payments.
+
+---
+
+Unscheduled Visits
+
+- This list will act as your reminder to schedule actual appointment times for upcoming and overdue Service Plan visits for active plans. For a step-by-step guide see Schedule Service Plan Visits.
+
+- Hover over any visit row to schedule or associate an invoice.
+
+- Clicking on View All will allow you to filter and sort visits.
+
+---
+
+Create a New Service Plan
+
+You can create a new plan template by clicking the blue + Service Plan button or the + icon in the Plans we offer section of your Service Plans dashboard.
+
+---
+
+Video Tutorials
+
+Dashboard Overview:
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/ottvb1kecy
+
+Due for Billing Report:
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/et8af79b7s
+
+---

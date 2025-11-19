@@ -1,0 +1,172 @@
+Job Inbox Overview
+Source: https://help.housecallpro.com/en/articles/5541672-job-inbox-overview
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: Never miss an opportunity for a new job! Follow these steps to enable partners for Job Inbox, view your Job Inbox opportunities, and more.
+
+Job Inbox is a hub for all your leads and job opportunities in one convenient place. No more jumping between different apps or websites. Whether leads come from your own marketing or third-party services, Job Inbox keeps everything organized so you can focus on getting more jobs done.
+
+Job Inbox is located in your Housecall Pro Inbox. Just click on Inbox in the top navigation bar of your Housecall Pro account and then tap Job Inbox.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1689270081/716028886a2bdf6b206a9aa59ae8/AD_4nXczSJ7_ZBnC9-KERjuwKgX2ODprOltxep5QEe2TrRaCN0xvVjp3Ef5rMjc1moTL7gGuGlYs8dwBWdeHZjcwFtUjveUbdV7xm_ZjMpU3hZA5MqcplSyjYVwYwZ7Uw-ryycv6kH5HXg?expires=1763568000&signature=7fc66509032b2482073db7526ec8a6cd6155e05fa36233a19781bad5e5809345&req=dSYvH8t5nYFXWPMW1HO4zXpPpBP4TMOxp3PBSyyYTAdXlghSaCyvQwIlYlpj%0A6NKu1tU4gpbjQpYMPdU%3D%0A
+
+Integrations in Job Inbox
+
+Your Job inbox brings all your leads and job opportunities together in one place, no matter where they come from. We’ve made it easy to connect both external partner tools and Housecall Pro features so you never miss a potential job.
+
+Explore the available integrations, connect the ones that work for your business, and keep all your incoming jobs organized and ready for action.
+
+---
+
+---
+
+Housecall Pro Integrations in Job Inbox
+
+Job inbox works seamlessly with other Housecall Pro features to keep everything organized in one spot. These connections ensure every job request, no matter where it originates within Housecall Pro, lands right in your inbox.
+
+---
+
+API Leads
+
+API Leads allows you to connect third-party lead tools directly to your Job inbox so every new customer request automatically appears in one place. Once set up, leads flow into the dedicated API Leads channel where you can respond, convert them to jobs or estimates, and track the source for reporting. This integration gives you full flexibility to capture leads from any external system and manage them seamlessly within Housecall Pro.
+
+Learn more →
+
+---
+
+Online Booking
+
+Online Booking lets customers book and pay online directly from Google, your website, or a direct link anywhere, helping your business grow 24/7.
+
+Learn more →
+
+---
+
+Lead Form
+
+Lead Form allows you to capture leads from your website. This simple form can be customized in Housecall Pro settings and embedded on your website. The customers visiting your website can fill in this form, and a Lead will be created in Housecall Pro.
+
+Learn more →
+
+---
+
+Chats from your website
+
+The Website Chat Bubble lets customers message you directly from your website, with conversations appearing instantly in your Housecall Pro Inbox at no extra cost. Visitors can request quotes, ask questions, share photos or videos, and even start the booking process without leaving your site.
+
+Learn more →
+
+---
+
+---
+
+Partner Integrations in Job Inbox
+
+We’ve partnered with trusted external platforms so your leads flow directly into your Job inbox without any manual entry. These integrations help you capture opportunities from popular marketplaces, lead-generation services, and other industry tools—making sure you can respond faster and close more jobs.
+
+---
+
+American Standard
+
+American Standard is a trusted HVAC brand that connects homeowners with qualified service providers through its leads program. With the American Standard integration in Job inbox, new webform leads are delivered directly to your account with customer contact information and service details.
+
+Learn more →
+
+---
+
+Angi Leads
+
+Angi Leads connects you with homeowners actively seeking service providers in your area. By integrating Angi Leads with Job inbox, all new leads flow directly into your account with details such as contact information, availability, and the amount you paid for the lead.
+
+Learn more →
+
+---
+
+Google Local Service Ads (LSA)
+
+Google Local Services Ads are paid advertisements that place your business at the top of relevant Google search results, complete with a “Google Guaranteed” badge to build customer trust. With the LSA integration in Job inbox, leads and bookings from these ads appear directly in your account, allowing you to respond quickly and manage them alongside all your other jobs.
+
+---
+
+HomeServe
+
+HomeServe is a leading home warranty company serving millions of customers across the United States and Canada. Through Job inbox, you will receive real, pre-approved jobs directly on your calendar with a guaranteed trip fee and fast payment within 14 business days. Housecall Pro manages the partnership, so all you need to do is follow a simple checklist, complete the work, and get paid.
+
+Learn more →
+
+---
+
+Reserve with Google
+
+Reserve with Google is a free booking service that lets customers schedule your services directly from Google Search or Google Maps. When connected to Job inbox, these bookings flow seamlessly into your account through your Google Business Profile, making it simple to manage appointments and customer details in one place.
+
+Learn more →
+
+---
+
+Trane
+
+Trane is a trusted HVAC brand that connects homeowners with qualified service providers through its leads and marketing program. With the Trane integration in Job inbox, new leads from Trane’s webforms automatically appear in your account, complete with contact details and service requests.
+
+Learn more →
+
+---
+
+Thumbtack
+
+Thumbtack connects you with customers searching for service providers and now offers direct bookings through Job inbox. Once connected, your Thumbtack leads and instant bookings appear in your account with all customer details, and automatic messages are sent through both SMS and the Thumbtack platform.
+
+Learn more →
+
+---
+
+Yelp [Coming Soon!]
+
+Coming soon, you will be able to connect your Yelp business account and Yelp Ads directly to your Job inbox. This integration will bring your Yelp leads into Housecall Pro, making it easy to manage inquiries, share real-time availability, and turn Yelp visitors into booked jobs. With everything in one place, you can capture more customers and grow your business effortlessly.
+
+Sign up for early access →
+
+---
+
+---
+
+How to Enable or Disable Integrations in Job Inbox
+
+- Click the My Apps icon (3x3 square) in the top right corner of your HCP account on web, then select the Job inbox app to view your Job inbox settings.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1689283829/c1613d8b4504107b5ea9c49c004d/AD_4nXfCXZ5CIXIr8OnkZF010SGiLaM-oOwMheOG8U5gAL_dGCMZPI4ugqq6dgNYy-O_wpLomaJrCX06GRzYMBUgSh92B5JHpZMc_35QMcB71vqFdSWpfkMX0w6kf66XIoVNx1ph6kxkXg?expires=1763568000&signature=b0b068ef09d5635481d48a2791c8f4c4d58862de9bdaa46514810e4be5dba61f&req=dSYvH8t2noldUPMW1HO4zRmzL3nfLvnlJ37xAw3v77Rr7dNoas2U%2BjKvgKFJ%0AwRRSZFV8i4mvHJMfqOA%3D%0A
+
+- You can toggle the integration for each partner on/off. - The toggle will turn blue when a partner integration has been enabled and gray when disabled.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1689283842/85256cf98cf691766f9dc9366d56/AD_4nXc4cXtTYPY2i-UZjTr4nykHhnRw950x3OLSyUn1Qqh0V4XolW5ZPO0wqUGlIlHPtDkjvzn2-Q_F75yZ81fti7jZmLfOFckrakxiZlNUbY-HY624DZlYTbR1KSyaaSoBPwF6qcPomw?expires=1763568000&signature=6e76dab16b58713922ad49f4aa9a6b39f684d3a451d53b23186812a859ffd7f1&req=dSYvH8t2nolbW%2FMW1HO4zTe2H8W%2Fn%2F0sH%2BgsMpk4mmVya0xu6iIbSyNvg9LE%0AClV%2FM6ZoSq6GOAwKF%2FU%3D%0A
+
+- Now that an Integration is toggled on, you can go back to the Job inbox and connect the partner by navigating to that inbox. - Click the back arrow in the top left corner to exit the App details screen, then go to Inbox > Job inbox and select the thread for the partner integration that was enabled.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1689283836/564ebf1042811f95f45c15d7e8d7/AD_4nXf3JZZbLNw7ikx0s8jojTZp3xUya3FTK_zbtyLS6vfXBMbFRlKtqPHoaNpgurIFu_96K4pZYjVE_GZVzZHWzMqAGt2gZLRJAEItsga_vF1xaW9u9gEWWuHrI9PXdY78ruV2PF9K?expires=1763568000&signature=761ebdfeaacdcf19e719ffeaacae22d626007488a3006f0a89bde1123c5e7c77&req=dSYvH8t2nolcX%2FMW1HO4zQnE4E3WnnWQpX1Ja9yc0g6fySVEdPn%2B8uucgfis%0AZfdgWcHH08vuL2oV3T4%3D%0A
+
+---
+
+How to View Job Inbox Opportunities
+
+When a new partner job or lead is passed to you, you'll be able to view the job details within your Job Inbox channel in the Housecall Pro messaging feature. This visual organization is the next step in our goal of making Job Inbox the easiest way to receive and manage your third-party opportunities.
+
+To view your Job Inbox opportunities:
+
+- Click the Inbox tab in the navigation bar at the top of your Housecall Pro account.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1689489731/095fad9c1ce54d1ab47d5812b8e5/image.png?expires=1763568000&signature=c53a10b50ce2aaab03649a5839c03177fe4c606c6f913794b5c13ff1df18c95e&req=dSYvH812lIZcWPMW1HO4zd0eCAShutZ73P2ma%2BAz7C9S2HWmiXo7oI1%2BppzV%0Ax4biCIa4ft2z0KT9m5A%3D%0A
+
+- Select Job inbox from the menu on the left, and you'll see that each partner has its own separate channel within the Job Inbox.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1295234391/2e4711deaa64c5d5a57116f78993/Screenshot_2024-12-12_at_11_07_45%E2%80%AFAM.png?expires=1763568000&signature=2b859c92ca5624b540a2d962aad0a50fdd9d2c810633b5fe7430abf17998c6f9&req=dSIuE8t9mYJWWPMW1HO4za0I1ZQpfKlUobd5mYh4oV%2BdgCdKf%2B28RsSidCiE%0AMRzltH6QYY1iNvZL8UU%3D%0A
+
+- You can click on each partner channel to view all past and present jobs sent to you by that partner. - For example, if you click on the HomeServe channel, you will see a list of all jobs you have received from HomeServe, descending in chronological order.
+
+[Image] https://downloads.intercomcdn.com/i/o/896647265/946b06d67aac645998d86d6c/Screenshot_2023-11-29_at_12_14_19_PM.png?expires=1763568000&signature=ffddb57cc706620cc3b8fa273208e6f86dab7422b7abecb47a86a8b74544be15&req=fCkhEM15n4daFb4f3HP0gFNILtLg1%2F6WZ8HPFBxGw6abA09fpsmPZ6hzTaqq%0Aiu5p9ed8nzZmGaWOQw%3D%3D%0A
+
+- When you click on a job, you will see the corresponding job card with all the job details.
+
+[Image] https://downloads.intercomcdn.com/i/o/896649215/3de90418d2f2038823f07095/Screenshot_2023-11-29_at_12_14_25_PM.png?expires=1763568000&signature=ace9ddb8648bf53c442d7e09645912d41ae57fde2e5eb76ddcc25ffd16d76e0e&req=fCkhEM13n4BaFb4f3HP0gP43ewaNLDp5WBlC6umJu3o8yW1KGa2HY19RVckv%0ASE4O0%2FFrwiZPC%2Bjr7Q%3D%3D%0A
+
+---

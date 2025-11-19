@@ -1,0 +1,48 @@
+Photo Annotations
+Source: https://help.housecallpro.com/en/articles/11145069-photo-annotations
+Author: Taylor M
+Last updated: Updated over 3 months ago
+
+Adding Annotations to Photos on Jobs & Estimates
+
+Photo Annotations enable Pros to effectively communicate with Field Techs, Admins, and customers. After taking a photo through the app, Pros can add drawings, shapes, text, and time stamps before uploading the image to a job or an estimate.
+
+To add an annotation to a photo:
+
+- Open a job or an estimate in the HCP mobile app and tap the + Attachments button at the bottom of the page.
+
+- Tap the camera icon in the top-right corner of the Attachments screen.
+
+- Select Take photo.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1289666632/6a26a0adba1233eeba8f8dc17944/IMG_2599.jpg?expires=1763568000&signature=1ff4e65dab4be32695f3b5f7d0e117728860d7a3201ac56b5cb3fb64b4493af6&req=dSIvH894m4dcW%2FMW1HO4zZCIMoI3u0Gw5XqxCmThwALFrLizfhs4T%2B0VRDJV%0AQ%2BfE%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1289668606/eaced7edeea58307d3b6b9732a93/IMG_2601.jpg?expires=1763568000&signature=7b4cea6502a4295ad690fa497d85160183332e3e8a599255696f6af7f2e36b9d&req=dSIvH894lYdfX%2FMW1HO4zUtoKmEycxgWz1%2BKAxJGdyQX0LRpP36c7pGWo40b%0Ak6HX%0A
+
+- Capture the photo, then tap Use Photo in the bottom-right corner of your screen.
+
+- You'll then be taken to the Edit screen, where you can add the following annotations: - Free draw editor (pencil icon)
+- Shape editor (shapes icon)
+- Text overlays (T icon)
+- Timestamp (clock icon)
+
+- Use the menu at the bottom of your screen for each option to further edit the annotations: - Drawing color and thickness
+- Shape and shape color
+- Text and background colors (for written text and timestamps)
+
+- Tap the Undo icon to undo your last edit.
+
+- Tap the Clear all icon to remove all annotations from the photo.
+
+- To save the annotations and upload the annotated photo to the job, tap Save in the top right corner of your screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1668651713/d8d5c8cca17de1c46f1c74fd6cd6/b9bd48df-271f-4748-a850-d31402b50ede?expires=1763568000&signature=c60c28986b497738466d41894ec7d60741e661a686fcc778b665079fc3f5b96a&req=dSYhHs97nIZeWvMW1HO4zShbVwxHb9xJ33vBcKhcVYstMXIDBdIXY9JXaXHT%0ANZkqkRNmfakRxJP%2FsTY%3D%0A
+
+- Once added, you can view the annotated photo and attach it to an invoice for your customer.
+
+---
+
+Video Tutorial: Adding Photo Annotations
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/i6w92hcv1o
+
+---

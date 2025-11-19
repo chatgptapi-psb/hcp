@@ -1,0 +1,256 @@
+Customer Intake: Request Guide
+Source: https://help.housecallpro.com/en/articles/11888575-customer-intake-request-guide
+Author: Nate H
+Last updated: Updated over a month ago
+
+---
+
+What is the Request Guide?
+
+The Request Guide is a customizable form that appears during the Request step of your Customer Intake process.
+
+By default, your account comes with standard questions. You can edit, add, or remove questions at any time, and include Reminders or Branches to guide employees and collect more relevant details.
+
+[Video - loom] id=bcb35d261cba4da68bf7ade93cd999f1
+
+---
+
+Access Your Request Guide Settings
+
+To access your Request Guide settings, follow these steps:
+
+- Click the gear icon in the top right corner of your Housecall Pro account to access your Settings.
+
+- Select Customer Intake in the left Settings menu.
+
+- Ensure that the Request Guide tab is selected at the top of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1658916226/8e6a881fa6a806c1085d0f8e05b3/Screenshot+2025-08-07+at+11_47_50%E2%80%AFAM.png?expires=1763568000&signature=7d278bf4cfe61456a85590a26c31b8acd466afda1972c04799ac05386ff579df&req=dSYiHsB%2Fm4NdX%2FMW1HO4zShU8OKDnnQsiK0%2BHRdUgkFk14%2F8f7%2Fmrv6IwjNT%0AAsjW93i361lUuBu2X3k%3D%0A
+
+---
+
+---
+
+Request Guide Questions
+
+Request Guide questions can be:
+
+- Single Choice: Customers pick one option (e.g., service type).
+
+- Multiple Choice: Customers pick multiple options (e.g., areas of a home).
+
+- Text: Customers provide a free-form answer (e.g. square footage of home).
+​
+
+---
+
+How to Add Questions
+
+- Access your Request Guide settings.
+
+- Click + Question at the bottom of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1707488508/8a810ecced65609cdb33c8e9dfc2/Screenshot+2025-09-03+at+12_08_48%E2%80%AFPM.png?expires=1763568000&signature=455bc07e92824455c851a3e14fbb686171e876826e480db9a4f590ce299cc201&req=dScnEc12lYRfUfMW1HO4zdTtv5jB7y3UXun7ZTgLilUXoJIwohnrz8GN6LCy%0AvziBpk9Kd1WPQ8ezvjk%3D%0A
+
+- In the sidebar, enter your question text.
+
+- Select a Type: - Single choice – Customers can select one option
+- Multiple choice – Multiple selections allowed
+- Text – Customers can provide a free-form response
+
+- For Single/Multiple choice, use the Answers dropdown to select an answer type: - Custom
+- Industries
+- Service types
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1707594460/26584a5bdf2173b62060fe2869d1/RequestGuideQuestions.gif?expires=1763568000&signature=ade4b07e76bf820724803d93d3a051dd7cecd7be65174b292dba47c90c2cf1f3&req=dScnEcx3mYVZWfMW1HO4zeLltWZSLEgPHyCq3An%2BUoWJ2JWblqchNUZX3S4R%0AqapP%2FUcFfFcDYVzmyng%3D%0A
+
+- Custom answers: - Add: Click + Answer and enter your custom answers in the text fields.
+- Move: Drag the handle (two bars to the left) to reorder your answers.
+- Delete: Click the X to the right of an answer to delete it.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1709320242/9df1a98ced8e993ab126cbfa696f/Screenshot+2025-09-04+at+11_25_31%E2%80%AFAM.png?expires=1763568000&signature=9013500afc5352f37cde24c4750f69c673afb4884685544e2bee6ab44fa5a5ad&req=dScnH8p8nYNbW%2FMW1HO4zXwWTCA8UocaxoikNPtqX7CWdHkEozwQxOXBGyzA%0A8fAJd9KRIh6wveed3BE%3D%0A
+
+- Industries: - Move: Drag the handles (two bars to the left) to reorder.
+- Show/Hide: Use the toggle to the right of an Industry to show/hide it for this specific question.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1709325303/065c42ad3a80ea0fdd0f1d7a6730/Screenshot+2025-09-04+at+11_27_23%E2%80%AFAM.png?expires=1763568000&signature=34d8be22f46e73eeb9e506f0b01ebd8ed2fd865860db030f8f5cd530687c6bb1&req=dScnH8p8mIJfWvMW1HO4zc2CbX6UcuAFVDNLK%2Bf2G9PVoeyZEi751nymPoBH%0AVKfVk8lTV2C5BDYEULw%3D%0A
+
+- Service types: - Add: Click + Service type to add a new service type answer.
+- Move: Drag the handles (two bars to the left) to reorder.
+- Delete: Click the trash can to delete a service type answer.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1709367941/07c9af25f21224aeb2da70968dfb/Screenshot+2025-09-04+at+11_29_22%E2%80%AFAM.png?expires=1763568000&signature=7a2531074666ba31947aef4c863fbf082bcd59f154326ff7d19318adf9307f9a&req=dScnH8p4mohbWPMW1HO4zc9KUcN6biL7Ncn9NIHvWmnf090FjiS2IaZFX8m4%0AxG1l57pBkRIoTDMJGlk%3D%0A
+
+- Add a Reminder for team members (optional).
+
+- Click Add in the top-right of the sidebar to save.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1709395648/099ab27180e20a4c53a5c376d430/Screenshot+2025-09-04+at+11_59_42%E2%80%AFAM.png?expires=1763568000&signature=3c3f4227b821e00706d9f30805049d5392bf4e3a6c3e9a519112d078ad2574c4&req=dScnH8p3mIdbUfMW1HO4zQrFq6cVvGnAZJYRm%2BnHQM8pSCif4qq2gEtT%2BGPG%0AWUHeNf8CCwpVfwdo%2FPE%3D%0A
+
+---
+
+Branching Questions
+
+Branching enhances your Request Guide by allowing you to tailor follow-up questions based on a customer's responses. This feature helps streamline the intake process and ensures you gather the most relevant information by presenting specific questions only when certain answers are provided.
+
+For instance, if a customer selects Cleaning as their service type, you can follow up with additional questions related to various cleaning tasks, making the information collected more precise and actionable.
+
+To branch a question:
+
+- Access your Request Guide settings and find the question you want to branch.
+
+- Click the Branch icon (two arrows) to the left of a question or the More icon (⋮) to the right, then select Add Branch.
+
+- In the Show for: section, select the answer that should trigger follow-up questions. The selected answer will be highlighted in blue.
+
+- Add your new question(s) or reminder(s).
+
+- Click Add to save.
+
+[Video - loom] id=03b5e19f02804f2e8cd533464ab0d0d9
+
+---
+
+Edit, Move, or Delete Questions
+
+- Access your Request Guide settings.
+
+- Click the More icon (⋮) to the right of a question.
+
+- Select Edit to change the question, answers, or reminder.
+
+- Select Move up or Move down to change the order the questions are presented.
+
+- Select Delete to remove the question from your Request Guide.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1709468776/e5b4d8d64b94772a77cd48c472a9/Screenshot+2025-09-04+at+12_32_36%E2%80%AFPM.png?expires=1763568000&signature=37172e384bf3924140f63f99b455ac52aca06ef1306fc2abb3fdbf4e38b31c46&req=dScnH814lYZYX%2FMW1HO4zemq4QnxXDvnbcg6F8z3Ht1ZE4WDt%2F1y7SsYgueD%0Az7wN9fVB0oHDs%2B8cif0%3D%0A
+
+---
+
+---
+
+Answers in the Request Guide
+
+For Single Choice or Multiple Choice questions, you can select:
+
+- Service Types: Predefined options include Install, Repair, Maintenance, Cleaning, Diagnosis, and Get a Quote.
+
+- Industries: Predefined based on what was input during your Customer Intake onboarding (e.g., Home Cleaning, Laundry).
+
+- Custom: Create your own (e.g., Regular Cleaning, Deep Cleaning, Move-In/Move-Out).
+
+---
+
+Add, Edit, or Delete Answers
+
+To manage answers in your Request Guide:
+
+- Access your Request Guide settings.
+
+- Click the More icon (⋮) to the right of a question.
+
+- Select Edit.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1709524597/7dc846d69ac3f4d3d08a826e3de6/Screenshot+2025-09-04+at+1_07_57%E2%80%AFPM.png?expires=1763568000&signature=e1e89498ec2f3b90bef255f74c7d09821947af43052c439224c75ff1ccc4c7da&req=dScnH8x8mYRWXvMW1HO4zenntGYw3tLVqh4LDFhFbRFhOSJPg7JhEtFGClqW%0A51SPRwsRZY%2Fx1n%2B0D9c%3D%0A
+
+Custom answers:
+
+- Add: Click + Answer.
+
+- Delete: Click the X icon.
+
+- Reorder: Drag the handle (two bars) to the left of an answer.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1709525756/b671370c511b7cdc82232ca16ca8/Screenshot%2B2025-09-04%2Bat%2B11_25_31-E2-80-AFAM.png?expires=1763568000&signature=56ac5a3215fcc228c78d65ac96d01320213c5234c798ece24572a0552a2c0c3b&req=dScnH8x8mIZaX%2FMW1HO4zeIW%2B9fH7bvx%2BGPqttvqCQP8NGy%2FtHfHVZRDPTFJ%0A%2FTdXp%2BaL6wvYyMRlybQ%3D%0A
+
+Industries:
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1709532032/c224336b2f8929f376a69400e650/Screenshot+2025-09-04+at+1_15_13%E2%80%AFPM.png?expires=1763568000&signature=b0eba8019088f8bff69f22fb6f22343d2821fb84aa34c138b685fd331301d496&req=dScnH8x9n4FcW%2FMW1HO4zVYqJbmU%2B6qfBVB4sfdaxYmvbNa1cI3%2F8%2BJMT5gH%0AMdRIZaEsbRGRlMq9eQE%3D%0A
+
+Service types:
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1709607858/71e944bc649d336ffef298eec0a4/Screenshot+2025-09-04+at+2_03_41%E2%80%AFPM.png?expires=1763568000&signature=4425c0bfc51934e712ebf34132b31bca5d200b742987a97d466dc22d6debc273&req=dScnH89%2BmolaUfMW1HO4zSMZRM%2Fca4H6BFXgpbcE%2Buxp%2B%2BvbwLtCkigoFmoh%0AITWHCgrHIQkZkpL56pk%3D%0A
+
+---
+
+---
+
+Request Guide Reminders
+
+You can add Reminders to guide team members while they complete intake forms. Reminders help ensure consistency and clarity in responses.
+
+You can add Reminders in three ways:
+
+- Before or after a question → standalone context between questions.
+
+- As part of a question → linked directly to a specific question.
+
+- As part of a branch → triggered only when certain answers are selected (e.g., if you select "Repair" as the response to a question and you want to include a reminder that all repairs include a service charge)
+
+---
+
+Add a Reminder Before or After a Question
+
+- Access your Request Guide settings.
+
+- Click + Reminder at the bottom of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1709310052/c991e75e70b31392303e80ff3494/Screenshot+2025-09-04+at+11_14_36%E2%80%AFAM.png?expires=1763568000&signature=5429c5b46be2529752b82245d47004fabe2ec0cc6f75def177e1fe8da08fd07c&req=dScnH8p%2FnYFaW%2FMW1HO4zUxLuhkuUlK%2B8lCvrcQO%2FRnyTrLOEUH8uIP%2F%2BEln%0AID5qdxC%2BsQzkDOhUcHM%3D%0A
+
+- Enter the Title and Note in the sidebar.
+
+- Click Add to save.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1709771865/bc56d9158a7e2cddc3560f5dfa57/Screenshot+2025-09-04+at+3_42_24%E2%80%AFPM.png?expires=1763568000&signature=474b0870dc0e2c7c95288027504ddb768b9f8c91f207642ec3034eb5622d3138&req=dScnH855nIlZXPMW1HO4zVOEwzVzWKFP8I0rxwYiuK86%2FLrz5c%2FV%2F4JsQo3R%0AhqHEHoArKlpC%2BP6xShw%3D%0A
+
+---
+
+Add a Reminder to a Question
+
+- While adding or editing a question, locate the Reminder field in the sidebar.
+
+- Enter your Reminder text.
+
+- Click Add or Save.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1709686673/f90280b4db352f230fabee128e48/Screenshot+2025-09-04+at+2_49_29%E2%80%AFPM.png?expires=1763568000&signature=c91690bb050f40eab63be78564e43155004a8962d7326848a355e05e81e0ed19&req=dScnH892m4dYWvMW1HO4zdUu%2Ff3rTC3bgWlgWHj%2BQLLLT7wuWroVscmPmMDG%0AblhXA6v9phk8ZD91J74%3D%0A
+
+---
+
+Add a Reminder to a Branch
+
+- Access your Request Guide settings.
+
+- Create or edit a branch.
+
+- Click + reminder in the expanded section.
+
+- Enter a Title and Note.
+
+- Click Add.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1709658279/71cd2e005acfba333f59158cf28b/RequestGuideReminder.gif?expires=1763568000&signature=ef9a6402e42495a3d252b2d35159a764b51bff3597ec61cfea7267cc795d3553&req=dScnH897lYNYUPMW1HO4zTu0mKMtNLJ%2BGnOW2ss1yh06UHjL5wSMrmUzDcae%0Ak7r9AED%2FJK4PozkICJs%3D%0A
+
+---
+
+Manage Reminders
+
+To manage reminders in your Request Guide:
+
+- Go to your Request Guide settings.
+
+- Click the More icon (⋮) to the right of a question (for question-level reminders) or a standalone reminder.
+
+- Select one of the following options: - Edit → Update the reminder text, Title, or Note, then click Save.
+- Move up / Move down → Reorder standalone reminders.
+- Delete → Remove a standalone reminder.
+
+---
+
+What happens to the information I collect during Customer Intake?
+
+After completing your customer intake, the information you gather from the Request Guide will be included on the new lead, job, or estimate under the Request Guide section.
+
+[Video - loom] id=1139588cdd6d41fd83607172715b8333
+
+---

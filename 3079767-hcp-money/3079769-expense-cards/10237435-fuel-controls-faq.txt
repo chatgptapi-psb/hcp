@@ -1,0 +1,100 @@
+Fuel Controls FAQ
+Source: https://help.housecallpro.com/en/articles/10237435-fuel-controls-faq
+Author: Jamie G
+Last updated: Updated over 3 months ago
+
+Summary: Now offering fuel-specific restrictions for Expense Cards.
+
+What are fuel controls?
+
+Fuel Controls are a feature of our physical Expense Cards that allow you to restrict purchases to fuel-only transactions. With fuel controls, you can:
+
+- Set spending limits.
+- Restrict purchases to gas stations.
+- Monitor transactions in real time.
+
+This feature ensures you stay in control and your team stays on track while making on-the-job purchases. Plus, you can order as many cards as you need—at no extra cost!
+
+---
+
+What is the difference between Expense Cards and fuel controls?
+
+Fuel controls are an advanced feature of our Expense Cards, designed to enhance security by restricting purchases to fuel-only transactions.
+
+---
+
+Can I use existing Housecall Pro Expense Cards with fuel controls?
+
+Yes! You can apply fuel controls to existing Expense Cards by updating your card settings.
+
+---
+
+How do I order an Expense card for fuel?
+
+To order your first Expense Card with fuel-only restrictions:
+
+- Go to My money in the top navigation bar of your Housecall Pro account.
+
+- Select Expenses > Expense Cards from the left menu.
+
+- Click the Add card button in the top right corner of the Expense Cards page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694762482/3d4268dd441e55545c6a3d30ae8f/screenshot_2025-08-26_at_10_47_13___am.png?expires=1763568000&signature=d2acf3368190fed3098179ca6d8063ed308889cbd817abe489fe60beddd1de9e&req=dSYuEs54n4VXW%2FMW1HO4zQvtNa1w4SS%2Bznh9h4IlswRpEg%2BU937zyClzM1KG%0AF3AxUqDDOTegyJRJ3ok%3D%0A
+
+- Select Physical Card.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694762788/88e93065398d435c072cbc1a293f/screenshot_2025-08-26_at_10_48_27___am.png?expires=1763568000&signature=c0d45973bcce8357754b495bb284a754113f9f170a1e23a90bd869d20152a7df&req=dSYuEs54n4ZXUfMW1HO4zZBcyQ4dqyCK8iv2jmIkvYg%2F7DTboTIXO9pxdIWp%0AKG1YfNiEX4fW%2Bhq%2By8Y%3D%0A
+
+- Use the Cardholder drop-down to select the team member you would like to order the card for.
+
+- You can use the Spending limit drop-down and Amount field to set a spending limit for the Expense Card (optional).
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694763443/0f76d344358e753294af4ca9b1d9/screenshot_2025-08-26_at_10_49_20___am.png?expires=1763568000&signature=4eac38d40ebf3064f036d9a4daeebb2202a93fbcf4a5447d76fa31a7bc42df1c&req=dSYuEs54noVbWvMW1HO4zWDtHgwobNCUXKA0Foa22%2BUO4f%2BmlZNRZCvV3wk7%0AMBKDr5G9rd6Mtnsacfw%3D%0A
+
+- Restrict the card to fuel-only purchases by enabling the Fuel purchases only option. The toggle will turn blue when enabled, and gray when disabled.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694766439/a81c49a65478a4965edb9a18e17e/screenshot_2025-08-26_at_10_59_46___am.png?expires=1763568000&signature=753c8c42eeef81d21045c37c78049259b47d09516f427a62d27ac0086df74f2d&req=dSYuEs54m4VcUPMW1HO4zRtr9WI%2FNzFFtIvpmLBbjqavYUMW3Y79ilqad0%2F%2B%0AZLys8ugk0l%2FD%2BnMpM0c%3D%0A
+
+- Repeat the process if you are ordering more than one card (you can order multiple cards within the same order!)
+
+- The Send to business address checkbox will be selected automatically. To send the Expense Card(s) to a different address, uncheck the box and enter another shipping address.
+
+- Click the Order card button to confirm, and your card(s) will be shipped to the address provided, usually within 5-7 business days.
+
+---
+
+How do I change the settings of my cards?
+
+To apply fuel controls to an existing Expense Card:
+
+- Go to My money in the top navigation bar of your Housecall Pro account.
+
+- Select Expenses > Expense Cards from the left menu.
+
+- Click the More icon (three dots) next to the card you want to update.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694765336/214708f225bec65ed391fd12f9de/screenshot_2025-08-26_at_10_52_03___am.png?expires=1763568000&signature=0e577f5d74323f170f3da6b622c33b66ceb72d0b1f717eaf5a19d027884ab06a&req=dSYuEs54mIJcX%2FMW1HO4zdAbVJRW6yw49%2BFiAK93TtFDqS8Sv186kGyG4Je9%0AXFlLt3NcQ8Dn7wqj6yk%3D%0A
+
+- Select Manage Card from the options.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694765414/9c0eadb39d273b859e8872d99734/screenshot_2025-08-26_at_10_53_21___am.png?expires=1763568000&signature=14d093b383bff69887efa6301442a2f627534ca565e5fc971de6199644eb966a&req=dSYuEs54mIVeXfMW1HO4zSK%2FazFiD%2FIZrJ%2BL2jplwf0sTVXM6oOLBJByubOF%0ASkCnfPYVtZtN4ILCbUw%3D%0A
+
+- Click the toggle next to Fuel purchases only. The toggle will turn blue when enabled and gray when disabled.
+
+- Save your changes! The card will now be restricted to fuel-only purchases.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694765730/923dfb95d00515a70aff8abdbd78/screenshot_2025-08-26_at_11_02_19___am.png?expires=1763568000&signature=7b514d0c2a4bb921895e91dcf2a6633090a8f8632a9d28311b69a26c88f6b8dd&req=dSYuEs54mIZcWfMW1HO4zQrNO1mof%2F%2BUXas%2BUn%2BkUYQJQkx9DHLVm4vJtwEh%0Aqn0gmUjFfJdCNYu%2Fz1Y%3D%0A
+
+---
+
+Are Fuel Controls available for my Virtual Expense Cards?
+
+Not yet. Currently, fuel controls are available only for physical Expense Cards.
+
+---
+
+What types of purchases can be made with a fuel-only Expense Card?
+
+Fuel controls limit Expense Card purchases to gas stations only. Cardholders can use Expense Cards with fuel restrictions to purchase both at the gas pump and inside the gas station.
+
+---

@@ -1,0 +1,296 @@
+Command & Control: Tags
+Source: https://help.housecallpro.com/en/articles/11525248-command-control-tags
+Author: Nate H
+Last updated: Updated over a month ago
+
+Overview
+
+Command & Control: Tags is a new addition to the Command & Control suite designed to help Franchisors maintain consistency and control across their franchise network. This feature specifically focuses on Tags management.
+
+Tags Management
+
+When Command & Control is enabled for Tags, Franchisors can:
+
+- Restrict Franchisees from creating, updating, or deleting Tags. - This includes preventing imports from creating a Tag.
+
+- Automatically sync Tags from the Template Account to all Linked Accounts.
+
+[Video - vimeo] id=1090598824
+
+This Support Article Will Cover the Following Sections:
+
+- What is Command & Control: Tags?
+- Important Terminology
+- How to Use Command & Control: Tags
+- Limitations
+- FAQs
+
+---
+
+What is Command & Control: Tags?
+
+Command & Control aims to enforce brand consistency across a Franchise’s network.
+
+Command & Control: Tags allows Franchisors to either allow or restrict their Franchisees' ability to modify Tags. Command & Control also allows Franchisors to configure Tags on their Template Account that can then be synced to their Franchisee’s accounts if they are linked to said template.
+
+- When Command & Control is enabled on the Template Account, then any of the accounts linked to that template will not be able to create, update, or delete Tags by any means.
+
+Background on Command & Control Functionality
+
+Command & Control leverages our HCP Account Cloning functionality. During the Account Cloning process, the Template Account will create a relationship between itself and the new Franchisee Account that is cloned from that template - this is known as a Linking Accounts.
+
+- Accounts that are linked to a Template Account are the only accounts that can be Commanded & Controlled.
+
+- Accounts can be linked to any Template Account within the Franchise’s Network.
+
+- Template Accounts do not have to fall under a specific parent account to be tied to a Franchisee’s child account.
+
+---
+
+Important Terminology
+
+Table:
+Row 1: Term | Definition
+Row 2: Control | The ability to allow or restrict Franchisees from modifying certain settings
+Row 3: Command | The ability to push and sync specific values of settings across franchise accounts
+Row 4: Template Account | An account that is used as the source of truth for franchise settings. New Franchisee Accounts can be cloned from this
+Row 5: Linked Accounts | Franchisee Accounts that have a relationship to a Template Account. Relationships are created by a new account being cloned from a Template Account
+Row 6: Template Settings Page | This is a page that lives on the Template Account under the Settings page. This is where Command & Control is enabled/disabled
+
+---
+
+How to Use Command & Control: Tags
+
+Enable or Disable Command & Control: Tags
+
+By default, the Allow editing of tags setting will be enabled, which means your Franchisees have the ability to manage their own tags.
+
+To enable or disable Command & Control: Tags:
+
+- Access your Template Account and click the gear icon in the top right corner of your screen to navigate to Settings.
+
+- Select Account Templates from the left menu.
+
+- Ensure that the Template Settings tab is selected at the top of the page.
+
+- Click Edit to the right of the Tags section to enable Command & Control.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1775765676/96cc1e6c29d6ea6b6b6b8fa58949/Screenshot+2025-10-13+at+10_49_17%E2%80%AFAM.png?expires=1763568000&signature=abf88a34f0d9951bfeeb17d46a3913b3736326f55adc449e267571187808bde8&req=dScgE854mIdYX%2FMW1HO4zVM2IovjiCA3NIYOSGqGkwS%2BqPK63GxndFpRvdap%0A1bo8nkH7o4DbXjxII40%3D%0A
+
+- Check the box next to Allow editing of lead sources, then click Save.
+
+- To restrict your Franchisee’s ability to manage their own tags, deselect the checkbox and click Save.
+
+- A confirmation window will appear, advising of the changes that will be made.
+
+- Click Save to proceed.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1775769007/7e8049a09baeb2f43e1b70fd03b6/Screenshot+2025-10-13+at+10_52_01%E2%80%AFAM.png?expires=1763568000&signature=4449401d537c934880db251afab3b071b024ba71be1825dd7710edc124393be3&req=dScgE854lIFfXvMW1HO4zZ%2Bnu%2B2aMpVxTPm1IIWl8zkaKCf9SZzjPeeXUgtC%0AjJAJoRmzKt7Bxp7Db5E%3D%0A
+
+Once you have confirmed your changes, Command & Control: Tags will be enabled!
+
+- Your Franchisees will no longer have the ability to manage their own Tags.
+- Franchisees will also receive all of the Tags that exist on your Template Account as their own tags.
+
+---
+
+What Happens When Command & Control: Tags is Enabled
+
+- Tags from the Template Account will replace existing Tags in Linked Accounts.
+
+- Linked Accounts will be prevented from modifying Tags.
+
+- An alert banner will appear on the Linked Accounts Tags page.
+
+---
+
+What do my Franchisees See When Command & Control: Tags is Enabled?
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1559323073/ed1e29b98737c44637109dd321ec/C-CTags6.png?expires=1763568000&signature=fc867c306694efefc0337a9841cf627374fa2c5051d9ccfd6fe0a4fc2944f448&req=dSUiH8p8noFYWvMW1HO4zWmOOF8%2FRmDodr8PKiw83dG9NQvNPwWZYMLupjly%0AsI9sJNaLpEqgUVCNlV0%3D%0A
+
+Franchisees are not able to:
+
+- Create new Tags
+- Edit existing Tags
+- Delete existing Tags
+- Will see an informational banner explaining the restrictions
+- Tags will be synchronized from the Template Account
+
+---
+
+How do I add, edit, or delete a Tag from my Template Account so that my Franchisee’s Accounts have the same Tags?
+
+In your Template Account:
+
+- Click the gear icon in the top right corner to navigate to your Settings.
+
+- Select Tags from the Settings menu on the left.
+
+- On this page in your Template Account, you can add, edit, and delete Tags that will be pushed/synced to your Linked Accounts upon completing the action.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1559410145/ee4aa1e419f48361c5a0995a85db/C-CTags7.png?expires=1763568000&signature=3e47146eb5bb598bac8ceacfc60d44ece38d58d1f44223a0a58a859855aa892a&req=dSUiH81%2FnYBbXPMW1HO4zWaouQwrvFjCKQIA2r4N%2F7Fx6xJIK6FvXvtWTkFE%0AxyDyBDMrPgWVqfDloVI%3D%0A
+
+To add a tag:
+
+- Click the Add tag button in the top right section of the page.
+
+- Name your tag.
+
+- Click Create tag in the bottom right corner of the Add new tag window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1559413609/c364cd9ba64d9795edee12595637/C-CTags10.png?expires=1763568000&signature=572738f17791485102e575c25e124d8a6ccf6ce37bbc3c692e32a0adfa89ec3b&req=dSUiH81%2FnodfUPMW1HO4za8j0irg4j7bTmhtCikPJo0Knclpj94iBoerCWJg%0A58z6l4gw8Ah%2Be8ktxsU%3D%0A
+
+To edit a tag:
+
+- Hover over the tag and click the pencil icon that appears to the right.
+
+- Edit the tag name.
+
+- Click Save changes in the bottom right corner of the Edit tag window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1559413363/c80700325910d6c841c15d32fa2f/C-CTags9.png?expires=1763568000&signature=8e3543ebb7e2b5b5a98baeda73c2d99c7393a42a3d09553ae841a5d409af93e3&req=dSUiH81%2FnoJZWvMW1HO4zdolu%2BnxIOJBgChmApjhkZRqMtkBeQrihHI8VhZ%2B%0AnojZ0hy9uW5q%2B3yV8c8%3D%0A
+
+To delete a tag:
+
+- Hover over the tag and click the trashcan icon that appears to the right.
+
+- Click Delete tag in the bottom right corner of the confirmation window.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1559412986/0c3e92c950c4345739e35fed97ba/C-CTags8.png?expires=1763568000&signature=b9c10bc91f2967dcab155e1dd2dba0177fc5de646ca92a9f2358891fe9172dfc&req=dSUiH81%2Fn4hXX%2FMW1HO4zXgqM4n3Q%2B%2FjBo9pDgyu5Tu6F%2BrH9vRLaa2Jmztj%0AaZVchOh%2FiNqriBi%2F8JQ%3D%0A
+
+---
+
+Limitations
+
+- The feature is available only for Franchise accounts.
+
+---
+
+FAQs
+
+What does this version of Command & Control cover?
+
+- This specific version of Command & Control covers Tags
+
+What does the future of Command & Control look like?
+
+- We are planning to build Command & Control for every single copyable setting that is processed through the Account Cloning feature.
+
+What is a Template Account?
+
+- A Template Account serves as the source of truth for a Franchise. It's where Franchisors configure settings that can then be applied to Franchisee accounts through Account Cloning, then any account linked to the Template Account can be Commanded & Controlled
+
+What are Linked Accounts?
+
+- Linked Accounts are Franchisee accounts that have a relationship with a Template Account. An account becomes a Linked Account when it has been cloned from a Template Account.
+
+- Child Accounts can be linked to any Template Account that is within the Franchise’s network.
+
+How do I designate an account as a Template?
+
+- An Account Manager or BDR from Housecall Pro will be able to mark an account as a Template Account through an admin portal that is specific to Housecall Pro internal employees
+
+Where do I manage Command & Control settings?
+
+- You can manage the Command & Control settings on your Template Account.
+
+- Access your Template Account > Go to Settings (gear icon) > Select Template Settings from the left-side navigation menu.
+
+What happens when I enable Command & Control?
+
+- A confirmation modal will appear to inform you of the changes. Upon confirmation, all accounts linked to the Template Account will: - Lose the ability to create, update, and delete Tags from their account
+- Have their Tags replaced with those from the Template Account
+
+What happens if I disable Command & Control after it has been enabled?
+
+- If Command & Control is disabled after being enabled, Franchisees will regain the ability to manage their own Tags.
+
+- Note: Tags that the Franchisee may have had before Command & Control was enabled will not be restored. Franchisees will keep the Tags that were last synced with the Template Account, but they will be able to create new Tags, update existing Tags, or delete Tags.
+
+Which areas are affected when Tags are locked?
+
+- Tags will not be able to be created. This means that Tags cannot be created via: - Tag page
+- Customer, Jobs, Estimates, Leads pages
+- Job & Customer Imports
+
+I'm a Franchisor setting up Command & Control for the first time. What steps should I follow?
+
+Follow these steps to set up Command & Control:
+
+- Step 1: Work with your Account Manager to designate your account as a Template Account.
+
+- Step 2: Configure your Tags exactly as you want them to appear for all Franchisees.
+
+- Step 3: Navigate to the Template Settings page in your account.
+
+- Step 4: Enable the Tag Control toggle.
+
+- Step 5: Review and confirm the changes when prompted by the confirmation modal. All Linked Accounts will now have your Tags and will be unable to modify them.
+
+I need to add new Tags for a national marketing campaign. How do I ensure all my Franchisees have access to these new Tags?
+
+To add new Tags across all Franchisee accounts:
+
+- Ensure Command & Control for Tags is enabled.
+
+- Go to the Tags page in your Template Account.
+
+- Add the new Tags for your campaign.
+
+- The system will automatically sync these new Tags to all Linked Accounts.
+
+I have existing Franchisees who already have their own Tags. What happens to their data when I enable Command & Control?
+
+When you enable Command & Control for existing Franchisees:
+
+- Their current Tags will be completely replaced by those from your Template Account.
+
+- Any jobs, estimates, or leads tied to Tags that no longer exist will retain the original Tag name but won't be editable.
+
+- For reporting consistency, consider reviewing their Tags before enabling Command & Control and adding important ones to your Template Account first.
+
+We just signed a new Franchisee. How do I ensure they start with our standard Tags?
+
+For new Franchisees:
+
+- Your Account Manager will create the new account by cloning it from your Template Account.
+
+- This will automatically establish the new account as a Linked Account, and create a relationship between itself and the Template Account.
+
+- If Command & Control is already enabled, they will automatically have your Tags and be unable to modify them.
+
+- If Command & Control is not enabled, their account will still start with your Tags, but they'll be able to modify them
+
+A Franchisee needs a special Tag for a local event they're sponsoring. How can I accommodate this one-off need?
+
+You have several options:
+
+- Add the special Tag to your Template Account. This will push the temporary Tag to all Franchisees, but you can delete it at a later date. - Note: Customers with a Tag that has been deleted will keep the Tag on their profile for historical data.
+
+- If the need is truly one-off, consider using Tags or Notes to track this special event instead of modifying Tags.
+
+A Franchisee reports they can't see a Tag I added to the Template Account. What could be wrong?
+
+Check these potential issues:
+
+- Verify Command & Control for Tags is enabled on your Template Settings page.
+
+- Confirm the Franchisee account is properly linked to your Template Account by checking the Linked Accounts page on the Template Account.
+
+- Check if the Franchisee has refreshed their application since the sync occurred.
+
+- If issues persist, contact your Account Manager to investigate potential sync failures.
+
+Why can't I modify my Tags?
+
+- Your account is linked to a Template Account with Command & Control enabled. Contact your Franchisor for any necessary modifications.
+
+How do I know if my account is controlled?
+
+- Look for the alert banner on the Tags page, which will indicate management by a Template Account.
+
+Can Command & Control be disabled?
+
+- Yes, the Franchisor can disable the feature, and the Tags that were last synced will persist on linked accounts.
+
+---

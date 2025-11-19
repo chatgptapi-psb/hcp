@@ -1,0 +1,108 @@
+Edit or Delete a Service Plan
+Source: https://help.housecallpro.com/en/articles/2962784-edit-or-delete-a-service-plan
+Author: Ian H
+Last updated: Updated over a month ago
+
+Summary: How to edit or delete a Service Plan your company offers.
+
+How to Edit or Delete a Service Plan Template
+
+- Open the Service Plans Dashboard from My Apps, then select Service Plans.
+
+[Image] https://downloads.intercomcdn.com/i/o/1019861899/3423240c31c7139414c54dbe/Screenshot+2024-04-12+at+11_45_29%E2%80%AFAM.png?expires=1763568000&signature=23c376d4bea753f1858de2e3cb667594176ef6b5a297dd2cc6d260010f5e3000&req=dSAmH8F4nIlWUPMW1HO4zcTYz5ziZmiy%2B6UR3Ib%2BcLdnMmp%2BmxiZThnQSWYF%0AUbvC6th0bxPws1gofS4%3D%0A
+
+- Scroll down to Plan templates and click See all.
+
+[Image] https://downloads.intercomcdn.com/i/o/386589538/2c0ae82066ccaa7a374a114a/Screen+Shot+2021-09-07+at+4.24.40+PM.png?expires=1763568000&signature=834b0fc211cca4ac55455b4fd0c80dcc2f9aab589a37b5a400f11cd58686d19f&req=dyghE8F3mIJXFb4f3HP0gJPB3mtcjEEy03le7%2F3y%2Bm8heWi2ZfA3wIeJJWvP%0AZJNuDi%2FoY%2BqGnlfnCQ%3D%3D%0A
+
+- Select the plan you wish to edit or delete.
+
+[Image] https://downloads.intercomcdn.com/i/o/386589791/7a84bc037147883a535e6ed6/Screen+Shot+2021-09-07+at+4.27.42+PM.png?expires=1763568000&signature=3758c95663eec6e8128ef490ad8324cacd72eccbb1595cd06a843c23413914d5&req=dyghE8F3moheFb4f3HP0gJ%2BKuLpn0In4jVrjlFcdwvIIzY52nMNN6l6%2FWJfP%0AURTXEJ%2BxqG7lPrZpgQ%3D%3D%0A
+
+- On the plan details page, click the three vertical dots at the top right corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/386590154/422e2f4aa5708b73ffe4f2a5/Screen+Shot+2021-09-07+at+4.28.59+PM.png?expires=1763568000&signature=8383a7b11feb8d9ac124ce9f225d954d02e815b4cf82db67c2434988e4c9a911&req=dyghE8B%2BnIRbFb4f3HP0gGcKiqYRdldOjJGl7IpkCrTSlM55hv%2BvXVp3t0VO%0Atxl6brfwENZ3kr1Bhg%3D%3D%0A
+
+---
+
+To Edit a Service Plan Template
+
+- Click Edit Service Plan. You will be led through the same steps taken to create the Service Plan. Make any changes, then click the blue Save plan button at the top right of the last page.
+
+[Image] https://downloads.intercomcdn.com/i/o/386594857/cedf8cbe1950b9dcb57b3300/Screen+Shot+2021-09-07+at+4.33.45+PM.png?expires=1763568000&signature=028564197a4c7c16090c591107763cc40c1e2df5b8eea531d32a4259c0476303&req=dyghE8B6lYRYFb4f3HP0gGcC9bEgJNe70Z29ZXqIpnc4k5rRaH5m2XmItmfw%0ALTGrjyjJlFrlhWG13Q%3D%3D%0A
+
+---
+
+To Delete a Service Plan Template
+
+- If the plan has not yet been added to any customers, click Delete Service Plan, then click Delete.
+
+[Image] https://downloads.intercomcdn.com/i/o/386606223/bb9cb57da10f9a6bc14f313f/Screen+Shot+2021-09-08+at+9.20.12+AM.png?expires=1763568000&signature=88a829f6c358edf37210b6cfd3e49847bb3b29eca2fad2ec89f99e0e71568a09&req=dyghEMl4n4NcFb4f3HP0gHrxXS0OTMRqfCejmEZ%2B4mi3mDY37cQDNGuQIxVV%0ACUMI8sjFFrZcg4Vfdw%3D%3D%0A
+
+- If the plan has been added to customers, it cannot be deleted, only archived. Archiving a plan means it will no longer be available to add to customers, nor will it be accessible from the Service Plans Dashboard, but it will still exist on the profiles of the customers that have already accepted/paid for this plan. Click Delete Service Plan. Type DELETE into the text box, then click ARCHIVE.
+
+[Image] https://downloads.intercomcdn.com/i/o/386610625/72d894ea42becdcc61eb99d4/Screen+Shot+2021-09-07+at+4.49.01+PM.png?expires=1763568000&signature=291343f607f80178eca67912a40eb10ea45664ed33e7c00c22c4ee2f28e06aa7&req=dyghEMh%2Bm4NaFb4f3HP0gMI451SnyQWBUb%2BEkA0FXm%2FxEgF5NYk4msEImpPP%0AL%2FfvYF%2FpAI5tiZoqlA%3D%3D%0A
+
+---
+
+Delete, Cancel, or Restore a Customer's Service Plan
+
+Canceling a Customer's Service Plan
+
+If a Customer requests to cancel their Service Plan, you can manually cancel any active Service Plan directly from their customer profile in your HCP Account.
+
+- Go to the customer's profile and select the Service Plan to be canceled.
+
+[Image] https://downloads.intercomcdn.com/i/o/384331960/305e175923d4448413a8ed9a/Screen+Shot+2021-09-01+at+3.46.45+PM.png?expires=1763568000&signature=e12268fc636ecad2cd6ce64d4cd49988678d7904db5d8af039b2803a1b78ceb0&req=dygjFcp%2FlIdfFb4f3HP0gNE0V%2FXF0Xx1XZiaN2HqRFS5jhdDQ0hNGm0jfXY6%0AqkzHRAFku5b1QrY6mw%3D%3D%0A
+
+- On the Service Plan details page, click the three vertical dots at the top right corner, then click Cancel Service Plan.
+
+[Image] https://downloads.intercomcdn.com/i/o/384332837/e26ba4f659c491d1f853f761/Screen+Shot+2021-09-01+at+4.38.20+PM.png?expires=1763568000&signature=257283dfdc3036fbed50825bde8902ceb5b39e9d8693addaadc7f555ae807854&req=dygjFcp8lYJYFb4f3HP0gGqYcsoNNOV4F60gJvbacU3rzsoeSeyRDD9VSOsH%0A3mfKpFJ0g3xEztQnNw%3D%3D%0A
+
+- Type CANCEL into the text box and click CANCEL PLAN. The customer will be notified of the cancellation via email, and any future payments on the plan will be canceled as well.
+
+[Image] https://downloads.intercomcdn.com/i/o/384333683/059177f1e82fe0fb6d584457/Screen+Shot+2021-09-02+at+2.12.11+PM.png?expires=1763568000&signature=0e3d7a6c2d23ca88c066ed2f2ab9389b744be27e80a28ce8ca8c9f473cf1af98&req=dygjFcp9m4lcFb4f3HP0gK6%2BYxlvs57iUJ9W3o3IVAI21X%2B1grg5be5TPCj4%0Ab63HAuMZVSRVGR87qw%3D%3D%0A
+
+---
+
+Restoring a Customer's Service Plan
+
+- Go to the customer's profile and select the canceled service plan to be restored.
+
+[Image] https://downloads.intercomcdn.com/i/o/732947986/c1fe839d2ec85175fce75bd5/image.png?expires=1763568000&signature=70c455fc945087ac02dac4760fa3d8ff94c554f30fdbb83bb7e9b9d8461c3f78&req=cyMlH815lIlZFb4f3HP0gBPZc2gcpkGi%2F34Ee%2B6SxkU%2FN3K%2BfM%2F%2FiTe4UaVr%0A35JIdcnKOYo23JcThg%3D%3D%0A
+
+- Select the RESTORE button in the top right corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/732946807/dae0975bee10422ec61680c9/image.png?expires=1763568000&signature=bb86281c2de24f1429e7452f1a412e0d6304fe4ffee04bc848553b8d0f19ca4f&req=cyMlH814lYFYFb4f3HP0gIz7Z4epnLNoUoFUJpl4rc5aaSkB3EV9zwr%2BT5T8%0ApXbMT0B3fElshqJheA%3D%3D%0A
+
+- Confirm you would like to restore the plan by typing restore and clicking RESTORE. Notifying the customer will send the customer an email with the details of their service plan.
+
+[Image] https://downloads.intercomcdn.com/i/o/732949413/7f07f76fd2105870ec5ff9d9/image.png?expires=1763568000&signature=a5cc7da9dd2f27dfbedb868d9ae2c5ac85a43e1e427bdcde3546a96b2c13f528&req=cyMlH813mYBcFb4f3HP0gHCRLq8cwHnmok0PF2pftipBPZ1GHsVwULAH62at%0AjmqCNvQw7Wg74wP0Pw%3D%3D%0A
+
+- Once restored, the plan will return to an active status (if applicable), and future payments will be collected as planned.
+
+[Image] https://downloads.intercomcdn.com/i/o/732952583/2a148f1f084a8cc7463c1f9b/image.png?expires=1763568000&signature=a935eeb5be62bb07e38d5fe9c236a084da84604f62a895da0f0e5c9ff827681f&req=cyMlH8x8mIlcFb4f3HP0gN6uJOKuHX7RolY3hzHcyn7fyWpmrgH5pPaleTeP%0AxCZPEIbqgzJ05%2BWptw%3D%3D%0A
+
+---
+
+Deleting a Customer's Service Plan
+
+Only draft and sent plans can be deleted. If you need to delete an active service plan, please follow the instructions for canceling a service plan.
+
+- Go to the customer's profile and select the Service Plan to be deleted.
+
+[Image] https://downloads.intercomcdn.com/i/o/384336573/6873eaef9578b2f85993b8fe/Screen+Shot+2021-09-02+at+2.20.44+PM.png?expires=1763568000&signature=15cd8246f817302081e6e030f98e0ffc4f67249a28f4183f537d3dc66c677f31&req=dygjFcp4mIZcFb4f3HP0gCPqC4zP6OqUCxWbGGvhgcduSffpehDSH0a1wSdA%0APzk9BXX8Ma1YYjh9Kw%3D%3D%0A
+
+- On the Service Plan details page, click the three vertical dots at the top right corner, then click Delete Service Plan.
+
+[Image] https://downloads.intercomcdn.com/i/o/384337605/b67196d05a7432618575a413/Screen+Shot+2021-09-02+at+2.21.37+PM.png?expires=1763568000&signature=c9b351ca8b9b08d2eb864f97625f5cc9337f6b2c8e7fd44897412743d713b282&req=dygjFcp5m4FaFb4f3HP0gPyZIDvGJ108UoeZUfFW9w6RILK4HG%2FBScMkfk%2FS%0AVLXln43RAe%2FlHQmwMg%3D%3D%0A
+
+- Click DELETE AGREEMENT.
+
+[Image] https://downloads.intercomcdn.com/i/o/384338281/be166b5586d862b92fefb07f/Screen+Shot+2021-09-02+at+2.21.52+PM.png?expires=1763568000&signature=be25843fe552ace63e5c8a49c08ccaa773bbc5c4b417126f1f1c97b82ac5970e&req=dygjFcp2n4leFb4f3HP0gDWBnoTJHrtfqF1aZsx76dFmPQ07x29PlDHoLLta%0AE0gpjEIGuDO2v%2BfZUw%3D%3D%0A
+
+For more information on Service Plans, please see our Service Plans Collection or Service Plans FAQs.
+
+---
+
+---

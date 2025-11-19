@@ -1,0 +1,78 @@
+Postcard Feature Update: Transitioning to a New and Improved Experience
+Source: https://help.housecallpro.com/en/articles/11817031-postcard-feature-update-transitioning-to-a-new-and-improved-experience
+Author: Katie H
+Last updated: Updated over a month ago
+
+Why did we launch a new Postcards experience?
+
+We’re launching a new and improved Postcards experience with even more functionality to help you send personalized, custom postcards to your customers.
+
+The new Postcards experience provides:
+
+- Now in the Marketing Center for easy use amongst your other Marketing tools like Reviews, Online Booking, and Campaigns.
+
+- Use AI Write it for Me to add personalized content to the back of the postcard.
+
+- Tailor your customer list by filtering for: - customer tag, location, lead source, lifetime value, creation date, last service date, customer type, and notifications being turned on or off.
+
+- When creating your customer list, we will automatically apply the following exclusions: - Exclude customers that are marked as contractors
+- Exclude customers that have notifications marked off
+- Exclude customers marked DNS
+- Exclude customers without a valid mailing address
+
+- With the purchase of Campaigns, you can also send automated campaigns that include emails and/or texts.
+
+---
+
+What do I need to do if I use the previous Postcards solution?
+
+If you’re using our previous Postcards solution, we can help you get transferred over. Here are some key dates to keep in mind:
+
+- 07.28.25: The previous Postcards solution becomes view-only; new campaign creation will no longer be available.
+
+- 07.28.25 - 08.01.25: Any existing (actively running) automated Postcard campaigns from the previous solution will automatically end and resume within the new postcards in the Marketing Center. Any automated campaigns that are OFF and one-time campaigns will need to be recreated in the new Postcard solution.
+
+---
+
+FAQs
+
+How do I get started with new Postcards in the Marketing Center?
+
+- To get started with the new Postcards, review a step-by-step guide in this article.
+
+What will happen to the existing postcards page, and what do I have to do to transition?
+
+- Starting 07.28.25, the previous Postcards solution becomes view-only. This means that new campaign creation will no longer be available, and you can no longer edit those campaigns (outside of stopping the campaign). You can get started with new Postcards in the Marketing Center to make changes, which, if you have an active recurring campaign, you will get access to between 07.28.25 - 08.01.25.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1631573262/5521275a5820312350123eee49e0/AD_4nXfP0WymveeMxAm60--OEp9QUHFNsN6WMRNjkER4J77SLaU65OmTTvI5vPwRwTL0ximq50Av4jfxYbVNwlPJ29Cxd5eYi4xQCIlDbC7tnv5Lt-ogVhxbEtKyBadVaRgF86y5tiQ2zw?expires=1763568000&signature=5b5c94b9bb57bb6418379298305491e10e5ea740ab56e3dd6b21b7f843d295a4&req=dSYkF8x5noNZW%2FMW1HO4zW8rnS8cMxLGGYhR1lZLgJ22ixhriAtVv5WncFkr%0A42LDB6dpfbe9GqvOHkE%3D%0A
+
+What will transfer over to Postcards in Marketing Center:
+
+- Any automated campaign that is actively running on 07.28.255 (these ongoing campaigns will continue running without interruption). - You will find them on the Campaigns homepage within Marketing Center.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1631349270/3f93224e395d8918b3d3ad0948f1/AD_4nXdN-nRfGNmXMoDU1ZV_0Gw7097Nj_S2dztMfUbstd87Mq7vFEzbMrveMijSurSyiOhXccvhKotL5inBObDyfj-1zAkCRWaPvXuBhoc96e8sxrrmcJeQgCRulyAf6karzbqbBf-X1g?expires=1763568000&signature=3a953c0ec116a4b090532ec2390b81770555d88989b929b14ba27d3d6ed1c374&req=dSYkF8p6lINYWfMW1HO4zciGJmshT2zbKDQXtKNhjpbld8%2BdZDPnGknAPDvt%0ANLYl0oU5RD3ZyAMvj%2Fc%3D%0A
+
+- Any Postcard templates you’ve created. - You will find them in the Your Designs section of the Marketing Center.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1631349283/6eb4cc0d268a047f0b30eb94a481/AD_4nXeP6hmPZkPkYV9uGQgRUsGhhskzCCIi_Dkigj_wmwApsDnqWROdpW_UZn2LE72reLnQOcRM2aw8OG3iUi_EtK1h0h6GeVYX3fz-kIyLTGYKsR3oyrd5JZaiTMe2X46rJBKbvQKCSg?expires=1763568000&signature=6ed629c660e2c761b4e1b195a57f8939e354a6273bf16382796aa7a0c31dd14a&req=dSYkF8p6lINXWvMW1HO4zSCff2FY9gB94Pci5n3VKM%2BWLJSlRLO11okNRqAq%0AnOpAxeyIS%2BGk34lWzVY%3D%0A
+
+What will NOT transfer over to Postcards in Marketing Center?
+
+- Any one-time campaigns.
+- Any automated campaigns that are toggled OFF.
+
+Please ensure you take records of these (we recommend taking screenshots of your content) and create new campaigns in the new Postcards in Marketing Center.
+​
+
+---
+
+Need help?
+
+We’re here to assist you! If you have any questions:
+
+- Message us via the Blue Chat Bubble in your account.
+- Contact our Phone Support Team for further assistance.
+
+Enjoy the benefits of the new and improved Postcards experience!
+
+---

@@ -1,0 +1,48 @@
+How Do I Refund a Loan?
+Source: https://help.housecallpro.com/en/articles/5921381-how-do-i-refund-a-loan
+Author: Charlie H
+Last updated: Updated over 9 months ago
+
+Summary: Refunding a loan is easy to accomplish if necessary.
+
+Refunding a Loan
+
+To refund a loan:
+
+- Navigate to the Job Details page for the loan you need to refund.
+
+- Next, scroll down to the Payment history section and click the 'Refund' button on the right.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1226841495/0ea58a8a9be69ab09db3d3412816/RE4dmMVGvfS0bkPrx1RrY1nS6oPNtOQIsZr-42vJRRDAzbx0n8ev6dsUHMkQW8pXpimGSwY6dy5OED4Dlyr92YgMswuBP8tCCj79Cgn3Mbh-RK_maq9dlEXqnYL8TCgy_AQZVntk?expires=1763568000&signature=c829424e8cfd1bc2111a7a2e482aaddddaba5ff5086f3abd28697478cb2ccda3&req=dSIlEMF6nIVWXPMW1HO4zTHlzTeb1jy%2FOfUvhK5YIO8mruHLolKCIZWdb9Hj%0ARYMvjiwe3z%2FvEI%2FTtQM%3D%0A
+
+- The Refund window will pop up, and the 'Refund amount' field will be auto-filled with the full loan amount.
+
+- If you’d like to issue a full refund, click the 'Refund' button and you're all set!
+
+- If a partial refund on a loan is needed, simply enter the requested refund amount in the 'Refund amount' field. After submitting, only the amount entered will be refunded to the customer.
+​ [Image] https://downloads.intercomcdn.com/i/o/1186352016/882b49f54c473d5e72ec1c54/Screen-2BShot-2B2022-01-26-2Bat-2B3_32_06-2BPM.png?expires=1763568000&signature=e9ef3aa9fd1561be925f7c3a6c2a9fee9535ca8cd9c7b49eaa0c0ff342175b9d&req=dSEvEMp7n4FeX%2FMW1HO4zQfjefYU8QB4wV5WDX73s25iyr%2FTvWCgjt94Dj1s%0AS%2BJA%0A
+
+- The refund will then be initiated and will take 3-5 days to fully process and return funds to the customer.
+
+- After submitting either a full or partial refund, the Payment history section and Activity feed on the Job Details page will update to reflect the latest refund. If the outstanding amount on the invoice is greater than the payment methods, the invoice will be marked as unpaid.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1226841496/a173618ca146738cbb72d270d2d2/Screen-2BShot-2B2022-01-26-2Bat-2B2_55_26-2BPM.png?expires=1763568000&signature=587408e15d386be44c9a562a9ad4acbb687c57a8043970bb9e5028bbe5e68b98&req=dSIlEMF6nIVWX%2FMW1HO4zYkrre7j88%2FGxdHr8LCzN%2BawgaPKt8Pz1Gsqv3xx%0AM%2FJar5lkAujTDa9I46g%3D%0A
+
+---
+
+Next Steps
+
+After submitting either a full or partial refund, the Payment history section and Activity feed on the Job Details page will update to reflect the latest refund.
+
+If the outstanding amount on the invoice is greater than the payment methods, the invoice will be marked as unpaid.
+
+[Image] https://downloads.intercomcdn.com/i/o/454991190/545aa6113605764188391b97/Screen+Shot+2022-01-26+at+2.55.26+PM.png?expires=1763568000&signature=f8f9732ff8f51ed8e0213b6d8554671d2f5a6bbcc627d24b53141a1c960cadd9&req=cCUjH8B%2FnIhfFb4f3HP0gKfrC4YjwL%2BhLKQc2fUkrmVgWuVvwOsq6H2%2BEuFh%0AOr2%2FURZM5PcoB%2BlQRQ%3D%3D%0A
+
+---
+
+Wisetack Support Contact Info
+
+If you are unable to refund a loan, or if you experience an issue not described above, please contact Wisetack support at either (833) 927-0333 or support@wisetack.com.
+​
+
+---

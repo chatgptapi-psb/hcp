@@ -1,0 +1,74 @@
+New Sales Proposal Tool layouts [Beta]
+Source: https://help.housecallpro.com/en/articles/11424794-new-sales-proposal-tool-layouts-beta
+Author: Ian H
+Last updated: Updated over a month ago
+
+Summary: Learn about different proposal layouts, designed for clearer presentation of options.
+
+The new Sales Proposal Tool layouts are designed to let you showcase your options more effectively, thanks to improved readability and presentation. You can choose different layouts based on whether your customer can approve one or multiple options, or simply stick with your favorite for all proposals.
+
+---
+
+How can I access the new layouts?
+
+- There's no need to activate anything. Create your options as usual, then click Send or Present on the Estimate Details page.
+
+- This will direct you to the improved Send and present estimate view, where you can finalize your proposal by adding images and option descriptions. You can also adjust which parts of your estimate are visible to your customers.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1544510483/b5c66bdd6226f2e3ebc56290f750/Screenshot+2025-05-27+at+20_27_36.png?expires=1763568000&signature=13db9bd9521ff4b6090de9160ae99ee664463cd7e4a501d9508a71d9b5cfeff5&req=dSUjEsx%2FnYVXWvMW1HO4zaVIK%2FA6t3gnGH%2FI%2BCOn6BlGekS5grzvbGYXFHvQ%0AYSwrHVaj9ge6CRb9PQk%3D%0A
+
+---
+
+Selecting layouts
+
+- The layout control is located at the top of the page. You can toggle between the Simple, Side-by-Side, and Stacked layouts.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1544513178/f5901ec4758930710cac02b84db8/ScreenRecording2025-05-28at10_23_37-ezgif_com-video-to-gif-converter.gif?expires=1763568000&signature=c1c7893dbd99ab0bbfc724c560230843e8fa09dd355de221f65fa8c31a6728fb&req=dSUjEsx%2FnoBYUfMW1HO4zfK8j%2F4TUAyXimA86gbcoVlPWT2vBNCfFN1m8muO%0AdGrsY9AnMPR9EPET0ss%3D%0A
+
+The Simple layout
+
+- This layout doesn't display option images or descriptions, making it ideal for creating a straightforward document without extensive sales content. Despite its simplicity, the readability of the estimate ensures that your customers can easily understand your offer.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1544513662/e062639269a221632224e0fa59da/Screenshot+2025-05-28+at+10_07_06.png?expires=1763568000&signature=df78148a65c4db113a5ff6c1728b0d077c4c5c77ed66e1bfd3a25953885429d1&req=dSUjEsx%2FnodZW%2FMW1HO4zZZptRjB9t4DAwax2U6FlEno7OohibrxpxC0caQq%0Ax8O6BrXLQz8dYN3hTC8%3D%0A
+
+The Side-by-Side layout
+
+- Perfect for the good-better-best proposals because it's ideal for comparing different options.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1544513939/2db101dc8a5c99e0aa5cf95ea9a8/Screenshot+2025-05-28+at+10_07_43.png?expires=1763568000&signature=2acb0053141d424a2baace6b1eaecef285e6d54ecec0a7353a7b4e6c2d5466eb&req=dSUjEsx%2FnohcUPMW1HO4zXsdxSUWr1DSJa4i6BIoSl%2Fta4d6Hkrc3KAMmgMX%0AuNgwIlyvVWmNCBNZEqo%3D%0A
+
+The Stacked layout
+
+- Options are stacked one under the other, making this layout suitable when you let your customer approve more than one option.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1544514143/36c938f2efe5bf63e5c386d2afe5/Screenshot+2025-05-28+at+10_08_39.png?expires=1763568000&signature=bf1893e7a059a93684d5c3082782748e5c3ed5c068306d54079ca2ac0dafb650&req=dSUjEsx%2FmYBbWvMW1HO4zZy39wLsHEQsQf4%2BbVaO4fRqaqOt9IXTN1VpNoKZ%0Ab0jdTwfw9jaLickJvyU%3D%0A
+
+---
+
+Presenting proposals
+
+In addition to the new layouts, you can also present your proposal to your customer directly from your desktop device. Click the Present button located in the top right corner of the Send and present estimate view. This will open the proposal view without any settings, controls, or buttons. From here, your customer can sign and approve options.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1544514307/2c91805db2f537a2d394fd8c184e/Screenshot+2025-05-28+at+10_08_51.png?expires=1763568000&signature=71c9975b615deae8c0abcb08f3084007ebc14782d3ee9f7516cf5cc992b2186a&req=dSUjEsx%2FmYJfXvMW1HO4zejy6Fk4dkZfnCTHV2xYAFTw5DOwNofB92b%2BCaoO%0Aby%2BxC0BIzhcpd%2FpDn%2B0%3D%0A
+
+---
+
+Default layout settings
+
+You can use default layout settings to apply certain layouts by default, depending on your proposal type.
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Estimates from the Settings menu on the left.
+
+- Click the Configuration tab on the Estimate settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1630809571/d61232ce6c85a4c5e23b01556ceb/image.png?expires=1763568000&signature=c14e9427dc9da2cdee5ed1d0e102211029efcb7635c830b925584a2a99043371&req=dSYkFsF%2BlIRYWPMW1HO4zStI1Q81RVmbhauRCyUqJ%2FXlGMIOuES5g7HrT3c8%0Am8hktCSuyUVNptDUpE0%3D%0A
+
+- Click the pencil icon next to any of the following proposal types to choose and apply Simple, Side-by-Side, or Stacked as your default layout: - Proposals with only one option.
+- Proposals with multiple options where the customer can approve only one.
+- Proposals with multiple options where the customer can approve multiple options.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1630853552/686638a0efd78fe2fffb1b7d2d8b/image.png?expires=1763568000&signature=28ff3fea7a359945ab031eeab5aec568e34e34846e60d2f0a29223425bebc8ef&req=dSYkFsF7noRaW%2FMW1HO4zXkMIHqWgPotYPZCQzrnL7p7t%2FgecoXYSB8%2BiXwZ%0AsgJb4nCewGbcW3676zI%3D%0A
+
+---

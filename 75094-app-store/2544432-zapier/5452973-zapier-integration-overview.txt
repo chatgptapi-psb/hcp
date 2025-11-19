@@ -1,0 +1,261 @@
+Zapier Integration Overview
+Source: https://help.housecallpro.com/en/articles/5452973-zapier-integration-overview
+Author: Nate H
+Last updated: Updated over 4 months ago
+
+Summary: Automatically move information between apps, so that you can share data and create workflows without code.
+
+Connecting Housecall Pro and Zapier
+
+To connect Housecall Pro and Zapier:
+
+- Go to My Apps in Housecall Pro by clicking the 3x3 square icon in the top right corner of your account.
+
+- Click the Go to App store button at the top of your app menu.
+
+- Scroll down or use the search bar to locate the Zapier app, then click the View Details button to open the app details page.
+
+[Image] https://downloads.intercomcdn.com/i/o/353216352/404f9b7b644329d56795bc70/learn+more.png?expires=1763568000&signature=6391bdbf6266fad55dd228bbc7e92c2950d75bf1bafb9000cf1469b28e27c443&req=dyUkFMh4noRdFb4f3HP0gKxGFH3ERtZuAfzCa2qiJ9lPNoB4OqonCVP8j0lK%0A9cQEnRHtbF%2F6kDxMUA%3D%3D%0A
+
+- Click the toggle in the top right corner of the page to activate your Zapier integration.
+
+[Image] https://downloads.intercomcdn.com/i/o/353219748/79b1060a72f21c4fea2eb4f8/enabled+2.png?expires=1763568000&signature=54f133f8861642f1413fc0b75a3602f54705c094cfc875510e31e5a633f5b6f9&req=dyUkFMh3moVXFb4f3HP0gIxmIs%2BnqWXgcUtgNvQccPzXBlTaYsIyp%2BoSlLfm%0AzkXGgIIbBtwVQFaFsQ%3D%3D%0A
+
+- In a separate tab, open the Zapier website to create an account or log in.
+
+- Search for Housecall Pro to connect your account. - You can also add the other apps you plan to connect with Housecall Pro, such as Google Sheets, Facebook, Gmail, etc.
+
+[Image] https://downloads.intercomcdn.com/i/o/353218316/a928e2ac5c87a2d0b294b73d/enable+hcp.png?expires=1763568000&signature=22cec9160f786685cdbb82d7dd0a8e9843c819b78c33cbbbbb0cbef8709a5fb3&req=dyUkFMh2noBZFb4f3HP0gEv8rHw4oTfiHoYdDoJQ7yfoj6Y5mlapT4wMRJYX%0Aa1Q9fwSr62nkYwT%2F%2BA%3D%3D%0A
+
+- The first time you set up a Zap, Zapier will prompt you to sign into Housecall Pro and enter an API key. You will only have to use this API key once.
+
+[Image] https://downloads.intercomcdn.com/i/o/353218604/ec994e09e0659d9c1b0d732b/Screen+Shot+2021-06-16+at+9.56.54+AM.png?expires=1763568000&signature=095b8bbd8d653b4eda9af9205af5c543bec73d3fef690eb32339a9ef1438d07a&req=dyUkFMh2m4FbFb4f3HP0gJMRP03d185h0MUMFTdj8wPZmiD8Gcw1wN2J%2Bc09%0AT5b0%2ButpJ3nvsdwXNQ%3D%3D%0A
+
+- Find your API key on the Zapier app within Housecall Pro.
+
+- Once you enable the integration, refresh the page, and the API code will pop up.
+
+- Now that the integration is connected, you can start creating Zaps! Click HERE to learn how!
+
+[Image] https://downloads.intercomcdn.com/i/o/353220067/8031a770e1a0f21355ce5eba/api+2.png?expires=1763568000&signature=fd7f7b44ee44b310a9f78392c16b6891c836550f364f238b2632aecac04be2b3&req=dyUkFMt%2BnYdYFb4f3HP0gJidWzsE53j2JTpUXHEpp5ZjmyGHZEVkA3qOMips%0AldeKs6Z9mGE6Q%2BKi5w%3D%3D%0A
+
+---
+
+How to Make a Zap (Workflow) in Zapier
+
+After the integration is connected, you can start creating Zaps! Here is an example of a Zap that uses a Rest Trigger.
+
+- On the Zapier Portal, click “Make a Zap.”
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/353256897/7aa4e82c3c876f5fdaa4a958/im3Df9Ekbk7d8UQqpIaJswnjGyUAaS82xaxzU4hyUO0SLU6Qyky5KW__7--5PNErP7v7ZvGLeocCEfukB4YrXI3v87LXUgX1SQwDMD9sac3wDK6iatsDpV9JN5CeO_QfgZpJ4_BB?expires=1763568000&signature=b4abf0968d5fae8dcbe9e305bbf31d4ea3080b4c841400f023aecf9b11179c57&req=dyUkFMx4lYhYFb4f3HP0gD8RK4bAtyga3F3Y013e%2FvueuQUP2femxnKsBFwQ%0AFLDJ%2BmL2kSZwRVvd6A%3D%3D%0A
+
+- To set up the trigger, choose an app and an event.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/353256902/787354bfaec6a8c1dbe6ff1b/IWEmWYeOEyaUt3UEBpC4QYr1pMn1qmQoPWgNmyVKrQcWsKVOZJ9D6ZaxB2O1i4EzyHIpfVZBN7mubP5ibIr4EVKut3RU5ed4rGcvMxv1X5CiOOHIb9rGp5MTAMsM9tmS192LJuBF?expires=1763568000&signature=bf16fb1fa56a9c04b5fc8c6c10d50f4497c3abd7a70471deb506d9fd11f065dc&req=dyUkFMx4lIFdFb4f3HP0gOUBcj%2BmhspJEeD89tGV3Q5%2BSfj%2Fq2fa8BygSo%2Fe%0AygPd6FTbUEkViB73pA%3D%3D%0A
+
+- Once the app and trigger event are chosen, test the trigger.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/353256911/a191da5962a06727b8928036/z4UmPd5h9nWCJSExS0yZO4gDidhBaeGUNtrSVfVzV6GDrDqJt6Bw6DO7w4GmSBaam2m0djE9xnEYZhH2JN0BWUNuHWGByCLL065cRxu-fok5wwGQc1-u8txfpLaa04Q4wB0-tosm?expires=1763568000&signature=514f964a2a39f05a2fb69654c521e5d28c36dcef475afaa7d0aa930e93b10105&req=dyUkFMx4lIBeFb4f3HP0gAYvw0hxrRdCjulJxa%2BT5gE%2F8Rim4J22K0Om0eJ8%0AXamGtLRms%2FBhlAFi%2Bw%3D%3D%0A
+
+- Zapier tests the trigger based on recent information from the account you logged into. - In this case, since the trigger is a “New Scheduled Job in Housecall Pro,” Zapier pulled information from my most recent scheduled job.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/353256922/f58df113a5516be73158a70a/0Dhqb1XwiA4JsnNmsQ2CVrE611nVMr9dr_DEjo0I6ERBWHH38NmHbTZ3D0LQ0mFUoihrr_iA5rsTxSIC1Xih7kDsMKPuevJHVTT1qfj01_hT878ud2dHw3J6AoYkr4mcj65tNeUc?expires=1763568000&signature=6c32085ec6272a19378871237a0b9a7d454be830bb74d686d5a86288b0258bf2&req=dyUkFMx4lINdFb4f3HP0gFfC6jWKldkVLZQR8DN666oLmlZ4j5IwZJAQWQTQ%0AtZSyfljBaHJhtnnwew%3D%3D%0A
+
+- Now, choose the corresponding action. First, search for the app you want to automatically update.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/353256926/2a91e18b45a11bbf3ca390cd/t2oDX68jMc7gkUkKs1ycAckuwmHIyl42pHmQKP6IdFGpa9BJ1fczPV38m4R15Cd0ORUF_3dmmCQA10iEK_DlH8-AxZ1UbcDr_cuqOI3V7dMumSC6Dse_9bsVTxkeUyoFMu2pE618?expires=1763568000&signature=3cf9ba4228bff3b03646788cc933a75a5b95a9d46e3f2c813d85d5f4f75d3380&req=dyUkFMx4lINZFb4f3HP0gFe3e%2FklhYIHH7skwkI7%2FwKJnrQaZHhA6W0%2ByqVZ%0AqrgXQdvwXWlSYuerEg%3D%3D%0A
+
+- In this case, I want my scheduled jobs to be available in Google Sheets. So the Action Event is to create a new spreadsheet row in Google Sheets.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/353256930/c90eb7767c28ce056bc0e42e/6-tZrWzPJ7o4BX2snfBHXQi4u8je21kWAnCcYQjWhS1fJ1_CePVIVbQc-0uEYTwf37I4CavDzV-MaUcPxj7uqwFKS9coT5HCvcvofs9NPvPpVXfwxmJqBX6UBDaMGV1RNERlYxdS?expires=1763568000&signature=bc3f7f8977de1ad1a611a8fd11b60b86bfff8de92356848abdcd6d02eaae6fb3&req=dyUkFMx4lIJfFb4f3HP0gP2A%2BJI76M86O5Nexz1D29UJBdpDj%2FGs1ciM%2BxtD%0AG1mADwDvNFwajleJXg%3D%3D%0A
+
+- Log in to the app where the information will be transferred to. - In this case, I want to create a spreadsheet row in my Google Sheets spreadsheet every time a new job is scheduled in Housecall Pro.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/353256932/092677f9c0994607b26f4219/YcuuLfNBmBpaVKf36dih3fKWLD-ON9gSI96t-y6R67wCmqdHKytE1L4zA01YVoSXGeWIbz7MsEnhrff6FhlOVoZKF9PiWr8l2Z2v1hAZbOnk1gogxiF0C-yKvMB7cTjC-nCgkkuo?expires=1763568000&signature=04b3eb99a8a9d8dbc777a87b9acfdce60ba7664055f7d90c275935edbdeecc43&req=dyUkFMx4lIJdFb4f3HP0gBRswG4v4i38kCX4vW4l013IicKT%2FL5dY1K08ij%2F%0AhF1I2U6AEdFeMyu9Sg%3D%3D%0A
+
+- After choosing the app destination, Zapier will populate available fields based on the app you chose. - In this case, I want the information below to transfer from Housecall Pro to Google Sheets.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/353256938/ea66c1c9f3aaecd5a2072012/pD9E8Q5qGy5h-hNEtKhvoNKiz-D8PvTJB9bjc8QkGTz3LUvh85mR4-cdOk6NWKsmiuFfdZvIdOEWKsf02AZ4eAIGxOCxE38W31h6oWQe_gkOwN3Gt72pkG4WSkxJArLx-aYuSns1?expires=1763568000&signature=3e126f375d64c121727975dd1555c8212578f02862f9a30158c4e7fcaed627af&req=dyUkFMx4lIJXFb4f3HP0gFG83piEdF4TNbdB2vljlKsfmYKZKwqLiryCBOuD%0AajLrtyajiLKOX%2Felxw%3D%3D%0A
+
+- When filling out these fields, Zapier provides a drop-down list of data to choose from.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/353256939/490a520dd670662da939be2e/QGxaKx12s6m0Pn_T9TWGhTY0_XdsvD1IVqY3K7jBpRTT4AbWm33SVRp9YfZd-uuQEgiKUuiiyc6Bq-19il0WFhEP29aCev6ag_Q7hbjJvpIkwdRXuA4w44NAr1SCc5dA4Z0l8hzc?expires=1763568000&signature=8a739616d3e780e5b7a3e2046b1550d1ba061680ab9876c9d0bf5c71fd34d4cf&req=dyUkFMx4lIJWFb4f3HP0gAHgrTXlMDo72zme6IcKuS7qO6z6uNCQ2GLWeT5t%0AgXJk7e0jW3wYD9TTEg%3D%3D%0A
+
+- You’ll want to map where the types of data from Housecall Pro go in the corresponding app. - For example, I chose the Housecall Pro “Customer Display Name” field and placed it in my Google Sheet “Customer Name” column.
+
+- Once this information is filled out, press Continue.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/353256944/3b72d7a737c4fa8a813a9643/ob5rQodAK-fRzmwpJfY4DWreg5-X-EctW1WTY1_kEc3oaAqYpvAYs2741vvs7esdCflzro-1ONQGDuaZQwCdAV95KtLCvHKPAQ2p_bW9zzuYgBYol4W8PovP_AjNknr9IgIdlt7L?expires=1763568000&signature=3ee125d28d9c80421967500bb0405ce6606227b216c3370f00f27fc379cd16ac&req=dyUkFMx4lIVbFb4f3HP0gGmMU8hg9stBkN0DCTIyeNakgHiCMN0Sdu8OuggV%0A0TEN8W6coTLFlIR%2BrQ%3D%3D%0A
+
+- Zapier will test the action, just like the trigger was tested.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/353256945/40ed5467c0da893f4c068e1b/7nNxZ_1vPL4YbAwVxWT98x4k0e5_FIpCNQbFUSZWJoKquUsyMW_1G65rSFXYKg2Hh5ioEzX3cgxe3SrJP_G61jSBcFLUcaqVExUmpnhR1kIFDL6DmYoXpk0biwCsLp3ZL1fnrak9?expires=1763568000&signature=da965b86e136ac72dfe2f658a8d3442beaad5c2ec1f0111bdac206e27e320292&req=dyUkFMx4lIVaFb4f3HP0gKacNxOJ88R1HP2%2FdHoXwh3Vf7UGlBArX12MvstD%0AmAjl8ya8Q5LwEPkpwg%3D%3D%0A
+
+- After the action is tested, be sure to turn on your Zap.
+
+- Then, you can go to the destination app that the information was transferred to. - In this case, I opened my Google Sheets doc labeled “Scheduled Jobs,” to see that the Zap worked!
+
+- By using Zapier, any scheduled job created in Housecall Pro will automatically transfer over to the Spreadsheet I have, instead of transferring data manually. This saves time and ensures consistency!
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/353256951/e69661a9f401bbf22b686d43/yK7H15UDbacZaaM2vV2Y2iJQMRtIr--oZrwYX3ZQ5umsd1QExpuRKuy75spvL1i2vcEnIXT7Psb9yIv0hrGeH7OLwyQidLrX3bA7HmEVMJSM8Ar8mC1tLrabRZZqJjadOt0m6prL?expires=1763568000&signature=f27ecd82eb3fdc796a1543fda88e6f23f7238e08c5a4ceafad7d46cde30383ee&req=dyUkFMx4lIReFb4f3HP0gPlJQcABsPvcStqMixvdmMsNbhNdCvLZ56rx6IZM%0AniWYGXZ7yJU9IQskjg%3D%3D%0A
+
+---
+
+Recap of Making a Zap
+
+Each time you make a new Zap, you will run through this process:
+
+- Click “Create New Zap” in Zapier.
+
+- Choose the two apps you want to connect.
+
+- If you plan to use an Estimate zap, copy the webhook URL and paste it into Housecall Pro.
+
+- Choose Event: Choose which Trigger and Action you want to create
+
+- Zapier will test the Zap and verify that it works.
+
+- Your zap is all set up!
+
+---
+
+Helpful Videos
+
+Example of a Rest Trigger (New Completed Hob or New Scheduled Job)
+
+Example of an Action Zap (Create a New Customer)
+
+---
+
+Zapier Triggers and Actions
+
+What is Zapier?
+
+- Zapier moves information between your web apps automatically, so you can share data and create workflows without code.
+
+- When you build a Zap (or workflow), you'll set up triggers and actions. A trigger is what starts your workflow, and an action is what you'd like the workflow to do.
+
+- This feature is available our current Essentials, Essentials +, and Max Plans (formerly Grow, Manage and XL).
+
+What triggers can I use?
+
+- There are two current triggers from Housecall Pro that you can use to create workflows: Job Scheduled and Job Finished.
+​
+
+What actions can I use?
+
+- There is one action available for Housecall Pro: Create New Customer.
+​
+
+What information can I send from Housecall Pro to another app?
+
+- Customer: - First Name
+- Last Name
+- Display Name
+- Tags
+- Notifications Enabled?
+- Customer ID
+- Mobile Number
+- Email
+​
+- Service Address - Street
+- Street Line 2
+- City
+- State
+- Zip
+- Job ID
+
+- Job Tags
+
+- Service Provider - First Name
+- Last Name
+- Email
+- Employee ID
+- Remaining Open Segments
+
+- Total Amount
+
+- Schedule Information - Start Time
+- End Time
+​
+
+---
+
+How to Use Zapier with Webhooks
+
+Webhooks provide a powerful way for you to automate tasks between different softwares. Now, with Zapier's Webhooks feature, you don't need to hire a developer to do so!
+
+What you'll need:
+
+- A Premium Zapier account with access to the Webhooks feature
+- A MAX Housecall Pro plan
+
+What is a webhook?
+
+- A webhook is a way for an app to immediately provide other applications with real-time information based on certain events.
+
+- For example, every time an estimate is sent from Housecall Pro, a webhook could immediately communicate the details of that estimate to your CRM, so that you can build a sales follow-up process.
+
+Available events in Housecall Pro:
+
+- customer created
+- customer deleted
+- customer updated
+- estimate completed
+- estimate copied to job
+- estimate created
+- estimate on my way
+- estimate option approval status changed
+- estimate scheduled
+- estimate sent
+- job canceled
+- job completed
+- job created
+- job deleted
+- job on my way
+- job paid
+- job scheduled
+- job started
+- lead created
+- lead deleted
+- lead converted
+- lead lost
+- lead updated
+- pro created
+
+To use Zapier with Webhooks:
+
+- After enabling Zapier and Webhooks, open Zapier in a separate tab, log in, and select Create Zap.
+
+[Image] https://downloads.intercomcdn.com/i/o/448706882/13fefad18581df44752a1cc2/create+a+zap.png?expires=1763568000&signature=b0cff5e04804ac6e9eb36f1a037a01dd00b873779cad76bea2fc16426e88e775&req=cCQvEcl4lYldFb4f3HP0gAkUlYgRFfrkFtHPYza1lMMYws3GS0riknmeozTU%0ADIyLywqIb0iRsd7Nwg%3D%3D%0A
+
+- For the Trigger, search and select Webhooks by Zapier. For Trigger Event, choose Catch Hook to retrieve a webhook URL.
+
+[Image] https://downloads.intercomcdn.com/i/o/448707349/1641d1780b9d254561289cef/webhook+trigger.png?expires=1763568000&signature=34684b8313cd32e4dc9bd32e9efe47a10c9782792f78b89c966864e9fb609fb4&req=cCQvEcl5noVWFb4f3HP0gDep%2FeJ6zcG4jEw%2FQ%2B1Z2Z0aMSSesNvqJmi0NHaM%0A%2FSnqIWKJ4gcf5kK8HQ%3D%3D%0A
+
+- Copy the URL and toggle back to your Housecall Pro tab.
+
+[Image] https://downloads.intercomcdn.com/i/o/448708431/97de3785870956f01c2a3331/catch+hook.png?expires=1763568000&signature=3649c50619933c827fd132f6c453ea19f426dfa32f696204b2a387943e426b19&req=cCQvEcl2mYJeFb4f3HP0gMXnRtI%2Bf8GETA4RrxeIPXS7OThu32z%2F%2BLeCuZRV%0AC45zn52Pb6YML62f9Q%3D%3D%0A
+
+- In your Housecall Pro account on the Webhooks app card, paste your Webhooks URL.
+
+- Once you add your Webhook URL, choose which webhook events you’d like to enable.
+
+[Image] https://downloads.intercomcdn.com/i/o/448709272/7e35f6ce7ef7ae5dfc9e5307/Screen_Shot_2021-10-21_at_10_40_49_AM.png?expires=1763568000&signature=7c2f195aa91b287ab2ea6c4e9317935074a053b764bff9b380e1a39d2c1819eb&req=cCQvEcl3n4ZdFb4f3HP0gFh5rQexufNceeenF7w9hm0zhZtGepI7j5W0nNwT%0ADgb8CkWM1uRb5NTh%2FQ%3D%3D%0A
+
+- Now it's time to test the trigger! Toggle back to your Zapier Account.
+
+[Image] https://downloads.intercomcdn.com/i/o/448715218/8db87e73e4b78e4e5573fd1b/Screen+Shot+2022-01-14+at+1.33.00+PM.png?expires=1763568000&signature=159102ca10b345c2dd7d6448182e3c45cf166186a0340c77168e7cd2776665a6&req=cCQvEch7n4BXFb4f3HP0gB5etpAEp4GsLQgfK7t8QmIkeU%2F96DmP6s7RedjF%0ATgQcaR%2FkLDf1WclDng%3D%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/448715274/ad5902857555bd2859f6123a/trigger.png?expires=1763568000&signature=59efc296d925ddfe6ca41fb2d788fc415847122b553fb5389cfa6d55ae71b0aa&req=cCQvEch7n4ZbFb4f3HP0gHBFyNEk4%2Fdobx7%2BHbbTtrcIMvKfm5h%2Bysd2PT8i%0A5074%2FbKDX3%2BT3aqpnQ%3D%3D%0A
+
+- Once your Trigger is configured, you'll set up the Action in Zapier. The Action will vary depending on which software you're planning to send information to. - See How to Make a Zap (Workflow) in Zapier for more information.
+
+---
+
+Video Tutorial
+​
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/0mcoedy7l1
+
+---

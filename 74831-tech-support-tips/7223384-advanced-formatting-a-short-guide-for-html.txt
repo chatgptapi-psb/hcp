@@ -1,0 +1,78 @@
+Advanced Formatting: A short guide for HTML
+Source: https://help.housecallpro.com/en/articles/7223384-advanced-formatting-a-short-guide-for-html
+Author: Joanna D
+Last updated: Updated over a month ago
+
+Summary: This guide explains the basics of how to use HTML
+
+HTML Format Guide
+
+In select places you can use HTML formatting to elevate the dynamic and professional look of your communications. This guide explains the basics of how to use HTML and provides helpful examples showing these tools in action!
+
+---
+
+Paragraph breaks:
+
+You can use <br> for line breaks
+
+How you would enter this:
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/704670556/f99d5a5fb75f874502a8110b/z-ddVOCp3RwP74r9zPoqt2sJ8ycfL_6lUzgjBVP33ke2bIPuXsxBThlUIs6VXC_9Nub5GAFnEyByk6RtiBEacNsLYMfaKgcalmK50VP7Vmhl7GJuYdgIlWGuCLt6nWqbhr-wAVbXUKhm1x-xn80xFEo?expires=1763568000&signature=f2a0db585f4999342e281714629756a1490e41ba6aeb5a68992ad43899ff9445&req=cyAjEM5%2BmIRZFb4f3HP0gInzAusf9NPdcc8Yh%2B5kxFF4GhuwAH6c%2BETItF08%0ARN%2FFQF1aDEvnebHEIQ%3D%3D%0A
+
+How it looks once saved:
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/704670563/1ca485d898f48692a5085ddc/JTD_QDhj9MThCc60_nnYHGBgcY5fDgCV_QGSQ8kJpZmon2ZHPws3oAiiT3jpzw6dvfoQzRuAdsITpdIIbLvy9mLieIRPP6QHb_inRVZ1d9JUd9iAFuHez1gE4yVM3OhCTzVc0gHF1FOxiQnBoXBiJlA?expires=1763568000&signature=08309f131d58c772827933e729aad39ee45640a871c435c3258828c4efbba25b&req=cyAjEM5%2BmIdcFb4f3HP0gMwO%2BS2rr%2BqNdwmvkarIKy5aOUs7Ipzayo8REZn2%0A5ZIxFLf%2Bl0t%2F%2F2EUeg%3D%3D%0A
+
+---
+
+Bold text:
+
+<b> and </b> for bold
+
+How you would enter this:
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/704670572/2712911f5c4f9b09621153db/5wdkgt0MBmkbExvd5NibfwA4bU0nXtRHt9RvaNpdtS5tArLEZqzjdlYJftBAlIC1cVXIg11A6K6cI32YuDfpUjQG_8juj5zZ-A1by_xT8l31S8yr0tujfOnHmJn8ndPM5pbQVpZ-TIJhF0qTRmM_KTU?expires=1763568000&signature=315d636d55488368ae121dadc7ca0211feede75a4d18ae094d28bb2e3fbeb6df&req=cyAjEM5%2BmIZdFb4f3HP0gGFKYBqPjY697HFPCeaWDJ6cc57JQZeT%2FBHHgJfH%0AQ1LWhTtACAnsN9grEg%3D%3D%0A
+
+How it looks once saved:
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/704670581/a3a33c3931b5189e5deef9e1/vWv9KrjJQ2lRHRxbhlEYPLcfpJWIxokoWMOpfMp9VX4XF_aeR77mQMwqdonCVSJX8b-S4VLgEtci0DaMYD0rrvE_EkFREfRZ2coG4QrlvbXXQjrxx_pKpFjjf1oQOaSkNucM_udWVu6iBE_pMStkmXo?expires=1763568000&signature=2d21357b0ed3d7c22e1c224ec761ff23ea6952bb7dcadf88215e416351c2abb5&req=cyAjEM5%2BmIleFb4f3HP0gGTY7OAURRWDGjBbCFLNLY5BxK5gpfd7XowvuMAO%0AbkrToUJODDFpAcioiw%3D%3D%0A
+
+---
+
+Italic text:
+
+<i> and </i> for italics
+
+How you would enter this:
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/704670585/d8423b65c76252d022c492c7/5Zi1mi58pYNnByd18_4QrWfqZQsJx9w1sQqlyjjbUXE7CR2vKLAc_XxyL_RRGcMl0qWWzqD3NSPNhOt-xNU9mDMgE6We6Ab8RGbKzqul0JG4Zt2I-PaUbfO-ZPPi8y75DvW6mWfyAkt5KMlHj9NXT4A?expires=1763568000&signature=ee18e0cd599ac81593feaf0c6c1ef0b507dac181c00a35b5462789a165ee7574&req=cyAjEM5%2BmIlaFb4f3HP0gMU9I2Kz%2FBrYpO5gNEpIKXYONTeQeZjyrtoLr5J2%0ACAmrDkkHGgGVm8DOPQ%3D%3D%0A
+
+How it looks once saved:
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/704670589/662db1a8bdb3c370811a5d13/rNqap-L8zgo9ATrQbkqHxnt7ePAbaDaQc-uyUqyh7KQ4kRYXvIEZk1K3Il56iVni6u2bFJtzXHcwYBqFxmxuQpOmp8X8AYgtVtWBpgJ0SQpigfGSUHC0cYPhX2R8rK-nAJCw1wAdx7GLD0YoEWrJ-BY?expires=1763568000&signature=b79f47c865c6df8d052d0e81e629b18f21aec57efef7568b3714a9ef9bd53b06&req=cyAjEM5%2BmIlWFb4f3HP0gOypIIBamgRAVulqACTqxptEV6fxUHvRIA09Y%2BIL%0AU13b5%2FT4fqnM%2FaZMLA%3D%3D%0A
+
+---
+
+Hyper-Links:
+
+<a href="url">link text</a>
+
+How you would enter this:
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/704670593/134d1e1d07a3dc737eb96b61/b7oU-wffTBWRh8WBOJA7EMQhBN1wxv5E1zURmQfGEwHA-8Uchu6u0yzyAqVD0EXbjA1y3Yc9KYJzopwMcc3JqTb6GiFJ_4JChWXwHZK3__4e-rF8I9aioY7NTT8NeJ3RC4IvEr-mtz7n6ZKCEskyl-s?expires=1763568000&signature=c81722b4d77aaf3ab4d219021368aa7c4fdcc9d00ce04f88921c99fd08064002&req=cyAjEM5%2BmIhcFb4f3HP0gKCcnsyhjdFZACbsdcGiJjH%2FcXSzLruoxv0QXTsL%0Amr7iMrpesBJQOrFpgA%3D%3D%0A
+
+How it looks once saved:
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/704670600/bcc85cf40ae759d23137c0e1/qnukKoYr2fMbc5j-K8mJJxMFSMjSaCKSIZqyHrmYzk_zKIsVLhxsnBpxnfACDgRIOhodgDN-aUk6A5uV5-0a_lnRpf0ZtOMBisysZB58okn8aL9pS2I27VH_-mzuCjQaUA2nQZ5t7-NMKEEpPqQhbSw?expires=1763568000&signature=d35a80500decec055776f745e853cb5047a784b6c73e06d67768f2b7b441ad44&req=cyAjEM5%2Bm4FfFb4f3HP0gFhlPItXhT5948rLwkuUQGeAbODxwqn7FynnB6p6%0AJZZoQgw3a55Y0Tbo5Q%3D%3D%0A
+
+---
+
+Here is an example showing all these tools in use together:
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/704670609/b447fd1ec827710b61082ccb/S0TJ6Vq187ZutQRjdS1JEDqU2LwBc7cOF3pBVoyia8oYRJNgIqQ_PWPuCY8hbttbYODo7E2tkAI_paJp2hDxcWSmwEQ1ClALIhWK1LZbrSz4hOz9e7XH3WfS_UZwO9fenBsn5BDSCCdzUguFsBThMT4?expires=1763568000&signature=4f1e50777a260fe171c7ba6624968070695facd1095e8ee1481119e3d08249e2&req=cyAjEM5%2Bm4FWFb4f3HP0gLrXx%2FrCqZBOItmiSd9p7uneQzPLHK%2B6yBWr%2FAdN%0Ah0g6%2BT28NvVkoAfyUw%3D%3D%0A
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/704670615/9caf676e009cde1d00b161b1/Lg_aTS8EQb4KcyJaIpxGDfjwS0U15DIXYLpXeg-6omtb5KOjAp6cD2ys3pzrhswYmeZSQa_xmhkf1HBy6RwpsOiYTbqg7gUnEuyHbTMzpqg1ZVwLxhlzsOTn-FjoC2pehPcS3VbJ1G-eXjJ5hsKgrQw?expires=1763568000&signature=97b2be25067eef5a304578fc7ae7f44ee007169c5d706b3c153bb4575ea97ffa&req=cyAjEM5%2Bm4BaFb4f3HP0gAjEYJ8Ew49sM87Z2ZnNr7CAiyY8g%2BMhMGFoXTyE%0AlRmJmWpeeIpJTgTMtQ%3D%3D%0A
+
+---
+
+---

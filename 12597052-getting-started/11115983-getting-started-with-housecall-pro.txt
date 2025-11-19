@@ -1,0 +1,142 @@
+Getting Started with Housecall Pro
+Source: https://help.housecallpro.com/en/articles/11115983-getting-started-with-housecall-pro
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: Learn the basics to get your account set up so you can...
+
+Setting Up Your Account
+
+Before you start scheduling jobs and estimates, sending invoices, and taking payments, you'll need to set up your Housecall Pro account.
+
+The following sections will walk you through the essential first steps, like updating your business info, setting preferences, and preparing your account to run smoothly from day one.
+
+---
+
+Step 1: Set Up Your Company Profile
+
+Enter the following information in your Company Profile settings:
+
+- Business information (including business name, address, support email, website link, industry, and more).
+- Company description
+- Logo
+- Message on invoices, receipts, and estimates
+- Terms and conditions
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1775941989/2b6e57b82cdfb4f24969b41b7b1e/Housecall-Pro-10-13-2025_12_17_PM.png?expires=1763568000&signature=0d38e0d445f055f1e0b778e31cce5db8b0c94d076dc616cf4a41f50d59cccafb&req=dScgE8B6nIhXUPMW1HO4zeNMj95rk75RlRKNLoqlw6eI%2BEl%2BUQ39c%2BYF6GAu%0AUvkll3JohCBL%2B6FeV5k%3D%0A
+
+---
+
+Step 2: Add Your Employees
+
+To add an employee to your account:
+
+- Navigate to your Settings by clicking on the gear icon in the top right corner of your Housecall Pro account.
+
+- Select Team & Permissions from the left menu and ensure that the Team tab is selected at the top of the page to view your team members.
+
+- Click the Add team member button on the right to add your team member's information and set up their profile.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1775939920/b6f5c6a96d5e7b7ef868d374e11a/Housecall-Pro-10-13-2025_12_15_PM.png?expires=1763568000&signature=d3ea5850131c1a13710296dd730a551e8f8eac0e24f1f023d6dfff58a1d878e6&req=dScgE8B9lIhdWfMW1HO4zcnWZkTAuFUe1lVjFmgnHIZv%2F3AtHi7AHI4v%2BN7%2F%0Ao3DEbDDSGLYqKBqNHDA%3D%0A
+
+---
+
+Step 3: Add/Import Your Customers
+
+To start building your customer list in Housecall Pro, you can either:
+
+- Add customers manually by entering customer details one at a time.
+- Import customers from a CSV file, QuickBooks, or from your contacts.
+
+---
+
+Step 4: Add Services/Materials to Your Price Book
+
+Adding Services and Materials to your Price Book ensures that you and your team have quick access to accurate pricing, clear descriptions, and consistent details, making it easier to build estimates and invoices that look professional and help close jobs faster.
+
+Follow these links for instructions on setting up your Price Book:
+
+- Services
+- Materials
+
+---
+
+Step 5: Add Your Bank Account for Payouts
+
+Before credit card or ACH funds can be deposited from our processor to your bank account, you'll need to connect your bank account to Housecall Pro by entering your bank deposit information and providing verification details about the business, the business owner/representative, and any additional business owners.
+
+Connect your bank account to Housecall Pro in 3 easy steps:
+
+- Step 1: Connecting your bank account to Housecall Pro (via Plaid or manually).
+- Step 2: Verifying your business information.
+- Step 3: Verifying the identity of the business owners.
+
+Once you've set up your bank account to take credit card payments through our processor, your customers will have the option to quickly and conveniently pay their balance online through email or text.
+
+---
+
+Step 6: Register for Your Custom SMS Number
+
+Registering for Text Messaging allows you to receive customer replies to notifications and gives your customers the option to pay by text.
+
+---
+
+Step 7: Configure Your Estimate, Invoice, and Payment Settings
+
+Configuring your estimate, invoice, and payment settings lets you customize what your customers see and how they can pay, giving you control over both presentation and convenience.
+
+Follow these links for more information:
+
+- Configure Default Estimate Settings
+- Configure Invoice Settings
+- Housecall Pro Payment Processing Options
+- Manage Pay Online Options
+
+---
+
+Learning the Basics
+
+---
+
+Creating and Sending Estimates
+
+Creating and sending estimates in Housecall Pro is a simple way to give your customers a clear, professional overview of the work you plan to do before any job begins. This helps build trust, reduce surprises, and get quicker approvals so you can keep things moving.
+
+---
+
+Creating Jobs and Sending Invoices
+
+Creating jobs and sending invoices in Housecall Pro helps you stay organized and get paid quickly. You can easily schedule work, add detailed line items to clearly show the services or products provided, and send professional invoices that your customers can pay with just a few clicks.
+
+---
+
+Taking Payments
+
+Taking payments through Housecall Pro ensures you get paid quickly and securely, while giving your customers a convenient and professional checkout experience—whether it’s in person, online, or by text.
+
+---
+
+Next Steps
+
+- Reporting
+- Reviews
+- Online Booking
+- Job Inbox
+
+---
+
+Getting Started Checklist
+
+If you want to make sure you complete the steps for setting up your Housecall Pro account, this checklist will help you stay on track and set yourself up for success from day one.
+
+Table:
+Row 1: Setup Steps | Completed
+Row 2: Step 1: Set Up Your Company Profile | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1488936908/e8fdb670e46cf577b515e7da67fd/white-medium-small-square-emoji-clipart-xl.png?expires=1763568000&signature=681b7edbd8b13f423a26574ddfdb115360108603d54221f06da91b4359a225b7&req=dSQvHsB9m4hfUfMW1HO4zdqq4AlwFYw2V6%2B0QcEPp6VawwVShEGTM2VQZhaY%0ArFlK%0A
+Row 3: Step 2: Add Your Employees | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1488938115/22e7449904241572f24366a523b7/white-medium-small-square-emoji-clipart-xl.png?expires=1763568000&signature=28b5e95edc6220230454cf6495512f401d92af717986b5f7184fd1513b4aa9f0&req=dSQvHsB9lYBeXPMW1HO4zZ2yaHJpxs0%2FagH8xEiQK5LABIDIRQUZaxMRp6yk%0AMUVJ%0A
+Row 4: Step 3: Add/Import Your Customers | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1488938182/9b8f4bd807798c50c56e9105b82b/white-medium-small-square-emoji-clipart-xl.png?expires=1763568000&signature=820955168ec5ee067a8367456da67441434790554898dc30020db8d5c947713a&req=dSQvHsB9lYBXW%2FMW1HO4zaVvavORoWAAWfRJ6E9kSoKcO76yjx3BlWQiHEja%0A8wWA%0A
+Row 5: Step 4: Add Services/Materials to Your Price Book | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1488937251/29f6fac365fc270a59d1c55ef136/white-medium-small-square-emoji-clipart-xl.png?expires=1763568000&signature=3b76dc35459c04c43b9d35ee0cf17236c65fea90ec27ac70bccc3a4692908b8c&req=dSQvHsB9moNaWPMW1HO4zbe58N97gwV5Q7aBL0qvgKj1VtoidoHVeuWeiy%2Bv%0AHriX%0A
+Row 6: Step 5: Add Your Bank Account for Payouts | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1488938209/b901f214bcc7a90a6cd757666bb4/white-medium-small-square-emoji-clipart-xl.png?expires=1763568000&signature=f6d648adad7a3e5d821bd8bb18e740bc99e6164663c4c4e7f8cd50a8c1340907&req=dSQvHsB9lYNfUPMW1HO4zUJYknPtwEzLu0x4%2Fkn2bWUvy92xTYabOM%2BPPV9x%0AYEix%0A
+Row 7: Step 6: Register for Your Custom SMS Number | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1488939352/6cde80e630155d44b6ce53256b44/white-medium-small-square-emoji-clipart-xl.png?expires=1763568000&signature=9d5362fdfc25b9d90b24e7ebbca226b1af299a66025593345e5cef5a965099e5&req=dSQvHsB9lIJaW%2FMW1HO4zT8yeVfC4XtvUzr8T1c9NA71XaNelZMeuVdyPUW7%0AATh8%0A
+Row 8: Step 7: Configure Your Estimate, Invoice, and Payment Settings | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1488939388/5c1b38b392cd179974db88635fef/white-medium-small-square-emoji-clipart-xl.png?expires=1763568000&signature=d9d13fe869182d051397da1b51308ee892a5678dc66a0a38b95114452fffcfb6&req=dSQvHsB9lIJXUfMW1HO4zZ5Eo%2BaF8Z5RUSPQ6S0ajbOAGzkBNYBccjOvIfRn%0AAnnN%0A
+
+---

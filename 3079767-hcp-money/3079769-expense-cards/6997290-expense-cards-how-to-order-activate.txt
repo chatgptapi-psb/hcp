@@ -1,0 +1,102 @@
+Expense Cards: How to Order & Activate
+Source: https://help.housecallpro.com/en/articles/6997290-expense-cards-how-to-order-activate
+Author: Nate H
+Last updated: Updated over 3 months ago
+
+Summary: For your security, Expense Cards will ship to you in an inactive state. Activate the cards before making any transactions.
+
+Order and Activate Expense Cards
+
+For your security, Expense Cards are shipped in an inactive state, meaning they cannot be used for transactions until activated. Upon receiving your Expense Card(s) in the mail, you'll need to activate each card before you can make any purchases. Please follow the instructions below to order and activate your Expense Card(s).
+
+---
+
+How to Order an Expense Card
+
+To order your first Expense Card:
+
+- Go to My money in the top navigation bar of your Housecall Pro account.
+
+- Select Expenses > Expense Cards from the menu on the left.
+
+- Click Add card in the top right corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694746429/72ab31b5ddd890b56df54d37c682/ExpenseCards1.png?expires=1763568000&signature=cd87eb459c62c27ee153af185737578c8591c02c1dadcc7714c1fe304f6e353d&req=dSYuEs56m4VdUPMW1HO4zS7CO88TAdMWnc97SWkSrH%2FvLUNvFLAKiEgs4%2Bb4%0AmtQG0jDb1AD26cUUBtE%3D%0A
+
+- Select Physical Card.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694747770/d7897c47e96444b3d93fba350353/screenshot_2025-08-26_at_10_48_27___am.png?expires=1763568000&signature=49e7ead492ae45a84885b90d2cddfc1efed3d5df02c695ece37d67173ec5e0e3&req=dSYuEs56moZYWfMW1HO4zVg0uoslKUHisBZWN0CkJv%2FTAl5fx1sQ2vseqnwX%0Aa1L74vNFLY2UZF5M%2FHE%3D%0A
+
+- Use the Cardholder drop-down to select the employee whose card you need to replace.
+
+- Click the toggle next to Fuel purchases only to limit the card to purchases at gas stations (optional).
+
+- You can use the Spending limit drop-down and Amount field to set a spending limit for the Expense Card (optional).
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694750245/14e547bf93a4d3fcdae93a9a2277/screenshot_2025-08-26_at_10_49_20___am.png?expires=1763568000&signature=4554301eb990b8c6261ccf87e5b2ab948092302e1499795414a5555177ba91d2&req=dSYuEs57nYNbXPMW1HO4zURrMHcsY3Eh7K0opGmIC2%2BGE3UvJQSqeMZGJql6%0AA8hG51CxxBzPKtMnMOQ%3D%0A
+
+- Next, confirm the shipping address that the Expense Card(s) will be sent to. The Send to business address checkbox will be selected automatically.
+
+- To send the Expense Card to a different address, uncheck the box and enter another shipping address.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694752524/90fc97b04b1e2a76b46e13384cc0/screenshot_2025-08-26_at_10_50_48___am.png?expires=1763568000&signature=77ddf59c02036247f5dc7b94b41e34d6bbae32550ae963e948a3f91653ae76a8&req=dSYuEs57n4RdXfMW1HO4zXYM0LC%2Fxwv%2BIBa6PNBtDIGl2Y%2BXDyQ8mF2bevzG%0ATwIiJ2gcvtEEHtS83II%3D%0A
+
+- Click Order card to confirm, and your card(s) will be shipped to the address provided, usually within 5-7 business days.
+
+---
+
+How to Activate an Expense Card
+
+To activate your Expense Cards:
+
+- Go to My money in the top navigation bar of your Housecall Pro account.
+
+- Select Expenses > Expense Cards from the menu on the left.
+
+- Click the More icon (three dots) to the right of the team member whose card you need to activate.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694754268/eea0fa89c49aac0c12bc2d19c3ba/screenshot_2025-08-26_at_10_52_03___am.png?expires=1763568000&signature=f4a553d5a2dcd75b2e752f63ca0b728500a4cab9b67efa8f76eb7c5b2706007b&req=dSYuEs57mYNZUfMW1HO4zT195wpLrvm67Whx5duWqdzbBwIEN%2BZDjPdW4Mm6%0AUjwvfusnTua06eFUiPM%3D%0A
+
+- Select Manage card from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694754671/0c7cfcfdadf02428a157b8cdf236/screenshot_2025-08-26_at_10_53_21___am.png?expires=1763568000&signature=ed43c8ba9c7f21267d080770116152b204e961467c875f27414b3adf5067a707&req=dSYuEs57mYdYWPMW1HO4zShmSsI4gVK%2BlaxPOtwcH5cNchPtcdBMyRvbTvvn%0A3LRsPujxOzeOqN33%2BiY%3D%0A
+
+- Select Active as the card status.
+
+- You can also choose a spending limit from this window (optional).
+
+- Click Save in the bottom right corner of the Edit card window - Success! Your Expense Card is now active and ready for use!
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694755269/e9d805d16024787f36042f2fcfc5/screenshot_2025-08-26_at_10_53_59___am.png?expires=1763568000&signature=8fc00a3c9b9fd9695c9b2a717e8a8063ecef67033b97d9a276d6cb94ba8fc18b&req=dSYuEs57mINZUPMW1HO4zYWdn2cLQZdGeQeKLKRu%2BzSVqAefOvtWFYl4bxMN%0AUf4m43SSCa2Mk78L22s%3D%0A
+
+---
+
+I haven’t received my Expense Card. What should I do?
+
+If you haven't received your physical Expense Card yet, confirm that your card was sent to the correct address and ensure that the card hasn't been activated to prevent any fraudulent charges.
+
+When logged into Housecall Pro, click the Blue Chat Bubble in the bottom right corner of your screen and send a message to our Customer Support team.
+
+To confirm the shipping address for your Expense Card:
+
+- Click on the My Money tab in the navigation bar at the top of your Housecall Pro account.
+
+- Select Expenses > Expense Cards from the menu on the left.
+
+- Click Add card in the top right corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694758098/8b8c755fa55a960465eef5ed0d88/screenshot_2025-08-26_at_10_47_13___am.png?expires=1763568000&signature=4d4d7939411c541ed92220dbfedb9f5fd04b9d78c5ebe9fdea1b593d1885376b&req=dSYuEs57lYFWUfMW1HO4zUxB9sTOzVLg4fClP5IaoEL1e0HvRVaScPt7ZuiP%0AUAnLc4RR3O2BKkN%2BSB0%3D%0A
+
+- Select Physical Card.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694756415/4369c2474586d38fa5d2fcc889b6/screenshot_2025-08-26_at_10_48_27___am.png?expires=1763568000&signature=24423a3b6b8305cda09b6c1fd6cb12756adabafe75bdf062d457eb9f577d4ca4&req=dSYuEs57m4VeXPMW1HO4zbXP0YtUJOnt8BuJaPCMKnm5hlwkLJWtJq%2B1IfCE%0A3FYwMlfIz7wmm9i%2FSL0%3D%0A
+
+- Confirm that the shipping address listed under "Deliver to:" is correct.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1694759966/cb200cafd9973a9f3b1f4f40972f/screenshot_2025-08-26_at_10_50_48___am.png?expires=1763568000&signature=f46570574b77a2eabfc3627b37de874cce079e0e48f3ca32df4ae432aba3cf25&req=dSYuEs57lIhZX%2FMW1HO4zdNH%2FAcsRkZnZtPLvvLz7iLEmxwHNnO%2Fb530ntPA%0AVD98itXudPQa4DiukEM%3D%0A
+
+---
+
+Housecall Pro Expense Card is a Visa Commercial Credit Card, powered by Stripe and issued by Celtic Bank and is subject to approval. Housecall Pro partners with Stripe Payments Company for money transmission services and account services with funds held at Fifth Third Bank, member FDIC.
+
+---

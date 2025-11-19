@@ -1,0 +1,46 @@
+How to Use the Service Price Adjuster Tool in Your Price Book
+Source: https://help.housecallpro.com/en/articles/4368225-how-to-use-the-service-price-adjuster-tool-in-your-price-book
+Author: Taylor M
+Last updated: Updated over a month ago
+
+Summary: Discover effective methods to adjust service prices using the service price adjuster tool within your Price Book.
+
+How to Make Service Price Adjustments
+
+To make service price adjustments to your Price Book:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Price Book from the Settings menu on the left.
+
+- Click the Services tab on the Price Book settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643566653/691e5f67ff4362351ba2d0f704fc/image.png?expires=1763568000&signature=4c6b58ce1aebe50b71f3a4180d39bac331fe6ea1c6e546a704a64cbef30cee4e&req=dSYjFcx4m4daWvMW1HO4zUg0Oyn9C%2Fpip%2Boz%2BGt8nGUPd4T5Lt5D9jhod0rf%0ALN4BpkbNRjeQd62uQ9I%3D%0A
+
+- Select Increase or Decrease under the Adjustment section to modify prices.
+
+- Enter the percentage for the change in the Amount field.
+
+- If you want to round prices to the nearest dollar, check the box next to Round to Nearest Dollar
+
+- Under Apply To, you can choose Apply to All Services to apply changes to all services, or select specific price book industries and/or categories by clicking the > icon and checking the relevant options.
+
+- Once you have set your service price adjustment and you have set whether you want to round to the nearest dollar, press Save.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1647616711/5d2d5740faf101eb28db335df1c8/image.png?expires=1763568000&signature=672534cabd0c6876f112bbdf5e356e77751e68057352c7d498fcf7f5eb3d2c1d&req=dSYjEc9%2Fm4ZeWPMW1HO4zTSGtT8e%2FQKNyBHrOvYnTg6w7A%2FXGB28unkfXnHB%0ACSdaxETgE7CnHvE95NE%3D%0A
+
+- Next, review the price adjustment changes you plan to make to your price book services. A pop-up will appear with the message: Adjust pricing? This will increase pricing for the selected services.
+
+- Click Apply Changes to save your adjustments.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643607306/ba7b3cf3d1af2ab229f354caadfd/image.png?expires=1763568000&signature=73865ac2efdcc0dbc70b360b86b9a35d0313236b0497d53640d0c19dcdf42914&req=dSYjFc9%2BmoJfX%2FMW1HO4zZYPHb5Ne48VkiD81THFDXqjRcWgZFNwu3tVdxio%0AzGT7dEv0GgNj10dDRfg%3D%0A
+
+- Depending on how many services you are looking to adjust, this can take some time.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643611451/a7b3a00e777426e75096ec10b9ac/image.png?expires=1763568000&signature=63140f510d0bd9b37be80f11f60b675f55a91844d3ba90a25a94678e3b368094&req=dSYjFc9%2FnIVaWPMW1HO4zaj5hIRKhUo4tCZ19zldJVuiBpQ8FanB9lbW7vVQ%0AIHePNryCrrrLRNINQ3E%3D%0A
+
+- Finally, you will receive an email from notifications@housecallpro.com with the subject Price Book Adjustment Complete once the changes have been made. Click View Price Book in the email to review your updated Price Book.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643631108/8d5171ca53c15d53f85baf4abf06/image.png?expires=1763568000&signature=8c5e2a7334c60090ae09b93e0bd6eac593737187877b2d55a77675e67cd5f243&req=dSYjFc99nIBfUfMW1HO4zR83CkuVebBkZQfOIUc8LtOPS8rs3MA6CM%2BiyW7v%0A%2B%2BcFoNkMShi%2FIR3ei0E%3D%0A
+
+---

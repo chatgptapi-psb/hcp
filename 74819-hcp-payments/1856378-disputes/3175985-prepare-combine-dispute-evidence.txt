@@ -1,0 +1,143 @@
+Prepare & Combine Dispute Evidence
+Source: https://help.housecallpro.com/en/articles/3175985-prepare-combine-dispute-evidence
+Author: Nate H
+Last updated: Updated over a year ago
+
+Summary: Learn to convert images to PDFs, compress large files, & combine dispute evidence efficiently with best practices for effective submissions.
+
+Preparing Documents for Evidence Submission
+
+Only one document can be submitted for evidence. However, you can combine multiple pieces of evidence into one document to prepare to submit. This article covers essential techniques for preparing evidence to submit for disputes.
+
+---
+
+Combine PDF Documents
+
+To combine PDF documents:
+
+- Navigate to the Combine PDF website.
+
+- Click the 'Upload Files' button (Make sure you're in the 'Combine PDF' 'section, although you should be by default)
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1207897343/dd358bd6dc90f62f393c981e5f33/Combine-2Bevidence-2Bstep-2B1.jpg?expires=1763568000&signature=89266169349c1d22ec286a0e854e0fe07b16cb5ef2b33d52de38009aedfcc25d&req=dSInEcF3moJbWvMW1HO4zfqE3zyY4%2F2T5WM25NsY0WkhuBgZSaFgxQhLTOX%2F%0AtYy%2Bna%2F5oICAow2nynM%3D%0A
+
+- Select ALL PDF files you want to merge and click 'Open' on your computer's File Explorer window. - You can repeat these first 2 steps multiple times until all documents have been selected
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1207897354/1df34c133db501b20973315817c4/Combine-2BEvidence-2BStep-2B2.jpg?expires=1763568000&signature=e01cf43c34e2deb3d5c16e9d1d84fc03500ccfd05ca4a6277f658638b857a7ec&req=dSInEcF3moJaXfMW1HO4zehCZ3IiePHl2LVdPDgJLC1Vtfoe9Uisl3xASQDb%0Aqe0Mac7aiApkSvBw8Is%3D%0A
+
+- Once the files have finished uploading, click the 'Combine' button.
+
+- The combined document will appear in the downloads section of your browser and/or computer, which you can open and save.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1207897347/ea2588289e9d72b0dbd05f428da6/combine-2Bstep-2B3.jpg?expires=1763568000&signature=d62e27a653b8424ec114d7a63d11b21827451bf10eccbf30db6032389a966c3d&req=dSInEcF3moJbXvMW1HO4zYpvE4DzBO46xkPdB4p2EE1I2kdRChiP%2FxPnrdME%0ArVwCl3Bv0D4EsHGnnoE%3D%0A
+
+---
+
+Convert JPG Images to PDF & Combine
+
+If you are combining more than one piece of evidence to submit, you'll need to first convert the image to a PDF file using the JPG to PDF website since the evidence submission form only allows for PDFs with multiple pages, not images.
+
+To convert images to a PDF format:
+
+- Access the JPG to PDF website and click the 'Upload Files' button. (Make sure you're in the 'Combine PDF' 'section, although you should be by default)
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1207897350/e1bb5f0381815da7cc24f19a6781/JPGtoPDF.png?expires=1763568000&signature=4516653e38df95eb2f0769f2a87099d329bce31be9876b3a1b89286640b59558&req=dSInEcF3moJaWfMW1HO4zanLbWh8t0OS0DqBenNawFG%2BwAWh8ygsJQ0IwlwL%0A2ZTUocpjDMSp56oqI8w%3D%0A
+
+- Your computer's File Explorer window will open, where you can select the image(s) you'd like to convert. Then, click 'Open' to upload the images you've selected. 
+​ - You can repeat these first 2 steps multiple times until all documents have been selected.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1207897337/a44f4b75ee36aaa6dfabbf7351d8/convert-2Bjpg-2Bto-2Bpdf-2B2.jpg?expires=1763568000&signature=88259b388af988f88cdac8e76c3ae69c7162bc8d812314a37f80ceee6683b55f&req=dSInEcF3moJcXvMW1HO4zZym4MvONwE0LY2pL7jWzGVgsDrhujoNyog1Ntf1%0ACBffpB9gI9UTM%2F%2BlRsc%3D%0A
+
+- Once the files have been uploaded, click 'Combined' at the bottom of the JPG to PDF web page to download the newly formatted documents.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1207897342/ca2a988c4458663194119e0ff0ea/JPG2PDFcombine.png?expires=1763568000&signature=47ec54fe7c15405fdc7889060699467bff6bd0e66d644ae7af18af462c52971b&req=dSInEcF3moJbW%2FMW1HO4zf7Ivd4hmDd1bzHxArvWhENz26TEcmem3hgD%2Fbb6%0ARkOdR8%2FehPznRz3vF9k%3D%0A
+
+- The newly formatted documents will appear in the downloads section of your web browser and/or computer, which you can open and save. 
+​
+
+---
+
+Combine Evidence with HCP's Canva Template (Provided by HCP)
+
+We have created a template with Canva that you can access by clicking here.
+
+- After clicking on the Canva link, you will be prompted to sign up. You will need to create a free Canva account (no need to sign up for Canva Pro).
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1207937972/d2b17c3f874037cf5fa47ec766ac/CanvaSignup.png?expires=1763568000&signature=78a655ca2ccc4b970af8308bfb5ac70721555173f9e83e1e84bb45ad3889a533&req=dSInEcB9mohYW%2FMW1HO4zQiucGXXt7295%2FBRnnttEpXO%2FuyyeCIXrnUnQD01%0AXOkxo87cBbu5Nr8pWac%3D%0A
+
+- From here, click on the 'Use Template for New Design' button at the bottom of the page. If Canva shows that you are in 'Read Only' mode, click on the link again, or try refreshing the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1207937971/59bce5fc22bdb80cb5e8e08ba89f/CanvaUseTemplate.png?expires=1763568000&signature=d6029ba5dbe55b484b5d9d82f23e5b5c62ba35d845beae6ba557268d8321e361&req=dSInEcB9mohYWPMW1HO4zYXBaeQ1%2BN08F2kW9wNoOx5PtGvSOYjA8TgqIw3S%0AI%2BmhMtyXR6PMHHZt5%2BI%3D%0A
+
+- Edit the template to add in text, screenshots, photos, etc. If you need more guidance on using Canva, check out our tutorial here.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1207937970/011b151a189adbd894063770e02f/image.png?expires=1763568000&signature=915c469ba2481000fb96a3ac7dc099a46cfd7a8b18ea492e7d28bc4451d8cf1a&req=dSInEcB9mohYWfMW1HO4zcXrwTHhuVUJ7vGlYkCuTH6DyIVqs9qNC8rmYqKV%0AO%2FYnTLPCiqx8JYotscc%3D%0A
+
+- Once you are finished adding in your evidence, click the downward facing arrow (⤓) icon in the top right corner of the page to download your document.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1207937973/5f3fb08f358c7fc712e4774fd371/image.png?expires=1763568000&signature=156c9ef81838523853485b8d4ce4d0681613545892a3e9aed674e461bbd615a6&req=dSInEcB9mohYWvMW1HO4zTXCNozMkEOTFJawAHB17633PtznT%2BH7pHxY8N72%0AZy3%2FdMWyhKrVMAUozyc%3D%0A
+
+- Then, select 'PDF Standard' from the File Type drop-down and click the 'Download' button.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1207937969/343b65100d16057d879e4930c368/image.png?expires=1763568000&signature=fb32d21568dd070ea07c8dca6c6a4ccce1afc15b477046dee306ec95c01be9fb&req=dSInEcB9mohZUPMW1HO4zd0Jl%2Fb5node7BDMtS06tXY49ow4AmHjhl6VEMpF%0AC50me2pTPslf%2FlMHWTQ%3D%0A
+
+- The PDF will then be downloaded to your computer so you can submit a PDF document with your evidence for the dispute.
+
+---
+
+How to Compress Large Files
+
+Stripe, our third-party credit card processor, limits the document upload size to 5 MB for all files. If you have combined multiple pieces of evidence into one document and are attempting to upload, you may get an error that the form can't be submitted because the file size has been exceeded.
+
+If you're getting an error message that the file you are trying to upload is too big, you can use these steps to compress the file.
+
+To compress a the size of a file:
+
+- Use a PDF Compressor website and click the 'Upload Files' button.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1207897346/9095dd570344022b26b5e882aef9/compress-2Bfiles-2B1.jpg?expires=1763568000&signature=67311d550d7df8dc785ea83dc41653d03652dd5b01e39afd73f1c04fd12ea73f&req=dSInEcF3moJbX%2FMW1HO4zWutvU4f4KOQAEMf%2F1ZxECmB2cYaan488PbT3qVL%0Az7Fd%2FTPOS7crNpNQeB0%3D%0A
+
+- Next, your computer's File Explorer will appear where you can select the file(s) you want to compress.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1207897344/7cee054d76efd6f815e8852bfca7/compress-2Bevidence-2B2.jpg?expires=1763568000&signature=b5e3b2eaa487b8b1892b52bb98a0c4c1df0319654588097bb174830d8e5c7303&req=dSInEcF3moJbXfMW1HO4zRs1v94KoNdiFyFLySfHLeMIj8zC2%2Fta7eb8qyXC%0A5ZATZlfRs9CeQftpOhY%3D%0A
+
+- Once all files are compressed, you can find the document(s) in your browser and/or computer downloads, which you can save and submit through the evidence form
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1207897341/9a86789b976e77c18cf150c48bb5/compress-2Bpdf-2B3.jpg?expires=1763568000&signature=d649a862ec99c267efbbb7c3c2f5b0b2dd31dcfbf316adcb1bba85eff08e1be0&req=dSInEcF3moJbWPMW1HO4zV%2Bxe5PrUQ9Tm6zsqXyYLpa%2FGgiCxQZDLXHfw62%2B%0Af00197XZaV7QgcAtZbA%3D%0A
+
+---
+
+Submit Evidence or Accept a Dispute
+
+To accept a dispute or submit your dispute evidence:
+
+- Locate the document you created when preparing your evidence in your browser and/or computer downloads.
+
+- Log into your HCP account and click on the 'My money' tab in your Housecall Pro navigation bar.
+
+- Click on the 'Disputed Transactions' notification on your My Money page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1207917246/12a684e06e23d7d747ff7ca7f8d0/Screen%2BShot%2B2021-10-20%2Bat%2B4_21_54%2BPM.png?expires=1763568000&signature=7e70eff4a4a57fdb5cf908072af9703d66fd6a592179d8d14300ede605508835&req=dSInEcB%2FmoNbX%2FMW1HO4zbyhClUl8HcvfksLmLnKRujHsAkaNW8PP11sY8Hb%0AVxAIYSVEQqdtzPsG%2FBY%3D%0A
+
+- You'll then see all of your active disputes. This includes disputes that need your response or disputes that are under review by the bank.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1207917242/ba8c35c74535e87a76262c890139/Screen%2BShot%2B2021-06-18%2Bat%2B2_30_38%2BPM%2B-281-29.png?expires=1763568000&signature=1c0d9db053197e8e115855e41c5c02fb9309a9ed03fdbcc313a6a9c5438fada2&req=dSInEcB%2FmoNbW%2FMW1HO4zUzludxtNzmbJzmlWqVYBrfW00w0fNV8DsvzU24i%0ASn3sYx5RicLaftdFBWw%3D%0A
+
+- Select an individual dispute and you will have two options: - "I would like to submit evidence"
+- "I would like to accept the dispute"
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1207917248/37ac059a24af84e1b69d708a8df7/Screen%2BShot%2B2021-06-18%2Bat%2B2_38_28%2BPM.png?expires=1763568000&signature=15439a54ac6cceb9fe0aa686e0773adfce70d80fbe60ffddad0890d976692943&req=dSInEcB%2FmoNbUfMW1HO4zSGwzEKD9MoZhfyMwQh%2F3CcStb5qWH1eCRtfP2Bi%0ABqqqYLKEJk8KyqSpst0%3D%0A
+
+- To accept a dispute, select the "I would like to accept the dispute" option.
+
+- Then, type "I ACCEPT" in the text box at the bottom of the page and click the blue 'Accept Dispute' button.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1207917245/5fcd69d2c231f5f00fd62ffdacf5/Screen%2BShot%2B2021-06-18%2Bat%2B2_38_48%2BPM.png?expires=1763568000&signature=ae7fe02fb05da559bc9adc78d7b59d975c065486db46d147447e3911d7e54a27&req=dSInEcB%2FmoNbXPMW1HO4zV%2FgiAQsIR66fSYjwCO2bm4l3j08VonNxba8bJQI%0AO%2Fa3w8OwCJQKn24Ephc%3D%0A
+
+- To submit evidence for the dispute, select the "I would like to submit evidence" option. You'll then be prompted to upload your PDF file.
+
+- You will receive an email (sent to you from disputes@housecallpro.com to the support email address saved in your company profile) once a final decision has been made. 
+​
+
+---

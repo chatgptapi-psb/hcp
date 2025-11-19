@@ -1,0 +1,53 @@
+Setting Up G Suite for Your Website Domain
+Source: https://help.housecallpro.com/en/articles/3983835-setting-up-g-suite-for-your-website-domain
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: Verify your domain in order to use GSuite for email services
+
+Housecall Pro Blueprint to Success Workshop
+
+If you're looking for more advice on how to effectively use Websites by Housecall Pro, along with other great features, register for the Housecall Pro Blueprint to Success Workshop!
+
+[Button] Register Here -> https://docs.google.com/forms/d/e/1FAIpQLScM2b6NgGEvrjkOFAZPunvol2CoR4FIIFiVgR7DmTRqgd3gQg/viewform
+
+---
+
+---
+
+Housecall Pro is no longer offering new subscriptions to our Website Builder Product.
+
+If you currently have a Website Builder site from Housecall Pro, your site will continue to be supported. You may use this help article to find helpful information and resources related to your Website Builder site.
+
+If you are interested in a new website, check out our brand new offering, Websites by Housecall Pro!
+
+---
+
+Getting started
+
+If you haven't already, you will first need to sign up for a G Suite account. You can do that here (note that G Suite accounts have a cost associated with them. We recommend starting out on their Basic plan). If you have any issues setting up a G Suite account we recommend reaching out to Googles support teams for further assistance as they will have the best insight and access to the product.
+
+Once you have your G Suite account set up
+
+Once you have your G Suite account set up and are ready to connect it to your domain, you can follow these steps below:
+
+- From the Google Admin Console, click on the Click here to get started link on the banner near the top of the page
+
+[Image] https://downloads.intercomcdn.com/i/o/205550198/6455f94b2bd120ba41ff94ea/Screen+Shot+2020-04-30+at+5.57.44+PM+copy.png?expires=1763568000&signature=422d0d6a4a24d76b7e9d35cf29bdba5232f53892fa8dfa1c7472e9af123ed7e1&req=diAiE8x%2BnIhXFb4f3HP0gGj%2BIECjbCf3BOhHzexgZZDOwT3qVhAPIJdzmq4j%0A3awF6zOxcD60Zwd52g%3D%3D%0A
+
+- Choose 'Activate' next to 'Activate Gmail for yourdomain' tile.
+
+[Image] https://downloads.intercomcdn.com/i/o/205550356/112d9f24136c189509e572b9/Screen+Shot+2020-04-30+at+5.58.24+PM+copy.png?expires=1763568000&signature=9c34c099cab4cf575eeb5b7c01d9036b44181b6a74ff610f49fe9aada743ec7a&req=diAiE8x%2BnoRZFb4f3HP0gFZum1cFEc66zU8vjljKpkUu9JL1I8CTNouktJRh%0AbxVlJPJ9sndSXxN4Yw%3D%3D%0A
+
+- Click on 'Continue' in the lower left corner of your screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/205550511/527902302435d4e91ffbe993/Screen+Shot+2020-04-30+at+5.58.31+PM+copy.png?expires=1763568000&signature=7b53ff4effa8913706ce5eeb2cda6f14bc2653dcfb678780bd14a24908fc0070&req=diAiE8x%2BmIBeFb4f3HP0gGAM1ioFsd7YkKoHK8D1JcBHc9x1vsOm9ZjzwHW6%0ANnDCEJiVRrYfSOLRDw%3D%3D%0A
+
+- Scroll to the bottom of the next page and find the verification code associated with step 5 (you do not have to complete steps 1-4 on your own. We will take care of those for you on our end once you provide us the code from step 5!).
+
+[Image] https://downloads.intercomcdn.com/i/o/205809502/a4b87b1d748138023c7fb01c/Screen+Shot+2020-04-30+at+5.59.10+PM+copy.png?expires=1763568000&signature=825cef82a7fbdb1e1d8800610fd1335bbe5d4c64a7693ce4d63695ad42728d89&req=diAiHsl3mIFdFb4f3HP0gOJYLOm1dYQTwYNvAdh%2Fhcb%2FNhGZcs7aBuRvEsYr%0ACj%2B8gotxVzaBpTxcxg%3D%3D%0A
+
+- Once you have that code, chat into the Blue Chat Bubble from your Housecall Pro account. Copy and paste the code into a chat and ask to get your Website domain hooked up for G Suite.
+- After we are able to add the verification and other MX records to your domain, you'll be all set to come back to G Suite and choose 'Activate Gmail'.
+
+---

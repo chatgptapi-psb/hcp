@@ -1,0 +1,85 @@
+API Overview
+Source: https://help.housecallpro.com/en/articles/8505035-api-overview
+Author: Mathew H
+Last updated: Updated over 2 months ago
+
+Summary: Learn where to find a developer to help build your custom integrations
+
+Where to Find an API Developer
+
+API is available only to Pros on a MAX plan. The Housecall Pro Public API allows you to create custom integrations with Housecall Pro. APIs are used to connect two apps together so that certain actions in one app automatically trigger a response in another app.
+
+Considering the technical nature of API, if you're interested in setting up custom integrations, you will need to hire a skilled developer. They can navigate the intricacies of the API and bring your integration ideas to life. Since our engineers' time and effort are dedicated to enhancing the features for all of our Pros, we aren't able to provide dedicated support on any API requests.
+
+Before getting started, we recommend that you review the available APIs in our open API documentation here: https://docs.housecallpro.com/. Note that not every feature is available to build an integration. You’ll first need to consider:
+
+- What you want to automate
+- Whether our API has the available API calls to automate your task
+- Whether the other software you want to automate with similarly has an open API and the available API calls needed
+
+When you do decide to collaborate with a developer, it's important to select someone you trust, as they'll have access to your account information. Think of it as giving them a backdoor to all of the data in your Housecall Pro account.
+
+Freelance developers work independently and have varying levels of experience. Some are just beginners, while others may be highly skilled and experienced. A freelance developer will work well for your integrations, as it will likely be easy to hire them on a short-term basis. Some examples of where you can find freelance developers are:
+
+- Upwork - Upwork is one of the most popular websites to find a freelance developer, one great thing about their site is that they offer payment protection and a review system
+- Toptal - An advantage of Toptal is that they individually screen every developer that is posted on their website.
+- Guru - Guru offers payment protection as well as the ability to view the portfolio of the developers on their website
+- Freelancer - Freelancer allows you to post the scope of the project you need to be done (in this case, custom API integrations with Housecall Pro) on their website, and any freelance developer can see this post and reach out to you with their interest
+- PeoplePerHour - Using PeoplePerHour’s search bar, you can type something like “API” and be presented with a list of freelance developers to choose from, this website has a review system to help you make your decision on which developer to choose
+- Truelancer - Truelancer offers a secure payment system and the developers on the website can potentially be available for long or short periods of time, as needed for your project
+
+Once you have decided on a developer to partner with, you’ll need to generate an API key for them. It is very important you have talked with your developer and that you trust them before you provide this key to them. This key is essentially giving them access to all of the data in your Housecall Pro account.
+
+As soon as your developer has their API key, they can use the API docs to begin building your custom integrations!
+
+If you are not interested in hiring a developer at this time, with a bit of time, you may be able to use some user-friendly automation tools, like Make, Zapier, and Pabbly Connect to create some API automations. Should you choose to explore these options, please understand that we are unable to provide support in setting up these integrations.
+
+---
+
+Generating and Managing Your API Key
+
+Once you’ve identified a trusted developer to build an integration, you will need to grant them an API key and share our public API Documentation with them to get started.
+
+As mentioned above: Housecall Pro cannot build or maintain custom integrations created via API keys. Hire a skilled developer who you trust before getting started.
+
+How to Create an API Key
+
+To start generating an API key, sign into your Housecall Pro account and go to your app store. Keep in mind that only Admin users can generate API Keys. Because an API key can expose sensitive data from your account, office staff do not have access to generating API keys.
+
+[Image] https://downloads.intercomcdn.com/i/o/628020681/7111f155fb0dd4aba5796cf7/step+1.png?expires=1763567100&signature=cfbcc7da2ce784ac72931928c176fc6c5cce1ddcf5cf8a101151ed3465fe27c8&req=ciIvFst%2Bm4leFb4f3HP0gC39fdAyfmw7L7J%2B7sIMSugabIuza%2BhyCwFm0nc%2F%0AuxZj1XJuIgAJb9f9iw%3D%3D%0A
+
+- Find the API app card, and click View Details.
+
+[Image] https://downloads.intercomcdn.com/i/o/1182670323/c86391bcb9c7ba915ccc7ea1/Housecall_Pro.png?expires=1763567100&signature=df7d8d828d87bbd5a7ad96ba7638469c737268236bcbb4491dbe7c72a084482a&req=dSEvFM95nYJdWvMW1HO4zfw9tMG4L8SlrFDepalmBQ0wZ2Me%2FWSRxbHK0aRM%0ADzXj3EWEznA1zVwzb9k%3D%0A
+
+- On the right-hand side, click Generate API Key.
+
+[Image] https://downloads.intercomcdn.com/i/o/628022099/99634c66f246831b10d1320e/step+3.png?expires=1763567100&signature=d0d3c133c975ef0172e93e85204a522828c2213d99e78ab9a3d95883f1fb394f&req=ciIvFst8nYhWFb4f3HP0gGRVRPjFUENEfOdoACXQupBm7uhqsUgPb5qyGloX%0A7EEm8fJt6d%2BG39iS%2Bg%3D%3D%0A
+
+- Name your API Key. This way, you can keep track of what project you are working on or who you are granting this API key to.
+
+[Image] https://downloads.intercomcdn.com/i/o/628022632/41da851e4d055f4699dc0753/step+4.png?expires=1763567100&signature=847186f1c4a642261626ec5a932b78c4c86ba2b61a6126b3a753cceb7655f86a&req=ciIvFst8m4JdFb4f3HP0gBohS1R0C%2FN3%2FJZvKZXfMvryaCZcBso77kxeJtXq%0AMN5AsRRYSFDy2lTlGQ%3D%3D%0A
+
+- Copy the API key and send it to your developer.
+
+How to Delete an API Key
+
+If you ever need to delete an API key, you can delete it at any time. Keep in mind that deleting your API key will break any integration that is currently using it.
+
+The first step is to sign into your Housecall Pro account and go to your app store. Similarly to generating API keys, only Admin users can delete API Keys.
+
+[Image] https://downloads.intercomcdn.com/i/o/628020681/7111f155fb0dd4aba5796cf7/step+1.png?expires=1763567100&signature=cfbcc7da2ce784ac72931928c176fc6c5cce1ddcf5cf8a101151ed3465fe27c8&req=ciIvFst%2Bm4leFb4f3HP0gC39fdAyfmw7L7J%2B7sIMSugabIuza%2BhyCwFm0nc%2F%0AuxZj1XJuIgAJb9f9iw%3D%3D%0A
+
+- Find the API app card, and click View Details.
+
+[Image] https://downloads.intercomcdn.com/i/o/1182670323/c86391bcb9c7ba915ccc7ea1/Housecall_Pro.png?expires=1763567100&signature=df7d8d828d87bbd5a7ad96ba7638469c737268236bcbb4491dbe7c72a084482a&req=dSEvFM95nYJdWvMW1HO4zfw9tMG4L8SlrFDepalmBQ0wZ2Me%2FWSRxbHK0aRM%0ADzXj3EWEznA1zVwzb9k%3D%0A
+
+- Locate the API key you would like to delete, and click the trash can icon on the right side of the API key
+
+[Image] https://downloads.intercomcdn.com/i/o/628024494/0b3fb79e67a1c0b9a9c71e0f/copy+and+delete.png?expires=1763567100&signature=11f5634844b1176a1cc1e607ef97472835e003ec81c53c13e14b8225d7620978&req=ciIvFst6mYhbFb4f3HP0gDFOn2USejaMNSLPk2bfcrAPMCzJ4j%2FqUp0v0zwS%0AkfTb6%2FG4GGGwjujSDA%3D%3D%0A
+
+- A warning will pop up, if you are sure you want to delete the key and stop any integration using it from working, click the I UNDERSTAND, DELETE THIS KEY button in the lower right corner of the popup window
+
+[Image] https://downloads.intercomcdn.com/i/o/1182673942/46763b7db4d277329dbae951/Housecall_Pro.png?expires=1763567100&signature=d306669c43481335428d8ce878446879c5c17b0465ba3f31beb931496e1e4acd&req=dSEvFM95nohbW%2FMW1HO4zbVQjAB8KjioXehM6uDmyc3FBtV1yG%2FTVr5pPcLT%0AtLgPeEO6lfxsb0bsMDc%3D%0A
+
+---

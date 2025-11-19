@@ -1,0 +1,70 @@
+Service Plan Template for Appliance Repair
+Source: https://help.housecallpro.com/en/articles/2463497-service-plan-template-for-appliance-repair
+Author: Ian H
+Last updated: Updated over a month ago
+
+Templates are a great way to get started with Service Plans. For more information on getting started with Service Plans, visit the Service Plans Starter Kit.
+
+Full Home Service Plan
+
+Plan name: Full Home Service Plan
+
+Plan Description:
+
+Washer:
+
+- Inspect & tune machine
+- Inspect installation of inlet and drain hoses
+- Perform tub cleaning
+​
+​Dryer:
+- Inspect & tune power chord connection
+- Inspect & replace flex duct
+- Clean dryer cabinet and drum felts
+- Service idler pulley and drum supports
+- Inspect condition of belt, blower wheel, drum supports, idler pulley, heating circuit, and ductwork
+​
+​Refrigerator:
+- Inspect & tune machine
+- Inspect & clean condenser
+- Inspect condition of door closure cams, door gaskets, and water connections
+- Confirm that compressor, defrost, and fan operations normal
+​
+​Dishwasher:
+- Inspect drain hose high loop, balance, proper mounting, and inlet connector
+Perform tub cleaning
+​
+​Oven:
+- Inspect & adjust balance of machine
+- Inspect oven door gasket
+- Inspect operation of bake and broil functions
+- Inspect operation of top burners
+​
+​Priority scheduling - guaranteed service within one business day
+
+Duration: 1 year
+
+Included visits: 2
+
+Price: $425
+​
+
+Kitchen Service Plan
+
+Plan name: Kitchen Service Plan
+
+Plan Description:
+
+10% discount on labor for any kitchen repairs. Can be used as often as needed.
+
+Duration: 1 year
+
+Included visits: N/A
+
+Price: $200
+
+Check out how recurring revenue helps your service business grow.
+
+---
+
+---

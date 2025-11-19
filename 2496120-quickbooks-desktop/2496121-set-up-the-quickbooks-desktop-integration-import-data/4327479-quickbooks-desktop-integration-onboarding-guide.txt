@@ -1,0 +1,368 @@
+QuickBooks Desktop: Integration Onboarding Guide
+Source: https://help.housecallpro.com/en/articles/4327479-quickbooks-desktop-integration-onboarding-guide
+Author: Nate H
+Last updated: Updated over a year ago
+
+Summary: Learn how QuickBooks Desktop integrates with Housecall Pro. Connect your accounts, import your data, and map your default accounts.
+
+Quickbooks Desktop Integration with Housecall Pro
+
+In this article, we'll go over everything you need to know about getting your Quickbooks Desktop Integration set up, from the integration requirements to mapping your default accounts.
+
+When setting up the QuickBooks Desktop integration, the setup must be completed in singer-user mode within QuickBooks Desktop by a user who is an Admin in both Housecall Pro and QuickBooks Desktop.
+
+Now, let's get started!
+
+---
+
+Table:
+Row 1: Software/Operating System Requirements
+Row 2: When preparing to integrate QuickBooks Desktop with Housecall Pro, you'll first want to ensure that your QuickBooks Desktop software meets the requirements: - Only U.S. versions of QuickBooks Desktop are supported at this time. 
+​
+- Versions cannot be older than 3 years.
+​
+- Software must be run on a Windows operating system (Windows 10 and higher). 
+​
+- If your QuickBooks Desktop software is hosted on a Windows server, it must be Windows Server 2016 R2 or later. Microsoft does not support earlier versions.
+ 
+- If hosted in the cloud by a 3rd party, you'll need to verify that the 3rd party allows integrations with other software. - When running the Web Connector, you must be logged into a Quickbooks Desktop Admin account.
+
+---
+
+Set Up or Verify Your Main Bank Account
+
+In order to have a seamless sync between your bank activity in Housecall Pro and Quickbooks, you'll need to start with accurately setting up your main bank account.
+
+When refund checks are written in Housecall Pro, they will be exported into this account.
+
+Because payment activity is recorded under this account, it is vital that the name entered is identical to what is shown in QuickBooks.
+
+Start by recording the name of your main bank account located in the Chart of Accounts in QuickBooks Desktop. 
+​
+
+To find the name of your bank account in QuickBooks Desktop:
+
+- First, open your QuickBooks Desktop software and click 'Lists' from the menu at the top of your QuickBooks Desktop screen, then select 'Chart of Accounts' from the dropdown menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/397126186/7f4fa3c58ae2a3a50703dfb3/image.png?expires=1763568000&signature=8ecc9f8c5d56d671fea32c0a52dc41c35d61d23644461d0e394541d105cca0f9&req=dykgF8t4nIlZFb4f3HP0gGnreb7jzL%2Fge7ozpXj8GewWXvK6CLVaaDg%2BubTL%0Ah7R9KpTUO6WkZReLcw%3D%3D%0A
+
+- In your Chart of Accounts, you'll see the list of each account name and the type of account.
+
+The name of your main bank account is typically listed as the name of your banking institution followed by the last 4 digits of your bank account number.
+
+[Image] https://downloads.intercomcdn.com/i/o/397126306/3c605730513768b516b68ba6/image.png?expires=1763568000&signature=2e74f2c623c5a86e00494d0fd1feffef759d2b090ec2d27ed34f9d228cdd7a32&req=dykgF8t4noFZFb4f3HP0gPkvcywg2gzAMoFwyhP%2BWV%2Fcp1AwxkSiJUEvsDTz%0AmI%2FCdUXJpu2hP2tePA%3D%3D%0A
+
+---
+
+Setting Up the QuickBooks Desktop Integration
+
+To set up the integration between Housecall Pro and QuickBooks Desktop:
+
+- First, navigate to 'My Apps' by clicking on the 3x3 square icon in the top right corner of your Housecall Pro account, then click the 'Go to App store' button.
+
+[Image] https://downloads.intercomcdn.com/i/o/1146847892/19153ac7e29ea077e1fe0993/image.png?expires=1763568000&signature=d5bad1997441eb38e8e1fedc80b87e26f60ab086ce7feae281228cf76753c9d8&req=dSEjEMF6molWW%2FMW1HO4zdfK4znztXjboyRPKaj3Ar77Hfi3hCICNYeCEWGx%0AKZeNpuUdWgkfbnbVikQ%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/1146849668/89594340febfb4868ca23cd8/image.png?expires=1763568000&signature=0f12258cc534f2049c2b3af5b7795fb57cf62ef6ee369865e96b97d5280233d1&req=dSEjEMF6lIdZUfMW1HO4zc3ed0ZIJuoK9Z92c7MQXffyhkC31VHPbuSEDkh1%0AvjqLnmHMXtzPWPunlIA%3D%0A
+
+- Next, use the search bar under 'All' to look up "QuickBooks Desktop" or scroll down until you see the QuickBooks Desktop app. Then, click on the app to open the QuickBooks Desktop app details page.
+
+- From the QuickBooks Desktop app page, click the toggle in the top right of your screen to switch it from 'Disabled' to 'Active.'
+
+- You will now be taken through the on-screen setup guide, beginning with the "Let's get started" page. This will walk you step-by-step through connecting Housecall Pro and QuickBooks Desktop.
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/1148352196/262854fd54605c2ffb9eb77f/ezgif-5-76a5c0f849.gif?expires=1763568000&signature=a84108f50c621625b69a2212fa544411518cc548c42958a0c91e274eaf2ab26d&req=dSEjHsp7n4BWX%2FMW1HO4zQLEagBsOGDUkBvttTn%2Fll2xUkPckkV9gmjCOJR3%0A0EFAChqycWTIAINdbW4%3D%0A
+
+- Click on the 'Download Authentication' button on the "Let's get started" page to download the QuickBooks Web Connector (QWC) authentication file. 
+​ - This private authentication file gives Housecall Pro permission to sync to QuickBooks Desktop.
+
+[Image] https://downloads.intercomcdn.com/i/o/1146896069/f64988b7e601e11993e13e8f/image.png?expires=1763568000&signature=dcd47b09bffffdc581e4e502c9429dd88108c4bd5cd6b752a99b4cb4ead6bc11&req=dSEjEMF3m4FZUPMW1HO4zRKjh7kAt1kJzrH6JeP3zjVTl2HMUJOhYQWFnVk7%0A5vyRXkoAg%2BaN6%2FW57KI%3D%0A
+
+- You'll want to make a note of where the file is saved on your computer. 
+​ - If you're using Google Chrome and have browser notifications enabled, the downloaded file will appear in the top right corner of your browser. 
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/1148357195/9005eba946f99248d704b844/image.png?expires=1763568000&signature=57b10859ea37a1a794064fa38489acf30a723b0aed57bcfc6948249cd9c64136&req=dSEjHsp7moBWXPMW1HO4zU2Cfs7cTgMlX7NTLsomK4aktRX5j9yDEc8As%2BvQ%0AhurHVPwh4CvwORLiUCM%3D%0A
+
+- Once the QuickBooks Web Connector authentication file has been downloaded, open your Quickbooks Desktop software. 
+​
+
+- Next, click 'File' in the top left corner of your QuickBooks Desktop screen to bring up the dropdown menu. Then, click on 'App Management' from the dropdown and select the 'Update Web Services' option.
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/1148366012/846a19d7e738e5da35023c61/image.png?expires=1763568000&signature=1ab50a8df53d72c8c47e5b5bd2dbf9f05de02cc1daf703c5765f0d78daf7f36d&req=dSEjHsp4m4FeW%2FMW1HO4zXtBh1rxLHZWSxK7Q5v43JUbhELdkYWuBPT9ok6O%0AF3yVdlruK5PUoKu9%2BrY%3D%0A
+
+- The QuickBooks Web Connector will then appear on your screen. From here, click the 'Add an Application' button in the bottom right corner. 
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/234982132/c2a59d5c2dd5869967904ab8/image.png?expires=1763568000&signature=aa56b0d914d62ff964054ed9844e142ad2bded30528842fc106d04f28a06a995&req=diMjH8F8nIJdFb4f3HP0gNVp7two3k0nk2gTku8fmVa5IcI668NhVe267Sq7%0AFwx4CFNXeO%2Fc5S6lQg%3D%3D%0A
+
+- Upload the QWC authentication file by selecting the correct QWC file and clicking the 'Open' button in the bottom right corner of the window. 
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/234984241/8bb44d685d47df64d12abb45/image.png?expires=1763568000&signature=e57abfaf6f64b6a09a3c807351134a6429d5476efaccd1f79ef0c30c07a1a711&req=diMjH8F6n4VeFb4f3HP0gEC%2BULSsbIs146%2B0FCelsozOifbpyu%2FGaSMrV2YI%0AoGkxZFyDobLXp6NiCw%3D%3D%0A
+
+- Next, the Authorize New Web Service window will pop up, where you can give Housecall Pro permission to access your QuickBooks Desktop data. 
+​ - Make sure the name of the requesting application under 'Application Information' is "HCPQBWebConnectorService" and the name under 'Web Security Certificate Information' is "housecall.io."
+- Click the 'OK' button on this window to grant web service access to QuickBooks. 
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/287318749/47518be4f2899ae82d65a27f/image.png?expires=1763568000&signature=160ed38dbd17b487f067bef731dc75667394d6904bbbede1e753c22cdd0fc8d5&req=diggFch2moVWFb4f3HP0gDeraZViMB76xVACfAv0H7Q%2BFSwyX2xY3q6DegpL%0A0rwCb%2BBAzM31TplGnw%3D%3D%0A
+
+- You will then be asked whether you want to allow the application to read and modify your company file. Click on the radio button next to the 'Yes, prompt each time' option. 
+​
+- Next, click the 'Continue...' button at the bottom. 
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/234986834/8b6f80c8eddfe3dd87ea1114/image.png?expires=1763568000&signature=c49841baee251c010045ac3cac87ec67b4da1ddbf9d9a5045a6bd8a7a995fb9b&req=diMjH8F4lYJbFb4f3HP0gLXE%2FTbZxKWM4cETv0CJvmMngJflyqdJLVun5Uem%0AH%2B4lMXUqUC5QvFeGoA%3D%3D%0A
+
+- Now that you've granted permission for Housecall Pro to access your QuickBooks Desktop company file, go back to your Housecall Pro account and click the blue 'Next' button on the "Let's get started" page.
+
+[Image] https://downloads.intercomcdn.com/i/o/1146901268/d8ed7f9b2f7bc4a1868c9d94/image.png?expires=1763568000&signature=64bd2f3ff195138a3e2ca42fbcf95f7e73ea328bf621993fab6aca8927722652&req=dSEjEMB%2BnINZUfMW1HO4zUcARyBPPEKEtncj4dzD6bei%2B4rVZr%2FzzMMRGfb%2F%0AExaosQ7dGY6H5Xp%2B200%3D%0A
+
+- You'll then see the "Import data from QuickBooks Desktop" page, where you can choose to continue setting up the integration with or without importing your data from QuickBooks Desktop. 
+​ - To proceed with importing your data from QuickBooks Desktop, click the blue 'Next' button. 
+​ - To bypass importing your Quickbooks Desktop job history, customer list, and price list into Housecall Pro, click 'Skip Import' and proceed with mapping your default accounts. 
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/244555923/9e04b4748c9c1003ec6be821/Screen+Shot+2020-09-09+at+3.50.17+PM.png?expires=1763568000&signature=7548f7e6e2aa553228c74489760362edbfe77e0e93baea45d599bc0487f0a621&req=diQjE8x7lINcFb4f3HP0gP4NQTHqPbGeGVuAUWQwZyxghch97xNHcoTKcqp2%0AFVysBZbQt3t5oZnt%2BA%3D%3D%0A
+
+---
+
+Importing All Data from QuickBooks Desktop to HCP
+
+Before you import your data, you'll first want to make sure that your Quickbooks Desktop is ready to integrate. Please note that some information isn't able to be imported to Housecall Pro.
+
+Pro Tip: Hold off on connecting the accounts and importing until the day before you're ready to go live in order to import the most up-to-date information from Quickbooks Desktop into your Housecall Pro account.
+
+Table:
+Row 1: Data Included in Import | Data Excluded from Import
+Row 2: - All customers (active and inactive) Inactive Customer go into Housecall Pro's "Deleted Customer List"
+​
+- Only one level of sub-customers (parent/child) will be imported into Housecall Pro - All price list items (active and inactive) Inactive price list items will be archived and will not be visible - Price list item categories this includes inventory/non-inventory items) - All invoices (paid and unpaid) - Tax rates - Non-tax and taxable codes - Inventory items | - Credit memos or sales receipts - Percent-based line items - Nested price list items - Multiple levels of sub-customers - Multiple tax codes 
+​
+- Classes* 
+ - You will need to create the same name of the class in Business Units for Classes to sync.
+
+---
+
+How to Import All QuickBooks Desktop Data to Housecall Pro
+
+If you've chosen to import your QuickBooks Desktop data and have clicked 'Next' on the "Let's get started" page, you'll then see the "Connect QuickBooks Desktop with Housecall Pro" page.
+
+[Image] https://downloads.intercomcdn.com/i/o/1151222633/26db473eedad3553c1752985/image.png?expires=1763568000&signature=8ddfcf6fd8ff54d795a1d65643b3a37367ca072545a8cefe8a81eec4efa3fd90&req=dSEiF8t8n4dcWvMW1HO4zWdiDXckjIc2wStQLpKQYetCNSBdPg6WeE3kZHmL%0AM44hmtB8%2FfVPliqf9BY%3D%0A
+
+- From here, open the QuickBooks Web Connector that was saved to your computer after clicking the 'Download Authentication' button on the "Let's get started" page.
+- Under the 'Application' column on the far left of the QuickBooks Web Connector, click on the checkbox next to 'HousecallProQBWC' and then click on the 'Update Selected' button at the top.
+
+- You will then be prompted to enter your Housecall Pro password. Once entered, click the 'OK' button. 
+​ - The system will ask you if you want to save your password. If you wish to do so, click 'Yes' to save it.
+- Your data will now begin importing over to Housecall Pro from QuickBooks Desktop.
+
+[Image] https://downloads.intercomcdn.com/i/o/234993852/7d3b781cefa23c801b0e2470/image.png?expires=1763568000&signature=64f25fa14d195219a5eaef5eb7e804456442c6a5ea718e3162f723547669f1d0&req=diMjH8B9lYRdFb4f3HP0gGv3KHNZNuKbyu7CxpMHH7O5AFPDKUHKg8X%2FOhXP%0As9WQXo5aCtQYDAahog%3D%3D%0A
+
+- Once your import begins, you'll see the "Importing data from QuickBooks Desktop" page in your Housecall Pro account. 
+​ - This will show you an estimated timeframe, as well as how much data has been imported. You can click the blue 'Refresh' button to see real-time updates.
+
+[Image] https://downloads.intercomcdn.com/i/o/1151235791/c7f5ec25bc66bbbc218e2621/image.png?expires=1763568000&signature=8af90475437b1ef3b1c8a935b29aabe353a22509c0c2336ab9383832be06bc48&req=dSEiF8t9mIZWWPMW1HO4zR3gOdodVXDdEvJM6sjU%2FxyBENrJgZECIHll%2B%2F4e%0AaCkh%2B0AxdbYAPMIW6bo%3D%0A
+
+---
+
+QuickBooks Web Connector Importing Progression
+
+When importing your data from QuickBooks Desktop, the QuickBooks Web Connector will also show the progress of your import.
+
+You will see the Application Progress bar at the bottom:
+
+Table:
+Row 1: It will quickly reach 67% complete, and then it will progress much slower until finished. This is expected behavior. This process can take several hours depending on how much data you have. You must maintain a stable internet connection until this process is complete. | [Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/235004020/96556c4527367cbd2057876f/KJEKrxrklNrr-AeyIV6YQXyZXn5df5mQ3HU7qHcjclYhKwFXUBWiFCEfhQYmjHdi6Y_cimyTQz4IyaFcupOX7FZo87C_1UJrmBn6pRnRFeT5-oXFjdf2OX-L3cDjmW1PRNpYKsmdKPw?expires=1763568000&signature=4925862d8a632d9fac9d2c3adee2fcc5a69350dee54c18f0abda96db976d80d5&req=diMiFsl6nYNfFb4f3HP0gJWKn%2FOHHJONV8wSwrHiPl41slj6A93WnZ5VHJ9k%0ABf4%3D%0A
+
+If you notice any messaging on the screen in red:
+
+Table:
+Row 1: Please take a screenshot of the alert and click on the 'View Log' button in the upper right corner of the QuickBooks Web Connector. Then, take a screenshot of the log and send BOTH screenshots to our chat support team using the Blue Chat Bubble. | [Image] https://downloads.intercomcdn.com/i/o/235000158/fdbcd014dabacdf64bdf2564/image.png?expires=1763568000&signature=ed63a92e7a36734f431759c31889f24b18692c4f9617f785139c81493b8c3944&req=diMiFsl%2BnIRXFb4f3HP0gIhgZeARyzkc3tzcZfUA0gpudEWQwxM25JfnniJl%0ACG4%3D%0A
+
+When both progress bars reach 100%:
+
+Table:
+Row 1: Success! Your data has been downloaded from QuickBooks Desktop. From here, we’ll begin uploading it to our servers and then into your account. | [Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/235004028/89930d515fa239aa4ae6d66f/AqcHOuNXzNzJCTBdX6R1OMird_cdzVJqgrxqQ3VvRRCYk42wSv9HnbaCGbu0uwaKZy05XV60Rlz061tINLnQE7KcojE3oXeIai7z0Ep2s9mZa5_p0z39pBCM7dtOnBIaCTbI2tr2SOU?expires=1763568000&signature=46db707bcb24d69d4a3484c4b723f93c82392431ef17e4388009379809139104&req=diMiFsl6nYNXFb4f3HP0gDxUQsVCC1YXRX9s8tLvd8SRrCiflI5NR%2FmrJTyb%0A3J4%3D%0A
+
+Once the import is complete:
+
+Table:
+Row 1: You’ll receive a confirmation email letting you know that the import has been finished.
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/236563330/5ffa42dd7b58e2f6fd760838/image.png?expires=1763568000&signature=a14871b15cb5e5b28d82ba776562420bdbc1c6dc36167d4060433e644cfaa42a&req=diMhE899noJfFb4f3HP0gPrMbfdzOn5YwMwyHu1pbh3gSBqMN%2B2Oiut7MxBN%0A%2FUM%3D%0A
+
+---
+
+Verify Data & Check Alerts/Warnings After Importing
+
+After the import has been completed:
+
+- Go back to your Housecall Pro account and reload the QuickBooks Desktop App page. 
+​
+- You will then see the "Import completed" page, where you can verify whether your data was imported properly.
+
+This page confirms that invoices, customers, your items list, and tax rates have been imported into Housecall Pro. It also provides hyperlinks for each item, allowing you to easily verify the information.
+​
+
+- Click on the 'customers,' 'invoices,' 'price list items' and 'warnings and errors' hyperlinks to check:
+​ - The number of customers, invoices, and Price Book items imported into your account and verify that it matches what is in QuickBooks Desktop.
+​
+- If parent/child (sub-customer) relationships were imported properly. Remember we only support one-level deep sub-customers. Any additional levels will not transfer into HCP. 
+​
+- Warnings and errors on imported data. 
+​
+
+- Next, click the blue 'I've Verified My Import' button to continue.
+
+[Image] https://downloads.intercomcdn.com/i/o/1151305434/e2249b0ecc050ecb892a0ff9/image.png?expires=1763568000&signature=c2f310a29408b8328176b44fc343bbb3029c453403bf77b4b644365ba6d1e266&req=dSEiF8p%2BmIVcXfMW1HO4zf4qQopGyLbPdvkZghFRxShm4D3oadPtvj5Q6EEu%0Aej94T5MJcX%2FkcUuYK1w%3D%0A
+
+- The Verify import window will then pop up to confirm that your import has been verified, where you'll type "Data verified" in the text box and click 'Verify' to proceed. 
+​ [Image] https://downloads.intercomcdn.com/i/o/1151307020/5e05d6bcac43ed25e184a384/image.png?expires=1763568000&signature=2c85e9197d14bb06b7784f04044516248ee17a698ef6dfece7a2c298f0b84015&req=dSEiF8p%2BmoFdWfMW1HO4zZr51gswL5lShiZjhUXfT1nbhj%2FovChi%2FH2KUjQ%2B%0ANaWT%0A ​
+- After clicking 'Verify,' you will then be taken to the "Setup Sync to QuickBooks Desktop" page to begin mapping your default accounts. 
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/1151307530/532108109278c544f3825212/image.png?expires=1763568000&signature=d3ee251ee2e6f6b11a2d6bddaf497feff5169cc98bb459d861ae1c6fc295ac04&req=dSEiF8p%2BmoRcWfMW1HO4zSdj1C5M%2F5afUBK1VypdREVpe4ixEBXducLNQQFz%0AIG7vVwVy6PpjyUSsG7k%3D%0A
+
+---
+
+Mapping Your Default Accounts
+
+Whether you've opted to import your data or decided to skip the data import, the next step in the process is to set up your default accounts.
+
+In order to properly sync transactions to Quickbooks Desktop, we need to know which default accounts to push payments, refunds, list items, taxes, and tips to.
+
+- If these default accounts are already set up in your Quickbooks Desktop account, please enter the names exactly as they are set in QuickBooks.
+
+- If these accounts are not set up yet, no problem! You can add a name in that field and we'll create the accounts in Quickbooks Desktop for you. We can handle the creation of all accounts except for your bank account.
+
+- After clicking 'Next,' you'll see the Setup Sync to QuickBooks Desktop page, where you can watch a video that covers information regarding default accounts. At the bottom of this screen, click the blue 'Setup Sync' button to continue. ​
+
+[Image] https://downloads.intercomcdn.com/i/o/1151304874/00f547a0aac378340941ec60/image.png?expires=1763568000&signature=be6cb6392ad5c00a4f3e4295372d86ad39b8e3c049d8778495f5f98e6d922d76&req=dSEiF8p%2BmYlYXfMW1HO4zaxYqZHh9TranHUN4hPjInFGIFSFe%2BqAhvtquRsU%0ATuvcoRyyMz3lTVbHTVo%3D%0A
+
+- You'll then be taken to the Account Mapping page, labeled "Enter your account names."
+
+[Image] https://downloads.intercomcdn.com/i/o/1158719976/854a97728371a66170ca22c4/Screenshot+2024-08-23+at+5_16_52%E2%80%AFPM.png?expires=1763568000&signature=7d8d4bd26273819d7c1fea33a3b87ce2982f1bba4fb274cb548ceca4cbc30a62&req=dSEiHs5%2FlIhYX%2FMW1HO4zQyC3c82%2By8y6ImbZJ4VjdxOQRM2KUTaChaAWQbq%0Aghay5QmNxQb2lKGauMU%3D%0A
+
+What these accounts are for:
+
+Table:
+Row 1: Bank account | The name of the bank account that receives deposits
+Row 2: Accounts receivable | The account for jobs not paid at the time of service
+Row 3: Income account | The account that logs sales and service revenue
+Row 4: Cost of Goods Sold | The default Cost of Goods Sold account applied to inventory items created from Housecall Pro Price Book items. Utilized only when a category in HCP is an inventory item in QuickBooks Desktop and a new Price Book item is added to this category.
+Row 5: Inventory Asset Account | The default Inventory Asset account applied to inventory items created from Housecall Pro Price Book items. Utilized only when a category in HCP is an inventory item in QuickBooks Desktop and a new Price Book item is added to this category. Can be reassigned in the QuickBooks Desktop item list.
+Row 6: Gratuity account | This is a liability account for tips received.
+
+---
+
+Enter Your Item and Tax Information
+
+Housecall Pro will need to create a default service, discount, and gratuity item in QuickBooks Desktop. These will be used to link to any line items that are pushed over on Jobs in Housecall Pro that do not have an associated line item in QuickBooks Desktop.
+
+Please Note: In order to properly sync invoices, taxes will need to be enabled in Quickbooks Desktop, even if you do not charge tax. You will be required to create a 0% tax rate in that instance.
+
+In QuickBooks Desktop, you can enable your taxes by clicking 'Edit' in the top left of your QuickBooks Desktop screen, select 'Preferences' from the dropdown menu, then select 'Sales Tax' and 'Company Preferences'.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/235034747/528c90823ec3528d0a1bfd4c/VsptkEnp7naThXcQLrmqKu9mvNRcERk7hzrPz_EDfXrChfTeCDvu34sLn7XWJnw5ZyJGxcGlKEhhc11q10a32hDtUtIT4kOsjkVnN60JjK3q4QfNK4qw-wMNrRVnuxLvDLTlPBfyCAo?expires=1763568000&signature=4aef2a5e049e0eeccb53957c9ba4c8dcd64bd30b51a1fd52fb922bd2146b9232&req=diMiFsp6moVYFb4f3HP0gPq3HnZ0rvqRl20YakbpI4c2CONQYyDbKinSkWVf%0Apw4dXnBMpYjDMguVCw%3D%3D%0A
+
+What these accounts are for: ​
+
+Table:
+Row 1: Service item | Line items that have been added to an invoice but have not been saved in your items list.
+Row 2: Discount item | Discounts added to an invoice.
+Row 3: Gratuity items | Tips added to an invoice.
+Row 4: Tax vendor | Who you pay taxes to.
+Row 5: 0% tax rate | The name of the rate when you do not charge tax.
+Row 6: Taxable sales tax | Auto-created when you turn on sales tax.
+Row 7: Non-taxable sales tax code | Auto-created when you turn on sales tax.
+
+---
+
+Enter Your Payment Methods
+
+Your customer can pay for a job using various payment methods in Housecall Pro. The selected method used on each job will sync to Quickbooks Desktop. You may already have some of these methods set up. If so, please enter them.
+
+Housecall Pro will need to sync to a default account for all payment methods, even if you do not plan to use that payment method. For the default accounts that aren’t set up in Quickbooks Desktop already, add the name in the field and we will create it for you in Quickbooks Desktop.
+
+[Image] https://housecall-pro-8943a2eb3ea3.intercom-attachments-7.com/i/o/235036367/6a89eb86d9b60bfb8af77251/_T-G2aCcNPppqSzMGL2F_-wrfOd2M4X0yWkJMxNPnXYHXyDtB8rBXNY5LC7Fl2qVD5iPzaN8ZxpSP5Wu3pDwF_plgTmvtJVIrFk3SSzZW6y-tLkM3n5iaYX2cWxDDXmb8lJ1Cl5KheU?expires=1763568000&signature=eff27f0e7d3643c4283da21818db986db45fb1a169df0db5a4d9e747f41dc8d4&req=diMiFsp4nodYFb4f3HP0gNuwAUNA%2BgQXfyT9DVuzQzArS2uiX%2Fxi2H%2FCSrJA%0AG3fezvns5cTAAxGmlg%3D%3D%0A
+
+---
+
+Import Customers Only from QuickBooks Desktop
+
+If you want to import customers only from QuickBooks Desktop, you can follow the steps in this section after you have completed the integration process and have mapped your default accounts.
+
+For this method, you would have needed to click 'Skip Import' when prompted during the integration process.
+
+To import only your customers to Housecall Pro from QuickBooks Desktop:
+
+- First, open Quickbooks Desktop and go to the Customer Center. Then, click the 'Customers & Jobs' tab at the top. 
+​
+- Click the downward-facing arrow under the 'Customers & Jobs' tab to view the Customers dropdown menu, and choose which list of customers you would like to pull over.
+​ - Remember, you only want to bring over the customer information that you'll use to keep your Housecall Pro account clean and clutter-free!
+
+[Image] https://downloads.intercomcdn.com/i/o/45268181/690dd03a8a663c909d3dc173/How_to_Export_a_Customer_List_from_QuickBooks_to_Excel_-_QuickBooks_Training___QuickBooks_Consulting__Best_rated_in_Miami___Broward.png?expires=1763568000&signature=e6db355f13d8b9c36a87d6dcbce31810853cd3dd7a2a1d111627b26ad8a22ebf&req=cCUlEMF%2FlYATWLcX3D%2B5hnh6SAtTcxe4jD2UrsDiKNTPT8mKwrHsEn9Roomu%0AIw2zxm4XyTEBkxO1%0A
+
+- When the correct list is selected, the customers in the list will be displayed in the left vertical pane.
+
+- You can now export this list to Excel by clicking the arrow next to 'Excel' at the top of the Customer Center toolbar and selecting 'Export Customer List' from the menu.
+
+[Image] https://downloads.intercomcdn.com/i/o/1153263382/60ac5ee437da0f7e9eb1e5b6/image.png?expires=1763568000&signature=112573449f4d41aec1b40d03e1088a273bd3e97ecb225e42ec53d9a49df943d2&req=dSEiFct4noJXW%2FMW1HO4zQF06KkOUA8VEa5pb4hOlAIvXymm7d9FjS6%2FzqAL%0ACeZfr8xDiwaSO%2BVygag%3D%0A
+
+- You'll then be taken to the Export window. Be sure to select either of these options: - 'Create new worksheet' and 'in new workbook,' or 
+- 'Create a comma separated values (.csv) file'
+- Next, click the 'Export' button at the bottom of the window. Your Customer File will now be exported and saved to your computer.
+
+[Image] https://downloads.intercomcdn.com/i/o/45268316/6a90590343a6dde90bbea3a3/How_to_Export_a_Customer_List_from_QuickBooks_to_Excel_-_QuickBooks_Training___QuickBooks_Consulting__Best_rated_in_Miami___Broward.png?expires=1763568000&signature=416100d7619fcd9d89edb0f3de61cbce96b14b35a53311441e97d3c0cbcdcf14&req=cCUlEMF9nIcTWLcX3D%2B5hryDzPVtek5HbcGcmO%2F5FzbdInDG7%2FF71hRjFdhX%0A7XD3Pznc%2FTgQWtRZ%0A
+
+- You can now go back to your Housecall Pro account and click 'Customers' from the top navigation bar. Ensure that you are on the Customers page. 
+​
+- From here, click on the 'Actions' button to the right, then select 'Import' from the dropdown.
+
+[Image] https://downloads.intercomcdn.com/i/o/1152199051/8ed8947cc21c43443bfba1ed/image.png?expires=1763568000&signature=80bb7b1ada1ab0c723005bb20068c97ac515c6bf1265729b104455bf4187798d&req=dSEiFMh3lIFaWPMW1HO4zQHeQr2OaC9z4mlf3Bc%2FucVDZ4s5JNwHqKX%2FJQLY%0Ay9d2l6tLvy4Iq9t%2FP5c%3D%0A
+
+- If this is your first time importing data into Housecall Pro, you may see the "Bring in your data" screen. 
+​ - You can watch the tutorial video and click on the 'Use our help guide to learn how' hyperlink on this page if you'd like. Then, click the blue 'Get Started' button when you're ready to continue. 
+​
+
+[Image] https://downloads.intercomcdn.com/i/o/1152206264/9de36c8063655ff0565c2459/image.png?expires=1763568000&signature=a8436f7d08a7b79f7cba62115115bf9138105330bb3767d97492123a4edbcc85&req=dSEiFMt%2Bm4NZXfMW1HO4zVS9BLeAgQ4o9u33JUomoRf11zJPGk6viK9PtqNd%0A4l6YLc4vOYNkzG5gK6k%3D%0A
+
+- You'll then be redirected to the Import page, where you can select to import your customers from either a file or from your Google Contacts. 
+​ - In this case, select the 'File' option.
+
+[Image] https://downloads.intercomcdn.com/i/o/1152206406/a9b9a3f526253c8052989e9d/image.png?expires=1763568000&signature=55811f1b587205b0884a198f11406a7dd2866ff45612ebcc0e8d7228b5a1445c&req=dSEiFMt%2Bm4VfX%2FMW1HO4zQKzvpgMwC7NPMOVrvTcbF4uWlXaq6qslFFlLm5Z%0AVsTWxxHXoEqFbwNyTV4%3D%0A
+
+- Once selected, you'll see a blue information box at the bottom of this page, stating: 
+​ - ​"Your account is connected to QuickBooks Desktop. To avoid duplicates, only import customers that have not been previously imported from QuickBooks. If you do have duplicate customers after importing, you can manage them later." 
+​
+ - Clicking on the "manage them later" hyperlink will direct you to our "Manage and Merge Duplicate Customers" Help Article.
+
+[Image] https://downloads.intercomcdn.com/i/o/1152206673/09ad14ca35fd6d9d3f351e33/image.png?expires=1763568000&signature=76dd32d94571cc17694180ecafeb29389ad7070e78d76c5dadd21d2febd1589e&req=dSEiFMt%2Bm4dYWvMW1HO4zXI6rqdvynZt%2BY5FbsyxxNZKWOZQijhaQOdjQFBS%0AqBpzgb3kTsuQDi%2B8j9I%3D%0A
+
+- To continue importing your customer file, click the checkbox next to the "I understand the risk of importing from QuickBooks and a file" acknowledgment. 
+​
+- Then, click the blue 'Upload File' button.
+
+[Image] https://downloads.intercomcdn.com/i/o/1152206816/ba24597c813aa39c0b609a8d/image.png?expires=1763568000&signature=f6551a4b6f76b4766ad5fc63cbff94a46ebb0c3be07f55d25624680406a0c15b&req=dSEiFMt%2Bm4leX%2FMW1HO4zS59c964kPSs2lNGqdMLny8G6xXdTx5xIS3Z051Q%0AdVPC%2BwiDObI%2FREZluiY%3D%0A
+
+- The "Import customers" window will pop up on your screen. Click the black 'Select a file' button and select the file from your computer. 
+​
+- Then, click 'Open' on your File Explorer once you have verified that the correct file has been selected.
+
+[Image] https://downloads.intercomcdn.com/i/o/1152208401/be2f0e7d854e3350e9472c45/image.png?expires=1763568000&signature=73154888064fb923fe02455a8edf19a37d7a8850e5055141f13c09cc8ddbc704&req=dSEiFMt%2BlYVfWPMW1HO4zTzni8y8BbzB1U%2FovCifZ0Hba1UWr8qaLpyb9ArD%0AmeBvl9m%2F8VwfrO3%2Ba5g%3D%0A
+
+---
+
+Video Tutorials
+
+Integration Requirements & Account Mapping
+
+[Video - loom] id=ebe47608d84b4e3c86362d4af8ee226d
+
+QuickBooks Desktop Integration Walkthrough
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/zejaubjekb
+
+---

@@ -1,0 +1,197 @@
+Set Up Your Company Profile
+Source: https://help.housecallpro.com/en/articles/1363783-set-up-your-company-profile
+Author: Nate H
+Last updated: Updated over a week ago
+
+Summary: How to add your company information, terms and conditions, logo, and more.
+
+Company Profile Overview
+
+Your Company Profile is where you add all the key details that represent your business in Housecall Pro. This includes your logo, support email, business information, company description, and any messages or terms and conditions that appear on invoices, receipts, and estimates.
+
+---
+
+Set Up Your Company Profile (Web)
+
+The following information can be added/edited in your Company Profile settings:
+
+- Business information (including business name, address, support email, website link, industry, and more).
+- Company description
+- Logo
+- Message on invoices, receipts, and estimates
+- Terms and conditions
+
+To complete the setup of your company profile, click the gear icon in the top right corner of your HCP account to access your Account Settings, and ensure that the Profile tab in the Settings menu on the left is selected.
+
+[Button] Click Here to Set Up Your Company Profile Now -> https://pro.housecallpro.com/app/settings/profile
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1766306267/8582017c60282471690251a7740e/Screenshot%2B2025-08-22%2Bat%2B1_30_29-E2-80-AFPM.png?expires=1763567100&signature=30af9e835259cda88c8b91c629107e168e044bb08e09bcd05699e7ea684ef7ad&req=dSchEMp%2Bm4NZXvMW1HO4zZxVx53y1%2BhE6gU%2BHFnIpFvWli1g%2F036p84u0uO4%0AgmtVSslZUm272UO%2Frbk%3D%0A
+
+---
+
+Business Information
+
+The Business Information section of your Company Profile includes info such as your business name, address, support email, license number, industry, and more.
+
+To add or edit your business information, follow the steps below:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Company from the left menu, under Global Settings.
+
+- Ensure that the Profile tab is selected at the top of the Company settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1683636761/c42e2bb1f92d1103ba574e591b93/Screenshot+2025-08-22+at+1_42_47%E2%80%AFPM.png?expires=1763567100&signature=5c2e82e7f3e2db07319110c5cd10b217e7fdc6c92168e22e56d84791b23da35b&req=dSYvFc99m4ZZWPMW1HO4zYo4DFaUdX%2FQOgvI6awdZtRCTy3T%2BxgDzsdTHqOr%0AKBWYuUKdt5ujfyqLBaY%3D%0A
+
+- Click Edit to the right of the Business Information section.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1683642088/64f55c5864e77b51175aec32b271/Screenshot+2025-08-22+at+1_48_00%E2%80%AFPM.png?expires=1763567100&signature=c3bb9245553c215fb6e48948728a6bb9b16e5bc3f6c5e42fc629ddf9b3c8a7fe&req=dSYvFc96n4FXUfMW1HO4zTMzWVMsVnJ03vsya0Ca6eHXsnMfdlXcktdIWghk%0ACmr6gM9bIjxA4l8%2F3kE%3D%0A
+
+- Add or edit the following business information as needed: - Business name 
+- Address (country, street, city, state, and zip code)
+- Time Zone
+- Business phone
+- Support email
+- Website (link)
+- Legal entity name
+- Industry 
+- License number (not displayed on invoices or estimates)
+
+- Once you've filled out your information, click Save in the bottom right corner of the Business Information window. You can always come back and update the information later if it changes.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1396608523/ea27f813a53fe13c1e85e26a8491/Screenshot+2025-02-25+at+3_22_37%E2%80%AFPM.png?expires=1763567100&signature=741f0a1d0e632ce326cca3405d8ba4a5f17f6a2711bfb71fa4a10c5d35ddc4fe&req=dSMuEM9%2BlYRdWvMW1HO4zZ%2FIDct0ashEKCRt%2BnMj4JlQw7KmjXk4jr4V14Ps%0A7CvmgZb%2FLrKVSz5XQhk%3D%0A
+
+---
+
+Company Description
+
+To add or edit your company description, follow the steps below:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Company from the left menu, under Global Settings.
+
+- Ensure that the Profile tab is selected at the top of the Company settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1683643371/ccbbcda38b11ea0977421c0124b8/Screenshot%2B2025-08-22%2Bat%2B1_42_47-E2-80-AFPM.png?expires=1763567100&signature=fd6acf64f4fc4ef0cd39049179e666de453d22fe2045b26a6db9272f943e80e8&req=dSYvFc96noJYWPMW1HO4zYg1XdeCHn%2BNXTautpgdLKS8qqPIxGQkkT36%2F9Ad%0A9elM2Z9y4bEf2MpuGq4%3D%0A
+
+- Click Edit to the right of the Company description section.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1683646916/6b63edee366e5110e810daecbae0/Screenshot+2025-08-22+at+1_50_02%E2%80%AFPM.png?expires=1763567100&signature=f12d05bf3aa31a9f71c5ed5c9a6176db43fdc7e0e49743dc3574b082782a5333&req=dSYvFc96m4heX%2FMW1HO4zdGLIAdsjolXwTRQzj%2FWAugLvXnCnIRdPUinLCtp%0As8wa%2B8KqANX1d0YYFe4%3D%0A
+
+- You'll then be able to click into the text box to make any adjustments.
+
+- Click Save when you're ready, and that's it! Your company description will then be saved to your Company Profile.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1396443595/a9272b241c58ba8a0dd389ce0f77/Screenshot+2025-02-25+at+1_26_42%E2%80%AFPM.png?expires=1763567100&signature=a999bfceda64353f3c03ee1e9371e7767952161e8737af95d3eeb9998ed976e4&req=dSMuEM16noRWXPMW1HO4zZFrzuQDJ%2FOq3eudX3iEVLbemB3ge5OaxlmwdWrb%0AWS1SW8%2FsNwFWdWWmKys%3D%0A
+
+---
+
+Logo
+
+To upload your company logo, follow the steps below:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Company from the left menu, under Global Settings.
+
+- Ensure that the Profile tab is selected at the top of the Company settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1683648147/cc8fe9ab3cd0b113f4deb78bea1b/Screenshot-2B2025-08-22-2Bat-2B1_42_47-E2-80-AFPM.png?expires=1763567100&signature=89807c890421f1b83abbeb9136030747c7003a6d244e06106b832ef1a605962e&req=dSYvFc96lYBbXvMW1HO4zXm629HpM%2Bw4Fge65MTRMFZqqTsY4c7VVW7k92Py%0A23twJN8osDId6%2F700G8%3D%0A
+
+- Scroll down to the Logo section and click Edit to the right.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1619764040/711b02197e39cbc8674575b243f5/Screenshot+2025-07-14+at+1_57_53%E2%80%AFPM.png?expires=1763567100&signature=1764e0fa7b7b59ab8eb519573e938f9cfce6449842950fe143fdb9e55af5e125&req=dSYmH854mYFbWfMW1HO4zfzZfo%2FZMIUbKTyyDMknSp%2B5Oth1OwtHTRv8tpH0%0ADPVggciUut6c61ots8o%3D%0A
+
+- Select an image from the file explorer window, and the Crop your image window will appear.
+
+- To crop your image, click and drag the edges or corners of the blue square to adjust the selection, and drag inside the square to reposition it.
+
+- To refine your selection, click and drag anywhere outside of the blue square to define a new crop area.
+
+- Use the magnifying glass icons to adjust the view (zoom in/out) and the rotation icons to rotate the image as needed.
+
+- When you're ready, click Save in the bottom right corner of the window, and your logo will be uploaded to your Company Profile.
+
+[Image] https://downloads.intercomcdn.com/i/o/790597778/3930f0bb1e10c7474335f006/Screenshot+2023-07-21+at+3.25.40+PM.png?expires=1763567100&signature=be5fe327a95579c2df43b6b1dc09a96894d28abc999c603223e94f6412732c02&req=cyknE8B5moZXFb4f3HP0gOVcyP%2Bd2Wc6mIF%2FbKTIr9s8C%2FP9DXkCAboGEc8J%0A67hYd1TAecNWsRhvSw%3D%3D%0A
+
+---
+
+Message on Invoice, Receipt, and Estimate
+
+To set up your default message that appears at the bottom of all invoices, receipts, and estimates, follow the steps below:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Company from the left menu, under Global Settings.
+
+- Ensure that the Profile tab is selected at the top of the Company settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1683652318/151bfe306d4c8d7ab7bcd2a7810b/Screenshot-2B2025-08-22-2Bat-2B1_42_47-E2-80-AFPM.png?expires=1763567100&signature=391f461297af8978fccd5b4e2ea188acbe4b1def1a0fc50c5fda9f372c967dd1&req=dSYvFc97n4JeUfMW1HO4zXQkC1qXilybLxp5o3RaYUV%2B0aE%2BqXKy5YYBoIci%0AnfT%2FnGzDRLpVw%2Bgxrso%3D%0A
+
+- Click Edit to the right of the Message on invoice, receipt, and estimate section.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1396648338/af0724f51d625347868eaec878a5/Screenshot+2025-02-25+at+3_53_55%E2%80%AFPM.png?expires=1763567100&signature=03264921b94468cf17831e9e4398a6988dfcea9ecd636aa6c87437559b8a565c&req=dSMuEM96lYJcUfMW1HO4zYUm00SKrHaEd2Ipe51bNZeVBGE90T5B34R6Lvp9%0A5TV3BU6jTEO9q%2FMApHA%3D%0A
+
+- Enter your message into the text box and click Save when you're ready. Your default message will then be added to all future invoices, receipts, and estimates.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1396627258/75bf6688c6bdce1841da203b512e/Screenshot+2025-02-25+at+3_42_05%E2%80%AFPM.png?expires=1763567100&signature=634610f4efe157c532df6c057c7cab3d46d59a59268907ace2a2c8ed6c631be2&req=dSMuEM98moNaUfMW1HO4zcvI4TB9wGNiI0TwbwgVI2phnoO%2BmQK9m8WM%2FCu3%0AnMSsJNQzQRwBQ3yIfyQ%3D%0A
+
+---
+
+Terms and Conditions
+
+Terms and Conditions can be used as rules a customer must agree to in order to use a service, a disclaimer, or as a way to protect your company in the event of a legal dispute.
+
+Put your disclaimers, legal information, or warranty info here. Your Terms and Conditions will show up as a clickable link on all electronic documents you send out and on the app in the field.
+
+To add or edit your terms and conditions, follow the steps below:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Company from the left menu, under Global Settings.
+
+- Ensure that the Profile tab is selected at the top of the Company settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1683650089/48dfc4c7b5e97dbf5a55e8dfcc56/Screenshot-2B2025-08-22-2Bat-2B1_42_47-E2-80-AFPM.png?expires=1763567100&signature=adbe8c04897fa67abdd5909146c81d1fc9b88bb42a98a4327e0f6099df9583af&req=dSYvFc97nYFXUPMW1HO4zdz2hEwQZdjp2rd3uQAXfYpC8fX0t7kwriAA1S7J%0AZ%2Bh79i8cS9B7nI6yyIA%3D%0A
+
+- Click Edit to the right of the Terms and conditions section.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1396645276/38fc0ce0d7c8261b1c672d2b9d6a/Screenshot+2025-02-25+at+3_55_19%E2%80%AFPM.png?expires=1763567100&signature=0d7bc6606d0dcd1d96dcccf560fd76c830784cd79a4d6bd687234b42e8e4326a&req=dSMuEM96mINYX%2FMW1HO4zWnK9L6AhVT339aYjXwhZ8BZFQ%2FxbIqSnJnWSaSu%0APaO5%2FI9la4nomqdAQPo%3D%0A
+
+- Enter your terms and conditions into the text box and click Save when you're ready.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1396647768/bce121b5e44b436e972b1f16c200/Screenshot+2025-02-25+at+4_00_31%E2%80%AFPM.png?expires=1763567100&signature=33a62f02ad23129fb733b5f506d93e6353c3fba50e72c6f3bdbb7b1a0deb2126&req=dSMuEM96moZZUfMW1HO4zdehdi7SSWO01y%2BFcTpp6X8x1z%2BFk3ELYqqpAitZ%0AAjH8ZMG4EA9Lv6WE%2Fko%3D%0A
+
+---
+
+Set Up Your Company Profile (Mobile - iOS)
+
+The new Company Setup section will also allow you to update the following on your iPhone or iPad by clicking the More icon in the bottom right corner of your screen and selecting Company Setup from the newly populated options:
+
+- Company Information
+- Company Logo
+- Banking Information
+- Employees
+- Personal Information
+- Tax Rates
+- Credit card Tipping
+- 24/7 On Demand
+- Delete Data
+
+[Image] https://downloads.intercomcdn.com/i/o/1163843389/d2ef542e8948f856de1d1b24/Screenshot+2024-08-30+at+12_23_10%E2%80%AFPM.png?expires=1763567100&signature=423c788fbd24dcf4baf899aaf6b72f15d535d8bb3918615ef353927537d58111&req=dSEhFcF6noJXUPMW1HO4zZBCUqF9QL6K18U6cyI%2BtO%2Fqc4tilfpoyy9mXCD8%0AxYVrJSfx0fRIhXYObr0%3D%0A
+
+---
+
+Set Up Your Company Profile (Mobile - Android)
+
+To set up your company profile from the HCP mobile app on Android:
+
+- Log into your app and select the drop-down menu located in the top left-hand corner of the screen.
+
+- You will be able to view your company data. Clicking each feature will enable you to customize the information.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/1146084211/45ff54e367fc54d6d8d5da66/Screenshot+2024-08-14+at+7_46_40%E2%80%AFPM.png?expires=1763567100&signature=ab1ec279f72eced9b1f6f6dce07ccc60225a804dce33135a05bd64d51654c086&req=dSEjEMl2mYNeWPMW1HO4zcAefScYvPdUUWd1u3hcy4Vtem6kYb9NUai19g68%0AM2qx%0A | [Image] https://downloads.intercomcdn.com/i/o/1146086159/29c7deb4f94d19b7552ed354/Screenshot+2024-08-14+at+7_46_20%E2%80%AFPM.png?expires=1763567100&signature=a2d6636d9331cf012af34924638929e88234184ebbfdd0be0a9ba8a9ab1fbc58&req=dSEjEMl2m4BaUPMW1HO4zbjxA6muhOJFKu0Jc89bWsbu011u2GBFu87QI%2BB9%0A2s%2FX%0A
+
+---

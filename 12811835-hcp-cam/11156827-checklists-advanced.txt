@@ -1,0 +1,23 @@
+Checklists Advanced
+Source: https://help.housecallpro.com/en/articles/11156827-checklists-advanced
+Author: Nate H
+Last updated: Updated over 6 months ago
+
+Checklists Advanced Overview
+
+Housecall Pro is excited to introduce Checklists Advanced, a more powerful version of our Checklists feature designed to streamline job documentation and improve service consistency. It is now available exclusively with the HCP Cam add-on.
+
+The additional functionality in Checklists Advanced makes it easier for pros to capture, verify, and report on work completed in the field, all while staying organized and efficient. With capabilities like Photo Upload, Single-select, and Multi-select, your team can deliver detailed, professional results with every job.
+
+- Photo Upload: Easily attach images to checklist steps, providing visual documentation of work before, during, or after the job—perfect for transparency and quality control.
+
+- Single-select: Choose one option from a preset list, great for clear-cut answers like "Yes/No" or "Completed/Not Completed."
+
+- Multi-select: Select multiple responses when more than one condition applies—ideal for logging multiple services performed or materials used.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1509038800/fac6b1d67048a30fc923e8f31fd8/Checklist+%28mobile%29.png?expires=1763568000&signature=ade3022221f8e4ea590756a06380b36f7669ee756e12b365d9a913583a5403e5&req=dSUnH8l9lYlfWfMW1HO4zR99y2uGu4A3YvVq7ONOUyWVWH%2FWa%2FcIMQl%2BoI5H%0AQYI3%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1509042231/db4d2e03c0d967d8ac39b4cd28a2/Checklists+%28mobile%29.PNG?expires=1763568000&signature=0428fd688dfad275728b3e3696340cdeb4de27cb93d9213a9576c2a85335093e&req=dSUnH8l6n4NcWPMW1HO4zfg29OYKC%2Fx77M4H4hcl993OSua2VEoWV%2F93rX7R%0ATkhE%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1509042653/a7f024923fa05c3bd27f9c5b9a58/Checklists+desktop+%28post+job+cleanup%29.png?expires=1763568000&signature=4832dc36d43312627d8e2fc7e17ece9465cc5115e62708cff7b3bcb048dbd224&req=dSUnH8l6n4daWvMW1HO4zbFQNvCOoP04b2XAZT7vLz3A7PrSogZ2kuHV1y1v%0Ag8KV%2FdYS%2BF%2FVV9H1iHM%3D%0A
+
+---

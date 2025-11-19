@@ -1,0 +1,136 @@
+Customers - Job & Estimate List Reporting
+Source: https://help.housecallpro.com/en/articles/8241575-customers-job-estimate-list-reporting
+Author: Taylor L
+Last updated: Updated over 2 weeks ago
+
+Summary: Filter your Jobs and Estimates in the new reporting feature under the Customers tab.
+
+Job and Estimate List Reporting
+
+The Jobs List and Estimates List let you customize how your data is displayed. Each list can be filtered, sorted, and customized by columns. Choose from a wide range of column options covering customer details, scheduling, and financial information, and export your lists to build reports that fit your business needs.
+
+---
+
+Access your Job List
+
+To access your Jobs List:
+
+- Navigate to the Customers tab at the top of your navigation bar.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1723089920/98f0862d7803eb6c7613c61a8e73/image.png?expires=1763568000&signature=4542d9d67503b2d72da015262d45368e32ef4dd046c29f4a4448f26c19cb0fd7&req=dSclFcl2lIhdWfMW1HO4zXcaWUjXl5eJsIIrXr87E%2Bk5c0rNo7QDR42uw5yc%0AFSVLwYWr6ATqnvvJNfg%3D%0A
+
+- In the left-hand menu, select Jobs to view your Jobs List.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1722779455/7e58f0d2f99af4ce6baefe2ae29e/image.png?expires=1763568000&signature=44fd07750758923fe9942a5efe6f8854feb3bb091fe55f3f434a608ad5b56204&req=dSclFM55lIVaXPMW1HO4zQ5uc20OeroJ1Ij1h%2BsLg%2F20ddZgse0jpRdHVWfd%0Ai69KC48d23S7%2B2QA56U%3D%0A
+
+---
+
+View, Filter, and Sort your Job List
+
+The Jobs List displays all jobs created in your account. You can filter, sort, customize visible columns, and export the list to fit your reporting needs.
+
+To view and apply filters to your Job List:
+
+- Click the blue Edit columns button to change the columns that are included in the current view of the Job list.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1723093650/0b8c7c78601ecf735770fe5f84b6/image.png?expires=1763568000&signature=780d6b3b654a4bb4d8a635c7e9faecb381182667e64835580715efe509dd12cf&req=dSclFcl3nodaWfMW1HO4zTJSeGiFpnzWo49IbXroFcL8PhThvr4I0z2zJgN5%0AVNjGYS9YZCN3OTWPmLU%3D%0A
+
+- In the Select columns to view window, check or uncheck the box next to the data you would like to add or remove as a column, then select the blue Done button in the bottom right corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/805062269/3cdb0036a9f884ac093422a2/Screenshot+2023-08-10+at+3.18.30+PM.png?expires=1763568000&signature=4afcdfd73f6c48d79b41bf998030580d94c4ffaf42b80b8568439abccae09dd6&req=fCAiFs98n4dWFb4f3HP0gL00umOAN0wsypmChzCBCj%2B3QHKVSszune6coDdZ%0Am%2F%2F9iVoMdgqVgrIovg%3D%3D%0A
+
+- Click the blue Filter button to modify your view settings.
+- You can apply filters based on any of the following criteria to your Job list: - Job created, scheduled, completed, and paid in full date 
+- Last invoice sent date
+- Job lead source
+- Customer lead source
+- Job Tags
+- Customer tags
+- Job Status: Unscheduled, Scheduled, In progress, Completed, and Canceled
+- Employees assigned
+- Customers
+- Job type
+- Job total amount 
+- Job profit
+- Job amount due
+- Callback
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1723098236/86f84220591188c4b7fc54e7f055/image.png?expires=1763568000&signature=3abb777b1784ba84b7e8e46466d97856f4faafc050c1a1e663a5e4719b4fd3d2&req=dSclFcl3lYNcX%2FMW1HO4zYBQWnzs%2BJ3IQk2X9Fi1xuXBGHqZjO2iI9yhp90C%0ABY3mvFml04kboStoVq0%3D%0A
+
+- Once you've added your filters, select the X in the top left corner when finished.
+
+[Image] https://downloads.intercomcdn.com/i/o/805065447/f5b3158e642b0ae4370551c8/Screenshot+2023-08-10+at+3.21.11+PM.png?expires=1763568000&signature=b84d5a0753ea74940d08d31b6b940f66752cc1a711d3b90947e43fc802b1abc4&req=fCAiFs97mYVYFb4f3HP0gBIkahpN%2Far4dXUCK6QIi%2F%2B2iBnrwB2rCXtZ8XZL%0AZW8Ckm0CF1ffpn8SZA%3D%3D%0A
+
+- To export your Jobs List, click on the blue Actions button drop-down menu at the top right.
+
+[Image] https://downloads.intercomcdn.com/i/o/805068217/711b7c7b372846b6c98d694e/Screenshot+2023-08-10+at+3.24.40+PM.png?expires=1763568000&signature=42b400972986d56216704d6101807e975ab11b2d2deaca940d7f8a020e56d8c1&req=fCAiFs92n4BYFb4f3HP0gNvyxn42cmUfLieZgy5eoetvA8IVNYDEKO0Tu2Dy%0AOJ2HHRyjdFojcsdeVA%3D%3D%0A
+
+- Select Export from the dropdown menu, then click Send file, and you will receive an email with the exported .csv file containing your report.
+
+- The email will be sent to the email address associated with the user login of the employee who is viewing the report.
+
+[Image] https://downloads.intercomcdn.com/i/o/805068653/2e07b215bd5e14e821d1e4aa/Screenshot+2023-08-10+at+3.25.12+PM.png?expires=1763568000&signature=3a5ffa159a690f39b83db3acd7fb5dd0c47ff9d48ba1cff5ef6f9e8f5790edf2&req=fCAiFs92m4RcFb4f3HP0gAvVHq0LCyVzACvluMA8MVSYj7KIJLeH0Gj9ZMCw%0A7K5VahY3UqChlch%2F8Q%3D%3D%0A
+
+---
+
+Access your Estimate List
+
+To access your Estimate List:
+
+- Navigate to the Customers tab at the top of your navigation bar.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1723099997/b85338375cd25c799047136eadb1/image.png?expires=1763568000&signature=c5c38ec82101b68f30540e2d07b4aa3ae8b1ddf59cacaff77b78cab2e7ad9345&req=dSclFcl3lIhWXvMW1HO4zZtZ1a6H4Ku55IB7pwDaq8wc08b4zTBF5WAUJnkT%0AHXvGdiQffxCsJvOTd88%3D%0A
+
+- On the left-hand menu, select Estimates to view your Estimate List.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1722861603/9c0914d34e081567c463e01f0952/image.png?expires=1763568000&signature=45e536a15633628d7986d3fdf4ced6cf3580810482d64f320678ba71ee0959aa&req=dSclFMF4nIdfWvMW1HO4zUYWqbIDutZ%2BQ0ZGUe1XySSM8Bed6nOW3F1cEv1u%0AqqtSiBkd4XcC%2BPiJZL8%3D%0A
+
+---
+
+View, Filter, and Sort your Estimate List
+
+The Estimate List displays all estimates created in your account. You can filter, sort, customize visible columns, and export the list to fit your reporting needs.
+
+To view and apply filters to your Estimate List:
+
+- Click the blue Edit columns button to change the columns that are included in the current view of the Estimate list.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1722865159/0db9233025c0d8595af2358edc46/image.png?expires=1763568000&signature=27054470e76f2ba0770ee5148fbc3fce55bbf986e342bda6f8c2d886eeb71ac6&req=dSclFMF4mIBaUPMW1HO4zUZ2rxmDXJku0T2Iu57wTixGHNTDSpAZQ7ByJg%2BU%0Ad8rf48K6dUd72iwFBh8%3D%0A
+
+- In the Select columns to view window, check or uncheck the box next to the data you would like to add or remove as a column, then select the blue Done button in the bottom right corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1722868189/5c254ffa3892ba823c27901ed223/image.png?expires=1763568000&signature=0d185c76542867e88fec1d7201bf76fb75eb4084dee27726003baad5eba2441c&req=dSclFMF4lYBXUPMW1HO4zRmbw9u6iXMPypZBoQ9T%2Fsg%2F1nUQcfYxxKe8pVw7%0AbEQBfhu9mlg1TATyvOo%3D%0A
+
+- Click the blue Filter button to modify your view settings.
+- You can apply filters based on any of the following criteria to your Estimate List: - Estimate Scheduled, Created, and completed date.
+- Estimate lead source
+- Estimate tags
+- Estimate Status: Scheduled, In progress, Completed, Canceled, Unscheduled, and Copied to job
+- Outcome: Lost, Open, and Won
+- Employees assigned to the Estimate
+- Customer
+- Customer Tags
+- Job type
+- Business unit
+
+- Once you've added your filters, select the X in the top left corner when finished.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1722878611/436460af4b5ab13c42996882d915/image.png?expires=1763568000&signature=57086495dae1c11c35a71af65311b585b45a670e664e4e6decfea63aea530847&req=dSclFMF5lYdeWPMW1HO4zVdyF8WNzq7I5JiUAqDKM78AKNS87%2BLvOk1N961v%0AhNyANVNGaqtp%2BewiY10%3D%0A
+
+- To export your Estimate List, click on the blue Actions button drop-down menu at the top right.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1722885665/14f5db01de92f8d39b8037c6db59/image.png?expires=1763568000&signature=ba7bd760ab27aef559194f299f7653f49275e1b5ff292e0c6f1ff2cf9caeedb4&req=dSclFMF2mIdZXPMW1HO4zfPC1yKhw0mqKftbW6f%2FXz0EcFKcMjA8CInptLOA%0AhCfHZNzlmSlPtUSU8Yo%3D%0A
+
+- Select Export from the dropdown menu, then click Send file, and you will receive an email with the exported .csv file containing your report.
+
+- The email will be sent to the email address associated with the user login of the employee who is viewing the report.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1722885172/e4bf154a9a2e7239a67a43645901/image.png?expires=1763568000&signature=ee12877f538e68e53947c95316abc0b1722e4ed130a12e6eda98242ebc7cc37a&req=dSclFMF2mIBYW%2FMW1HO4zSUDOcIOOJZmk6aJ3PyyE66jLDDkqaAj9366iPQR%0AQAG9havDMdvk2CtVdd4%3D%0A
+
+---
+
+Job & Estimate List FAQs
+
+---
+
+---

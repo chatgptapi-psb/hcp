@@ -1,0 +1,647 @@
+Voice FAQs
+Source: https://help.housecallpro.com/en/articles/6666356-voice-faqs
+Author: Roland Ligtenberg
+Last updated: Updated over 3 months ago
+
+Summary: Frequently Asked Questions about our Voice solution and its packages.
+
+Frequently Asked Questions about our Voice solution and its packages. If you don't yet have the feature, you can visit our Voice Landing Page to learn more and sign up!
+
+---
+
+Voice Onboarding
+
+Will I need special training?
+
+- No, our voice solution is designed to be user-friendly and intuitive. We’re confident you’ll find it easy to navigate. For additional support, we provide help articles complete with videos and screenshots to guide you through each step.
+
+What if help is needed?
+
+- Friendly support agents are available to assist you with Housecall Pro. Additionally, our online Help Center is always accessible for self-guided support and resources.
+
+Is this an answering service / virtual assistant?
+
+- No, Voice is a phone system that allows you to make and receive calls directly through the HCP platform. For answering services and virtual assistant options, check out HCP Assist. Click here to learn more!
+
+What type of equipment do I need to use VoIP?
+
+- To use VoIP, you'll need audio and microphone capabilities on your computer. While basic headphones or computer speakers can work, we recommend using a headset for the best audio quality. For more detailed equipment recommendations, please refer to our help article: Hardware & Browser Recommendations for Voice.
+
+Does this solution work with an iPad?
+
+- Yes, you can use our VoIP solution on the Housecall Pro mobile app, which provides a seamless experience for making and receiving calls on your iPad. Click here to learn more about using VoIP on mobile.
+
+Does HCP allow for data import of call data from a previous phone system?
+
+- Currently, we do not offer the ability to import call data from a previous phone system. This limitation is due to legal concerns related to call recording and personal customer data, which many voice competitors also face. We are exploring this feature for the future but do not have it available at this time.
+
+Can I keep my current phone system and also sign up for Voice?
+
+- Yes, you can continue using your current phone system while signing up for Voice. Simply forward calls from your existing system to Housecall Pro. This way, you can enjoy the benefits of our integrated solution without disrupting your current setup.
+
+What if I have issues along the way?
+
+- If you encounter any issues, don’t hesitate to reach out by messaging us through the blue help bubble. Our team will be prompt in providing you with the assistance you need.
+
+---
+
+Phone Number Porting
+
+What does porting mean?
+
+- Porting refers to the process of transferring your phone number from your existing carrier to Housecall Pro’s carrier, which is built on Twilio. We handle the entire porting process behind the scenes, coordinating between HCP, Twilio, and your current carrier to ensure a smooth transition.
+
+Should I keep my existing carrier? When should I cancel my other service?
+
+- If you are porting, please make sure you keep your current carrier until you have successfully ported into Housecall Pro.
+
+- For those transitioning from Service Titan, please be aware that they have been known to release your number on the day your service ends, which could interfere with the porting process. Some carriers, like Housecall Pro, have more flexible policies and allow for your number to be retained for a certain period after cancellation. To avoid any disruption to your business line, we recommend waiting to cancel your old service until after the porting process is fully completed.
+
+How long does porting typically take? Does it take longer with multiple lines?
+
+- Porting typically takes 1-3 weeks. When porting multiple numbers, the process may take longer because each number needs to be coordinated individually.
+
+How does the porting out process work, and how long does it take?
+
+- Porting out your number must be initiated by your new carrier, and the process is generally similar to porting in. It typically takes 1-3 weeks, depending on the new carrier’s procedures.
+
+- You may need additional information to complete the porting out process. If so, ask your new carrier to contact our Voice Frontline team to obtain the necessary account number and PIN from Twilio.
+
+Can I get credit for my plan during the porting process?
+
+- If the porting process exceeds the expected timeframe, we will automatically credit your account, which you can use towards your next bill. The credit amount is based on the number of days your porting process takes beyond the standard period, starting from when you submit your porting paperwork. Please note that credits are given on a case-by-case basis.
+
+Table:
+Row 1: Number of Days | Credit % of Monthly Plan
+Row 2: 8-17 | 25%
+Row 3: 18-24 | 50%
+Row 4: 25-31 | 75%
+Row 5: 32-38 | 100%
+
+- If you have questions, please reach out to the Porting team via the Blue Chat Bubble.
+
+Can you port over a number with Call Tracking only?
+
+- No, porting is available only for VoIP lines. While you can port your business line to VoIP, call tracking numbers cannot be ported separately. They can only be ported as part of the VoIP add-on service.
+
+Do I have to port my number during setup or will I still have the option to do it later?
+
+- No, you can start by purchasing a number and choose to port your existing number at a later time. When you’re ready to port, simply submit your paperwork to porting@housecallpro.com.
+
+What happens if I purchase a business line and then want to port over my number?
+
+- If you purchase a business line and later decide to port over your existing number, you will need to submit the necessary form to porting@housecallpro.com. Alternatively, you can start the process by chatting with us through the blue chat bubble to receive the form and additional instructions.
+
+If I have VoIP and am porting over my number, when does the dialer show up?
+
+- The dialer will appear once the porting process is complete. You’ll find it indicated by a phone icon in the upper right-hand corner of the main navigation bar at the top of your Housecall Pro account.
+
+If I port over their cell phone number, can I still use it as their personal line as well?
+
+- No, once you port over your cell phone number, it will no longer be active with your existing carrier. You will need to get a new personal line if you want to continue using a separate personal number.
+
+What if the business changes hands and we need to update the phone number?
+
+- If the business changes hands and the new owner wants to use a different phone number, you can port over a new number for the business. Simply follow the porting process to update the phone number associated with the business.
+
+What happens if I have two business lines?
+
+- If you have two business lines and are using our VoIP solution, you can port both numbers. You can designate one as your primary business line for outbound calls and use the other as a call tracking number that forwards to your main line.
+
+I want to test the Voice system while waiting for my port request to complete. Is there a way I can do this?
+
+- Yes, you can test the Voice system by going through the onboarding flow and purchasing a new business line. While you use the new line, send the port documents (LOA, phone bill, CSR) to porting@housecallpro.com to initiate the porting process for your existing number.
+
+What happens if I port over a fax number?
+
+- When you port over a fax number, it will be used for Voice and SMS services. Consequently, the fax functionality will be lost.
+
+Is there any way we could make sure a port is done on a specific day?
+
+- No, we cannot guarantee a specific port date. However, if your current carrier is also Twilio, we may have more control over the timing of the port.
+
+Can an 800 number be ported over?
+
+- No, we currently only support porting non-toll-free numbers. We are exploring the possibility of supporting 800 numbers in the future.
+
+Can I port out my number regardless of whether I have VoIP or Call Tracking?
+
+- Yes, you can port out your numbers regardless of whether they are associated with VoIP or Call Tracking. You can work with your new carrier to transfer those numbers. However, please note that custom SMS numbers cannot be ported away at this time.
+
+My number has been transferred over but I am still getting calls and/or text messages on my previous carrier, how do I fix this?
+
+- This issue typically indicates that the previous carrier has not fully completed the transfer process. Please confirm with your old carrier that all updates have been made correctly. If the problem persists, reach out to the Voice Frontline team via the blue chat bubble, and we can escalate the issue to Twilio for further resolution.
+
+For the Letter of Authorization, whose name should it be in? Does it need to be one of the owners' names or the admin on our current plan?
+
+- The Letter of Authorization should be signed by the authorized Pro on the account, specifically the owner of the phone account with your current carrier.
+
+Can I speed up the porting process?
+
+- No, we have limited control over the carriers, including Twilio and your current carrier. While we can contact Twilio to expedite the process, we recommend that you also reach out to your current carrier to inform them of the port request and ask them to speed up the process on their end.
+
+I am getting a Letter of Authorization is invalid error. What is going on?
+
+- This error typically occurs if the file is not in PDF format. Please ensure that you are uploading a PDF file, as other file types will not be accepted.
+
+---
+
+Phone Number Verification Process
+
+How does the verify your identity process work?
+
+- After purchasing a number, you will be prompted to submit your information. Once submitted, we will send your details to Twilio for approval.
+
+How long does the SHAKEN/STIR and CNAM verification process take?
+
+- The verification process typically takes 24-48 hours. Once approved, it may take additional time for the updates to propagate across carriers. Please note that updating the National Registry can be a slow process and may take several weeks. We have limited control over the speed at which carriers update their systems.
+
+What are CNAM and SHAKEN/STIR?
+
+- Here’s what you need to know about these tools that help make voice calls more trustworthy: - CNAM (Caller Name): This tool shows your business name on the Caller ID so people know who is calling.
+- SHAKEN/STIR: This system checks if the call is real and not fake. It helps prevent people from pretending to be someone else on the phone.
+
+What happens if the verification process does not get approved?
+
+- If you encounter issues with your Caller ID or your calls are showing up as spam, please reach out via the blue chat bubble. We will investigate why the verification failed and determine what additional information is needed to resubmit the request through Twilio.
+
+I purchased a phone number and it is showing up as spam risk to my customers, what do I do?
+
+- If your number is showing up as a spam risk, it likely means that the SHAKEN/STIR & CNAM verification process has not been completed. To resolve this, you need to register your number and verify your identity through the SHAKEN/STIR & CNAM process so that your business name appears on the caller ID instead.
+
+What information do I need to provide to get registered?
+
+To complete the registration process, you will need to provide the following information:
+
+- General information: - Business name
+- Address
+- Email
+- Main point of contact: - Name
+- Email
+- Phone Number
+- Role
+- Business information: - Business type (see options below)
+- Industry type (see options below
+- EIN (US) or CCN (Canada)
+- Website URL
+- CNAM: - Must be 15 characters and cannot include any special characters
+
+For the verification process, what are the business type and industry options?
+
+- Business types: - Sole proprietorship
+- Partnership
+- Corporation
+- Co-operative
+- Limited liability corporation
+- Non-profit corporation
+- Industry types: - Automotive
+- Agriculture
+- Banking
+- Construction
+- Consumer
+- Education
+- Engineering
+- Energy
+- Oil & gas
+- Fast moving consumer goods
+- Financial
+- Fintech
+- Food & beverage
+- Government
+- Healthcare
+- Hospitality
+- Insurance
+- Legal
+- Manufacturing
+- Media
+- Online
+- Professional services
+- Raw materials
+- Real estate
+- Religion
+- Retail
+- Jewelry
+- Technology
+- Telecommunication
+- Transportation
+- Travel
+- Electronics
+- Not for profit
+
+Will I ever be able to change the caller ID that I submitted?
+
+- Yes, you can update the Caller ID name after it has been submitted. While there isn't a direct option in the product for this, please reach out via the blue chat bubble, and we can make the changes in Twilio for you.
+
+What happens if my number is mislabeled or the caller ID is showing incorrectly?
+
+- If you’ve registered for CNAM (Caller ID), it might take some time for the information to update across carriers. If you’re still experiencing issues with your number being mislabeled, you can register with the specific carrier's analytics providers to correct the display: - Free Call Registry
+- T-Mobile/Sprint
+- Verizon, US Cellular
+- ATT Wireless
+
+---
+
+Dialer Feature
+
+The dialer won’t ring. How do I fix that?
+
+- This issue is likely due to a microphone not being configured properly. Follow these steps to ensure everything is set up correctly. If the problem persists, please reach out via the blue chat bubble for support.
+
+What kind of phone can I use with my VoIP solution?
+
+- With our VoIP solution, you don’t need a traditional phone. Instead, you can use a computer with an external microphone and speakers or a headset. Ensure your computer recognizes these devices for proper audio input and output.
+
+If I am on the phone with a customer, and a second customer calls in, can that call be answered by a different employee on a different device?
+
+- Yes, with our VoIP solution, multiple calls can be handled simultaneously using a feature called Simulring. This tool allows you to direct incoming calls to various employees based on their availability. If you are on a call and a second call comes in, Simulring will ensure that it can be answered by another employee using a different device, such as a computer or smartphone. For smooth operation, make sure each employee has their own login credentials to manage their calls effectively.
+
+I am having an issue where the dialer isn’t ringing but they are receiving the call notification. How do we resolve that problem?
+
+- To resolve this issue, first, check the browser settings to ensure they are configured correctly. Here are a few steps to follow:
+​ - Check Notification Permissions: Ensure that your browser has permission to display notifications. You can usually find this in the browser’s settings under Privacy and Security or Site Settings.
+​
+- Enable Audio Settings: Confirm that audio notifications are enabled for your browser. This includes checking that the volume settings are not muted and that your computer’s sound is working properly.
+​
+- Verify Microphone and Speaker Access: Ensure that your browser has access to your computer’s microphone and speakers. You might need to adjust these settings in the browser’s permissions section.
+​
+- Browser Updates: Make sure your browser is up-to-date. Outdated versions can sometimes cause compatibility issues.
+
+- If you’ve verified these settings and the issue persists, please reach out via the blue chat bubble for further assistance.
+
+---
+
+Phone Numbers
+
+Can I purchase an 800 number?
+
+- No, we currently offer only non-toll-free numbers. We are exploring options for adding 800 numbers in the future.
+
+Do you support vanity numbers?
+
+- No, vanity numbers will not display as words when calling. They will appear as the numeric equivalent, so 303-555-BLUE will show as 303-555-2583.
+
+Do you support e-fax or fax numbers?
+
+- No, we don’t support faxing capabilities at this time.
+
+Will addresses show up on inbound calls even if they aren’t a past customer?
+
+- No, addresses won’t show up for inbound calls unless the caller is a past customer. Currently, our system only identifies whether the phone number belongs to an existing customer, and caller ID lookups incur a cost.
+
+---
+
+Call Flows & Call Routing
+
+Can you route calls directly to mobile numbers?
+
+- Yes, you can route calls directly to mobile numbers based on your business hours. You can set up call forwarding to an external number, including mobile phones.
+
+Does this support call trees or call flows?
+
+- We support call flows, allowing you to set up how calls are routed through the system. Call trees are not available at the moment but are planned for a future release.
+
+Will we have interactive voice response (IVR) or a call greeting that can route calls (e.g., Press 1 to schedule a job, Press 2 to go to voicemail)?
+
+- Interactive voice response (IVR) and call greetings for routing calls are features we have available. We have created a new widget for your call flows, called a call menu. To get more details, check out this help article.
+
+---
+
+Voicemail Greeting
+
+What file types are acceptable for the custom voicemail?
+
+- MP3 and WAV files work for our custom voicemail. MP4s will not work.
+
+---
+
+Call Forwarding
+
+Can I forward my calls to a cell phone?
+
+- You can forward calls based on hours. You are able to set hours whether you are open or closed. You can also configure rollover forwarding through our Call Flows feature.
+
+---
+
+Call Transfer
+
+Can I transfer my calls to another person?
+
+- Yes, it is a conference call so you can transfer calls to another employee’s cell phone number in the future. The third person will join the call and then the first person can hang up. These transferred calls will be recorded if you have call recording turned on.
+
+Can I do a cold or warm transfer?
+
+- Right now, we only have conferencing. We are looking to implement that in the future.
+
+Can I transfer to someone else in the office?
+
+- You can transfer to their cell phone number but you can’t transfer to someone else’ dialer. We are working to implement that in the future.
+
+If a technician on mobile misses a call that was transferred to them from the office staff, will the missed call display as the business line or the customer’s number?
+
+- It will be from the business line.
+
+What will the caller hear when a call is being transferred using the “add call” feature? Will it be a dial tone until the call is answered by the third person?
+
+- They will hear it say “Transferring” and then the two people on the line can still have a conversation while it’s ringing to the third person.
+
+---
+
+Call Recording
+
+Can I download my call recordings?
+
+- Yes, there is an option to download the call. You will have to do it manually as we don’t have an automated process in place right now. Check out our article on this process here.
+
+Can Field Techs listen to call recordings?
+
+- No, not today. We don’t have a way to listen to the call recordings on mobile but we are working on that to make the call log available on mobile.
+
+Can I delete a call recording?
+
+- We do not offer the deletion of call recordings. We suggest that you stop recording the call while on the call to avoid the need to delete a call. This is relevant if your customer is going to provide you with customer-sensitive information like credit card information. In extenuating circumstances, engineering can delete a recording but we highly recommend that they don’t record it in the first place.
+
+Does the customer get notified when the call is being recorded?
+
+- When an outgoing call comes from HCP, it does state the call is being recorded to the end caller. This is for legal reasons and cannot currently be changed.
+
+How long are call recordings saved for?
+
+- Starting on January 1st, 2025, we will be removing past call recordings in our system. Anything older than 6 months old will be deleted.
+
+---
+
+Call Masking
+
+Are masked calls that an employee makes recorded?
+
+They will show on the call log and will be recorded too.
+
+---
+
+Call Queueing
+
+Do you have the functionality to put a call on hold so that another agent can answer it?
+
+- Yes, with our queueing solution, you can place calls on hold so another agent can answer it.
+
+---
+
+Call Looping
+
+If I have multiple numbers that I use for my business, could I set up a loop to ring all 4 numbers?
+
+- You could port over those numbers and have them all forward to a business line today. However, we currently don’t have call looping functionality. You can route calls to multiple numbers through our Call Flows feature.
+
+---
+
+Call Log
+
+I have several calls that appear to come from the same number for different customers, what is causing this?
+
+- We have had reports of calls showing in the call log as (+26) 669-6687 for different customers. This is a common occurrence for VoIP solutions and is caused by the customer blocking their phone number through an anonymous dialing feature. The phone number (+26) 669-6687 spells out "Anonymous" on the keyboard.
+
+---
+
+Robo-Dialing
+
+Will you ever offer a sort of robo-dialing option for follow ups?
+
+- That is an idea we have considered, but we don’t currently have any plans to implement this option.
+
+---
+
+SMS
+
+If I port over an existing business line, and a customer texts that number, would it go to Inbox?
+
+- Yes, those messages would go into the Inbox.
+
+How does my Voice number work with my custom SMS number?
+
+- Your Voice number and custom SMS number will be separate from each other to start. This means that your automated text messages will still be sent from your custom SMS number. If calls come into your custom SMS number, we will forward them to your Voice number. If texts come into your Voice numbers, we will forward them to Chat. In the future, these numbers will be combined so that you have a single number for both Voice and SMS if you have the Voice solution.
+
+If we port our number to HCP, can we still use it for texting in another system, like Chiirp?
+
+- We do not allow for that because we have our own chat feature so we send all messages into our Chat feature. They will need a new number either through HCP or through their third party system that they want to use for texting.
+
+Can I receive verification code texts through my HCP Voice number?
+
+- No, HCP Voice numbers cannot receive verification code messages. If you need to receive a verification or 2FA code, be sure to use your personal mobile number instead.
+
+I'm not getting text messages to my inbox, but I'm seeing some come through my Apple device, how do I fix this?
+
+- You may need to unlink the phone number from iMessage specifically. This Apple article provides a clear guideline on how to do it (scroll down to the “Remove your phone number” section):
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1220099675/411b4319c2aac233e9217b2a8a3a/favicon.ico?expires=1763568000&signature=c0f03d4e0aa374a5f1030b9047f4336ee8ea57a1e1d80c5b233bd080d5a36a9b&req=dSIlFsl3lIdYXPMW1HO4zZ0ED434kWx%2BWZSMuqK92ZSVylCo5dg%2FJwvHuqC0%0AumjynC0%2BjO%2BgkEsieHU%3D%0A
+
+Add or remove your phone number in Messages or FaceTime - Apple Support.
+
+---
+
+Voice & Other HCP Features
+
+If I am using CallRail and receiving notifications in HCP, what is the benefit of using VoIP + Call Tracking or Call Tracking only in HCP?
+
+- The benefit of using HCP’s solution is that it is in-house and fully integrated into HCP. This means that it is tied to your customer database. You can easily see all of your calls with a customer under their profile. Additionally, it ties to lead source which can then be attributed to the customer or the job.
+
+- You get all of the same benefits of above with VoIP + Call Tracking but you also get to have a complete picture of your calls in HCP. You will be able to listen to your voicemails as well.
+
+Can the Voice solution work with HCP Assist?
+
+- Yes. Your Pro can set up their call flow and forward based on their business hours. They can set up forwarding to an external number. This number would be the HCPA number.
+
+- You can do conditional rollover meaning if you don't answer on VoIP then they would forward to HCPA. This can be setup through our Call Flows feature.
+
+How does VoIP interact with other parts of the platform?
+
+- It's more about how the other components of the platform play together with this feature.
+
+- Pro will get a call through VoIP or call tracking, answer it through the customer intake form and then save new customers through the customer intake form. The information from the customer intake form shows up on the job or estimate. Anything created will then popup on the pipeline (if they have that add-on). On the call log, anything created from a call is linked. That is the extent of Pipeline and core product working with Voice.
+
+- For Chat, all your text messages will show up in Inbox to all of your numbers. Similarly, calls to all of your numbers will come in and show up on your call log.
+
+How do employee permissions work with Voice?
+
+You will have three new permissions:
+
+- Configure Voice Settings allows you to configure who will has access to Voice Settings so that you can limit who can make changes to your phone numbers, recording or masking settings, and voicemail. As an example, you may have office staff who you do not want to access your settings for communications so you may toggle this off for them.
+- View Call Logs allows you to set who can view call logs, global and customer logs, on web and mobile.
+- Listen to Call Recordings on Web and Mobile allows you to set which employees will be able to listen to call recordings on web and mobile.
+
+Is there a way to save a Customer Intake form as a draft?
+
+- We do not have the ability to save an intake flow in draft form right now. The intake team has been thinking of this as a future feature but no official timelines or plans.
+
+How does Voice work with our Franchises?
+
+- Today, our Voice solution works for our child accounts. We don’t have features to support routing from a parent account to a child account. We will look at Franchise support down the road but it’s not currently on the roadmap.
+
+---
+
+Office Staff
+
+Do you have a way to prevent office staff from listening to call recordings?
+
+- Yes, we have a permission called, "Listen to Call Recordings on Web and Mobile" that can be turned off to prevent office staff from listening to call recordings.
+
+---
+
+Field Techs
+
+Do techs have access to Voice through desktop?
+
+- No, because techs do not have access to the desktop version.
+
+---
+
+Call Tracking Only
+
+How does my existing phone solution work with call tracking?
+
+- Basically, you will create call tracking numbers in HCP by selecting a lead source and a phone number. From there, you will add a destination number. This means we will forward calls from your tracking number to your destination number which will be your existing phone system.
+
+Do I still need to have a web-based dialer for call tracking only?
+
+- No, so the way it works is you purchase the number in HCP (the call tracking number) and forward calls from that number to your destination number. Your destination number could be a web-based dialer (think Dialpad or Nextiva), it could be a mobile app phone system (Grasshopper or Openphone), could be a landline/cellphone (through AT&T, Verizon, etc.). There’s no limitation to call tracking only and where you answer calls.
+
+If I do not have the lead source field, what do I need to do?
+
+- You will need to upgrade to a newer pricing plan to get access to lead source so call tracking works correctly.
+
+---
+
+Packages & Plans
+
+What is the difference between using VoIP + Call Tracking and Call Tracking only?
+
+- The main difference is where you answer your calls. If you wish to keep your existing phone system but track lead sources and where the customer calls in from then Call Tracking only is the right solution because you will be able to forward calls from your tracking numbers to your destination number (existing business line in another system). This means you are forwarding calls from our call tracking numbers to your Primary Number in Dialpad or a landline as an example.
+
+- If you want to have everything within HCP, then we suggest you use VoIP + Call Tracking. This will allow you to port or purchase a business line so that you can manage ALL calls through HCP. In addition to using the web-based solution, you can forward calls from the tracking numbers to their business line in HCP. The dialer is ONLY available through our VoIP solution.
+
+How much do Voice packages cost?
+
+- Call tracking starts at $45/mo + overages and we have packages that range from 500 – 2500 minutes. VoIP & call tracking starts at $65/mo + overages and we have packages that range from 500 – 6000 minutes. Are you an existing customer and interested in learning more? Book a demo to learn more.
+
+Are there any plans to offer larger plans with more minutes?
+
+- We currently offer a VoIP Super plan which gives you 6,000 minutes at $350 / mo.
+
+Will we ever have the ability to exceed 30 call tracking numbers?
+
+- Possibly in the future. We are looking at our re-evaluating our pricing and packaging.
+
+---
+
+Billing & Overages
+
+How does Voice get billed and when does it get billed?
+
+- You are billed monthly on its own cadence so when the you activate you will be charged the plan amount.
+
+Will minutes be rounded up for tracking or billing?
+
+- Yes, minutes will get rounded up for billing purposes. As an example, a 20-second call will be rounded up to 1 minute.
+
+When does a call start to count towards minutes?
+
+- All calls are counted towards your cost. This includes incoming calls, outbound calls, active calls, voicemails, and forwarded calls. Once the call begins and is going through the call flow, we count that duration towards your usage and minutes.
+
+Will call flows count toward the minutes used? (Ex. You have VoIP and your call flow forwards to your cell phone after hours). Does this count towards my monthly minutes?
+
+- Yes, call flows count towards minutes because we are tracking and possibly recording those calls.
+
+Do voicemails count towards minute usage?
+
+- Yes, it is a 1-minute flat charge.
+
+What happens when overages occur?
+
+- Overages for minutes get charged at the end of their billing month.
+
+Can I view my usage?
+
+- Usage is tracked by going to your account settings, then to Voice, then to Plan usage.
+
+Can I pause my system if I am a seasonal Pro? Basically, keep my system but freeze it altogether.
+
+- We don’t have a way to do this today. It would need to be removed from your account in order for them to go on a freeze, and once you remove the feature you lose the number after 60 days. Also, your number would be disabled and you wouldn’t be able to accept calls for potential new customers when it’s outside of the season.
+
+---
+
+Reliability & Outages
+
+How reliable is the Voice solution?
+
+- We have built our solution off of Twilio which is the main industry provider. Many VoIP solutions out there are built on Twilio and they have impressive SLAs, availability, and reliability requirements.
+
+Do you have any stats on outages so far?
+
+- We have had no major Voice-specific outages. The outages that have occurred were Twilio-related or an issue that was Housecall-wide. We have a 98% average call success rate so things have been performing well.
+
+- We also have a failover application so if HCP-web goes down, you will still have access to the dialer.
+
+What do outages look like?
+
+- If we have an outage through HCP, we will failover to our second service so calls should still go through successfully. If there is an outage with Twilio or AWS though, we will likely also see outages.
+
+How does the internet impact Voice? If I have rough internet connection and have to have a hotspot in my office, would I be a good fit?
+
+- Solid internet connection is the heart of this system. The Pro can expect that the web-based dialer will be affected by slow internet speeds in the same way that TalkDesk slows down for Support if their internet acts up. If you are looking for additional information, please read this Help Article: Hardware & Browser Recommendations for Voice Solution.
+
+---
+
+Deactivations
+
+If I cancel or deactivate after already porting my number, how do I get my number ported away?
+
+- You will need to initiate the process through your new carrier. You will likely have to submit the same porting form to your new carrier and then they will reach out to the losing carrier (us, i.e. Twilio) to initiate the process and determine a date. The port away process is your new carrier’s responsibility and out of hands. We will keep the number for 60 days to give them time to port.
+
+If I have purchased a number through the voice solution and then deactivate, can I keep that number?
+
+- You own those numbers when you get them so if you want to port them out before you cancel, you can. We will release them after 60 days.
+
+If I have VoIP and deactivate, do I have to go through the whole process again if I decide to use the VoIP solution again?
+
+- Yes, you will have to go through the entire process again if we have released your numbers. You will still have your phone numbers linked to your account if you reactivate within 60 days of deactivating.
+
+---
+
+International Use
+
+Are there any limitations or issues if I am in Puerto Rico?
+
+- At this time, we can’t support the purchase and maintenance of numbers for our Puerto Rico Pros at this time, but we are looking into ways we can in the future.
+
+Are there any limitations or issues for international Pros?
+
+- If you are outside of Canada and the U.S., you cannot use our Voice solution meaning you will not be able to purchase international numbers. This also means that if calls come in from international numbers that those will not work. The same applies for outgoing calls.
+
+Any limitations or call outs for Canadian Pros?
+
+- No, there are no limitations. Our Canadian Pros will be able to use our Voice solution and get phone numbers with Canadian area codes.
+
+Why am I not seeing my Canadian area code?
+
+We do offer Canadian phone numbers. If you do not see your particular area code, then we do not have any available phone numbers right now.
+
+I want to port my Canadian number. What does that look like?
+
+- The only thing to highlight is that the time to port is going to be longer, closer to 4-6 weeks. We suggest you start the process with your current carrier to ensure things go smoothly.
+
+I have an office admin that is international, will they be able to use our VoIP solution?
+
+- Our Voice solutions should still work. They won’t be able to purchase international numbers but they should be able to use our VoIP solution.
+
+---
+
+Need help scaling your business with systems and automation?
+
+Check out Business Coaching by Housecall Pro to learn how certified coaches can teach you the Business Coaching playbook to drive your business growth.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1417646014/63ea1846cf75651f8e00b60d0684/Business+Coaching+by+Housecall+Pro+%28Article+Footer%29.jpg?expires=1763568000&signature=bc6cebdc52357257832c042279e1cd36ed92819a2cdad380090f40662ae94240&req=dSQmEc96m4FeXfMW1HO4zaYFx6%2BX6PMlXi3%2BIek8xVC8sffYMVhBX%2B%2BeWYhJ%0A%2BNNtJn6C7D7U9IK0Ufo%3D%0A
+
+If you don't yet have the feature, you can visit our Voice Landing Page to learn more and sign up!
+
+If you have Voice and are not finding your answer in our Voice Help Collection, don't hesitate to reach out to us in the blue chat bubble within the web app!
+
+---

@@ -1,0 +1,277 @@
+Campaigns: Overview and FAQ
+Source: https://help.housecallpro.com/en/articles/7974676-campaigns-overview-and-faq
+Author: Nate H
+Last updated: Updated over 2 weeks ago
+
+Summary: Discover how to use Housecall Pro’s Campaigns for SMS and email marketing, find answers to common questions, and upgrade for more features.
+
+---
+
+Getting Started with Housecall Pro’s Campaigns
+
+Welcome to Housecall Pro’s Campaigns! This guide will walk you through setting up and using our new SMS and email marketing features. You'll learn how to create impactful campaigns, explore answers to common questions, and understand how to upgrade your plan for enhanced capabilities. Let’s dive into how you can effectively connect with your customers and make the most out of your marketing efforts.
+
+Housecall Pro's Campaigns live in our new Marketing Center, which you can find on the Marketing tab of your web app. This powerful tool will help you reach out to your customers with personalized communications that are quick and easy to launch. With Campaigns, you'll have access to:
+
+- One-time SMS campaigns
+- One-time email campaigns
+- Campaign flows
+
+Our campaigns are great for sending out special offers, announcing new services, or just keeping your brand top of mind for your customers. Please take the quick product tour to get acquainted with all the features.
+
+[Image] https://downloads.intercomcdn.com/i/o/997661087/0f16a61390b76df1250b30fc/060123+HCP+Marketing+Center+Campaigns+700x350px+Option+1.jpg?expires=1763568000&signature=1160de6a02beb30eda8052733d500c8352f65042c3dc3c117b81333363e708aa&req=fSkgEM9%2FnYlYFb4f3HP0gPoZYb22Tq3bhQaMV5rsNUhSufOu2CEgYSHxdLVr%0A09D4GRsjDNcKnmkfhw%3D%3D%0A
+
+[Button] Launch Product Tour -> https://pro.housecallpro.com/app/product_tour/cbpwz0x6yokl?source=intercom
+
+---
+
+---
+
+How the Marketing Center Works
+
+Understanding the ins and outs of the Marketing Center is crucial for maximizing its features and capabilities. This guide covers essential aspects such as governing forces and regulation awareness, message limits, queued messages, email status definitions, and US standard messaging hours.
+
+---
+
+Governing Forces and Regulatory Compliance for Marketing Center Campaigns
+
+Marketing communications are governed by a variety of regulations designed to protect consumer privacy and ensure ethical marketing practices. Key regulations include:
+
+- CAN-SPAM Act (US): This act sets rules for marketing communications and gives recipients the right to decide which marketing messages can be sent to them.
+- Telephone Consumer Protection Act (TCPA) (US): TCPA regulates telemarketing calls, auto-dialed calls, pre-recorded calls, text messages, and unsolicited faxes.
+- Canadian Anti-Spam Legislation (CASL) (Canada): CASL covers all electronic messages, including emails and texts, requiring explicit permission to send marketing communications.
+
+Additionally, Internet Service Providers (ISPs) such as Google and Yahoo enforce specific rules and regulations to manage the flow of email traffic and reduce spam. These organizations issue and monitor email or sender reputation scores, which are similar to a credit score for your email dispatches. This score then impacts whether your emails will make it to your customers' inboxes or be filtered into spam folders.
+
+---
+
+Campaign Center Message Limits
+
+Each account has limits on how many messages you can send daily or monthly, depending on your subscription plan. These limits help prevent spam and keep the system running smoothly, ensuring your marketing campaigns reach their intended audience effectively. By knowing these limits, you can better organize your marketing efforts and keep everything running smoothly.
+
+- Basic: 150 SMS messages, 500 emails
+- Essentials: 350 SMS messages, 1,500 emails
+- Max: 1,000 SMS messages, 5,000 emails
+- Max+: 5,000 SMS messages, 15,000 emails
+
+To check your remaining monthly message allowances:
+
+- Click the Marketing tab in the top navigation bar of your Housecall Pro account.
+
+- Select Plan usage from the left menu.
+
+- You'll then be redirected to your Billing settings, and the Campaigns plan usage window will appear on your screen.
+
+- On this page, you'll find an overview section that includes details like Package, Plan, Plan Cost, Next Billing Date, and Days Left in Cycle. - For SMS, you can view Unused SMS, Remaining SMS, Overage SMS, and Overage Cost. 
+- For Emails, you’ll see Used Emails, Remaining Emails, Overage Emails, and Overage Cost.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1647239595/2626117ec1072ab8eb47a2128b77/image.png?expires=1763568000&signature=bfaa3b90fec32dfd5f6fd44fc7a802af8b8d9bc2fa7e83fef048613c1ad920f8&req=dSYjEct9lIRWXPMW1HO4zdDQwrdWPFwl5hl3RR%2F0iyZYVWIMC9SJCTPXmgb9%0A732kqhvuoOsdLAqXtWk%3D%0A
+
+---
+
+Queued Messages in the Marketing Center
+
+Messages that cannot be sent immediately are placed in a queue. Reasons for queuing include:
+
+- Volume caps: Exceeding the number of messages allowed in a given period.
+
+- Delays in your campaign flows: Messaging is sent out incrementally, so some messages will be delayed in sending.
+
+- Messaging Hours: Marketing communications can only be sent out during US Standard messaging hours between 8am-9pm (local time).
+
+Queued messages will be sent automatically once the reason for the delay is resolved, ensuring that your marketing communications are delivered in a timely manner.
+
+---
+
+Status Definitions in the Marketing Center
+
+When you send an email through the Marketing Center, it can be labeled with various statuses that indicate its current state:
+
+- Sending: The email is en route to the receiving server.
+- Sent: The email has successfully left the marketing system.
+- Delivered: The email has reached the recipient’s server.
+- Undelivered: The email could not be delivered to the recipient’s address.
+- Not Processed: The message has not been received by the server.
+- Deferred: The receiving server temporarily rejected the message.
+
+Tracking these statuses allows you to measure the effectiveness of your campaigns and make necessary adjustments.
+
+---
+
+US Standard Messaging Hours for the Marketing Center
+
+Under TCPA, there are specific hours during which promotional messages may be sent to ensure they do not intrude on the recipient’s privacy:
+
+- Allowed hours: 8 AM to 9 PM (recipient’s local time).
+
+Any messages sent outside of these hours will be queued until 8am (local time) and then automatically sent out to customers.
+
+---
+
+Summary of Marketing Center Capabilities
+
+Navigating through the Marketing Center effectively requires a good understanding of various operational and legal aspects. By staying informed about the governing laws and regulations, understanding the technical limitations like message limits and queued messages, and adhering to standard messaging hours, you can utilize the Marketing Center to its fullest potential while maintaining compliance and achieving optimal engagement.
+
+---
+
+Utilizing Metrics to Understand & Optimize Campaigns
+
+Understanding and leveraging key performance metrics is essential for assessing the effectiveness of your marketing campaigns and making informed decisions for future strategies. In this section, we will explore how to utilize metrics such as Delivery Rate, Open Rate, Conversion Rate, Revenue Generated, and Revenue per Customer in Housecall Pro’s Marketing Center. By analyzing these metrics, you can learn from current campaigns and adapt your approaches to enhance future marketing efforts.
+
+---
+
+Key Metrics Explained
+
+Delivery Rate
+
+- Definition: The percentage of emails or SMS messages that are successfully delivered to the recipients' inboxes, not including those that bounced or were blocked.
+
+- How to Use: A low delivery rate could indicate issues with your email list quality or sending reputation. Improving list hygiene and sender reputation can help increase this rate.
+
+Open Rate
+
+- Definition: The percentage of recipients who open your email or SMS message. This metric is crucial for gauging initial recipient interest.
+
+- How to Use: To improve open rates, experiment with different subject lines, send times, and personalize your content to make it more relevant to the recipient.
+
+Conversion Rate
+
+- Definition: The percentage of recipients who completed a desired action (like booking a service) after opening an email or SMS.
+
+- How to Use: Enhance your calls to action, ensure message clarity, and provide compelling incentives to boost conversions.
+
+Revenue Generated
+
+- Definition: The total revenue earned from a specific campaign.
+
+- How to Use: Analyze which campaigns are generating the most revenue and identify the elements that contribute to their success to replicate in future campaigns.
+
+Revenue per Customer
+
+- Definition: The average revenue generated from each customer who engaged with your campaign.
+
+- How to Use: Use this metric to understand the value of customer engagement and refine targeting to focus on segments that yield higher revenue per customer.
+
+Applying Metrics to Enhance Campaign Effectiveness
+
+- Data-Driven Insights: Regularly review all campaign metrics to gather insights into what works and what doesn’t. This data can help refine your marketing strategy and improve overall campaign performance.
+
+- Segmentation and Personalization: Use insights from these metrics to refine your targeted customer lists and tailor messages that resonate with different audiences.
+
+- Testing and Optimization: Once you have a basic understanding of your metrics, test different aspects of your campaigns, including content, customer conditions, and timing, to continually refine and optimize your approach.
+
+- Long-Term Strategy Adjustments: Beyond individual campaigns, analyze trends over time in these metrics to inform broader strategic decisions about product offerings, market positioning, and customer relationship management.
+
+---
+
+Conclusion
+
+Effectively utilizing metrics allows you to not only measure the success of your marketing campaigns but also provides actionable insights to continually enhance your marketing strategies. By closely monitoring these metrics in the Marketing Center, you can optimize your campaigns for better engagement, higher conversions, and increased revenue.
+
+---
+
+---
+
+Campaigns FAQs
+
+---
+
+How do I access this feature?
+
+- You can find it in the Marketing tab in your top main navigation of Housecall Pro.
+
+---
+
+How many messages can I send?
+
+The number of messages you can send depends on your plan type.
+
+- Campaigns Included features: Essentials, Max, and Max+ Pros can send up to 500 emails per day and per month, which you can view in your Usage tab. No messages will be sent once you hit your monthly allowance.
+
+- Campaigns Advanced features: You can send up to 500 emails and 500 SMS messages per day and as many messages per month as are included in your plan, which you can view in your Usage tab. Any messages over your monthly allowance will incur a small overage fee.
+
+---
+
+How can I upgrade my Campaigns Plan?
+
+Upgrading to a paid Campaigns plan is quick and easy. First, you must sign in to your Housecall Pro account. You can:
+
+- Use this link to upgrade your plan
+- Chat into the blue bubble to request an account upgrade.
+
+---
+
+Why should I upgrade to the paid Campaigns account?
+
+Our SMS and email plans are designed to grow with your business. You can only upgrade your account to match your Housecall Pro plan. For example, if you are a Housecall Pro Essentials Pro, you can only sign up for the Essentials Campaign plan. You can upgrade your Housecall Pro SaaS plan at any time.
+
+Basic Plan
+
+- 150 SMS messages and 500 emails for $9/month
+- Great for small businesses or startups looking to keep in touch without overspending.
+
+Essentials Plan
+
+- 350 SMS messages and 1,500 emails for $19/month
+- Ideal for growing businesses that need to engage with customers more frequently.
+
+Max Plan
+
+- 1,000 SMS messages and 5,000 emails for $49/month
+- Best for established businesses with a larger customer base.
+
+Max+ Plan
+
+- 5,000 SMS messages and 15,000 emails for $89/month
+- Designed for large businesses that need high-volume messaging to stay connected with many customers.
+
+---
+
+Why is it important to email or text my customers?
+
+Your customers are used to receiving email and SMS marketing messages as a way to stay in contact with their technicians. Communicating regularly to your customers will allow you to:
+
+- Stay Top-of-Mind: Regular emails and texts keep your business fresh in your customers' minds, encouraging repeat business and fostering loyalty.
+
+- Build Stronger Relationships: Personalized messages show customers you care, helping to build trust and long-term relationships.
+
+- Boost Engagement: Engaging content via email and SMS drives customer interaction, leading to higher conversion rates and more sales opportunities.
+
+---
+
+How do I add customers to an SMS message?
+
+First, you'll need to make sure the customer is added to your Housecall Pro account with a mobile number. Once that is done, you can click SMS CONSENT and check any customers you want to add as an option to message. You'll need to make sure you have consent to send marketing SMS messages to these customers before you add them. Learn more about SMS marketing consent here.
+
+---
+
+How can I set up a one-time email campaign, SMS one-time campaign, or campaign flows?
+
+To set up a one-time email campaign or SMS one-time campaign, or to create campaign flows, follow these general steps:
+
+- Log in to your Housecall Pro account and navigate to the Marketing Center.
+- Select Campaigns from the menu to start creating a new campaign.
+- Choose the type of campaign you want to set up: Email, SMS, or Campaign Flow.
+- Follow the prompts to define your campaign details, such as the audience, content, and scheduling.
+
+For detailed instructions and best practices on setting up these campaigns, including step-by-step guides and tips, please refer to our comprehensive guide on creating campaigns.
+
+---
+
+If a customer opted in to marketing messages and now wants to opt out, how can they do that?
+
+In order for them to opt out, the customer has to text STOP to that number to opt out of marketing communications. We will enable you to do that on your customer's behalf in the future.
+
+---
+
+How can I provide feedback?
+
+Click on the "Give Us Feedback" button on the bottom left of the Marketing Center.
+
+---
+
+How can I get help if I encounter any issues?
+
+If you need assistance, chat with Support using the Blue Chat Bubble in your Housecall Pro account, or give us a call at (858) 842-5746. We're here to help you make the most of this new feature.
+
+---

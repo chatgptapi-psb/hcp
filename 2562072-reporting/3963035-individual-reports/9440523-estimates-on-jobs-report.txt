@@ -1,0 +1,78 @@
+Estimates on Jobs Report
+Source: https://help.housecallpro.com/en/articles/9440523-estimates-on-jobs-report
+Author: James N
+Last updated: Updated over a month ago
+
+Summary: Understanding and customizing your estimates on jobs report
+
+Estimates on Jobs Report Overview
+
+The Estimates on Jobs report helps you measure how well you and your team convert diagnostic jobs into won opportunities.
+
+This new report provides visibility into how often you and your team are creating estimates on diagnostic jobs, and of these how many are won.
+
+---
+
+Enable Jobs on Estimates
+
+To access the Estimates on Jobs report, you need to enable the Estimates on Jobs setting:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Jobs from the Settings menu on the left.
+
+- Click the General tab on the Jobs settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1636473698/39d3445ece339659471a90b9ad24/image.png?expires=1763568000&signature=8942458be2418f6d8474e223ebc7c104f05fcff25644ee0a595d3975e77ae947&req=dSYkEM15nodWUfMW1HO4zT%2F4u7ZJYAaX8z%2BviwLGNV5O0d7V3m%2F3HSpyQate%0A9fRxT9amXRFDm1Dg7BM%3D%0A
+
+- Click the toggle to turn the setting on
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1766652404/4e94a8ad98f4ed6752057347594a/image.png?expires=1763568000&signature=e847889e8e7c7b182328c56c4ad7f2e931ad637359c6417cfde39e8e30cf0ec9&req=dSchEM97n4VfXfMW1HO4zceNKTB24MLH8TW1Kasascq6UKtEBZLXYmqfKUlJ%0AXiO%2B%2B3T92i7%2Bp7%2Buel4%3D%0A
+
+---
+
+Access the Estimates on Jobs Report
+
+To view your report:
+
+- Go to the Reporting tab located in the top navigation bar of your HCP account.
+
+- In the Reporting menu to the left, select Jobs listed below "All reports".
+
+- From here, select the Estimates on jobs report in the Employee category.
+
+[Image] https://downloads.intercomcdn.com/i/o/1075080406/405b31be65a29646d3ddb633/Screenshot+2024-06-07+at+11_43_51%E2%80%AFAM.png?expires=1763568000&signature=f5c24ff82cf2370b3af48ad11390ba50b0111c9136cec345cbdc96909e4d2188&req=dSAgE8l2nYVfX%2FMW1HO4zZgZznFitVU75%2FvBwSBniVClihFjTPfNG3J%2Bbp8v%0Aprd6KmisF9FQw8rlC4Q%3D%0A
+
+---
+
+Understanding the Report
+
+Default metrics in the report:
+
+- Job count: this is the total count of jobs that were completed during the time period. In the default report, it only includes jobs with the Job type = Diagnostic.
+
+- Estimates created on jobs: count of estimates that you create on the jobs. Only includes the estimates created on the jobs within the report. Does not include standalone estimates created, or estimates that were previously copied to the job but not created on it.
+
+- Won jobs: counts any jobs that have a won estimate that was created on them. If multiple estimates (or options) are won on a single job, only counts the won job once.
+
+- Won Value: the total won value for the estimates created on the jobs. If multiple options or estimates are won on the job, all of the won options/estimates are summed in this metric.
+
+- Conversion rate: won jobs divided by job count.
+
+Default report settings:
+
+- Date range: your report is set to show you completed jobs over the last 45 days.
+
+- Filter for Diagnostic job types: the report is set to only show jobs with the job type set to Diagnostic. This filter can be removed.
+
+- By employee: the report shows data by employees assigned to the job. You can update this to any other grouping using the group by settings on the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/1075176000/461aae0a8b61104fdca1a545/image.png?expires=1763568000&signature=ac75c4345287e8b6979238ffb245bccd8e60046cb42717f344aba9ed37608771&req=dSAgE8h5m4FfWfMW1HO4zWiIq2DQXZxTAmaMIsPdetED5bCUSVEVdi7iT5vE%0Ag9%2FhwDdAjJSEihvVafo%3D%0A
+
+---
+
+Customizing the Report
+
+Any of the default reporting settings can be changed, and the report can be saved and added to reporting dashboards.
+
+---

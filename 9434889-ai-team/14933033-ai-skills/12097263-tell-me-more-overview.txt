@@ -1,0 +1,28 @@
+Tell me more Overview
+Source: https://help.housecallpro.com/en/articles/12097263-tell-me-more-overview
+Author: Anna E
+Last updated: Updated over 2 months ago
+
+What is Tell me more?
+
+“Tell me more” is an AI Skill that quickly summarizes information using context from the page that it is on. Just tap the “Tell me more” button, and an AI Team Member will generate a clear, concise summary located on the right-hand side chat.
+
+Right now, “Tell me more” is powered by CSR AI, providing instant customer context on the profile page. But this is just the beginning. Soon, the entire AI Team will expand its capabilities—bringing rich, real-time summaries to more pages across Housecall Pro, so you can get the context you need wherever you are.
+
+---
+
+Customers
+
+"Tell Me More," powered by CSR AI, is your built-in assistant for instant customer insight. With a single tap on the customer profile, CSR AI surfaces the most important details like upcoming jobs, outstanding balances, service history, and suggested next steps, giving you clear, conversation-ready context in seconds. Stay informed, act faster, and support your customers with confidence.
+
+Learn more →
+
+---
+
+Business Insights
+
+Business Insights in Housecall Pro helps you set and measure your progress towards your revenue and job count goals. On this page, you can compare your performance against industry benchmarks, receive personalized recommendations from Coach AI, and opt in for weekly email updates to stay on track. This tool makes it easy to understand where your business stands today and what steps to take to grow.
+
+Learn more →
+
+---

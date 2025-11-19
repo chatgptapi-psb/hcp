@@ -1,0 +1,105 @@
+Checklists Overview
+Source: https://help.housecallpro.com/en/articles/9528709-checklists-overview
+Author: Bricelyn J
+Last updated: Updated over 3 months ago
+
+Summary: Use custom checklists to ensure the right steps are followed on every job.
+
+Checklist Improvements Overview
+
+You may not be at every job with your employees, but you can ensure every job goes as well as it would if you were there by leveraging custom checklists.
+
+Be sure to take advantage of the newest improvements to checklists, including:
+
+- Adding notes to each checklist item
+
+- Marking certain items required rather than the entire checklist
+
+- Adding sections
+
+- Downloading/printing to PDF
+
+- Uploading photos (Advanced functionality)
+
+- Using single and multi-select fields (Advanced functionality)
+
+---
+
+Creating and Editing Checklist Templates
+
+To create and update checklist templates on the HCP web portal, follow these steps.
+
+- Navigate to Settings > Checklists.
+
+- Depending on your industry, you may already have some default templates in your account that you can customize further by clicking the pencil icon.
+
+- Otherwise, click + Checklist to create a new checklist.
+
+- You can also duplicate an existing checklist by clicking the More icon to the right of the checklist and selecting Duplicate from the drop-down.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643837632/f267dbb919f93c1a6b9b161b7889/image.png?expires=1763568000&signature=5816f9c35982eb50b125a3c73ac7c5ab295857f1d8589e0ef9b01408ecc73d2d&req=dSYjFcF9modcW%2FMW1HO4zUd6nY913GDfz9dIJIogpd%2FR3ZEtL1xK%2Fr4%2BQVdX%0AVdxcRYJl1EIZLKuHmfA%3D%0A
+
+- Add a name for the checklist (this is the name you and your employees will see when adding and viewing checklists to jobs and estimates).
+
+- Add sections to organize different checklist items.
+
+- Choose from the following checklist item types: - Checkbox
+- Text field
+- Pass/flag/fail
+- Photo upload (Advanced functionality)
+- Single-select (Advanced functionality)
+- Multi-select (Advanced functionality)
+
+- Mark any checklist items as required if you'd like them to be completed before the estimate or job can be finished.
+
+- You can enable the setting to auto-add checklists to jobs and estimates, which will automatically add the checklist to any new job or estimate you create.
+
+- You can also create job templates to which checklists can be added to facilitate auto-adding checklists to different types of jobs.
+
+[Image] https://downloads.intercomcdn.com/i/o/1110896756/65aecf2819e80713b6a8a844/date.gif?expires=1763568000&signature=3fd2936ac436f21b6c0e095991cd1c72d6212f0b49b3e89ff6a0c6a96448761b&req=dSEmFsF3m4ZaX%2FMW1HO4zbFESJQHgugvfXxApOh196Er5TaZPa1RuaT5T3Gu%0A9YynYUDhUt2XIBF0v2c%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1643840887/8fb7a13c992cfc71c101822c3cda/image.png?expires=1763568000&signature=c7efe36ab8590b1a53b8d925cbd98b03371c9a7e20c6b9feb2881cc9b0f469a9&req=dSYjFcF6nYlXXvMW1HO4zZKz%2BGlcsEL0YDbhXIP1ZsqEf6i6yczLn2V165ZR%0A8HJu%2BgpBejy4Hx4JsKE%3D%0A
+
+To delete a checklist:
+
+- Click the More icon to the right of the checklist and select Delete from the drop-down.
+
+- This will only prevent the checklist from being used moving forward, it will not delete it from any jobs or estimates it's been previously applied to.
+
+---
+
+Using and Completing Checklists on Jobs and Estimates
+
+Checklists can be added to jobs and estimates, as well as removed from the web or mobile apps within the checklist card. If they're set up to be auto-added, they'll show up within the checklist section of the job after the job is created and saved.
+
+- Once added, the checklist can be viewed and updated by Admins, Office Staff, and Field Techs assigned to the job or estimate.
+
+- Within each section, users can check items off, add text, select field values, and upload photos. Be sure to save your changes before closing the checklist.
+
+- Checklists with required items (as indicated by a red asterisk *) must be completed before the job or estimate can be marked as finished.
+
+- Comments can be added to any checklist item for additional context.
+
+- Photos uploaded to a checklist will be stored and viewed on the checklist; they will not appear in the attachments section on jobs or estimates.
+
+[Image] https://downloads.intercomcdn.com/i/o/1110911400/e152324d5b4d065c345c0ca5/job.gif?expires=1763568000&signature=231d2a9d5193abf7c0c2216bfcaa8b6b94b3280b42be7800e5eb54167d4f2518&req=dSEmFsB%2FnIVfWfMW1HO4zYiEb3vkCg7IqRM1F%2FPAAxvg8KZCkr3GOcHCcTh2%0ATv%2BjewuODXBbunCAl6Q%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/1128384677/b34a6a7796faa80bc32d0a73/IMB_gr0wPj.gif?expires=1763568000&signature=10be725bcfac5a317245d179d64b158c6b471090fc4ab6343454966e6ece9f32&req=dSElHsp2mYdYXvMW1HO4zaGuekPlZ1O8wwHWWECGsrIVwAvDMSYE%2F9h1EkPF%0A0j4%2B4m1ylYsF3QVjYaI%3D%0A
+
+---
+
+Printing, Downloading, and Sharing Checklists
+
+- To print or download a checklist, select the print or download buttons from the checklist screen.
+
+[Image] https://downloads.intercomcdn.com/i/o/1110912168/4d07c5b867a5124d8e695d6c/print.gif?expires=1763568000&signature=2070c4610f50807059c059df8e2c61b5f7d68b7d5e0468086aa529f7e8cc9b23&req=dSEmFsB%2Fn4BZUfMW1HO4zdH2d0JsO%2FdK%2F8LE7Jq%2BSW1BArC4o%2FrJ5LsnQfsQ%0ANTHpn3e6gmlwlImgdPY%3D%0A
+
+- Checklists can also be shared directly from a mobile device.
+
+[Image] https://downloads.intercomcdn.com/i/o/1128349971/a1fad1605258eeeb47eb5228/Screenshot+2024-07-29+at+12_23_38%E2%80%AFPM.jpeg?expires=1763568000&signature=94146bfff62c796a812c155f4cbc41c87e97cc78e9a513646f3827214f44ca3a&req=dSElHsp6lIhYWPMW1HO4zeDqBNCOXRqKUm3T5DSgtrxr4XD7l%2Fblc5TL%2BrMv%0ACBIKl1GI%2BiFT7KS%2Bup0%3D%0A
+
+- If you'd like to send the checklist with the invoice, select it as an attachment from the send invoice page. The checklist will be attached as a PDF to the invoice email.
+
+[Image] https://downloads.intercomcdn.com/i/o/1110914317/4af9118cdf091751b67785f5/invoice.gif?expires=1763568000&signature=d9b4e7778e9c50360e5e29bb17c637aba4199d879c95d20c901efa6e6f68348e&req=dSEmFsB%2FmYJeXvMW1HO4zXWNhniD6N2UL8RqWT%2FbGjQ8sl3H4qkYdzNTGhOH%0Am6%2BO1%2Fxf899%2B6y6iecE%3D%0A
+
+---

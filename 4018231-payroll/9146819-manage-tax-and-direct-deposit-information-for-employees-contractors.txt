@@ -1,0 +1,126 @@
+Manage Tax and Direct Deposit Information for Employees & Contractors
+Source: https://help.housecallpro.com/en/articles/9146819-manage-tax-and-direct-deposit-information-for-employees-contractors
+Author: Leshlie C
+Last updated: Updated over 5 months ago
+
+Add/Edit Tax Information for Employees & Contractors
+
+To update your employees' tax information, you can either send them a link that allows them to make the changes or update it on your end if you are a Payroll Admin and have all the necessary tax information to be updated.
+
+To send a link for your employee to update their tax information:
+
+- Click the Payroll tab in the navigation bar at the top of your Housecall Pro account. - Depending on the size of your browser window, you may need to click More, then select Payroll from the drop-down.
+
+- Next, select Employees & contractors from the menu on the left.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1577369864/2e663873531c8ec689fb0b8929a6/AD_4nXffrnZ8KJwvvseYm3cu9kCWcQnzz3KW5MVEfie3YqmVmrcHM2Si2AopjWKQfZYSyA2c-GsHvIPQAg27eu3Pa9V9YYk-cLuMRymiijXCRfUGPmFTLoNlaojZY-utx7KaYfbe6vy2Qw?expires=1763568000&signature=0df23c910b4d18402acbabf09a8344bd75edcee1748a05f05e0408b23b7c0e1a&req=dSUgEcp4lIlZXfMW1HO4zenSBoh16mbFex3%2FvRXRS2f2Lkq3oWbdjpO921nP%0A66cT4RhlXUeCApx33RE%3D%0A
+
+- Navigate to the desired employee/contractor and click Details on the far right.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1577369867/175fcfc83efdf2fde341dfa8bd51/AD_4nXeIlFU16k9O7F1nbxLJ9Gr-TU5aou7aVHaEst3W0q-9LQhwU4gLO6mSsqygx3NeyY3Us17VRUYphSV4Y-bGT8Z4IDdvMert2veFfZ97TspJ_BwK042xDDbQG1gCg5VIUd9KZg-s9g?expires=1763568000&signature=f3bb38641c7558f18331319edf9623c9efa22eaac51bc87dc698aa8f0f9b090c&req=dSUgEcp4lIlZXvMW1HO4zW2yJIMB9tRnpB%2FvmXG51Jjpw2ZMektHkqMfB8B8%0Ad8d%2F2dPbsWZ7R1Vmq8A%3D%0A
+
+- Navigate to the Taxes tab, and go to the relevant area you want to update.
+
+- Click on Copy link on the upper left side of the areas you want to update. The link will automatically be copied to your clipboard. You can then paste this link into an email to send it to your employee or contractor.
+
+To update an employee's tax information as a Payroll Admin:
+
+- Click Update withholding or Manage deductions, and complete the update on behalf of the employee or contractor if they have provided you with the required information.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1577369871/92b5f11e02803409f1bdc95b76e3/AD_4nXes6rIu0I0LAk0j1Uc_UV1rR7NO0J3xrCIq-ikwPapXzoQVap9hmP2cyg50T99fH3D5Mm40hEz5KczqcNYryys6yzHx9-5UiflDFekZyus4lAsDrHXjdXBTdbosjbk9aMLsMGgpgA?expires=1763568000&signature=484e82b2bb1e4632ef52cf18bb013beae2ce6cbe61d98c5f0f7cf3218dc7f09b&req=dSUgEcp4lIlYWPMW1HO4zXQ9RoC%2BrwmIE95aC6NXFSd1Dfleusm%2Bvjo3hQJh%0ANHNIaU5oBF0nncIcimo%3D%0A
+
+---
+
+Set Up Post-Tax Deductions
+
+You can easily set up a Post-tax deduction in Payroll—all by yourself! Just follow these quick steps and you’ll have it done in no time.
+
+To set up Post-tax deductions:
+
+- Log in to your HCP account.
+
+- Navigate to the Payroll tab.
+
+- Select Employees & Contractors.
+
+- Navigate to the selected employee/contractor and click Details on the far right.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1577369865/48f5aa6c4df4e4357f8e39b21ce8/AD_4nXeGpi_8hgr9YCabzrTigFLVlfggyIRz5F6Z92BSIhVYM7ZjEDyRq97PjRrZlkqsgTS8PgQvyI2REgUubvmYz8vzyzY9Jcx50SZRLxLEfQrCUjeAMrj9jE6Rt54TDS98vXiQ6q9n?expires=1763568000&signature=411b9319e6be859c7b2ba02f9a98d00e651742da3cc452f0cf8780e06e596f3d&req=dSUgEcp4lIlZXPMW1HO4zZHCSs7Z66ax4gUjnwSoHnfgbj81SJxbUxJa1ynw%0AUk%2FjlSie92gKqPGsZCY%3D%0A
+
+- Select Taxes in the top right corner of the available tabs.
+
+- Under the Post-tax Deductions area, click on Manage deductions.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1577369868/07aa42ef8cdf94485d360781860c/AD_4nXcJOEnhHQuz9soVsDn0-ky7b-tiZUWI0fonKSSMEyu4UdXU3tduK3g1sDKratydzoGPkcySviV4j9lJLsBnCPP7IWl2SJDguYQNH0bWK3Arlpb92ZFlOE7jB4qZVHPpXdHjP2q6_g?expires=1763568000&signature=c2353163db941432d491d33452d295e991a1194dfd5773d6f8b4d6f7f01c3d2a&req=dSUgEcp4lIlZUfMW1HO4zaXm9zzk1i3JHWdG245EXTCMbxH9A%2F1tj7b7cE8x%0A4LLvw9QOqIu2PrtlpRg%3D%0A
+
+- Set up Miscellaneous deductions or Child Support deductions by filling out the applicable fields and selecting Finished.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1577369866/7a598f129886d7bf6f5f13a1d231/AD_4nXc-m3SdjtH_-o_rAeq6zL9jInCg9DSMnvu4eHJk2NnSKKv85w0HNPTDh_yXkHb2Sw-pDgek4GxZzJatN-E2uaqHjbm8_uRr6kOZptLwJhg8P6ZSWZzJEAmVmimIZYDTGGNrBUyF4w?expires=1763568000&signature=b8ebf9be021469871ce79e0f14e6b699f53077c7d7343bbb2cc4f8bc746d332b&req=dSUgEcp4lIlZX%2FMW1HO4zfksTCmOn2mrw3dvoyj6P2aW%2BuS6cXUgHz%2BDKYSz%0AU6aJKnEE5m5oACgtxVs%3D%0A
+
+- For Miscellaneous deductions: - Use the Amount field for the amount you want deducted each pay period. 
+- Use the Total amount field for the total amount you want deducted overall. The deduction will stop once the Total amount field number is satisfied. 
+- Leave the Total amount field blank if the deduction should go on indefinitely.
+
+- We can only remit payment on your behalf for child support garnishments, and we can only remit the payment if the Managed (payment remitted by Check) box is checked in the child support setup screen. All other garnishment-type payments are the responsibility of the employer to remit to the garnishing agency.
+
+---
+
+Complete Missing State Tax IDs for Payroll
+
+To stay compliant with state payroll tax laws, it's essential to provide all required state tax IDs during your payroll setup. If any are missing, don’t worry—you can resolve this in just a few steps.
+
+Step 1: Review Your Missing Tax IDs
+
+- Log in to your Housecall Pro account.
+
+- Go to Payroll > Overview.
+
+- Look for the yellow banner at the top of the page.
+
+- This section lists the states with missing tax IDs that need your attention.
+
+Step 2: Apply for State Tax IDs
+
+For each listed state, you’ll typically need to apply for:
+
+- State Withholding Tax ID – used to remit employee income tax.
+
+- State Unemployment Insurance (SUI) Account Number – used for unemployment contributions.
+
+We can send you an email with guidance on how to apply for each state's IDs, just give us a chat via Blue Chat Bubble or send us an email at payrollsupport@housecallpro.com. 
+​
+
+Step 3: Submit Your Tax IDs
+
+Once you've obtained your tax IDs:
+
+- Enter them directly through the yellow banner in your Payroll Overview,
+​ OR
+
+- Send them to us via the Blue Chat Bubble, and we’ll help you enter them securely.
+
+---
+
+Add/Edit Direct Deposit Information for Employees & Contractors
+
+To update your employees' direct deposit information, you can either send them a link that allows them to make the changes or update it on your end if you are a Payroll Admin and have all the necessary information for the update.
+
+To update or send a link for your employee to update their payment method:
+
+- Click the Payroll tab in the navigation bar at the top of your Housecall Pro account. - Depending on the size of your browser window, you may need to click More, then select Payroll from the drop-down.
+
+- Next, select Employees & contractors from the menu on the left.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1265520455/cb085e7472b0b703e0ff95974d2d/Payroll7.png?expires=1763568000&signature=6093dd0e80a43b930b69f71b95e2e1a5a7a0faead69bb9177359eafed78238d2&req=dSIhE8x8nYVaXPMW1HO4zW6Q8u2McVC%2B62qei%2BvGwsLzK7TjgcjP1WHCyJNC%0AHyWxQYavgZUmPKLfXOA%3D%0A
+
+- Navigate to the desired employee/contractor and click Details on the far right.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1265521335/a38b70d1bcdac870208fdb86ae36/Payroll8.png?expires=1763568000&signature=ba7222cf0717cc4fa2056dac6175841aea54ea4f4d326c54d97e1a329d542030&req=dSIhE8x8nIJcXPMW1HO4zUhEp6UMey88nIp6x0iykLXWEHTLE7ORPbxJ5sru%0AIvcFN57Iy9JsOOmiLBk%3D%0A
+
+- Navigate to the Pay tab, and go to the Payment method area.
+
+- You can click Copy link on the upper left side of the Payment method area. The link will automatically be copied to your clipboard. You can then paste this link into an email to send it to your employee or contractor.
+
+- Payroll Admins can also click the Update payment method button below and complete the update on behalf of the employee or contractor if they have provided you with the required information.
+
+---

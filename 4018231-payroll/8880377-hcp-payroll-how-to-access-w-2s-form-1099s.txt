@@ -1,0 +1,28 @@
+HCP Payroll: How to Access W-2s & Form 1099s
+Source: https://help.housecallpro.com/en/articles/8880377-hcp-payroll-how-to-access-w-2s-form-1099s
+Author: Amparo D
+Last updated: Updated over 6 months ago
+
+Access, Download, and Share W-2s & 1099 Forms
+
+Instead of manually handing out forms, Housecall Pro lets you quickly generate and share a link that allows your team members to download their forms directly. Follow the steps below to send your employee or contractor their W-2 or 1099 and ensure they have the documents they need for tax season.
+
+To access W-2s & 1099 forms in Housecall Pro:
+
+- Click the 'Payroll' tab in the navigation bar at the top of your screen.
+
+- Select 'Employees & Contractors' from the menu on the left.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1276839402/486a160f30663afee7a697fa8ba8/Payroll23.png?expires=1763568000&signature=c1bb5fad46bbe9da205ffd366adb5770569d598281718c484b9bc23734e54939&req=dSIgEMF9lIVfW%2FMW1HO4zUz9Hk7QdeLjZ5%2BZM5zbIGxcVIM%2FYbxDfpHPwJcg%0AJQ5YRda%2BfYerdYfjarc%3D%0A
+
+- Navigate to the desired employee/contractor and click 'Details' on the far right.
+
+- Go to the 'Taxes' tab and go to the 'Tax documents' area. - You can click 'Copy link' on the upper left side. The link will automatically be copied to your clipboard. You can then paste this link into an email to send it to your employee or contractor
+
+- Select 'View tax Documents' from the lower part of the 'Tax documents' area.
+
+- You can also use this link to access and download a copy of your employee's or contractor's W-2 or 1099, which can then be emailed to them.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1515133762/57b67ee69724ad6508f5ea1b2bb1/AD_4nXco9kPNPVbWVB9bkOGXbBwIV1XQKCJidOkWefqdOpYWjPXk6VJoIFkPlpWyDoO7NYgZXb092pU9Jy3oLWeBKGpIK6W4zM1_LSY9spgWIWCANCl02l_ky3nshg9yUllhSgGslGhD?expires=1763568000&signature=0cebb26cc1531101252379b503c982f850fea25ffb9e4e06e5ac527bb103d9aa&req=dSUmE8h9noZZW%2FMW1HO4zf99EGMx335cF%2FJrjgSHDYL3kVuBG%2BN7CyIJ%2BiqN%0Aji5uwG8itTSl4d7hMwI%3D%0A
+
+---

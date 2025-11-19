@@ -1,0 +1,58 @@
+Understanding A2P 10DLC: A Comprehensive Guide
+Source: https://help.housecallpro.com/en/articles/8250319-understanding-a2p-10dlc-a-comprehensive-guide
+Author: Nate H
+Last updated: Updated over 4 months ago
+
+Introduction to A2P 10DLC
+
+Application-to-Person (A2P) 10DLC (10 Digit Long Code) is a framework designed to enhance the messaging ecosystem by providing a streamlined and reliable way for businesses to send Application-to-Person messages using 10-digit long phone numbers. This framework improves the communication experience for both businesses and end-users, ensuring better message delivery, improved trust, and reduced spam.
+
+---
+
+What is A2P Messaging?
+
+Application-to-Person (A2P) messaging refers to the practice of businesses and applications sending messages to individual users. This can include appointment reminders, verification codes, marketing promotions, and more. A2P messaging is commonly used for notifications that require a one-way communication flow from businesses to users.
+
+---
+
+A2P 10DLC Overview
+
+- 10DLC Numbers: These are regular 10-digit long phone numbers that businesses can use for A2P messaging. Unlike short codes, which are typically shorter numbers used for mass messaging, 10DLC numbers offer a more familiar and trusted sender ID.
+
+- Campaign Registration: To use A2P 10DLC, businesses are required to register their messaging campaigns with their telecom service provider. This involves providing information about the content, purpose, and volume of messages you intend to send. This registration helps prevent spam and maintains the integrity of the messaging ecosystem.
+
+- Trust Scores: A2P 10DLC assigns trust scores to businesses based on their messaging behavior. Businesses with higher trust scores are more likely to have their messages delivered successfully. Trust scores are influenced by factors such as message content, user engagement, complaint rates, and adherence to guidelines.
+
+- Message Types: A2P 10DLC supports various message types, including transactional messages (order confirmations, shipping updates), promotional messages (discount offers, product announcements), and critical alerts (account security notifications, emergency alerts).
+
+- Opt-in and Opt-out: Businesses using A2P 10DLC must ensure that users have opted in to receive messages. Additionally, clear opt-out mechanisms must be provided to allow users to unsubscribe easily. Don't worry though, we automatically handle opt-out on your behalf.
+
+---
+
+Benefits of A2P 10DLC
+
+- Improved Deliverability: A2P 10DLC offers better message delivery rates compared to traditional A2P messaging methods, as it is designed to reduce spam and ensure legitimate use.
+
+- Enhanced User Experience: Messages from 10DLC numbers are often more trusted by users compared to short codes, resulting in improved engagement and positive user experiences.
+
+- Reduced Spam: By requiring businesses to register their campaigns and maintain high trust scores, A2P 10DLC significantly reduces the likelihood of spam messages reaching users.
+
+- Flexibility: A2P 10DLC accommodates various message types and industries, making it suitable for a wide range of business communication needs.
+
+- Compliance: Adhering to A2P 10DLC guidelines ensures compliance with industry regulations, fostering a more secure and lawful messaging environment.
+
+---
+
+How We Assist You
+
+At Housecall Pro, we understand the importance of efficient communication. We've got you covered by managing the A2P 10DLC registration process and campaign approvals on your behalf. Here's how we handle it:
+
+- Registration Process: Our team automatically handles the A2P 10DLC registration process to ensure compliance with carrier regulations. We'll assist you in submitting the necessary information, including your business details and use case information.
+
+- Brand Approval: We work closely with Twilio to get your brand approved. This involves demonstrating that your business is legitimate and that you have the right to use the phone number for commercial communication. Once approved, you can send messages to your customers with confidence. At times this may involve providing legal documentation.
+
+- Campaign Approval: Every communication type you send needs to be approved to maintain high deliverability rates. The majority of messages are considered transactional, such as the "On My Way!" text message. We automatically create a campaign on your behalf and make sure it complies with carrier guidelines. This way, your messages will reach your customers effectively.
+
+For more information related to A2P 10DLC, please visit our vendor, Twilio.
+
+---

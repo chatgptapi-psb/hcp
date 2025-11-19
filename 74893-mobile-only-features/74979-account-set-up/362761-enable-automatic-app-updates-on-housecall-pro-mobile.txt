@@ -1,0 +1,35 @@
+Enable Automatic App Updates on Housecall Pro Mobile
+Source: https://help.housecallpro.com/en/articles/362761-enable-automatic-app-updates-on-housecall-pro-mobile
+Author: Ian H
+Last updated: Updated over a month ago
+
+Summary: Enable automatic updates to ensure your phone is operating the latest version of the Housecall Pro mobile app
+
+Housecall Pro is constantly improving. To ensure you're using the latest version we
+
+recommend enabling automatic app updates on your mobile device. If you want to manually update your app to the latest version, here is how to do so on iOS and Android
+
+App Updates for Android
+
+- In the Google Play Store app, click on your profile icon in the top right
+- Click Manage apps & devices
+- Click Manage, and find Housecall Pro in your list of apps
+- Click the three dots at the top right and check the Enable auto update box
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/790535510/a35449bb89846e81c3c20c00/Android+auto+update+1.png?expires=1763568000&signature=1e709e373271d21a4b3109450d5295b835ca7651e182b394ad59325f635c8721&req=cyknE8p7mIBfFb4f3HP0gKH8M3Vfz%2Fg8PmnCgXA%2BYIUcUIII2VkP%2FD4FdzxZ%0AwAc%3D%0A | [Image] https://downloads.intercomcdn.com/i/o/790535579/d445a040e51ebbb9ac205da6/Android+auto+updates+2.png?expires=1763568000&signature=c8c4c1a553a00efc301173a9f5026b5a0af21182f6d5e2849c6f7c825d91f370&req=cyknE8p7mIZWFb4f3HP0gE6I7qM8Oi3w10pxKL7E1MyZhHvN8NIsTOUMB3Hr%0Aub0%3D%0A | [Image] https://downloads.intercomcdn.com/i/o/790536113/ea27ca513b068c75859cf028/Android+auto+updates+3.png?expires=1763568000&signature=3f31aac6ea3eda8d600d79dbd39f3b3c7c5edb738be0fafd2e768e48724ced10&req=cyknE8p4nIBcFb4f3HP0gImpu%2BTcEKhB6r4XFyTNDE79b%2B28sdFQW%2FxbCkZs%0AgbE%3D%0A | [Image] https://downloads.intercomcdn.com/i/o/790536162/15410b05ef95a94b056e64e8/Android+auto+app+update+4.png?expires=1763568000&signature=45e94f46fab6cb3343be30e9de0436d08a9168ae4c75414264538b0c8569540d&req=cyknE8p4nIddFb4f3HP0gNP0NwPg3LEcMHWndfXujPfGpJUseS2nZ2SrlMv8%0ArgE%3D%0A
+
+App Updates for iOS
+
+- Tap the Settings app from the home screen of your phone
+- Click on App Store
+- Under Automatic Downloads, find App Updates
+- Swipe the toggle switch to the right so that it turns green (If it’s already green, then automatic updates are already enabled)
+- If you'd like to update without being connected to WiFi and use your cellular data, toggle on 'Use Cellular Data' - Note: Using cellular data will apply to your monthly data usage
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/790543714/20b89a4880646e4b8f9519ff/ios+auto+update+1.png?expires=1763568000&signature=ed21042c88130fa535a0ca2bfa1aea89214d6b3b3326272883d9947fffe5a0c5&req=cyknE819moBbFb4f3HP0gCyMlogtuwNGOPECZfLTEozawmHVBy0xclC9I%2Fvs%0AJC8%3D%0A | [Image] https://downloads.intercomcdn.com/i/o/790545647/ce3d20b9b17f0c99222e7947/ios+auto+update+2.png?expires=1763568000&signature=459a5d4da7a54e8bbd12ea467dc146e514199a8b5458a2c5849a30e8fac93676&req=cyknE817m4VYFb4f3HP0gGuMxfTMoOWoFutoWNIXq1hHUDoxzfL4o2L7OhhG%0AKPA%3D%0A | [Image] https://downloads.intercomcdn.com/i/o/790544016/e3cfbee85214c92340c588ea/ios+auto+update+3.png?expires=1763568000&signature=2e023057a9df2cb4d0351bbc254dd1b4eef67066e0cb26c4d0c26836a973255a&req=cyknE816nYBZFb4f3HP0gFEb39u6qwasiwOHqcf6xBwnI%2FzQFbQEjEYHuU%2BO%0AafM%3D%0A
+
+---
+
+---

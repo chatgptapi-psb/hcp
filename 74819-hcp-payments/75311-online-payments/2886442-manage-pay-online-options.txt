@@ -1,0 +1,92 @@
+Manage Pay Online Options
+Source: https://help.housecallpro.com/en/articles/2886442-manage-pay-online-options
+Author: Nate H
+Last updated: Updated over a month ago
+
+Summary: Learn how to set up and adjust your online payment & tipping options.
+
+Manage Your Online Payment Options
+
+If you just set your bank account up with Housecall Pro for payments, or if you need to update the payment options you currently offer on your invoices, then this article is for you! With your online payment options enabled, your customers will have the option to quickly and conveniently pay their balance online through email or text.
+
+You can easily enable or disable your default payment and tipping options from the HCP Web Portal, and if you need to adjust the payment options for specific invoices, you can easily do so from both the HCP Web Portal and the HCP Mobile App. Review this article to learn how!
+
+---
+
+Default Payment Options for All Invoices
+
+Setting up your default payment options ensures that the payment options you'd like to offer to your customers are enabled on every future invoice, so they can make payments on their invoices online through email or text.
+
+Follow the steps in the following sections to learn how to set up your default payment and tipping options.
+
+---
+
+Enable ACH and Credit Card Payment Options (Web)
+
+To enable ACH and Credit Card payment options for your invoices:
+
+- Click the gear icon in the top right corner of your HCP account to go to Settings.
+
+- Select Invoices from the Settings menu on the left
+
+- Click the Configuration tab on the Invoices settings page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1641737622/40f1c77661599b3bf38caf16546d/image.png?expires=1763568000&signature=2b81f204d819b779df777ad0b9f86cd15c8362e1a81658336966e185bd211b60&req=dSYjF859moddW%2FMW1HO4zWjvJzeDKz0T%2FHiHlVhh4gcntZT2aJY7Wfa8eT5u%0ARSam86nhTNsY1nvK2cs%3D%0A
+
+- From here, you can enable or disable the following default Payment options: - Accept credit card payment
+ - When this setting is enabled, customers have the option to pay online with their credit card.
+- Accept ACH
+ - When this setting is enabled, customers have the option to pay online from their bank account.
+- Customer can save card on file
+ - After the customer clicks the Pay button on their invoice, their card will be charged and saved, so you can charge this card on future jobs. 
+ - Leave this option unchecked if you do not want customers to have the option to save their card on file.
+
+- Check the box next to each option you would like to enable or disable, and you're all set! Your payment options will be available on all future invoices sent to your customers.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1641741530/d93caf27a1f5577af198819f4caf/image.png?expires=1763568000&signature=24ebab76dcf0c6ac14a9dc86e93eb32da9b56c965926f1ad080c45ef966886f4&req=dSYjF856nIRcWfMW1HO4zdYi8Z%2FanHy9HkQIa%2FKcWwbgrZZI0gPo6MMYSV9X%0AfBhiL9vfhbBTgIkCrDw%3D%0A
+
+---
+
+---
+
+Payment Options for Individual Invoices
+
+Adjusting payment options on individual invoices is a breeze! You can easily do so when sending an invoice from the HCP Web Portal or the HCP Mobile App. Follow the steps in the following sections to learn more!
+
+---
+
+Adjust ACH and Credit Card Payment Options for Specific Invoices (Web)
+
+To adjust the payment options for a specific invoice from the HCP Web Portal:
+
+- Click on Customers in the HCP navigation bar at the top of your screen and select Jobs from the menu on the left.
+
+- Next, select a job to navigate to the Job Details page.
+
+- Click on the Send Invoice icon at the top of the page.
+
+- From here, you'll be able to enable or disable the following payment options for that specific invoice: - Accept ACH
+- Accept credit card
+- Customer can save card on file
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1218713185/b5b0fa31c660c1366284811b4d9e/InvoiceGif1.gif?expires=1763568000&signature=83eb3d6163bf0b203687499fbfb4d8d00588ecad4eb5b05e24ae3cc1dcaf5d0a&req=dSImHs5%2FnoBXXPMW1HO4zWnDeU6VeSx4MNY0mf%2Btd6CdGcDHwatrNvFfwUsv%0AUVcjuaFgesCC4tnuV3w%3D%0A
+
+---
+
+Adjust ACH and Credit Card Payment Options for Specific Invoices (Mobile)
+
+To adjust the payment options for a specific invoice from the HCP Mobile App:
+
+- Navigate to the Job Details page by selecting a job.
+
+- Tap the Invoice (paper plane) icon at the top of your screen.
+
+- On the Invoice Details page, tap the dollar sign (💲) icon in the top right corner of your screen. This will bring you to your Settings page for that specific invoice.
+
+- From here, you can tap the toggles to enable or disable the options to accept ACH and credit card payments, and to allow the customer to save their card on file.
+
+- Tap Done in the top right corner of your screen once your payment options have been selected.
+
+[Image] https://downloads.intercomcdn.com/i/o/1191826215/ca964715443060da2323ca3e/IMB_UGX1ls.gif?expires=1763568000&signature=ce2bd68c0fe926bfcf320e7069ab60b7fff549a8bdbc2c3d09ac3351cce88642&req=dSEuF8F8m4NeXPMW1HO4zdapeuEbiZr%2FMlqVqe6omQfzSXj4OnwdVG64wWXb%0AARcWF6bO1qAohgXCPtc%3D%0A
+
+---

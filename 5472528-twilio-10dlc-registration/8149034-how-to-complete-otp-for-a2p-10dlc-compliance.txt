@@ -1,0 +1,50 @@
+How to Complete OTP for A2P 10DLC Compliance
+Source: https://help.housecallpro.com/en/articles/8149034-how-to-complete-otp-for-a2p-10dlc-compliance
+Author: Taylor L
+Last updated: Updated over a month ago
+
+Summary: OTP outstanding
+
+Your business must complete a one-time password (OTP) text message to keep full functionality of sending SMS messages through Housecall Pro.
+
+What is A2P 10DLC?
+
+- A2P 10DLC refers to a system in the United States that allows businesses to send Application-to-Person (A2P) type messaging via standard 10-digit long code (10DLC) phone numbers. All companies in the United States that utilize application-to-person messaging (A2P) are required to go through a registration process that verifies their legitimacy. You can read more about A2P 10DLC here.
+
+Why am I seeing this?
+
+- You submitted a mobile number but have not replied "YES" to the SMS message to fully complete registration. To fully complete verification, reply "YES" to the text message we'll send to the number you provide.
+
+How do I resolve this issue?
+
+- Completing the OTP is simple. All you have to do is log in to Housecall Pro and follow the instructions to resend yourself the one-time password, then reply to the text message that you are sent. Please be mindful that you must reply "YES" to the SMS text to fully complete the process.
+
+Please complete verification via one of the following:
+
+- Select Resend text on the banner within your dashboard - Reply YES to the text message from (915)278-2000
+
+---
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1536733819/e1f296780558c348f8ada8336b5f/AD_4nXexeOMk35fVU1RM3oV4bG6ScAGL6_7s8z0WTzBV22s3U3x51ISH6g9jrEZs1Es8CqGrZY-3u5dH94HjKIhaziPCwy8PrDEyVuSE0KxLZl_D5rLzlRkpmJ6bxeQbwcQnDAerTT6k?expires=1763568000&signature=fb9411a9bc59a036863eaf00303df5af96968949ae780d66cdec323cc1658d06&req=dSUkEM59noleUPMW1HO4zUmPNcGdyKNmAlw3RJBDbpo0vbeB271DBWSzOQHn%0Au8387ZX2k9duv0zadw8%3D%0A
+
+---
+
+What if I entered a landline number by mistake?
+
+- If you entered a landline by mistake, select Change number on the banner and enter a mobile number to receive the OTP.
+
+What if I entered the wrong mobile number?
+
+- If you entered the wrong number by mistake, select Change number on the banner and enter a different mobile number to receive the OTP.
+
+I submitted the correct mobile number, but I’m still not seeing the message.
+
+- If you believe the phone number entered was correct, but you are not receiving the text message, please make sure you are checking the correct device. The text message will be coming from this number: +19152782000.
+
+I am replying “yes” to the text message, and it is still not working.
+
+- Please double-check to be sure that you’re receiving a message from +1(915)-278-2000 and that this message was sent within 24 hours. The text will time out after 24 hours, and you’ll need to request a new one via the banner.
+
+- Please make sure you do not have any SMS signatures enabled on your messaging app, and be sure the message you send only contains the word YES and no other text.
+
+---

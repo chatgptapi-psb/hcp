@@ -1,0 +1,195 @@
+Navigating Your Dashboard Reports
+Source: https://help.housecallpro.com/en/articles/4671115-navigating-your-dashboard-reports
+Author: Taylor M
+Last updated: Updated over 10 months ago
+
+Export a Jobs/Estimates Dashboard Report
+
+Learn how to export your jobs or estimates report from your Dashboard to a CSV file.
+
+- Step 1: Click on the eye icon in the top right of your Jobs or Estimates Dashboard report.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355340528/7a4f7b5a83ad71ffe11966b56c56/image.png?expires=1763568000&signature=233601f51028b36f1a304b7b09526df7114a2ce425afeb6baa1d78236ecc4db8&req=dSMiE8p6nYRdUfMW1HO4zaE0DaqUP3yJqqwt2644Il5CpANzTfIeza0bFraL%0AFmn49pFosmSwMIcR9FQ%3D%0A
+
+- Step 2: Once you have filtered your report and set the appropriate date range, click the Excel icon at the top of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355340527/efc08e5c38c0f85d8cb57e731cf5/image.png?expires=1763568000&signature=4639087c7504c9333b2b13ccdd3bedae5dde08a595b0744aa1cc675e5578af36&req=dSMiE8p6nYRdXvMW1HO4zVQTvTexsopWx%2BxH75zcqnj3kQ%2FqseknHagPkjF%2F%0AJeyhDJdP0J93bK1FG%2FI%3D%0A
+
+- Step 3: Select DOWNLOAD CSV or SEND BY EMAIL. - Based on your selection, the report will either start downloading or will be emailed to the listed email address.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355340526/ae17997970c97abca265e03347b9/image.png?expires=1763568000&signature=8318eb24d226abd0376b2bdedbdc6e16095ecd57a9e4e7b4ae2d96db11d3ba3b&req=dSMiE8p6nYRdX%2FMW1HO4zaTKuPA1qY8GB0jgk2ZP7U%2B1FtC%2BmnkPqQ39TUhw%0A%2FXB6VxZ%2FkdATp%2BAHg4E%3D%0A
+
+[Button] Click Here to Export Your Jobs Report -> https://pro.housecallpro.com/pro/jobs?utm_source=intercom&utm_medium=internal-video&utm_campaign=help-center&mc=Content&msc=help-center-export-dashboard-report
+
+---
+
+Video Tutorial: Export a Jobs/Estimates Dashboard Report
+
+[Video - wistia] https://fast.wistia.net/embed/iframe/svunofq1c7
+
+---
+
+---
+
+Reorder Your Dashboard
+
+To move a report on the Dashboard:
+
+- Select the 'Dash' tab in the navigation bar at the top of your HCP account.
+
+- Scroll down to the bottom of the Dashboard.
+
+- Click the "Reorder dashboard reports" toggle in the bottom left corner of the page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355348688/797d7c30bb9703e04a94e81ec10f/image.png?expires=1763568000&signature=088f6fd3395fdf9b40dda92112591af57648e892124bfedff5dae000c9575b98&req=dSMiE8p6lYdXUfMW1HO4zdZfYhwQkgGstyonKaOwVXMP0g%2FKJeovbQJm9BFD%0A4q2FCbEp9oYB%2F9iLp8w%3D%0A
+
+- Click and drag your Dashboard reports as needed.
+
+- Click the toggle again to save your changes, and that's it!
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355348699/cbb4f0701ea59ab2bb4adb3b4936/ezgif-4bcd079d12e80.gif?expires=1763568000&signature=44b0ff53b5a768ccce6ef467cc2eed91df77282b1f631aa2b12769b6c435fdf9&req=dSMiE8p6lYdWUPMW1HO4za0tcYm7rAU%2Fe21MGGabsAjrTs50Ys2f6FDzUZnx%0AOB5ay58TKDzDLtbWlLQ%3D%0A
+
+---
+
+---
+
+How to Use Filters on Dashboard Reports
+
+- In the light blue bar at the top of the report, you can select the date range that the report will show as well as the columns that will appear.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355455362/a076e4bffd2fb448138788dc4af6/dashboard.jpg?expires=1763568000&signature=9f1bf8736a9cbd04830528dd97f361aa2de3f957d788fe106fa8679faac1dff9&req=dSMiE817mIJZW%2FMW1HO4zdCudgm2uz%2FxiFZbH6L9aVS8z%2Ftljd0LF055XtJX%0AuQkQeYmXIsQwIGkWuHs%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355455361/f347af4b49d8fe48ca31043c26ea/HouseCall.png?expires=1763568000&signature=ba3b78027c68caf65d9a7a9b6126819e393ce6d59804b534e3271e805f4e63b8&req=dSMiE817mIJZWPMW1HO4zTyVx2zn0GMDXUV6Qj6irK2%2BkN%2BUtRXYB8w4gYg%2F%0ARkv4wtBqs4TrLJfprZk%3D%0A
+
+- Once the correct date and table columns have been selected, you can filter each of the columns by clicking the blue funnel icon in the top right of the column header. If the funnel is red, it means that a filter is already set on that column.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355455359/05cb3f7e51e4816ae64a1d7ed122/HouseCall.png?expires=1763568000&signature=0bacae9222957731761db1af2dcd3dac06a1e59a6907ffb3098180a4c524b11a&req=dSMiE817mIJaUPMW1HO4zdzclPgs82wM0o1GA3oC%2Fe7GqztiI5FITXDMZBsN%0AC%2Bt2zhMO2ZOmUuXesyY%3D%0A
+
+- Once you have clicked the funnel and entered the information you'd like to filter by, click the filter button and the report will filter to show the new report boundaries.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355455358/3502b9d2f68052ad7889c817862c/HouseCall.png?expires=1763568000&signature=d2c1195f7e291c139fe968afca19bdf5e78c133e5f2a9faa2d5ed82f3dcc2c7d&req=dSMiE817mIJaUfMW1HO4zWT%2BQ5d%2FJjAMHcDfGNY3IwTjZBm9X6cNLZ51rNCt%0A7n4GjlFZnO2HOvHG4Qw%3D%0A
+
+Remember, that you can set multiple filters at once by repeating this process on other columns to create whichever reports you need!
+
+---
+
+How to Filter a Jobs Report by Tips on the Dashboard
+
+To filter a Jobs report by tips on the Dashboard:
+
+- Go to your Dashboard by clicking the 'Dash' tab in the navigation bar of your HCP account.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1350737274/c9c1344b4db0c4babb845ae8327d/Screenshot%2B2023-08-31%2Bat%2B11_39_05%2BAM.png?expires=1763568000&signature=e5e393029105e1a95183137e3078e22b4bc7aa72f1fd80ac09dee93441b4772b&req=dSMiFs59moNYXfMW1HO4zYADBiWMcSK%2Bll%2BXF9v43i8aKEEBEQwN4F1xBci1%0AuTQCzr%2BQR8YKzfzQ%2Fz8%3D%0A
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1350737269/0181dda80cec6060689f88643c3e/Screen-2BShot-2B2017-05-04-2Bat-2B4_39_03-2BPM.png?expires=1763568000&signature=88b6e4613ce0697d0379a4cd9bd61b58d1a8bf78f1a502e407e374adb0d4acec&req=dSMiFs59moNZUPMW1HO4zcjaCMrqHxyuLFkANC6Ed1Qr2QWANB9%2F%2BXlSYbkk%0AME0dsCWzS4mPXliFjxo%3D%0A
+
+- Locate your Jobs report card and click the eye icon in the top right corner.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1350737270/fde245113d58c5889e5c0fc04448/Screenshot%2B2025-01-24%2Bat%2B1_24_06-E2-80-AFPM.png?expires=1763568000&signature=c793a377d7a3bea07c8ab4101a55c84b3aeba75dbf96c819a24d2b6a3ccc940b&req=dSMiFs59moNYWfMW1HO4zT4WWDm%2BJmR2xl%2Fwj2q%2BX1UkrbJAdpwh86S0Z1Yy%0AeWZF28wR29WTgIaVuHs%3D%0A
+
+- Click the 'Table columns' drop-down at the top of the page and check the box next to 'tip amount.'
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1350737277/a74fe28d1483c672038d119ca6eb/HouseCall.png?expires=1763568000&signature=27cf364d49cd9faf1fcd845451f1acdda9be3f6661778dcbdf7753bfc2b84389&req=dSMiFs59moNYXvMW1HO4zVOirrBrmpXPGdQjx7jcqWbg7jP74Es7%2Bir0xw0F%0AAJ303FFX8H%2BF9CdzWe4%3D%0A
+
+- Click the drop-downs to filter as needed.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1350737271/5ca0baff0e92e733f82c870ad2fd/HouseCall.png?expires=1763568000&signature=1f8df39f0cd8e3af717e7fcb89db4267b175b733a9d3eabda360b141c32f0d31&req=dSMiFs59moNYWPMW1HO4zaN0%2B9bE9G2bzzEUkYkKQHgT298q07UBfo7bxyKP%0AmSMtE1tIvRYl3Xr0Dg8%3D%0A
+
+- To see all tips, filter by 'Greater than or equal to' and set it to "1."
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1350737273/5a4f8a0e21b6beac8d288acc628d/Banners_and_Alerts.png?expires=1763568000&signature=a9e94fa18f4ec037f497e0f68560d4f3a52526e269cc4137400c1ee40eae1b18&req=dSMiFs59moNYWvMW1HO4zWqZWMkuJc5vnZo6GRPDNyxhbJEs5vOy%2Fj%2FNVByE%0A2Dtbq%2FSNEcYsaTcMs1U%3D%0A
+
+- After choosing the range, click 'Filter,' and you're all set!
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1350737275/5f52ef6c4d12b359faca2a5df106/HouseCall.png?expires=1763568000&signature=e87b037a4e1e0d979da15f92eaa028f4612166e6a5faeaf1c3d2b0dc63eb2cc9&req=dSMiFs59moNYXPMW1HO4zU%2BW8tuBl5mAsZ8c8kLq2f9UZLAdu5ErDi9dDWkI%0ARmwhKmpHoOPL3x6C%2Bz8%3D%0A
+
+---
+
+How to Filter by Unpaid Invoices on the Dashboard
+
+To filter for all unpaid Invoices:
+
+- Make sure you are in your Invoices dashboard. (Click on the right-most panel from your dashboard view).
+
+- Find the DUE column header, and select the funnel icon to the right of it. This will allow you to filter by the amount due.
+
+- Choose the option "Greater than or equal to" from the first drop-down.
+
+- Click the empty box below it and enter the number 1. - Drop-downs will need to be on "Greater Than Or Equal To" and both empty boxes need to have a 1 in them.
+
+- Click the blue FILTER button. This will now be a list of all invoices for which you are owed money.
+
+- You can further filter down by a date range, or any other attribute on the job.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1350739023/f917aca9a498e2d5a5ff39c43d08/File1482270254324?expires=1763568000&signature=bb8d99c883aa77dbd3f257809b21f5987ab80b2081681f458f12a85492bb046e&req=dSMiFs59lIFdWvMW1HO4zeRnE%2FaHtiwtlAMF%2B%2BMSrqBU1%2B6PvQK9zlOUCTe3%0AayIcLaXlAyDZxWv6wqQ%3D%0A
+
+---
+
+---
+
+How to Search Dashboard Reports by Invoice Number
+
+Find any invoice or estimate that you're looking for using the estimate/invoice number associated with it. The process is the same for invoices and estimates, in their respective reports.
+
+- Open your main dashboard page.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355358980/8288e3d9591811c6452788ed71d9/Image%2B4-27-23%2Bat%2B11_09%2BAM.jpeg?expires=1763568000&signature=e8fce7e1d048950e279624fd68eab3b362f27171aa5dc680726c426b3a31f852&req=dSMiE8p7lYhXWfMW1HO4zcxjeSJuKa5Y%2FIZ8hyIfwkcuqqIA5Zkl04AGZEAa%0ADrVhgne78HBCOcjNis0%3D%0A
+
+- On your dashboard, find the 'Jobs' report and click the 'View & configure report' icon (eye) in the right corner of the box.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355358976/1c7ecbf4757c53a4049803f62116/Image%2B4-27-23%2Bat%2B11_47%2BAM.jpeg?expires=1763568000&signature=650fb6ef9116ae7e473ec57ee6d1364973039f4a2b41b67e44a1d1ba74d2624b&req=dSMiE8p7lYhYX%2FMW1HO4zYmhbcN1JVf3cQhzmfgKM6ChFe%2B6PF%2Bjals%2F6aHp%0AF8SzgIpJ8JdAhFzGQZc%3D%0A
+
+- In your report, make sure 'Invoices' is selected in Table Columns.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355358978/389ad43059c067f2108d2aaf924a/Image%2B4-27-23%2Bat%2B1_28%2BPM.jpeg?expires=1763568000&signature=e72c3d4ecc0da30c8373d9d187e5ec7ea59486a03c0a94d3ae3ce26095c10904&req=dSMiE8p7lYhYUfMW1HO4zewMPcmC3d5Oo2EiNRe5qvQelmLCjW8a0yGogCVa%0AybTfLT7x425xvYr0BgA%3D%0A
+
+- Click the 'Filter' icon (funnel).
+
+- Type the number of the job or estimate.
+
+- Click 'Filter' to search.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355358981/9f97e2b8b677292fb9a72be4b482/Image%2B4-27-23%2Bat%2B2_02%2BPM.jpeg?expires=1763568000&signature=d454968ddb84bc3ace134910aa725c60e7631ca11e96a1b564fe5f207f33a564&req=dSMiE8p7lYhXWPMW1HO4zRkFwi8dMXMQ3mbIK69GL2N80oGOJLyBu6NkxjUk%0AYXCguq8%2BSR7UM95kg5M%3D%0A
+
+---
+
+---
+
+Legacy Dashboard Report Error: “Oops! Your report request is taking too long to process”
+
+Learn why your dashboard report may be timing out and how to correct it
+
+You may encounter the below errors when using your legacy dashboard. This article covers how to troubleshoot and get your report to run.
+
+Table:
+Row 1: Error Example - Dashboard: | Error Example - Report Drill-Down:
+Row 2: [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1313446883/ff197f9fa17bc6468ec7c1d7856a/94rQVICKpbms-ctlZE6Vb0YOO0z3NazSt9W3PVBg9bIuNFB2COjfS0D_og0pHMG7J2AFj13stX9ijiWPln1mRB1WZxTbuBAt36RkJPVGRkCW0l7SbKUtKtSh1ihKnVf3TJXgFxLXGL0Gi7gviKT6OWI?expires=1763568000&signature=28ee58898dbbc1d7952723118a1fb26fc33e78cfd62c6307db378695a8d84ef1&req=dSMmFc16m4lXWvMW1HO4zY%2Fh%2BEQt7zqZqb2z%2F5lgwYXxw9JNwPDG2u7wzDMD%0AK0OE%0A | [Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1313448165/e57024cee0ea9cc0377be01b3670/D9ePgXsDj8NfCfGAENkozUenaYzsqPR0Y-Y3FTtohTwlmbv3co5Pwv4IXh3S-5cEtE1xwMnMAFjibxvoPfTpFNjfA_KcK3PqTwRj8rMt0O1FH2Lf2ucTweeuWG5v_Dx8WGMS8qbkjLu6eRpsbusLFmo?expires=1763568000&signature=b83e0dd1f57a4ef10689a4cc7f8b57479e134474e4094ee66cf60c9d1f57c6f1&req=dSMmFc16lYBZXPMW1HO4zTPb52m81akIoqWrhqpihidWsqXd8Zr32Kml0m2a%0AyRAK%0A
+
+---
+
+How to Resolve the Error
+
+- Step 1: Limit the Date Range of your Report - Longer date ranges can cause your report to run slowly and timeout generating this error. To fix this, select the date range on the top of the page and narrow it to only a few days.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355353244/15f79c985b69055c326e8cf486b7/qHUT4r-LBmW8B8cKwt-z2EADfy4wPn1W2jNrRr9QXebSe-YC8qH7iU0KinERhRwo0SNP-xSe-NKAsDS6jX9KKlE6t_04dyj1yozqbESmFLLQ5UwtPPTqCJUaRmRd2MJQG2AaRCDsQgmYsn9uqIEw_vE?expires=1763568000&signature=6e3dfbbfa3c427ab52fb54899281f12126f45729b8dbdb2ec947ec307f28d5f7&req=dSMiE8p7noNbXfMW1HO4zei3GhUHPvnlRgvHarD9LT86PiloneOokFfLC7ef%0AszRZsxYXHw8ibSIpfSQ%3D%0A
+
+- Step 2: Remove any Global Search Terms - The "global search" in the top right search bar of the report can cause your report to run slowly and time out.
+- If you are using a global search term, delete the text from the search bar.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355353245/a365f66c094bc2700cf2a6fc99e3/srycFGMHoi5s_pglwAC_TD5cWtCnuKYicSLrmnzg4deK5Xgq-04HriLbIh7zSDeySsoHt95ww04e3UoaL7sViWhrQmn-9qGEZatn376FQEbe_9j-h6pNpFnbkDagFBvzU3TIGObKjcx9DAMQhxzkxSQ?expires=1763568000&signature=90a1f694545c6f0e6e932a89123aab916d3a1202ff214f2ce3323ad2e2cde773&req=dSMiE8p7noNbXPMW1HO4zUztxXPUSk%2F62v3rRWv6wfi4%2BpAlK4gQ%2BcIchFUK%0Aue%2FuI18RDFVNTOleHbk%3D%0A
+
+- Step 3: Use One of the Columns to Apply the Search Term - Click on the filter icon next to the column name and type your search term there instead of using the global search.
+ - You can select any column in the report to search and/or filter.
+- Using this search functionality will help your report run faster and decrease the likelihood that it times out.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355353246/92359464708c62468be3bdf6fee0/cQezGhZ4-wHepy_GNqQWStFZ5sjKAd4zAN1qpwibOEgisAkHmv1E5mZKZqM0nEqI1-bzCS_EYAZXmX0-X2ZvNQINg4R9sao2TYUAyn7QXy9UoUYD-CkLID_dfYuUMGK9YaplioRrCJgFSLcG7peSdZk?expires=1763568000&signature=33a041d753083147d5e0cdbdb36f60c316388993e0bee7758b611a09bba39c5e&req=dSMiE8p7noNbX%2FMW1HO4zXmR%2BgDrB8ZsnaKTxC1HQKXdm56ao4%2BPeLjtI74B%0AkQ8BxqqCtWQvHDDoyDQ%3D%0A
+
+- Step 4: Apply Additional Filters to the Columns - Applying additional filters will help your report run faster and decrease the likelihood that it times out.
+- To apply a filter, click on the filter icon next to the column name and apply a new filter.
+
+[Image] https://downloads.intercomcdn.com/i/o/h6f82l2e/1355353247/156ad18ce6d7d70c40caeaa3dfa0/dxEeEq_lvwZKEgXH7wWeiEYFOua7ur4zc1hyQjJSOKiGlQRgS51EWrABv67jBjlNepsV_LcAdZSFWPkp8O-CUXALjveNtTwQQJMIsZs-ujrX5tbo2x1CnVQeo--SDvsCNYtoVzCkPUg9WE67UvbWP2I?expires=1763568000&signature=06e849211d1f6c93adff15cc3bb122d68d1effa34be11a5523a91fdd9edd2d7e&req=dSMiE8p7noNbXvMW1HO4zcRnwKt4WMrwn4Mq1ehu%2BmYLHt1im2lBjptvDDZw%0AcYrgW%2FXRzW2wtIcmjZ0%3D%0A
+
+- Step 5: Use the New Reporting Suite - The new reporting suite offers you the ability to analyze your business without the timeout constraints of the legacy dashboard.
+- Take a tour of what new reporting offers here.
+
+---

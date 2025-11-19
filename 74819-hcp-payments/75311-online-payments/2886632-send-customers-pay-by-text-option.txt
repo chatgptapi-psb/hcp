@@ -1,0 +1,43 @@
+Send Customers 'Pay by Text' Option
+Source: https://help.housecallpro.com/en/articles/2886632-send-customers-pay-by-text-option
+Author: Nate H
+Last updated: Updated over a year ago
+
+Summary: Give your customers the option to pay their invoice via text.
+
+How to Send Customers the 'Pay by Text' Option
+
+Once you've set up your bank account to take credit card payments through our processor and you've set up your Custom Texting Number, you can text customers their invoices with the option to pay online.
+
+To send the 'Pay by Text' option to your customers:
+
+- Navigate to the Job Details page linked to the invoice you need to send.
+
+- Click the 'Send Invoice' button in the Action Bar at the top of the page.
+
+- On the Invoice Details page, you can edit payment options and adjust other settings that impact what your customer will see on the invoice.
+
+- Click 'Next' in the top right corner of the page after adjusting the invoice settings.
+
+- Select the 'Text' option at the top of the window.
+
+- Finally, click 'Send' and your customer's invoice will be sent to them via text!
+
+[Image] https://downloads.intercomcdn.com/i/o/531299878/64e26eb8ffbeb546b53cbc39/job.gif?expires=1763568000&signature=d83164bf32c0ffe124a114cfbe23815e46eafb316b4b21f22a878846930830bc&req=cSMmFMB3lYZXFb4f3HP0gFfeGLtpXVPG9TZb%2FcVN%2BLfvaMyLbgSDvIoHbgIH%0AnW1KEaqbO844T03DTA%3D%3D%0A
+
+---
+
+Pay by Text (Customer's View)
+
+- After sending your customer their invoice via text, they will receive a text message with a link to their invoice.
+
+- Once your customer clicks the link, they'll be able to make a payment on their invoice.
+
+Table:
+Row 1: [Image] https://downloads.intercomcdn.com/i/o/114175126/533ce8093c0029e478a0fd57/Screen_Shot_2019-04-09_at_9_45_50_AM.png?expires=1763568000&signature=a336281be319b6d88b4692a8017f1329771ed9056f46e8a592650120b529f7a0&req=dSEjF857nINZFb4f3HP0gDcr3wavGWSG%2BgALQQrUGHnxIliW67E0qRHSBAs%2B%0ARDU%3D%0A | [Image] https://downloads.intercomcdn.com/i/o/114167681/1c23b8af027eababe95c202b/Large+GIF+%28402x712%29.gif?expires=1763568000&signature=74a780565ecfd6f45fba6156c1db9ca836497a0b99bbfe07a1281160bab17a04&req=dSEjF895m4leFb4f3HP0gE%2BUKpPHep%2ByCtQBomBx7%2BI406HEjQ87L%2F3yb2wE%0AtGc%3D%0A
+
+---
+
+​Battling unpaid invoices? Check out 7 ways to get paid fast!
+
+---
